@@ -1,6 +1,9 @@
 import os
 import re
 import json
+import hashlib
+from pathlib import Path
+
 import chromadb
 
 from google import genai
@@ -21,6 +24,7 @@ class RAGPipeline:
         chroma_dir: str = "chroma_db",
         collection_name: str = "nasdaq_docs",
         preferred_model: str = "gemini-2.5-flash",
+        raw_docs_dir: str = "data/raw_docs",
     ):
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
@@ -28,19 +32,23 @@ class RAGPipeline:
 
         self.genai_client = genai.Client(api_key=api_key)
         self.model_name = preferred_model
+        self.raw_docs_dir = Path(raw_docs_dir)
 
         self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
             model_name="all-MiniLM-L6-v2"
         )
+
+        self.resolver = CompanyResolver()
 
         self.client = chromadb.PersistentClient(path=chroma_dir)
         self.collection = self.client.get_or_create_collection(
             name=collection_name,
             embedding_function=self.embedding_function,
         )
+
+        self._initialize_collection_if_empty()
         self.collection_is_empty = self.collection.count() == 0
 
-        self.resolver = CompanyResolver()
         self.reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
         self.compare_patterns = [
@@ -66,6 +74,172 @@ class RAGPipeline:
             "news": {"yf_news"},
             "filings": {"sec_recent_filings", "sec_entity_profile", "sec_companyfacts"},
             "comparison": {"yf_financial_snapshot", "sec_companyfacts", "yf_company_profile"},
+        }
+
+    # =========================================================
+    # Init / ingest helpers
+    # =========================================================
+    def _initialize_collection_if_empty(self) -> None:
+        """
+        If the Chroma collection is empty, build it from ./data/raw_docs/*.txt
+        """
+        try:
+            if self.collection.count() > 0:
+                return
+        except Exception:
+            pass
+
+        if not self.raw_docs_dir.exists():
+            print(f"DEBUG raw docs directory not found: {self.raw_docs_dir}")
+            return
+
+        txt_files = sorted(self.raw_docs_dir.glob("*.txt"))
+        if not txt_files:
+            print(f"DEBUG no txt files found in {self.raw_docs_dir}")
+            return
+
+        print(f"DEBUG initializing Chroma from {len(txt_files)} raw docs...")
+
+        ids_batch = []
+        docs_batch = []
+        metas_batch = []
+        batch_size = 100
+
+        total_chunks = 0
+
+        for file_path in txt_files:
+            try:
+                text = file_path.read_text(encoding="utf-8", errors="ignore").strip()
+            except Exception as e:
+                print(f"DEBUG failed reading {file_path.name}: {e}")
+                continue
+
+            if not text:
+                continue
+
+            metadata = self._parse_metadata_from_filename(file_path)
+            chunks = self._chunk_text(text, chunk_size=1200, overlap=150)
+
+            for idx, chunk in enumerate(chunks):
+                doc_id = self._make_doc_id(file_path.name, idx, chunk)
+                chunk_meta = metadata.copy()
+                chunk_meta["chunk_index"] = idx
+
+                ids_batch.append(doc_id)
+                docs_batch.append(chunk)
+                metas_batch.append(chunk_meta)
+                total_chunks += 1
+
+                if len(ids_batch) >= batch_size:
+                    self.collection.add(
+                        ids=ids_batch,
+                        documents=docs_batch,
+                        metadatas=metas_batch,
+                    )
+                    ids_batch, docs_batch, metas_batch = [], [], []
+
+        if ids_batch:
+            self.collection.add(
+                ids=ids_batch,
+                documents=docs_batch,
+                metadatas=metas_batch,
+            )
+
+        print(f"DEBUG Chroma initialization complete. Total chunks added: {total_chunks}")
+
+    def _make_doc_id(self, file_name: str, chunk_index: int, chunk_text: str) -> str:
+        digest = hashlib.md5(chunk_text.encode("utf-8")).hexdigest()[:12]
+        stem = Path(file_name).stem
+        return f"{stem}_chunk_{chunk_index}_{digest}"
+
+    def _chunk_text(self, text: str, chunk_size: int = 1200, overlap: int = 150) -> list[str]:
+        """
+        Simple character-based chunking with overlap.
+        """
+        text = re.sub(r"\r\n?", "\n", text)
+        text = re.sub(r"\n{3,}", "\n\n", text).strip()
+
+        if len(text) <= chunk_size:
+            return [text]
+
+        chunks = []
+        start = 0
+        n = len(text)
+
+        while start < n:
+            end = min(start + chunk_size, n)
+
+            if end < n:
+                window = text[start:end]
+                split_candidates = [
+                    window.rfind("\n\n"),
+                    window.rfind("\n"),
+                    window.rfind(". "),
+                    window.rfind(" "),
+                ]
+                best_split = max(split_candidates)
+                if best_split > chunk_size * 0.5:
+                    end = start + best_split + 1
+
+            chunk = text[start:end].strip()
+            if chunk:
+                chunks.append(chunk)
+
+            if end >= n:
+                break
+
+            start = max(end - overlap, start + 1)
+
+        return chunks
+
+    def _parse_metadata_from_filename(self, file_path: Path) -> dict:
+        """
+        Parse filename like:
+        ZM_yf_company_profile_0_ZM_Yahoo_Finance_Company_Profile.txt
+        ZM_yf_news_2_ZM_Yahoo_News_1_.txt
+        ZM_sec_companyfacts_12_ZM_SEC_Company_Facts_Snapshot.txt
+        """
+        stem = file_path.stem
+        ticker = stem.split("_")[0].upper()
+
+        doc_type = "unknown"
+        source = "unknown"
+
+        patterns = [
+            ("_yf_company_profile_", "yf_company_profile", "yahoo_finance"),
+            ("_yf_financial_snapshot_", "yf_financial_snapshot", "yahoo_finance"),
+            ("_yf_news_", "yf_news", "yahoo_finance"),
+            ("_sec_companyfacts_", "sec_companyfacts", "sec"),
+            ("_sec_recent_filings_", "sec_recent_filings", "sec"),
+            ("_sec_entity_profile_", "sec_entity_profile", "sec"),
+        ]
+
+        remainder = stem
+        for marker, detected_doc_type, detected_source in patterns:
+            if marker in stem:
+                doc_type = detected_doc_type
+                source = detected_source
+                remainder = stem.split(marker, 1)[1]
+                break
+
+        # remove leading numeric index from remainder
+        remainder = re.sub(r"^\d+_", "", remainder)
+
+        title = remainder.replace("_", " ").strip()
+        title = re.sub(r"\s+", " ", title).strip(" _-")
+
+        company = ticker
+        ticker_map = getattr(self.resolver, "ticker_map", {})
+        if ticker in ticker_map and isinstance(ticker_map[ticker], dict):
+            company = ticker_map[ticker].get("company", ticker) or ticker
+
+        return {
+            "ticker": ticker,
+            "company": company,
+            "source": source,
+            "doc_type": doc_type,
+            "title": title or stem,
+            "file_name": file_path.name,
         }
 
     # =========================================================
