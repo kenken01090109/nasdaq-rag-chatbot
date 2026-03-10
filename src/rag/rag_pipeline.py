@@ -8,6 +8,7 @@ from chromadb.utils import embedding_functions
 from rank_bm25 import BM25Okapi
 from sentence_transformers import CrossEncoder
 from dotenv import load_dotenv
+from rapidfuzz import process, fuzz
 
 from src.resolver.company_resolver import CompanyResolver
 
@@ -33,15 +34,15 @@ class RAGPipeline:
         )
 
         self.client = chromadb.PersistentClient(path=chroma_dir)
-        self.collection = self.client.get_collection(
+        self.collection = self.client.get_or_create_collection(
             name=collection_name,
             embedding_function=self.embedding_function,
         )
+        self.collection_is_empty = self.collection.count() == 0
 
         self.resolver = CompanyResolver()
         self.reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
-        # 常見比較與問題詞
         self.compare_patterns = [
             r"\bcompare\b",
             r"\bcomparison\b",
@@ -58,7 +59,6 @@ class RAGPipeline:
             "of", "and", "or", "to", "in", "on", "with", "latest", "recent",
         }
 
-        # query intent -> preferred doc types
         self.intent_doc_type_map = {
             "business": {"yf_company_profile", "sec_entity_profile"},
             "products": {"yf_company_profile", "sec_entity_profile"},
@@ -76,21 +76,10 @@ class RAGPipeline:
         return any(re.search(p, q) for p in self.compare_patterns)
 
     def _find_companies_in_query(self, query: str, current_company: dict | None = None) -> list[dict]:
-        """
-        找出 query 內涉及的公司。
-
-        修正版重點：
-        1. comparison query 不可太早 return
-        2. resolve_many() 只要沒抓滿 2 家，就繼續往下掃 alias
-        3. 單公司 query 才允許找到 1 家就結束
-        """
         found = []
         seen = set()
         comparison_mode = self._is_comparison_query(query)
 
-        # -----------------------------
-        # 1) 優先用 resolve_many()
-        # -----------------------------
         if hasattr(self.resolver, "resolve_many"):
             try:
                 many = self.resolver.resolve_many(
@@ -103,20 +92,15 @@ class RAGPipeline:
                         seen.add(item["ticker"])
                         found.append(item)
 
-                # 單公司模式：找到 1 家就可以先結束
                 if not comparison_mode and len(found) >= 1:
                     return found[:1]
 
-                # 比較模式：只有找到 2 家才可以結束
                 if comparison_mode and len(found) >= 2:
                     return found[:2]
 
             except Exception:
                 pass
 
-        # -----------------------------
-        # 2) exact ticker scan
-        # -----------------------------
         ticker_set = getattr(self.resolver, "ticker_set", set())
         ticker_map = getattr(self.resolver, "ticker_map", {})
 
@@ -135,9 +119,6 @@ class RAGPipeline:
         if comparison_mode and len(found) >= 2:
             return found[:2]
 
-        # -----------------------------
-        # 3) alias scan from alias_map
-        # -----------------------------
         alias_map = getattr(self.resolver, "alias_map", None)
 
         if isinstance(alias_map, dict):
@@ -152,7 +133,6 @@ class RAGPipeline:
                 if re.search(pattern, q_norm):
                     matched_aliases.append((len(alias), payload, alias))
 
-            # 長 alias 優先，避免 "apple" 被更短或更泛 alias 干擾
             matched_aliases = sorted(matched_aliases, key=lambda x: x[0], reverse=True)
 
             for _, payload, alias in matched_aliases:
@@ -169,15 +149,10 @@ class RAGPipeline:
                 if comparison_mode and len(found) >= 2:
                     return found[:2]
 
-        # -----------------------------
-        # 4) comparison query 額外 fallback：
-        #    從 "X and Y" / "X vs Y" 這類模式拆字面公司名
-        # -----------------------------
         if comparison_mode:
             q_clean = re.sub(r"[?.!,]", " ", query)
             q_clean = re.sub(r"\s+", " ", q_clean).strip()
 
-            # 常見比較結構
             patterns = [
                 r"compare\s+(.+?)\s+and\s+(.+)",
                 r"compare\s+(.+?)\s+vs\.?\s+(.+)",
@@ -191,7 +166,6 @@ class RAGPipeline:
                     left = m.group(1).strip()
                     right = m.group(2).strip()
 
-                    # 清掉尾部功能詞
                     def normalize_candidate(x: str) -> str:
                         x = re.sub(
                             r"\b(in terms of|financial performance|business and financial performance|profitability|performance)\b",
@@ -210,7 +184,6 @@ class RAGPipeline:
                     for cand in candidates:
                         cand_norm = cand.lower()
 
-                        # exact alias first
                         if cand_norm in alias_map:
                             payload = alias_map[cand_norm]
                             if payload["ticker"] not in seen:
@@ -221,7 +194,6 @@ class RAGPipeline:
                                 })
                             continue
 
-                        # fuzzy fallback
                         try:
                             best = process.extractOne(cand_norm, alias_list, scorer=fuzz.WRatio)
                             if best and best[1] >= 90:
@@ -237,9 +209,6 @@ class RAGPipeline:
 
                     break
 
-        # -----------------------------
-        # 5) 最後處理 fallback
-        # -----------------------------
         if comparison_mode:
             return found[:2]
 
@@ -270,7 +239,7 @@ class RAGPipeline:
 
         q = re.sub(r"\s+", " ", q).strip(" ?,.")
         return q or "company profile business financial condition"
-    
+
     def _infer_intents(self, query: str) -> set[str]:
         q = query.lower()
         intents = set()
@@ -307,13 +276,10 @@ class RAGPipeline:
             return []
 
         text = text.strip()
-
-        # remove markdown fences if any
         text = re.sub(r"^```json\s*", "", text, flags=re.IGNORECASE)
         text = re.sub(r"^```\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
 
-        # try direct json
         try:
             data = json.loads(text)
             queries = data.get("queries", [])
@@ -321,8 +287,7 @@ class RAGPipeline:
         except Exception:
             pass
 
-        # try extracting first JSON object
-        match = re.search(r'\{.*\}', text, flags=re.DOTALL)
+        match = re.search(r"\{.*\}", text, flags=re.DOTALL)
         if match:
             try:
                 data = json.loads(match.group(0))
@@ -331,12 +296,9 @@ class RAGPipeline:
             except Exception:
                 pass
 
-        # fallback: line-based parsing
         lines = [x.strip("-• \n\t") for x in text.splitlines() if x.strip()]
         lines = [x for x in lines if len(x) > 2]
         return lines[:3]
-    
-    
 
     # =========================================================
     # Helper: query expansion
@@ -346,24 +308,17 @@ class RAGPipeline:
         user_query: str,
         company_context: dict | None,
     ) -> list[str]:
-        """
-        規則式 query expansion：
-        針對 business / financial / news / filings / comparison 類問題
-        補足與文件 wording 更接近的查詢。
-        """
         q_lower = user_query.lower()
         expansions = []
 
         focus_query = self._strip_company_mentions(user_query, company_context)
 
-        # 通用基底
         expansions.extend([
             focus_query,
             "company profile",
             "business overview",
         ])
 
-        # Business / products
         if any(x in q_lower for x in ["business model", "business", "products", "services", "core products"]):
             expansions.extend([
                 "company profile",
@@ -374,7 +329,6 @@ class RAGPipeline:
                 "core products",
             ])
 
-        # Financials
         if any(x in q_lower for x in [
             "revenue", "net income", "profit", "profitability", "financial",
             "financial condition", "cash flow", "assets", "liabilities",
@@ -390,7 +344,6 @@ class RAGPipeline:
                 "profit margins",
             ])
 
-        # News
         if any(x in q_lower for x in ["news", "latest", "recent developments", "recent news", "what is happening"]):
             expansions.extend([
                 "latest news",
@@ -400,7 +353,6 @@ class RAGPipeline:
                 "press release",
             ])
 
-        # Filings
         if any(x in q_lower for x in ["filing", "filings", "10-k", "10-q", "sec"]):
             expansions.extend([
                 "recent sec filings",
@@ -410,7 +362,6 @@ class RAGPipeline:
                 "sec company facts",
             ])
 
-        # Comparison
         if self._is_comparison_query(user_query):
             expansions.extend([
                 "financial performance comparison",
@@ -419,7 +370,6 @@ class RAGPipeline:
                 "market snapshot",
             ])
 
-        # 去掉太空泛字詞
         cleaned = []
         seen = set()
 
@@ -434,36 +384,28 @@ class RAGPipeline:
 
         return cleaned[:12]
 
-    
-    
-    
-    
     def _llm_query_rewrites(self, user_query: str, company_context: dict | None) -> list[str]:
-        """
-        用 Gemini 將自然語言問題改寫成較適合 retrieval 的短 query。
-        若失敗則回空陣列。
-        """
         company_text = ""
         if company_context:
             company_text = f"Target company: {company_context['company']} ({company_context['ticker']})"
 
         prompt = f"""
-    Rewrite the user's question into 3 short retrieval queries.
+Rewrite the user's question into 3 short retrieval queries.
 
-    Rules:
-    - Keep each query short and retrieval-friendly.
-    - Prefer document-oriented wording like:
-    company profile, business overview, products and services,
-    revenue, net income, financial snapshot, SEC filings, recent news.
-    - If a target company is given, keep all queries tied to that company.
-    - Return ONLY valid JSON in this format:
-    {{"queries": ["q1", "q2", "q3"]}}
+Rules:
+- Keep each query short and retrieval-friendly.
+- Prefer document-oriented wording like:
+company profile, business overview, products and services,
+revenue, net income, financial snapshot, SEC filings, recent news.
+- If a target company is given, keep all queries tied to that company.
+- Return ONLY valid JSON in this format:
+{{"queries": ["q1", "q2", "q3"]}}
 
-    {company_text}
+{company_text}
 
-    User question:
-    {user_query}
-    """.strip()
+User question:
+{user_query}
+""".strip()
 
         try:
             response = self.genai_client.models.generate_content(
@@ -477,20 +419,11 @@ class RAGPipeline:
             return []
 
     def generate_queries(self, user_query: str, company_context: dict | None) -> list[str]:
-        """
-        Multi-query retrieval:
-        1. 原始 query
-        2. 去除公司名稱後的 focus query
-        3. rule-based query expansion
-        4. deterministic company-aware variants
-        5. Gemini rewrites
-        """
         focus_query = self._strip_company_mentions(user_query, company_context)
         intents = self._infer_intents(user_query)
 
         queries = [user_query.strip(), focus_query]
 
-        # 規則式 expansion：文件導向 wording
         if "business" in intents or "products" in intents:
             queries.extend([
                 "company profile",
@@ -535,7 +468,6 @@ class RAGPipeline:
                 "market snapshot",
             ])
 
-        # 公司導向 deterministic variants
         if company_context:
             ticker = company_context["ticker"]
             company = company_context["company"]
@@ -557,7 +489,6 @@ class RAGPipeline:
                 f"{focus_query} recent news",
             ])
 
-        # LLM rewrites
         queries.extend(self._llm_query_rewrites(user_query, company_context))
 
         cleaned = []
@@ -580,6 +511,9 @@ class RAGPipeline:
         n_results: int = 20,
         company_context: dict | None = None,
     ) -> list[dict]:
+        if self.collection_is_empty:
+            return []
+
         where_filter = None
         if company_context:
             where_filter = {"ticker": company_context["ticker"]}
@@ -662,26 +596,16 @@ class RAGPipeline:
         return ranked[:final_k]
 
     def hybrid_search(self, query: str, company_context: dict | None, final_k: int = 5) -> list[dict]:
-        """
-        針對單一公司或單一上下文做 query expansion + multi-query retrieval + hybrid rank。
-        這版會同時做：
-        - company filtered retrieval
-        - partial global retrieval
-        避免「有結果但都是爛 chunk」。
-        """
         query_variants = self.generate_queries(query, company_context)
         intents = self._infer_intents(query)
 
         all_candidates = []
 
-        # A. 公司限定 retrieval
         if company_context:
             for q in query_variants:
                 batch = self._raw_vector_search(q, n_results=20, company_context=company_context)
                 all_candidates.extend(batch)
 
-        # B. 全域 retrieval（不再只在 empty 時才做）
-        #    只對前幾個最重要 query 做，避免 noise 太高
         global_queries = query_variants[:6]
         for q in global_queries:
             batch = self._raw_vector_search(q, n_results=10, company_context=None)
@@ -700,12 +624,6 @@ class RAGPipeline:
     # Comparison / multi-company retrieval
     # =========================================================
     def _comparison_search(self, query: str, companies: list[dict], final_k: int = 5) -> list[dict]:
-        """
-        comparison query:
-        - 各公司各自 retrieve
-        - 再加 global retrieval
-        - 合併後 rerank
-        """
         merged = []
 
         for company_context in companies[:2]:
@@ -716,7 +634,6 @@ class RAGPipeline:
             )
             merged.extend(partial)
 
-        # 補一點 global retrieval，避免某家公司文件沒被 alias / filter 命中
         for q in self.generate_queries(query, None)[:6]:
             merged.extend(self._raw_vector_search(q, n_results=10, company_context=None))
 
@@ -812,7 +729,6 @@ Write:
         companies = self._find_companies_in_query(query, current_company=current_company)
         print("DEBUG companies found:", companies)
 
-        # 單公司 / 無公司
         if not self._is_comparison_query(query):
             company_context = companies[0] if companies else None
             retrieved = self.hybrid_search(
@@ -838,8 +754,15 @@ Write:
                 )
 
         if not retrieved:
+            empty_reason = (
+                "The vector database is currently empty on this deployment. "
+                "The app is running, but no documents have been loaded into Chroma yet."
+                if self.collection_is_empty
+                else "I couldn't retrieve any relevant documents from the vector database."
+            )
+
             return {
-                "answer": "I couldn't retrieve any relevant documents from the vector database.",
+                "answer": empty_reason,
                 "citations": [],
                 "company_context": company_context,
                 "model_name": self.model_name,
