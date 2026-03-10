@@ -1,0 +1,12 @@
+Company: Tivic Health Systems Inc. Common Stock
+Ticker: TIVC
+CIK: 0001787740
+Latest SEC XBRL Facts:
+Revenues: 156000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 302000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -6029000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 6229000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 638000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 5591000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4712000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3450000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

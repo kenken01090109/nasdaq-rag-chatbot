@@ -1,0 +1,11 @@
+Company: Richtech Robotics Inc. Class B Common Stock
+Ticker: RR
+CIK: 0001963685
+Latest SEC XBRL Facts:
+Revenues: 1147000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -8402000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 349384000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 9745000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 339686000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1605000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 271811000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

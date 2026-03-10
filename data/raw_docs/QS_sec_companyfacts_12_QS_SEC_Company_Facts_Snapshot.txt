@@ -1,0 +1,10 @@
+Company: QuantumScape Corporation Class A Common Stock
+Ticker: QS
+CIK: 0001811414
+Latest SEC XBRL Facts:
+NetIncomeLoss: -334945000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 1343232000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 127484000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 1215748000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -186323000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 225826000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

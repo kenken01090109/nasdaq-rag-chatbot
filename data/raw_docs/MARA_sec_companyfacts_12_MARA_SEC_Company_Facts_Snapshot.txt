@@ -1,0 +1,12 @@
+Company: MARA Holdings Inc. Common Stock
+Ticker: MARA
+CIK: 0001507605
+Latest SEC XBRL Facts:
+Revenues: 704779000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 46746000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -1311480000 | unit=USD | filed=2026-03-02 | period_end=2025-12-31
+Assets: 9153377000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 3924170 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+StockholdersEquity: 5158336000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -577980000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 826392000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

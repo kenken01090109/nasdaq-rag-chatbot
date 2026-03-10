@@ -1,0 +1,11 @@
+Company: Village Farms International Inc. Common Shares
+Ticker: VFF
+CIK: 0001584549
+Latest SEC XBRL Facts:
+Revenues: 166320000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 30011000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 418384000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 113019000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 295368000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6376000 | unit=USD | filed=2025-05-12 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 82561000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

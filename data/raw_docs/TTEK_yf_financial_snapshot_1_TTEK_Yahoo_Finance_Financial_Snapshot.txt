@@ -1,0 +1,25 @@
+Company: Tetra Tech Inc. Common Stock
+Ticker: TTEK
+Market Cap: 9094360064
+Enterprise Value: 9883838464
+Total Revenue: 4457205760
+Revenue Per Share: 16.951
+EBITDA: 658702976
+Gross Margins: 0.21542999
+Operating Margins: 0.12876001
+Profit Margins: 0.07897
+Free Cashflow: 415763616
+Operating Cashflow: 516888992
+Return On Assets: 0.08919
+Return On Equity: 0.19917
+Total Cash: 269448000
+Total Debt: 1058380992
+Debt To Equity: 57.314
+Current Ratio: 1.314
+Quick Ratio: 1.222
+Trailing PE: 26.218044
+Forward PE: 20.431599
+Price To Book: 4.925837
+Beta: 0.92
+52 Week High: 43.14
+52 Week Low: 27.27

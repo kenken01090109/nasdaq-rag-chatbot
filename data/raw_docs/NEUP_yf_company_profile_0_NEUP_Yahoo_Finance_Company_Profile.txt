@@ -1,0 +1,9 @@
+Company: Neuphoria Therapeutics Inc. Common Stock
+Ticker: NEUP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Burlington
+Website: https://www.neuphoriatx.com
+Employees: 7
+Business Summary: Neuphoria Therapeutics Inc., a clinical stage biopharmaceutical company, discovers and develops novel allosteric ion channel modulators for the treatment of central nervous system disorders in Australia. Its lead product candidate includes BNC210, a selective negative allosteric modulator of the a7 for the treatment of social anxiety disorder; and is phase 2b to treat post-traumatic stress disorder. The company also develops BNC101, a monoclonal antibody that has completed phase 1 clinical trial that targets cancer stem cells; and BNC105 for the treatment of cancer. In addition, it develops NextGen, which is in preclinical trial for the treatment of multiple central nervous system indications; and Kv3.1/3.2 agonist, which is in preclinical trial to treat potential cognitive deficits and negative symptoms/social withdrawal in schizophrenia and autism spectrum disorders. The company has a collaboration with Merck & Co., Inc. to develop a7 receptor positive allosteric modulators targeting cognitive dysfunction associated with alzheimer's disease and other central nervous system conditions. The company was formerly known as Bionomics Limited and changed its name Neuphoria Therapeutics Inc. in December 2024. Neuphoria Therapeutics Inc. was incorporated in 1996 and is based in Burlington, Massachusetts.

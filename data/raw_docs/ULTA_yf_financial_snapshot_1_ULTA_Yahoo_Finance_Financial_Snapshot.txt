@@ -1,0 +1,25 @@
+Company: Ulta Beauty Inc. Common Stock
+Ticker: ULTA
+Market Cap: 28980830208
+Enterprise Value: 31366625280
+Total Revenue: 11982077952
+Revenue Per Share: 264.331
+EBITDA: 1861016960
+Gross Margins: 0.42902002
+Operating Margins: 0.10828
+Profit Margins: 0.09932
+Free Cashflow: 975341888
+Operating Cashflow: 1358748032
+Return On Assets: 0.15153
+Return On Equity: 0.47967
+Total Cash: 204920992
+Total Debt: 2574656000
+Debt To Equity: 97.784
+Current Ratio: 1.328
+Quick Ratio: 0.174
+Trailing PE: 24.782976
+Forward PE: 22.681812
+Price To Book: 10.92418
+Beta: 0.847
+52 Week High: 714.97
+52 Week Low: 309.01

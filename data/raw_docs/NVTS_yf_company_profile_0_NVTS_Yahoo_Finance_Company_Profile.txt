@@ -1,0 +1,9 @@
+Company: Navitas Semiconductor Corporation Common Stock
+Ticker: NVTS
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Torrance
+Website: https://navitassemi.com
+Employees: 190
+Business Summary: Navitas Semiconductor Corporation designs, develops, and markets power semiconductors in the United States, Europe, China, rest of Asia, and internationally. The company offers gallium nitride power integrated circuits, silicon carbide power devices, silicon system controllers, and digital isolators for power conversion and charging. Its products are used in automotive, data center, mobile, consumer electronics markets, and various other applications. The company was founded in 2014 and is based in Torrance, California.

@@ -1,0 +1,25 @@
+Company: Sharps Technology Inc. Warrant
+Ticker: STSSW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 306344
+Revenue Per Share: 0.048
+EBITDA: -118102136
+Gross Margins: 0.0
+Operating Margins: -1313.4761
+Profit Margins: 0.0
+Free Cashflow: 2800911
+Operating Cashflow: -13500937
+Return On Assets: -0.32597
+Return On Equity: -0.47472
+Total Cash: 10521706
+Total Debt: 7628888
+Debt To Equity: 1.761
+Current Ratio: 3.737
+Quick Ratio: 1.13
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0014412347
+Beta: 2.204
+52 Week High: 0.0226
+52 Week Low: 0.0226

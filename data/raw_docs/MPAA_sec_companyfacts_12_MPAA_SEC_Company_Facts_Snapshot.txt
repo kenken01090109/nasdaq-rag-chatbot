@@ -1,0 +1,11 @@
+Company: Motorcar Parts  of America Inc. Common Stock
+Ticker: MPAA
+CIK: 0000918251
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 577531000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: 2670000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 991310000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 732763000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 258547000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 23664000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 17511000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

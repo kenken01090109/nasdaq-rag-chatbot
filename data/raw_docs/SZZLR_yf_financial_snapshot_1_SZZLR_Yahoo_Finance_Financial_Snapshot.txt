@@ -1,0 +1,25 @@
+Company: Sizzle Acquisition Corp. II Right
+Ticker: SZZLR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 935663
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.6875
+Beta: 
+52 Week High: 0.2201
+52 Week Low: 0.2199

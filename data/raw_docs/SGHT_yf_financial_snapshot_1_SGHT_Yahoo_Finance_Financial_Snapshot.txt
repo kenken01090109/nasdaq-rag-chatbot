@@ -1,0 +1,25 @@
+Company: Sight Sciences Inc. Common Stock
+Ticker: SGHT
+Market Cap: 196154128
+Enterprise Value: 162673696
+Total Revenue: 77363000
+Revenue Per Share: 1.484
+EBITDA: -33812000
+Gross Margins: 0.86173
+Operating Margins: -0.17999001
+Profit Margins: -0.4967
+Free Cashflow: -16124625
+Operating Cashflow: -29694000
+Return On Assets: -0.16609
+Return On Equity: -0.50738996
+Total Cash: 91965000
+Total Debt: 40775000
+Debt To Equity: 63.769
+Current Ratio: 10.223
+Quick Ratio: 9.224
+Trailing PE: 
+Forward PE: -8.286984
+Price To Book: 3.1046023
+Beta: 2.428
+52 Week High: 9.236
+52 Week Low: 2.03

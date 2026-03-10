@@ -1,0 +1,10 @@
+Company: Cogent Biosciences Inc. Common Stock
+Ticker: COGT
+CIK: 0001622229
+Latest SEC XBRL Facts:
+NetIncomeLoss: -226445000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 425933000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 123469000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 302464000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -185339000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 125297000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Laser Photonics Corporation Common Stock
+Ticker: LASE
+Market Cap: 25280476
+Enterprise Value: 28644998
+Total Revenue: 7140614
+Revenue Per Share: 0.478
+EBITDA: -6926906
+Gross Margins: 0.35224998
+Operating Margins: -3.49981
+Profit Margins: -1.0536699
+Free Cashflow: 495849
+Operating Cashflow: -2166567
+Return On Assets: -0.36043
+Return On Equity: -1.09145
+Total Cash: 3624529
+Total Debt: 8820059
+Debt To Equity: 215.167
+Current Ratio: 0.744
+Quick Ratio: 0.489
+Trailing PE: 
+Forward PE: 
+Price To Book: 6.0
+Beta: 3.649
+52 Week High: 6.77
+52 Week Low: 0.38

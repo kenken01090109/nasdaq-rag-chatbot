@@ -1,0 +1,11 @@
+Company: QuickLogic Corporation Common Stock
+Ticker: QUIK
+CIK: 0000882508
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 10041000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+NetIncomeLoss: -8868000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+Assets: 46118000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+Liabilities: 21388000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+StockholdersEquity: 24730000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: -1367000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 18898000 | unit=USD | filed=2020-05-22 | period_end=2020-03-29

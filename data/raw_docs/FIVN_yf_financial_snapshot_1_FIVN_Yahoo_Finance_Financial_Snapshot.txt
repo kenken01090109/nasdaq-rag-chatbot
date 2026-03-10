@@ -1,0 +1,25 @@
+Company: Five9 Inc. Common Stock
+Ticker: FIVN
+Market Cap: 1414928384
+Enterprise Value: 1503460224
+Total Revenue: 1149088000
+Revenue Per Share: 14.94
+EBITDA: 106859000
+Gross Margins: 0.5524
+Operating Margins: 0.08672
+Profit Margins: 0.0343
+Free Cashflow: 258193872
+Operating Cashflow: 226207008
+Return On Assets: 0.01467
+Return On Equity: 0.05599
+Total Cash: 696918976
+Total Debt: 805097984
+Debt To Equity: 102.454
+Current Ratio: 4.506
+Quick Ratio: 3.906
+Trailing PE: 40.2
+Forward PE: 4.9658513
+Price To Book: 1.7770137
+Beta: 1.348
+52 Week High: 32.82
+52 Week Low: 15.7

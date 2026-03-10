@@ -1,0 +1,9 @@
+Company: AIxCrypto Holdings Inc. Common Stock
+Ticker: AIXC
+Long Business Summary: AIxCrypto Holdings, Inc. focuses on building an ecosystem that integrates Artificial Intelligence and blockchain while bridging Web2 and Web3. Its principal products include the BesTrade DeAI Agent and the AIxC ecosystem products. The company was formerly known as Qualigen Therapeutics, Inc. and changed its name to AIxCrypto Holdings, Inc. in November 2025. AIxCrypto Holdings, Inc. was founded in 1996 and is based in Carlsbad, California.
+Industry: Software - Infrastructure
+Sector: Technology
+Website: https://www.aixcrypto.ai
+Country: United States
+City: Carlsbad
+Full Time Employees: 

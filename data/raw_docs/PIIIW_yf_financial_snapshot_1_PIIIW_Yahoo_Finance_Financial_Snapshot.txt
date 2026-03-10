@@ -1,0 +1,25 @@
+Company: P3 Health Partners Inc. Warrant
+Ticker: PIIIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 1444952064
+Revenue Per Share: 442.863
+EBITDA: -168759008
+Gross Margins: -0.04045
+Operating Margins: -0.12809
+Profit Margins: -0.09069
+Free Cashflow: -51895376
+Operating Cashflow: -122749000
+Return On Assets: -0.20854999
+Return On Equity: -2.02603
+Total Cash: 37714000
+Total Debt: 264962000
+Debt To Equity: 1399.842
+Current Ratio: 0.32
+Quick Ratio: 0.291
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.0011717384
+Beta: 0.848
+52 Week High: 0.0067
+52 Week Low: 0.0045

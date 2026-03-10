@@ -1,0 +1,9 @@
+Company: BriaCell Therapeutics Corp. Common Shares
+Ticker: BCTX
+CIK: 0001610820
+Latest SEC XBRL Facts:
+NetIncomeLoss: -8197565 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Assets: 13075050 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+StockholdersEquity: -5892342 | unit=USD | filed=2023-06-14 | period_end=2023-04-30
+NetCashProvidedByUsedInOperatingActivities: -7704796 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 2714012 | unit=USD | filed=2025-12-11 | period_end=2025-10-31

@@ -1,0 +1,12 @@
+Company: HWH International Inc. Common Stock
+Ticker: HWH
+CIK: 0001897245
+Latest SEC XBRL Facts:
+Revenues: 812366 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1184 | unit=USD | filed=2024-11-06 | period_end=2023-09-30
+NetIncomeLoss: -685615 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+Assets: 5184394 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+Liabilities: 3748432 | unit=USD | filed=2023-10-16 | period_end=2023-08-31
+StockholdersEquity: 2839135 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -728326 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2897972 | unit=USD | filed=2025-10-22 | period_end=2025-09-30

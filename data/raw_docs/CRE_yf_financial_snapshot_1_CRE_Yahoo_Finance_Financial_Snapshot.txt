@@ -1,0 +1,25 @@
+Company: Cre8 Enterprise Limited Class A Ordinary Shares
+Ticker: CRE
+Market Cap: 9123235
+Enterprise Value: 39905896
+Total Revenue: 104615952
+Revenue Per Share: 55.795
+EBITDA: 12055572
+Gross Margins: 0.39812002
+Operating Margins: 0.16128
+Profit Margins: 0.09109
+Free Cashflow: 5559598
+Operating Cashflow: 12880335
+Return On Assets: 0.10163
+Return On Equity: 0.72103995
+Total Cash: 11297906
+Total Debt: 42710056
+Debt To Equity: 237.055
+Current Ratio: 1.019
+Quick Ratio: 0.791
+Trailing PE: 7.4262295
+Forward PE: 
+Price To Book: 3.6863828
+Beta: 
+52 Week High: 102.18
+52 Week Low: 1.68

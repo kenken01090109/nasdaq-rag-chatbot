@@ -1,0 +1,25 @@
+Company: Fulcrum Therapeutics Inc. Common Stock
+Ticker: FULC
+Market Cap: 544123712
+Enterprise Value: 197594704
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -83379000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -33922624
+Operating Cashflow: -60065000
+Return On Assets: -0.169
+Return On Equity: -0.25296
+Total Cash: 352305984
+Total Debt: 6443000
+Debt To Equity: 1.846
+Current Ratio: 27.397
+Quick Ratio: 27.083
+Trailing PE: 
+Forward PE: -5.0959945
+Price To Book: 1.5585654
+Beta: 3.292
+52 Week High: 15.74
+52 Week Low: 2.315

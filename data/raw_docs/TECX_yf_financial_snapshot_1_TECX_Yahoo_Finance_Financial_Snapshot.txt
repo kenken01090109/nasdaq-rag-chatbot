@@ -1,0 +1,25 @@
+Company: Tectonic Therapeutic Inc. Common Stock
+Ticker: TECX
+Market Cap: 673517568
+Enterprise Value: 270407040
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -82661000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -39233876
+Operating Cashflow: -60078000
+Return On Assets: -0.25377
+Return On Equity: -0.37822
+Total Cash: 253798000
+Total Debt: 1276000
+Debt To Equity: 0.508
+Current Ratio: 26.625
+Quick Ratio: 26.257
+Trailing PE: 
+Forward PE: -7.66453
+Price To Book: 2.674271
+Beta: 
+52 Week High: 36.03
+52 Week Low: 13.7

@@ -1,0 +1,11 @@
+Company: RGC Resources Inc. Common Stock
+Ticker: RGCO
+CIK: 0001069533
+Latest SEC XBRL Facts:
+Revenues: 30260468 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 30579620 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: 4882865 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 341043733 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 116431475 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1079860 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1967563 | unit=USD | filed=2019-05-06 | period_end=2019-03-31

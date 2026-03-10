@@ -1,0 +1,25 @@
+Company: Mercury Systems Inc Common Stock
+Ticker: MRCY
+Market Cap: 5186464256
+Enterprise Value: 5256512000
+Total Revenue: 942545024
+Revenue Per Share: 15.926
+EBITDA: 76831000
+Gross Margins: 0.28159
+Operating Margins: 0.12117
+Profit Margins: -0.03226
+Free Cashflow: 111767624
+Operating Cashflow: 121842000
+Return On Assets: -7e-05
+Return On Equity: -0.02083
+Total Cash: 113839000
+Total Debt: 271508000
+Debt To Equity: 18.294
+Current Ratio: 2.956
+Quick Ratio: 1.866
+Trailing PE: 
+Forward PE: 57.647923
+Price To Book: 3.5147226
+Beta: 0.765
+52 Week High: 103.84
+52 Week Low: 39.89

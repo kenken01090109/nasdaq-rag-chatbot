@@ -1,0 +1,25 @@
+Company: Pangaea Logistics Solutions Ltd. Common Shares
+Ticker: PANL
+Market Cap: 545422336
+Enterprise Value: 898539968
+Total Revenue: 595335936
+Revenue Per Share: 10.027
+EBITDA: 76500096
+Gross Margins: 0.17990999
+Operating Margins: 0.098500006
+Profit Margins: 0.02674
+Free Cashflow: 36862872
+Operating Cashflow: 57884384
+Return On Assets: 0.028250001
+Return On Equity: 0.04013
+Total Cash: 94020376
+Total Debt: 382640608
+Debt To Equity: 82.189
+Current Ratio: 1.624
+Quick Ratio: 1.169
+Trailing PE: 27.866665
+Forward PE: 7.442158
+Price To Book: 1.296526
+Beta: 0.753
+52 Week High: 9.39
+52 Week Low: 3.93

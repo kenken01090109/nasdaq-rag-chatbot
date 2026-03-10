@@ -1,0 +1,25 @@
+Company: BioRestorative Therapies Inc. Common Stock (NV)
+Ticker: BRTX
+Market Cap: 4600121
+Enterprise Value: -2586093
+Total Revenue: 383400
+Revenue Per Share: 0.045
+EBITDA: -14304456
+Gross Margins: 0.93337
+Operating Margins: -314.32297
+Profit Margins: 0.0
+Free Cashflow: -6757906
+Operating Cashflow: -10721635
+Return On Assets: -0.8973
+Return On Equity: -2.0773199
+Total Cash: 4489827
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.37
+Quick Ratio: 1.311
+Trailing PE: 
+Forward PE: -0.18196581
+Price To Book: 0.7741818
+Beta: 0.407
+52 Week High: 2.1
+52 Week Low: 0.19

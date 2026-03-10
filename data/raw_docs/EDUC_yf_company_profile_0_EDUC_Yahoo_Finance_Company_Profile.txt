@@ -1,0 +1,9 @@
+Company: Educational Development Corporation Common Stock
+Ticker: EDUC
+Sector: Communication Services
+Industry: Publishing
+Country: United States
+City: Tulsa
+Website: https://www.edcpub.com
+Employees: 83
+Business Summary: Educational Development Corporation distributes children's books, educational toys and games, and related products in the United States. The company operates in two segments, PaperPie and Publishing. It sells various books, including touchy-feely board books, activity books and flashcards, adventure and search books, art books, sticker books, and foreign language books; learning manipulatives and toys; and internet-linked books comprising science and math titles, and chapter books and novels. The company markets and sells its products to retail accounts, which include book, school supply, toy, and gift stores, as well as museums through commissioned sales representatives, trade and specialty wholesalers, its internal tele-sales group, and a network of independent sales representatives. Educational Development Corporation was incorporated in 1965 and is headquartered in Tulsa, Oklahoma.

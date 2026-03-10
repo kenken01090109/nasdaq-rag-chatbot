@@ -1,0 +1,12 @@
+Company: Lumentum Holdings Inc. Common Stock
+Ticker: LITE
+CIK: 0001633978
+Latest SEC XBRL Facts:
+Revenues: 404600000 | unit=USD | filed=2019-08-27 | period_end=2019-06-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 1164300000 | unit=USD | filed=2025-05-07 | period_end=2025-03-29
+NetIncomeLoss: 82400000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Assets: 4805300000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Liabilities: 3958700000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+StockholdersEquity: 846600000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 184600000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 657700000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27

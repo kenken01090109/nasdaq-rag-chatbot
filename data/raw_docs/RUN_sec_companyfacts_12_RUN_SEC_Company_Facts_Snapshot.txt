@@ -1,0 +1,12 @@
+Company: Sunrun Inc. Common Stock
+Ticker: RUN
+CIK: 0001469367
+Latest SEC XBRL Facts:
+Revenues: 392025000 | unit=USD | filed=2020-08-10 | period_end=2020-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1798164000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 346373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 22225482000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 17580903000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2983902000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -518388000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 263006000 | unit=USD | filed=2015-11-13 | period_end=2015-09-30

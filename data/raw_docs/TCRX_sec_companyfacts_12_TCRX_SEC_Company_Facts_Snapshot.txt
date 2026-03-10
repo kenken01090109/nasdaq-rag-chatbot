@@ -1,0 +1,11 @@
+Company: TScan Therapeutics Inc. Common Stock
+Ticker: TCRX
+CIK: 0001783328
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7758000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -106789000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 262225000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 118204000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 144021000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -103317000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 169506000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

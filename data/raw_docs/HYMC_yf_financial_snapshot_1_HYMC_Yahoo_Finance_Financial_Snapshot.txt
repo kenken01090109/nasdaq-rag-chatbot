@@ -1,0 +1,25 @@
+Company: Hycroft Mining Holding Corporation Class A Common Stock
+Ticker: HYMC
+Market Cap: 3220554752
+Enterprise Value: 3921784576
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -35145000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -33557376
+Operating Cashflow: -30252000
+Return On Assets: -0.12251
+Return On Equity: -3.7460501
+Total Cash: 140100992
+Total Debt: 134235008
+Debt To Equity: 282.689
+Current Ratio: 19.039
+Quick Ratio: 18.399
+Trailing PE: 
+Forward PE: -215.5
+Price To Book: 44.58621
+Beta: 2.791
+52 Week High: 58.73
+52 Week Low: 2.3

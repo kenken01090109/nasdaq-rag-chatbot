@@ -1,0 +1,9 @@
+Company: Nanobiotix S.A. American Depositary Shares
+Ticker: NBTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: France
+City: Paris
+Website: https://www.nanobiotix.com
+Employees: 103
+Business Summary: Nanobiotix S.A. operates as a clinical-stage biotechnology that focuses on developing product candidates for the treatment of cancer and other unmet medical needs. Its lead product candidate is NBTXR3, a sterile aqueous suspension of crystalline hafnium oxide nanoparticles used for the treatment of soft tissue sarcoma, head and neck cancers, liver cancers, prostate cancer, pancreatic cancer, esophageal cancer, rectal cancer, and non-small cell lung cancer. The company has a partnership with Lian Oncology Limited to develop and commercialize NBTXR3 in Greater China, South Korea, Singapore, and Thailand. Nanobiotix S.A. was incorporated in 2003 and is based in Paris, France.

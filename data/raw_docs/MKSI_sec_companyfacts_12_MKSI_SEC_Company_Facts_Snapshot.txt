@@ -1,0 +1,11 @@
+Company: MKS Inc. Common Stock
+Ticker: MKSI
+CIK: 0001049502
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2898000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 188000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 8777000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6177000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2600000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 503000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 413000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

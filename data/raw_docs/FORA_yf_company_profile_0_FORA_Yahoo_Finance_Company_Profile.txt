@@ -1,0 +1,9 @@
+Company: Forian Inc. Common Stock
+Ticker: FORA
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Newtown
+Website: https://forian.com
+Employees: 47
+Business Summary: Forian Inc. provides a suite of data management capabilities, and information and analytics solutions to optimize and measure operational, clinical, and financial performance for customers in the life science, healthcare, and financial services industries. It develops commercial, real world evidence (RWE), and market access solutions and proprietary data-driven insights, as well as offers data management solutions. The company's subscription and services-based solutions cover the life sciences, pharmaceutical services, healthcare payer, and provider and financial services industries. Forian Inc. was founded in 2020 and is headquartered in Newtown, Pennsylvania.

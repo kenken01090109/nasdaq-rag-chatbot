@@ -1,0 +1,11 @@
+Company: Aemetis Inc. (DE) Common Stock
+Ticker: AMTX
+CIK: 0000738214
+Latest SEC XBRL Facts:
+Revenues: 77194000 | unit=USD | filed=2024-03-29 | period_end=2023-12-31
+NetIncomeLoss: -71671000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 241119000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 21551835 | unit=USD | filed=2012-10-31 | period_end=2012-03-31
+StockholdersEquity: -304852000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2509000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5584000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

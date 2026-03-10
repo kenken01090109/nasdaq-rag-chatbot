@@ -1,0 +1,25 @@
+Company: Xerox Holdings Corporation Warrants
+Ticker: XRXDW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 7022000128
+Revenue Per Share: 55.522
+EBITDA: 211000000
+Gross Margins: 0.27414
+Operating Margins: 0.013309999
+Profit Margins: -0.14654
+Free Cashflow: 342000000
+Operating Cashflow: 224000000
+Return On Assets: -0.00825
+Return On Equity: -1.04097
+Total Cash: 512000000
+Total Debt: 4247000064
+Debt To Equity: 631.055
+Current Ratio: 1.117
+Quick Ratio: 0.686
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.024509804
+Beta: 1.758
+52 Week High: 0.0997
+52 Week Low: 0.0837

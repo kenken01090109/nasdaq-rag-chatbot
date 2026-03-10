@@ -1,0 +1,9 @@
+Company: Haoxin Holdings Limited Class A Ordinary Shares
+Ticker: HXHX
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: China
+City: Ningbo
+Website: https://www.haoxinholdings.com
+Employees: 85
+Business Summary: Haoxin Holdings Limited, through its subsidiaries, provides temperature-controlled truckload and urban delivery services in the People's Republic of China. The company focuses on transporting factory logistics, including electronic devices, chemicals, fruit, food, and commercial goods. It operates a truckload fleet with 82 tractors, 87 trailers, and 44 vans. The company was founded in 2003 and is based in Ningbo, China. Haoxin Holdings Limited is a subsidiary of TZJ Global (BVI) Limited.

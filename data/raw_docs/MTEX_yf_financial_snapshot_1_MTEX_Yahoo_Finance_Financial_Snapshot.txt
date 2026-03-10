@@ -1,0 +1,25 @@
+Company: Mannatech Incorporated Common Stock
+Ticker: MTEX
+Market Cap: 12736237
+Enterprise Value: 13693231
+Total Revenue: 110411000
+Revenue Per Share: 58.203
+EBITDA: 1793000
+Gross Margins: 0.76327
+Operating Margins: 0.06882
+Profit Margins: -0.015
+Free Cashflow: -1251625
+Operating Cashflow: -2893000
+Return On Assets: 0.01008
+Return On Equity: -0.19541
+Total Cash: 7141000
+Total Debt: 8098000
+Debt To Equity: 116.518
+Current Ratio: 1.132
+Quick Ratio: 0.406
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.8326039
+Beta: 0.768
+52 Week High: 12.45
+52 Week Low: 6.59

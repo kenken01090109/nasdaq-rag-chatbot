@@ -1,0 +1,25 @@
+Company: AerSale Corporation Common Stock
+Ticker: ASLE
+Market Cap: 304815168
+Enterprise Value: 476945472
+Total Revenue: 335286016
+Revenue Per Share: 6.93
+EBITDA: 35124000
+Gross Margins: 0.31547
+Operating Margins: 0.07753
+Profit Margins: 0.02558
+Free Cashflow: 30823500
+Operating Cashflow: -22969000
+Return On Assets: 0.01585
+Return On Equity: 0.01949
+Total Cash: 13549000
+Total Debt: 144832992
+Debt To Equity: 34.124
+Current Ratio: 3.714
+Quick Ratio: 0.8
+Trailing PE: 58.727272
+Forward PE: 7.1381216
+Price To Book: 0.7187361
+Beta: 
+52 Week High: 9.12
+52 Week Low: 5.56

@@ -1,0 +1,12 @@
+Company: The Ensign Group Inc. Common Stock
+Ticker: ENSG
+CIK: 0001125376
+Latest SEC XBRL Facts:
+Revenues: 3697215000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3678233000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 248517000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 5226437000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 3103535000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 2119465000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 380950000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 443668000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Clearfield Inc. Common Stock
+Ticker: CLFD
+Market Cap: 415540032
+Enterprise Value: 333838944
+Total Revenue: 154776992
+Revenue Per Share: 11.132
+EBITDA: 8563000
+Gross Margins: 0.34404
+Operating Margins: -0.05311
+Profit Margins: -0.04366
+Free Cashflow: 22118500
+Operating Cashflow: 22240000
+Return On Assets: 0.0051200003
+Return On Equity: 0.02471
+Total Cash: 96435000
+Total Debt: 8079000
+Debt To Equity: 3.236
+Current Ratio: 12.547
+Quick Ratio: 8.434
+Trailing PE: 66.68889
+Forward PE: 17.148571
+Price To Book: 1.6635255
+Beta: 1.973
+52 Week High: 46.76
+52 Week Low: 23.78

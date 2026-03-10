@@ -1,0 +1,9 @@
+Company: Streamex Corp. Common Stock
+Ticker: STEX
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Winter Park
+Website: https://www.streamex.com
+Employees: 5
+Business Summary: Streamex Corp., a real world asset (RWA) tokenization company with Institutional grade infrastructure. It offers gold denominated treasury and tokenization technology to commodities markets. The company was formerly known as BioSig Technologies, Inc. and changed its name to Streamex Corp. in September 2025. Streamex Corp. was incorporated in 2009 and is based in Winter Park, Florida.

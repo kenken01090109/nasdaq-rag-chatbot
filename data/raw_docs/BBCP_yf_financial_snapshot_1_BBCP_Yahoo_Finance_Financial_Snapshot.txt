@@ -1,0 +1,25 @@
+Company: Concrete Pumping Holdings Inc. Common Stock
+Ticker: BBCP
+Market Cap: 346937760
+Enterprise Value: 766806656
+Total Revenue: 392867008
+Revenue Per Share: 7.535
+EBITDA: 95074000
+Gross Margins: 0.38465
+Operating Margins: 0.15494001
+Profit Margins: 0.01622
+Free Cashflow: 13057625
+Operating Cashflow: 64315000
+Return On Assets: 0.02921
+Return On Equity: 0.02003
+Total Cash: 44394000
+Total Debt: 441400992
+Debt To Equity: 152.318
+Current Ratio: 2.168
+Quick Ratio: 1.884
+Trailing PE: 74.888885
+Forward PE: 30.636362
+Price To Book: 1.3051897
+Beta: 1.011
+52 Week High: 7.8
+52 Week Low: 4.78

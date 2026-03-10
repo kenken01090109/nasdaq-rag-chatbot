@@ -1,0 +1,25 @@
+Company: Haoxin Holdings Limited Class A Ordinary Shares
+Ticker: HXHX
+Market Cap: 6279625
+Enterprise Value: 10481718
+Total Revenue: 34088144
+Revenue Per Share: 2.756
+EBITDA: 7963825
+Gross Margins: 0.25566
+Operating Margins: 0.23831
+Profit Margins: 0.10936
+Free Cashflow: -5885132
+Operating Cashflow: -8276347
+Return On Assets: 0.13748999
+Return On Equity: 0.17968
+Total Cash: 1560886
+Total Debt: 5372479
+Debt To Equity: 21.516
+Current Ratio: 2.539
+Quick Ratio: 0.844
+Trailing PE: 1.6310714
+Forward PE: 
+Price To Book: 0.25148678
+Beta: 
+52 Week High: 6.29
+52 Week Low: 0.332

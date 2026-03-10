@@ -1,0 +1,25 @@
+Company: JD.com Inc. American Depositary Shares
+Ticker: JD
+Market Cap: 39880228864
+Enterprise Value: 34212169728
+Total Revenue: 1309085007872
+Revenue Per Share: 919.624
+EBITDA: 12217998336
+Gross Margins: 0.09308
+Operating Margins: -0.0128999995
+Profit Margins: 0.015
+Free Cashflow: -2391624960
+Operating Cashflow: 18990999552
+Return On Assets: 0.00331
+Return On Equity: 0.07624
+Total Cash: 213231992832
+Total Debt: 107105001472
+Debt To Equity: 36.457
+Current Ratio: 1.223
+Quick Ratio: 0.793
+Trailing PE: 8.775974
+Forward PE: 6.471589
+Price To Book: 1.1644976
+Beta: 0.454
+52 Week High: 45.75
+52 Week Low: 24.508

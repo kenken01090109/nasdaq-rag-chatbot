@@ -1,0 +1,25 @@
+Company: Global Water Resources Inc. Common Stock
+Ticker: GWRS
+Market Cap: 234314640
+Enterprise Value: 359375168
+Total Revenue: 55758000
+Revenue Per Share: 2.063
+EBITDA: 22154000
+Gross Margins: 0.71755
+Operating Margins: 0.02651
+Profit Margins: 0.05303
+Free Cashflow: -53866000
+Operating Cashflow: 20168000
+Return On Assets: 0.01007
+Return On Equity: 0.044060003
+Total Cash: 4080000
+Total Debt: 138288992
+Debt To Equity: 159.658
+Current Ratio: 0.761
+Quick Ratio: 0.631
+Trailing PE: 74.090904
+Forward PE: 67.916664
+Price To Book: 2.7058432
+Beta: 0.99
+52 Week High: 11.84
+52 Week Low: 7.672

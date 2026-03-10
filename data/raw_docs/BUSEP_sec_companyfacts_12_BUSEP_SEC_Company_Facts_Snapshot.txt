@@ -1,0 +1,11 @@
+Company: First Busey Corporation Depositary Shares Each Representing a 1/40thInterest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock $0.001 par value
+Ticker: BUSEP
+CIK: 0000314489
+Latest SEC XBRL Facts:
+Revenues: 519335000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 74512000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 18188628000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 15739793000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2448835000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 120380000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 385474000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

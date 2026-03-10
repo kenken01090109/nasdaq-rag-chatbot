@@ -1,0 +1,11 @@
+Company: Spyre Therapeutics Inc. Common Stock
+Ticker: SYRE
+CIK: 0001636282
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+NetIncomeLoss: -92673000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 504604000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 49504000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 455100000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -124674000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64897000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

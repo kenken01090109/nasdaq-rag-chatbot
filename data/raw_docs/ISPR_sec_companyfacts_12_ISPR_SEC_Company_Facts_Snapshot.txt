@@ -1,0 +1,11 @@
+Company: Ispire Technology Inc. Common Stock
+Ticker: ISPR
+CIK: 0001948455
+Latest SEC XBRL Facts:
+Revenues: 50637440 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -9861774 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 84401162 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 92064579 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: -7663417 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5150391 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 17565334 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

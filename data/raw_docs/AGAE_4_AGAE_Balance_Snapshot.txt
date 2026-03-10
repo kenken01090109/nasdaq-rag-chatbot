@@ -1,0 +1,8 @@
+Company: Allied Gaming & Entertainment Inc. Common Stock
+Ticker: AGAE
+Total Cash: 55950304
+Total Debt: 39560672
+Debt To Equity: 69.525
+Current Ratio: 1.789
+Quick Ratio: 1.236
+Book Value: 1.378

@@ -1,0 +1,25 @@
+Company: Rocket Lab Corporation Common Stock
+Ticker: RKLB
+Market Cap: 39783600128
+Enterprise Value: 39032115200
+Total Revenue: 601798976
+Revenue Per Share: 1.134
+EBITDA: -185512992
+Gross Margins: 0.34427
+Operating Margins: -0.28412
+Profit Margins: -0.32936
+Free Cashflow: -270725376
+Operating Cashflow: -165520992
+Return On Assets: -0.081520006
+Return On Equity: -0.18837999
+Total Cash: 1016577024
+Total Debt: 265088000
+Debt To Equity: 15.395
+Current Ratio: 4.083
+Quick Ratio: 3.407
+Trailing PE: 
+Forward PE: 530.7745
+Price To Book: 22.130682
+Beta: 2.207
+52 Week High: 99.58
+52 Week Low: 14.71

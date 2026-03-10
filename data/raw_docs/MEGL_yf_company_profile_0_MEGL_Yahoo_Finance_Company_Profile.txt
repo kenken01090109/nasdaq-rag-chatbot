@@ -1,0 +1,9 @@
+Company: Magic Empire Global Limited Class A Ordinary Shares
+Ticker: MEGL
+Sector: Financial Services
+Industry: Capital Markets
+Country: Hong Kong
+City: Central
+Website: https://www.meglmagic.com
+Employees: 8
+Business Summary: Magic Empire Global Limited provides corporate finance advisory services in Hong Kong. The company provides initial public offering sponsorship, financial and independent financial advisory, and post-listing compliance advisory. It also offers corporate services, which include accounting and financial reporting advisory, company secretarial services, internal control enhancement, investor relations advisory, and other consulting services. The company was incorporated in 2016 and is headquartered in Central, Hong Kong.

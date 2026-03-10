@@ -1,0 +1,12 @@
+Company: El Pollo Loco Holdings Inc. Common Stock
+Ticker: LOCO
+CIK: 0001606366
+Latest SEC XBRL Facts:
+Revenues: 217389000 | unit=USD | filed=2018-08-03 | period_end=2018-06-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 442330000 | unit=USD | filed=2020-03-06 | period_end=2019-12-25
+NetIncomeLoss: 19946000 | unit=USD | filed=2025-10-31 | period_end=2025-09-24
+Assets: 602748000 | unit=USD | filed=2025-10-31 | period_end=2025-09-24
+Liabilities: 319816000 | unit=USD | filed=2025-10-31 | period_end=2025-09-24
+StockholdersEquity: 282932000 | unit=USD | filed=2025-10-31 | period_end=2025-09-24
+NetCashProvidedByUsedInOperatingActivities: 34166000 | unit=USD | filed=2025-10-31 | period_end=2025-09-24
+CashAndCashEquivalentsAtCarryingValue: 10872000 | unit=USD | filed=2025-10-31 | period_end=2025-09-24

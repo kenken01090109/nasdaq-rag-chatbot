@@ -1,0 +1,25 @@
+Company: Youxin Technology Ltd Class A Ordinary shares
+Ticker: YAAS
+Market Cap: 13946240
+Enterprise Value: 2547851
+Total Revenue: 539474
+Revenue Per Share: 0.058
+EBITDA: -2853960
+Gross Margins: 0.33359
+Operating Margins: -8.17422
+Profit Margins: 0.0
+Free Cashflow: -1949882
+Operating Cashflow: -3913752
+Return On Assets: -0.30409
+Return On Equity: -3.52306
+Total Cash: 9912327
+Total Debt: 400361
+Debt To Equity: 4.888
+Current Ratio: 4.103
+Quick Ratio: 3.966
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4855572
+Beta: 
+52 Week High: 560.0
+52 Week Low: 1.02

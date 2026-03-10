@@ -1,0 +1,9 @@
+Company: Paylocity Holding Corporation Common Stock
+Ticker: PCTY
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Schaumburg
+Website: https://www.paylocity.com
+Employees: 6700
+Business Summary: Paylocity Holding Corporation provides cloud-based human capital management, payroll software, and spend management solutions for the workforce in the United States. The company offers payroll solutions comprising payroll and tax services, global payroll, on-demand payment, and garnishments; human resources (HR) solutions consisting of human resources, employee self-service, workflows and documents, HR compliance dashboard, and HR edge; time and attendance, scheduling, and time collection; time and labor solutions, including time and attendance, scheduling, and time collection; and talent solutions, such as recruiting, onboarding, market pay, learning, performance, and compensation. It also provides benefits solutions comprising benefit enrollment and updates, and third-party administrative solutions; employee experiences consisting of community, video, employee voice, recognition and rewards, modern workforce index, data insights, and reporting; and Paylocity for finance solutions, such as headcount planning, expense management, accounts payable automation, corporate cards, and guided procurement. In addition, the company offers implementation and training, client services, and tax and regulatory services. It serves for-profit and non-profit organizations across industries, including business services, financial services, healthcare, manufacturing, restaurants, retail, technology, and others. The company also sells its products through sales representatives. Paylocity Holding Corporation was founded in 1997 and is headquartered in Schaumburg, Illinois.

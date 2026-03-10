@@ -1,0 +1,9 @@
+Company: Expand Energy Corporation Common Stock
+Ticker: EXE
+Sector: Energy
+Industry: Oil & Gas E&P
+Country: United States
+City: Oklahoma City
+Website: https://www.expandenergy.com
+Employees: 1600
+Business Summary: Expand Energy Corporation operates as an independent natural gas production company in the United States. The company engages in acquisition, exploration, and development of properties to produce oil, natural gas, and natural gas liquids. It holds interests in the Marcellus Shale in the northern Appalachian Basin in Pennsylvania; the Marcellus and Utica Shales in Ohio and West Virginia; and the Haynesville and Bossier Shales in Louisiana and Texas. Expand Energy Corporation was formerly known as Chesapeake Energy Corporation and changed its name to Expand Energy Corporation in October 2024. The company was founded in 1989 and is based in Oklahoma City, Oklahoma.

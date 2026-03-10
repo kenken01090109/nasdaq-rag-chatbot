@@ -1,0 +1,25 @@
+Company: Cullinan Therapeutics Inc. Common Stock
+Ticker: CGEM
+Market Cap: 929860288
+Enterprise Value: 598452288
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -241128000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -99320128
+Operating Cashflow: -174267008
+Return On Assets: -0.26534
+Return On Equity: -0.40179002
+Total Cash: 332596000
+Total Debt: 1188000
+Debt To Equity: 0.263
+Current Ratio: 10.448
+Quick Ratio: 10.153
+Trailing PE: 
+Forward PE: -4.7818546
+Price To Book: 2.0602095
+Beta: -0.159
+52 Week High: 16.74
+52 Week Low: 5.68

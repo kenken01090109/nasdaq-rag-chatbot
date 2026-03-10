@@ -1,0 +1,11 @@
+Company: FRP Holdings Inc. Common Stock
+Ticker: FRPH
+CIK: 0000844059
+Latest SEC XBRL Facts:
+Revenues: 31931000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 2950000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 731260000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 269064000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 427718000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21252000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 134853000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

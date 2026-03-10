@@ -1,0 +1,11 @@
+Company: Baker Hughes Company Class A Common Stock
+Ticker: BKR
+CIK: 0001701605
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 20347000000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 1712000000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 39233000000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 0 | unit=USD | filed=2017-07-28 | period_end=2017-06-30
+StockholdersEquity: 18157000000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2148000000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5631000000 | unit=USD | filed=2018-04-27 | period_end=2018-03-31

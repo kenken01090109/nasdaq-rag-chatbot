@@ -1,0 +1,25 @@
+Company: Agios Pharmaceuticals Inc. Common Stock
+Ticker: AGIO
+Market Cap: 1609526912
+Enterprise Value: 807613312
+Total Revenue: 54028000
+Revenue Per Share: 0.932
+EBITDA: -466955008
+Gross Margins: 0.0
+Operating Margins: -6.08895
+Profit Margins: 0.0
+Free Cashflow: -267967504
+Operating Cashflow: -372976992
+Return On Assets: -0.19935
+Return On Equity: -0.30195
+Total Cash: 854425024
+Total Debt: 40207000
+Debt To Equity: 3.37
+Current Ratio: 11.46
+Quick Ratio: 10.525
+Trailing PE: 
+Forward PE: -5.5537024
+Price To Book: 1.345711
+Beta: 0.876
+52 Week High: 46.0
+52 Week Low: 22.24

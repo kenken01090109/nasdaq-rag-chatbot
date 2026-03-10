@@ -1,0 +1,11 @@
+Company: LM Funding America Inc. Common Stock
+Ticker: LMFA
+CIK: 0001640384
+Latest SEC XBRL Facts:
+Revenues: 6477964 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -9027565 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 60155799 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 11749785 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 50135287 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8768788 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17458806 | unit=USD | filed=2021-11-15 | period_end=2021-09-30

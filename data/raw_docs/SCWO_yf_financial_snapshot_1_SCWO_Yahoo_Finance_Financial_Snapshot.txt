@@ -1,0 +1,25 @@
+Company: 374Water Inc. Common Stock
+Ticker: SCWO
+Market Cap: 42481448
+Enterprise Value: 43789332
+Total Revenue: 1910340
+Revenue Per Share: 0.132
+EBITDA: -16955098
+Gross Margins: -0.29759002
+Operating Margins: -5.73468
+Profit Margins: 0.0
+Free Cashflow: -7948123
+Operating Cashflow: -13297172
+Return On Assets: -1.02976
+Return On Equity: -2.32627
+Total Cash: 933328
+Total Debt: 1394969
+Debt To Equity: 21.471
+Current Ratio: 1.439
+Quick Ratio: 0.9
+Trailing PE: 
+Forward PE: -41.833336
+Price To Book: 5.961995
+Beta: -0.142
+52 Week High: 10.9
+52 Week Low: 1.6

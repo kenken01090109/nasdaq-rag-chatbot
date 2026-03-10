@@ -1,0 +1,25 @@
+Company: Kura Oncology Inc. Common Stock
+Ticker: KURA
+Market Cap: 779676992
+Enterprise Value: 104903248
+Total Revenue: 67482000
+Revenue Per Share: 0.77
+EBITDA: -302599008
+Gross Margins: -2.7214499
+Operating Margins: -4.9762297
+Profit Margins: 0.0
+Free Cashflow: -141728368
+Operating Cashflow: -64058000
+Return On Assets: -0.25327998
+Return On Equity: -0.94821
+Total Cash: 667240000
+Total Debt: 20457000
+Debt To Equity: 11.748
+Current Ratio: 6.058
+Quick Ratio: 5.812
+Trailing PE: 
+Forward PE: -3.9881246
+Price To Book: 4.520686
+Beta: 0.219
+52 Week High: 12.49
+52 Week Low: 5.41

@@ -1,0 +1,12 @@
+Company: Varex Imaging Corporation Common Stock
+Ticker: VREX
+CIK: 0001681622
+Latest SEC XBRL Facts:
+Revenues: 811000000 | unit=USD | filed=2024-11-19 | period_end=2024-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 209600000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02
+NetIncomeLoss: 2300000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02
+Assets: 1098000000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02
+Liabilities: 607200000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02
+StockholdersEquity: 476900000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: -16100000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 119500000 | unit=USD | filed=2026-02-10 | period_end=2026-01-02

@@ -1,0 +1,10 @@
+Company: Udemy Inc. Common Stock
+Ticker: UDMY
+CIK: 0001607939
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6136000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 618904000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 397091000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 221813000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72144000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 235929000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

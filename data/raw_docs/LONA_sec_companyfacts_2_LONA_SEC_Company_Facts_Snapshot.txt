@@ -1,0 +1,10 @@
+Company: LeonaBio Inc. Common Stock
+Ticker: LONA
+CIK: 0001620463
+Latest SEC XBRL Facts:
+NetIncomeLoss: -22720000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 30033000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3247000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 26786000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -26332000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20874000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

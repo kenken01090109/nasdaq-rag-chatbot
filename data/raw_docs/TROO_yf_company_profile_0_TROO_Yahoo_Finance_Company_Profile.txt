@@ -1,0 +1,9 @@
+Company: TROOPS Inc. Ordinary Shares
+Ticker: TROO
+Sector: Financial Services
+Industry: Credit Services
+Country: Hong Kong
+City: Tsuen Wan
+Website: https://www.troops.co
+Employees: 42
+Business Summary: TROOPS, Inc., along with its subsidiaries, operates in the money lending business in Hong Kong, the Peoples Republic of China, and Australia. The company offers mortgage, personal, and corporate loans. It also develops, operates, and manages an online financial marketplace that offers one-stop financial technology solutions, including API services by leveraging artificial intelligence, big data and blockchain, and cloud computing. In addition, the company offers property investment, property lease and management, applications, technology and services, consultancy services for insurance products, and advisory and referral services. The company was formerly known as SGOCO Group, Ltd. and changed its name to TROOPS, Inc. in November 2021.TROOPS, Inc. was founded in 2005 and is headquartered in Tsuen Wan, Hong Kong.

@@ -1,0 +1,9 @@
+Company: Climb Bio Inc. Common Stock
+Ticker: CLYM
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Wellesley Hills
+Website: https://climbbio.com
+Employees: 17
+Business Summary: Climb Bio, Inc., a clinical-stage biotechnology company, focuses on developing therapies for immune-mediated diseases. The company develops budoprutug, an anti-CD19 monoclonal antibody for the treatment of B-cell mediated diseases. It is also developing budoprutug IV for the treatment of primary membranous nephropathy, immune thrombocytopenia, and systemic lupus erythematosus. In addition, the company is developing CLYM116, a preclinical stage anti A Proliferation-inducing Ligand (APRIL) monoclonal antibody for the treatment of immunoglobin A nephropathy (IgAN). The company was formerly known as Eliem Therapeutics, Inc. and changed its name to Climb Bio, Inc. in October 2024. Climb Bio, Inc. was incorporated in 2018 and is headquartered in Wellesley Hills, Massachusetts.

@@ -1,0 +1,25 @@
+Company: First Interstate BancSystem Inc. Common Stock (DE)
+Ticker: FIBK
+Market Cap: 3457234688
+Enterprise Value: 3963834624
+Total Revenue: 1032000000
+Revenue Per Share: 10.061
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47401002
+Profit Margins: 0.29273
+Free Cashflow: 
+Operating Cashflow: 305600000
+Return On Assets: 0.010829999
+Return On Equity: 0.089499995
+Total Cash: 384900000
+Total Debt: 891500032
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.6292515
+Forward PE: 11.601826
+Price To Book: 1.0028452
+Beta: 0.758
+52 Week High: 39.26
+52 Week Low: 22.95

@@ -1,0 +1,25 @@
+Company: Bone Biologics Corp Common Stock
+Ticker: BBLG
+Market Cap: 2297932
+Enterprise Value: -3790647
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -1965489
+Operating Cashflow: -3329885
+Return On Assets: -0.48681998
+Return On Equity: -0.80459
+Total Cash: 6049084
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 18.998
+Quick Ratio: 18.096
+Trailing PE: 
+Forward PE: -0.79012346
+Price To Book: 0.3819755
+Beta: 0.416
+52 Week High: 6.75
+52 Week Low: 1.11

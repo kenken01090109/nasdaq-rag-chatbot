@@ -1,0 +1,25 @@
+Company: Host Hotels & Resorts Inc. Common Stock
+Ticker: HST
+Market Cap: 13397331968
+Enterprise Value: 18774532096
+Total Revenue: 6131999744
+Revenue Per Share: 8.869
+EBITDA: 1644000000
+Gross Margins: 0.28832
+Operating Margins: 0.12087
+Profit Margins: 0.12476
+Free Cashflow: 1182749952
+Operating Cashflow: 1510000000
+Return On Assets: 0.04067
+Return On Equity: 0.11489
+Total Cash: 768000000
+Total Debt: 5640000000
+Debt To Equity: 83.779
+Current Ratio: 2.361
+Quick Ratio: 2.261
+Trailing PE: 17.481817
+Forward PE: 19.701658
+Price To Book: 2.0167804
+Beta: 1.154
+52 Week High: 21.0
+52 Week Low: 12.22

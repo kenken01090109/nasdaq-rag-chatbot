@@ -1,0 +1,25 @@
+Company: Silver Pegasus Acquisition Corp Class A Ordinary Shares
+Ticker: SPEG
+Market Cap: 155480000
+Enterprise Value: 154874640
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -339500
+Return On Assets: 
+Return On Equity: 
+Total Cash: 452101
+Total Debt: 79
+Debt To Equity: 
+Current Ratio: 5.893
+Quick Ratio: 4.239
+Trailing PE: 
+Forward PE: 
+Price To Book: -19.804688
+Beta: 
+52 Week High: 11.03
+52 Week Low: 9.95

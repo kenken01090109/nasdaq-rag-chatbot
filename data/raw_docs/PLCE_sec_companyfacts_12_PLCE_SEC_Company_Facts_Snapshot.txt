@@ -1,0 +1,12 @@
+Company: Children's Place Inc. (The) Common Stock
+Ticker: PLCE
+CIK: 0001041859
+Latest SEC XBRL Facts:
+Revenues: 321640000 | unit=USD | filed=2023-06-07 | period_end=2023-04-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 879597000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+NetIncomeLoss: -43708000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+Assets: 762509000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+Liabilities: 771120000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+StockholdersEquity: -8611000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: -67194000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 7253000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01

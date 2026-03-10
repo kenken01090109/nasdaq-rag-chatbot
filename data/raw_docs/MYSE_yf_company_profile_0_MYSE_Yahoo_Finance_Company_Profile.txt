@@ -1,0 +1,9 @@
+Company: Myseum Inc. Common Stock
+Ticker: MYSE
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New Brunswick
+Website: https://datchat.com
+Employees: 10
+Business Summary: Myseum, Inc. operates as a private messaging, cybersecurity, and social media company that focuses on protecting privacy on personal devices and user information after it is shared with others. Its DatChat Messenger & Private Social Network allows users to change how long their messages can be viewed before or after users send them, prevents screenshots, and hides encrypted photos in plain sight on camera rolls; and technology offers users a traditional texting experience while providing control and security for their messages. The company also offers DatChat Messenger that allows a user can decide how long their messages last on a recipient's device, delete individual messages or entire message threads, and making it like the conversation never happened. In addition, it provides Myseum platform, a multi-tiered social media ecosystem that enables individuals, families, and other groups to store and share digital content, such as messages, photos, videos, and documents. The company was formerly known as DatChat, Inc. and changed its name to Myseum, Inc. in August 2025. The company was incorporated in 2014 and is based in New Brunswick, New Jersey.

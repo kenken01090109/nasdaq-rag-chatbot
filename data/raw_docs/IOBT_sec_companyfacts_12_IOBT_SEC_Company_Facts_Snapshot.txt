@@ -1,0 +1,10 @@
+Company: IO Biotech Inc. Common Stock
+Ticker: IOBT
+CIK: 0001865494
+Latest SEC XBRL Facts:
+NetIncomeLoss: -57016000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 39956000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 39045000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 911000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -61371000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 30664000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

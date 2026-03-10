@@ -1,0 +1,25 @@
+Company: Nuwellis Inc. Common Stock
+Ticker: NUWE
+Market Cap: 1290810
+Enterprise Value: -332917
+Total Revenue: 8168000
+Revenue Per Share: 27.778
+EBITDA: -10651000
+Gross Margins: 0.60908
+Operating Margins: -1.21651
+Profit Margins: -2.02828
+Free Cashflow: -12787125
+Operating Cashflow: -9284000
+Return On Assets: -0.92611
+Return On Equity: -4.67137
+Total Cash: 3094000
+Total Debt: 383000
+Debt To Equity: 9.785
+Current Ratio: 2.044
+Quick Ratio: 1.202
+Trailing PE: 
+Forward PE: -0.55212355
+Price To Book: 0.49947608
+Beta: -0.01
+52 Week High: 56.28
+52 Week Low: 1.4

@@ -1,0 +1,25 @@
+Company: SunPower Inc. Warrants
+Ticker: SPWRW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 308943008
+Revenue Per Share: 3.778
+EBITDA: -13383000
+Gross Margins: 0.43557
+Operating Margins: -0.049200002
+Profit Margins: 0.05111
+Free Cashflow: -32183000
+Operating Cashflow: -38957000
+Return On Assets: -0.07676
+Return On Equity: 
+Total Cash: 5072000
+Total Debt: 209224992
+Debt To Equity: 
+Current Ratio: 1.002
+Quick Ratio: 0.745
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.18849206
+Beta: 0.847
+52 Week High: 0.2375
+52 Week Low: 0.23

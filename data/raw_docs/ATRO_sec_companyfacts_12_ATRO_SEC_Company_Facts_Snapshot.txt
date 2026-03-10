@@ -1,0 +1,11 @@
+Company: Astronics Corporation Common Stock
+Ticker: ATRO
+CIK: 0000008063
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 622061000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetIncomeLoss: -256000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Assets: 682193000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Liabilities: 573285000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+StockholdersEquity: 108908000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 47172000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 13479000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27

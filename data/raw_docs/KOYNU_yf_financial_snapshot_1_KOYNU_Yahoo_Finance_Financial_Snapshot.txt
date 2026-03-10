@@ -1,0 +1,25 @@
+Company: CSLM Digital Asset Acquisition Corp III Units
+Ticker: KOYNU
+Market Cap: 
+Enterprise Value: 316786432
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 3526414
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -56.703907
+Beta: 
+52 Week High: 10.6
+52 Week Low: 10.0

@@ -1,0 +1,9 @@
+Company: SIGA Technologies Inc. Common Stock
+Ticker: SIGA
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: New York
+Website: https://www.siga.com
+Employees: 46
+Business Summary: SIGA Technologies, Inc., a commercial-stage pharmaceutical company, focuses on the health security market in the United States. Its lead product is TPOXX, an antiviral drug for the treatment of human smallpox disease caused by variola virus. The company was incorporated in 1995 and is headquartered in New York, New York.

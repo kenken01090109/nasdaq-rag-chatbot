@@ -1,0 +1,9 @@
+Company: D-Market Electronic Services & Trading American Depositary Shares
+Ticker: HEPS
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: Turkey
+City: Istanbul
+Website: https://www.hepsiburada.com
+Employees: 
+Business Summary: D-Market Elektronik Hizmetler ve Ticaret A.S. operates e-commerce platforms in Turkey. The company operates www.hepsiburada.com, a retail website that provides electronics and non-electronics products, such as books, sports, toys, kids and baby products, cosmetics, furniture, etc. It also operates Hepsiburada Market, an app-in-app initiative and on-demand delivery service; HepsiJet that provides last-mile delivery services; HepsiLojistik, which offers fulfillment services; HepsiMat, an offline network of pick-up and drop-off point; HepsiAd that provides advertising service; Hepsipay and Hepsifinans, which offers e-wallet, e-money, payment facilitation services, and consumer lending; and Hepsiburada Seyahat for buying airline tickets online. The company was incorporated in 2000 and is headquartered in Istanbul, Turkey. D-Market Elektronik Hizmetler ve Ticaret A.S. is a subsidiary of Joint Stock Company Kaspi.kz.

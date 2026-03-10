@@ -1,0 +1,25 @@
+Company: Allied Gaming & Entertainment Inc. Common Stock
+Ticker: AGAE
+Market Cap: 11510770
+Enterprise Value: -358852
+Total Revenue: 7938232
+Revenue Per Share: 0.193
+EBITDA: -21333660
+Gross Margins: 0.48379
+Operating Margins: -3.9711802
+Profit Margins: -2.80111
+Free Cashflow: -7516788
+Operating Cashflow: -210554
+Return On Assets: -0.12104999
+Return On Equity: -0.39539
+Total Cash: 55950304
+Total Debt: 39560672
+Debt To Equity: 69.525
+Current Ratio: 1.789
+Quick Ratio: 1.236
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.21973875
+Beta: 1.485
+52 Week High: 3.79
+52 Week Low: 0.251

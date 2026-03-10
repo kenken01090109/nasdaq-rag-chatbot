@@ -1,0 +1,9 @@
+Company: Data Storage Corporation Warrant
+Ticker: DTSTW
+Sector: 
+Industry: 
+Country: United States
+City: Melville
+Website: https://www.dtst.com
+Employees: 53
+Business Summary: Data Storage Corporation provides enterprise cloud and business continuity solutions in the United States and internationally. The company operates through three segments: CloudFirst, CloudFirst Europe, and Nexxis. It offers fully managed cloud hosting services for IBM Power systems, such as IBM i and AIX, as well as x86 environments; cloud solutions, including migration services to ensure seamless transfer of data and applications from legacy systems to the cloud with minimal downtime; and delivers robust disaster-recovery-as-a-service and business continuity solutions to protect organizations from downtime and data loss. The company's recovery services provide off-site data replication, rapid failover for IBM i/AIX and Windows/Linux systems, and cloud-based backup services that ensure clients can restore critical applications in the event of cyberattacks, hardware failures, or natural disasters for minimizing operational disruption. It also offers cybersecurity solutions comprising cybersecurity and compliance services consist of endpoint protection, network security, data encryption, ransomware defense, vulnerability assessments, and IBM i security monitoring. In addition, the company provides managed IT services and support services, such as cloud offerings with managed services comprising systems monitoring, IT automation, and voice and data communications solutions; and voice over Internet protocol/unified communications and dedicated internet connectivity solutions. Further, it offers delivers fully managed cloud-based voice over internet services, data transport, internet access, and SD-WAN solutions focused on business continuity for modern business environment. Data Storage Corporation was founded in 2001 and is headquartered in Melville, New York.

@@ -1,0 +1,10 @@
+Company: AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock
+Ticker: AGNCM
+Market Cap: 8873155584
+Enterprise Value: 97756913664
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.6519337
+Beta: 1.351
+52 Week High: 25.49
+52 Week Low: 23.01

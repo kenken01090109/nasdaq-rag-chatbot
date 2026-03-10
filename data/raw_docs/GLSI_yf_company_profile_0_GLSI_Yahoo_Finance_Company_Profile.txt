@@ -1,0 +1,9 @@
+Company: Greenwich LifeSciences Inc. Common Stock
+Ticker: GLSI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Stafford
+Website: https://greenwichlifesciences.com
+Employees: 4
+Business Summary: Greenwich LifeSciences, Inc., a clinical-stage biopharmaceutical company, develops novel cancer immunotherapies for breast cancer and other HER2/neu-expressing cancers in the United States and Romania. Its lead product candidate is GP2, an immunotherapy, which is in Phase III clinical trial to prevent breast cancer recurrences in patients who have previously undergone surgery. The company also develops FLAMINGO-01, which is in Phase III clinical trial designed to evaluate the safety and efficacy of GLSI-100 (GP2 + GM-CSF) in HER2 positive breast cancer patients. Greenwich LifeSciences, Inc. was formerly known as Norwell, Inc. and changed its name to Greenwich LifeSciences, Inc. in March 2018. The company was incorporated in 2006 and is headquartered in Stafford, Texas.

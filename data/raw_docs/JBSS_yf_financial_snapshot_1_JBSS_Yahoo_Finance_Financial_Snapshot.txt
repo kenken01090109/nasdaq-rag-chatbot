@@ -1,0 +1,25 @@
+Company: John B. Sanfilippo & Son Inc. Common Stock
+Ticker: JBSS
+Market Cap: 899183168
+Enterprise Value: 978533248
+Total Revenue: 1143442944
+Revenue Per Share: 97.935
+EBITDA: 125539000
+Gross Margins: 0.1906
+Operating Margins: 0.07946
+Profit Margins: 0.061539996
+Free Cashflow: 28777250
+Operating Cashflow: 105254000
+Return On Assets: 0.104890004
+Return On Equity: 0.20226
+Total Cash: 2400000
+Total Debt: 72985000
+Debt To Equity: 19.719
+Current Ratio: 2.272
+Quick Ratio: 0.554
+Trailing PE: 12.844742
+Forward PE: 16.163866
+Price To Book: 2.4294286
+Beta: 0.352
+52 Week High: 85.15
+52 Week Low: 58.47

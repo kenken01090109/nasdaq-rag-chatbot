@@ -1,0 +1,25 @@
+Company: Cipher Digital Inc. Common Stock
+Ticker: CIFR
+Market Cap: 5517726208
+Enterprise Value: 8306662912
+Total Revenue: 223942000
+Revenue Per Share: 0.587
+EBITDA: 236510000
+Gross Margins: 0.28399
+Operating Margins: 2.36111
+Profit Margins: 0.0
+Free Cashflow: -1521251712
+Operating Cashflow: -207938000
+Return On Assets: 0.00897
+Return On Equity: -1.08346
+Total Cash: 628262976
+Total Debt: 2767047936
+Debt To Equity: 331.044
+Current Ratio: 3.795
+Quick Ratio: 0.9
+Trailing PE: 
+Forward PE: 23.282051
+Price To Book: 6.8476624
+Beta: 3.007
+52 Week High: 25.52
+52 Week Low: 1.86

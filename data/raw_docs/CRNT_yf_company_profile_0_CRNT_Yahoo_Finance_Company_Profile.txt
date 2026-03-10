@@ -1,0 +1,9 @@
+Company: Ceragon Networks Ltd. Ordinary Shares
+Ticker: CRNT
+Sector: Technology
+Industry: Communication Equipment
+Country: Israel
+City: Rosh Haayin
+Website: https://www.ceragon.com
+Employees: 
+Business Summary: Ceragon Networks Ltd. provides wireless transport solutions for cellular operators and other wireless service providers in North America, Europe, Africa, the Asia Pacific, the Middle East, India, and Latin America. The company's solutions use microwave and millimeter wave radio technology to transfer telecommunication traffic between base stations, small/distributed cells, and the service provider's network. It provides IP-20 all-outdoor solutions, such as IP-20C, IP-20C-HP, IP-20S, IP-20E, and IP-20V; IP-20 split-mount/ all-indoor solutions comprising IP-20N/IP-20A, IP-20F, and IP-20G; and IP-50 disaggregated solutions, including IP-50E, IP-50EX, IP-50C, IP-50CX, and IP-50FX for various short-haul, long-haul, fronthaul, small cells, routing, and enterprise access applications. In addition, the company offers network and radio planning, site surveys, solutions development, installation, network rollout, wireless transport network auditing and optimization, maintenance, training, and other services. It serves internet service providers, municipalities, government, utilities, and maritime communications broadcasters and defense, as well as oil and gas companies, public safety organizations, business and public institutions, broadcasters, energy utilities, and private communications networks. The company sells its products through direct sales, original equipment manufacturers, distributors, and system integrators. The company was formerly known as Giganet Ltd. and changed its name to Ceragon Networks Ltd. in September 2000. Ceragon Networks Ltd. was incorporated in 1996 and is headquartered in Rosh Haayin, Israel.

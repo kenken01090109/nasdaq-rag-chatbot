@@ -1,0 +1,9 @@
+Company: Intelligent Group Limited Class A Ordinary Shares
+Ticker: INTJ
+Sector: Industrials
+Industry: Consulting Services
+Country: Hong Kong
+City: Admiralty
+Website: https://www.intelligentjoy.com
+Employees: 22
+Business Summary: Intelligent Group Limited, together with its subsidiaries, provides financial public relations services in Hong Kong. The company offers financial PR services, such as creating multi-stakeholder communications programs, arranging press conferences and interviews, participating in the preparation of news releases and shareholders' meetings, monitoring news publications, identifying shareholders, targeting potential investors, organizing corporate events, and implementing crisis management policies and procedures. It provides training to its clients on public relations tactics and practices. It serves listing applicants and listed companies, as well as private companies, investors, and international investment banks. Intelligent Group Limited was founded in 2016 and is based in Admiralty, Hong Kong.

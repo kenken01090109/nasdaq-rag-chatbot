@@ -1,0 +1,25 @@
+Company: SuperCom Ltd. Ordinary Shares (Israel)
+Ticker: SPCB
+Market Cap: 37468048
+Enterprise Value: 48921712
+Total Revenue: 26739000
+Revenue Per Share: 5.417
+EBITDA: 4737500
+Gross Margins: 0.56703997
+Operating Margins: 0.10267
+Profit Margins: 0.15528
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01122
+Return On Equity: 0.15338999
+Total Cash: 13125000
+Total Debt: 22561000
+Debt To Equity: 55.307
+Current Ratio: 8.29
+Quick Ratio: 6.758
+Trailing PE: 
+Forward PE: 8.0
+Price To Book: 0.96793705
+Beta: 0.923
+52 Week High: 13.57
+52 Week Low: 5.06

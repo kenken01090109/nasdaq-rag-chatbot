@@ -1,0 +1,9 @@
+Company: Mobilicom Limited Ordinary Shares
+Ticker: MOB
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: Israel
+City: Shoham
+Website: https://www.mobilicom-ltd.com.au
+Employees: 21
+Business Summary: Mobilicom Limited engages in the provision of hardware products and software and cybersecurity solutions for drones, small-sized unmanned aerial vehicles (SUAV), and robotics in Israel, the United States, Canada, and internationally. The company offers OS3 platform, a software solution designed to deliver operational security, safety, and standards compliance for the commercial and defense uncrewed drones and robotics industry; ICE cybersecurity suite, an automated software that provides solutions to prevent, detect, and respond in real-time to cyber-attacks; CONTROLit, a cloud-based network management software solution for operators of SUAV; SkyHopper datalinks, which provide bi-directional data links that support multiple transmission modes; mobile mesh communication units, which connect and act as relay to all units within the network; and integrated logistic support (ILS) services for SUAVs that include ILS operation, logistics, maintenance, and safety. It also provides mobile controller systems, such as 7'' mini-Controller PRO, 7'' RVT, 10'' Maxi-Controller PRO, 10'' Extremer, 10'' Touch-P, 10'' Touch-G, and 8 Controller Pro, which operate with either an internal or external datalink unit, offer battery charging, an advanced tablet feature HD low-latency viewer, and are designed to operate with a variety of payloads. The company serves the Israel Aerospace Industries, Airbus, Elbit Systems, Teledyne-Flir, Rafael Technologies, ST Engineering, the Israeli Ministry of Defense, the U.S. defense industry, and other industries. Mobilicom Limited was incorporated in 2017 and is headquartered in Shoham, Israel.

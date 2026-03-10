@@ -1,0 +1,25 @@
+Company: SEALSQ Corp Ordinary Shares
+Ticker: LAES
+Market Cap: 713814208
+Enterprise Value: 441844288
+Total Revenue: 10978000
+Revenue Per Share: 0.139
+EBITDA: -28894000
+Gross Margins: 0.44762
+Operating Margins: -4.4014497
+Profit Margins: -2.77309
+Free Cashflow: -5044250
+Operating Cashflow: -18295000
+Return On Assets: -0.21189
+Return On Equity: -0.49359
+Total Cash: 120945000
+Total Debt: 6371000
+Debt To Equity: 5.393
+Current Ratio: 7.383
+Quick Ratio: 7.102
+Trailing PE: 
+Forward PE: -66.5
+Price To Book: 4.4333334
+Beta: -11.75
+52 Week High: 8.71
+52 Week Low: 2.12

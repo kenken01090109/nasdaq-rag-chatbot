@@ -1,0 +1,9 @@
+Company: Oyster Enterprises II Acquisition Corp Class A Ordinary Shares
+Ticker: OYSE
+CIK: 0002042182
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3474890 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 257950206 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 8947700 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: -7777345 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -497761 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

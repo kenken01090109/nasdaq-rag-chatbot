@@ -1,0 +1,12 @@
+Company: Alico Inc. Common Stock
+Ticker: ALCO
+Total Revenue: 29059000
+Revenue Per Share: 3.802
+Gross Margins: -0.66761
+Operating Margins: -4.3698997
+EBITDA: -15474000
+Profit Margins: 0.0
+Free Cashflow: 9813875
+Operating Cashflow: 22254000
+Return On Assets: -0.0665
+Return On Equity: -0.80757004

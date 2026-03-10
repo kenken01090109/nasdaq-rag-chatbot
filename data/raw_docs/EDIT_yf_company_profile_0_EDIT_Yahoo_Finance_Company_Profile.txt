@@ -1,0 +1,9 @@
+Company: Editas Medicine Inc. Common Stock
+Ticker: EDIT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.editasmedicine.com
+Employees: 246
+Business Summary: Editas Medicine, Inc., a clinical stage genome editing company, focuses on developing transformative genomic medicines to treat a range of serious diseases. The company develops a proprietary gene editing platform based on CRISPR technology. It has a research collaboration with Juno Therapeutics, Inc. to develop alpha-beta T-cell experimental medicines for the treatment of solid and liquid tumors. The company was formerly known as Gengine, Inc. and changed its name to Editas Medicine, Inc. in November 2013. Editas Medicine, Inc. was incorporated in 2013 and is based in Cambridge, Massachusetts.

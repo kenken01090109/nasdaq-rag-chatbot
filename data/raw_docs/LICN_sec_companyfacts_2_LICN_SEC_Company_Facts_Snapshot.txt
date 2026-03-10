@@ -1,0 +1,12 @@
+Company: Lichen International Limited Class A Ordinary Shares
+Ticker: LICN
+CIK: 0001876766
+Latest SEC XBRL Facts:
+Revenues: 14260000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12162000 | unit=USD | filed=2023-10-13 | period_end=2023-06-30
+NetIncomeLoss: -9356000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Assets: 67207000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Liabilities: 2956000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+StockholdersEquity: 64251000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1854000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 22573000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30

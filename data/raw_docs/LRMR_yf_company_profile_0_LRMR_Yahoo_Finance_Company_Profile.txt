@@ -1,0 +1,9 @@
+Company: Larimar Therapeutics Inc. Common Stock
+Ticker: LRMR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Bala Cynwyd
+Website: https://larimartx.com
+Employees: 65
+Business Summary: Larimar Therapeutics, Inc., a clinical-stage biotechnology company, focuses on developing treatments for rare diseases using its novel cell penetrating peptide technology platform. Its lead product candidate is CTI-1601, which is in Phase 2 OLE clinical trial for the treatment of Friedreich's ataxia, a rare, progressive and fatal genetic disease. The company is based in Bala Cynwyd, Pennsylvania.

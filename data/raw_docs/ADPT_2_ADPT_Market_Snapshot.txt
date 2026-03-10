@@ -1,0 +1,10 @@
+Company: Adaptive Biotechnologies Corporation Common Stock
+Ticker: ADPT
+Market Cap: 2452926464
+Enterprise Value: 2442510336
+Trailing PE: 
+Forward PE: -59.0
+Price To Book: 11.194659
+Beta: 2.301
+52 Week High: 20.76
+52 Week Low: 6.255

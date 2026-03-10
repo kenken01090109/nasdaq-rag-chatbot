@@ -1,0 +1,11 @@
+Company: Ucommune International Ltd Ordinary Shares
+Ticker: UK
+CIK: 0001821424
+Latest SEC XBRL Facts:
+Revenues: 16363000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30
+NetIncomeLoss: -6898000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30
+Assets: 67967000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30
+Liabilities: 63077000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30
+StockholdersEquity: 4706000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -677000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 8309000 | unit=USD | filed=2024-09-26 | period_end=2024-06-30

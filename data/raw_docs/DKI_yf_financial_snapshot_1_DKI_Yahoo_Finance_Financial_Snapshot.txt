@@ -1,0 +1,25 @@
+Company: DarkIris Inc. Class A Ordinary Shares
+Ticker: DKI
+Market Cap: 8714125
+Enterprise Value: 6793173
+Total Revenue: 10078798
+Revenue Per Share: 0.61
+EBITDA: -8563328
+Gross Margins: 0.24833
+Operating Margins: -1.9695101
+Profit Margins: -0.85746
+Free Cashflow: 2139065
+Operating Cashflow: -457935
+Return On Assets: -1.0063701
+Return On Equity: -2.2395399
+Total Cash: 1800202
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.859
+Quick Ratio: 2.655
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.2848665
+Beta: 
+52 Week High: 15.0
+52 Week Low: 0.305

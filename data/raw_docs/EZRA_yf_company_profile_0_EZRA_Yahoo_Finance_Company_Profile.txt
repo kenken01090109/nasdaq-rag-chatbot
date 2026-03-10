@@ -1,0 +1,9 @@
+Company: Reliance Global Group Inc. Common Stock
+Ticker: EZRA
+Sector: Financial Services
+Industry: Insurance Brokers
+Country: United States
+City: Lakewood
+Website: https://www.relianceglobalgroup.com
+Employees: 64
+Business Summary: Reliance Global Group, Inc. focuses on the acquisition and management of wholesale and retail insurance agencies in the United States. It provides agency services for insurance products in healthcare and medicare, personal and commercial, trucking, property and casualty, and insurance brokerage. The company was formerly known as Ethos Media Network, Inc. and changed its name to Reliance Global Group, Inc. in October 2018. Reliance Global Group, Inc. was incorporated in 2013 and is headquartered in Lakewood, New Jersey.

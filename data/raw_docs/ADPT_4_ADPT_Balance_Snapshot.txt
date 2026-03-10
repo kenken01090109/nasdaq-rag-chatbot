@@ -1,0 +1,8 @@
+Company: Adaptive Biotechnologies Corporation Common Stock
+Ticker: ADPT
+Total Cash: 226980000
+Total Debt: 210356000
+Debt To Equity: 93.491
+Current Ratio: 3.339
+Quick Ratio: 3.101
+Book Value: 1.423

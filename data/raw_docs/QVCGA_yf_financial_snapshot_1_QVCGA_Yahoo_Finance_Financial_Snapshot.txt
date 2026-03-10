@@ -1,0 +1,25 @@
+Company: QVC Group Inc. Series A Common Stock
+Ticker: QVCGA
+Market Cap: 26100488
+Enterprise Value: 6057222656
+Total Revenue: 9496999936
+Revenue Per Share: 1191.332
+EBITDA: 937000000
+Gross Margins: 0.34369
+Operating Margins: 0.033889998
+Profit Margins: -0.38833
+Free Cashflow: 93875000
+Operating Cashflow: 242000000
+Return On Assets: 0.03443
+Return On Equity: 
+Total Cash: 1816999936
+Total Debt: 7751000064
+Debt To Equity: 
+Current Ratio: 2.494
+Quick Ratio: 1.635
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.008273341
+Beta: 2.836
+52 Week High: 15.98
+52 Week Low: 2.27

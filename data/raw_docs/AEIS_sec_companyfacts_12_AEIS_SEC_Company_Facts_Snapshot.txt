@@ -1,0 +1,12 @@
+Company: Advanced Energy Industries Inc. Common Stock
+Ticker: AEIS
+CIK: 0000927003
+Latest SEC XBRL Facts:
+Revenues: 453095000 | unit=USD | filed=2018-02-15 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1309400000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 49900000 | unit=USD | filed=2025-08-05 | period_end=2025-06-30
+Assets: 2438100000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1124000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1307200000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 152800000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 758600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: ReNew Energy Global plc Class A Ordinary Shares
+Ticker: RNW
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: United Kingdom
+City: London
+Website: https://www.renew.com
+Employees: 4336
+Business Summary: ReNew Energy Global Plc, together with its subsidiaries, engages in the generation of power through non-conventional and renewable energy sources in India. It operates through five segments: Wind Power, Solar Power, Hydro Power, Transmission Line, and Manufacturing segments. The company develops and owns utility scale wind and solar energy projects, corporate wind and solar energy projects, and utility-scale firm power projects. It also provides operation and maintenance services; consultancy services; and engineering, procurement, and construction services. As of May 31, 2025, the company operates a 18.46 GWs total capacity of clean energy portfolio. ReNew Energy Global Plc was founded in 2011 and is based in London, the United Kingdom.

@@ -1,0 +1,10 @@
+Company: Adagio Medical Holdings Inc Common Stock
+Ticker: ADGM
+Market Cap: 20542130
+Enterprise Value: 37836128
+Trailing PE: 
+Forward PE: -0.979697
+Price To Book: -11.410588
+Beta: 0.135
+52 Week High: 2.87
+52 Week Low: 0.625

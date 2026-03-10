@@ -1,0 +1,9 @@
+Company: Super League Enterprise Inc. Common Stock
+Ticker: SLE
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Santa Monica
+Website: https://www.superleague.com
+Employees: 72
+Business Summary: Super League Enterprise, Inc. creates and publishes content experiences and media solutions across immersive platforms in the United States and internationally. Its proprietary cloud-based platform offers dynamic media technology; metaverse game experience and tournament technology; and fully remote production and livestream broadcast technology. The company also operates Minecraft server world for more casual players on consoles and tablets. In addition, it sells on-platform media and analytics products, and influencer marketing campaign sales to third-party brands and agencies; game development and custom game experiences within its owned and affiliate game worlds; and production, curation and distribution of entertainment content for its network of digital channels and media and entertainment partner channels. The company was formerly known as Super League Gaming, Inc. and changed its name to Super League Enterprise, Inc. in September 2023. Super League Enterprise, Inc. was incorporated in 2014 and is headquartered in Santa Monica, California.

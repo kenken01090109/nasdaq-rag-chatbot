@@ -1,0 +1,12 @@
+Company: Rapid7 Inc. Common Stock
+Ticker: RPD
+CIK: 0001560327
+Latest SEC XBRL Facts:
+Revenues: 627746000 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 642406000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 20252000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1666407000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1539191000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 127216000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 116250000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 130613000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

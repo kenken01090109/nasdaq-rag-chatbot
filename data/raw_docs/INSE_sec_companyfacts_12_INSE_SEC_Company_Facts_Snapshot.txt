@@ -1,0 +1,12 @@
+Company: Inspired Entertainment Inc. Common Stock
+Ticker: INSE
+CIK: 0001615063
+Latest SEC XBRL Facts:
+Revenues: 128000000 | unit=USD | filed=2020-11-12 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 226900000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -9800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 485800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 494800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -9000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 50800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47100000 | unit=USD | filed=2021-03-29 | period_end=2020-12-31

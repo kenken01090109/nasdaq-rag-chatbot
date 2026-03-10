@@ -1,0 +1,12 @@
+Company: Nexentis Technologies Inc. Common Stock
+Ticker: NXTS
+CIK: 0001789192
+Latest SEC XBRL Facts:
+Revenues: 43831 | unit=USD | filed=2024-05-15 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 68000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -5273000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 11026000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2350000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 8930000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2311000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6044000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

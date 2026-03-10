@@ -1,0 +1,25 @@
+Company: Ribbon Communications Inc. Common Stock
+Ticker: RBBN
+Market Cap: 379689120
+Enterprise Value: 705594240
+Total Revenue: 844556032
+Revenue Per Share: 4.793
+EBITDA: 81592000
+Gross Margins: 0.52222997
+Operating Margins: 0.08253
+Profit Margins: 0.04693
+Free Cashflow: 42159876
+Operating Cashflow: 51398000
+Return On Assets: 0.010880001
+Return On Equity: 0.09287
+Total Cash: 96405000
+Total Debt: 405132992
+Debt To Equity: 90.231
+Current Ratio: 1.441
+Quick Ratio: 1.041
+Trailing PE: 9.772728
+Forward PE: 9.247313
+Price To Book: 0.84181684
+Beta: 1.085
+52 Week High: 4.31
+52 Week Low: 1.8

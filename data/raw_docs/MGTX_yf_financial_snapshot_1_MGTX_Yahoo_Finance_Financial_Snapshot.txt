@@ -1,0 +1,25 @@
+Company: MeiraGTx Holdings plc Ordinary Shares
+Ticker: MGTX
+Market Cap: 563436224
+Enterprise Value: 636656192
+Total Revenue: 27417000
+Revenue Per Share: 0.343
+EBITDA: -151432000
+Gross Margins: 0.41011003
+Operating Margins: -112.31951
+Profit Margins: 0.0
+Free Cashflow: -60844876
+Operating Cashflow: -116266000
+Return On Assets: -0.41908002
+Return On Equity: -6.11421
+Total Cash: 14841000
+Total Debt: 88061000
+Debt To Equity: 
+Current Ratio: 0.223
+Quick Ratio: 0.174
+Trailing PE: 
+Forward PE: -2.7888446
+Price To Book: -13.888888
+Beta: 1.399
+52 Week High: 9.73
+52 Week Low: 4.55

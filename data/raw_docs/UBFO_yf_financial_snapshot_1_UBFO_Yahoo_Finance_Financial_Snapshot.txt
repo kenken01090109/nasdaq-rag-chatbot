@@ -1,0 +1,25 @@
+Company: United Security Bancshares Common Stock
+Ticker: UBFO
+Market Cap: 182326544
+Enterprise Value: 71022544
+Total Revenue: 48283000
+Revenue Per Share: 2.8
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.39145002
+Profit Margins: 0.2545
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00999
+Return On Equity: 0.09101
+Total Cash: 120955000
+Total Debt: 9651000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 14.814286
+Forward PE: 
+Price To Book: 1.3052233
+Beta: 0.299
+52 Week High: 11.52
+52 Week Low: 7.32

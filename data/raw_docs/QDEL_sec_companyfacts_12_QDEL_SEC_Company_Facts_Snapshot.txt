@@ -1,0 +1,11 @@
+Company: QuidelOrtho Corporation Common Stock
+Ticker: QDEL
+CIK: 0001906324
+Latest SEC XBRL Facts:
+Revenues: 2006600000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetIncomeLoss: -1001100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Assets: 5675100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Liabilities: 3638700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+StockholdersEquity: 2036400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: -26700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 98100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28

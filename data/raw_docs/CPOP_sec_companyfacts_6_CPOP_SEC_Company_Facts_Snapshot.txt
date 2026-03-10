@@ -1,0 +1,11 @@
+Company: Pop Culture Group Co. Ltd Class A Ordinary Shares
+Ticker: CPOP
+CIK: 0001807389
+Latest SEC XBRL Facts:
+Revenues: 107632769 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+NetIncomeLoss: 2540679 | unit=USD | filed=2025-06-30 | period_end=2024-12-31
+Assets: 98201730 | unit=USD | filed=2025-06-30 | period_end=2024-12-31
+Liabilities: 69354786 | unit=USD | filed=2025-06-30 | period_end=2024-12-31
+StockholdersEquity: 28813712 | unit=USD | filed=2025-06-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 141549 | unit=USD | filed=2025-06-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 2605111 | unit=USD | filed=2025-11-17 | period_end=2025-06-30

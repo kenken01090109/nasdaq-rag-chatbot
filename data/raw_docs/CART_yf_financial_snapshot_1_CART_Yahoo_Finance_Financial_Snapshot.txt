@@ -1,0 +1,25 @@
+Company: Maplebear Inc. Common Stock
+Ticker: CART
+Market Cap: 9999880192
+Enterprise Value: 8707621888
+Total Revenue: 3742000128
+Revenue Per Share: 14.318
+EBITDA: 531000000
+Gross Margins: 0.73704004
+Operating Margins: 0.0998
+Profit Margins: 0.119449995
+Free Cashflow: 647500032
+Operating Cashflow: 971000000
+Return On Assets: 0.08011
+Return On Equity: 0.14917
+Total Cash: 687000000
+Total Debt: 36000000
+Debt To Equity: 1.326
+Current Ratio: 2.398
+Quick Ratio: 1.978
+Trailing PE: 23.80625
+Forward PE: 8.128867
+Price To Book: 3.673804
+Beta: 0.987
+52 Week High: 53.5
+52 Week Low: 32.73

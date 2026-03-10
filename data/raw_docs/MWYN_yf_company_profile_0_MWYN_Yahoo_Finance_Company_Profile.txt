@@ -1,0 +1,9 @@
+Company: Marwynn Holdings Inc. Common stock
+Ticker: MWYN
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Irvine
+Website: https://www.marwynnholdings.com
+Employees: 27
+Business Summary: Marwynn Holdings, Inc. engages in the supply chain business in the United States. The company offers frozen food, snacks, dry groceries, seasonings, and non-alcoholic beverages to markets, grocery stores, and wholesale/warehouse clubs; and kitchen cabinets, flooring, and home improvement products. It also provides supply chain consulting and market expansion support services. It also engages in supply-chain management operations to include sourcing, logistics coordination, trading facilitation, documentation management, and commercial operations related to electronic waste and recyclable material. The company also sells its products through website. Marwynn Holdings, Inc. was incorporated in 2024 and is based in Irvine, California.

@@ -1,0 +1,9 @@
+Company: Lipocine Inc. Common Stock
+Ticker: LPCN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Salt Lake City
+Website: https://www.lipocine.com
+Employees: 16
+Business Summary: Lipocine Inc., a clinical-stage biopharmaceutical company, engages in the research and development for the delivery of drugs for the treatment of central nervous system (CNS) disorders. Its lead product candidate is TLANDO, an oral testosterone replacement therapy (TRT) comprising testosterone undecanoate. The company's pipeline candidates also include LPCN 1111 (TLANDO XR), a next-generation long-acting oral product candidate for TRT; LPCN 1148, a novel prodrug of testosterone and testosterone laurate for the treatment of cirrhosis; LPCN 1154 to treat postpartum depression; LPCN 2101, a NAS candidate for women with epilepsy; and LPCN 2203, an oral candidate for management of essential tremor. It also develops LPCN 1144, an oral prodrug of bioidentical testosterone for the treatment of metabolic dysfunction-associated steatohepatitis; LPCN 2401 to improve body composition in obesity management; and LPCN 1107, an oral hydroxy progesterone caproate product indicated for the prevention of recurrent preterm birth. The company was founded in 1997 and is headquartered in Salt Lake City, Utah.

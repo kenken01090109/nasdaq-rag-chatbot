@@ -1,0 +1,11 @@
+Company: Global Indemnity Group LLC Class A Common Stock
+Ticker: GBLI
+CIK: 0001494904
+Latest SEC XBRL Facts:
+Revenues: 333369000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 18878000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 1734088000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 1029953000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 704135000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15093000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 75360000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

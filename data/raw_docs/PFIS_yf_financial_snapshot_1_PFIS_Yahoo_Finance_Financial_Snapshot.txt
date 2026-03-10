@@ -1,0 +1,25 @@
+Company: Peoples Financial Services Corp. Common Stock
+Ticker: PFIS
+Market Cap: 526315360
+Enterprise Value: 524226784
+Total Revenue: 187591008
+Revenue Per Share: 18.77
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.36949003
+Profit Margins: 0.31551
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.011419999
+Return On Equity: 0.119720004
+Total Cash: 268984000
+Total Debt: 258400000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.955782
+Forward PE: 7.298683
+Price To Book: 1.0124391
+Beta: 0.773
+52 Week High: 57.71
+52 Week Low: 38.9

@@ -1,0 +1,11 @@
+Company: Sun Country Airlines Holdings Inc. Common Stock
+Ticker: SNCY
+CIK: 0001743907
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 845808000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 44664000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1603935000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 993723000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 610212000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 78201000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 111834000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

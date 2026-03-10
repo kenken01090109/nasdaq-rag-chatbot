@@ -1,0 +1,25 @@
+Company: Smart Powerr Corp. Common Stock
+Ticker: CREG
+Market Cap: 23930492
+Enterprise Value: -104200616
+Total Revenue: 173659
+Revenue Per Share: 0.015
+EBITDA: -2722341
+Gross Margins: 0.45855
+Operating Margins: -2.35069
+Profit Margins: 0.0
+Free Cashflow: 70380608
+Operating Cashflow: 54009580
+Return On Assets: -0.01269
+Return On Equity: -0.02658
+Total Cash: 131877056
+Total Debt: 3121679
+Debt To Equity: 2.641
+Current Ratio: 8.973
+Quick Ratio: 8.973
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.03412564
+Beta: 0.325
+52 Week High: 14.7
+52 Week Low: 0.93

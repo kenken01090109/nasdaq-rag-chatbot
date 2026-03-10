@@ -1,0 +1,25 @@
+Company: Patriot National Bancorp Inc. Common Stock
+Ticker: PNBK
+Market Cap: 142588864
+Enterprise Value: -18518408
+Total Revenue: 17200000
+Revenue Per Share: 0.351
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -0.26896
+Profit Margins: -1.1618
+Free Cashflow: 
+Operating Cashflow: -12700000
+Return On Assets: -0.02076
+Return On Equity: -0.35873002
+Total Cash: 181036992
+Total Debt: 16480000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 1.2277228
+Price To Book: 1.5012107
+Beta: -0.67
+52 Week High: 7.47
+52 Week Low: 0.9

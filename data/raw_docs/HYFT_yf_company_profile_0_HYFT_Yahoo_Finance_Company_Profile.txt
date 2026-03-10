@@ -1,0 +1,9 @@
+Company: MindWalk Holdings Corp. Common Stock
+Ticker: HYFT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Austin
+Website: https://www.mindwalkai.com
+Employees: 81
+Business Summary: MindWalk Holdings Corp. operates as a bio-native AI company. It focuses on the integration of artificial intelligence, multi-omics data, and advanced laboratory research to accelerate the discovery and development of biologics. The company, through its LensAI platform and HYFT technology, it partners with pharmaceutical and biotechnology companies to drive de-risk drug development and unlock therapeutic possibilities. The company was formerly known as ImmunoPrecise Antibodies Ltd. and changed its name to MindWalk Holdings Corp. in September 2025. The company was incorporated in 1983 and is headquartered in Austin, Texas.

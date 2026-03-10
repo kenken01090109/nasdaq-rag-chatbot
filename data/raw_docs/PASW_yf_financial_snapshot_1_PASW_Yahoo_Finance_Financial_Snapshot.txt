@@ -1,0 +1,25 @@
+Company: Ping An Biomedical Co. Ltd. Ordinary Shares
+Ticker: PASW
+Market Cap: 18371124
+Enterprise Value: 12886762
+Total Revenue: 34147936
+Revenue Per Share: 1.848
+EBITDA: -14695886
+Gross Margins: 0.02781
+Operating Margins: -0.69636
+Profit Margins: -0.37569
+Free Cashflow: -59241688
+Operating Cashflow: -6427762
+Return On Assets: -0.1467
+Return On Equity: -0.67427003
+Total Cash: 1172480
+Total Debt: 10467577
+Debt To Equity: 23.137
+Current Ratio: 2.76
+Quick Ratio: 0.798
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.46101126
+Beta: 
+52 Week High: 5.4
+52 Week Low: 0.13

@@ -1,0 +1,11 @@
+Company: Empery Digital Inc. Common stock
+Ticker: EMPD
+CIK: 0001829794
+Latest SEC XBRL Facts:
+Revenues: 1637286 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -40915628 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 492261234 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 54620472 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 437640762 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14855343 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18819529 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

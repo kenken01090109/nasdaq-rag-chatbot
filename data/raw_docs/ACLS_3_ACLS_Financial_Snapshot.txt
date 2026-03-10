@@ -1,0 +1,12 @@
+Company: Axcelis Technologies Inc. Common Stock
+Ticker: ACLS
+Total Revenue: 839048000
+Revenue Per Share: 26.574
+Gross Margins: 0.44914
+Operating Margins: 0.15177
+EBITDA: 129228000
+Profit Margins: 0.1433
+Free Cashflow: 71145376
+Operating Cashflow: 118305000
+Return On Assets: 0.05503
+Return On Equity: 0.11745

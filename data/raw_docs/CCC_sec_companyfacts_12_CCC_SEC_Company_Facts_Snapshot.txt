@@ -1,0 +1,11 @@
+Company: CCC Intelligent Solutions Holdings Inc. Common Stock
+Ticker: CCC
+CIK: 0001818201
+Latest SEC XBRL Facts:
+Revenues: 779136000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -6432000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 3591627000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1461805000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 2129822000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 196315000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 97141000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: BTQ Technologies Corp. Common Stock
+Ticker: BTQ
+Market Cap: 441081696
+Enterprise Value: 401691872
+Total Revenue: 565497
+Revenue Per Share: 0.004
+EBITDA: -13160738
+Gross Margins: 1.0
+Operating Margins: -23.154839
+Profit Margins: 0.0
+Free Cashflow: -2866371
+Operating Cashflow: -8568813
+Return On Assets: -0.39129
+Return On Equity: -0.77671
+Total Cash: 39389812
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 20.451
+Quick Ratio: 20.266
+Trailing PE: 
+Forward PE: -86.12911
+Price To Book: 15.716991
+Beta: -18.333
+52 Week High: 16.0
+52 Week Low: 2.28

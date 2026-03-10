@@ -1,0 +1,9 @@
+Company: Roma Green Finance Limited Class A Ordinary Shares
+Ticker: ROMA
+Sector: Industrials
+Industry: Consulting Services
+Country: Hong Kong
+City: Wan Chai
+Website: https://www.romaesg.com
+Employees: 19
+Business Summary: Roma Green Finance Limited, through its subsidiaries, provides environmental, social, corporate governance, risk management, and sustainability and climate change related advisory services in Hong Kong and Singapore. The company offers sustainability strategy advisory, ESG reporting, climate change strategies and solutions, compliance environmental audit, ESG rating support and shareholder communication, and education and training services. It serves private companies and non-governmental organizations. The company was founded in 2018 and is headquartered in Wan Chai, Hong Kong. Roma Green Finance Limited operates as a subsidiary of Top Elect Group Limited.

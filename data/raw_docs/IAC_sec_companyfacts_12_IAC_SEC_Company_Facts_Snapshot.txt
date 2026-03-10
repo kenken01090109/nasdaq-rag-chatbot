@@ -1,0 +1,11 @@
+Company: IAC Inc. Common Stock
+Ticker: IAC
+CIK: 0001800227
+Latest SEC XBRL Facts:
+Revenues: 929680000 | unit=USD | filed=2024-05-07 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1747210000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -27232000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 7187652000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 4790486000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 244425000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 1005496000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

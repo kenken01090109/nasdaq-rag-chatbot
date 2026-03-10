@@ -1,0 +1,10 @@
+Company: LEIFRAS Co. Ltd. American Depositary Shares
+Ticker: LFS
+CIK: 0002030277
+Latest SEC XBRL Facts:
+Revenues: 38071796 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: 372520 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Assets: 32811702 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 25219543 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+StockholdersEquity: 7592159 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 2169685 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

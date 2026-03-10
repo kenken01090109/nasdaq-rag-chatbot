@@ -1,0 +1,25 @@
+Company: Lifeway Foods Inc. Common Stock
+Ticker: LWAY
+Market Cap: 323611200
+Enterprise Value: 302654368
+Total Revenue: 204068992
+Revenue Per Share: 13.509
+EBITDA: 16974000
+Gross Margins: 0.28447
+Operating Margins: 0.088199995
+Profit Margins: 0.05468
+Free Cashflow: 3188375
+Operating Cashflow: 8102000
+Return On Assets: 0.08167
+Return On Equity: 0.14464
+Total Cash: 22990000
+Total Debt: 358000
+Debt To Equity: 0.433
+Current Ratio: 2.298
+Quick Ratio: 1.732
+Trailing PE: 28.716215
+Forward PE: 15.510949
+Price To Book: 3.9098437
+Beta: 0.144
+52 Week High: 34.2
+52 Week Low: 19.5

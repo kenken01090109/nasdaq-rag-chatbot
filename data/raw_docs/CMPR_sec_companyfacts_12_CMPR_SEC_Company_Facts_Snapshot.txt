@@ -1,0 +1,11 @@
+Company: Cimpress plc Ordinary Shares (Ireland)
+Ticker: CMPR
+CIK: 0001262976
+Latest SEC XBRL Facts:
+Revenues: 1905479000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetIncomeLoss: 56981000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Assets: 2094367000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Liabilities: 2618338000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+StockholdersEquity: -530729000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 189720000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 258038000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31

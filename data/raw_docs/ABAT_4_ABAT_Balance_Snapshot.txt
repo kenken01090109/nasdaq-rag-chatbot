@@ -1,0 +1,8 @@
+Company: American Battery Technology Company Common Stock
+Ticker: ABAT
+Total Cash: 47894544
+Total Debt: 250415
+Debt To Equity: 0.21
+Current Ratio: 14.882
+Quick Ratio: 12.395
+Book Value: 0.908

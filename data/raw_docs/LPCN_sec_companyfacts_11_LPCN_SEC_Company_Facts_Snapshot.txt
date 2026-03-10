@@ -1,0 +1,12 @@
+Company: Lipocine Inc. Common Stock
+Ticker: LPCN
+CIK: 0001535955
+Latest SEC XBRL Facts:
+Revenues: 831287 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 54990 | unit=USD | filed=2023-08-10 | period_end=2023-06-30
+NetIncomeLoss: -7257421 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 16073167 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1931119 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 14142048 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6841214 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3901040 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

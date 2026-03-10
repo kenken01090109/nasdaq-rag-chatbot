@@ -1,0 +1,25 @@
+Company: Applovin Corporation Class A Common Stock
+Ticker: APP
+Market Cap: 169700737024
+Enterprise Value: 172706398208
+Total Revenue: 5480716800
+Revenue Per Share: 16.178
+EBITDA: 4275017984
+Gross Margins: 0.87864
+Operating Margins: 0.76917
+Profit Margins: 0.60827
+Free Cashflow: 2699187200
+Operating Cashflow: 4015474944
+Return On Assets: 0.3953
+Return On Equity: 2.12945
+Total Cash: 2487096064
+Total Debt: 3667394048
+Debt To Equity: 171.801
+Current Ratio: 3.322
+Quick Ratio: 3.229
+Trailing PE: 50.113773
+Forward PE: 24.78651
+Price To Book: 79.57845
+Beta: 2.505
+52 Week High: 745.61
+52 Week Low: 200.5

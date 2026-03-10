@@ -1,0 +1,12 @@
+Company: Sonoma Pharmaceuticals Inc. Common Stock
+Ticker: SNOA
+CIK: 0001367083
+Latest SEC XBRL Facts:
+Revenues: 13968000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 13968000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetIncomeLoss: -2594000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Assets: 13623000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Liabilities: 10191000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: 3432000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3414000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2561000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: 1stdibs.com Inc. Common Stock
+Ticker: DIBS
+Market Cap: 205040352
+Enterprise Value: 131293680
+Total Revenue: 89620000
+Revenue Per Share: 2.483
+EBITDA: -17903000
+Gross Margins: 0.73017
+Operating Margins: -0.100530006
+Profit Margins: -0.15248999
+Free Cashflow: 3633500
+Operating Cashflow: -2436000
+Return On Assets: -0.081709996
+Return On Equity: -0.1417
+Total Cash: 95037000
+Total Debt: 18588000
+Debt To Equity: 19.863
+Current Ratio: 4.195
+Quick Ratio: 4.022
+Trailing PE: 
+Forward PE: -10.769231
+Price To Book: 2.2047243
+Beta: 1.07
+52 Week High: 6.625
+52 Week Low: 2.3

@@ -1,0 +1,25 @@
+Company: Aurora Cannabis Inc. Common Shares
+Ticker: ACB
+Market Cap: 199050080
+Enterprise Value: 223061072
+Total Revenue: 373118016
+Revenue Per Share: 6.644
+EBITDA: -32735000
+Gross Margins: 0.36027
+Operating Margins: 0.02319
+Profit Margins: -0.22511
+Free Cashflow: 11860625
+Operating Cashflow: -9599000
+Return On Assets: -0.043569997
+Return On Equity: -0.15509
+Total Cash: 108450000
+Total Debt: 100995000
+Debt To Equity: 17.786
+Current Ratio: 3.055
+Quick Ratio: 1.046
+Trailing PE: 
+Forward PE: -31.90909
+Price To Book: 0.5073612
+Beta: 1.305
+52 Week High: 6.665
+52 Week Low: 3.28

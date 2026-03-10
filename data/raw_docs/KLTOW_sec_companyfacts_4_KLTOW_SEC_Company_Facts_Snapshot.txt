@@ -1,0 +1,10 @@
+Company: Klotho Neurosciences Inc. Warrant
+Ticker: KLTOW
+CIK: 0001907223
+Latest SEC XBRL Facts:
+NetIncomeLoss: -9222798 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 10073144 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 145891 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9927253 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4610390 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7300000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

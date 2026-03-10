@@ -1,0 +1,9 @@
+Company: Plumas Bancorp
+Ticker: PLBC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Reno
+Website: https://www.plumasbank.com
+Employees: 
+Business Summary: Plumas Bancorp operates as the bank holding company for the Plumas Bank that provides various banking products and services for small and middle market businesses and individuals in California, Nevada, and Oregon. The company accepts various deposits, such as checking, money market checking, business sweep, public funds sweep, savings, and retirement accounts, and time and remote deposits. Its loan portfolio comprises term real estate, commercial, and industrial term loans; government-guaranteed and agricultural loans, as well as credit lines; consumer and home equity loans; land development and construction loans; and small business administration loans. In addition, the company provides telephone and mobile banking, internet banking with bill-pay options, cashier's check, bank-by-mail, automated teller machine, night depository, safe deposit box, direct deposit, electronic funds transfer, and other customary banking services. Plumas Bancorp was founded in 1980 and is headquartered in Reno, Nevada.

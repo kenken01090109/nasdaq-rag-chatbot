@@ -1,0 +1,10 @@
+Company: Quince Therapeutics Inc. Common Stock
+Ticker: QNCX
+CIK: 0001662774
+Latest SEC XBRL Facts:
+NetIncomeLoss: -44521000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 109899000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 108840000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 1059000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30944000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6452000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

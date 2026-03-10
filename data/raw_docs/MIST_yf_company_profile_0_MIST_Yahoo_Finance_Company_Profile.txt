@@ -1,0 +1,9 @@
+Company: Milestone Pharmaceuticals Inc. Common Shares
+Ticker: MIST
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Montreal
+Website: https://www.milestonepharma.com
+Employees: 33
+Business Summary: Milestone Pharmaceuticals Inc., a biopharmaceutical company, focuses on the development and commercialization of cardiovascular medicines in the United States and Canada. The company's lead product candidate is etripamil, a novel and potent calcium channel blocker, which has completed phase III clinical trial for the treatment of paroxysmal supraventricular tachycardia; and Phase II clinical trial for the treatment of atrial fibrillation and rapid ventricular rate. It has a license and collaboration agreement with Corxel Pharmaceuticals to develop and commercialize etripamil. Milestone Pharmaceuticals Inc.was incorporated in 2003 and is headquartered in Montreal, Canada.

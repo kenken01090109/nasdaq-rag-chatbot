@@ -1,0 +1,25 @@
+Company: Extreme Networks Inc. Common Stock
+Ticker: EXTR
+Market Cap: 1877088000
+Enterprise Value: 1931184128
+Total Revenue: 1219677952
+Revenue Per Share: 9.159
+EBITDA: 79741000
+Gross Margins: 0.61294997
+Operating Margins: 0.06432
+Profit Margins: 0.0075
+Free Cashflow: 142084368
+Operating Cashflow: 148052992
+Return On Assets: 0.03385
+Return On Equity: 0.124280006
+Total Cash: 219791008
+Total Debt: 212123008
+Debt To Equity: 221.164
+Current Ratio: 0.948
+Quick Ratio: 0.659
+Trailing PE: 233.0
+Forward PE: 10.975207
+Price To Book: 19.552448
+Beta: 1.706
+52 Week High: 22.89
+52 Week Low: 10.1

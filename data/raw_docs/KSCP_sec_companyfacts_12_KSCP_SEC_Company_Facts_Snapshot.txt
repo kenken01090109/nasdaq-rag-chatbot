@@ -1,0 +1,11 @@
+Company: Knightscope Inc. Class A Common Stock
+Ticker: KSCP
+CIK: 0001600983
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 8797000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -22765000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 41062000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 14165000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 26897000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19735000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20389000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Acumen Pharmaceuticals Inc. Common Stock
+Ticker: ABOS
+CIK: 0001576885
+Latest SEC XBRL Facts:
+NetIncomeLoss: -96197000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 142221000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 49048000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 93173000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -96442000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46832000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

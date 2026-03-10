@@ -1,0 +1,9 @@
+Company: Jiayin Group Inc. American Depositary Shares
+Ticker: JFIN
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: China
+City: Shanghai
+Website: https://www.jiayintech.cn
+Employees: 1028
+Business Summary: Jiayin Group Inc., together with its subsidiaries, engages in the provision of online consumer finance services in the People's Republic of China. The company operates a fintech platform that facilitates connections between individual borrowers and financial institutions. It also offers loan products with fixed terms and repayment schedules; guarantee services; referral services for investment products offered by the third-party financial service providers; technology development services; and commercial services. The company was founded in 2011 and is headquartered in Shanghai, China. Jiayin Group Inc. operates as a subsidiary of New Dream Capital Holdings Limited.

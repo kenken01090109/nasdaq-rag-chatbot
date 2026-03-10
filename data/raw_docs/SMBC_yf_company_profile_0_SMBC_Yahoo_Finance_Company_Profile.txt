@@ -1,0 +1,9 @@
+Company: Southern Missouri Bancorp Inc. Common Stock
+Ticker: SMBC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Poplar Bluff
+Website: https://www.bankwithsouthern.com
+Employees: 696
+Business Summary: Southern Missouri Bancorp, Inc. operates as the bank holding company for Southern Bank that provides banking and financial services to individuals and corporate customers in the United States. The company offers deposits products, including interest-bearing and noninterest-bearing transaction accounts, money market deposit accounts, saving accounts, certificates of deposit, and retirement savings plans. It also provides loans secured by mortgages on one- to four-family residences and commercial and agricultural real estate; construction loans on residential and commercial properties; commercial and agricultural business loans; and consumer loans. In addition, the company offers fiduciary and investment management services; commercial and consumer insurance products; and debit or credit cards. The company was founded in 1887 and is headquartered in Poplar Bluff, Missouri.

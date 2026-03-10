@@ -1,0 +1,12 @@
+Company: Coffee Holding Co. Inc. Common Stock
+Ticker: JVA
+CIK: 0001007019
+Latest SEC XBRL Facts:
+Revenues: 63922402 | unit=USD | filed=2023-03-17 | period_end=2021-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 68535860 | unit=USD | filed=2025-09-12 | period_end=2025-07-31
+NetIncomeLoss: 591898 | unit=USD | filed=2025-09-12 | period_end=2025-07-31
+Assets: 45879967 | unit=USD | filed=2025-09-12 | period_end=2025-07-31
+Liabilities: 19110502 | unit=USD | filed=2025-09-12 | period_end=2025-07-31
+StockholdersEquity: 24915532 | unit=USD | filed=2024-09-13 | period_end=2024-07-31
+NetCashProvidedByUsedInOperatingActivities: -5396716 | unit=USD | filed=2025-09-12 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 979772 | unit=USD | filed=2025-09-12 | period_end=2025-07-31

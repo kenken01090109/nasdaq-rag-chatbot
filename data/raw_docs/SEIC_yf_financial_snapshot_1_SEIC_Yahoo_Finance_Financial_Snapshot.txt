@@ -1,0 +1,25 @@
+Company: SEI Investments Company Common Stock
+Ticker: SEIC
+Market Cap: 9971465216
+Enterprise Value: 9881432064
+Total Revenue: 2297381120
+Revenue Per Share: 18.515
+EBITDA: 667630976
+Gross Margins: 0.78374
+Operating Margins: 0.26352
+Profit Margins: 0.31136
+Free Cashflow: 314429760
+Operating Cashflow: 607662016
+Return On Assets: 0.13076
+Return On Equity: 0.28957
+Total Cash: 433580992
+Total Debt: 28562000
+Debt To Equity: 1.056
+Current Ratio: 3.288
+Quick Ratio: 3.116
+Trailing PE: 14.465364
+Forward PE: 12.759071
+Price To Book: 4.066714
+Beta: 0.947
+52 Week High: 93.96
+52 Week Low: 64.66

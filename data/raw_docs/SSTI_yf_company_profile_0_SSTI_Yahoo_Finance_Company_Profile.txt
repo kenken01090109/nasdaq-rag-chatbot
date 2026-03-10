@@ -1,0 +1,9 @@
+Company: SoundThinking Inc. Common Stock
+Ticker: SSTI
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Fremont
+Website: https://soundthinking.com
+Employees: 
+Business Summary: SoundThinking, Inc., a public safety technology company, provides data-driven solutions and strategic advisory services for law enforcement, security teams, and civic leadership. Its SafetySmart platform that includes data-driven tools comprising ShotSpotter, an outdoor gunshot detection, location, and alerting system; CrimeTracer, a law enforcement search engine that enables investigators to search through criminal justice records from across jurisdictions to generate tactical leads and solve cases; CaseBuilder, an investigative management system for tracking, reporting, and collaborating on cases; ResourceRouter, a software that directs deployment of patrol and community anti-violence resources; PlateRanger powered by Rekor, an advanced license plate recognition (ALPR) and vehicle identification solution; and SafePointe, an artificial intelligence-based weapons detection system. The company also offers ShotSpotter for Campus and ShotSpotter for Corporate, to universities, corporate campuses, and key infrastructure centers to mitigate risk and enhance security by notifying authorities of outdoor gunfire incidents and save critical minutes for first responders to arrive. It sells its solutions through its direct sales teams. The company was formerly known as ShotSpotter, Inc. and changed its name to SoundThinking, Inc. in April 2023. SoundThinking, Inc. was founded in 1996 and is headquartered in Fremont, California.

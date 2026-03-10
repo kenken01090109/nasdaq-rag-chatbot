@@ -1,0 +1,8 @@
+Company: Vine Hill Capital Investment Corp. II Class A Ordinary Shares
+Ticker: VHCP
+CIK: 0002086264
+Latest SEC XBRL Facts:
+NetIncomeLoss: -53000 | unit=USD | filed=2026-02-02 | period_end=2025-09-30
+Assets: 82000 | unit=USD | filed=2026-02-02 | period_end=2025-09-30
+StockholdersEquity: -28000 | unit=USD | filed=2026-02-02 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14000 | unit=USD | filed=2026-02-02 | period_end=2025-09-30

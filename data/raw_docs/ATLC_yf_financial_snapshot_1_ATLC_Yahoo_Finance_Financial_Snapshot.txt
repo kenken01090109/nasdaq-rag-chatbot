@@ -1,0 +1,25 @@
+Company: Atlanticus Holdings Corporation Common Stock
+Ticker: ATLC
+Market Cap: 829907264
+Enterprise Value: 6558261248
+Total Revenue: 498496000
+Revenue Per Share: 33.139
+EBITDA: 
+Gross Margins: 0.71699995
+Operating Margins: 0.28209
+Profit Margins: 0.23746
+Free Cashflow: 
+Operating Cashflow: 494313984
+Return On Assets: 0.023120001
+Return On Equity: 0.19589001
+Total Cash: 425023008
+Total Debt: 6060980224
+Debt To Equity: 970.053
+Current Ratio: 15.667
+Quick Ratio: 15.313
+Trailing PE: 9.735347
+Forward PE: 6.391837
+Price To Book: 1.4068276
+Beta: 1.936
+52 Week High: 78.91
+52 Week Low: 41.37

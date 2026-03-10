@@ -1,0 +1,9 @@
+Company: The Joint Corp. Common Stock
+Ticker: JYNT
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: United States
+City: Scottsdale
+Website: https://www.thejoint.com
+Employees: 443
+Business Summary: The Joint Corp. operates and franchises chiropractic clinics in the United States. The company was incorporated in 2010 and is headquartered in Scottsdale, Arizona.

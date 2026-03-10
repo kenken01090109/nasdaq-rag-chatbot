@@ -1,0 +1,12 @@
+Company: Clean Energy Fuels Corp. Common Stock
+Ticker: CLNE
+CIK: 0001368265
+Latest SEC XBRL Facts:
+Revenues: 102403000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 312514000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -179026000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1125102000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 534053000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 585207000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72417000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 180841000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

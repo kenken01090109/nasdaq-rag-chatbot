@@ -1,0 +1,8 @@
+Company: Robo.ai Inc. Warrant
+Ticker: AIIOW
+Total Cash: 1683000
+Total Debt: 17131000
+Debt To Equity: 
+Current Ratio: 0.301
+Quick Ratio: 0.17
+Book Value: -0.223

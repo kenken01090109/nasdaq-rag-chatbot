@@ -1,0 +1,9 @@
+Company: Oxley Bridge Acquisition Limited Unit
+Ticker: OBAWU
+CIK: 0002034313
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2443288 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 257016649 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 12184577 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -10927695 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -336339 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

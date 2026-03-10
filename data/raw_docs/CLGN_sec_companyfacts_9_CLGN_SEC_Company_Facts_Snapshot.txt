@@ -1,0 +1,11 @@
+Company: CollPlant Biotechnologies Ltd Ordinary Shares
+Ticker: CLGN
+CIK: 0001631487
+Latest SEC XBRL Facts:
+Revenues: 347000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30
+NetIncomeLoss: -8405000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30
+Assets: 26566000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30
+Liabilities: 5837000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30
+StockholdersEquity: 20729000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -7181000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 18920000 | unit=USD | filed=2024-08-20 | period_end=2024-06-30

@@ -1,0 +1,25 @@
+Company: SS&C Technologies Holdings Inc. Common Stock
+Ticker: SSNC
+Market Cap: 18509481984
+Enterprise Value: 25514848256
+Total Revenue: 6272200192
+Revenue Per Share: 25.674
+EBITDA: 1991800064
+Gross Margins: 0.48174
+Operating Margins: 0.22292
+Profit Margins: 0.12705
+Free Cashflow: 1266150016
+Operating Cashflow: 1744800000
+Return On Assets: 0.04517
+Return On Equity: 0.11788
+Total Cash: 462100000
+Total Debt: 7694000128
+Debt To Equity: 110.836
+Current Ratio: 1.074
+Quick Ratio: 0.292
+Trailing PE: 24.060316
+Forward PE: 10.493785
+Price To Book: 2.6563158
+Beta: 1.174
+52 Week High: 91.07
+52 Week Low: 69.0

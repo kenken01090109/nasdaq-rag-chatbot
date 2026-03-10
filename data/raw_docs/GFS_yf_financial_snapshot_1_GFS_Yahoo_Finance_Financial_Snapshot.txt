@@ -1,0 +1,25 @@
+Company: GlobalFoundries Inc. Ordinary Shares
+Ticker: GFS
+Market Cap: 26060050432
+Enterprise Value: 24772050944
+Total Revenue: 6791000064
+Revenue Per Share: 12.236
+EBITDA: 2048000000
+Gross Margins: 0.24886
+Operating Margins: 0.13934
+Profit Margins: 0.13032
+Free Cashflow: 1150875008
+Operating Cashflow: 1731000064
+Return On Assets: 0.02935
+Return On Equity: 0.077870004
+Total Cash: 3049999872
+Total Debt: 1707000064
+Debt To Equity: 14.245
+Current Ratio: 2.62
+Quick Ratio: 1.954
+Trailing PE: 29.484278
+Forward PE: 19.563984
+Price To Book: 2.184733
+Beta: 1.469
+52 Week High: 50.98
+52 Week Low: 29.77

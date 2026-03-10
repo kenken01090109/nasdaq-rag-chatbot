@@ -1,0 +1,25 @@
+Company: Arm Holdings plc American Depositary Shares
+Ticker: ARM
+Market Cap: 121471393792
+Enterprise Value: 125017440256
+Total Revenue: 4671000064
+Revenue Per Share: 4.414
+EBITDA: 1083800064
+Gross Margins: 0.97495
+Operating Margins: 0.15378
+Profit Margins: 0.17148
+Free Cashflow: 824750016
+Operating Cashflow: 1522000000
+Return On Assets: 0.05878
+Return On Equity: 0.112679996
+Total Cash: 3542000128
+Total Debt: 461000000
+Debt To Equity: 5.912
+Current Ratio: 5.427
+Quick Ratio: 5.254
+Trailing PE: 152.50667
+Forward PE: 53.191338
+Price To Book: 15.576739
+Beta: 4.132
+52 Week High: 183.16
+52 Week Low: 80.0

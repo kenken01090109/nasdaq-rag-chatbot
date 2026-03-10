@@ -1,0 +1,11 @@
+Company: Brag House Holdings Inc. Common Stock
+Ticker: TBH
+CIK: 0001903595
+Latest SEC XBRL Facts:
+Revenues: 55 | unit=USD | filed=2025-11-17 | period_end=2024-09-30
+NetIncomeLoss: -232254 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 18210801 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 1609053 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 16601748 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4215961 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1540000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30

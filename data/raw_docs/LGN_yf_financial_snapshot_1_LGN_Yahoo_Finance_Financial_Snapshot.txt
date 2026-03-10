@@ -1,0 +1,25 @@
+Company: Legence Corp. Class A Common stock
+Ticker: LGN
+Market Cap: 5438664192
+Enterprise Value: 4377096192
+Total Revenue: 2361063936
+Revenue Per Share: 40.353
+EBITDA: 227910000
+Gross Margins: 0.21235001
+Operating Margins: 0.05422
+Profit Margins: -0.01938
+Free Cashflow: 
+Operating Cashflow: 168163008
+Return On Assets: 
+Return On Equity: 
+Total Cash: 177206000
+Total Debt: 943164992
+Debt To Equity: 113.981
+Current Ratio: 1.572
+Quick Ratio: 1.515
+Trailing PE: 
+Forward PE: 37.574818
+Price To Book: 7.604465
+Beta: 
+52 Week High: 58.1
+52 Week Low: 26.96

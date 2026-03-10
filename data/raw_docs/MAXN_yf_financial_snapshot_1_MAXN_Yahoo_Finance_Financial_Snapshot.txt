@@ -1,0 +1,25 @@
+Company: Maxeon Solar Technologies Ltd. Ordinary Shares
+Ticker: MAXN
+Market Cap: 38437364
+Enterprise Value: 347180672
+Total Revenue: 176414000
+Revenue Per Share: 12.125
+EBITDA: -368150016
+Gross Margins: -1.37519
+Operating Margins: -1.6423
+Profit Margins: 0.0
+Free Cashflow: -172999008
+Operating Cashflow: -218250000
+Return On Assets: -0.5168
+Return On Equity: 
+Total Cash: 17225000
+Total Debt: 319480992
+Debt To Equity: 
+Current Ratio: 0.842
+Quick Ratio: 0.151
+Trailing PE: 0.06549336
+Forward PE: -0.41123188
+Price To Book: -0.11737938
+Beta: 1.132
+52 Week High: 4.97
+52 Week Low: 2.18

@@ -1,0 +1,25 @@
+Company: Inseego Corp. Common Stock
+Ticker: INSG
+Market Cap: 179543600
+Enterprise Value: 203876960
+Total Revenue: 166188000
+Revenue Per Share: 10.985
+EBITDA: 5947000
+Gross Margins: 0.42720002
+Operating Margins: 0.02696
+Profit Margins: 0.00504
+Free Cashflow: 1370625
+Operating Cashflow: 7195000
+Return On Assets: 0.03031
+Return On Equity: 
+Total Cash: 24886000
+Total Debt: 45489000
+Debt To Equity: 
+Current Ratio: 1.323
+Quick Ratio: 1.116
+Trailing PE: 
+Forward PE: 16.200079
+Price To Book: -42.09125
+Beta: 1.293
+52 Week High: 18.11
+52 Week Low: 6.24

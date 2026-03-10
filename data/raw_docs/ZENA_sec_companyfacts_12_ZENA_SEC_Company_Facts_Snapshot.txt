@@ -1,0 +1,9 @@
+Company: ZenaTech Inc. Common Stock
+Ticker: ZENA
+CIK: 0001997403
+Latest SEC XBRL Facts:
+Revenues: 1963605 | unit=CAD | filed=2026-02-27 | period_end=2024-12-31
+NetIncomeLoss: -4481751 | unit=CAD | filed=2026-02-27 | period_end=2024-12-31
+StockholdersEquity: 21819343 | unit=CAD | filed=2026-02-27 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -9865255 | unit=CAD | filed=2026-02-27 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3754075 | unit=CAD | filed=2026-02-27 | period_end=2024-12-31

@@ -1,0 +1,9 @@
+Company: Drugs Made In America Acquisition Corp. Ordinary Shares
+Ticker: DMAA
+CIK: 0002028614
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5727685 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 237632428 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 7356611 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: -7328415 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -414007 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

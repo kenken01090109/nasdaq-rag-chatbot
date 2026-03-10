@@ -1,0 +1,12 @@
+Company: Zeo Energy Corporation Class A Common Stock
+Ticker: ZEO
+CIK: 0001865506
+Latest SEC XBRL Facts:
+Revenues: 50782073 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 8783695 | unit=USD | filed=2025-06-16 | period_end=2025-03-31
+NetIncomeLoss: -12002121 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 58500459 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12423643 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -1721295 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11132921 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3915900 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

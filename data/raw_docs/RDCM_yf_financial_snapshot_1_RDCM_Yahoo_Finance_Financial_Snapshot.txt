@@ -1,0 +1,25 @@
+Company: Radcom Ltd. Ordinary Shares
+Ticker: RDCM
+Market Cap: 183744816
+Enterprise Value: 79241208
+Total Revenue: 71494000
+Revenue Per Share: 4.395
+EBITDA: 8982000
+Gross Margins: 0.75952005
+Operating Margins: 0.14244
+Profit Margins: 0.16771999
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.03767
+Return On Equity: 0.11432
+Total Cash: 109923000
+Total Debt: 3234000
+Debt To Equity: 2.834
+Current Ratio: 5.755
+Quick Ratio: 5.741
+Trailing PE: 15.774648
+Forward PE: 8.75
+Price To Book: 1.6208394
+Beta: 0.589
+52 Week High: 15.15
+52 Week Low: 9.88

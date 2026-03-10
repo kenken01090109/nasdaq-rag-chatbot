@@ -1,0 +1,12 @@
+Company: Applied Optoelectronics Inc. Common Stock
+Ticker: AAOI
+Total Revenue: 455715008
+Revenue Per Share: 7.572
+Gross Margins: 0.30044
+Operating Margins: -0.08565
+EBITDA: -26906000
+Profit Margins: -0.08389
+Free Cashflow: -383898880
+Operating Cashflow: -174428000
+Return On Assets: -0.03979
+Return On Equity: -0.079390004

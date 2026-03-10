@@ -1,0 +1,10 @@
+Company: Definium Therapeutics Inc. Common Shares
+Ticker: DFTX
+CIK: 0001813814
+Latest SEC XBRL Facts:
+NetIncomeLoss: -133357000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 236916000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 106320000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 130596000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -88585000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19959000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

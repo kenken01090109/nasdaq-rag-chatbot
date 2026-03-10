@@ -1,0 +1,12 @@
+Company: Treasure Global Inc. Common Stock
+Ticker: TGL
+CIK: 0001905956
+Latest SEC XBRL Facts:
+Revenues: 1263519 | unit=USD | filed=2026-02-23 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 21773829 | unit=USD | filed=2024-05-14 | period_end=2024-03-31
+NetIncomeLoss: -5243767 | unit=USD | filed=2026-02-23 | period_end=2025-12-31
+Assets: 24229770 | unit=USD | filed=2026-02-23 | period_end=2025-12-31
+Liabilities: 6273837 | unit=USD | filed=2026-02-23 | period_end=2025-12-31
+StockholdersEquity: 17955933 | unit=USD | filed=2026-02-23 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -4731560 | unit=USD | filed=2026-02-23 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4094673 | unit=USD | filed=2023-05-08 | period_end=2023-03-31

@@ -1,0 +1,12 @@
+Company: NextTrip Inc. Common Stock
+Ticker: NTRP
+CIK: 0000788611
+Latest SEC XBRL Facts:
+Revenues: 330671 | unit=USD | filed=2018-11-14 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2096605 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetIncomeLoss: -10630953 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Assets: 14424933 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Liabilities: 8149753 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+StockholdersEquity: 5888180 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -2450860 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 2427299 | unit=USD | filed=2026-01-14 | period_end=2025-11-30

@@ -1,0 +1,9 @@
+Company: AtaiBeckley Inc. Common Stock
+Ticker: ATAI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://www.ataibeckley.com
+Employees: 54
+Business Summary: AtaiBeckley Inc., a clinical-stage biopharmaceutical company, engages in the research, development, and commercialization of mental health treatments in the United States, Germany, and Canada. The company develops BPL-003, an intranasal formulation of the benzoate salt form of mebufotenin that is in Phase 2a and 2b clinical studies for treatment resistant depression (TRD) and alcohol use disorder; RL-007, an orally bioavailable compound, which is a pro-cognitive neuromodulator in Phase 2b trial for cognitive impairment associated with schizophrenia; and ELE-101, a serotonergic psychedelic in Phase 2a trial for the treatment of major depressive disorder. It is also developing VLS-01, an oral transmucosal film formulation of N,N-Dimethyltryptamine in Phase 2 clinical study to treat TRD; EMP-01, an oral formulation of R-3,4-methylenedioxy-methamphetamine that is in Phase 2 clinical study for social anxiety disorder; and EGX-A & EGX-B, which are non-hallucinogenic 5-HT2A receptor agonists in preclinical studies for TRD. In addition, the company offers COMP360 for psilocybin therapy; and GRX-917 for the treatment of anxiety, depression, and various neurological disorders. The company was formerly known as Atai Beckley N.V. and changed its name to AtaiBeckley Inc. in December 2025. AtaiBeckley Inc. was founded in 2018 and is based in New York, New York.

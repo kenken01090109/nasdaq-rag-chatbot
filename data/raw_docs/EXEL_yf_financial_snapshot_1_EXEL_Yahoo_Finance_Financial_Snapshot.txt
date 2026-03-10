@@ -1,0 +1,25 @@
+Company: Exelixis Inc. Common Stock
+Ticker: EXEL
+Market Cap: 11138718720
+Enterprise Value: 9862603776
+Total Revenue: 2320125952
+Revenue Per Share: 8.543
+EBITDA: 921756032
+Gross Margins: 0.96392995
+Operating Margins: 0.39406
+Profit Margins: 0.3373
+Free Cashflow: 631157120
+Operating Cashflow: 884267008
+Return On Assets: 0.19264999
+Return On Equity: 0.35527
+Total Cash: 1059091008
+Total Debt: 200920000
+Debt To Equity: 9.296
+Current Ratio: 3.558
+Quick Ratio: 3.349
+Trailing PE: 14.944244
+Forward PE: 10.572914
+Price To Book: 5.0455427
+Beta: 0.409
+52 Week High: 49.62
+52 Week Low: 32.38

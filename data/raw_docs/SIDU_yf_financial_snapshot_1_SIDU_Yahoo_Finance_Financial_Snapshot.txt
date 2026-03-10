@@ -1,0 +1,25 @@
+Company: Sidus Space Inc. Class A Common Stock
+Ticker: SIDU
+Market Cap: 126387720
+Enterprise Value: 68363040
+Total Revenue: 3623538
+Revenue Per Share: 0.207
+EBITDA: -18180052
+Gross Margins: -1.29838
+Operating Margins: -4.3383303
+Profit Margins: 0.0
+Free Cashflow: -18403064
+Operating Cashflow: -19601936
+Return On Assets: -0.43851003
+Return On Equity: -1.4280901
+Total Cash: 12734087
+Total Debt: 9897209
+Debt To Equity: 41.271
+Current Ratio: 1.376
+Quick Ratio: 1.048
+Trailing PE: 
+Forward PE: -7.9166665
+Price To Book: 2.7941177
+Beta: -1.592
+52 Week High: 5.39
+52 Week Low: 0.628

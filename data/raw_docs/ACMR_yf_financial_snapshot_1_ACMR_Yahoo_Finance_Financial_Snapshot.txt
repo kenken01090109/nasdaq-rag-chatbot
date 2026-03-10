@@ -1,0 +1,25 @@
+Company: ACM Research Inc. Class A Common Stock
+Ticker: ACMR
+Market Cap: 2952483328
+Enterprise Value: 2779866112
+Total Revenue: 901308992
+Revenue Per Share: 14.042
+EBITDA: 125757000
+Gross Margins: 0.44387
+Operating Margins: 0.094239995
+Profit Margins: 0.10438
+Free Cashflow: -111623752
+Operating Cashflow: -10325000
+Return On Assets: 0.02893
+Return On Equity: 0.08055
+Total Cash: 1159488000
+Total Debt: 297908000
+Debt To Equity: 15.432
+Current Ratio: 3.268
+Quick Ratio: 2.296
+Trailing PE: 32.78832
+Forward PE: 19.701754
+Price To Book: 2.0126348
+Beta: 1.558
+52 Week High: 71.65
+52 Week Low: 16.82

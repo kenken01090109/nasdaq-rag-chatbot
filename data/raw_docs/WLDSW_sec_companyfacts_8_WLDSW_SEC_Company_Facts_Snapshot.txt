@@ -1,0 +1,11 @@
+Company: Wearable Devices Ltd. Warrant
+Ticker: WLDSW
+CIK: 0001887673
+Latest SEC XBRL Facts:
+Revenues: 294000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+NetIncomeLoss: -3715000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+Assets: 4787000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+Liabilities: 974000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+StockholdersEquity: 3813000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2967000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2064000 | unit=USD | filed=2025-09-09 | period_end=2025-06-30

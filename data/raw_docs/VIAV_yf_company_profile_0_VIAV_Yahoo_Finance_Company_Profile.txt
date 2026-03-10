@@ -1,0 +1,9 @@
+Company: Viavi Solutions Inc. Common Stock
+Ticker: VIAV
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: Chandler
+Website: https://www.viavisolutions.com
+Employees: 3600
+Business Summary: Viavi Solutions Inc. provides network test, monitoring, and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace, and critical infrastructures in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates in two segments, Network and Service Enablement (NSE) and Optical Security and Performance Products (OSP). The NSE segment provides testing, monitoring, assurance, and security solutions that address lab and production environments, network management, service assurance, and AIOps for wireless, wireline, cloud, satellite, public safety, military, and infrastructure networks. This segment also offers instruments, microprobes, and perpetual software licenses that support the development, production, maintenance, and optimization of network systems, as well as product support and professional services comprising repair, calibration, software support, and technical assistance for its products. Its OSP segment leverages its core optical coating technologies and volume manufacturing capability to design, manufacture, and sell technologies for the anti-counterfeiting, 3D sensing, government and aerospace, automotive, and industrial markets. The company has a strategic partnership with QuNu Labs Pvt. Ltd. for the development of quantum security and advanced network intelligence technologies. The company was formerly known as JDS Uniphase Corporation. Viavi Solutions Inc. was founded in 1923 and is headquartered in Chandler, Arizona.

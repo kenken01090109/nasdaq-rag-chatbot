@@ -1,0 +1,11 @@
+Company: Castle Biosciences Inc. Common Stock
+Ticker: CSTL
+CIK: 0001447362
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 257219000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -21826000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 562786000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 95740000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 467046000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 37416000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 85556000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

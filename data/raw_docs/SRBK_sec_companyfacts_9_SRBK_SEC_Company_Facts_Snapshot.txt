@@ -1,0 +1,10 @@
+Company: SR Bancorp Inc. Common stock
+Ticker: SRBK
+CIK: 0001951276
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1527000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 1142961000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 954510000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 188451000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 4814000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 81842000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

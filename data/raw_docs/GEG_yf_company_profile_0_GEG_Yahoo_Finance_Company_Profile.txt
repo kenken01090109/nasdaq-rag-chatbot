@@ -1,0 +1,9 @@
+Company: Great Elm Group Inc. Common Stock
+Ticker: GEG
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Palm Beach Gardens
+Website: https://www.greatelmgroup.com
+Employees: 50
+Business Summary: Great Elm Group, Inc., an asset management company, focuses on the credit, real estate, specialty finance, and other alternative strategies businesses. It also engages in business development and investment management activities. The company was formerly known as Great Elm Capital Group, Inc. and changed its name to Great Elm Group, Inc. in December 2020. Great Elm Group, Inc. was incorporated in 1994 and is headquartered in Palm Beach Gardens, Florida.

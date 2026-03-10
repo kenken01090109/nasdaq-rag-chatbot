@@ -1,0 +1,9 @@
+Company: Alpha Technology Group Limited Class A Ordinary Shares
+Ticker: ATGL
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Hong Kong
+City: Kwun Tong
+Website: https://atgl.io
+Employees: 28
+Business Summary: Alpha Technology Group Limited, through its subsidiaries, provides information technology solutions and services in Hong Kong. It offers system development services, including cloud-based customer relationship management and enterprise resource planning systems; web and mobile application development services; and AI-empowered optical character recognition services to extract printed text and data from imported documents, such as invoices, receipts, applications, forms, and identification documents. The company also provides technological support and maintenance services, as well as NFT-related services comprising artwork, marketplace, and NFT-related games. It serves consulting, real estate planning, carpark management, social services, and other industries. The company was incorporated in 2022 and is based in Kwun Tong, Hong Kong.

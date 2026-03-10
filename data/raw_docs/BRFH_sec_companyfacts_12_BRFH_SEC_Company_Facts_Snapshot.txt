@@ -1,0 +1,12 @@
+Company: Barfresh Food Group Inc. Common Stock
+Ticker: BRFH
+CIK: 0001487197
+Latest SEC XBRL Facts:
+Revenues: 211467 | unit=USD | filed=2015-07-07 | period_end=2015-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 8786000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -1931000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6795000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4874000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1921000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2173000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1167000 | unit=USD | filed=2024-05-15 | period_end=2024-03-31

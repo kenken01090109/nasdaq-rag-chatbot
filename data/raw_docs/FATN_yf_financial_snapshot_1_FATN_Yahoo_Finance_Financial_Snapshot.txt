@@ -1,0 +1,25 @@
+Company: FatPipe Inc. Common Stock
+Ticker: FATN
+Market Cap: 25203286
+Enterprise Value: 23999410
+Total Revenue: 15777249
+Revenue Per Share: 1.156
+EBITDA: 2013263
+Gross Margins: 0.92315
+Operating Margins: 0.09844
+Profit Margins: 0.04144
+Free Cashflow: 1444561
+Operating Cashflow: -57842
+Return On Assets: 0.03372
+Return On Equity: 0.03387
+Total Cash: 6163214
+Total Debt: 5794805
+Debt To Equity: 27.385
+Current Ratio: 2.706
+Quick Ratio: 2.653
+Trailing PE: 36.199997
+Forward PE: 
+Price To Book: 1.1907895
+Beta: 
+52 Week High: 23.27
+52 Week Low: 1.31

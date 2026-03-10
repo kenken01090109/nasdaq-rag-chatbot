@@ -1,0 +1,11 @@
+Company: Xunlei Limited American Depositary Shares
+Ticker: XNET
+CIK: 0001510593
+Latest SEC XBRL Facts:
+Revenues: 323140000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+NetIncomeLoss: 1215000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+Assets: 473901000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+Liabilities: 156116000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+StockholdersEquity: 318056000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 30976000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 177329000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31

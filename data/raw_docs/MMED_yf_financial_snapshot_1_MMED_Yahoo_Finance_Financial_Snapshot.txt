@@ -1,0 +1,25 @@
+Company: MiniMed Group Inc. Common Stock
+Ticker: MMED
+Market Cap: 5192238592
+Enterprise Value: 
+Total Revenue: 2886000128
+Revenue Per Share: 
+EBITDA: 214000000
+Gross Margins: 0.56791
+Operating Margins: 0.01356
+Profit Margins: -0.07311
+Free Cashflow: 
+Operating Cashflow: 14000000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 8000000
+Total Debt: 63000000
+Debt To Equity: 1.77
+Current Ratio: 1.77
+Quick Ratio: 1.064
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 
+52 Week High: 20.4823
+52 Week Low: 18.25

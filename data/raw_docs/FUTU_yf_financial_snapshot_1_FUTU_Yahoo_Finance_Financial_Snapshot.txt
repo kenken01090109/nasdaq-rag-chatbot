@@ -1,0 +1,25 @@
+Company: Futu Holdings Limited American Depositary Shares
+Ticker: FUTU
+Market Cap: 19973578752
+Enterprise Value: 36220489728
+Total Revenue: 19006844928
+Revenue Per Share: 136.731
+EBITDA: 
+Gross Margins: 0.93921
+Operating Margins: 0.65850997
+Profit Margins: 0.5166
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.050679997
+Return On Equity: 0.30061
+Total Cash: 138811408384
+Total Debt: 13630833664
+Debt To Equity: 37.045
+Current Ratio: 1.136
+Quick Ratio: 1.134
+Trailing PE: 16.119102
+Forward PE: 12.288129
+Price To Book: 4.287923
+Beta: 0.377
+52 Week High: 202.53
+52 Week Low: 70.6

@@ -1,0 +1,25 @@
+Company: Marathon Bancorp Inc. Common Stock
+Ticker: MBBC
+Market Cap: 41140696
+Enterprise Value: 46895756
+Total Revenue: 7936063
+Revenue Per Share: 2.929
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.26576
+Profit Margins: 0.09603
+Free Cashflow: 
+Operating Cashflow: 2266968
+Return On Assets: 0.00327
+Return On Equity: 0.0194
+Total Cash: 13833818
+Total Debt: 19383188
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 48.275864
+Forward PE: 
+Price To Book: 0.8774679
+Beta: 0.331
+52 Week High: 14.64
+52 Week Low: 9.482507

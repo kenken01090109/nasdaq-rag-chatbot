@@ -1,0 +1,25 @@
+Company: Treace Medical Concepts Inc. Common Stock
+Ticker: TMCI
+Market Cap: 92364416
+Enterprise Value: 113045736
+Total Revenue: 212690000
+Revenue Per Share: 3.362
+EBITDA: -44531000
+Gross Margins: 0.79811996
+Operating Margins: -0.09472
+Profit Margins: -0.27741
+Free Cashflow: -10086250
+Operating Cashflow: -15970000
+Return On Assets: -0.16605
+Return On Equity: -0.58936
+Total Cash: 48367000
+Total Debt: 71862000
+Debt To Equity: 82.286
+Current Ratio: 4.311
+Quick Ratio: 2.965
+Trailing PE: 
+Forward PE: -1.5888889
+Price To Book: 1.0460863
+Beta: 0.769
+52 Week High: 8.87
+52 Week Low: 1.31

@@ -1,0 +1,25 @@
+Company: bioAffinity Technologies Inc. Common Stock
+Ticker: BIAF
+Market Cap: 4678657
+Enterprise Value: -2361585
+Total Revenue: 6776739
+Revenue Per Share: 9.324
+EBITDA: -9847289
+Gross Margins: 0.27859
+Operating Margins: -1.5855701
+Profit Margins: -2.17497
+Free Cashflow: -4110569
+Operating Cashflow: -8446440
+Return On Assets: -0.71706
+Return On Equity: -2.45179
+Total Cash: 7669195
+Total Debt: 680948
+Debt To Equity: 7.649
+Current Ratio: 3.65
+Quick Ratio: 3.441
+Trailing PE: 
+Forward PE: -1.7333332
+Price To Book: 0.40419742
+Beta: 2.437
+52 Week High: 46.53
+52 Week Low: 0.693

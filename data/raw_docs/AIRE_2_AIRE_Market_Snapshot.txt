@@ -1,0 +1,10 @@
+Company: reAlpha Tech Corp. Common Stock
+Ticker: AIRE
+Market Cap: 38712312
+Enterprise Value: 29244140
+Trailing PE: 
+Forward PE: -3.70125
+Price To Book: 2.7933962
+Beta: -3.381
+52 Week High: 1.8
+52 Week Low: 0.14

@@ -1,0 +1,11 @@
+Company: Auddia Inc. Common Stock
+Ticker: AUUD
+CIK: 0001554818
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -5702369 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4863409 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 669253 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 4194156 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4335812 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2727166 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

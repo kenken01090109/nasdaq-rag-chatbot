@@ -1,0 +1,12 @@
+Company: Regis Corporation Common Stock
+Ticker: RGS
+CIK: 0000716643
+Latest SEC XBRL Facts:
+Revenues: 116075000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 820849000 | unit=USD | filed=2019-04-30 | period_end=2019-03-31
+NetIncomeLoss: 1812000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 588314000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 399606000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 188708000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 3946000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 18385000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

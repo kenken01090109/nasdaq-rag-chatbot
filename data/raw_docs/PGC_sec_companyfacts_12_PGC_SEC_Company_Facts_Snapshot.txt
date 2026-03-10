@@ -1,0 +1,11 @@
+Company: Peapack-Gladstone Financial Corporation Common Stock
+Ticker: PGC
+CIK: 0001050743
+Latest SEC XBRL Facts:
+Revenues: 204794000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 25167000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 7439642000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 6797092000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 642550000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 44256000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34763000 | unit=USD | filed=2012-08-09 | period_end=2012-06-30

@@ -1,0 +1,11 @@
+Company: ProFrac Holding Corp. Class A Common Stock
+Ticker: ACDC
+CIK: 0001881487
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1505300000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -226400000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2742400000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1721100000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 862000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 140000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 58000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

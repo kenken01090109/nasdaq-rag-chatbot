@@ -1,0 +1,10 @@
+Company: Crescent Capital BDC Inc. Common stock
+Ticker: CCAP
+CIK: 0001633336
+Latest SEC XBRL Facts:
+NetIncomeLoss: 26019000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 1627628000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 913553000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 714075000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 52076000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5786000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

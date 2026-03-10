@@ -1,0 +1,25 @@
+Company: Locafy Limited Warrant
+Ticker: LCFYW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 3202692
+Revenue Per Share: 1.953
+EBITDA: -3789478
+Gross Margins: 0.0998
+Operating Margins: -0.95461
+Profit Margins: -1.34706
+Free Cashflow: -2398964
+Operating Cashflow: -688667
+Return On Assets: -0.43548
+Return On Equity: -1.20891
+Total Cash: 624613
+Total Debt: 631190
+Debt To Equity: 16.499
+Current Ratio: 1.086
+Quick Ratio: 0.845
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.7443856
+Beta: 1.826
+52 Week High: 2.6
+52 Week Low: 2.6

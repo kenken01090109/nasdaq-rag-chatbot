@@ -1,0 +1,25 @@
+Company: Sprouts Farmers Market Inc. Common Stock
+Ticker: SFM
+Market Cap: 7813897728
+Enterprise Value: 9275817984
+Total Revenue: 8806159360
+Revenue Per Share: 90.147
+EBITDA: 843880000
+Gross Margins: 0.39032
+Operating Margins: 0.05728
+Profit Margins: 0.05947
+Free Cashflow: 536194880
+Operating Cashflow: 715998016
+Return On Assets: 0.109969996
+Return On Equity: 0.38435
+Total Cash: 257282000
+Total Debt: 1943344000
+Debt To Equity: 138.506
+Current Ratio: 0.93
+Quick Ratio: 0.406
+Trailing PE: 15.112994
+Forward PE: 13.429209
+Price To Book: 5.486429
+Beta: 0.7
+52 Week High: 182.0
+52 Week Low: 64.75

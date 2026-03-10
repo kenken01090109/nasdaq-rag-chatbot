@@ -1,0 +1,25 @@
+Company: Vinci Compass Investments Ltd. Class A Common Shares
+Ticker: VINP
+Market Cap: 702015744
+Enterprise Value: -34868452
+Total Revenue: 962966976
+Revenue Per Share: 15.355
+EBITDA: 254628000
+Gross Margins: 1.0
+Operating Margins: 0.27696
+Profit Margins: 0.18131
+Free Cashflow: 90998128
+Operating Cashflow: 200172000
+Return On Assets: 0.04881
+Return On Equity: 0.10783
+Total Cash: 1665419008
+Total Debt: 881686976
+Debt To Equity: 46.941
+Current Ratio: 6.683
+Quick Ratio: 6.497
+Trailing PE: 26.428574
+Forward PE: 9.147278
+Price To Book: 1.9709257
+Beta: 0.154
+52 Week High: 13.61
+52 Week Low: 8.66

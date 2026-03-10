@@ -1,0 +1,25 @@
+Company: Tantech Holdings Ltd. Class A Common Shares
+Ticker: TANH
+Market Cap: 4835953
+Enterprise Value: -15966981
+Total Revenue: 41982988
+Revenue Per Share: 42.102
+EBITDA: 6460855
+Gross Margins: 0.20021999
+Operating Margins: 0.15873
+Profit Margins: 0.1182
+Free Cashflow: 57722660
+Operating Cashflow: -3860869
+Return On Assets: 0.01908
+Return On Equity: 0.03841
+Total Cash: 32374918
+Total Debt: 3249518
+Debt To Equity: 2.129
+Current Ratio: 2.85
+Quick Ratio: 2.746
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.007979257
+Beta: 0.684
+52 Week High: 4.05
+52 Week Low: 0.726

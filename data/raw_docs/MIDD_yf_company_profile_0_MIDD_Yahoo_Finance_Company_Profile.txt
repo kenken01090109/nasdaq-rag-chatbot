@@ -1,0 +1,9 @@
+Company: Middleby Corporation (The) Common Stock
+Ticker: MIDD
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: United States
+City: Elgin
+Website: https://www.middleby.com
+Employees: 
+Business Summary: The Middleby Corporation designs, manufactures, markets, distributes, and services of commercial restaurant and food processing equipment worldwide. Its Commercial Foodservice Equipment Group segment offers conveyor, combi, convection, baking, proofing, deck, speed cooking, and hydrovection ovens; ranges, fryers, and rethermalizers; steam cooking, food warming, catering, induction, and countertop cooking equipment; heated cabinets, charbroilers, ventless cooking systems, kitchen ventilation, toasters, griddles, charcoal grills, professional mixers and refrigerators, stainless steel fabrication, custom millwork, blast chillers, coldrooms, ice machines, and frozen dessert equipment; soft serve ice cream, coffee and beverage dispensing, home and professional craft brewing equipment; and fry dispenser, bottle filling and canning equipment, IoT solutions, and controls development and manufacturing. The Food Processing Equipment Group segment provides batch, baking, proofing, conveyor belt, spiral, serpentine, and continuous processing ovens; frying and automated thermal processing systems; tumblers, massagers, grinders, slicers, reduction and emulsion systems, mixers, and blenders; battering, breading, and seeding equipment; water cutting systems, food presses, suspension, filling and depositing solution, and forming equipment; and automated loading and unloading and washing systems, auto guided vehicles, food safety, handling, cooling freezing, and defrosting and packaging equipment. The company was formerly known as Middleby Marshall Oven Company and changed its name to The Middleby Corporation in 1985. The Middleby Corporation was founded in 1888 and is based in Elgin, Illinois.

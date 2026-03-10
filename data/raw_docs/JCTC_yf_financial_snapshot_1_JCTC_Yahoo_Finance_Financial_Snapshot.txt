@@ -1,0 +1,25 @@
+Company: Jewett-Cameron Trading Company Common Shares
+Ticker: JCTC
+Market Cap: 6230601
+Enterprise Value: 9286813
+Total Revenue: 40684608
+Revenue Per Share: 11.57
+EBITDA: -6358021
+Gross Margins: 0.08552
+Operating Margins: -0.43735
+Profit Margins: -0.18226999
+Free Cashflow: -4197989
+Operating Cashflow: -6158697
+Return On Assets: -0.16695999
+Return On Equity: -0.36146998
+Total Cash: 1036218
+Total Debt: 4233236
+Debt To Equity: 25.143
+Current Ratio: 3.128
+Quick Ratio: 0.679
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.36982867
+Beta: 0.139
+52 Week High: 4.91
+52 Week Low: 1.66

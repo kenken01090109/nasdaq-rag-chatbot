@@ -1,0 +1,25 @@
+Company: QuickLogic Corporation Common Stock
+Ticker: QUIK
+Market Cap: 148856096
+Enterprise Value: 133082072
+Total Revenue: 16179000
+Revenue Per Share: 1.031
+EBITDA: -4623000
+Gross Margins: 0.35299
+Operating Margins: -1.9354401
+Profit Margins: -0.56697
+Free Cashflow: -2974875
+Operating Cashflow: -1251000
+Return On Assets: -0.114989996
+Return On Equity: -0.42139998
+Total Cash: 17343000
+Total Debt: 17292000
+Debt To Equity: 69.923
+Current Ratio: 1.177
+Quick Ratio: 1.006
+Trailing PE: 
+Forward PE: 54.4375
+Price To Book: 5.9050846
+Beta: 0.677
+52 Week High: 9.59
+52 Week Low: 4.26

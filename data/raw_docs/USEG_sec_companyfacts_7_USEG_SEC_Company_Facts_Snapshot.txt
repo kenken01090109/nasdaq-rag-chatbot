@@ -1,0 +1,12 @@
+Company: U.S. Energy Corp. Common Stock (DE)
+Ticker: USEG
+CIK: 0000101594
+Latest SEC XBRL Facts:
+Revenues: 4350000 | unit=USD | filed=2018-11-13 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5959000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -12510000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 46497000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 21458000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 25039000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6281000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1415000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

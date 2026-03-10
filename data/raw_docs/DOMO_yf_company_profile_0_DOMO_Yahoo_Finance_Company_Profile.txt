@@ -1,0 +1,9 @@
+Company: Domo Inc. Class B Common Stock
+Ticker: DOMO
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: American Fork
+Website: https://www.domo.com
+Employees: 888
+Business Summary: Domo, Inc., together with its subsidiaries, operates a cloud-based modern AI and data products platform in North America, Western Europe, Australia, Japan, and India. Its platform digitally connects from the chief executive officer to the frontline employee with the data, systems, and people in an organization, as well as giving them access to real-time data and insights, and allowing them to manage business through various browsers and visualization engines accessible across laptops, TV screens, monitors, tablets, and smartphones. Domo, Inc. has a strategic partnership with Altis Consulting to deliver transformative data solutions that enable smarter decisions and measurable business outcomes. The company was formerly known as Domo Technologies, Inc. and changed its name to Domo, Inc. in December 2011. Domo, Inc. was incorporated in 2010 and is headquartered in American Fork, Utah.

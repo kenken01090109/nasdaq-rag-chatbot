@@ -1,0 +1,10 @@
+Company: Arch Capital Group Ltd. Common Stock
+Ticker: ACGL
+Market Cap: 35200102400
+Enterprise Value: 34433912832
+Trailing PE: 8.368103
+Forward PE: 9.599809
+Price To Book: 1.4849092
+Beta: 0.365
+52 Week High: 103.39
+52 Week Low: 82.45

@@ -1,0 +1,12 @@
+Company: Sanara MedTech Inc. Common Stock
+Ticker: SMTI
+CIK: 0000714256
+Latest SEC XBRL Facts:
+Revenues: 17110511 | unit=USD | filed=2021-11-12 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 75572167 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -35952692 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 71088648 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 64948114 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6148956 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2841568 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14939646 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

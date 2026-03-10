@@ -1,0 +1,25 @@
+Company: California BanCorp Common Stock
+Ticker: BCAL
+Market Cap: 582230528
+Enterprise Value: 239624096
+Total Revenue: 188600000
+Revenue Per Share: 5.832
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.51459
+Profit Margins: 0.33435002
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01564
+Return On Equity: 0.11587
+Total Cash: 399912992
+Total Debt: 52768000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.305699
+Forward PE: 9.850109
+Price To Book: 1.0097829
+Beta: 0.259
+52 Week High: 20.47
+52 Week Low: 11.87

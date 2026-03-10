@@ -1,0 +1,10 @@
+Company: BlackRock TCP Capital Corp. Common Stock
+Ticker: TCPC
+CIK: 0001370755
+Latest SEC XBRL Facts:
+NetIncomeLoss: 29357716 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1810880632 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1070856969 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 740023663 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 114383411 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 60994300 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

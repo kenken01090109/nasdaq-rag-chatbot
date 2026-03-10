@@ -1,0 +1,25 @@
+Company: Adagene Inc. American Depositary Shares
+Ticker: ADAG
+Market Cap: 133852808
+Enterprise Value: 111337784
+Total Revenue: 103204
+Revenue Per Share: 0.002
+EBITDA: -32765248
+Gross Margins: 1.0
+Operating Margins: -322.83603
+Profit Margins: 0.0
+Free Cashflow: -17171550
+Operating Cashflow: -27456540
+Return On Assets: -0.24893999
+Return On Equity: -0.63259
+Total Cash: 62828156
+Total Debt: 6849932
+Debt To Equity: 18.068
+Current Ratio: 2.292
+Quick Ratio: 2.203
+Trailing PE: 
+Forward PE: -3.9444442
+Price To Book: 3.5323381
+Beta: 0.789
+52 Week High: 3.53
+52 Week Low: 1.3

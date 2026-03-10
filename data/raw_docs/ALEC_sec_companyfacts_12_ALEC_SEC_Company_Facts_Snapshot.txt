@@ -1,0 +1,12 @@
+Company: Alector Inc. Common Stock
+Ticker: ALEC
+CIK: 0001653087
+Latest SEC XBRL Facts:
+Revenues: 14808000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14808000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -105662000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 335285000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 277573000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 57712000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -142340000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 76503000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

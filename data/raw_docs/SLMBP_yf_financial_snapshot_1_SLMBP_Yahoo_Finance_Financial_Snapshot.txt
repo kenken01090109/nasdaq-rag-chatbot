@@ -1,0 +1,25 @@
+Company: SLM Corporation Floating Rate Non-Cumulative Preferred Stock Series B
+Ticker: SLMBP
+Market Cap: 4864484864
+Enterprise Value: 16679105536
+Total Revenue: 1651705984
+Revenue Per Share: 7.973
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.66823995
+Profit Margins: 0.45096
+Free Cashflow: 
+Operating Cashflow: -398580992
+Return On Assets: 0.0249
+Return On Equity: 0.32305
+Total Cash: 4290514944
+Total Debt: 5860917248
+Debt To Equity: 239.089
+Current Ratio: 1.282
+Quick Ratio: 1.231
+Trailing PE: 34.731934
+Forward PE: 
+Price To Book: 6.7469664
+Beta: 1.164
+52 Week High: 83.15
+52 Week Low: 65.5

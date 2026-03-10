@@ -1,0 +1,10 @@
+Company: Adamas Trust Inc. 9.125% Senior Notes Due 2030
+Ticker: ADAMG
+Market Cap: 
+Enterprise Value: 13626649600
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.5733497
+Beta: 1.144
+52 Week High: 25.434
+52 Week Low: 22.7

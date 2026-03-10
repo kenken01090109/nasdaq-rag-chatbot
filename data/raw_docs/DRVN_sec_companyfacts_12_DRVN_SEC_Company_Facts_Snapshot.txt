@@ -1,0 +1,12 @@
+Company: Driven Brands Holdings Inc. Common Stock
+Ticker: DRVN
+CIK: 0001804745
+Latest SEC XBRL Facts:
+Revenues: 2339588000 | unit=USD | filed=2025-02-26 | period_end=2024-12-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 1602835000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetIncomeLoss: 19473000 | unit=USD | filed=2024-11-07 | period_end=2024-09-28
+Assets: 4152930000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Liabilities: 3359440000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+StockholdersEquity: 793490000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 234745000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 162028000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27

@@ -1,0 +1,9 @@
+Company: Santacruz Silver Mining Ltd. Common Shares
+Ticker: SCZM
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Vancouver
+Website: https://santacruzsilver.com
+Employees: 
+Business Summary: Santacruz Silver Mining Ltd., together with its subsidiaries, engages in the acquisition, exploration, development, production, and operation of mineral properties in Latin America. The company primarily explores for silver and zinc, as well as lead and copper deposits. It also holds a portfolio of mineral properties in Mexico and Bolivia. Santacruz Silver Mining Ltd. is headquartered in Vancouver, Canada.

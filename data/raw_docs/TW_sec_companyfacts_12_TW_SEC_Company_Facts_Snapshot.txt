@@ -1,0 +1,12 @@
+Company: Tradeweb Markets Inc. Class A Common Stock
+Ticker: TW
+CIK: 0001758730
+Latest SEC XBRL Facts:
+Revenues: 659583000 | unit=USD | filed=2020-10-29 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1531246000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 487800000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 7995948000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1060985000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 6280698000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 811697000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1907922000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

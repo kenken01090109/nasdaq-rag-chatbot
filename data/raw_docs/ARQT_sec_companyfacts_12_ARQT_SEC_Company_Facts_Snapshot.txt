@@ -1,0 +1,11 @@
+Company: Arcutis Biotherapeutics Inc. Common Stock
+Ticker: ARQT
+CIK: 0001787306
+Latest SEC XBRL Facts:
+Revenues: 246569000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -33536000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 370977000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 212904000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 158073000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31810000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47120000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

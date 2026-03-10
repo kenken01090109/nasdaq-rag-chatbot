@@ -1,0 +1,10 @@
+Company: Alkami Technology Inc. Common Stock
+Ticker: ALKT
+Market Cap: 1751444352
+Enterprise Value: 2020897408
+Trailing PE: 
+Forward PE: 14.953102
+Price To Book: 4.8358736
+Beta: 0.564
+52 Week High: 31.66
+52 Week Low: 14.11

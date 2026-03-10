@@ -1,0 +1,10 @@
+Company: Archimedes Tech SPAC Partners II Co. Ordinary Shares
+Ticker: ATII
+CIK: 0002028516
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5921602 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 239270951 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 8178569 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -6398917 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -693978 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1409116 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

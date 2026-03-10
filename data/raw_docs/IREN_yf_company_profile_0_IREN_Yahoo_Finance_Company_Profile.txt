@@ -1,0 +1,9 @@
+Company: IREN Limited Ordinary Shares
+Ticker: IREN
+Sector: Financial Services
+Industry: Capital Markets
+Country: Australia
+City: Sydney
+Website: https://iren.com
+Employees: 257
+Business Summary: IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as well as electrical infrastructure and data centers. It also mines Bitcoin, a scarce digital asset that is created and transmitted through the operation of a peer-to-peer network of computers running the Bitcoin software. The company was formerly known as Iris Energy Limited and changed its name to IREN Limited in November 2024. The company was incorporated in 2018 and is based in Sydney, Australia.

@@ -1,0 +1,12 @@
+Company: DENTSPLY SIRONA Inc. Common Stock
+Ticker: XRAY
+CIK: 0000818479
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2016-11-04 | period_end=2016-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2719000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -452000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 5653000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4175000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1478000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 134000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 363000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

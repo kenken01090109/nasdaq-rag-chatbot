@@ -1,0 +1,25 @@
+Company: Upstart Holdings Inc. Common stock
+Ticker: UPST
+Market Cap: 2724142336
+Enterprise Value: 3963308288
+Total Revenue: 1075521024
+Revenue Per Share: 11.2
+EBITDA: 99130000
+Gross Margins: 0.82485
+Operating Margins: 0.08876
+Profit Margins: 0.049840003
+Free Cashflow: -275449632
+Operating Cashflow: -147724992
+Return On Assets: 0.01739
+Return On Equity: 0.07486
+Total Cash: 657670016
+Total Debt: 1896835968
+Debt To Equity: 237.456
+Current Ratio: 13.103
+Quick Ratio: 4.137
+Trailing PE: 61.733337
+Forward PE: 8.86877
+Price To Book: 3.4094257
+Beta: 2.193
+52 Week High: 87.3
+52 Week Low: 25.6

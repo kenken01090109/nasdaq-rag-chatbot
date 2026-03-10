@@ -1,0 +1,25 @@
+Company: Heritage Financial Corporation Common Stock
+Ticker: HFWA
+Market Cap: 860974720
+Enterprise Value: 891181120
+Total Revenue: 244168992
+Revenue Per Share: 7.182
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.39834
+Profit Margins: 0.27658
+Free Cashflow: 
+Operating Cashflow: 94819000
+Return On Assets: 0.0095999995
+Return On Equity: 0.07566
+Total Cash: 247523008
+Total Debt: 79167000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.933674
+Forward PE: 8.71134
+Price To Book: 0.9343211
+Beta: 0.491
+52 Week High: 28.98
+52 Week Low: 19.84

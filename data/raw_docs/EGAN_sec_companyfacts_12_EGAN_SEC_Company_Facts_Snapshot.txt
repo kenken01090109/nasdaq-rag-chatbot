@@ -1,0 +1,12 @@
+Company: eGain Corporation Common Stock
+Ticker: EGAN
+CIK: 0001066194
+Latest SEC XBRL Facts:
+Revenues: 45718000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 46487000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: 5156000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 146767000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 57982000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 88785000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 20540000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 83059000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

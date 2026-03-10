@@ -1,0 +1,12 @@
+Company: Service Properties Trust Common Stock
+Ticker: SVC
+CIK: 0000945394
+Latest SEC XBRL Facts:
+Revenues: 1417385000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1116944000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -201539000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 6980324000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 6332416000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 647908000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 136305000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 417415000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

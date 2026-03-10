@@ -1,0 +1,25 @@
+Company: Wellchange Holdings Company Limited Class A Ordinary shares
+Ticker: WCT
+Market Cap: 10459083
+Enterprise Value: 4153689
+Total Revenue: 2445704
+Revenue Per Share: 3.772
+EBITDA: -4137248
+Gross Margins: 0.68762
+Operating Margins: -2.7204502
+Profit Margins: -1.54467
+Free Cashflow: -6927292
+Operating Cashflow: -9588530
+Return On Assets: -0.30006
+Return On Equity: -0.51277
+Total Cash: 71538
+Total Debt: 534147
+Debt To Equity: 4.348
+Current Ratio: 4.305
+Quick Ratio: 1.193
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.30045065
+Beta: 
+52 Week High: 4.13
+52 Week Low: 0.071

@@ -1,0 +1,11 @@
+Company: Sui Group Holdings Limited Common Stock
+Ticker: SUIG
+CIK: 0001425355
+Latest SEC XBRL Facts:
+Revenues: 2740006 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -44266954 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 429147708 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 24039202 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 405108506 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1782339 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1497009 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

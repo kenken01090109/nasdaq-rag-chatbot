@@ -1,0 +1,25 @@
+Company: Sensus Healthcare Inc. Common Stock
+Ticker: SRTS
+Market Cap: 69976400
+Enterprise Value: 56827932
+Total Revenue: 27482000
+Revenue Per Share: 1.683
+EBITDA: -9929667
+Gross Margins: 0.43181
+Operating Margins: 0.40837002
+Profit Margins: -0.28087
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.111829996
+Return On Equity: -0.14854999
+Total Cash: 14519000
+Total Debt: 225000
+Debt To Equity: 0.865
+Current Ratio: 9.719
+Quick Ratio: 5.956
+Trailing PE: 
+Forward PE: 44.736843
+Price To Book: 2.7139208
+Beta: 1.295
+52 Week High: 5.92
+52 Week Low: 3.03

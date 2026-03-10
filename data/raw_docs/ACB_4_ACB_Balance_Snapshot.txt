@@ -1,0 +1,8 @@
+Company: Aurora Cannabis Inc. Common Shares
+Ticker: ACB
+Total Cash: 108450000
+Total Debt: 100995000
+Debt To Equity: 17.786
+Current Ratio: 3.055
+Quick Ratio: 1.046
+Book Value: 6.9312954

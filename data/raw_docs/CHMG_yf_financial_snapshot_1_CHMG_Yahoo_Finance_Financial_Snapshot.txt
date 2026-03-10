@@ -1,0 +1,25 @@
+Company: Chemung Financial Corp Common Stock
+Ticker: CHMG
+Market Cap: 264206448
+Enterprise Value: 353628448
+Total Revenue: 90665000
+Revenue Per Share: 18.873
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38416
+Profit Margins: 0.16659
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00551
+Return On Equity: 0.06427
+Total Cash: 50097000
+Total Debt: 139519008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.496815
+Forward PE: 6.7
+Price To Book: 1.0372888
+Beta: 0.459
+52 Week High: 65.5
+52 Week Low: 40.71

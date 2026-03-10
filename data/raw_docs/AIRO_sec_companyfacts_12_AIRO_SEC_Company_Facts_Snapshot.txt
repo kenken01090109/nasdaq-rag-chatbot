@@ -1,0 +1,11 @@
+Company: AIRO Group Holdings Inc. Common Stock
+Ticker: AIRO
+CIK: 0001927958
+Latest SEC XBRL Facts:
+Revenues: 42628570 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 42628570 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -4064342 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 774576211 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 35029065 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 739547146 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36520602 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

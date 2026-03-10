@@ -1,0 +1,10 @@
+Company: Ohio Valley Banc Corp. Common Stock
+Ticker: OVBC
+CIK: 0000894671
+Latest SEC XBRL Facts:
+NetIncomeLoss: 11646000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1570043000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1405626000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 164417000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 10287000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 89316000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

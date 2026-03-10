@@ -1,0 +1,9 @@
+Company: Verrica Pharmaceuticals Inc. Common Stock
+Ticker: VRCA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: West Chester
+Website: https://www.verrica.com
+Employees: 71
+Business Summary: Verrica Pharmaceuticals Inc., a dermatology therapeutics company, engages in the development and sale of medications for the treatment of skin diseases in the United States. The company's product pipeline includes YCANTH (VP-102), which is in phase III clinical trial for the treatment of common warts; and has completed phase II clinical trial for treating external genital warts, as well as for molluscum contagiosum. It also develops VP-315, an oncolytic peptide-based injectable therapy that is in phase II clinical trial for the treatment of dermatology oncologic conditions, which include basal cell carcinoma; and VP-103, a cantharidin-based product candidate for treating plantar warts. The company has a collaboration and license agreement with Torii Pharmaceutical Co., Ltd. for the development and commercialization of its product candidates for the treatment of molluscum contagiosum and common warts in Japan, including VP-102; and a license agreement with Lytix Biopharma AS to develop and commercialize VP-315 for dermatological oncology indications, such as non-metastatic melanoma and non-metastatic merkel cell carcinoma. Verrica Pharmaceuticals Inc. was incorporated in 2013 and is headquartered in West Chester, Pennsylvania.

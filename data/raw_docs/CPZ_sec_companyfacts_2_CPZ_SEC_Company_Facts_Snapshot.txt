@@ -1,0 +1,4 @@
+Company: Calamos Long/Short Equity & Dynamic Income Trust Common Stock
+Ticker: CPZ
+CIK: 0001717457
+Latest SEC XBRL Facts:

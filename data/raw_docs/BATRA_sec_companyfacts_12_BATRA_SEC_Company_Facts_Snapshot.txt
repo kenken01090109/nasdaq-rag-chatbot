@@ -1,0 +1,11 @@
+Company: Atlanta Braves Holdings Inc. Series A Common Stock
+Ticker: BATRA
+CIK: 0001958140
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 671189000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 18081000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1671466000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1099007000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 560290000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1175000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 82237000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

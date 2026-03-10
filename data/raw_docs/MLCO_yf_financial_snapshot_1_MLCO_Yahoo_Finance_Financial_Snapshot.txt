@@ -1,0 +1,25 @@
+Company: Melco Resorts & Entertainment Limited American Depositary Shares
+Ticker: MLCO
+Market Cap: 2180023040
+Enterprise Value: 13060592640
+Total Revenue: 5163298816
+Revenue Per Share: 12.973
+EBITDA: 1141964032
+Gross Margins: 0.36734
+Operating Margins: 0.11319
+Profit Margins: 0.03584
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.04816
+Return On Equity: 
+Total Cash: 1023198976
+Total Debt: 7024941056
+Debt To Equity: 
+Current Ratio: 1.072
+Quick Ratio: 0.971
+Trailing PE: 12.130434
+Forward PE: 7.013663
+Price To Book: -1.7486681
+Beta: 0.603
+52 Week High: 10.15
+52 Week Low: 4.55

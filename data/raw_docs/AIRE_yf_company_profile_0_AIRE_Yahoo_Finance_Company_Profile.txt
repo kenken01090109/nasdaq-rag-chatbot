@@ -1,0 +1,9 @@
+Company: reAlpha Tech Corp. Common Stock
+Ticker: AIRE
+Sector: Real Estate
+Industry: Real Estate Services
+Country: United States
+City: Dublin
+Website: https://www.realpha.com
+Employees: 132
+Business Summary: reAlpha Tech Corp., a real estate technology company, develops an end-to-end homebuying platform. The company offers and develops AI-based products and services to customers in various industries including real estate, retail, hospitality and education industries. These include reAlpha platform, an AI-powered solution designed to simplify the home purchase process and providing visual interface, mortgage brokerage, digital title and escrow services; Super App, allows users to search for and purchase homes on their mobile device; AiChat's Conversational Platform, enables businesses to automate and optimize customer service, marketing, and e-commerce processes through the integration of messaging channels; and GENA to generate home descriptions. The company was formerly known as eAlpha Asset Management, Inc. and changed its name to reAlpha Tech Corp. in March 2023. reAlpha Tech Corp. was founded in 2020 and is based in Dublin, Ohio.

@@ -1,0 +1,8 @@
+Company: Achieve Life Sciences Inc. Common Shares
+Ticker: ACHV
+Total Cash: 48114000
+Total Debt: 9958000
+Debt To Equity: 29.624
+Current Ratio: 5.144
+Quick Ratio: 4.945
+Book Value: 0.636

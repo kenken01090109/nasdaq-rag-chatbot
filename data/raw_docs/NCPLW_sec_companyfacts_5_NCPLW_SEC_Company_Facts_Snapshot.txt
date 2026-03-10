@@ -1,0 +1,12 @@
+Company: Netcapital Inc. Warrants
+Ticker: NCPLW
+CIK: 0001414767
+Latest SEC XBRL Facts:
+Revenues: 241134 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 241134 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetIncomeLoss: -5771541 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Assets: 25439398 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Liabilities: 4002600 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+StockholdersEquity: 21436798 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -6792561 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 2473959 | unit=USD | filed=2022-03-18 | period_end=2021-04-30

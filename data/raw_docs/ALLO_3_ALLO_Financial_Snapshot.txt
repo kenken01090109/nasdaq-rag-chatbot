@@ -1,0 +1,12 @@
+Company: Allogene Therapeutics Inc. Common Stock
+Ticker: ALLO
+Total Revenue: 0
+Revenue Per Share: 0.0
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: -212484000
+Profit Margins: 0.0
+Free Cashflow: -83917752
+Operating Cashflow: -158344992
+Return On Assets: -0.27337998
+Return On Equity: -0.54427

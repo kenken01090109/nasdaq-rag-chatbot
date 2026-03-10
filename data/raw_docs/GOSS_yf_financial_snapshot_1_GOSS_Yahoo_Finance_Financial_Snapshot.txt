@@ -1,0 +1,25 @@
+Company: Gossamer Bio Inc. Common Stock
+Ticker: GOSS
+Market Cap: 115890136
+Enterprise Value: 138542144
+Total Revenue: 44051000
+Revenue Per Share: 0.194
+EBITDA: -153215008
+Gross Margins: 1.0
+Operating Margins: -3.13209
+Profit Margins: 0.0
+Free Cashflow: -82003128
+Operating Cashflow: -158432992
+Return On Assets: -0.34245998
+Return On Equity: 
+Total Cash: 180224000
+Total Debt: 202876000
+Debt To Equity: 
+Current Ratio: 3.284
+Quick Ratio: 3.057
+Trailing PE: 
+Forward PE: -0.9166133
+Price To Book: -1.4064606
+Beta: 2.109
+52 Week High: 3.87
+52 Week Low: 0.331

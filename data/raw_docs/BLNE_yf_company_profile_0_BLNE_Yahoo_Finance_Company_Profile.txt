@@ -1,0 +1,9 @@
+Company: Beeline Holdings Inc. Common Stock
+Ticker: BLNE
+Sector: Financial Services
+Industry: Mortgage Finance
+Country: United States
+City: Providence
+Website: 
+Employees: 91
+Business Summary: Beeline Holdings, Inc. engages in the fintech mortgage lending business. It servers property investors and buyers. The company was founded in 2019 and is based in Providence, Rhode Island.

@@ -1,0 +1,11 @@
+Company: Golden Sun Technology Group Limited Class A Ordinary Shares
+Ticker: GSUN
+CIK: 0001826376
+Latest SEC XBRL Facts:
+Revenues: 16569194 | unit=USD | filed=2025-08-08 | period_end=2025-03-31
+NetIncomeLoss: -4794677 | unit=USD | filed=2025-08-08 | period_end=2025-03-31
+Assets: 24858822 | unit=USD | filed=2025-08-08 | period_end=2025-03-31
+Liabilities: 29124599 | unit=USD | filed=2025-08-08 | period_end=2025-03-31
+StockholdersEquity: -3911201 | unit=USD | filed=2025-08-08 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -8518090 | unit=USD | filed=2025-08-08 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 137076 | unit=USD | filed=2025-08-08 | period_end=2025-03-31

@@ -1,0 +1,25 @@
+Company: East West Bancorp Inc. Common Stock
+Ticker: EWBC
+Market Cap: 14632042496
+Enterprise Value: 13852566528
+Total Revenue: 2697061120
+Revenue Per Share: 19.496
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.66164
+Profit Margins: 0.49135
+Free Cashflow: 
+Operating Cashflow: 1501699968
+Return On Assets: 0.01694
+Return On Equity: 0.15945
+Total Cash: 4781270016
+Total Debt: 3458183936
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.168067
+Forward PE: 9.685239
+Price To Book: 1.6436832
+Beta: 0.898
+52 Week High: 123.82
+52 Week Low: 68.27

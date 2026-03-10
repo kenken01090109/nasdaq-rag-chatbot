@@ -1,0 +1,11 @@
+Company: Texxon Holding Limited Ordinary shares
+Ticker: NPT
+CIK: 0002014337
+Latest SEC XBRL Facts:
+Revenues: 797148640 | unit=USD | filed=2025-11-18 | period_end=2025-06-30
+NetIncomeLoss: -932621 | unit=USD | filed=2025-11-18 | period_end=2025-06-30
+Assets: 138967733 | unit=USD | filed=2025-11-18 | period_end=2025-06-30
+Liabilities: 104919675 | unit=USD | filed=2025-11-18 | period_end=2025-06-30
+StockholdersEquity: -3812053 | unit=USD | filed=2025-11-18 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 2324959 | unit=USD | filed=2025-11-18 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2517577 | unit=USD | filed=2025-11-18 | period_end=2025-06-30

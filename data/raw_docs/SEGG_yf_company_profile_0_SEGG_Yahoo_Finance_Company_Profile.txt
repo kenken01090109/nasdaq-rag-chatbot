@@ -1,0 +1,9 @@
+Company: Sports Entertainment Gaming Global Corporation Common Stock
+Ticker: SEGG
+Sector: Consumer Cyclical
+Industry: Gambling
+Country: United States
+City: Fort Worth
+Website: https://seggmediacorp.com
+Employees: 12
+Business Summary: Sports Entertainment Gaming Global Corporation, doing business as SEGG Media Corp., SEGG Media, and SEGG, a digital publisher, provides lottery data results, jackpots, results, and other data. The company delivers daily results of domestic and international lottery games from approximately 40 countries, including the United States, Canada, and the United Kingdom to digital publishers and media organizations. Its B2B API platform provides users with the ability to purchase legally sanctioned draw lottery games through a mobile or computer device, as well as engages in sweepstakes campaigns. The company also operates Sports.com that connects sports content with audiences. The company was formerly known as Lottery.com Inc. and changed its name to Sports Entertainment Gaming Global Corporation in January 2026. Sports Entertainment Gaming Global Corporation was incorporated in 2016 and is headquartered in Fort Worth, Texas.

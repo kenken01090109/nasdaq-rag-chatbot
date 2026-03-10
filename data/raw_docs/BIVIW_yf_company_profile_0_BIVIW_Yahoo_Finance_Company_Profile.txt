@@ -1,0 +1,9 @@
+Company: BioVie Inc. Warrant
+Ticker: BIVIW
+Sector: 
+Industry: 
+Country: United States
+City: Carson City
+Website: https://bioviepharma.com
+Employees: 13
+Business Summary: BioVie Inc., a clinical-stage biopharmaceutical company, develops drug therapies to treat neurological and neurodegenerative disorders, and advanced liver disease in the United States. The company develops BIV201, that is in phase 2 for the treatment of ascites due to chronic liver cirrhosis. It also develops NE3107 that is in Phase III clinical trial for the treatment of patients with mild to moderate Alzheimer's disease; and in Phase 2 clinical trial to treat Parkinson's disease, as well as for the long COVID program. The company was formerly known as NanoAntibiotics, Inc. and changed its name to BioVie Inc. in July 2016. BioVie Inc. was incorporated in 2013 and is headquartered in Carson City, Nevada.

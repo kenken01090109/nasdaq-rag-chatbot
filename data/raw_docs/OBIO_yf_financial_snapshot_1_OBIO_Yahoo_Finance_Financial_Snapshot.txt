@@ -1,0 +1,25 @@
+Company: Orchestra BioMed Holdings Inc. Ordinary Shares
+Ticker: OBIO
+Market Cap: 243927648
+Enterprise Value: 174870944
+Total Revenue: 2818000
+Revenue Per Share: 0.067
+EBITDA: -74909000
+Gross Margins: 0.93009
+Operating Margins: -23.592329
+Profit Margins: 0.0
+Free Cashflow: -31556000
+Operating Cashflow: -60231000
+Return On Assets: -0.52212
+Return On Equity: -1.6696899
+Total Cash: 95820000
+Total Debt: 16035000
+Debt To Equity: 36.661
+Current Ratio: 4.733
+Quick Ratio: 4.642
+Trailing PE: 
+Forward PE: -2.706038
+Price To Book: 5.574194
+Beta: 0.595
+52 Week High: 5.424
+52 Week Low: 2.2

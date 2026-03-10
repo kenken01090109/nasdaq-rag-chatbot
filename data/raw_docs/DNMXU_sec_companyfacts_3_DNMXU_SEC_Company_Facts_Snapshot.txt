@@ -1,0 +1,7 @@
+Company: Dynamix Corporation III Unit
+Ticker: DNMXU
+CIK: 0002081125
+Latest SEC XBRL Facts:
+NetIncomeLoss: -64571 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+Assets: 471665 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+StockholdersEquity: -39571 | unit=USD | filed=2025-12-10 | period_end=2025-09-30

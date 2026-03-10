@@ -1,0 +1,10 @@
+Company: Ambitions Enterprise Management Co. L.L.C Class A Ordinary Shares
+Ticker: AHMA
+Market Cap: 174783008
+Enterprise Value: 163665856
+Trailing PE: 147.0
+Forward PE: 
+Price To Book: 24.602512
+Beta: 
+52 Week High: 39.5
+52 Week Low: 4.0

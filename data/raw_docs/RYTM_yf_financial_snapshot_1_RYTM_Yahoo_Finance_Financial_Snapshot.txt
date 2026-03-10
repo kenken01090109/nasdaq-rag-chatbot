@@ -1,0 +1,25 @@
+Company: Rhythm Pharmaceuticals Inc. Common Stock
+Ticker: RYTM
+Market Cap: 6386016768
+Enterprise Value: 6240198656
+Total Revenue: 189756992
+Revenue Per Share: 2.92
+EBITDA: -190678000
+Gross Margins: 0.89728
+Operating Margins: -0.82202005
+Profit Margins: -1.03574
+Free Cashflow: -145983376
+Operating Cashflow: -115675000
+Return On Assets: -0.2751
+Return On Equity: -0.90450996
+Total Cash: 388948992
+Total Debt: 112174000
+Debt To Equity: 41.542
+Current Ratio: 4.407
+Quick Ratio: 3.918
+Trailing PE: 
+Forward PE: 3353.173
+Price To Book: 45.200577
+Beta: 2.149
+52 Week High: 122.2
+52 Week Low: 45.905

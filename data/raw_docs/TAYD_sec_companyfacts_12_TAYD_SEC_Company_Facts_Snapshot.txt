@@ -1,0 +1,10 @@
+Company: Taylor Devices Inc. Common Stock
+Ticker: TAYD
+CIK: 0000096536
+Latest SEC XBRL Facts:
+Revenues: 21521822 | unit=USD | filed=2025-12-31 | period_end=2025-11-30
+NetIncomeLoss: 4198708 | unit=USD | filed=2025-12-31 | period_end=2025-11-30
+Assets: 72844118 | unit=USD | filed=2025-12-31 | period_end=2025-11-30
+StockholdersEquity: 67061024 | unit=USD | filed=2025-12-31 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 6229508 | unit=USD | filed=2025-12-31 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 1956030 | unit=USD | filed=2025-12-31 | period_end=2025-11-30

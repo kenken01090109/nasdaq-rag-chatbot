@@ -1,0 +1,25 @@
+Company: Lianhe Sowell International Group Ltd Class A Ordinary Shares
+Ticker: LHSW
+Market Cap: 8418800
+Enterprise Value: 11180603
+Total Revenue: 36539848
+Revenue Per Share: 0.731
+EBITDA: 3105397
+Gross Margins: 0.26205
+Operating Margins: 0.097440004
+Profit Margins: 0.08550999
+Free Cashflow: 1535089
+Operating Cashflow: -1474574
+Return On Assets: 0.077199996
+Return On Equity: 0.32638
+Total Cash: 202418
+Total Debt: 3296468
+Debt To Equity: 28.288
+Current Ratio: 1.236
+Quick Ratio: 1.093
+Trailing PE: 2.6983333
+Forward PE: 
+Price To Book: 0.69784486
+Beta: 
+52 Week High: 8.18
+52 Week Low: 0.07

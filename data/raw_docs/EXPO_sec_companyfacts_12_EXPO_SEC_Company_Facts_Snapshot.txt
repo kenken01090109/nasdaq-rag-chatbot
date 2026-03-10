@@ -1,0 +1,12 @@
+Company: Exponent Inc. Common Stock
+Ticker: EXPO
+CIK: 0000851520
+Latest SEC XBRL Facts:
+Revenues: 582014000 | unit=USD | filed=2026-02-27 | period_end=2026-01-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 434589000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+NetIncomeLoss: 81247000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+Assets: 761449000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+Liabilities: 358588000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+StockholdersEquity: 402861000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+NetCashProvidedByUsedInOperatingActivities: 76148000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 207380000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03

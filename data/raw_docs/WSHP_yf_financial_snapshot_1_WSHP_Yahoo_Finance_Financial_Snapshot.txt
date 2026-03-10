@@ -1,0 +1,25 @@
+Company: WeShop Holdings Limited Class A Ordinary Shares
+Ticker: WSHP
+Market Cap: 180023616
+Enterprise Value: 413392896
+Total Revenue: 810223
+Revenue Per Share: 0.106
+EBITDA: -9992561
+Gross Margins: 0.0
+Operating Margins: -12.332431
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -3470246
+Return On Assets: 
+Return On Equity: 
+Total Cash: 102600
+Total Debt: 6469205
+Debt To Equity: 173.766
+Current Ratio: 0.019
+Quick Ratio: 0.015
+Trailing PE: 
+Forward PE: 
+Price To Book: 26.430193
+Beta: -1.157
+52 Week High: 250.0
+52 Week Low: 13.66

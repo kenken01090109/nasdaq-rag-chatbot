@@ -1,0 +1,25 @@
+Company: Utah Medical Products Inc. Common Stock
+Ticker: UTMD
+Market Cap: 208623136
+Enterprise Value: 122178744
+Total Revenue: 38520000
+Revenue Per Share: 11.889
+EBITDA: 14344666
+Gross Margins: 0.57116
+Operating Margins: 0.31114998
+Profit Margins: 0.29299
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.05815
+Return On Equity: 0.09536
+Total Cash: 85756000
+Total Debt: 225000
+Debt To Equity: 0.189
+Current Ratio: 37.622
+Quick Ratio: 34.364
+Trailing PE: 18.712645
+Forward PE: 
+Price To Book: 1.739688
+Beta: 0.324
+52 Week High: 68.71
+52 Week Low: 51.26

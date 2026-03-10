@@ -1,0 +1,9 @@
+Company: Spectral AI Inc. Class A Common Stock
+Ticker: MDAI
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Dallas
+Website: https://www.spectral-ai.com
+Employees: 78
+Business Summary: Spectral AI, Inc., an artificial intelligence (AI) company, focuses on predictive medical diagnostics in the United States. The company offers DeepView System, which uses proprietary AI algorithms to distinguish between fully damaged, partially damaged, and healthy human tissue characteristics invisible to the naked eye at the initial time point of wound presentation; and delivers a binary prediction on the wounds capacity to heal or not heal by a specified time point in the future to assist the physician in making a more accurate, timely, and informed decision regarding the treatment of the patient's wounds. Its system also includes MSI imaging technology, which consists of proprietary multi-spectral optics and sensors that capture injured tissue images; and AI-Burn software. Spectral AI, Inc. is headquartered in Dallas, Texas.

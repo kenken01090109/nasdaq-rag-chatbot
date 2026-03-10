@@ -1,0 +1,9 @@
+Company: LanzaTech Global Inc. Common Stock
+Ticker: LNZA
+Sector: Industrials
+Industry: Waste Management
+Country: United States
+City: Skokie
+Website: https://www.lanzatech.com
+Employees: 383
+Business Summary: LanzaTech Global, Inc. operates as a nature-based carbon refining company in the United States and internationally. The company transforms waste carbon into the chemical building blocks for consumer goods, such as fuels, fabrics, packaging, and nutrition. The company operates in North America, Europe, Middle East, Africa, Asia, Australia. LanzaTech Global, Inc. was founded in 2005 and is headquartered in Skokie, Illinois.

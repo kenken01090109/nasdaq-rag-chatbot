@@ -1,0 +1,25 @@
+Company: Reliance Global Group Inc. Common Stock
+Ticker: EZRA
+Market Cap: 2385040
+Enterprise Value: 6598995
+Total Revenue: 13115995
+Revenue Per Share: 3.88
+EBITDA: -7316871
+Gross Margins: -0.1449
+Operating Margins: -1.5680001
+Profit Margins: -0.5339
+Free Cashflow: 2090441
+Operating Cashflow: -2336370
+Return On Assets: -0.32871
+Return On Equity: -1.46426
+Total Cash: 2581219
+Total Debt: 7059110
+Debt To Equity: 104.671
+Current Ratio: 1.466
+Quick Ratio: 0.995
+Trailing PE: 2.02
+Forward PE: 
+Price To Book: 0.30904034
+Beta: 0.022
+52 Week High: 3.55
+52 Week Low: 0.15

@@ -1,0 +1,11 @@
+Company: ARKO Corp. Common Stock
+Ticker: ARKO
+CIK: 0001823794
+Latest SEC XBRL Facts:
+Revenues: -4557517000 | unit=USD | filed=2023-08-07 | period_end=2023-06-30
+NetIncomeLoss: 20885000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3586984000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 3213858000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 273126000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 148009000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 306932000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

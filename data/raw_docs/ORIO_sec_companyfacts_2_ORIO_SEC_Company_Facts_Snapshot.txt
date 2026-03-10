@@ -1,0 +1,5 @@
+Company: Orion Digital Corp. Common Shares
+Ticker: ORIO
+CIK: 0001602842
+Latest SEC XBRL Facts:
+Revenues: 19114000 | unit=CAD | filed=2021-03-26 | period_end=2020-12-31

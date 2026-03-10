@@ -1,0 +1,12 @@
+Company: Optex Systems Holdings Inc. Common Stock
+Ticker: OPXS
+CIK: 0001397016
+Latest SEC XBRL Facts:
+Revenues: 5887000 | unit=USD | filed=2020-02-10 | period_end=2019-12-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 9145000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+NetIncomeLoss: 242000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+Assets: 30211000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+Liabilities: 5466000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+StockholdersEquity: 24745000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: -92000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 5841000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28

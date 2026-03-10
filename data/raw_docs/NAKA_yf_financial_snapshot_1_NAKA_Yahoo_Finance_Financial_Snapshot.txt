@@ -1,0 +1,25 @@
+Company: Nakamoto Inc. Common Stock
+Ticker: NAKA
+Market Cap: 211706624
+Enterprise Value: 306227040
+Total Revenue: 1980278
+Revenue Per Share: 0.036
+EBITDA: -14758136
+Gross Margins: 0.0
+Operating Margins: -26.80392
+Profit Margins: 0.0
+Free Cashflow: -3938283
+Operating Cashflow: -16845498
+Return On Assets: -0.026659999
+Return On Equity: -0.37622002
+Total Cash: 24185084
+Total Debt: 209013280
+Debt To Equity: 43.767
+Current Ratio: 0.126
+Quick Ratio: 0.113
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.23568873
+Beta: 
+52 Week High: 34.77
+52 Week Low: 0.226

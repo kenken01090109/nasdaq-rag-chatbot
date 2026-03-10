@@ -1,0 +1,25 @@
+Company: Natural Health Trends Corp. Common Stock
+Ticker: NHTC
+Market Cap: 36726712
+Enterprise Value: -539006
+Total Revenue: 39776000
+Revenue Per Share: 3.46
+EBITDA: -1699000
+Gross Margins: 0.73544
+Operating Margins: -0.06513
+Profit Margins: -0.02217
+Free Cashflow: -6088000
+Operating Cashflow: -5997000
+Return On Assets: -0.0241
+Return On Equity: -0.03133
+Total Cash: 28873000
+Total Debt: 2000000
+Debt To Equity: 8.536
+Current Ratio: 2.498
+Quick Ratio: 2.109
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.5675676
+Beta: 0.815
+52 Week High: 6.0
+52 Week Low: 2.4

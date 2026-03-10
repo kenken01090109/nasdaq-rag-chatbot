@@ -1,0 +1,25 @@
+Company: Freshpet Inc. Common Stock
+Ticker: FRPT
+Market Cap: 4054085120
+Enterprise Value: 4271094016
+Total Revenue: 1102014976
+Revenue Per Share: 22.582
+EBITDA: 183659008
+Gross Margins: 0.408
+Operating Margins: 0.15632
+Profit Margins: 0.12626
+Free Cashflow: -3288750
+Operating Cashflow: 160560992
+Return On Assets: 0.03502
+Return On Equity: 0.12291
+Total Cash: 277975008
+Total Debt: 494984000
+Debt To Equity: 40.953
+Current Ratio: 5.544
+Quick Ratio: 4.348
+Trailing PE: 31.303028
+Forward PE: 40.762775
+Price To Book: 3.348189
+Beta: 1.673
+52 Week High: 97.0
+52 Week Low: 46.76

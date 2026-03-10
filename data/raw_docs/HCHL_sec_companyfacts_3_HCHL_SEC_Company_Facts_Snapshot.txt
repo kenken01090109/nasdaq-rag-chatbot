@@ -1,0 +1,11 @@
+Company: Happy City Holdings Limited Class A Ordinary shares
+Ticker: HCHL
+CIK: 0002046656
+Latest SEC XBRL Facts:
+Revenues: 6799732 | unit=USD | filed=2026-01-14 | period_end=2025-08-31
+NetIncomeLoss: -2429433 | unit=USD | filed=2026-01-14 | period_end=2025-08-31
+Assets: 8018655 | unit=USD | filed=2026-01-14 | period_end=2025-08-31
+Liabilities: 5812158 | unit=USD | filed=2026-01-14 | period_end=2025-08-31
+StockholdersEquity: 2206497 | unit=USD | filed=2026-01-14 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -1267366 | unit=USD | filed=2026-01-14 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 3369647 | unit=USD | filed=2026-01-14 | period_end=2025-08-31

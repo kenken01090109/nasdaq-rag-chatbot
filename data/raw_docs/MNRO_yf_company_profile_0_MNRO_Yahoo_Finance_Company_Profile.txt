@@ -1,0 +1,9 @@
+Company: Monro Inc. Common Stock
+Ticker: MNRO
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: Fairport
+Website: https://www.monro.com
+Employees: 7360
+Business Summary: Monro, Inc. engages in the operation of retail tire and automotive repair stores in the United States. It offers replacement tires and tire related services; automotive undercar repair services; and routine maintenance services primarily to passenger cars, light trucks, and vans. The company also provides other products and services for brakes; mufflers and exhaust systems; and steering, drive train, suspension, and wheel alignment. It operates its stores under the Monro Auto Service and Tire Centers, Tire Choice Auto Service Centers, Mr. Tire Auto Service Centers, Car-X Tire & Auto, Tire Warehouse Tires for Less, Ken Towery's Tire & Auto Care, Mountain View Tire & Auto Service, and Tire Barn Warehouse brand names. The company was founded in 1957 and is headquartered in Fairport, New York.

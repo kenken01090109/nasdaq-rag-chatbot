@@ -1,0 +1,25 @@
+Company: Seven Hills Realty Trust Common Stock
+Ticker: SEVN
+Market Cap: 194347824
+Enterprise Value: 559875072
+Total Revenue: 29180000
+Revenue Per Share: 1.915
+EBITDA: 
+Gross Margins: 0.92224
+Operating Margins: 0.60807997
+Profit Margins: 0.52892
+Free Cashflow: 
+Operating Cashflow: 15038000
+Return On Assets: 0.02039
+Return On Equity: 0.051620003
+Total Cash: 123471000
+Total Debt: 487656992
+Debt To Equity: 148.381
+Current Ratio: 1.692
+Quick Ratio: 1.689
+Trailing PE: 8.514852
+Forward PE: 8.15166
+Price To Book: 0.5909841
+Beta: 0.491
+52 Week High: 13.02
+52 Week Low: 8.3

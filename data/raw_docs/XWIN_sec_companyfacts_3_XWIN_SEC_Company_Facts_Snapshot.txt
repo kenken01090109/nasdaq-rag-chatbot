@@ -1,0 +1,12 @@
+Company: XMAX Inc. Common Stock
+Ticker: XWIN
+CIK: 0001473334
+Latest SEC XBRL Facts:
+Revenues: 14953032 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14953032 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1755172 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 18286442 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4702583 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 13583859 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2137264 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1714382 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

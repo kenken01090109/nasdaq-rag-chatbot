@@ -1,0 +1,25 @@
+Company: Lifecore Biomedical Inc. Common Stock
+Ticker: LFCR
+Market Cap: 260765808
+Enterprise Value: 428603584
+Total Revenue: 128867000
+Revenue Per Share: 3.701
+EBITDA: -3979000
+Gross Margins: 0.31271
+Operating Margins: -0.09859
+Profit Margins: -0.30044
+Free Cashflow: -28833624
+Operating Cashflow: -206000
+Return On Assets: -0.03042
+Return On Equity: -0.76414
+Total Cash: 18856000
+Total Debt: 137532992
+Debt To Equity: 373.873
+Current Ratio: 2.839
+Quick Ratio: 1.456
+Trailing PE: 
+Forward PE: -8.093023
+Price To Book: 193.33334
+Beta: 0.639
+52 Week High: 8.98
+52 Week Low: 4.76

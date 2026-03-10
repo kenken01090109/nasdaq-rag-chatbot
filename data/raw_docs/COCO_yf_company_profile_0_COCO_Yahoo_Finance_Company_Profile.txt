@@ -1,0 +1,9 @@
+Company: The Vita Coco Company Inc. Common Stock
+Ticker: COCO
+Sector: Consumer Defensive
+Industry: Beverages - Non-Alcoholic
+Country: United States
+City: New York
+Website: https://thevitacococompany.com
+Employees: 336
+Business Summary: The Vita Coco Company, Inc. develops, manufactures, markets, and distributes coconut water products under the Vita Coco brand name in the United States, Canada, Europe, the Middle East, Africa, and the Asia Pacific. It offers coconut water, oil, and juice products; Vita Coco Treats, a plant-based dairy alternative; Vita Coco Pressed, Vita Coco Coconut Juice, and Farmers Organic; Vita Coco Coconut MLK; and PWR LIFT, a protein-infused fitness drink. The company also supplies private label products to retailers. It distributes its products through club, food, drug, mass, convenience, e-commerce, and foodservice channels. The company was formerly known as All Market Inc. and changed its name to The Vita Coco Company, Inc. in September 2021. The Vita Coco Company, Inc. was incorporated in 2004 and is headquartered in New York, New York.

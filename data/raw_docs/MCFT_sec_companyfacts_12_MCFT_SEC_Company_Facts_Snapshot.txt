@@ -1,0 +1,11 @@
+Company: MasterCraft Boat Holdings Inc. Common Stock
+Ticker: MCFT
+CIK: 0001638290
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 204687000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30
+NetIncomeLoss: 1346000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30
+Assets: 261886000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30
+Liabilities: 79619000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30
+StockholdersEquity: 182067000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30
+NetCashProvidedByUsedInOperatingActivities: 15149000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30
+CashAndCashEquivalentsAtCarryingValue: 28507000 | unit=USD | filed=2025-05-07 | period_end=2025-03-30

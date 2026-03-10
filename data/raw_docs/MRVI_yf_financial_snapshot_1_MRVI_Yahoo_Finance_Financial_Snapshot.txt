@@ -1,0 +1,25 @@
+Company: Maravai LifeSciences Holdings Inc. Class A Common Stock
+Ticker: MRVI
+Market Cap: 1305517184
+Enterprise Value: 846840064
+Total Revenue: 185743008
+Revenue Per Share: 1.287
+EBITDA: -74121000
+Gross Margins: 0.19215
+Operating Margins: -0.39363
+Profit Margins: -0.70405
+Free Cashflow: -2768750
+Operating Cashflow: -57573000
+Return On Assets: -0.08828
+Return On Equity: -0.48586
+Total Cash: 216890000
+Total Debt: 364708000
+Debt To Equity: 97.853
+Current Ratio: 6.596
+Quick Ratio: 5.396
+Trailing PE: 
+Forward PE: -23.610003
+Price To Book: 2.4298427
+Beta: 0.348
+52 Week High: 4.105
+52 Week Low: 1.665

@@ -1,0 +1,12 @@
+Company: Flex Ltd. Ordinary Shares
+Ticker: FLEX
+CIK: 0000866374
+Latest SEC XBRL Facts:
+Revenues: 21821074000 | unit=USD | filed=2011-02-02 | period_end=2010-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 20437000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: 630000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 20820000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 15699000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 5121000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1272000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3057000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

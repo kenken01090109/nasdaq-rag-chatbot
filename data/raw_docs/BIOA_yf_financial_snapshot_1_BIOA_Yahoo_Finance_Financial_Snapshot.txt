@@ -1,0 +1,25 @@
+Company: BioAge Labs Inc. Common Stock
+Ticker: BIOA
+Market Cap: 847157696
+Enterprise Value: 452080640
+Total Revenue: 5917000
+Revenue Per Share: 0.165
+EBITDA: -89528000
+Gross Margins: -0.63174
+Operating Margins: -11.2658205
+Profit Margins: 0.0
+Free Cashflow: -41480876
+Operating Cashflow: -58514000
+Return On Assets: -0.17456
+Return On Equity: -0.25639
+Total Cash: 285777984
+Total Debt: 7133000
+Debt To Equity: 2.571
+Current Ratio: 11.874
+Quick Ratio: 11.689
+Trailing PE: 1.4908156
+Forward PE: -7.769481
+Price To Book: 2.6214473
+Beta: 
+52 Week High: 24.0
+52 Week Low: 2.88

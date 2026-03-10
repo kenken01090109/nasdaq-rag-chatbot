@@ -1,0 +1,9 @@
+Company: Aemetis Inc. (DE) Common Stock
+Ticker: AMTX
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United States
+City: Cupertino
+Website: https://www.aemetis.com
+Employees: 223
+Business Summary: Aemetis, Inc. operates as a renewable natural gas and renewable fuels company. It operates through three segments: California Ethanol, California Dairy Renewable Natural Gas, and India Biodiesel. The company engages in the operation, acquisition, development, and commercialization of low and negative carbon intensity products and technologies that replace fossil fuel products. It also produces and sells ethanol; wet distillers grains, distillers corn oil, and condensed distillers solubles to dairies and feedlots as animal feed; and distilled biodiesel and refined glycerin products. In addition, the company produces renewable natural gas; and USP alcohol and hand sanitizer. Aemetis, Inc. is headquartered in Cupertino, California.

@@ -1,0 +1,10 @@
+Company: New Mountain Finance Corporation Common Stock
+Ticker: NMFC
+CIK: 0001496099
+Latest SEC XBRL Facts:
+NetIncomeLoss: 43376000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 3088909000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 1826243000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1256626000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 217393000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63684000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

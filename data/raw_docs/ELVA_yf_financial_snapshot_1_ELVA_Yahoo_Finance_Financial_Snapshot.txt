@@ -1,0 +1,25 @@
+Company: Electrovaya Inc. Common Shares
+Ticker: ELVA
+Market Cap: 384702112
+Enterprise Value: 342545120
+Total Revenue: 63826000
+Revenue Per Share: 1.633
+EBITDA: 6601000
+Gross Margins: 0.30896
+Operating Margins: 0.11567
+Profit Margins: 0.05269
+Free Cashflow: -6529375
+Operating Cashflow: 1717000
+Return On Assets: 0.06696
+Return On Equity: 0.16937
+Total Cash: 6358000
+Total Debt: 22559000
+Debt To Equity: 72.474
+Current Ratio: 4.163
+Quick Ratio: 2.266
+Trailing PE: 70.818184
+Forward PE: 24.093033
+Price To Book: 10.541271
+Beta: 0.778
+52 Week High: 11.88
+52 Week Low: 2.02

@@ -1,0 +1,25 @@
+Company: Global Engine Group Holding Limited Class A Ordinary Shares
+Ticker: GLE
+Market Cap: 8724082
+Enterprise Value: -17961466
+Total Revenue: 23081094
+Revenue Per Share: 1.3
+EBITDA: -5927237
+Gross Margins: 0.15776
+Operating Margins: -1.42858
+Profit Margins: -0.25295
+Free Cashflow: -18157072
+Operating Cashflow: -9204049
+Return On Assets: -0.08379
+Return On Equity: -0.15075
+Total Cash: 25294612
+Total Debt: 335
+Debt To Equity: 0.001
+Current Ratio: 3.435
+Quick Ratio: 3.324
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.85971826
+Beta: 
+52 Week High: 3.89
+52 Week Low: 0.25

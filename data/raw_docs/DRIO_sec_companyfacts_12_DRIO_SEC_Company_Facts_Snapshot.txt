@@ -1,0 +1,10 @@
+Company: DarioHealth Corp. Common Stock
+Ticker: DRIO
+CIK: 0001533998
+Latest SEC XBRL Facts:
+Revenues: 3893000 | unit=USD | filed=2019-08-13 | period_end=2019-06-30
+NetIncomeLoss: -32683000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 117727000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 74934000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20054000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 31907000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

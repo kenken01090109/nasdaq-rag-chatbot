@@ -1,0 +1,11 @@
+Company: PCB Bancorp Common Stock
+Ticker: PCB
+CIK: 0001423869
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2123000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 28218000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3363506000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2979005000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 384501000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23663000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 369498000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

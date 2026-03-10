@@ -1,0 +1,10 @@
+Company: Chemomab Therapeutics Ltd. American Depositary Share
+Ticker: CMMB
+CIK: 0001534248
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5380000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Assets: 11129000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Liabilities: 1430000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+StockholdersEquity: 9699000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -6144000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 5448000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

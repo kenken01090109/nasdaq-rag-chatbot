@@ -1,0 +1,8 @@
+Company: Aditxt Inc. Common Stock
+Ticker: ADTX
+Total Cash: 163041
+Total Debt: 5673953
+Debt To Equity: 
+Current Ratio: 0.02
+Quick Ratio: 0.017
+Book Value: -151.87

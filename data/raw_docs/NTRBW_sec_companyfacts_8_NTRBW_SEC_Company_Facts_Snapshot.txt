@@ -1,0 +1,11 @@
+Company: Nutriband Inc. Warrant
+Ticker: NTRBW
+CIK: 0001676047
+Latest SEC XBRL Facts:
+Revenues: 1635942 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetIncomeLoss: -7261573 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Assets: 8419160 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Liabilities: 870208 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+StockholdersEquity: 7548952 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -4402800 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 5312177 | unit=USD | filed=2025-12-11 | period_end=2025-10-31

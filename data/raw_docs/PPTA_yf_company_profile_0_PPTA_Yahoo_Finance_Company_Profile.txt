@@ -1,0 +1,9 @@
+Company: Perpetua Resources Corp. Common Shares
+Ticker: PPTA
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: United States
+City: Boise
+Website: https://perpetuaresources.com
+Employees: 36
+Business Summary: Perpetua Resources Corp., a development-stage company, engages in the acquisition of mining properties in the United States. The company explores for gold, silver, and antimony deposits. Its principal mineral project is the 100% owned Stibnite Gold project, which includes 1,674 unpatented lode claims, mill sites, and patented land holdings covering an area of approximately 11,548 hectares located in Valley County, Idaho. The company was formerly known as Midas Gold Corp. and changed its name to Perpetua Resources Corp. in February 2021. Perpetua Resources Corp. was founded in 2009 and is headquartered in Boise, Idaho.

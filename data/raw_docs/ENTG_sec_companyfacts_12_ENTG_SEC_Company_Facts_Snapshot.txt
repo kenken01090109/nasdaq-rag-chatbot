@@ -1,0 +1,10 @@
+Company: Entegris Inc. Common Stock
+Ticker: ENTG
+CIK: 0001101302
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2372700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+NetIncomeLoss: 186200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+Assets: 8401800000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+StockholdersEquity: 1119917000 | unit=USD | filed=2019-10-24 | period_end=2019-09-28
+NetCashProvidedByUsedInOperatingActivities: 503400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 399800000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27

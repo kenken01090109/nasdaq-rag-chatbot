@@ -1,0 +1,9 @@
+Company: News Corporation Class A Common Stock
+Ticker: NWSA
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: New York
+Website: https://newscorp.com
+Employees: 22300
+Business Summary: News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses. It operates through five segments: Digital Real Estate Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts under the MarketWatch, The Wall Street Journal, Barron's, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and Dow Jones Energy brands. It also owns and operates Monday to Friday, Saturday and Sunday, weekly, and bi-weekly newspapers comprising The Australian, The Weekend Australian, The Daily Telegraph, The Sunday Telegraph, Herald Sun, Sunday Herald Sun, The Courier Mail, The Sunday Mail, The Advertiser, Sunday Mail, The Sun, The Sun on Sunday, The Times, The Sunday Times, and New York Post, as well as digital mastheads and other websites. In addition, the company publishes general fiction, nonfiction, children's, and religious books; and operates Storyful, a social media content agency, as well as sports radio network and news channels. Further, it offers property and property-related advertising and services on its websites and mobile applications; digital real estate services; and financial services. The company has operations in the United States, Canada, Europe, Australasia, and internationally. News Corporation was incorporated in 2012 and is headquartered in New York, New York.

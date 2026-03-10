@@ -1,0 +1,12 @@
+Company: Workhorse Group Inc. Common Stock
+Ticker: WKHS
+CIK: 0001425287
+Latest SEC XBRL Facts:
+Revenues: 369690 | unit=USD | filed=2019-11-01 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 8695389 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -43253000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 116735292 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 84665066 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 32070226 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25014462 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12726147 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

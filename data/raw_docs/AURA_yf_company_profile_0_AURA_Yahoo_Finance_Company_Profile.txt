@@ -1,0 +1,9 @@
+Company: Aura Biosciences Inc. Common Stock
+Ticker: AURA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.aurabiosciences.com
+Employees: 106
+Business Summary: Aura Biosciences, Inc., a clinical-stage biotechnology company, develops precision therapies to treat solid tumors. The company's proprietary platform enables the targeting of a range of solid tumors using virus-like particles conjugated with drugs or loaded with nucleic acids to create virus-like drug conjugates. Its lead candidate is bel-sar, which is in late-stage clinical development for the treatment of patients with primary choroidal melanoma and other ocular oncology indications, as well as in early-stage clinical development in bladder cancer. The company also focuses on assessing the safety and efficacy of bel-sar in treating a range of other solid tumors, including bladder cancer, as an alternative to bacillus calmetteguérin therapy. Aura Biosciences, Inc. was incorporated in 2009 and is headquartered in Boston, Massachusetts.

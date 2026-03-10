@@ -1,0 +1,11 @@
+Company: Spok Holdings Inc. Common Stock
+Ticker: SPOK
+CIK: 0001289945
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 105847000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 12951000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 209653000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 60956000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 148697000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 17425000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 21379000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

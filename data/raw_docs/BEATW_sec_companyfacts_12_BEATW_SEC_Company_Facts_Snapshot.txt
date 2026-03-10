@@ -1,0 +1,10 @@
+Company: Heartbeam Inc. Warrant
+Ticker: BEATW
+CIK: 0001779372
+Latest SEC XBRL Facts:
+NetIncomeLoss: -15713000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 2876000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2470000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 406000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11082000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1856000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

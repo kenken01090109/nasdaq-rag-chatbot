@@ -1,0 +1,12 @@
+Company: Bandwidth Inc. Class A Common Stock
+Ticker: BAND
+CIK: 0001514416
+Latest SEC XBRL Facts:
+Revenues: 151770000 | unit=USD | filed=2018-11-01 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 546149000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -9912000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1033335000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 640591000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 392744000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 50877000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73373000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

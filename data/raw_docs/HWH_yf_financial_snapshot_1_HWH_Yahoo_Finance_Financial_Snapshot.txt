@@ -1,0 +1,25 @@
+Company: HWH International Inc. Common Stock
+Ticker: HWH
+Market Cap: 9644556
+Enterprise Value: 6468662
+Total Revenue: 1099428
+Revenue Per Share: 0.182
+EBITDA: -1229404
+Gross Margins: 0.48556
+Operating Margins: -0.97396004
+Profit Margins: -0.91238
+Free Cashflow: -723020
+Operating Cashflow: -984252
+Return On Assets: -0.19281
+Return On Equity: -0.78290004
+Total Cash: 3121642
+Total Debt: 1102693
+Debt To Equity: 37.927
+Current Ratio: 1.713
+Quick Ratio: 1.632
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.9452055
+Beta: -0.344
+52 Week High: 7.77
+52 Week Low: 0.9

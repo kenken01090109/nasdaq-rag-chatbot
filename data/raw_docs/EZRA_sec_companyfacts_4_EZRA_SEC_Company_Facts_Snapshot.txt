@@ -1,0 +1,12 @@
+Company: Reliance Global Group Inc. Common Stock
+Ticker: EZRA
+CIK: 0001812727
+Latest SEC XBRL Facts:
+Revenues: 9818872 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7322897 | unit=USD | filed=2025-07-30 | period_end=2025-06-30
+NetIncomeLoss: -5604367 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 15655014 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 8910942 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 6744072 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1469127 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10018000 | unit=USD | filed=2021-05-13 | period_end=2021-03-31

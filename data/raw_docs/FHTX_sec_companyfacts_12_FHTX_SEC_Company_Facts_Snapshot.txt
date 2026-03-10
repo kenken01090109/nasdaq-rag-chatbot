@@ -1,0 +1,11 @@
+Company: Foghorn Therapeutics Inc. Common Stock
+Ticker: FHTX
+CIK: 0001822462
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 21662000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -52619000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 204962000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 294620000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -89658000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -63828000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 89334000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

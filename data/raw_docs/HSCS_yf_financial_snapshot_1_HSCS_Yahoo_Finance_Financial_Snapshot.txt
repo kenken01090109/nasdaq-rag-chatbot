@@ -1,0 +1,25 @@
+Company: HeartSciences Inc. Common Stock
+Ticker: HSCS
+Market Cap: 8390467
+Enterprise Value: 7597835
+Total Revenue: 8669
+Revenue Per Share: 0.006
+EBITDA: -8211756
+Gross Margins: 0.57919
+Operating Margins: -857.13226
+Profit Margins: 0.0
+Free Cashflow: -4317443
+Operating Cashflow: -7498357
+Return On Assets: -0.74777
+Return On Equity: -2.20421
+Total Cash: 1951103
+Total Debt: 876240
+Debt To Equity: 20.95
+Current Ratio: 2.422
+Quick Ratio: 1.246
+Trailing PE: 
+Forward PE: -0.82758623
+Price To Book: 1.9383261
+Beta: 2.545
+52 Week High: 6.47
+52 Week Low: 2.01

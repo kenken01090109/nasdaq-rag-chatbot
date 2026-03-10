@@ -1,0 +1,25 @@
+Company: Mineralys Therapeutics Inc. Common Stock
+Ticker: MLYS
+Market Cap: 2104331392
+Enterprise Value: 1520991616
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -184030000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -107662872
+Operating Cashflow: -171371008
+Return On Assets: -0.26505
+Return On Equity: -0.42137
+Total Cash: 593628032
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 25.502
+Quick Ratio: 25.239
+Trailing PE: 
+Forward PE: -11.931418
+Price To Book: 3.6429648
+Beta: 0.567
+52 Week High: 47.65
+52 Week Low: 10.19

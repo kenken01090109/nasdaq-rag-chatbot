@@ -1,0 +1,12 @@
+Company: Aduro Clean Technologies Inc. Common Stock
+Ticker: ADUR
+Total Revenue: 305275
+Revenue Per Share: 0.01
+Gross Margins: 1.0
+Operating Margins: -44.386307
+EBITDA: -16214386
+Profit Margins: 0.0
+Free Cashflow: -9018482
+Operating Cashflow: -10334106
+Return On Assets: -0.59145
+Return On Equity: -1.30196

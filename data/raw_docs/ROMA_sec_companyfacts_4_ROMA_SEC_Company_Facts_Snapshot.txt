@@ -1,0 +1,12 @@
+Company: Roma Green Finance Limited Class A Ordinary Shares
+Ticker: ROMA
+CIK: 0001945240
+Latest SEC XBRL Facts:
+Revenues: 406388 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 406388 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+NetIncomeLoss: -2224878 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+Assets: 8544311 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+Liabilities: 956569 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+StockholdersEquity: 7587742 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -887942 | unit=USD | filed=2024-12-26 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 3643110 | unit=USD | filed=2024-12-26 | period_end=2024-09-30

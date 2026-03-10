@@ -1,0 +1,9 @@
+Company: Biodexa Pharmaceuticals plc American Depositary Shs
+Ticker: BDRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: Cardiff
+Website: https://www.biodexapharma.com
+Employees: 13
+Business Summary: Biodexa Pharmaceuticals Plc, a clinical stage biopharmaceutical company, focuses on developing a pipeline of products for the treatment of familial adenomatous polyposis, non-muscle invasive bladder cancer, and Type 1 diabetes and rare/orphan cancers of the brain. Its lead product candidate Tolimidone, a selective activator of the lyn kinase enzyme, currently under Phase II studies for the treatment of Type 1 diabetes. The company is also developing MTX110, which is currently in Phase I studies for the treatment of diffuse intrinsic recurrent glioblastoma, diffuse midline glioma, and medulloblastoma. In addition, the company offers drug delivery platforms, such as Q-Sphera, a polymer microsphere microtechnology used for sustained release therapeutics; MidaSolve, an oligosaccharide nanotechnology used to solubilize drugs so that they can be administered in liquid form directly and locally into tumors; and MidaCore, a gold nanoparticle used for targeting sites of disease by using chemotherapeutic agents or immunotherapeutic agents. It has collaboration agreements with Janssen and Melior. The company was formerly known as Midatech Pharma plc and changed its name to Biodexa Pharmaceuticals Plc in March 2023. Biodexa Pharmaceuticals Plc was founded in 2000 and is headquartered in Cardiff, the United Kingdom.

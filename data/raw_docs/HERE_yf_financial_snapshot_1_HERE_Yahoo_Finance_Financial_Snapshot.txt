@@ -1,0 +1,25 @@
+Company: Here Group Limited American Depositary Shares
+Ticker: HERE
+Market Cap: 245274624
+Enterprise Value: 150532720
+Total Revenue: 2042334976
+Revenue Per Share: 37.564
+EBITDA: 274960992
+Gross Margins: 0.78260005
+Operating Margins: -0.22909
+Profit Margins: 0.27892
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.11203
+Return On Equity: 0.29197
+Total Cash: 788406016
+Total Debt: 23434000
+Debt To Equity: 2.11
+Current Ratio: 4.75
+Quick Ratio: 3.796
+Trailing PE: 6.8333335
+Forward PE: 12.802423
+Price To Book: 1.9090505
+Beta: -0.715
+52 Week High: 15.64
+52 Week Low: 2.325

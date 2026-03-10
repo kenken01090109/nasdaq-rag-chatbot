@@ -1,0 +1,11 @@
+Company: Soleno Therapeutics Inc. Common Stock
+Ticker: SLNO
+CIK: 0001484565
+Latest SEC XBRL Facts:
+Revenues: 1450788 | unit=USD | filed=2017-03-15 | period_end=2016-12-31
+NetIncomeLoss: -22468000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 599895000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 105090000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 494805000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1906000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 246662000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

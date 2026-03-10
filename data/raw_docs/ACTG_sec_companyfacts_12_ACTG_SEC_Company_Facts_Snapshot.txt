@@ -1,0 +1,12 @@
+Company: Acacia Research Corporation (Acacia Tech) Common Stock
+Ticker: ACTG
+CIK: 0000934549
+Latest SEC XBRL Facts:
+Revenues: 12004000 | unit=USD | filed=2022-03-31 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 235105000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 18264000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 768871000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 192033000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 537611000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 62092000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 301780000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

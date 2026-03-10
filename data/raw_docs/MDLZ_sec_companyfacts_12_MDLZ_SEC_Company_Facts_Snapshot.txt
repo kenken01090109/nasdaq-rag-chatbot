@@ -1,0 +1,11 @@
+Company: Mondelez International Inc. Class A Common Stock
+Ticker: MDLZ
+CIK: 0001103982
+Latest SEC XBRL Facts:
+Revenues: 28041000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 1786000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 71358000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 45129000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 26177000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2117000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2476000000 | unit=USD | filed=2013-08-08 | period_end=2013-06-30

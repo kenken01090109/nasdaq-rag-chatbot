@@ -1,0 +1,11 @@
+Company: Plutus Financial Group Limited Ordinary Shares
+Ticker: PLUT
+CIK: 0001933021
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1255000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -710000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 9232000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 2124000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 7108000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1041000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3942000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

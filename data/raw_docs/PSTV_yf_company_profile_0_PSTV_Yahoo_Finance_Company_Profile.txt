@@ -1,0 +1,9 @@
+Company: PLUS THERAPEUTICS Inc. Common Stock
+Ticker: PSTV
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Houston
+Website: https://plustherapeutics.com
+Employees: 21
+Business Summary: Plus Therapeutics, Inc., a clinical-stage pharmaceutical company, focuses on the development, manufacture, and commercialization of treatments for patients with cancer. The company's lead radiotherapeutic candidate is REYOBIQ, a patented radiotherapy for patients with central nervous system and other cancers, including recurrent glioblastoma, leptomeningeal metastases, and pediatric brain cancers. It also develops Rhenium-188 NanoLiposome Biodegradable Alginate Microsphere to treat various solid organ cancers, such as primary and secondary liver cancers by intra-arterial injection. In addition, it develops and commercializes laboratory-developed tests, such as the CNSide Test to identify tumor cells that have metastasized to the central nervous system in patients with carcinomas and melanomas. The company was formerly known as Cytori Therapeutics, Inc. and changed its name to Plus Therapeutics, Inc. in July 2019. Plus Therapeutics, Inc. was founded in 1996 and is headquartered in Houston, Texas.

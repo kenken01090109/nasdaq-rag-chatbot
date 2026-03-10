@@ -1,0 +1,9 @@
+Company: NI Holdings Inc. Common Stock
+Ticker: NODK
+Sector: Financial Services
+Industry: Insurance - Property & Casualty
+Country: United States
+City: Fargo
+Website: https://www.niholdingsinc.com
+Employees: 202
+Business Summary: NI Holdings, Inc., together with its subsidiaries, underwrites property and casualty insurance products in the United States. Its products include private passenger auto, homeowners, farm owners, commercial multi-peril, crop hail, and federal multi-peril crop insurance policies, as well as non-standard automobile insurance policies. The company was founded in 1946 and is headquartered in Fargo, North Dakota. NI Holdings, Inc. is a subsidiary of Nodak Mutual Group, Inc.

@@ -1,0 +1,12 @@
+Company: SWK Holdings Corporation 9.00% Senior Notes due 2027
+Ticker: SWKHL
+CIK: 0001089907
+Latest SEC XBRL Facts:
+Revenues: 32766000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2153000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 16855000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 289362000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 35156000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 254206000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16987000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10206000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

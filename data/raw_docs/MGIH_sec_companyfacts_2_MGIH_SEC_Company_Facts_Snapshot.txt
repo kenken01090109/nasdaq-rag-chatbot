@@ -1,0 +1,11 @@
+Company: Millennium Group International Holdings Limited Ordinary Shares
+Ticker: MGIH
+CIK: 0001903995
+Latest SEC XBRL Facts:
+Revenues: 25334149 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+NetIncomeLoss: -6315385 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+Assets: 36247084 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+Liabilities: 11337136 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+StockholdersEquity: 24909948 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1719389 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 10689219 | unit=USD | filed=2025-10-28 | period_end=2025-06-30

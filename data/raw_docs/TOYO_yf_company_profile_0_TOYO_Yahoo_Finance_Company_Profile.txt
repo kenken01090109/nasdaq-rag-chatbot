@@ -1,0 +1,9 @@
+Company: TOYO Co. Ltd Ordinary Shares
+Ticker: TOYO
+Sector: Technology
+Industry: Solar
+Country: Japan
+City: Tokyo
+Website: https://www.toyo-solar.com
+Employees: 528
+Business Summary: TOYO Co., Ltd. engages in the upstream production of wafer and silicon, midstream production of solar cell, downstream production of photovoltaic (PV) modules, and other stages of the solar power supply chain in Asia and the United States. The company designs, manufactures, and sells solar cells and modules, and related products. TOYO Co., Ltd. is headquartered in Tokyo, Japan.

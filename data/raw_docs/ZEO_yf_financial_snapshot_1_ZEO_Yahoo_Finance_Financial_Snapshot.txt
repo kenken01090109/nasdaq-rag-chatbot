@@ -1,0 +1,25 @@
+Company: Zeo Energy Corporation Class A Common Stock
+Ticker: ZEO
+Market Cap: 112639392
+Enterprise Value: 81488576
+Total Revenue: 69429824
+Revenue Per Share: 3.535
+EBITDA: -6974658
+Gross Margins: 0.57735
+Operating Margins: -0.04298
+Profit Margins: -0.17914
+Free Cashflow: -8447506
+Operating Cashflow: -7660103
+Return On Assets: -0.22163999
+Return On Equity: -0.47739
+Total Cash: 3915900
+Total Debt: 4124934
+Debt To Equity: 8.952
+Current Ratio: 2.192
+Quick Ratio: 1.96
+Trailing PE: 
+Forward PE: 
+Price To Book: -17.17091
+Beta: -0.181
+52 Week High: 3.68
+52 Week Low: 0.86

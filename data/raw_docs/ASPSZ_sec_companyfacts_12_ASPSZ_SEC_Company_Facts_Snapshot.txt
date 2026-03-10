@@ -1,0 +1,11 @@
+Company: Altisource Portfolio Solutions S.A. Cash Exercise Stakeholder Warrants
+Ticker: ASPSZ
+CIK: 0001462418
+Latest SEC XBRL Facts:
+Revenues: 39516000 | unit=USD | filed=2022-04-28 | period_end=2022-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 128635000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 25229000 | unit=USD | filed=2012-04-26 | period_end=2012-03-31
+Assets: 139910000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: -104211000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4560000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28598000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: SmartKem Inc. Common Stock
+Ticker: SMTK
+CIK: 0001817760
+Latest SEC XBRL Facts:
+Revenues: 136000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -8454000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 3248000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 6200000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -2952000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6321000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 881000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

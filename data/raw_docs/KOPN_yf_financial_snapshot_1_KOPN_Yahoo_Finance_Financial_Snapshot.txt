@@ -1,0 +1,25 @@
+Company: Kopin Corporation Common Stock
+Ticker: KOPN
+Market Cap: 382700512
+Enterprise Value: 380068640
+Total Revenue: 45602296
+Revenue Per Share: 0.274
+EBITDA: -11340982
+Gross Margins: 0.17662
+Operating Margins: -0.04739
+Profit Margins: -0.13479
+Free Cashflow: -12986373
+Operating Cashflow: -9269255
+Return On Assets: -0.115200005
+Return On Equity: -0.27909002
+Total Cash: 26508140
+Total Debt: 2005923
+Debt To Equity: 9.408
+Current Ratio: 1.466
+Quick Ratio: 1.18
+Trailing PE: 
+Forward PE: 72.333336
+Price To Book: 15.955882
+Beta: 2.823
+52 Week High: 4.16
+52 Week Low: 0.71

@@ -1,0 +1,9 @@
+Company: SAGTEC GLOBAL LIMITED Class A Ordinary shares
+Ticker: SAGT
+Sector: Technology
+Industry: Software - Application
+Country: Malaysia
+City: Kuala Lumpur
+Website: https://www.sagtec-global.com
+Employees: 19
+Business Summary: Sagtec Global Limited, together with its subsidiaries, engages in the provision of customizable software development solutions in Malaysia. It operates through the SAAS Business, Software Customization, Data Analysis and Hosting Services, Outright Purchase, and Other segments. The company offers Speed + smart ordering system, a smart solutions application software for the food and beverage industry; customizable software and application development for table ordering; QR ordering; and self-service kiosk ordering. It also provides food ordering kiosk machines and power-bank charging stations; and social media management and data management services, as well as server hosting services. Sagtec Global Limited was founded in 2018 and is based in Kuala Lumpur, Malaysia.

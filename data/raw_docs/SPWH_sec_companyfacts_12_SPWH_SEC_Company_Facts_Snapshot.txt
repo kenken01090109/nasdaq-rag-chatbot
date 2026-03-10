@@ -1,0 +1,11 @@
+Company: Sportsman's Warehouse Holdings Inc. Common Stock
+Ticker: SPWH
+CIK: 0001132105
+Latest SEC XBRL Facts:
+Revenues: 874325000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetIncomeLoss: -28329000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Assets: 913867000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Liabilities: 704349000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+StockholdersEquity: 209518000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: -70495000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 2246000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01

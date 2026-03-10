@@ -1,0 +1,10 @@
+Company: Acurx Pharmaceuticals Inc. Common Stock
+Ticker: ACXP
+CIK: 0001736243
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6388262 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 6105211 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2468175 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3637036 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5603042 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14459046 | unit=USD | filed=2021-11-12 | period_end=2021-09-30

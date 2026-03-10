@@ -1,0 +1,12 @@
+Company: XOMA Royalty Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock
+Ticker: XOMAO
+CIK: 0000791908
+Latest SEC XBRL Facts:
+Revenues: 38392000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9250000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 25609000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 263151000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 155194000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 87938000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8372000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45189000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

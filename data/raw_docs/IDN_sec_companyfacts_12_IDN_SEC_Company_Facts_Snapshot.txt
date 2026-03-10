@@ -1,0 +1,12 @@
+Company: Intellicheck Inc. Common Stock
+Ticker: IDN
+CIK: 0001040896
+Latest SEC XBRL Facts:
+Revenues: 3103061 | unit=USD | filed=2018-11-14 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 16031000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -279000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 25257000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 6350000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 18907000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2147000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7223000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

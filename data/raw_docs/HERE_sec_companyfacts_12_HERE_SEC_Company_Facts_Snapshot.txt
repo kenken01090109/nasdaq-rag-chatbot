@@ -1,0 +1,12 @@
+Company: Here Group Limited American Depositary Shares
+Ticker: HERE
+CIK: 0001932770
+Latest SEC XBRL Facts:
+Revenues: 380478000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 91387000 | unit=CNY | filed=2025-10-31 | period_end=2025-06-30
+NetIncomeLoss: 50078000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 231939000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 101703000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 112931000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 25671000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 115886000 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

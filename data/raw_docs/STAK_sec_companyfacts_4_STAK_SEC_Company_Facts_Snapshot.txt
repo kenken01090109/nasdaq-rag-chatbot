@@ -1,0 +1,12 @@
+Company: STAK Inc. Class A Ordinary Shares
+Ticker: STAK
+CIK: 0002002453
+Latest SEC XBRL Facts:
+Revenues: 24914618 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 24914618 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+NetIncomeLoss: -5712680 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+Assets: 26754505 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+Liabilities: 13854759 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+StockholdersEquity: 12899746 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2878901 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1022625 | unit=USD | filed=2025-11-05 | period_end=2025-06-30

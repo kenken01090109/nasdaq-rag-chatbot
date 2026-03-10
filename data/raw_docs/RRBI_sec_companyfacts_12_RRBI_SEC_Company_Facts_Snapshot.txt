@@ -1,0 +1,10 @@
+Company: Red River Bancshares Inc. Common Stock
+Ticker: RRBI
+CIK: 0001071236
+Latest SEC XBRL Facts:
+NetIncomeLoss: 31349000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3214363000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2863052000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 351311000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 34201000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 161055000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

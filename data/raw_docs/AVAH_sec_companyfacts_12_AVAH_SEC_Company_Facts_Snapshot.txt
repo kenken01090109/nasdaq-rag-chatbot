@@ -1,0 +1,11 @@
+Company: Aveanna Healthcare Holdings Inc. Common Stock
+Ticker: AVAH
+CIK: 0001832332
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1770719000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetIncomeLoss: 46282000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Assets: 1810457000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Liabilities: 1800543000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+StockholdersEquity: 9184000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 76137000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 145866000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27

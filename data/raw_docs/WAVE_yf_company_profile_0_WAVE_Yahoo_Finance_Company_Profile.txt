@@ -1,0 +1,9 @@
+Company: Eco Wave Power Global AB (publ) American Depositary Shares
+Ticker: WAVE
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: Israel
+City: Tel Aviv
+Website: https://www.ecowavepower.com
+Employees: 12
+Business Summary: Eco Wave Power Global AB (publ), a wave energy company, develops a wave energy conversion (WEC) technology that converts ocean and sea waves into clean electricity. The company also holds various agreements, including power purchase agreements, concession agreements, and other agreements worldwide with pipeline of projects with approximately 404.7 megawatts, as well as letters of intent. It operates in the United States, Taiwan, Sweden, Israel, Portugal, Mexico, and internationally. The company was formerly known as EWPG Holding AB (publ) and changed its name to Eco Wave Power Global AB (publ) in June 2021. Eco Wave Power Global AB (publ) was founded in 2011 and is headquartered in Tel Aviv, Israel.

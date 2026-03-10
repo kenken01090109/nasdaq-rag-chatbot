@@ -1,0 +1,25 @@
+Company: CleanSpark Inc. Warrant
+Ticker: CLSKW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 785187968
+Revenue Per Share: 2.79
+EBITDA: -228896000
+Gross Margins: 0.53077
+Operating Margins: -1.72324
+Profit Margins: -0.33245
+Free Cashflow: -307704640
+Operating Cashflow: -502715008
+Return On Assets: -0.12639
+Return On Equity: -0.15338
+Total Cash: 458096992
+Total Debt: 1789377024
+Debt To Equity: 129.453
+Current Ratio: 10.542
+Quick Ratio: 3.284
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.051008325
+Beta: 3.563
+52 Week High: 0.295
+52 Week Low: 0.27

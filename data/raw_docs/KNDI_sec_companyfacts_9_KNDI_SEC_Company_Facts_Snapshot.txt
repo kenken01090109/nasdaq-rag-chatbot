@@ -1,0 +1,11 @@
+Company: Kandi Technologies Group Inc. Ordinary Shares
+Ticker: KNDI
+CIK: 0001720250
+Latest SEC XBRL Facts:
+Revenues: 127569613 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: -50495663 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 473896621 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 127267155 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 344699033 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -17820412 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 37307867 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

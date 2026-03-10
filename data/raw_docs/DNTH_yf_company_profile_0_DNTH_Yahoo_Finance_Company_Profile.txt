@@ -1,0 +1,9 @@
+Company: Dianthus Therapeutics Inc. Common Stock
+Ticker: DNTH
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://dianthustx.com
+Employees: 78
+Business Summary: Dianthus Therapeutics, Inc., a clinical-stage biotechnology company, develops complement therapeutics for patients with severe autoimmune and inflammatory diseases. The company's lead novel and proprietary monoclonal antibody product candidate includes DNTH103, a human monoclonal immunoglobulin G4 with picomolar that binds the active form of C1s, which is in clinical-stage trials for the treatment of generalized myasthenia gravis, multifocal motor neuropathy, and chronic inflammatory demyelinating polyneuropathy. Dianthus Therapeutics, Inc. was founded in 2019 and is headquartered in New York, New York.

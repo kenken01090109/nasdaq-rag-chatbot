@@ -1,0 +1,12 @@
+Company: Ascent Industries Co. Common Stock
+Ticker: ACNT
+Total Revenue: 74942000
+Revenue Per Share: 7.772
+Gross Margins: 0.22966999
+Operating Margins: -0.16835
+EBITDA: -2766000
+Profit Margins: 0.011569999
+Free Cashflow: 32106000
+Operating Cashflow: -519000
+Return On Assets: -0.03353
+Return On Equity: -0.06186

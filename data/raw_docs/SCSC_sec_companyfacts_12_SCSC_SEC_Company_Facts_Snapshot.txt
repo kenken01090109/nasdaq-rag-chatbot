@@ -1,0 +1,12 @@
+Company: ScanSource Inc. Common Stock
+Ticker: SCSC
+CIK: 0000918965
+Latest SEC XBRL Facts:
+Revenues: 3846260000 | unit=USD | filed=2018-08-28 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1506162000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 36372000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 1741671000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 830785000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 910886000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 54052000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 83466000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

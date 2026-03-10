@@ -1,0 +1,25 @@
+Company: Cellectar Biosciences Inc.  Common Stock
+Ticker: CLRB
+Market Cap: 11702770
+Enterprise Value: 2076829
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -29801334
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -30267636
+Operating Cashflow: -29687560
+Return On Assets: -0.72306997
+Return On Equity: -1.45421
+Total Cash: 12554289
+Total Debt: 431929
+Debt To Equity: 4.605
+Current Ratio: 2.773
+Quick Ratio: 2.556
+Trailing PE: 
+Forward PE: -0.70860076
+Price To Book: 1.1784799
+Beta: 0.328
+52 Week High: 20.7
+52 Week Low: 2.45

@@ -1,0 +1,25 @@
+Company: Sify Technologies Limited American Depositary Shares
+Ticker: SIFY
+Market Cap: 1024481664
+Enterprise Value: 42166779904
+Total Revenue: 42550579200
+Revenue Per Share: 641.304
+EBITDA: 7397204992
+Gross Margins: 0.34805
+Operating Margins: 0.058379997
+Profit Margins: -0.0369
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 2567000064
+Total Debt: 38461001728
+Debt To Equity: 197.014
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 708.0
+Price To Book: 4.843421
+Beta: 1.081
+52 Week High: 17.85
+52 Week Low: 3.5

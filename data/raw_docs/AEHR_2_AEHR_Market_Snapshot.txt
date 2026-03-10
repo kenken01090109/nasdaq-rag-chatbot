@@ -1,0 +1,10 @@
+Company: Aehr Test Systems Common Stock
+Ticker: AEHR
+Market Cap: 1240101120
+Enterprise Value: 1219429120
+Trailing PE: 
+Forward PE: 323.92
+Price To Book: 9.482436
+Beta: 2.31
+52 Week High: 46.95
+52 Week Low: 6.27

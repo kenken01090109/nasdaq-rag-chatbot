@@ -1,0 +1,9 @@
+Company: Melar Acquisition Corp. I Class A Ordinary Shares
+Ticker: MACI
+CIK: 0002016221
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4245933 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 173788332 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10662035 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -6617424 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -537585 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

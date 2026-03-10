@@ -1,0 +1,25 @@
+Company: Vuzix Corporation Common Stock
+Ticker: VUZI
+Market Cap: 204322544
+Enterprise Value: 197655616
+Total Revenue: 5310001
+Revenue Per Share: 0.07
+EBITDA: -34972176
+Gross Margins: -1.06912
+Operating Margins: -6.45498
+Profit Margins: 0.0
+Free Cashflow: -4820239
+Operating Cashflow: -17257010
+Return On Assets: -0.56055
+Return On Equity: -0.96372
+Total Cash: 22608528
+Total Debt: 1134011
+Debt To Equity: 2.993
+Current Ratio: 7.138
+Quick Ratio: 6.085
+Trailing PE: 
+Forward PE: -6.071429
+Price To Book: 7.264957
+Beta: 1.313
+52 Week High: 4.29
+52 Week Low: 1.47

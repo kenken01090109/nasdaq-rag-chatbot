@@ -1,0 +1,9 @@
+Company: Cardiol Therapeutics Inc. Class A Common Shares
+Ticker: CRDL
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Canada
+City: Oakville
+Website: https://www.cardiolrx.com
+Employees: 18
+Business Summary: Cardiol Therapeutics Inc., a clinical-stage life sciences company, focuses on the developing of anti-fibrotic and anti-inflammatory therapies for the treatment of heart diseases. Its lead product candidate is CardiolRx, which is in Phase III multi-national, randomized, double-blind, and placebo-controlled study to evaluate the efficacy and safety of CardiolRx in acute myocarditis, as well as for the treatment of recurrent pericarditis. The company is also developing CRD-38 injection for subcutaneous administration that is in preclinical development for the treatment of heart failure. It has a license agreement with Meros. The company was incorporated in 2017 and is headquartered in Oakville, Canada.

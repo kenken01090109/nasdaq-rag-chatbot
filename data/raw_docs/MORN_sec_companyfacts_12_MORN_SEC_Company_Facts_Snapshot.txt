@@ -1,0 +1,12 @@
+Company: Morningstar Inc. Common Stock
+Ticker: MORN
+CIK: 0001289419
+Latest SEC XBRL Facts:
+Revenues: 1804400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1804400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 183000000 | unit=USD | filed=2019-03-01 | period_end=2018-12-31
+Assets: 3557600000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 2043600000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 858300000 | unit=USD | filed=2018-05-03 | period_end=2018-03-31
+NetCashProvidedByUsedInOperatingActivities: 385700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 474500000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

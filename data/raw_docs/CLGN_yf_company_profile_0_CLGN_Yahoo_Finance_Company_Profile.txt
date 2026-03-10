@@ -1,0 +1,9 @@
+Company: CollPlant Biotechnologies Ltd Ordinary Shares
+Ticker: CLGN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Rehovot
+Website: https://collplant.com
+Employees: 57
+Business Summary: CollPlant Biotechnologies Ltd., a regenerative and aesthetic medicine company, focuses on three-dimensional (3D) bioprinting of tissues and organs, and medical aesthetics in the United States, Canada, Israel, Europe, and internationally. The company's products are based on its recombinant human collagen (rhCollagen) that is produced using its proprietary technology. It offers regenerative dermal and soft tissue fillers; 3D-bioprinted regenerative breast implants; VergenixSTR, a soft tissue matrix for the treatment of tendinopathy; and VergenixFG, a wound healing flowable gel for the treatment of chronic and acute wounds. The company also provides rhcollagen-based commercial bioink for regenerative medicine applications, such as Collink.3D 50L, a bioink in powder form; Collink.3D 90, an rhCollagen-based bioink solution for use in various 3D bioprinting applications; and Collink.3D 50, an rhCollagen-based bioink product. It has collaboration agreements with AbbVie; STEMCELL; the Advanced Regenerative Manufacturing Institute; Stratasys; and RegenMed Development Organization. The company was formerly known as CollPlant Holdings Ltd. and changed its name to CollPlant Biotechnologies Ltd. in June 2019. CollPlant Biotechnologies Ltd. was founded in 2004 and is headquartered in Rehovot, Israel.

@@ -1,0 +1,25 @@
+Company: Edible Garden AG Incorporated Common Stock
+Ticker: EDBL
+Market Cap: 1312424
+Enterprise Value: 19146324
+Total Revenue: 12553000
+Revenue Per Share: 70.969
+EBITDA: -11294000
+Gross Margins: 0.081099994
+Operating Margins: -1.26305
+Profit Margins: -1.15439
+Free Cashflow: -5794030
+Operating Cashflow: -10897000
+Return On Assets: -0.55264
+Return On Equity: -1.791
+Total Cash: 828000
+Total Debt: 3431000
+Debt To Equity: 26.55
+Current Ratio: 0.796
+Quick Ratio: 0.408
+Trailing PE: 0.006412825
+Forward PE: -0.16953641
+Price To Book: -0.35388443
+Beta: 2.194
+52 Week High: 62.9
+52 Week Low: 2.49

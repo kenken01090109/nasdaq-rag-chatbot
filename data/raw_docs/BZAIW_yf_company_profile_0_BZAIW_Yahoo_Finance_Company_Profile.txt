@@ -1,0 +1,9 @@
+Company: Blaize Holdings Inc. Warrants
+Ticker: BZAIW
+Sector: 
+Industry: 
+Country: United States
+City: El Dorado Hills
+Website: https://www.blaize.com
+Employees: 232
+Business Summary: Blaize Holdings, Inc. provides artificial intelligence (AI)-enabled edge computing solutions. Its portfolio includes programmable AI processors for deployment across multiple verticals, including enterprise, industrial, commercial, defense, and automotive markets; and AI computing platforms that power applications, such as computer vision, advanced video analytics, and AI inference, as well as software tools for non-expert practitioners to deploy AI models without the need for extensive coding expertise. The company also offers the GSP, an AI computing accelerator for computer vision and machine learning applications; and Blaize AI Studio, an intuitive and visual non-code environment intended to simplify the creation and deployment of AI models. In addition, it provides hardware products consisting compute cards, silicon chips, boards, and systems. The company has a strategic partnership with Technology Control Company for the development of AI infrastructure and acceleration of digital transformation. The company was founded in 2010 and is headquartered in El Dorado Hills, California.

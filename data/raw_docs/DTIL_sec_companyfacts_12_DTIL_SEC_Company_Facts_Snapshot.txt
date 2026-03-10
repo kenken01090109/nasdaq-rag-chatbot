@@ -1,0 +1,12 @@
+Company: Precision BioSciences Inc. Common Stock
+Ticker: DTIL
+CIK: 0001357874
+Latest SEC XBRL Facts:
+Revenues: 1070000000 | unit=USD | filed=2020-03-10 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 60000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -65857000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 93510000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 76876000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 16634000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -54593000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44870000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

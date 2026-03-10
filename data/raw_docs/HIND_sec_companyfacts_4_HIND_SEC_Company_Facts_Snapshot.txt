@@ -1,0 +1,12 @@
+Company: Vyome Holdings Inc. Common Stock
+Ticker: HIND
+CIK: 0001427570
+Latest SEC XBRL Facts:
+Revenues: 283163 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2355000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetIncomeLoss: -9036544 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 7045396 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3126936 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2529713 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2270655 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5707012 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Profound Medical Corp. Common Stock
+Ticker: PROF
+Sector: Healthcare
+Industry: Medical Devices
+Country: Canada
+City: Mississauga
+Website: https://www.profoundmedical.com
+Employees: 142
+Business Summary: Profound Medical Corp., together with its subsidiaries, operates as a commercial-stage medical device company that develops and markets incision-free therapeutic systems for the image guided ablation of diseased tissue in Canada, Germany, the United States, and Finland. The company's lead product TULSA-PRO system combines magnetic resonance imaging (MRI), robotically driven transurethral sweeping action/thermal ultrasound and closed-loop temperature feedback control to ablate whole gland or physician defined region of malignant or benign prostate tissue. It also provides Sonalleve, which combines real-time MRI and thermometry for the treatment of uterine fibroids, adenomyotic tissue, palliative pain treatment of bone metastases, osteoid osteoma, and management of benign tumors. Profound Medical Corp. is headquartered in Mississauga, Canada.

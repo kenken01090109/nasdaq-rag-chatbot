@@ -1,0 +1,25 @@
+Company: Progyny Inc. Common Stock
+Ticker: PGNY
+Market Cap: 1499629824
+Enterprise Value: 1160747264
+Total Revenue: 1288660992
+Revenue Per Share: 15.045
+EBITDA: 97925000
+Gross Margins: 0.23628001
+Operating Margins: 0.07199
+Profit Margins: 0.04541
+Free Cashflow: 212500624
+Operating Cashflow: 210192000
+Return On Assets: 0.08612
+Return On Equity: 0.12476
+Total Cash: 310096000
+Total Debt: 27726000
+Debt To Equity: 5.373
+Current Ratio: 2.726
+Quick Ratio: 2.621
+Trailing PE: 28.169231
+Forward PE: 8.561795
+Price To Book: 2.936177
+Beta: 1.007
+52 Week High: 28.75
+52 Week Low: 16.755

@@ -1,0 +1,10 @@
+Company: Akari Therapeutics plc ADS
+Ticker: AKTX
+Market Cap: 11290212
+Enterprise Value: 17626568704
+Trailing PE: Infinity
+Forward PE: -0.82199997
+Price To Book: 0.35431036
+Beta: 0.341
+52 Week High: 1.73
+52 Week Low: 0.218

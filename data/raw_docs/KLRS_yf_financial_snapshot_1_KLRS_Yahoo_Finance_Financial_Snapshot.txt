@@ -1,0 +1,25 @@
+Company: Kalaris Therapeutics Inc. Common Stock
+Ticker: KLRS
+Market Cap: 183657744
+Enterprise Value: 105491896
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -12817250
+Operating Cashflow: -39164000
+Return On Assets: -0.63495
+Return On Equity: 
+Total Cash: 76999000
+Total Debt: 1545000
+Debt To Equity: 3.69
+Current Ratio: 12.891
+Quick Ratio: 12.696
+Trailing PE: 
+Forward PE: -4.123157
+Price To Book: 4.3878465
+Beta: 
+52 Week High: 12.9
+52 Week Low: 2.14

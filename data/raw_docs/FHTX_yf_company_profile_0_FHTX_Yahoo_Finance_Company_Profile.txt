@@ -1,0 +1,9 @@
+Company: Foghorn Therapeutics Inc. Common Stock
+Ticker: FHTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://foghorntx.com
+Employees: 112
+Business Summary: Foghorn Therapeutics Inc., a clinical-stage biopharmaceutical company, engages in the discovery and development of medicines targeting genetically determined dependencies within the chromatin regulatory system in the United States. The company uses its proprietary Gene Traffic Control platform to identify, validate, and potentially drug targets within the system. It is also developing therapies for mutant cancers, such as androgen receptor, positive prostate cancer, bladder cancer, Non-Small Cell Lung (NSCLC), as well as various lymphomas and leukemias; melanoma, endometrial, gastric, breast, colorectal, and pancreatic cancers; and dependent cancers, including prostate cancer and diffuse large b-cell lymphoma. The company has collaboration agreement with Eli Lilly and Company for developing FHD-909, a selective ATPase inhibitor of BRM. Foghorn Therapeutics Inc. was incorporated in 2015 and is headquartered in Cambridge, Massachusetts.

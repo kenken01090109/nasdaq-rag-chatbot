@@ -1,0 +1,25 @@
+Company: Ascent Solar Technologies Inc. Common Stock
+Ticker: ASTI
+Market Cap: 43851152
+Enterprise Value: 19353082
+Total Revenue: 61134
+Revenue Per Share: 0.031
+EBITDA: -7173129
+Gross Margins: 0.0
+Operating Margins: -68.923004
+Profit Margins: 0.0
+Free Cashflow: -2475327
+Operating Cashflow: -6623492
+Return On Assets: -0.66208
+Return On Equity: -2.41511
+Total Cash: 2094018
+Total Debt: 1615945
+Debt To Equity: 60.955
+Current Ratio: 1.234
+Quick Ratio: 0.973
+Trailing PE: 
+Forward PE: 
+Price To Book: 7.4803143
+Beta: 0.913
+52 Week High: 9.87
+52 Week Low: 1.1

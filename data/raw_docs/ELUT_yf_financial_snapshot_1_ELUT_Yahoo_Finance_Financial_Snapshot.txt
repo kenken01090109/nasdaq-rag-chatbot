@@ -1,0 +1,25 @@
+Company: Elutia Inc. Class A Common Stock
+Ticker: ELUT
+Market Cap: 46544292
+Enterprise Value: 71816312
+Total Revenue: 21746000
+Revenue Per Share: 0.551
+EBITDA: -19356000
+Gross Margins: 0.45966998
+Operating Margins: -1.31056
+Profit Margins: -1.21733
+Free Cashflow: -13836250
+Operating Cashflow: -32253000
+Return On Assets: -0.36476
+Return On Equity: 
+Total Cash: 4721000
+Total Debt: 29139000
+Debt To Equity: 
+Current Ratio: 0.445
+Quick Ratio: 0.2
+Trailing PE: 
+Forward PE: -0.9909091
+Price To Book: -1.0562017
+Beta: 0.695
+52 Week High: 3.46
+52 Week Low: 0.5

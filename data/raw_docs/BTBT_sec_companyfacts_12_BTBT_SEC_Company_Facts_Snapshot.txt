@@ -1,0 +1,11 @@
+Company: Bit Digital Inc. Ordinary Shares
+Ticker: BTBT
+CIK: 0001710350
+Latest SEC XBRL Facts:
+Revenues: 81222287 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 108046270 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1133084610 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 87503224 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 906153675 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -204864851 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 179118182 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

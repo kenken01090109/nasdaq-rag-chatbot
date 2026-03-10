@@ -1,0 +1,10 @@
+Company: ProFrac Holding Corp. Class A Common Stock
+Ticker: ACDC
+Market Cap: 960425984
+Enterprise Value: 2269225984
+Trailing PE: 
+Forward PE: -3.8132854
+Price To Book: 1.1136744
+Beta: 1.702
+52 Week High: 10.7
+52 Week Low: 3.08

@@ -1,0 +1,9 @@
+Company: Q32 Bio Inc. Common Stock
+Ticker: QTTB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Waltham
+Website: https://www.q32bio.com
+Employees: 26
+Business Summary: Q32 Bio Inc., a clinical-stage biotechnology company, develops novel biologics to restore healthy immune balance in patients with autoimmune and inflammatory diseases driven by pathological immune dysfunction. The company is developing Bempikibart (ADX-914), a fully human antiinterleukin-7 receptor alpha antagonist monoclonal antibody designed to re-regulate adaptive immune function by blocking signaling mediated by interleukin-7 and thymic stromal lymphopoietin for the treatment of atopic dermatitis and alopecia areata. It also develops ADX-096, a C3d mAb  CR1 fusion protein for use in ophthalmologic indications, as well as other C3d mAb fusions and nanobodies designed for tissue-targeted complement inhibition. The company was founded in 2017 and is based in Waltham, Massachusetts.

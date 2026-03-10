@@ -1,0 +1,11 @@
+Company: Rackspace Technology Inc. Common Stock
+Ticker: RXT
+CIK: 0001810019
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2002900000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -193100000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2845000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 4032200000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -1187200000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 91700000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 99500000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

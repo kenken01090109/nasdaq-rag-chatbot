@@ -1,0 +1,25 @@
+Company: Immuron Limited American Depositary Shares
+Ticker: IMRN
+Market Cap: 7716895
+Enterprise Value: 277663776
+Total Revenue: 7477018
+Revenue Per Share: 1.16
+EBITDA: -4739534
+Gross Margins: 0.63685
+Operating Margins: -0.47155
+Profit Margins: -0.6214
+Free Cashflow: -3420940
+Operating Cashflow: -4696813
+Return On Assets: -0.21931
+Return On Equity: -0.39683998
+Total Cash: 9995328
+Total Debt: 203914
+Debt To Equity: 1.559
+Current Ratio: 8.043
+Quick Ratio: 6.747
+Trailing PE: 
+Forward PE: -88.0
+Price To Book: 31.380157
+Beta: 0.431
+52 Week High: 2.39
+52 Week Low: 0.677

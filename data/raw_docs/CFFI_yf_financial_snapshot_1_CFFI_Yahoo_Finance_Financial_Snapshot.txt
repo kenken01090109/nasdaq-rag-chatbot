@@ -1,0 +1,25 @@
+Company: C&F Financial Corporation Common Stock
+Ticker: CFFI
+Market Cap: 236469056
+Enterprise Value: 274211392
+Total Revenue: 129291000
+Revenue Per Share: 39.935
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.25029
+Profit Margins: 0.20756
+Free Cashflow: 
+Operating Cashflow: 24490000
+Return On Assets: 0.01012
+Return On Equity: 0.110319994
+Total Cash: 82807000
+Total Debt: 118522000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.787696
+Forward PE: 
+Price To Book: 0.903409
+Beta: 0.357
+52 Week High: 80.99
+52 Week Low: 53.14

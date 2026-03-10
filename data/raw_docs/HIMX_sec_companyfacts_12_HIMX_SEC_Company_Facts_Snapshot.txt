@@ -1,0 +1,10 @@
+Company: Himax Technologies Inc. American Depositary Shares
+Ticker: HIMX
+CIK: 0001342338
+Latest SEC XBRL Facts:
+NetIncomeLoss: 27967000 | unit=USD | filed=2018-03-28 | period_end=2017-12-31
+Assets: 802055000 | unit=USD | filed=2018-03-28 | period_end=2017-12-31
+Liabilities: 343486000 | unit=USD | filed=2018-03-28 | period_end=2017-12-31
+StockholdersEquity: 456648000 | unit=USD | filed=2018-03-28 | period_end=2017-12-31
+NetCashProvidedByUsedInOperatingActivities: 29393000 | unit=USD | filed=2018-03-28 | period_end=2017-12-31
+CashAndCashEquivalentsAtCarryingValue: 138023000 | unit=USD | filed=2018-03-28 | period_end=2017-12-31

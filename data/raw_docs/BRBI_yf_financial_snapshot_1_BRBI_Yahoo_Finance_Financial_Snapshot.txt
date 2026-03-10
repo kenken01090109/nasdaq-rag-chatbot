@@ -1,0 +1,25 @@
+Company: BRBI BR Partners S.A. ADSs
+Ticker: BRBI
+Market Cap: 368534912
+Enterprise Value: 4257906688
+Total Revenue: 531380000
+Revenue Per Share: 20.244
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.99189
+Profit Margins: 0.32946998
+Free Cashflow: 
+Operating Cashflow: -424664992
+Return On Assets: 0.01076
+Return On Equity: 0.22051
+Total Cash: 12873791488
+Total Debt: 15657558016
+Debt To Equity: 1998.927
+Current Ratio: 1.157
+Quick Ratio: 1.157
+Trailing PE: 32.65116
+Forward PE: 
+Price To Book: 9.911564
+Beta: 0.287
+52 Week High: 67.01
+52 Week Low: 12.15

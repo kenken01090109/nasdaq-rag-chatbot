@@ -1,0 +1,12 @@
+Company: Caesars Entertainment Inc. Common Stock
+Ticker: CZR
+CIK: 0001590895
+Latest SEC XBRL Facts:
+Revenues: 440192000 | unit=USD | filed=2018-05-08 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 8570000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -252000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 31900000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 27925000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 3782000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 998000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 836000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

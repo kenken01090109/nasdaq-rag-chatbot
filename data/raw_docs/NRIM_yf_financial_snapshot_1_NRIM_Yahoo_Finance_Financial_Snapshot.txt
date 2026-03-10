@@ -1,0 +1,25 @@
+Company: Northrim BanCorp Inc Common Stock
+Ticker: NRIM
+Market Cap: 508788736
+Enterprise Value: 466252032
+Total Revenue: 208902000
+Revenue Per Share: 9.457
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.34467
+Profit Margins: 0.30927
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.02041
+Return On Equity: 0.21766001
+Total Cash: 145906000
+Total Debt: 87670000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.017422
+Forward PE: 8.291892
+Price To Book: 1.5580987
+Beta: 0.928
+52 Week High: 30.82
+52 Week Low: 16.175

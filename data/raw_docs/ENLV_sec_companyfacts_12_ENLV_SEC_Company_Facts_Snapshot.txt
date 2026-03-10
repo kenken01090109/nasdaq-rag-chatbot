@@ -1,0 +1,10 @@
+Company: Enlivex Ltd. Ordinary Shares
+Ticker: ENLV
+CIK: 0001596812
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5320000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+Assets: 22598000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+Liabilities: 3544000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+StockholdersEquity: 19054000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5822000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1892000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30

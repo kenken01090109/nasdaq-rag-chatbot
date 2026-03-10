@@ -1,0 +1,9 @@
+Company: Above Food Ingredients Inc. Common Stock
+Ticker: ABVE
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: Canada
+City: Regina
+Website: https://abovefood.com
+Employees: 
+Business Summary: Above Food Ingredients Inc., a regenerative ingredient company, produces vertically integrated supply chain products in Canada, the United States, Mexico, China, France, Turkey, and internationally. It operates through two segments: Disruptive Agriculture and Rudimentary Ingredients, and Consumer Packaged Goods. The Disruptive Agriculture and Rudimentary Ingredients segment engages in the provisioning of discrete genetics, origination, purchasing, grading, processing, and sale of regeneratively grown grain; and origination, purchase, and sale of bespoke ingredients products. The Consumer Packaged Goods segment formulates, manufactures, sells, distributes, and markets proprietary consumer product formulations in owned brands; and focuses on manufacturing and distribution for private-labeled retail owned brands. Above Food Ingredients Inc. is based in Regina, Canada.

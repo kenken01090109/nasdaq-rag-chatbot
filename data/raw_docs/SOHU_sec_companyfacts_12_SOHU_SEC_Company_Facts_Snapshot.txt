@@ -1,0 +1,11 @@
+Company: Sohu.com Limited American Depositary Shares
+Ticker: SOHU
+CIK: 0001734107
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 598399000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+NetIncomeLoss: -100269000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+Assets: 1734666000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+Liabilities: 811978000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+StockholdersEquity: 922335000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -48018000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 159927000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31

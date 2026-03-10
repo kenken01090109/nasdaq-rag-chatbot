@@ -1,0 +1,9 @@
+Company: PTL LTD Class A Ordinary Shares
+Ticker: PTLE
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: Singapore
+City: Singapore
+Website: https://www.petrolinkhk.com
+Employees: 10
+Business Summary: PTL Limited, through its subsidiaries, provides marine fuel logistics services for vessel refueling in Hong Kong and internationally. The company offers vessel refueling services to container ships, bulk carriers, general cargo vessels, and chemical tankers. It also purchases and sells marine fuel, including low sulfur fuel oil, high sulfur fuel oil, and low sulfur marine gas oil directly to its customers. The company was founded in 2023 and is based in Singapore. PTL Limited operates as a subsidiary of Ptle Limited.

@@ -1,0 +1,11 @@
+Company: Rigel Pharmaceuticals Inc. Common Stock
+Ticker: RIGL
+CIK: 0001034842
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 224480000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 98959000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 242534000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 124925000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 117609000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 53675000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 48534000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

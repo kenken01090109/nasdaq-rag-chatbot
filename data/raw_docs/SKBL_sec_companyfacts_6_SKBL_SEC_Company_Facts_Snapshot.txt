@@ -1,0 +1,11 @@
+Company: Skyline Builders Group Holding Limited Class A Ordinary Shares
+Ticker: SKBL
+CIK: 0002031009
+Latest SEC XBRL Facts:
+Revenues: 46009519 | unit=USD | filed=2025-08-07 | period_end=2025-03-31
+NetIncomeLoss: 727447 | unit=USD | filed=2025-08-07 | period_end=2025-03-31
+Assets: 28493592 | unit=USD | filed=2025-08-07 | period_end=2025-03-31
+Liabilities: 19901469 | unit=USD | filed=2025-08-07 | period_end=2025-03-31
+StockholdersEquity: 8592123 | unit=USD | filed=2025-08-07 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -3005991 | unit=USD | filed=2025-08-07 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 718625 | unit=USD | filed=2025-08-07 | period_end=2025-03-31

@@ -1,0 +1,25 @@
+Company: Creative Media & Community Trust Corporation Common stock
+Ticker: CMCT
+Market Cap: 2168698
+Enterprise Value: 841143360
+Total Revenue: 113028000
+Revenue Per Share: 183.953
+EBITDA: 32348000
+Gross Margins: 0.40585998
+Operating Margins: -0.089320004
+Profit Margins: -0.33472002
+Free Cashflow: 18965000
+Operating Cashflow: 3617000
+Return On Assets: 0.0028400002
+Return On Equity: -0.122650005
+Total Cash: 17320000
+Total Debt: 527767008
+Debt To Equity: 186.522
+Current Ratio: 2.242
+Quick Ratio: 0.628
+Trailing PE: 0.03988852
+Forward PE: -0.9502074
+Price To Book: -0.039343696
+Beta: 0.436
+52 Week High: 19.0
+52 Week Low: 2.03

@@ -1,0 +1,11 @@
+Company: nCino Inc. Common Stock
+Ticker: NCNO
+CIK: 0001902733
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 445115000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetIncomeLoss: -3156000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Assets: 1561174000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Liabilities: 507251000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+StockholdersEquity: 1041488000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 77127000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 87590000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31

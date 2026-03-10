@@ -1,0 +1,25 @@
+Company: Farmers National Banc Corp. Common Stock
+Ticker: FMNB
+Market Cap: 471794400
+Enterprise Value: 758840512
+Total Revenue: 181504992
+Revenue Per Share: 4.855
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.41377997
+Profit Margins: 0.30074
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01053
+Return On Equity: 0.12242
+Total Cash: 92357000
+Total Debt: 367732992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.641378
+Forward PE: 6.822129
+Price To Book: 0.9713178
+Beta: 0.814
+52 Week High: 15.5
+52 Week Low: 11.58

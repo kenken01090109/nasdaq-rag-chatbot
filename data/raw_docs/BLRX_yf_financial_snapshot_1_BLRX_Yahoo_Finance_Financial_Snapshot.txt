@@ -1,0 +1,25 @@
+Company: BioLineRx Ltd. American Depositary Shares
+Ticker: BLRX
+Market Cap: 12439085
+Enterprise Value: 6904824320
+Total Revenue: 12735000
+Revenue Per Share: 3.6
+EBITDA: -8371000
+Gross Margins: 0.50695
+Operating Margins: -5.16862
+Profit Margins: -0.23377001
+Free Cashflow: -6817250
+Operating Cashflow: -13484000
+Return On Assets: -0.13603
+Return On Equity: -0.21235001
+Total Cash: 25212000
+Total Debt: 11378000
+Debt To Equity: 58.25
+Current Ratio: 2.087
+Quick Ratio: 1.896
+Trailing PE: Infinity
+Forward PE: -2.912088
+Price To Book: 378.57144
+Beta: 0.456
+52 Week High: 7.77
+52 Week Low: 2.3

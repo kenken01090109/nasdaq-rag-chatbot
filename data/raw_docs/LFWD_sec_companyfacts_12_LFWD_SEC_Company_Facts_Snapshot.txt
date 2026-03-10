@@ -1,0 +1,12 @@
+Company: Lifeward Ltd. Ordinary Shares
+Ticker: LFWD
+CIK: 0001607962
+Latest SEC XBRL Facts:
+Revenues: 16953000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1200000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -14566000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 23168000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10413000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 12755000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13271000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1956000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

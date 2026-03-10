@@ -1,0 +1,25 @@
+Company: Culp Inc. Common Stock
+Ticker: CULP
+Market Cap: 41154048
+Enterprise Value: 51794048
+Total Revenue: 204919008
+Revenue Per Share: 16.291
+EBITDA: -1415000
+Gross Margins: 0.13939999
+Operating Margins: -0.073060006
+Profit Margins: -0.052389998
+Free Cashflow: -8470625
+Operating Cashflow: -16183000
+Return On Assets: -0.03119
+Return On Equity: -0.18318
+Total Cash: 10728000
+Total Debt: 21368000
+Debt To Equity: 39.875
+Current Ratio: 1.763
+Quick Ratio: 0.612
+Trailing PE: 
+Forward PE: Infinity
+Price To Book: 0.76795846
+Beta: 1.076
+52 Week High: 5.64
+52 Week Low: 3.13

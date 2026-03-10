@@ -1,0 +1,9 @@
+Company: GridAI Technologies Corp. Common Stock
+Ticker: GRDX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: Edinburgh
+Website: https://www.grid-ai.com
+Employees: 
+Business Summary: GridAI Technologies Corp. designs and develops an artificial intelligence (AI)-driven software and device platform that enables utilities, retailers, and large power users to manage load and distributed energy resources. The company's Aggregation Management Platform leverages IoT, AI/ML, and edge analytics to forecast, optimize, and dispatch flexible demand. The company also engages in the research and development of targeted and non-systemic therapies for the treatment of patients with gastrointestinal diseases. It serves residential and small business, commercial and utility, technology and innovation, and hyperscale industries. The company is based in Edinburgh, United Kingdom.

@@ -1,0 +1,25 @@
+Company: Enovix Corporation Common Stock
+Ticker: ENVX
+Market Cap: 1055662912
+Enterprise Value: 1062209408
+Total Revenue: 31821000
+Revenue Per Share: 0.153
+EBITDA: -141442000
+Gross Margins: 0.19184999
+Operating Margins: -3.90484
+Profit Margins: 0.0
+Free Cashflow: -58625376
+Operating Cashflow: -95291000
+Return On Assets: -0.15695
+Return On Equity: -0.59841
+Total Cash: 512040000
+Total Debt: 544286016
+Debt To Equity: 198.637
+Current Ratio: 8.34
+Quick Ratio: 7.944
+Trailing PE: 
+Forward PE: -9.9497385
+Price To Book: 3.7743192
+Beta: 2.208
+52 Week High: 16.49
+52 Week Low: 4.84

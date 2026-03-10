@@ -1,0 +1,12 @@
+Company: Youlife Group Inc. American Depositary Shares
+Ticker: YOUL
+CIK: 0002028177
+Latest SEC XBRL Facts:
+Revenues: 127496000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 913333000 | unit=CNY | filed=2025-09-10 | period_end=2025-06-30
+NetIncomeLoss: 5265000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+Assets: 148785000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+Liabilities: 61327000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+StockholdersEquity: -55663000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1911000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 22199000 | unit=USD | filed=2025-09-10 | period_end=2025-06-30

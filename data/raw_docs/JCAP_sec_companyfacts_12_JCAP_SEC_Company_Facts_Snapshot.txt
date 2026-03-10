@@ -1,0 +1,11 @@
+Company: Jefferson Capital Inc. Common Stock
+Ticker: JCAP
+CIK: 0002046042
+Latest SEC XBRL Facts:
+Revenues: 458490000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 150234000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1802921000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1365549000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 437372000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 193645000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42270000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Galapagos NV American Depositary Shares
+Ticker: GLPG
+Market Cap: 2169331456
+Enterprise Value: -792190848
+Total Revenue: 1112248064
+Revenue Per Share: 0.844
+EBITDA: 560051008
+Gross Margins: 0.57486
+Operating Margins: 0.86039
+Profit Margins: 0.2885
+Free Cashflow: 312072864
+Operating Cashflow: -257456000
+Return On Assets: 0.08579001
+Return On Equity: 0.10419
+Total Cash: 2998048000
+Total Debt: 6915000
+Debt To Equity: 0.214
+Current Ratio: 20.145
+Quick Ratio: 19.952
+Trailing PE: 
+Forward PE: -40.66194
+Price To Book: 0.57738453
+Beta: 0.1
+52 Week High: 37.78
+52 Week Low: 22.59

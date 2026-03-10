@@ -1,0 +1,25 @@
+Company: AeroVironment Inc. Common Stock
+Ticker: AVAV
+Market Cap: 11474421760
+Enterprise Value: 11200265216
+Total Revenue: 1369869952
+Revenue Per Share: 35.893
+EBITDA: 105293000
+Gross Margins: 0.26795
+Operating Margins: -0.06403
+Profit Margins: -0.050780002
+Free Cashflow: -318164000
+Operating Cashflow: -194836992
+Return On Assets: -0.01243
+Return On Equity: -0.02637
+Total Cash: 588480000
+Total Debt: 825934976
+Debt To Equity: 18.694
+Current Ratio: 5.08
+Quick Ratio: 4.148
+Trailing PE: 
+Forward PE: 51.54015
+Price To Book: 2.5853631
+Beta: 1.259
+52 Week High: 417.86
+52 Week Low: 102.25

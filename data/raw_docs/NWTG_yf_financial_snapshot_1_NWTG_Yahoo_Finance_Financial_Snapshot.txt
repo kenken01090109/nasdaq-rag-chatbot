@@ -1,0 +1,25 @@
+Company: Newton Golf Company Inc. Common Stock
+Ticker: NWTG
+Market Cap: 7508891
+Enterprise Value: 4703739
+Total Revenue: 6931000
+Revenue Per Share: 2.691
+EBITDA: -6145000
+Gross Margins: 0.68663
+Operating Margins: -0.58249
+Profit Margins: -1.7268801
+Free Cashflow: -7142750
+Operating Cashflow: -5599000
+Return On Assets: -0.93050003
+Return On Equity: -4.2048097
+Total Cash: 2549000
+Total Debt: 106000
+Debt To Equity: 3.47
+Current Ratio: 1.969
+Quick Ratio: 1.236
+Trailing PE: 
+Forward PE: -26.333334
+Price To Book: 2.2998545
+Beta: 4.237
+52 Week High: 6.42
+52 Week Low: 0.82

@@ -1,0 +1,25 @@
+Company: Taoping Inc. Ordinary Shares
+Ticker: TAOP
+Market Cap: 12980355
+Enterprise Value: 9666852
+Total Revenue: 36196784
+Revenue Per Share: 74.983
+EBITDA: -3931649
+Gross Margins: 0.14930001
+Operating Margins: -0.2377
+Profit Margins: -0.19580999
+Free Cashflow: -815924
+Operating Cashflow: -1330900
+Return On Assets: -0.11003
+Return On Equity: -0.46762002
+Total Cash: 2172690
+Total Debt: 10408543
+Debt To Equity: 71.903
+Current Ratio: 2.384
+Quick Ratio: 1.004
+Trailing PE: 
+Forward PE: 3.7972972
+Price To Book: 0.09726549
+Beta: 0.255
+52 Week High: 20.1
+52 Week Low: 1.19

@@ -1,0 +1,10 @@
+Company: Farmers & Merchants Bancorp Inc. Common Stock
+Ticker: FMAO
+CIK: 0000792966
+Latest SEC XBRL Facts:
+NetIncomeLoss: 23516000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 3390752000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 3028972000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 361780000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23313000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17279000 | unit=USD | filed=2014-10-29 | period_end=2014-09-30

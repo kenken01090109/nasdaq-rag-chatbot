@@ -1,0 +1,9 @@
+Company: Alpha Modus Holdings Inc. Class A Common Stock
+Ticker: AMOD
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Cornelius
+Website: https://alphamodus.com
+Employees: 4
+Business Summary: Alpha Modus Holdings, Inc. engages in creating, developing, and licensing data driven technologies to enhance consumers in-store digital experience at the point of decision in the United States. The company was founded in 2014 and is headquartered in Cornelius, North Carolina.

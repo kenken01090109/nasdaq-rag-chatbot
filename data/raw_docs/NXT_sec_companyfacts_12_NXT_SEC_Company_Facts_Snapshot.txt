@@ -1,0 +1,11 @@
+Company: Nextpower Inc. Class A Common Stock
+Ticker: NXT
+CIK: 0001852131
+Latest SEC XBRL Facts:
+Revenues: 2678873000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetIncomeLoss: 435280000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Assets: 3800066000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Liabilities: 1649196000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+StockholdersEquity: 2150870000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 391483000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 952624000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31

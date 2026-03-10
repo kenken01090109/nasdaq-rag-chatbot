@@ -1,0 +1,10 @@
+Company: Evolution Global Acquisition Corp Units
+Ticker: EVOXU
+CIK: 0002077954
+Latest SEC XBRL Facts:
+NetIncomeLoss: -93518 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+Assets: 264878 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+Liabilities: 9766686 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+StockholdersEquity: -68518 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -263403 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1120561 | unit=USD | filed=2026-03-03 | period_end=2025-12-31

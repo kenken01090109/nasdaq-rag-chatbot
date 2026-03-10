@@ -1,0 +1,25 @@
+Company: SELLAS Life Sciences Group Inc. Common Stock
+Ticker: SLS
+Market Cap: 941659648
+Enterprise Value: 708374016
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -22079124
+Operating Cashflow: -30621000
+Return On Assets: -0.44897
+Return On Equity: -0.84334
+Total Cash: 44320000
+Total Debt: 599000
+Debt To Equity: 1.313
+Current Ratio: 8.279
+Quick Ratio: 7.48
+Trailing PE: 
+Forward PE: -17.462975
+Price To Book: 15.150685
+Beta: 2.208
+52 Week High: 5.66
+52 Week Low: 0.95

@@ -1,0 +1,25 @@
+Company: Western New England Bancorp Inc. Common Stock
+Ticker: WNEB
+Market Cap: 255739744
+Enterprise Value: 317182592
+Total Revenue: 82278000
+Revenue Per Share: 4.074
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.31195998
+Profit Margins: 0.18558
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00567
+Return On Equity: 0.06315
+Total Cash: 40381000
+Total Debt: 106060000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.64
+Forward PE: 11.66355
+Price To Book: 1.015625
+Beta: 0.777
+52 Week High: 14.52
+52 Week Low: 7.63

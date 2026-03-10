@@ -1,0 +1,11 @@
+Company: Atrium Therapeutics Inc. Common Stock
+Ticker: RNA
+CIK: 0001599901
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 17895000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -447530000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2134209000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 247944000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1886265000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -480668000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 350158000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

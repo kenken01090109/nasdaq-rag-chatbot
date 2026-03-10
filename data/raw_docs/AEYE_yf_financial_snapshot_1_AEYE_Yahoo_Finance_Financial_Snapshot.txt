@@ -1,0 +1,25 @@
+Company: AudioEye Inc. Common Stock
+Ticker: AEYE
+Market Cap: 75877752
+Enterprise Value: 83572128
+Total Revenue: 40311000
+Revenue Per Share: 3.247
+EBITDA: 261332
+Gross Margins: 0.78281
+Operating Margins: -0.07757
+Profit Margins: -0.07633
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.06412
+Return On Equity: -0.43216
+Total Cash: 5288000
+Total Debt: 13200000
+Debt To Equity: 274.771
+Current Ratio: 0.876
+Quick Ratio: 0.822
+Trailing PE: 
+Forward PE: 5.2900434
+Price To Book: 15.747422
+Beta: 
+52 Week High: 16.39
+52 Week Low: 6.1

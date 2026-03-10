@@ -1,0 +1,10 @@
+Company: ACADIA Pharmaceuticals Inc. Common Stock
+Ticker: ACAD
+Market Cap: 3819079168
+Enterprise Value: 3051580416
+Trailing PE: 9.73913
+Forward PE: 24.762873
+Price To Book: 3.1080894
+Beta: 0.807
+52 Week High: 28.35
+52 Week Low: 13.4

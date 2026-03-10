@@ -1,0 +1,10 @@
+Company: Acrivon Therapeutics Inc. Common Stock
+Ticker: ACRV
+Market Cap: 50488204
+Enterprise Value: -75776800
+Trailing PE: 
+Forward PE: -0.87074834
+Price To Book: 0.3925417
+Beta: 1.803
+52 Week High: 5.651
+52 Week Low: 1.05

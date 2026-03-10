@@ -1,0 +1,9 @@
+Company: Evotec SE American Depositary Shares
+Ticker: EVO
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Germany
+City: Hamburg
+Website: https://www.evotec.com
+Employees: 4788
+Business Summary: Evotec SE operates as a drug discovery and development company in the United States, Germany, France, the United Kingdom, Switzerland, and internationally. It operates in two segments, Shared R&D and Just  Evotec Biologics. The company is developing pharmaceutical products in various therapeutic areas, such as oncology, autoimmune, cancer, diabetes, heart failure, immunology, pain and inflammation, infectious, kidney, liver, respiratory, fibrotic and metabolic disease, and rare diseases; central nervous system (CNS) and cardiometabolic diseases; and animal and women health. The company has collaboration agreements with Mass General Brigham and Joslin Diabetes Center focusing on cardiometabolic diseases; BMS antiviral; Novo Nordisk cell therapy; University of Oxford; German Cancer Research Center; University Hospital in Hamburg; University of Toronto, Harvard, and Yale; Johns Hopkins University; Ospedale San Raffaele (OSR); and National University of Singapore. It has a partnership with LAB282, LAB150, beLAB2122, beLAB1407, LAB eN², Danube Labs, VC Amplitude Ventures, LaB eN2, and 65LAB. The company serves pharma and biotechnology companies, academic institutions, patient advocacy groups, and venture capital. The company was formerly known as Evotec AG and changed its name to Evotec SE in April 2019. Evotec SE was incorporated in 1993 and is headquartered in Hamburg, Germany.

@@ -1,0 +1,12 @@
+Company: Algorhythm Holdings Inc. Common Stock
+Ticker: RIME
+CIK: 0000923601
+Latest SEC XBRL Facts:
+Revenues: 4709000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3018000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -12738000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 10845000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 10745000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 2700000 | unit=USD | filed=2024-11-19 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -5436000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 621000 | unit=USD | filed=2024-11-19 | period_end=2024-09-30

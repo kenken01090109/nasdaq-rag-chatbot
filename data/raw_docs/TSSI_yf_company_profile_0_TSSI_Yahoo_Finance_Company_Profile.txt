@@ -1,0 +1,9 @@
+Company: TSS Inc. Common Stock
+Ticker: TSSI
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: Georgetown
+Website: https://tssiusa.com
+Employees: 161
+Business Summary: TSS, Inc. engages in the planning, design, deployment, maintenance, refresh, and take-back of end-user and enterprise systems in the United States. It operates three segments: Procurement, Facilities Management, and Systems Integration. The company offers IT equipment deployment services, including client products, enterprise products, clusters, and modular containers; and second-touch configuration services for OEM and end-user customers, such as adding software, hardware, or other features to end-user devices, bundling such devices with peripherals, pre-loading customer-determined application software, tagging, asset capture, and other fulfillment services. It also provides consulting, deployment, and maintenance and management services. In addition, the company involved in procuring third-party hardware and software, as well as provides professional services. It serves IT OEM equipment, technology, and service companies; private sector businesses; and government or commercial end users. The company was formerly known as Fortress International Group, Inc. and changed its name to TSS, Inc. in June 2013. TSS, Inc. was incorporated in 2004 and is based in Georgetown, Texas.

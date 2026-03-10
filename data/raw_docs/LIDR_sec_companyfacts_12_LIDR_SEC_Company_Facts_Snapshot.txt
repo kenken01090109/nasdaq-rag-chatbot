@@ -1,0 +1,11 @@
+Company: AEye Inc. Class A Common Stock
+Ticker: LIDR
+CIK: 0001818644
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 136000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -26616000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 87548000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 9356000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 78192000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20247000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 43035000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

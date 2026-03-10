@@ -1,0 +1,8 @@
+Company: Abits Group Inc Ordinary Shares
+Ticker: ABTS
+Total Cash: 94132
+Total Debt: 2250000
+Debt To Equity: 23.128
+Current Ratio: 0.178
+Quick Ratio: 0.178
+Book Value: 4.102

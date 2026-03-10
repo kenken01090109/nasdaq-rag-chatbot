@@ -1,0 +1,25 @@
+Company: Hudson Technologies Inc. Common Stock
+Ticker: HDSN
+Market Cap: 270308832
+Enterprise Value: 229831856
+Total Revenue: 246614000
+Revenue Per Share: 5.658
+EBITDA: 28572000
+Gross Margins: 0.2518
+Operating Margins: -0.16181
+Profit Margins: 0.06758
+Free Cashflow: -10875875
+Operating Cashflow: -3162000
+Return On Assets: 0.04543
+Return On Equity: 0.06813
+Total Cash: 39456000
+Total Debt: 4828000
+Debt To Equity: 1.984
+Current Ratio: 3.264
+Quick Ratio: 0.967
+Trailing PE: 12.156862
+Forward PE: 13.777778
+Price To Book: 1.0609171
+Beta: 0.901
+52 Week High: 10.52
+52 Week Low: 5.11

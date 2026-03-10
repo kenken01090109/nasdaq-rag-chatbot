@@ -1,0 +1,25 @@
+Company: Fangdd Network Group Ltd. Class A Ordinary Shares
+Ticker: DUO
+Market Cap: 42017772
+Enterprise Value: -162467808
+Total Revenue: 402528992
+Revenue Per Share: 214.666
+EBITDA: -127590000
+Gross Margins: 0.15587
+Operating Margins: -0.35282
+Profit Margins: -0.061290003
+Free Cashflow: -205918752
+Operating Cashflow: -75739000
+Return On Assets: -0.118999995
+Return On Equity: -0.0921
+Total Cash: 178376000
+Total Debt: 10385000
+Debt To Equity: 2.724
+Current Ratio: 1.659
+Quick Ratio: 1.481
+Trailing PE: 
+Forward PE: -1.9122808
+Price To Book: 0.07949753
+Beta: 
+52 Week High: 8.128
+52 Week Low: 1.01

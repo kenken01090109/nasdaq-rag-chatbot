@@ -1,0 +1,8 @@
+Company: Allogene Therapeutics Inc. Common Stock
+Ticker: ALLO
+Total Cash: 252194000
+Total Debt: 85142000
+Debt To Equity: 27.001
+Current Ratio: 8.19
+Quick Ratio: 7.988
+Book Value: 1.413

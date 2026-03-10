@@ -1,0 +1,25 @@
+Company: Argo Blockchain plc American Depositary Shares
+Ticker: ARBK
+Market Cap: 974223
+Enterprise Value: 2178103296
+Total Revenue: 24043000
+Revenue Per Share: 76.496
+EBITDA: -5766000
+Gross Margins: 0.22023001
+Operating Margins: -0.89603996
+Profit Margins: -1.06846
+Free Cashflow: -6479375
+Operating Cashflow: -28959000
+Return On Assets: -0.36648998
+Return On Equity: 
+Total Cash: 1654000
+Total Debt: 40256000
+Debt To Equity: 
+Current Ratio: 0.745
+Quick Ratio: 0.326
+Trailing PE: 
+Forward PE: -11.68
+Price To Book: -0.025988359
+Beta: 1.985
+52 Week High: 205.2
+52 Week Low: 2.63

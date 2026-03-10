@@ -1,0 +1,25 @@
+Company: L.B. Foster Company Common Stock
+Ticker: FSTR
+Market Cap: 306591008
+Enterprise Value: 363263488
+Total Revenue: 540009024
+Revenue Per Share: 52.054
+EBITDA: 36654328
+Gross Margins: 0.21454
+Operating Margins: 0.06744
+Profit Margins: 0.01397
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.045089997
+Return On Equity: 0.0418
+Total Cash: 4348000
+Total Debt: 67022000
+Debt To Equity: 38.081
+Current Ratio: 1.869
+Quick Ratio: 1.088
+Trailing PE: 64.288895
+Forward PE: 16.344633
+Price To Book: 1.6777823
+Beta: 0.989
+52 Week High: 32.63
+52 Week Low: 17.16

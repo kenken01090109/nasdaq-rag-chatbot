@@ -1,0 +1,9 @@
+Company: Perma-Pipe International Holdings Inc. Common Stock
+Ticker: PPIH
+Sector: Industrials
+Industry: Building Products & Equipment
+Country: United States
+City: The Woodlands
+Website: https://www.permapipe.com
+Employees: 750
+Business Summary: Perma-Pipe International Holdings, Inc., together with its subsidiaries, designs, engineers, manufactures, and sells specialty piping and leak detection systems in the United States, Canada, the Middle East, North Africa, Europe, India, and internationally. The company offers insulated and jacketed district heating and cooling piping systems for energy distribution from central energy plants to various locations; and primary and secondary containment piping systems for transporting chemicals, hazardous fluids, and petroleum products, as well as engages in the coating and insulation of oil and gas gathering and transmission pipelines. It also provides liquid and powder based anti-corrosion coatings for external and internal surfaces of steel pipe, including bends, reducers, tees, and other spools/fittings used in pipelines for the transportation of oil and gas products and potable water. The company was formerly known as MFRI, Inc. and changed its name to Perma-Pipe International Holdings, Inc. in March 2017. Perma-Pipe International Holdings, Inc. was incorporated in 1993 and is headquartered in The Woodlands, Texas.

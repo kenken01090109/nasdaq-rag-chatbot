@@ -1,0 +1,25 @@
+Company: Cresud S.A.C.I.F. y A. American Depositary Shares
+Ticker: CRESY
+Market Cap: 716406272
+Enterprise Value: 2837486501888
+Total Revenue: 1018604027904
+Revenue Per Share: 16691.75
+EBITDA: 205692993536
+Gross Margins: 0.41434
+Operating Margins: 0.24256
+Profit Margins: 0.19212
+Free Cashflow: -180016742400
+Operating Cashflow: 222713004032
+Return On Assets: 0.023020001
+Return On Equity: 0.20959
+Total Cash: 720085975040
+Total Debt: 2047245942784
+Debt To Equity: 78.531
+Current Ratio: 1.426
+Quick Ratio: 1.062
+Trailing PE: 5.109005
+Forward PE: 102.666664
+Price To Book: 8.888489
+Beta: 0.2
+52 Week High: 14.21
+52 Week Low: 8.185366

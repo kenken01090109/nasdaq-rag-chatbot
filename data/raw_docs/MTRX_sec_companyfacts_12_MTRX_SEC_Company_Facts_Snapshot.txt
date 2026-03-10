@@ -1,0 +1,11 @@
+Company: Matrix Service Company Common Stock
+Ticker: MTRX
+CIK: 0000866273
+Latest SEC XBRL Facts:
+Revenues: 422392000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -4557000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 650204000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 512641000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 311426000 | unit=USD | filed=2020-05-07 | period_end=2020-03-31
+NetCashProvidedByUsedInOperatingActivities: -18445000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 198964000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

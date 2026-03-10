@@ -1,0 +1,25 @@
+Company: A SPAC III Acquisition Corp. Class A Ordinary Shares
+Ticker: ASPC
+Market Cap: 26180906
+Enterprise Value: 26064996
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -614971
+Return On Assets: -0.02394
+Return On Equity: 0.03492
+Total Cash: 1062632
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.062
+Quick Ratio: 2.007
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4358974
+Beta: 
+52 Week High: 63.98
+52 Week Low: 10.03

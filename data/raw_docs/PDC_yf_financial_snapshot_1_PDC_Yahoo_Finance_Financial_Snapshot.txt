@@ -1,0 +1,25 @@
+Company: Perpetuals.com Ltd American Depositary Shares
+Ticker: PDC
+Market Cap: 15191844
+Enterprise Value: 19445820
+Total Revenue: 440361152
+Revenue Per Share: 146.038
+EBITDA: -245026128
+Gross Margins: 0.51572
+Operating Margins: -0.66071
+Profit Margins: -0.58292
+Free Cashflow: -132261096
+Operating Cashflow: -191733952
+Return On Assets: -0.40116
+Return On Equity: -1.2684101
+Total Cash: 107475880
+Total Debt: 51838740
+Debt To Equity: 70.026
+Current Ratio: 1.735
+Quick Ratio: 1.62
+Trailing PE: 
+Forward PE: 
+Price To Book: 31.955154
+Beta: 1.806
+52 Week High: 10.5
+52 Week Low: 1.64

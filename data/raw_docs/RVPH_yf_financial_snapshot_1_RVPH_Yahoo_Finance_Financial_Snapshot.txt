@@ -1,0 +1,25 @@
+Company: Reviva Pharmaceuticals Holdings Inc. Common Stock
+Ticker: RVPH
+Market Cap: 20869398
+Enterprise Value: 11140133
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -18807144
+Operating Cashflow: -27896928
+Return On Assets: -1.30481
+Return On Equity: 
+Total Cash: 13183259
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.388
+Quick Ratio: 1.354
+Trailing PE: 
+Forward PE: -1.0403681
+Price To Book: 3.8000002
+Beta: 0.204
+52 Week High: 1.23
+52 Week Low: 0.17

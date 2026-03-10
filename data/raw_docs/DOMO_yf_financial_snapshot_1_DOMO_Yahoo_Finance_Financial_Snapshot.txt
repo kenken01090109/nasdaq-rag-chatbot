@@ -1,0 +1,25 @@
+Company: Domo Inc. Class B Common Stock
+Ticker: DOMO
+Market Cap: 176389632
+Enterprise Value: 270967648
+Total Revenue: 318001984
+Revenue Per Share: 7.894
+EBITDA: -38873000
+Gross Margins: 0.7439
+Operating Margins: -0.08728
+Profit Margins: -0.21712999
+Free Cashflow: 62765000
+Operating Cashflow: 19622000
+Return On Assets: -0.13152
+Return On Equity: 
+Total Cash: 47874000
+Total Debt: 142452000
+Debt To Equity: 
+Current Ratio: 0.491
+Quick Ratio: 0.401
+Trailing PE: 
+Forward PE: -162.30768
+Price To Book: -0.9189895
+Beta: 1.752
+52 Week High: 18.489
+52 Week Low: 3.45

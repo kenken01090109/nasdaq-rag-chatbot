@@ -1,0 +1,11 @@
+Company: Trupanion Inc. Common Stock
+Ticker: TRUP
+CIK: 0001371285
+Latest SEC XBRL Facts:
+Revenues: 1062452000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -21177000 | unit=USD | filed=2015-02-24 | period_end=2014-12-31
+Assets: 880173000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 511611000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 368562000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 60226000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 154773000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

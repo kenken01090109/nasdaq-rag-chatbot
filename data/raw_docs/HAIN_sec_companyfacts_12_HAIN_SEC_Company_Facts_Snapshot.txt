@@ -1,0 +1,12 @@
+Company: Hain Celestial Group Inc. (The) Common Stock
+Ticker: HAIN
+CIK: 0000910406
+Latest SEC XBRL Facts:
+Revenues: 2457769000 | unit=USD | filed=2018-08-29 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 752003000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -136631000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 1477410000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 1147165000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 330245000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 28488000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 68017000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: Guardant Health Inc. Common Stock
+Ticker: GH
+Market Cap: 11962743808
+Enterprise Value: 12471287808
+Total Revenue: 982020992
+Revenue Per Share: 7.833
+EBITDA: -396561984
+Gross Margins: 0.6446
+Operating Margins: -0.4291
+Profit Margins: -0.4239
+Free Cashflow: -88105872
+Operating Cashflow: -184760000
+Return On Assets: -0.15585
+Return On Equity: 
+Total Cash: 1201597952
+Total Debt: 1710141952
+Debt To Equity: 
+Current Ratio: 4.843
+Quick Ratio: 4.425
+Trailing PE: 
+Forward PE: -147.06119
+Price To Book: -120.0
+Beta: 1.688
+52 Week High: 120.74
+52 Week Low: 34.88

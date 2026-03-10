@@ -1,0 +1,11 @@
+Company: JFrog Ltd. Ordinary Shares
+Ticker: FROG
+CIK: 0001800667
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 386534000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -56609000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1265532000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 406114000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 859418000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 95034000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 78355000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

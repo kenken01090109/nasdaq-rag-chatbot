@@ -1,0 +1,25 @@
+Company: BioCardia Inc. Common Stock
+Ticker: BCDA
+Market Cap: 12523026
+Enterprise Value: 8139344
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -8550000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4349250
+Operating Cashflow: -7512000
+Return On Assets: -0.86447996
+Return On Equity: -3.1747198
+Total Cash: 5287000
+Total Debt: 638000
+Debt To Equity: 24.286
+Current Ratio: 1.621
+Quick Ratio: 1.597
+Trailing PE: 
+Forward PE: -1.7101449
+Price To Book: 4.7580643
+Beta: 0.552
+52 Week High: 3.2
+52 Week Low: 1.0

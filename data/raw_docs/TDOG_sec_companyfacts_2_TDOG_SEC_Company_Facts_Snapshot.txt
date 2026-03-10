@@ -1,0 +1,6 @@
+Company: 21Shares Dogecoin ETF Common Shares of Beneficial Interest
+Ticker: TDOG
+CIK: 0002064314
+Latest SEC XBRL Facts:
+Assets: 100 | unit=USD | filed=2026-02-20 | period_end=2025-09-30
+StockholdersEquity: 100 | unit=USD | filed=2026-02-20 | period_end=2025-09-30

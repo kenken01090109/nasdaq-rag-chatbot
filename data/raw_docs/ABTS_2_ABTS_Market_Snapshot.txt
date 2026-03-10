@@ -1,0 +1,10 @@
+Company: Abits Group Inc Ordinary Shares
+Ticker: ABTS
+Market Cap: 9139472
+Enterprise Value: 9010620
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.70453435
+Beta: 
+52 Week High: 10.855
+52 Week Low: 0.25

@@ -1,0 +1,9 @@
+Company: Casella Waste Systems Inc. Class A Common Stock
+Ticker: CWST
+Sector: Industrials
+Industry: Waste Management
+Country: United States
+City: Rutland
+Website: https://www.casella.com
+Employees: 5600
+Business Summary: Casella Waste Systems, Inc., together with its subsidiaries, operates as a vertically integrated solid waste services company in the United States. The company offers resource management expertise and services primarily in the areas of solid waste collection and disposal, transfer, recycling and organics services to residential, commercial, municipal, institutional, and industrial customers. It also provides non-hazardous solid waste services, including collections, transfer stations, recycling, and disposal operations. In addition, the company markets various materials, including fibers, such as corrugated cardboard and newsprint, plastics, glass, ferrous, and aluminum metals. Casella Waste Systems, Inc. was founded in 1975 and is headquartered in Rutland, Vermont.

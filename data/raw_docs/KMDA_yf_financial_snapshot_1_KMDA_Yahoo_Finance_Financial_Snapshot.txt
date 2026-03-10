@@ -1,0 +1,25 @@
+Company: Kamada Ltd. Ordinary Shares
+Ticker: KMDA
+Market Cap: 511057376
+Enterprise Value: 470838336
+Total Revenue: 174787008
+Revenue Per Share: 2.99
+EBITDA: 41485000
+Gross Margins: 0.43750998
+Operating Margins: 0.16625999
+Profit Margins: 0.116969995
+Free Cashflow: 7821750
+Operating Cashflow: 28322000
+Return On Assets: 0.04764
+Return On Equity: 0.07856
+Total Cash: 71997000
+Total Debt: 11470000
+Debt To Equity: 4.325
+Current Ratio: 4.029
+Quick Ratio: 2.243
+Trailing PE: 25.314285
+Forward PE: 18.458334
+Price To Book: 1.9658309
+Beta: 0.297
+52 Week High: 9.35
+52 Week Low: 5.54

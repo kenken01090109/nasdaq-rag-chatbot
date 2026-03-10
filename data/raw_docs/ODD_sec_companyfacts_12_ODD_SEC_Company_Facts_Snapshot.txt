@@ -1,0 +1,11 @@
+Company: ODDITY Tech Ltd. Class A Ordinary Shares
+Ticker: ODD
+CIK: 0001907085
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 647040000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+NetIncomeLoss: 101491000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+Assets: 438882000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+Liabilities: 156578000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+StockholdersEquity: 282304000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 137764000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 50340000 | unit=USD | filed=2025-02-25 | period_end=2024-12-31

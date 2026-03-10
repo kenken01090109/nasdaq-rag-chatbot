@@ -1,0 +1,12 @@
+Company: JAKKS Pacific Inc. Common Stock
+Ticker: JAKK
+CIK: 0001009829
+Latest SEC XBRL Facts:
+Revenues: 243655000 | unit=USD | filed=2015-11-09 | period_end=2015-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 443557000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 15191000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 485270000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 229355000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 255915000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24753000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25887000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

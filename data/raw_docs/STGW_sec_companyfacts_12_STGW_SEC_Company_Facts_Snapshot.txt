@@ -1,0 +1,11 @@
+Company: Stagwell Inc. Class A Common Stock
+Ticker: STGW
+CIK: 0000876883
+Latest SEC XBRL Facts:
+Revenues: 2101556000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 16441000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4261895000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3482825000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 749047000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 30713000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 132238000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

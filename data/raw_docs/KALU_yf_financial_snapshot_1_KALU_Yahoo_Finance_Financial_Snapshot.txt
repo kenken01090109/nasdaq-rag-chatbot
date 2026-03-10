@@ -1,0 +1,25 @@
+Company: Kaiser Aluminum Corporation Common Stock
+Ticker: KALU
+Market Cap: 1988859264
+Enterprise Value: 3114806016
+Total Revenue: 3372999936
+Revenue Per Share: 208.609
+EBITDA: 308100000
+Gross Margins: 0.13116
+Operating Margins: 0.063829996
+Profit Margins: 0.033350002
+Free Cashflow: -76712496
+Operating Cashflow: 111400000
+Return On Assets: 0.04664
+Return On Equity: 0.14339
+Total Cash: 7000000
+Total Debt: 1100800000
+Debt To Equity: 133.253
+Current Ratio: 2.953
+Quick Ratio: 1.156
+Trailing PE: 18.1226
+Forward PE: 13.451878
+Price To Book: 2.3852017
+Beta: 1.387
+52 Week High: 150.0
+52 Week Low: 46.81

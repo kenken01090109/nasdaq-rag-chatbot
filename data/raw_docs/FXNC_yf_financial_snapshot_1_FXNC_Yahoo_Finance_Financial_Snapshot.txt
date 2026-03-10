@@ -1,0 +1,25 @@
+Company: First National Corporation Common Stock
+Ticker: FXNC
+Market Cap: 237728912
+Enterprise Value: 122478536
+Total Revenue: 86993000
+Revenue Per Share: 9.672
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.33542
+Profit Margins: 0.2035
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00874
+Return On Equity: 0.10038
+Total Cash: 160910000
+Total Debt: 42591000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.438775
+Forward PE: 10.494024
+Price To Book: 1.2767814
+Beta: 0.517
+52 Week High: 28.89
+52 Week Low: 18.26

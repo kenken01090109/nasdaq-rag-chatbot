@@ -1,0 +1,12 @@
+Company: Bitcoin Depot Inc. Warrant
+Ticker: BTMWW
+CIK: 0001901799
+Latest SEC XBRL Facts:
+Revenues: 498816000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 498816000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 15807000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 125278000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 104262000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -4288047 | unit=USD | filed=2023-05-05 | period_end=2023-03-31
+NetCashProvidedByUsedInOperatingActivities: 33033000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 59266000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

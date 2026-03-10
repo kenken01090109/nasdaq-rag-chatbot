@@ -1,0 +1,9 @@
+Company: Brenmiller Energy Ltd Ordinary Shares
+Ticker: BNRG
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: Israel
+City: Rosh Haayin
+Website: https://www.bren-energy.com
+Employees: 52
+Business Summary: Brenmiller Energy Ltd. develops, produces, markets, and sells thermal energy storage (TES) systems based on its proprietary and patented technology that enables electrification and decarbonization. It provides bGen TES system that dispatches thermal energy on demand in the form of steam, which can be saturated for industrial use and in the form of superheated steam, which can be used to activate steam turbines. The company also offers power to heat and heat to heat solutions. Brenmiller Energy Ltd was incorporated in 2012 and is headquartered in Rosh HaAyin, Israel.

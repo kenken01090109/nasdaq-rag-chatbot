@@ -1,0 +1,25 @@
+Company: Redhill Biopharma Ltd. American Depositary Shares
+Ticker: RDHL
+Market Cap: 4703854
+Enterprise Value: 16584956928
+Total Revenue: 9550000
+Revenue Per Share: 6.178
+EBITDA: -8336000
+Gross Margins: 0.64449996
+Operating Margins: -1.0733
+Profit Margins: -0.97518
+Free Cashflow: -4080000
+Operating Cashflow: -8199000
+Return On Assets: -0.25322
+Return On Equity: 
+Total Cash: 2866000
+Total Debt: 214000
+Debt To Equity: 
+Current Ratio: 0.563
+Quick Ratio: 0.369
+Trailing PE: Infinity
+Forward PE: 30.666668
+Price To Book: -0.37597057
+Beta: 4.988
+52 Week High: 3.46
+52 Week Low: 0.88

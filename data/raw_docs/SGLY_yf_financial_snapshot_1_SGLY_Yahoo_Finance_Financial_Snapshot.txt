@@ -1,0 +1,25 @@
+Company: Singularity Future Technology Ltd. Common Stock
+Ticker: SGLY
+Market Cap: 2914479
+Enterprise Value: -5649542
+Total Revenue: 1292629
+Revenue Per Share: 0.277
+EBITDA: -2130416
+Gross Margins: 0.23336
+Operating Margins: -4.0702
+Profit Margins: 0.0
+Free Cashflow: -1136313
+Operating Cashflow: -12968313
+Return On Assets: -0.0665
+Return On Equity: -1.56232
+Total Cash: 10986421
+Total Debt: 3480465
+Debt To Equity: 96.692
+Current Ratio: 1.228
+Quick Ratio: 0.628
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6253521
+Beta: 1.612
+52 Week High: 1.86
+52 Week Low: 0.34

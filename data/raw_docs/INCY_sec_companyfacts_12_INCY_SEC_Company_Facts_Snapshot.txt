@@ -1,0 +1,12 @@
+Company: Incyte Corp. Common Stock
+Ticker: INCY
+CIK: 0000879169
+Latest SEC XBRL Facts:
+Revenues: 1644632000 | unit=USD | filed=2022-08-02 | period_end=2022-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3634407000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 987371000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 6330356000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 1679162000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 4651194000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 870197000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2455006000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

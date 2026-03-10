@@ -1,0 +1,9 @@
+Company: Rocky Brands Inc. Common Stock
+Ticker: RCKY
+Sector: Consumer Cyclical
+Industry: Footwear & Accessories
+Country: United States
+City: Nelsonville
+Website: https://www.rockybrands.com
+Employees: 
+Business Summary: Rocky Brands, Inc. designs, manufactures, and markets footwear and apparel in the United States, Canada, the United Kingdom, and internationally. It operates through Wholesale, Retail, and Contract Manufacturing segments. The Wholesale segment offers products, which includes sporting goods stores, outdoor retailers, independent shoe retailers, hardware stores, catalogs, mass merchants, uniform stores, farm store chains, specialty safety stores, specialty retailers, and online retailers in retail locations through a range of distribution channels. Its Retail segment sells its products direct sales to consumers through its websites comprising rockyboots.com, georgiaboot.com, durangoboot.com, muckbootcompany.com, xtratuf.com, lehighoutfitters.com, lehighsafetyshoes.com, and slipgrips.com; and third-party marketplaces and Rocky Outdoor Gear Stores. The Contract Manufacturing segment include private label sales and any sales to customers which are contracted to manufacture a specific footwear product for a customer and include sales to the U.S. Military. It serves industrial and construction workers, as well as workers in the hospitality industry, such as restaurants or hotels; farmers and ranchers; western; commercial military personnel; hunting, fishing, camping, and hiking enthusiasts; law enforcement, security personnel, and postal employees; and for the U.S. military personnel. The company sells its products under the Rocky, Georgia Boot, Durango, Lehigh, Muck, XTRATUF, Servus, Ranger, and Michelin brand names. The company was formerly known as William Brooks Shoe Co. Rocky Brands, Inc. was founded in 1932 and is headquartered in Nelsonville, Ohio.

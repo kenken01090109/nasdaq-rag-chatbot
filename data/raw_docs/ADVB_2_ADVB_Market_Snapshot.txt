@@ -1,0 +1,10 @@
+Company: Advanced Biomed Inc. Common Stock
+Ticker: ADVB
+Market Cap: 5553662
+Enterprise Value: 2513766
+Trailing PE: 1.15625
+Forward PE: 
+Price To Book: 0.46445286
+Beta: 
+52 Week High: 80.0
+52 Week Low: 3.61

@@ -1,0 +1,10 @@
+Company: First Merchants Corporation Common Stock
+Ticker: FRME
+CIK: 0000712534
+Latest SEC XBRL Facts:
+NetIncomeLoss: 168936000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 18811629000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 16399227000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 2412402000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 202934000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 202383000 | unit=USD | filed=2019-11-08 | period_end=2019-09-30

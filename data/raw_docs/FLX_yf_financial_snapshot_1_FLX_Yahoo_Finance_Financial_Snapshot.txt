@@ -1,0 +1,25 @@
+Company: BingEx Limited American Depositary Shares
+Ticker: FLX
+Market Cap: 165021392
+Enterprise Value: -373213824
+Total Revenue: 4019639040
+Revenue Per Share: 58.645
+EBITDA: -106505752
+Gross Margins: 0.11545
+Operating Margins: 0.014049999
+Profit Margins: -0.052210003
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.06215
+Return On Equity: -0.32779998
+Total Cash: 875937024
+Total Debt: 24943000
+Debt To Equity: 2.972
+Current Ratio: 2.278
+Quick Ratio: 2.161
+Trailing PE: 
+Forward PE: 5.672841
+Price To Book: 1.3146563
+Beta: 
+52 Week High: 9.2
+52 Week Low: 2.01

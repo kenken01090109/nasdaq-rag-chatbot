@@ -1,0 +1,11 @@
+Company: Tenable Holdings Inc. Common Stock
+Ticker: TENB
+CIK: 0001660280
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 738872000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -35381000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1652622000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1308246000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 344376000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 183720000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 171852000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

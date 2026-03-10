@@ -1,0 +1,25 @@
+Company: Baosheng Media Group Holdings Limited Ordinary shares
+Ticker: BAOS
+Market Cap: 4112425
+Enterprise Value: 2613398
+Total Revenue: 860951
+Revenue Per Share: 0.561
+EBITDA: -29177280
+Gross Margins: 0.45993
+Operating Margins: -14.93635
+Profit Margins: 0.0
+Free Cashflow: 8917851
+Operating Cashflow: -790861
+Return On Assets: -0.5473
+Return On Equity: -1.1586499
+Total Cash: 1667820
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.262
+Quick Ratio: 0.873
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.3773585
+Beta: 1.574
+52 Week High: 8.3
+52 Week Low: 1.52

@@ -1,0 +1,25 @@
+Company: Sandisk Corporation Common Stock
+Ticker: SNDK
+Market Cap: 77834428416
+Enterprise Value: 82736562176
+Total Revenue: 8929000448
+Revenue Per Share: 61.368
+EBITDA: 1424999936
+Gross Margins: 0.34807998
+Operating Margins: 0.35504
+Profit Margins: -0.11659
+Free Cashflow: 1251500032
+Operating Cashflow: 1627000064
+Return On Assets: 0.05866
+Return On Equity: -0.09372
+Total Cash: 1539000064
+Total Debt: 813000000
+Debt To Equity: 7.96
+Current Ratio: 3.114
+Quick Ratio: 1.729
+Trailing PE: 
+Forward PE: 6.5098314
+Price To Book: 7.6416883
+Beta: 
+52 Week High: 725.0
+52 Week Low: 27.885

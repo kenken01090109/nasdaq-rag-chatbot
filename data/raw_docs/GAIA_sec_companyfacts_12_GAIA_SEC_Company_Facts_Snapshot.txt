@@ -1,0 +1,12 @@
+Company: Gaia Inc. Class A Common Stock
+Ticker: GAIA
+CIK: 0001089872
+Latest SEC XBRL Facts:
+Revenues: 4500000 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 73456000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -3968000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 151093000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 49550000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 86270000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3908000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14162000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

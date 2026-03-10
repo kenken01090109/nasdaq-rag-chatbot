@@ -1,0 +1,9 @@
+Company: Snail Inc. Class A Common Stock
+Ticker: SNAL
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: United States
+City: Culver City
+Website: https://snail.com
+Employees: 149
+Business Summary: Snail, Inc., together with its subsidiaries, researches, develops, markets, publishes, and distributes interactive digital entertainment worldwide. It offers games used on platforms, such as game consoles, personal computers, mobile phones, and tablets. The company was founded in 2009 and is headquartered in Culver City, California. Snail, Inc. is a subsidiary of Olive Wood Global Development Limited.

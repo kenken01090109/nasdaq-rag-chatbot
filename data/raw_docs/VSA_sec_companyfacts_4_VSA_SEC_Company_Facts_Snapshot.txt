@@ -1,0 +1,12 @@
+Company: VisionSys AI Inc. American Depositary Shares
+Ticker: VSA
+CIK: 0001592560
+Latest SEC XBRL Facts:
+Revenues: 13067000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 83120000 | unit=USD | filed=2024-12-27 | period_end=2024-06-30
+NetIncomeLoss: 24114817 | unit=USD | filed=2015-04-15 | period_end=2014-12-31
+Assets: 7206000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 255114000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: -247802000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -15367000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 345000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

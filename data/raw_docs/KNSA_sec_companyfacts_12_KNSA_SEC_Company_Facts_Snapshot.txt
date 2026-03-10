@@ -1,0 +1,12 @@
+Company: Kiniksa Pharmaceuticals International plc Class A Ordinary Shares
+Ticker: KNSA
+CIK: 0001730430
+Latest SEC XBRL Facts:
+Revenues: 475437000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 475437000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 44806000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 712333000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 176950000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 535383000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 84091000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 174858000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

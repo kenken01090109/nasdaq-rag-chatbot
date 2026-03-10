@@ -1,0 +1,11 @@
+Company: Saia Inc. Common Stock
+Ticker: SAIA
+CIK: 0001177702
+Latest SEC XBRL Facts:
+Revenues: 2444334000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2444334000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 207517000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 3500960000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 2526027000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 457665000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35500000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

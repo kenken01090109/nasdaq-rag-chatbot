@@ -1,0 +1,25 @@
+Company: Magyar Bancorp Inc. Common Stock
+Ticker: MGYR
+Market Cap: 113494408
+Enterprise Value: 128724128
+Total Revenue: 36540000
+Revenue Per Share: 5.877
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.45598
+Profit Margins: 0.29587
+Free Cashflow: 
+Operating Cashflow: 11156000
+Return On Assets: 0.01053
+Return On Equity: 0.09263
+Total Cash: 34913000
+Total Debt: 51827000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.127168
+Forward PE: 
+Price To Book: 0.9322124
+Beta: 0.234
+52 Week High: 20.0
+52 Week Low: 13.52

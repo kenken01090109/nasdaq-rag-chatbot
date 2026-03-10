@@ -1,0 +1,9 @@
+Company: Medalist Diversified Inc. Common Stock
+Ticker: MDRR
+Sector: Real Estate
+Industry: REIT - Diversified
+Country: United States
+City: Richmond
+Website: https://www.medalistreit.com
+Employees: 
+Business Summary: Medalist Diversified Real Estate Investment Trust, Inc. a Maryland corporation formed on September 28, 2015. Beginning with the taxable year ended December 31, 2017, the REIT has elected to be taxed as a real estate investment trust for federal income tax purposes. The REIT serves as the general partner of Medalist Diversified Holdings, LP (the Operating Partnership) which was formed as a Delaware limited partnership on September 29, 2015. As of September 30, 2025, the REIT, through the Operating Partnership, owned and operated 13 developed properties consisting of four retail center properties, three flex center properties, and six single tenant net lease properties, and two undeveloped parcels. In addition, as of September 30, 2025, the REIT, through the Operating Partnership, owned two taxable REIT subsidiaries, Own Digital Treasury TRS, LLC, which was formed to acquire and hold digital assets, and MDRR Sponsor TRS, LLC, which was formed to serve as the sponsor of the Operating Partnership's Delaware statutory trust program, and which holds ownership of additional entities required for the Operating Partnership's DST sponsorship program.

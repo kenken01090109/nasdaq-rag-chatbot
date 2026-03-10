@@ -1,0 +1,25 @@
+Company: Forward Industries Inc. Common Stock
+Ticker: FWDI
+Market Cap: 401561568
+Enterprise Value: 389583104
+Total Revenue: 34998328
+Revenue Per Share: 1.118
+EBITDA: 4198014
+Gross Margins: 0.5974
+Operating Margins: 0.44865
+Profit Margins: 0.0
+Free Cashflow: -27563450
+Operating Cashflow: -11996955
+Return On Assets: 0.00541
+Return On Equity: -1.70718
+Total Cash: 25388080
+Total Debt: 5927112
+Debt To Equity: 0.673
+Current Ratio: 6.242
+Quick Ratio: 2.921
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.4656768
+Beta: 0.836
+52 Week High: 46.0
+52 Week Low: 3.32

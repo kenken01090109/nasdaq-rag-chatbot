@@ -1,0 +1,11 @@
+Company: ICZOOM Group Inc. Class A Ordinary Shares
+Ticker: IZM
+CIK: 0001854572
+Latest SEC XBRL Facts:
+Revenues: 187048691 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+NetIncomeLoss: 1194497 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+Assets: 41238472 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+Liabilities: 25816813 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+StockholdersEquity: 15421659 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 2746352 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6316 | unit=USD | filed=2024-04-29 | period_end=2020-06-30

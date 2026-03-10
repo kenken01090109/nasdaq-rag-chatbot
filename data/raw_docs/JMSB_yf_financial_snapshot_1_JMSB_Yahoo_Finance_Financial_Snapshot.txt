@@ -1,0 +1,25 @@
+Company: John Marshall Bancorp Inc. Common Stock
+Ticker: JMSB
+Market Cap: 277137152
+Enterprise Value: 230153488
+Total Revenue: 60950000
+Revenue Per Share: 4.295
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49310002
+Profit Margins: 0.34837002
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0093
+Return On Equity: 0.0829
+Total Cash: 129974000
+Total Debt: 85694000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.09396
+Forward PE: 10.005128
+Price To Book: 1.0389818
+Beta: 0.486
+52 Week High: 21.58
+52 Week Low: 13.81

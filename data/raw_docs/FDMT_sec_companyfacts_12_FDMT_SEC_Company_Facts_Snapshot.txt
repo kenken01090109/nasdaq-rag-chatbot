@@ -1,0 +1,12 @@
+Company: 4D Molecular Therapeutics Inc. Common Stock
+Ticker: FDMT
+CIK: 0001650648
+Latest SEC XBRL Facts:
+Revenues: 36000 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 119000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -159506000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 423982000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 54999000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 368983000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -137633000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 48555000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

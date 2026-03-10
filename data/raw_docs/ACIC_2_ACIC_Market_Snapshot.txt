@@ -1,0 +1,10 @@
+Company: American Coastal Insurance Corporation Common Stock
+Ticker: ACIC
+Market Cap: 567140480
+Enterprise Value: 493661952
+Trailing PE: 6.7225432
+Forward PE: 7.5275083
+Price To Book: 1.5682309
+Beta: -0.664
+52 Week High: 13.06
+52 Week Low: 9.97

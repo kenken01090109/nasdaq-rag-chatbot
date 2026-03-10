@@ -1,0 +1,25 @@
+Company: Life360 Inc. Common Stock
+Ticker: LIF
+Market Cap: 3534295552
+Enterprise Value: 3428258304
+Total Revenue: 489480992
+Revenue Per Share: 2.112
+EBITDA: 32155000
+Gross Margins: 0.77805
+Operating Margins: 0.061339997
+Profit Margins: 0.30815
+Free Cashflow: 63244752
+Operating Cashflow: 88630000
+Return On Assets: 0.01679
+Return On Equity: 0.3327
+Total Cash: 494260992
+Total Debt: 310744992
+Debt To Equity: 56.686
+Current Ratio: 6.262
+Quick Ratio: 5.963
+Trailing PE: 121.837845
+Forward PE: 26.37877
+Price To Book: 19.574469
+Beta: 0.996
+52 Week High: 112.54
+52 Week Low: 29.62

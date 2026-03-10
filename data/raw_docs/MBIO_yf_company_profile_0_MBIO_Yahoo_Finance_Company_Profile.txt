@@ -1,0 +1,9 @@
+Company: Mustang Bio Inc. Common Stock
+Ticker: MBIO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Waltham
+Website: https://www.mustangbio.com
+Employees: 6
+Business Summary: Mustang Bio, Inc., a clinical-stage biopharmaceutical company, focuses on translating cell therapies into cures for difficult-to-treat cancers and autoimmune diseases. It develops MB-106, a CD20-targeted chimeric antigen receptor (CAR) T cell therapy for non-hodgkin lymphoma, chronic lymphocytic leukemia, and autoimmune diseases; MB-101, an IL13Ra2 CAR T cell program for glioblastoma; and MB-108 for the treatment of herpes simplex virus-1 oncolytic virus C134. The company was incorporated in 2015 and is headquartered in Waltham, Massachusetts.

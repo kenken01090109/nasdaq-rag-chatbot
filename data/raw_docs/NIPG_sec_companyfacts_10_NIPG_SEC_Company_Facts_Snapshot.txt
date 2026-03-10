@@ -1,0 +1,12 @@
+Company: NIP Group Inc. American Depositary Shares
+Ticker: NIPG
+CIK: 0001966233
+Latest SEC XBRL Facts:
+Revenues: 85266306 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 85318436 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+NetIncomeLoss: -12689785 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+Assets: 312566366 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+Liabilities: 70143014 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+StockholdersEquity: 234526583 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -16542944 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 9559298 | unit=USD | filed=2025-05-12 | period_end=2024-12-31

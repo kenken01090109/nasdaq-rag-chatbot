@@ -1,0 +1,10 @@
+Company: Arcellx Inc. Common Stock
+Ticker: ACLX
+Market Cap: 6687751168
+Enterprise Value: 6289336320
+Trailing PE: 
+Forward PE: -71.581474
+Price To Book: 16.464151
+Beta: 0.227
+52 Week High: 114.65
+52 Week Low: 47.86

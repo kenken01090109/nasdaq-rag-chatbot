@@ -1,0 +1,12 @@
+Company: Shoe Carnival Inc. Common Stock
+Ticker: SCVL
+CIK: 0000895447
+Latest SEC XBRL Facts:
+Revenues: 881258000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 881258000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+NetIncomeLoss: 43214000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+Assets: 1172541000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+Liabilities: 489364000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+StockholdersEquity: 683177000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 37259000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 94369000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01

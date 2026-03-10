@@ -1,0 +1,11 @@
+Company: DraftKings Inc. Class A Common Stock
+Ticker: DKNG
+CIK: 0001883685
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4065332000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -132716000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4624235000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3891949000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 732286000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 342382000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1228275000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

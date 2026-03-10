@@ -1,0 +1,25 @@
+Company: Addex Therapeutics Ltd American Depositary Shares
+Ticker: ADXN
+Market Cap: 8833426
+Enterprise Value: 819677696
+Total Revenue: 158538
+Revenue Per Share: 0.24
+EBITDA: -2456840
+Gross Margins: 0.0
+Operating Margins: -14.0357895
+Profit Margins: 0.0
+Free Cashflow: -599840
+Operating Cashflow: -1575307
+Return On Assets: -0.15904
+Return On Equity: -0.72837996
+Total Cash: 2187202
+Total Debt: 36549
+Debt To Equity: 0.613
+Current Ratio: 2.013
+Quick Ratio: 1.905
+Trailing PE: 
+Forward PE: -143.4
+Price To Book: 109.78482
+Beta: 1.914
+52 Week High: 12.05
+52 Week Low: 6.51

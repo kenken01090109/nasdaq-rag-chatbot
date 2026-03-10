@@ -1,0 +1,12 @@
+Company: PicoCELA Inc. American Depositary Shares
+Ticker: PCLA
+CIK: 0002018462
+Latest SEC XBRL Facts:
+Revenues: 544690000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 544690000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+NetIncomeLoss: -626312000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+Assets: 1087166000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+Liabilities: 617218000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+StockholdersEquity: 469948000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -544020000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 534889000 | unit=JPY | filed=2026-02-13 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Super Micro Computer Inc. Common Stock
+Ticker: SMCI
+Market Cap: 18754359296
+Enterprise Value: 19911960576
+Total Revenue: 28057104384
+Revenue Per Share: 47.032
+EBITDA: 1096866048
+Gross Margins: 0.0802
+Operating Margins: 0.0374
+Profit Margins: 0.03111
+Free Cashflow: 103480000
+Operating Cashflow: 548956032
+Return On Assets: 0.03418
+Return On Equity: 0.13193
+Total Cash: 4106275072
+Total Debt: 5263713792
+Debt To Equity: 75.28
+Current Ratio: 1.697
+Quick Ratio: 0.981
+Trailing PE: 22.854013
+Forward PE: 10.574345
+Price To Book: 2.6820285
+Beta: 1.487
+52 Week High: 62.36
+52 Week Low: 27.6

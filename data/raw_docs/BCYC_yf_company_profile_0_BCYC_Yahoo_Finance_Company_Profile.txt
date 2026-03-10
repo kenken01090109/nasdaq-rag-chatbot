@@ -1,0 +1,9 @@
+Company: Bicycle Therapeutics plc American Depositary Shares
+Ticker: BCYC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: Cambridge
+Website: https://www.bicycletherapeutics.com
+Employees: 305
+Business Summary: Bicycle Therapeutics plc, a clinical-stage pharmaceutical company, develops a class of medicines for diseases that are underserved by existing therapeutics in the United States and the United Kingdom. The company's products pipeline include zelenectide pevedotin, a bicycle toxin conjugate (BTC), which is in phase I/II/III clinical trials for the treatment of high nectin-4 expressing tumors; BT5528 (EphA2), a BTC that is in phase I/II clinical trials to treat Ephrin type A receptor 2 expressing tumor; and BT7480, a Bicycle tumor-targeted immune cell agonist molecule, which is in phase I/II targeting nectin-4 and agonizing CD137. In addition, it develops Novel CNS targets, which is in preclinical trial targeting CNS disease; Novel neuromuscular targets, which is in preclinical trial targeting neuromuscular disease; and programs that is in preclinical trial targeting radiopharmaceutical. Further, the company collaborates with biopharmaceutical companies and organizations to develop programs in therapeutic areas. It has collaboration and license agreement with Bayer Consumer Care AG; Novartis Pharma AG; Ionis Pharmaceuticals, Inc.; and Genentech, Inc. Bicycle Therapeutics plc was incorporated in 2009 and is headquartered in Cambridge, the United Kingdom.

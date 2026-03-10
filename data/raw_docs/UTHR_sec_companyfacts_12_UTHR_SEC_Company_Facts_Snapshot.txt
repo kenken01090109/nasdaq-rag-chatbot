@@ -1,0 +1,12 @@
+Company: United Therapeutics Corporation Common Stock
+Ticker: UTHR
+CIK: 0001082554
+Latest SEC XBRL Facts:
+Revenues: 356300000 | unit=USD | filed=2020-04-29 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2392500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 970400000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 7351100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 760900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 6590200000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1215000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1340100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Draganfly Inc. Common Shares
+Ticker: DPRO
+Market Cap: 239663056
+Enterprise Value: 83096872
+Total Revenue: 7432124
+Revenue Per Share: 0.774
+EBITDA: -16328831
+Gross Margins: 0.27966
+Operating Margins: -2.28471
+Profit Margins: -2.4325101
+Free Cashflow: -8110947
+Operating Cashflow: -16367174
+Return On Assets: -0.23711
+Return On Equity: -0.48343
+Total Cash: 70972272
+Total Debt: 313848
+Debt To Equity: 0.446
+Current Ratio: 11.805
+Quick Ratio: 11.222
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.9843862
+Beta: 3.552
+52 Week High: 14.4
+52 Week Low: 1.63

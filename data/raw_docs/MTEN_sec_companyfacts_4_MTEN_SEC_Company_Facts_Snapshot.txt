@@ -1,0 +1,11 @@
+Company: Mingteng International Corporation Inc. Class A Ordinary Shares
+Ticker: MTEN
+CIK: 0001948099
+Latest SEC XBRL Facts:
+Revenues: 5261469 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: -1356773 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 12816280 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 5689118 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 7127162 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -227053 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1755205 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

@@ -1,0 +1,9 @@
+Company: Annexon Inc. Common Stock
+Ticker: ANNX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Brisbane
+Website: https://www.annexonbio.com
+Employees: 99
+Business Summary: Annexon, Inc., a clinical-stage biopharmaceutical company, discovers and develops medicines for treating inflammatory-related diseases. The company's lead candidate is ANX005, an investigational full-length monoclonal antibody, which is in Phase 3 clinical trial for the treatment of patients with guillain-barré syndrome; completed Phase II clinical trial for treating Huntington's disease; and in Phase 2a clinical trial for the treatment of amyotrophic lateral sclerosis. The company is also developing ANX007, an antigen-binding fragment (Fab) that is in Phase 3 program for the treatment of patients with geographic atrophy; and ANX1502, a novel oral small molecule inhibitor, which is in Phase 1 clinical trials for autoimmune indications. In addition, it develops ANX009, a C1q-blocking Fab that is in Phase I clinical trial for treating patients with lupus nephritis. The company was incorporated in 2011 and is headquartered in Brisbane, California.

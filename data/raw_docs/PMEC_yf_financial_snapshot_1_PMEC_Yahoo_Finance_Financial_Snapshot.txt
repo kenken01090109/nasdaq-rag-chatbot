@@ -1,0 +1,25 @@
+Company: Primech Holdings Ltd. Ordinary Shares
+Ticker: PMEC
+Market Cap: 26927168
+Enterprise Value: 30216926
+Total Revenue: 74349000
+Revenue Per Share: 1.978
+EBITDA: -3582000
+Gross Margins: 0.18058
+Operating Margins: -0.111219995
+Profit Margins: -0.02612
+Free Cashflow: 6261375
+Operating Cashflow: 7382000
+Return On Assets: -0.07329
+Return On Equity: -0.14930001
+Total Cash: 11034000
+Total Debt: 15475000
+Debt To Equity: 105.423
+Current Ratio: 1.39
+Quick Ratio: 1.349
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.8064433
+Beta: 1.453
+52 Week High: 2.44
+52 Week Low: 0.6

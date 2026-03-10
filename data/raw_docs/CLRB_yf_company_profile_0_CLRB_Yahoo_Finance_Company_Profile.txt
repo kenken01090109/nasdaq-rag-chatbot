@@ -1,0 +1,9 @@
+Company: Cellectar Biosciences Inc.  Common Stock
+Ticker: CLRB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Florham Park
+Website: https://www.cellectar.com
+Employees: 11
+Business Summary: Cellectar Biosciences, Inc., a clinical biopharmaceutical company, focuses on the discovery, development, and commercialization of drugs for the treatment of cancer in the United States. The company's lead phospholipid drug conjugate (PDC) candidate is CLR 131 (iopofosine I-131), which is in Phase 2 clinical study for patients with B-cell malignancies; Phase 2a clinical study for patients with relapsed or refractory (r/r) Waldenstrom's macroglobulinemia cohort, r/r multiple myeloma (MM) cohort, and r/r non-Hodgkin's lymphoma cohort; Phase 1 clinical study for r/r pediatric patients with select solid tumors, lymphomas, and malignant brain tumors; and Phase 1 clinical study for r/r head and neck cancer. It also develops CLR 1900, a PDC chemotherapeutic program that is in the preclinical development stage to treat solid tumors. It has collaborative with Orano Med to develop CLR 12120 Series; and LegoChem Bio. Cellectar Biosciences, Inc. was founded in 2002 and is headquartered in Florham Park, New Jersey.

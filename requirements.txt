@@ -1,0 +1,14 @@
+streamlit>=1.36.0
+chromadb>=0.5.5
+sentence-transformers>=3.0.1
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+pandas>=2.2.2
+rank-bm25>=0.2.2
+rapidfuzz>=3.9.6
+yfinance>=0.2.41
+google-genai>=1.0.0
+google-api-core>=2.19.1
+python-dotenv>=1.0.1
+torch>=2.2.0
+scikit-learn>=1.5.1

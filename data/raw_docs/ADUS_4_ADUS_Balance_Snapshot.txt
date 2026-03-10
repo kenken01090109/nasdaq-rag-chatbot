@@ -1,0 +1,8 @@
+Company: Addus HomeCare Corporation Common Stock
+Ticker: ADUS
+Total Cash: 81617000
+Total Debt: 171362000
+Debt To Equity: 15.789
+Current Ratio: 1.803
+Quick Ratio: 1.631
+Book Value: 59.839

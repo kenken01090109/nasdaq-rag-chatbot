@@ -1,0 +1,11 @@
+Company: ClearOne Inc. (DE) Common Stock
+Ticker: CLRO
+CIK: 0000840715
+Latest SEC XBRL Facts:
+Revenues: 46067000 | unit=USD | filed=2012-04-02 | period_end=2011-12-31
+NetIncomeLoss: -21142000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 9473000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5254000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 3461000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2568000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 101000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

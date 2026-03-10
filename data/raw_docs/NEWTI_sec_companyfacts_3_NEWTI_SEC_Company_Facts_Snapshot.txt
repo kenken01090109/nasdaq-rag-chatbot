@@ -1,0 +1,11 @@
+Company: NewtekOne Inc. 8.00% Fixed Rate Senior Notes due 2028
+Ticker: NEWTI
+CIK: 0001587987
+Latest SEC XBRL Facts:
+Revenues: 112381000 | unit=USD | filed=2014-11-14 | period_end=2014-09-30
+NetIncomeLoss: 40971000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2399099000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2012392000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 386707000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -427836000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4402000 | unit=USD | filed=2014-11-14 | period_end=2014-09-30

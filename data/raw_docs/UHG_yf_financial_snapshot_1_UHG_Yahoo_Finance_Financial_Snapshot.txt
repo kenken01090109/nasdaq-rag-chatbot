@@ -1,0 +1,25 @@
+Company: United Homes Group Inc Class A Common Stock
+Ticker: UHG
+Market Cap: 68238360
+Enterprise Value: 192409952
+Total Revenue: 418113024
+Revenue Per Share: 7.376
+EBITDA: 171986
+Gross Margins: 0.1668
+Operating Margins: -0.00393
+Profit Margins: -0.04494
+Free Cashflow: -29771052
+Operating Cashflow: 6423642
+Return On Assets: -0.00124
+Return On Equity: -0.51691
+Total Cash: 25649000
+Total Debt: 149247008
+Debt To Equity: 282.082
+Current Ratio: 2.888
+Quick Ratio: 0.409
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.2888889
+Beta: 1.192
+52 Week High: 4.78
+52 Week Low: 0.987

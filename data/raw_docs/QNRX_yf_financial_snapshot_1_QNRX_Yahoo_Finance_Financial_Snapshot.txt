@@ -1,0 +1,25 @@
+Company: Quoin Pharmaceuticals Ltd. American Depositary Shares
+Ticker: QNRX
+Market Cap: 14012281
+Enterprise Value: 251648624
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -14075342
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -5690525
+Operating Cashflow: -10742488
+Return On Assets: -0.99474
+Return On Equity: -6.51401
+Total Cash: 5412678
+Total Debt: 2473733
+Debt To Equity: 
+Current Ratio: 1.044
+Quick Ratio: 0.939
+Trailing PE: 
+Forward PE: -1.5621622
+Price To Book: -4.1985474
+Beta: 1.822
+52 Week High: 41.8
+52 Week Low: 5.01

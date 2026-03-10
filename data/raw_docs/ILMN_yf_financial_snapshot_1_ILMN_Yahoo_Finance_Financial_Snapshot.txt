@@ -1,0 +1,25 @@
+Company: Illumina Inc. Common Stock
+Ticker: ILMN
+Market Cap: 19054397440
+Enterprise Value: 20527896576
+Total Revenue: 4343000064
+Revenue Per Share: 28.019
+EBITDA: 1139000064
+Gross Margins: 0.68248004
+Operating Margins: 0.19672
+Profit Margins: 0.19572
+Free Cashflow: 786000000
+Operating Cashflow: 1079000064
+Return On Assets: 0.083900005
+Return On Equity: 0.33359
+Total Cash: 1632999936
+Total Debt: 2552999936
+Debt To Equity: 93.757
+Current Ratio: 2.075
+Quick Ratio: 1.582
+Trailing PE: 22.866056
+Forward PE: 21.353447
+Price To Book: 7.0023036
+Beta: 1.503
+52 Week High: 155.53
+52 Week Low: 68.7

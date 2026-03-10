@@ -1,0 +1,12 @@
+Company: Sarepta Therapeutics Inc. Common Stock (DE)
+Ticker: SRPT
+CIK: 0000873303
+Latest SEC XBRL Facts:
+Revenues: 1755303000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1494689000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -430563000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3493437000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2173317000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1320120000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -336685000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 613077000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

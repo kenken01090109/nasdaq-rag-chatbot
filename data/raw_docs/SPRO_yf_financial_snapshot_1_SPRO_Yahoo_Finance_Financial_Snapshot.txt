@@ -1,0 +1,25 @@
+Company: Spero Therapeutics Inc. Common Stock
+Ticker: SPRO
+Market Cap: 129580376
+Enterprise Value: 84315376
+Total Revenue: 40549000
+Revenue Per Share: 0.73
+EBITDA: -45092500
+Gross Margins: -0.52189
+Operating Margins: -1.34675
+Profit Margins: -1.08106
+Free Cashflow: -7339750
+Operating Cashflow: -27674000
+Return On Assets: -0.29772
+Return On Equity: -0.95295
+Total Cash: 48616000
+Total Debt: 3351000
+Debt To Equity: 12.648
+Current Ratio: 3.833
+Quick Ratio: 3.742
+Trailing PE: 
+Forward PE: -2.072072
+Price To Book: 4.893617
+Beta: 1.528
+52 Week High: 3.22
+52 Week Low: 0.505

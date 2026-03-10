@@ -1,0 +1,11 @@
+Company: Westrock Coffee Company Common Stock
+Ticker: WEST
+CIK: 0001806347
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 849480000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -67884000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1178012000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 892980000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 11442000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -55703000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 33971000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

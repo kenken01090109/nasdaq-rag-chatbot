@@ -1,0 +1,25 @@
+Company: Editas Medicine Inc. Common Stock
+Ticker: EDIT
+Market Cap: 195237312
+Enterprise Value: 38991360
+Total Revenue: 46383000
+Revenue Per Share: 0.545
+EBITDA: -112038000
+Gross Margins: -1.39657
+Operating Margins: -3.25441
+Profit Margins: 0.0
+Free Cashflow: -65967500
+Operating Cashflow: -179616000
+Return On Assets: -0.28263
+Return On Equity: -2.11368
+Total Cash: 165648000
+Total Debt: 19652000
+Debt To Equity: 146.079
+Current Ratio: 2.864
+Quick Ratio: 2.813
+Trailing PE: 
+Forward PE: -1.749215
+Price To Book: 13.888889
+Beta: 2.189
+52 Week High: 4.537
+52 Week Low: 0.91

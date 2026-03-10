@@ -1,0 +1,12 @@
+Company: Gauzy Ltd. Ordinary Shares
+Ticker: GAUZ
+CIK: 0001781446
+Latest SEC XBRL Facts:
+Revenues: 42421000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 42421000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetIncomeLoss: -21514000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Assets: 136806000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Liabilities: 118946000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+StockholdersEquity: 17860000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3870000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1235000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

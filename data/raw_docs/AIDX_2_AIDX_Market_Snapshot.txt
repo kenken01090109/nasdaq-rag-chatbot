@@ -1,0 +1,10 @@
+Company: 20/20 Biolabs Inc. Common Stock
+Ticker: AIDX
+Market Cap: 32076418
+Enterprise Value: 15305597
+Trailing PE: 
+Forward PE: 
+Price To Book: 258.3333
+Beta: -0.425
+52 Week High: 50.0
+52 Week Low: 2.81

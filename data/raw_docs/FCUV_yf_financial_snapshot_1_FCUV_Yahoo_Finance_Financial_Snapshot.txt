@@ -1,0 +1,25 @@
+Company: Focus Universal Inc. Common Stock
+Ticker: FCUV
+Market Cap: 4301245
+Enterprise Value: 2690892
+Total Revenue: 387457
+Revenue Per Share: 0.533
+EBITDA: -5984604
+Gross Margins: -0.28531
+Operating Margins: -41.14385
+Profit Margins: 0.0
+Free Cashflow: -2842022
+Operating Cashflow: -4706957
+Return On Assets: -1.0552
+Return On Equity: -2.0938902
+Total Cash: 517613
+Total Debt: 20534
+Debt To Equity: 11.747
+Current Ratio: 1.093
+Quick Ratio: 0.744
+Trailing PE: 
+Forward PE: 
+Price To Book: 18.24268
+Beta: 0.416
+52 Week High: 61.4
+52 Week Low: 4.13

@@ -1,0 +1,12 @@
+Company: Alnylam Pharmaceuticals Inc. Common Stock
+Ticker: ALNY
+CIK: 0001178670
+Latest SEC XBRL Facts:
+Revenues: 702383000 | unit=USD | filed=2022-10-27 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2616904000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 127328000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 4851662000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 4617768000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 233894000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 360525000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1490249000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

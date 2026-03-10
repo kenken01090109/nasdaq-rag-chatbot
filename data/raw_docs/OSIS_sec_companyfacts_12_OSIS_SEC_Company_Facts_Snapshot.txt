@@ -1,0 +1,11 @@
+Company: OSI Systems Inc. Common Stock (DE)
+Ticker: OSIS
+CIK: 0001039065
+Latest SEC XBRL Facts:
+Revenues: 801960000 | unit=USD | filed=2018-04-30 | period_end=2018-03-31
+NetIncomeLoss: 59255000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Assets: 2522241000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Liabilities: 1676751000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+StockholdersEquity: 845490000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 79337000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 336722000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31

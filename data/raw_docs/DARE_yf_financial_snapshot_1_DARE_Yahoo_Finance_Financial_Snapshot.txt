@@ -1,0 +1,25 @@
+Company: Dare Bioscience Inc. Common Stock
+Ticker: DARE
+Market Cap: 21862520
+Enterprise Value: 1719805
+Total Revenue: -57130
+Revenue Per Share: -0.006
+EBITDA: -16362804
+Gross Margins: 0.0
+Operating Margins: -1623.4077
+Profit Margins: 0.0
+Free Cashflow: -938184
+Operating Cashflow: -6103524
+Return On Assets: -0.4474
+Return On Equity: -25.431341
+Total Cash: 23075260
+Total Debt: 2932546
+Debt To Equity: 102.612
+Current Ratio: 1.179
+Quick Ratio: 1.105
+Trailing PE: 
+Forward PE: -6.6521735
+Price To Book: 7.4634147
+Beta: 0.982
+52 Week High: 9.19
+52 Week Low: 1.52

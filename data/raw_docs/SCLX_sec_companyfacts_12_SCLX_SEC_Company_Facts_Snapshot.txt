@@ -1,0 +1,11 @@
+Company: Scilex Holding Company Common Stock
+Ticker: SCLX
+CIK: 0001820190
+Latest SEC XBRL Facts:
+Revenues: 25460000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -327948000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 275879000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 455598000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -176936000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21287000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 878000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

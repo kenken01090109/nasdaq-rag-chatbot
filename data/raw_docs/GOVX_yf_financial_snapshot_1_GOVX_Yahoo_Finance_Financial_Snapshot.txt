@@ -1,0 +1,25 @@
+Company: GeoVax Labs Inc. Common Stock
+Ticker: GOVX
+Market Cap: 3980204
+Enterprise Value: -2941504
+Total Revenue: 3353560
+Revenue Per Share: 5.398
+EBITDA: -25469526
+Gross Margins: 0.0
+Operating Margins: -7.61629
+Profit Margins: 0.0
+Free Cashflow: -14961973
+Operating Cashflow: -24265744
+Return On Assets: -1.78931
+Return On Equity: -3.77438
+Total Cash: 5008997
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.573
+Quick Ratio: 2.746
+Trailing PE: 
+Forward PE: -2.0813954
+Price To Book: 0.433414
+Beta: 3.88
+52 Week High: 47.125
+52 Week Low: 1.26

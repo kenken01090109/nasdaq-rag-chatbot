@@ -1,0 +1,11 @@
+Company: JBDI Holdings Limited Ordinary Shares
+Ticker: JBDI
+CIK: 0001964314
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 8445000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31
+NetIncomeLoss: -2720000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31
+Assets: 6495000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31
+Liabilities: 2535000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31
+StockholdersEquity: 3960000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31
+NetCashProvidedByUsedInOperatingActivities: -3367000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31
+CashAndCashEquivalentsAtCarryingValue: 2727000 | unit=USD | filed=2025-10-14 | period_end=2025-05-31

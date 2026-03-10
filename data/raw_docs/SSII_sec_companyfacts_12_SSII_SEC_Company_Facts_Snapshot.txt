@@ -1,0 +1,12 @@
+Company: SS Innovations International Inc. Common Stock
+Ticker: SSII
+CIK: 0001676163
+Latest SEC XBRL Facts:
+Revenues: 27950264 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2261933 | unit=USD | filed=2025-01-14 | period_end=2023-06-30
+NetIncomeLoss: -9656008 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 69577027 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 29927721 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 39649306 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17023417 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5681657 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: CF Bankshares Inc. Common Stock
+Ticker: CFBK
+CIK: 0001070680
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 408000 | unit=USD | filed=2019-11-12 | period_end=2019-09-30
+NetIncomeLoss: 11805000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2111017000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1931726000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 179291000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15642000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 272361000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

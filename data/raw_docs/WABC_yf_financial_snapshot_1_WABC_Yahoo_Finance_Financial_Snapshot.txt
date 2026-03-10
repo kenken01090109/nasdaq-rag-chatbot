@@ -1,0 +1,25 @@
+Company: Westamerica Bancorporation Common Stock
+Ticker: WABC
+Market Cap: 1251140608
+Enterprise Value: 813586688
+Total Revenue: 258400000
+Revenue Per Share: 10.065
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.61182
+Profit Margins: 0.44959
+Free Cashflow: 
+Operating Cashflow: 121897000
+Return On Assets: 0.019299999
+Return On Equity: 0.12742
+Total Cash: 567801024
+Total Debt: 159504000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.10177
+Forward PE: 11.947619
+Price To Book: 1.3235915
+Beta: 0.592
+52 Week High: 53.48
+52 Week Low: 42.0

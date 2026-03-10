@@ -1,0 +1,25 @@
+Company: Ericsson American Depositary Shares
+Ticker: ERIC
+Market Cap: 37442490368
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 37433999360
+Gross Margins: 0.48143002
+Operating Margins: 0.0
+Profit Margins: 0.12011
+Free Cashflow: 18859999232
+Operating Cashflow: 
+Return On Assets: 0.07078
+Return On Equity: 0.28254998
+Total Cash: 
+Total Debt: 
+Debt To Equity: 36.516
+Current Ratio: 1.294
+Quick Ratio: 1.034
+Trailing PE: 11.967742
+Forward PE: 16.443335
+Price To Book: 0.36146927
+Beta: 0.574
+52 Week High: 11.64
+52 Week Low: 6.64

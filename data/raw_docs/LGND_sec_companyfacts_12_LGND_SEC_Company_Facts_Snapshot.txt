@@ -1,0 +1,12 @@
+Company: Ligand Pharmaceuticals Incorporated Common Stock
+Ticker: LGND
+CIK: 0000886163
+Latest SEC XBRL Facts:
+Revenues: 56157000 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 208421000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 79669000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1476772000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 526601000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 950171000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3444000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 139376000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

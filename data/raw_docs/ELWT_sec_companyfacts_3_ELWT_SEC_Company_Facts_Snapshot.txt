@@ -1,0 +1,11 @@
+Company: Elauwit Connection Inc. Common Stock
+Ticker: ELWT
+CIK: 0002063863
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 16939000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+NetIncomeLoss: -547000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+Assets: 9086000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+Liabilities: 14139000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+StockholdersEquity: -5053000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1308000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 762000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Forum Markets Incorporated Common Stock
+Ticker: FRMM
+Market Cap: 54945352
+Enterprise Value: 557649344
+Total Revenue: 4110169
+Revenue Per Share: 1.21
+EBITDA: -226656496
+Gross Margins: 1.0
+Operating Margins: -53.64606
+Profit Margins: 0.0
+Free Cashflow: -441101376
+Operating Cashflow: -19352990
+Return On Assets: -0.27787
+Return On Equity: -0.96472
+Total Cash: 53309508
+Total Debt: 546762304
+Debt To Equity: 122.83
+Current Ratio: 10.073
+Quick Ratio: 1.007
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.104024194
+Beta: 1.01
+52 Week High: 174.6
+52 Week Low: 2.798

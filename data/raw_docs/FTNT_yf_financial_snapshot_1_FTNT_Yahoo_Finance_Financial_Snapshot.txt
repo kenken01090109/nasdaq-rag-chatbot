@@ -1,0 +1,25 @@
+Company: Fortinet Inc. Common Stock
+Ticker: FTNT
+Market Cap: 62221037568
+Enterprise Value: 59943649280
+Total Revenue: 6799600128
+Revenue Per Share: 8.97
+EBITDA: 2226299904
+Gross Margins: 0.80456
+Operating Margins: 0.32766
+Profit Margins: 0.27257
+Free Cashflow: 1746974976
+Operating Cashflow: 2590599936
+Return On Assets: 0.12866001
+Return On Equity: 1.3571601
+Total Cash: 3582500096
+Total Debt: 1061800000
+Debt To Equity: 85.802
+Current Ratio: 1.172
+Quick Ratio: 1.048
+Trailing PE: 34.57438
+Forward PE: 25.27321
+Price To Book: 50.222088
+Beta: 1.04
+52 Week High: 109.33
+52 Week Low: 70.12

@@ -1,0 +1,9 @@
+Company: IN8bio Inc. Common Stock
+Ticker: INAB
+CIK: 0001740279
+Latest SEC XBRL Facts:
+NetIncomeLoss: -14498000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 16768000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3579000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 13189000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10573000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

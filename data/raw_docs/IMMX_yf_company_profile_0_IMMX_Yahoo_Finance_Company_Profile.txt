@@ -1,0 +1,9 @@
+Company: Immix Biopharma Inc. Common Stock
+Ticker: IMMX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Los Angeles
+Website: https://www.immixbio.com
+Employees: 18
+Business Summary: Immix Biopharma, Inc., a clinical-stage biopharmaceutical company, engages in the development of chimeric antigen receptor cell therapy in light chain Amyloidosis and immune-mediated diseases in the United States and Australia. The company' lead product is NXC-201 for relapsed/refractory AL Amyloidos. It has a clinical collaboration and supply agreement with BeiGene Ltd. for a combination Phase 1b clinical trial in solid tumors of IMX-110 and anti-PD-1 Tislelizumab. Immix Biopharma, Inc., was incorporated in 2012 and is headquartered in Los Angeles, California.

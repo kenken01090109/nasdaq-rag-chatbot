@@ -1,0 +1,9 @@
+Company: Prenetics Global Limited Class A Ordinary Share
+Ticker: PRE
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: Hong Kong
+City: Quarry Bay
+Website: https://www.prenetics.com
+Employees: 
+Business Summary: Prenetics Global Limited, a health sciences company, focuses on advancing consumer health in Hong Kong, the United States, and internationally. It sells health and wellness products under the IM8 brand name; and provides fulfillment and distribution services for sports nutrition products under the Europa brand. The company is also involved in the operation of CircleDNA, a consumer genetic testing brand that uses next-generation sequencing (NGS) technology to provide comprehensive insights into health, wellness, and genetic predispositions. Prenetics Global Limited was founded in 2014 and is headquartered in Quarry Bay, Hong Kong.

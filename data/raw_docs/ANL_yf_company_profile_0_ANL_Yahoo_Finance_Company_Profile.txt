@@ -1,0 +1,9 @@
+Company: Adlai Nortye Ltd. American Depositary Shares
+Ticker: ANL
+Sector: Healthcare
+Industry: Biotechnology
+Country: Cayman Islands
+City: Grand Cayman
+Website: https://www.adlainortye.com
+Employees: 123
+Business Summary: Adlai Nortye Ltd., a clinical-stage biotechnology company, engages in the research and development of pharmaceutical products. Its lead product is AN2025, a pan-phosphoinositide 3-kinase inhibitor, which is in Phase III clinical trials for the treatment of recurrent or metastatic head and neck squamous cell carcinomas. The company is also developing AN0025, a small molecule prostaglandin E receptor 4 antagonist to modulate the tumor microenvironment that is in a Phase Ib clinical trial for the treatment of recurrent non-small cell lung cancer and urothelial cancer after anti-PD-1/PD-L1 treatments, recurrent triple-negative breast cancer, microsatellite stable colorectal cancer, and cervical cancer after standard of care treatments; and AN4005, an oral small-molecule PD-L1 inhibitor, which is in Phase I clinical trials to induce and stabilize PD-L1 dimerization and disrupt the interaction between PD-1 and PD-L1. Its preclinical candidates include AN8025, a multifunctional antibody as T cell and antigen-presenting cell modulator; and AN9025, an oral small molecule pan-KRAS inhibitor. The company was founded in 2004 and is based in Grand Cayman, the Cayman Islands.

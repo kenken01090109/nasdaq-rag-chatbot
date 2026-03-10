@@ -1,0 +1,25 @@
+Company: Aurinia Pharmaceuticals Inc Ordinary Shares
+Ticker: AUPH
+Market Cap: 1904144384
+Enterprise Value: 1636860288
+Total Revenue: 283055008
+Revenue Per Share: 2.107
+EBITDA: 135710000
+Gross Margins: 0.76975995
+Operating Margins: 0.55682
+Profit Margins: 1.01465
+Free Cashflow: 91408872
+Operating Cashflow: 135658000
+Return On Assets: 0.1116
+Return On Equity: 0.59908
+Total Cash: 397944000
+Total Debt: 74812000
+Debt To Equity: 12.869
+Current Ratio: 5.249
+Quick Ratio: 4.696
+Trailing PE: 6.9178743
+Forward PE: 17.1497
+Price To Book: 3.2597313
+Beta: 1.586
+52 Week High: 16.54
+52 Week Low: 6.825

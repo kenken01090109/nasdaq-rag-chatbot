@@ -1,0 +1,25 @@
+Company: CareDx Inc. Common Stock
+Ticker: CDNA
+Market Cap: 952230080
+Enterprise Value: 765246400
+Total Revenue: 379804992
+Revenue Per Share: 7.127
+EBITDA: -7795000
+Gross Margins: 0.67552
+Operating Margins: -0.03489
+Profit Margins: -0.056220002
+Free Cashflow: 45754876
+Operating Cashflow: 42032000
+Return On Assets: -0.03153
+Return On Equity: -0.06266
+Total Cash: 177208000
+Total Debt: 26194000
+Debt To Equity: 8.642
+Current Ratio: 2.862
+Quick Ratio: 2.447
+Trailing PE: 13.9765625
+Forward PE: 16.387735
+Price To Book: 3.0052073
+Beta: 2.585
+52 Week High: 21.485
+52 Week Low: 10.96

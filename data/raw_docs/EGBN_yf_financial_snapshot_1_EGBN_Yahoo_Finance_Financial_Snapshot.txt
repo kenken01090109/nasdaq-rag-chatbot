@@ -1,0 +1,25 @@
+Company: Eagle Bancorp Inc. Common Stock
+Ticker: EGBN
+Market Cap: 767784896
+Enterprise Value: 183775840
+Total Revenue: 3974000
+Revenue Per Share: 0.131
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.19584998
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 44499000
+Return On Assets: -0.01089
+Return On Equity: -0.10245
+Total Cash: 695692992
+Total Debt: 111684000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 9.827017
+Price To Book: 0.68329865
+Beta: 1.006
+52 Week High: 29.26
+52 Week Low: 15.03

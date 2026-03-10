@@ -1,0 +1,25 @@
+Company: Altisource Portfolio Solutions S.A. Net Settle Stakeholder Warrants
+Ticker: ASPSW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 170975008
+Revenue Per Share: 16.985
+EBITDA: 13634000
+Gross Margins: 0.28607
+Operating Margins: 0.022130001
+Profit Margins: 0.00945
+Free Cashflow: 6949625
+Operating Cashflow: -5065000
+Return On Assets: 0.03499
+Return On Equity: 
+Total Cash: 26603000
+Total Debt: 191086000
+Debt To Equity: 
+Current Ratio: 1.153
+Quick Ratio: 0.947
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.041895263
+Beta: 
+52 Week High: 0.45
+52 Week Low: 0.4

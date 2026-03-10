@@ -1,0 +1,25 @@
+Company: Photronics Inc. Common Stock
+Ticker: PLAB
+Market Cap: 1937320192
+Enterprise Value: 1832562176
+Total Revenue: 862222016
+Revenue Per Share: 14.731
+EBITDA: 287457984
+Gross Margins: 0.35141
+Operating Margins: 0.24375
+Profit Margins: 0.1583
+Free Cashflow: 36478500
+Operating Cashflow: 266586000
+Return On Assets: 0.07309
+Return On Equity: 0.12222999
+Total Cash: 636870976
+Total Debt: 21000
+Debt To Equity: 0.001
+Current Ratio: 4.579
+Quick Ratio: 4.047
+Trailing PE: 14.017095
+Forward PE: 14.137931
+Price To Book: 1.5648855
+Beta: 1.501
+52 Week High: 45.4
+52 Week Low: 16.46

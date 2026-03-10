@@ -1,0 +1,25 @@
+Company: Henry Schein Inc. Common Stock
+Ticker: HSIC
+Market Cap: 9135444992
+Enterprise Value: 14027829248
+Total Revenue: 13184000000
+Revenue Per Share: 109.126
+EBITDA: 1023000000
+Gross Margins: 0.31136
+Operating Margins: 0.052950002
+Profit Margins: 0.03019
+Free Cashflow: 383000000
+Operating Cashflow: 712000000
+Return On Assets: 0.043270003
+Return On Equity: 0.08701
+Total Cash: 156000000
+Total Debt: 3439000064
+Debt To Equity: 71.736
+Current Ratio: 1.383
+Quick Ratio: 0.56
+Trailing PE: 23.730886
+Forward PE: 13.125513
+Price To Book: 2.7685611
+Beta: 0.852
+52 Week High: 89.29
+52 Week Low: 60.56

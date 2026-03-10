@@ -1,0 +1,25 @@
+Company: Encore Capital Group Inc Common Stock
+Ticker: ECPG
+Market Cap: 1576423808
+Enterprise Value: 5482383872
+Total Revenue: 1768802048
+Revenue Per Share: 76.13
+EBITDA: 869318016
+Gross Margins: 1.0
+Operating Margins: 0.81787
+Profit Margins: 0.1452
+Free Cashflow: -243527008
+Operating Cashflow: 153199008
+Return On Assets: 0.10373
+Return On Equity: 0.29452
+Total Cash: 156784000
+Total Debt: 4083068928
+Debt To Equity: 418.026
+Current Ratio: 16.108
+Quick Ratio: 15.937
+Trailing PE: 6.4784603
+Forward PE: 5.2924
+Price To Book: 1.5694112
+Beta: 1.314
+52 Week High: 74.58
+52 Week Low: 26.45

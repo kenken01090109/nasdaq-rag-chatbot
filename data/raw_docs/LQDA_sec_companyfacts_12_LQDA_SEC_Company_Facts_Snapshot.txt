@@ -1,0 +1,11 @@
+Company: Liquidia Corporation Common Stock
+Ticker: LQDA
+CIK: 0001819576
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 66299000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -83479000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 275981000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 253929000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 22052000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -79930000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 157496000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Vicor Corporation Common Stock
+Ticker: VICR
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Andover
+Website: https://www.vicorpower.com
+Employees: 1092
+Business Summary: Vicor Corporation, together with its subsidiaries, designs, develops, manufactures, and markets modular power components and power systems for converting electrical power for use in electrically powered devices in the United States, Europe, the Asia Pacific, and internationally. The company offers a range of brick-format DC-DC converters; complementary components that provide AC line rectification, input filtering, power factor correction, and transient protection; and input and output voltage, and output power products, as well as sells electrical and mechanical accessories. It also designs, sells, and services custom power system solutions. It serves independent manufacturers of electronic devices, original equipment manufacturers, original design manufacturers, and their contract manufacturers in the aerospace and aviation, defense electronics, satellites, factory automation, instrumentation, test equipment, transportation, telecommunications and networking infrastructure, and vehicle markets. Vicor Corporation was incorporated in 1981 and is headquartered in Andover, Massachusetts.

@@ -1,0 +1,25 @@
+Company: Oak Woods Acquisition Corporation Class A Ordinary Shares
+Ticker: OAKU
+Market Cap: 37743336
+Enterprise Value: 42086784
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 54119
+Operating Cashflow: -631113
+Return On Assets: -0.025020001
+Return On Equity: -0.00605
+Total Cash: 1930
+Total Debt: 4345375
+Debt To Equity: 12.774
+Current Ratio: 0.004
+Quick Ratio: 0.0
+Trailing PE: 16.54054
+Forward PE: 
+Price To Book: 1.9278626
+Beta: -0.011
+52 Week High: 13.0
+52 Week Low: 11.5

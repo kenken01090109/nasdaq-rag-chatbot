@@ -1,0 +1,25 @@
+Company: Cue Biopharma Inc. Common Stock
+Ticker: CUE
+Market Cap: 27353074
+Enterprise Value: 9359573
+Total Revenue: 7100000
+Revenue Per Share: 0.082
+EBITDA: -37730000
+Gross Margins: 0.0
+Operating Margins: -3.51047
+Profit Margins: 0.0
+Free Cashflow: -14680375
+Operating Cashflow: -29639000
+Return On Assets: -0.62305
+Return On Equity: -1.95188
+Total Cash: 20419000
+Total Debt: 6173000
+Debt To Equity: 46.603
+Current Ratio: 1.663
+Quick Ratio: 1.463
+Trailing PE: 
+Forward PE: -0.62458336
+Price To Book: 1.7635294
+Beta: 1.554
+52 Week High: 1.13
+52 Week Low: 0.23

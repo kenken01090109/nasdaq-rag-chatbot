@@ -1,0 +1,25 @@
+Company: Oculis Holding AG Ordinary shares
+Ticker: OCS
+Market Cap: 1563260416
+Enterprise Value: 1301259520
+Total Revenue: 791000
+Revenue Per Share: 0.016
+EBITDA: -77789000
+Gross Margins: 0.0
+Operating Margins: -83.52263
+Profit Margins: 0.0
+Free Cashflow: -29590624
+Operating Cashflow: -58847000
+Return On Assets: -0.33353
+Return On Equity: -0.92195
+Total Cash: 145180000
+Total Debt: 2466000
+Debt To Equity: 1.888
+Current Ratio: 4.474
+Quick Ratio: 4.373
+Trailing PE: 
+Forward PE: -12.483077
+Price To Book: 8.455989
+Beta: 0.147
+52 Week High: 30.68
+52 Week Low: 14.0

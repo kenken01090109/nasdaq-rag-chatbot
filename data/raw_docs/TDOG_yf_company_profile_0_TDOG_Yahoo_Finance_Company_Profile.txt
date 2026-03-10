@@ -1,0 +1,9 @@
+Company: 21Shares Dogecoin ETF Common Shares of Beneficial Interest
+Ticker: TDOG
+Sector: 
+Industry: 
+Country: 
+City: 
+Website: 
+Employees: 
+Business Summary: In seeking to achieve its investment objective, the Trust will hold Dogecoin. The Trust is sponsored by 21Shares U.S. LLC (the “Sponsor”), a wholly-owned subsidiary of 21co Holdings Limited (formerly known as Amun Holdings Limited). The ultimate parent company of 21co Holdings Limited is FalconX Holdings Limited (“FalconX”), a leading institutional digital asset prime brokerage.

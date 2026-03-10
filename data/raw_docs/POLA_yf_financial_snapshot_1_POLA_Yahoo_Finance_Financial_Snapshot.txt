@@ -1,0 +1,25 @@
+Company: Polar Power Inc. Common Stock
+Ticker: POLA
+Market Cap: 3855830
+Enterprise Value: 9876667
+Total Revenue: 8326000
+Revenue Per Share: 3.316
+EBITDA: -7458000
+Gross Margins: -0.30639
+Operating Margins: -2.68814
+Profit Margins: -1.0413201
+Free Cashflow: 2369875
+Operating Cashflow: -725000
+Return On Assets: -0.28298
+Return On Equity: -1.19917
+Total Cash: 4000
+Total Debt: 5999000
+Debt To Equity: 206.933
+Current Ratio: 1.251
+Quick Ratio: 0.091
+Trailing PE: 
+Forward PE: -6.545455
+Price To Book: 1.2478336
+Beta: 1.366
+52 Week High: 5.75
+52 Week Low: 1.31

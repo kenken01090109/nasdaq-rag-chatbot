@@ -1,0 +1,12 @@
+Company: Greenwave Technology Solutions Inc. Common Stock
+Ticker: GWAV
+CIK: 0001589149
+Latest SEC XBRL Facts:
+Revenues: 1660 | unit=USD | filed=2021-12-07 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 31049810 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+NetIncomeLoss: -14861018 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+Assets: 59850782 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+Liabilities: 27178210 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+StockholdersEquity: 32672572 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5860291 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1082 | unit=USD | filed=2021-12-07 | period_end=2021-09-30

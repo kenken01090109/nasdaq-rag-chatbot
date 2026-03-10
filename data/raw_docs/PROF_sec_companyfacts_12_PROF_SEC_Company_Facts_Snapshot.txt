@@ -1,0 +1,12 @@
+Company: Profound Medical Corp. Common Stock
+Ticker: PROF
+CIK: 0001628808
+Latest SEC XBRL Facts:
+Revenues: 10121000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9381000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -34395000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 42305000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 10162000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 32143000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31641000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24826000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

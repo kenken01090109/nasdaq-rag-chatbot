@@ -1,0 +1,9 @@
+Company: Chagee Holdings Limited American Depositary Shares
+Ticker: CHA
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: China
+City: Shanghai
+Website: https://chagee.com/en
+Employees: 4800
+Business Summary: Chagee Holdings Limited, through its subsidiaries, owns, operates, and franchises teahouses under the CHAGEE brand name in the People's Republic of China and internationally. The company engages in sale of tea drinks and related raw materials, packaging, teahouse equipment and other supplies. It operates through online platforms. The company was founded in 2017 and is based in Shanghai, the People's Republic of China.

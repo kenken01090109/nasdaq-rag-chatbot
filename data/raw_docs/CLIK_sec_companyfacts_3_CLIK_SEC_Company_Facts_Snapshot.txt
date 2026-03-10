@@ -1,0 +1,11 @@
+Company: Click Holdings Limited Class A Ordinary Share
+Ticker: CLIK
+CIK: 0002020027
+Latest SEC XBRL Facts:
+Revenues: 10711396 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+NetIncomeLoss: -1017134 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+Assets: 18131718 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+Liabilities: 2569275 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+StockholdersEquity: 13033200 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -765733 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1352635 | unit=USD | filed=2025-10-24 | period_end=2025-06-30

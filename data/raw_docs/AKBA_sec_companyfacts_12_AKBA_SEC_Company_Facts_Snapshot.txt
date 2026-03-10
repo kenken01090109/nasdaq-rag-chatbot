@@ -1,0 +1,12 @@
+Company: Akebia Therapeutics Inc. Common Stock
+Ticker: AKBA
+CIK: 0001517022
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2016-11-09 | period_end=2016-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 178574000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 6899000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 364152000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 322560000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 41592000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 36863000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 166444000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

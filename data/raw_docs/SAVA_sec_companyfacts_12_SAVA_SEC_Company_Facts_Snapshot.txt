@@ -1,0 +1,10 @@
+Company: Cassava Sciences Inc. Common Stock
+Ticker: SAVA
+CIK: 0001069530
+Latest SEC XBRL Facts:
+NetIncomeLoss: -78434000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 129733000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 48165000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 81568000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22504000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 106080000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

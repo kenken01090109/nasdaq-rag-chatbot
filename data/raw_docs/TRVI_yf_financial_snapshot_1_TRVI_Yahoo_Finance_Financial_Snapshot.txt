@@ -1,0 +1,25 @@
+Company: Trevi Therapeutics Inc. Common Stock
+Ticker: TRVI
+Market Cap: 1705460864
+Enterprise Value: 1483146112
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -51200000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -28821000
+Operating Cashflow: -44008000
+Return On Assets: -0.23927
+Return On Equity: -0.3687
+Total Cash: 194927008
+Total Debt: 823000
+Debt To Equity: 0.434
+Current Ratio: 21.933
+Quick Ratio: 21.693
+Trailing PE: 
+Forward PE: -29.72067
+Price To Book: 8.986486
+Beta: 0.99
+52 Week High: 14.39
+52 Week Low: 4.85

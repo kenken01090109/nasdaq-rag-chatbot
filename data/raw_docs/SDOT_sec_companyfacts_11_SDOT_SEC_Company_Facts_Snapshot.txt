@@ -1,0 +1,12 @@
+Company: Sadot Group Inc. Common Stock
+Ticker: SDOT
+CIK: 0001701756
+Latest SEC XBRL Facts:
+Revenues: 2038303 | unit=USD | filed=2019-06-04 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 132200000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+NetIncomeLoss: -13862000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 72963000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 49279000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 20726000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7200000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11673247 | unit=USD | filed=2022-11-10 | period_end=2022-09-30

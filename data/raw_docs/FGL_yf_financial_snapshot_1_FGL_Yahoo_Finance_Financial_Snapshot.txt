@@ -1,0 +1,25 @@
+Company: Founder Group Limited Class A Ordinary Shares
+Ticker: FGL
+Market Cap: 2595159
+Enterprise Value: 42034824
+Total Revenue: 115371000
+Revenue Per Share: 605.921
+EBITDA: -3054198
+Gross Margins: 0.08562
+Operating Margins: -0.00866
+Profit Margins: -0.046529997
+Free Cashflow: -6631617
+Operating Cashflow: -25714686
+Return On Assets: -0.03043
+Return On Equity: -0.35327
+Total Cash: 23037160
+Total Debt: 63584872
+Debt To Equity: 367.356
+Current Ratio: 1.076
+Quick Ratio: 0.855
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.31219965
+Beta: 
+52 Week High: 155.0
+52 Week Low: 7.0

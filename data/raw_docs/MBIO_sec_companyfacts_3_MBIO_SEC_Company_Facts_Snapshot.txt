@@ -1,0 +1,11 @@
+Company: Mustang Bio Inc. Common Stock
+Ticker: MBIO
+CIK: 0001680048
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2020-03-16 | period_end=2019-12-31
+NetIncomeLoss: -1383000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 19361000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 9590000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 9771000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3546000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18984000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Apogee Therapeutics Inc. Common Stock
+Ticker: APGE
+CIK: 0001974640
+Latest SEC XBRL Facts:
+NetIncomeLoss: -186456000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 626159000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 39821000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -164761000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 107914000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

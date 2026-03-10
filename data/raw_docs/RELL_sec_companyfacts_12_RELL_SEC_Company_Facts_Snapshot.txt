@@ -1,0 +1,11 @@
+Company: Richardson Electronics Ltd. Common Stock
+Ticker: RELL
+CIK: 0000355948
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 106895000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+NetIncomeLoss: 1788000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+Assets: 201766000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+Liabilities: 43291000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+StockholdersEquity: 158475000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+NetCashProvidedByUsedInOperatingActivities: 1268000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+CashAndCashEquivalentsAtCarryingValue: 33138000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29

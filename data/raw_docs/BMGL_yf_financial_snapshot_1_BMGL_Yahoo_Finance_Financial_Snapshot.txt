@@ -1,0 +1,25 @@
+Company: Basel Medical Group Ltd Ordinary Shares
+Ticker: BMGL
+Market Cap: 11083592
+Enterprise Value: 6349352
+Total Revenue: 12106794
+Revenue Per Share: 0.644
+EBITDA: -1131466
+Gross Margins: 0.26288
+Operating Margins: -0.094689995
+Profit Margins: -0.99841005
+Free Cashflow: 3945567
+Operating Cashflow: -4344125
+Return On Assets: -0.04671
+Return On Equity: -1.94559
+Total Cash: 9799814
+Total Debt: 5062075
+Debt To Equity: 104.061
+Current Ratio: 1.227
+Quick Ratio: 1.15
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.9174247
+Beta: 
+52 Week High: 9.4
+52 Week Low: 0.487

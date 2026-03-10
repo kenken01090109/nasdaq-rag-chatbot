@@ -1,0 +1,11 @@
+Company: Neogen Corporation Common Stock
+Ticker: NEOG
+CIK: 0000711377
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 433880000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetIncomeLoss: 20414000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Assets: 3359953000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Liabilities: 1255465000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+StockholdersEquity: 2104488000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 30297000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 145340000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30

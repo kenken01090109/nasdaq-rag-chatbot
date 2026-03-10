@@ -1,0 +1,25 @@
+Company: Cabaletta Bio Inc. Common Stock
+Ticker: CABA
+Market Cap: 305160704
+Enterprise Value: 171009696
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -161648992
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -73608496
+Operating Cashflow: -118859000
+Return On Assets: -0.51823
+Return On Equity: -1.01064
+Total Cash: 159931008
+Total Debt: 25780000
+Debt To Equity: 18.485
+Current Ratio: 3.598
+Quick Ratio: 3.497
+Trailing PE: 
+Forward PE: -1.8900211
+Price To Book: 2.1877158
+Beta: 3.279
+52 Week High: 3.78
+52 Week Low: 0.986

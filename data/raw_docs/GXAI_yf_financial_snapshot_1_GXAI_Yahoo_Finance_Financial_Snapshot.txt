@@ -1,0 +1,25 @@
+Company: Gaxos.ai Inc. Common Stock
+Ticker: GXAI
+Market Cap: 13995430
+Enterprise Value: -540039
+Total Revenue: 694278
+Revenue Per Share: 0.114
+EBITDA: -4471271
+Gross Margins: 1.0
+Operating Margins: -2.6386302
+Profit Margins: 0.0
+Free Cashflow: -3278689
+Operating Cashflow: -3888863
+Return On Assets: -0.26795
+Return On Equity: -0.39282
+Total Cash: 13172558
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 29.7
+Quick Ratio: 29.273
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.8185953
+Beta: 1.163
+52 Week High: 2.96
+52 Week Low: 1.0

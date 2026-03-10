@@ -1,0 +1,12 @@
+Company: Aethlon Medical Inc. Common Stock
+Ticker: AEMD
+CIK: 0000882291
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-06-27 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-06-27 | period_end=2024-03-31
+NetIncomeLoss: -5267203 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 8057128 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 1344031 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 6713097 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5248011 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 6956397 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

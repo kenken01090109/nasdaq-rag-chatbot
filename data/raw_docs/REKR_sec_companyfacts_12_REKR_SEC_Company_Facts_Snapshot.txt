@@ -1,0 +1,11 @@
+Company: Rekor Systems Inc. Common Stock
+Ticker: REKR
+CIK: 0001697851
+Latest SEC XBRL Facts:
+Revenues: 11105000 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+NetIncomeLoss: -23681000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 80979000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 44495000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 36484000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20582000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3158000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: CaliberCos Inc. Class A Common Stock
+Ticker: CWD
+CIK: 0001627282
+Latest SEC XBRL Facts:
+Revenues: 15970000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 11200000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -14077000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 82568000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 76481000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4183000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7523000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10927000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

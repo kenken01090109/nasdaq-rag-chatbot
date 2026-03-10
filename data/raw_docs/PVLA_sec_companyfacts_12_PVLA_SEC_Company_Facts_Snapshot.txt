@@ -1,0 +1,12 @@
+Company: Palvella Therapeutics Inc. Common Stock
+Ticker: PVLA
+CIK: 0001583648
+Latest SEC XBRL Facts:
+Revenues: 53000 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 26966000 | unit=USD | filed=2019-11-12 | period_end=2019-09-30
+NetIncomeLoss: -29001000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 66937000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 28255000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 38682000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20080000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63567000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

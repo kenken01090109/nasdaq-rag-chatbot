@@ -1,0 +1,8 @@
+Company: Aldabra 4 Liquidity Opportunity Vehicle Inc. Units
+Ticker: ALOVU
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: -0.007

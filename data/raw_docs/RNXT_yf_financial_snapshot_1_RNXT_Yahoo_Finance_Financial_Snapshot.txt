@@ -1,0 +1,25 @@
+Company: RenovoRx Inc. Common Stock
+Ticker: RNXT
+Market Cap: 28960764
+Enterprise Value: 20996254
+Total Revenue: 928000
+Revenue Per Share: 0.029
+EBITDA: 
+Gross Margins: 0.6778
+Operating Margins: -12.029699
+Profit Margins: 0.0
+Free Cashflow: -6499500
+Operating Cashflow: -10383000
+Return On Assets: -0.68394995
+Return On Equity: -1.4661
+Total Cash: 10044000
+Total Debt: 236000
+Debt To Equity: 2.922
+Current Ratio: 5.828
+Quick Ratio: 5.421
+Trailing PE: 
+Forward PE: -2.9266665
+Price To Book: 3.591818
+Beta: 1.334
+52 Week High: 1.45
+52 Week Low: 0.701

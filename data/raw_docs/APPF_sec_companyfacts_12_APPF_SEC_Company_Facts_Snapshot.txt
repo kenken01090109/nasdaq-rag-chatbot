@@ -1,0 +1,11 @@
+Company: AppFolio Inc. Class A Common Stock
+Ticker: APPF
+CIK: 0001433195
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 702630000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 101009000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 640465000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 141597000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 498868000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 177115000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 76093000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

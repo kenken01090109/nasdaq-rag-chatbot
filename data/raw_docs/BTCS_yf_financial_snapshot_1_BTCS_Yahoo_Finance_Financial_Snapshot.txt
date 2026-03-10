@@ -1,0 +1,25 @@
+Company: BTCS Inc. Common Stock
+Ticker: BTCS
+Market Cap: 82982480
+Enterprise Value: 153145680
+Total Revenue: 11724983
+Revenue Per Share: 0.455
+EBITDA: -9386437
+Gross Margins: 0.10217
+Operating Margins: -0.319
+Profit Margins: 4.64321
+Free Cashflow: -264980560
+Operating Cashflow: -7173749
+Return On Assets: -0.03607
+Return On Equity: 0.43449003
+Total Cash: 4486051
+Total Debt: 67599592
+Debt To Equity: 29.99
+Current Ratio: 4.785
+Quick Ratio: 0.072
+Trailing PE: 1.0864197
+Forward PE: -5.8666663
+Price To Book: 0.3708386
+Beta: 3.284
+52 Week High: 8.49
+52 Week Low: 1.25

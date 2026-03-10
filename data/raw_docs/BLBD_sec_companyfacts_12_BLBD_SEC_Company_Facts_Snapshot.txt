@@ -1,0 +1,12 @@
+Company: Blue Bird Corporation Common Stock
+Ticker: BLBD
+CIK: 0001589526
+Latest SEC XBRL Facts:
+Revenues: 1480099000 | unit=USD | filed=2025-11-24 | period_end=2025-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 333084000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetIncomeLoss: 30756000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Assets: 642342000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Liabilities: 6980000 | unit=USD | filed=2014-11-14 | period_end=2014-09-30
+StockholdersEquity: 271368000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 36579000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 241739000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27

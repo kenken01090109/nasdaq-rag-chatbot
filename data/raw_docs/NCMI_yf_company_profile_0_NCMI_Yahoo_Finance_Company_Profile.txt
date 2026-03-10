@@ -1,0 +1,9 @@
+Company: National CineMedia Inc. Common Stock
+Ticker: NCMI
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: United States
+City: Centennial
+Website: https://www.ncm.com
+Employees: 248
+Business Summary: National CineMedia, Inc., through its subsidiary, National CineMedia, LLC, operates cinema advertising network in North America. It engages in the sale of advertising to national, regional, and local businesses in Noovie, a cinema advertising and entertainment show seen on movie screens; and sells advertising on its Lobby Entertainment Network, a series of strategically placed screens located in movie theater lobbies, as well as other forms of advertising and promotions in theatre lobbies. The company also sells digital advertising, including through NCM Boost and Boomerang; and through digital gaming products, including Noovie Trivia app. It offers its services to third-party theater circuits under long-term network affiliate agreements. The company was incorporated in 2006 and is headquartered in Centennial, Colorado.

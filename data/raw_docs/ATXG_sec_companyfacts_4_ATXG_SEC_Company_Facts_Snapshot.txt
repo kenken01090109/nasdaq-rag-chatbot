@@ -1,0 +1,12 @@
+Company: Addentax Group Corp. Common Stock
+Ticker: ATXG
+CIK: 0001650101
+Latest SEC XBRL Facts:
+Revenues: 5566605 | unit=USD | filed=2018-11-14 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2622869 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -4691497 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 28249821 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 6618922 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 21630899 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1082373 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 238466 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

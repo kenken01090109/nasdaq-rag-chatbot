@@ -1,0 +1,25 @@
+Company: Clean Energy Technologies Inc. Common Stock
+Ticker: CETY
+Market Cap: 7951025
+Enterprise Value: 7204635
+Total Revenue: 2282095
+Revenue Per Share: 0.637
+EBITDA: -2716082
+Gross Margins: 0.58731
+Operating Margins: -1.72554
+Profit Margins: -1.92279
+Free Cashflow: -3907981
+Operating Cashflow: -6990428
+Return On Assets: -0.14068
+Return On Equity: -0.82183
+Total Cash: 1061702
+Total Debt: 3704242
+Debt To Equity: 52.208
+Current Ratio: 1.203
+Quick Ratio: 0.549
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5786982
+Beta: -1.247
+52 Week High: 11.19
+52 Week Low: 0.463

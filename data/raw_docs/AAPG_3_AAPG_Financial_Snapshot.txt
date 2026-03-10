@@ -1,0 +1,12 @@
+Company: Ascentage Pharma Group International American Depository Shares
+Ticker: AAPG
+Total Revenue: 390603008
+Revenue Per Share: 4.78
+Gross Margins: 0.90866
+Operating Margins: -2.3705
+EBITDA: -1044163008
+Profit Margins: -2.96772
+Free Cashflow: 36215124
+Operating Cashflow: -189086000
+Return On Assets: -0.22768
+Return On Equity: -1.59649

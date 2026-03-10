@@ -1,0 +1,25 @@
+Company: Innovative Eyewear Inc. Common Stock
+Ticker: LUCY
+Market Cap: 5724696
+Enterprise Value: -2166502
+Total Revenue: 2392547
+Revenue Per Share: 0.735
+EBITDA: -8025877
+Gross Margins: 0.22839001
+Operating Margins: -2.87494
+Profit Margins: 0.0
+Free Cashflow: -5118460
+Operating Cashflow: -7868256
+Return On Assets: -0.44838002
+Return On Equity: -0.74096
+Total Cash: 7998202
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 11.981
+Quick Ratio: 9.135
+Trailing PE: 
+Forward PE: -1.038835
+Price To Book: 0.5434231
+Beta: 3.228
+52 Week High: 5.56
+52 Week Low: 0.95

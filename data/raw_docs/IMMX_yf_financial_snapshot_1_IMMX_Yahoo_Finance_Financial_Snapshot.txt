@@ -1,0 +1,25 @@
+Company: Immix Biopharma Inc. Common Stock
+Ticker: IMMX
+Market Cap: 491953152
+Enterprise Value: 271914048
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -23836024
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6578808
+Operating Cashflow: -14376895
+Return On Assets: -0.66477996
+Return On Equity: -1.82547
+Total Cash: 15947308
+Total Debt: 1106335
+Debt To Equity: 13.386
+Current Ratio: 1.528
+Quick Ratio: 1.47
+Trailing PE: 
+Forward PE: -18.831207
+Price To Book: 37.16
+Beta: 0.256
+52 Week High: 9.47
+52 Week Low: 1.34

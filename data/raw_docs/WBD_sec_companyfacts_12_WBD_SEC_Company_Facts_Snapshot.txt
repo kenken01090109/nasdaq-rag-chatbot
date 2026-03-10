@@ -1,0 +1,12 @@
+Company: Warner Bros. Discovery Inc. Series A Common Stock
+Ticker: WBD
+CIK: 0001437107
+Latest SEC XBRL Facts:
+Revenues: 31037000000 | unit=USD | filed=2023-11-08 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 27836000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 979000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 100519000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 63214000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 36018000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2515000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4294000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

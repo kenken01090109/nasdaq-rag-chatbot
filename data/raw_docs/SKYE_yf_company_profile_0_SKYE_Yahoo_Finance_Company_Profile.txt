@@ -1,0 +1,9 @@
+Company: Skye Bioscience Inc. Common Stock
+Ticker: SKYE
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://skyebioscience.com
+Employees: 16
+Business Summary: Skye Bioscience, Inc., a clinical stage biopharmaceutical company, focuses on developing molecules that modulate G protein-coupled receptors (GPCRs) to treat obesity, overweight, and metabolic diseases. Its lead product candidate is nimacimab, a peripherally restricted negative allosteric modulating antibody targeting cannabinoid receptor 1, a key GPCR involved in metabolic regulation. The company was formerly known as Emerald Bioscience, Inc. and changed its name to Skye Bioscience, Inc. in January 2021. The company is headquartered in San Diego, California.

@@ -1,0 +1,8 @@
+Company: 20/20 Biolabs Inc. Common Stock
+Ticker: AIDX
+Total Cash: 1144855
+Total Debt: 1159806
+Debt To Equity: 1069.379
+Current Ratio: 0.786
+Quick Ratio: 0.643
+Book Value: 0.012

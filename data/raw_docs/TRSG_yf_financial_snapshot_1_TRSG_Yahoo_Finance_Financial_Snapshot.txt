@@ -1,0 +1,25 @@
+Company: Tungray Technologies Inc Class A Ordinary Shares
+Ticker: TRSG
+Market Cap: 18477804
+Enterprise Value: 13089433
+Total Revenue: 14819842
+Revenue Per Share: 0.906
+EBITDA: 1019041
+Gross Margins: 0.45079
+Operating Margins: 0.03762
+Profit Margins: 0.059660003
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01249
+Return On Equity: 0.04172
+Total Cash: 8534954
+Total Debt: 3121297
+Debt To Equity: 16.75
+Current Ratio: 2.258
+Quick Ratio: 1.683
+Trailing PE: 22.598
+Forward PE: 
+Price To Book: 0.9791161
+Beta: 
+52 Week High: 2.48
+52 Week Low: 1.0

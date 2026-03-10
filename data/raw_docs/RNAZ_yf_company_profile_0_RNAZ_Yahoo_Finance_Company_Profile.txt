@@ -1,0 +1,9 @@
+Company: TransCode Therapeutics Inc. Common Stock
+Ticker: RNAZ
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.transcodetherapeutics.com
+Employees: 7
+Business Summary: TransCode Therapeutics, Inc., a biopharmaceutical company, focuses on developing and commercializing drugs and diagnostics for treating and identifying cancer. The company's lead therapeutic candidate comprises TTX-MC138 that targets microRNA-10b, a master regulator of metastatic cell viability in various cancers comprising breast, pancreatic, ovarian, colon cancer, glioblastomas, and others. Its preclinical programs include TTX-siPDL1, an siRNA-based modulator of programmed death-ligand 1 and two indication agnostic programs; TTX-RIGA, an RNA- based agonist of the retinoic acid-inducible gene I targeting activation of innate immunity in the tumor microenvironment; TTX-CRISPR, a CRISPR/Cas9-based therapy platform for the repair or elimination of cancer-causing genes inside tumor cells; and TTX-mRNA, an mRNA-based platform for the development of cancer vaccines that activate cytotoxic immune responses against tumor cells. TransCode Therapeutics, Inc. has strategic collaboration agreement with The University of Texas M. D. Anderson Cancer Center. The company was incorporated in 2016 and is based in Boston, Massachusetts.

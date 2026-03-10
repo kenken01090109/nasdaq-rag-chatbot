@@ -1,0 +1,25 @@
+Company: Rave Restaurant Group Inc. Common Stock
+Ticker: RAVE
+Market Cap: 40076616
+Enterprise Value: 29140270
+Total Revenue: 12375000
+Revenue Per Share: 0.866
+EBITDA: 3666000
+Gross Margins: 0.72994006
+Operating Margins: 0.24392
+Profit Margins: 0.23038
+Free Cashflow: 2157375
+Operating Cashflow: 3068000
+Return On Assets: 0.12949
+Return On Equity: 0.19451
+Total Cash: 10903000
+Total Debt: 393000
+Debt To Equity: 2.53
+Current Ratio: 8.501
+Quick Ratio: 7.993
+Trailing PE: 14.099999
+Forward PE: -18.8
+Price To Book: 2.5800548
+Beta: 0.312
+52 Week High: 3.75
+52 Week Low: 2.01

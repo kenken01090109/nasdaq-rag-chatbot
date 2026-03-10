@@ -1,0 +1,25 @@
+Company: MDB Capital Holdings LLC Class A common
+Ticker: MDBH
+Market Cap: 31047532
+Enterprise Value: 15644968
+Total Revenue: 1250398
+Revenue Per Share: 0.126
+EBITDA: 
+Gross Margins: -0.39743
+Operating Margins: -3.00207
+Profit Margins: 9.13756
+Free Cashflow: 
+Operating Cashflow: -5740664
+Return On Assets: 0.27056998
+Return On Equity: 0.29494
+Total Cash: 15931918
+Total Debt: 635421
+Debt To Equity: 1.066
+Current Ratio: 39.37
+Quick Ratio: 36.531
+Trailing PE: 2.1414685
+Forward PE: 
+Price To Book: 0.5197386
+Beta: 1.057
+52 Week High: 6.645
+52 Week Low: 2.8

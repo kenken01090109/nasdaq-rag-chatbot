@@ -1,0 +1,9 @@
+Company: USCB Financial Holdings Inc. Class A Common Stock
+Ticker: USCB
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Doral
+Website: https://www.uscentury.com
+Employees: 204
+Business Summary: USCB Financial Holdings, Inc. operates as the bank holding company for U.S. Century Bank that provides various personal and business banking products and services in the United States. The company offers small business administration and yacht lending services; homeowners association services, including deposit collection, lockbox services, payment services, and lending products; jurist advantage and private client group services; correspondent banking services for banks in certain Latin America and the Caribbean countries; and Medical Advantage (MDAvantage), which provides concierge-level banking services to physicians, dentists, and veterinarians. It also provides deposit products, including commercial and consumer checking accounts, money market deposit accounts, savings accounts, and certificates of deposit; treasury, commercial payment, and cash management services; insured cash sweep and certificate of deposit account registry services; and title insurance policies for real estate transactions. The company was founded in 2002 and is headquartered in Doral, Florida.

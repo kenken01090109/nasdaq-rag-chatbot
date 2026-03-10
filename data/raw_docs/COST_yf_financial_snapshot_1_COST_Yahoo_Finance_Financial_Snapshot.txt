@@ -1,0 +1,25 @@
+Company: Costco Wholesale Corporation Common Stock
+Ticker: COST
+Market Cap: 443114160128
+Enterprise Value: 427121770496
+Total Revenue: 280390991872
+Revenue Per Share: 631.542
+EBITDA: 13125000192
+Gross Margins: 0.12876001
+Operating Margins: 0.03659
+Profit Margins: 0.02961
+Free Cashflow: 7170250240
+Operating Cashflow: 14762999808
+Return On Assets: 0.08524
+Return On Equity: 0.30325
+Total Cash: 17183000576
+Total Debt: 8172000256
+Debt To Equity: 26.968
+Current Ratio: 1.038
+Quick Ratio: 0.488
+Trailing PE: 53.460094
+Forward PE: 43.952953
+Price To Book: 15.169154
+Beta: 0.993
+52 Week High: 1067.08
+52 Week Low: 844.06

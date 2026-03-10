@@ -1,0 +1,10 @@
+Company: Bilibili Inc. American Depositary Shares
+Ticker: BILI
+CIK: 0001723690
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3675904000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+Assets: 4479677000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+Liabilities: 2547447000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+StockholdersEquity: 1932844000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 824032000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1404160000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31

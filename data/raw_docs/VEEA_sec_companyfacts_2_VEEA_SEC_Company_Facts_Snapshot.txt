@@ -1,0 +1,11 @@
+Company: Veea Inc. Common Stock
+Ticker: VEEA
+CIK: 0001840317
+Latest SEC XBRL Facts:
+Revenues: 232094 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1736512 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 29469150 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 33734625 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -4265475 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11514722 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1969 | unit=USD | filed=2024-09-10 | period_end=2024-06-30

@@ -1,0 +1,25 @@
+Company: NewtekOne Inc. 8.625% Fixed Rate Senior Notes due 2029
+Ticker: NEWTH
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 301043008
+Revenue Per Share: 12.357
+EBITDA: 144431008
+Gross Margins: 0.83066005
+Operating Margins: 0.46729
+Profit Margins: 0.14072
+Free Cashflow: -116577904
+Operating Cashflow: -2118000
+Return On Assets: 0.05809
+Return On Equity: 0.17126
+Total Cash: 169506000
+Total Debt: 658196992
+Debt To Equity: 240.216
+Current Ratio: 14.232
+Quick Ratio: 1.757
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.5673614
+Beta: 1.367
+52 Week High: 25.66
+52 Week Low: 23.0

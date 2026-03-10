@@ -1,0 +1,12 @@
+Company: Creative Media & Community Trust Corporation Common stock
+Ticker: CMCT
+CIK: 0000908311
+Latest SEC XBRL Facts:
+Revenues: 88218000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 30550000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -27568000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 871826000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 588875000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 281931000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2471000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17320000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

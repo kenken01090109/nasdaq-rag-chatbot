@@ -1,0 +1,9 @@
+Company: KANZHUN LIMITED American Depository Shares
+Ticker: BZ
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: China
+City: Beijing
+Website: https://ir.zhipin.com
+Employees: 5688
+Business Summary: Kanzhun Limited, together with its subsidiaries, provides online recruitment services in the People's Republic of China. The company offers AI-powered resume polishing, AI-facilitated job searching, message filtering, and AI interview services for job seekers; and AI-enhanced job descriptions, AI assistant communication, and job list filtering services for enterprise users. It offers its online recruitment services through BOSS Zhipin and Dianzhang Zhipin mobile apps. In addition, the company provides management consultancy and technical, and job-hunting services. Its services allow enterprise customers to access and interact with job seekers and manage their recruitment process. Kanzhun Limited was founded in 2013 and is headquartered in Beijing, the People's Republic of China.

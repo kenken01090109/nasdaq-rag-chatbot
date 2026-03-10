@@ -1,0 +1,25 @@
+Company: Trinity Biotech plc American Depositary Shares
+Ticker: TRIB
+Market Cap: 13771310
+Enterprise Value: 388909056
+Total Revenue: 48570000
+Revenue Per Share: 1.968
+EBITDA: -14029000
+Gross Margins: 0.36784
+Operating Margins: -0.03556
+Profit Margins: -0.75882006
+Free Cashflow: -7285750
+Operating Cashflow: -1103000
+Return On Assets: -0.094560005
+Return On Equity: 
+Total Cash: 1341000
+Total Debt: 117203000
+Debt To Equity: 
+Current Ratio: 1.03
+Quick Ratio: 0.474
+Trailing PE: 
+Forward PE: -0.7075728
+Price To Book: -0.24848278
+Beta: 0.7
+52 Week High: 3.44
+52 Week Low: 0.48

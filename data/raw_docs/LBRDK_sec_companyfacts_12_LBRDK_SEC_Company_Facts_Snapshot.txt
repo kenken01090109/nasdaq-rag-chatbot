@@ -1,0 +1,12 @@
+Company: Liberty Broadband Corporation Class C Common Stock
+Ticker: LBRDK
+CIK: 0001611983
+Latest SEC XBRL Facts:
+Revenues: 18680000 | unit=USD | filed=2018-11-01 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 527000000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+NetIncomeLoss: 497000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 13193000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 4323000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 8870000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 169000000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 73000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

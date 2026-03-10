@@ -1,0 +1,11 @@
+Company: Allegro MicroSystems Inc. Common Stock
+Ticker: ALGM
+CIK: 0000866291
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 646909000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26
+NetIncomeLoss: 1591000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26
+Assets: 1422711000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26
+Liabilities: 458297000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26
+StockholdersEquity: 962732000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26
+NetCashProvidedByUsedInOperatingActivities: 127355000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26
+CashAndCashEquivalentsAtCarryingValue: 155187000 | unit=USD | filed=2026-01-30 | period_end=2025-12-26

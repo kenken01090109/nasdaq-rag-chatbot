@@ -1,0 +1,9 @@
+Company: Tiptree Inc. Common Stock
+Ticker: TIPT
+Sector: Financial Services
+Industry: Insurance - Specialty
+Country: United States
+City: Greenwich
+Website: https://www.tiptreeinc.com
+Employees: 1496
+Business Summary: Tiptree Inc., through its subsidiaries, provides specialty insurance products and related services in the United States and Europe. It operates through two segments, Insurance and Mortgage. The company offers commercial lines insurance products, including professional liability, general liability, contractual liability protection, property and other short-tail, and alternative risks insurance products; and personal lines insurance products, such as credit protection surrounding loan payments. It also provides auto warranty programs, including vehicle service contracts, GAP, and other ancillary products; consumer goods warranty programs, such as mobile devices, consumer electronics, appliances, furniture; and premium or warranty contract financing services, lead generation support, and business process outsourcing services. In addition, the company offers mortgage loans for institutional investors; and asset management and advisory services. It markets its products through independent insurance agents, consumer finance companies, online retailers, auto dealers, brokers, and regional big box retailers. The company was formerly known as Tiptree Financial Inc. and changed its name to Tiptree Inc. in December 2016. Tiptree Inc. was founded in 1978 and is based in Greenwich, Connecticut.

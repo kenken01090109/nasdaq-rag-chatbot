@@ -1,0 +1,10 @@
+Company: Perma-Pipe International Holdings Inc. Common Stock
+Ticker: PPIH
+CIK: 0000914122
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 61214000 | unit=USD | filed=2018-09-11 | period_end=2018-07-31
+NetIncomeLoss: 12118000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Assets: 216985000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+StockholdersEquity: 85753000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 15972000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 27237000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31

@@ -1,0 +1,12 @@
+Company: Lattice Semiconductor Corporation Common Stock
+Ticker: LSCC
+CIK: 0000855658
+Latest SEC XBRL Facts:
+Revenues: 302822000 | unit=USD | filed=2018-10-29 | period_end=2018-09-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 377470000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27
+NetIncomeLoss: 10729000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27
+Assets: 844356000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27
+Liabilities: 137956000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27
+StockholdersEquity: 706400000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 117523000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 117910000 | unit=USD | filed=2025-11-03 | period_end=2025-09-27

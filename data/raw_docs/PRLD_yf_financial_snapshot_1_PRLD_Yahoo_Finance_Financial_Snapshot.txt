@@ -1,0 +1,25 @@
+Company: Prelude Therapeutics Incorporated Common Stock
+Ticker: PRLD
+Market Cap: 203054832
+Enterprise Value: 219977072
+Total Revenue: 10500000
+Revenue Per Share: 0.138
+EBITDA: -119267000
+Gross Margins: 1.0
+Operating Margins: -3.1412299
+Profit Margins: 0.0
+Free Cashflow: -64799624
+Operating Cashflow: -100165000
+Return On Assets: -0.51823
+Return On Equity: -1.03991
+Total Cash: 54957000
+Total Debt: 17854000
+Debt To Equity: 30.502
+Current Ratio: 3.207
+Quick Ratio: 3.021
+Trailing PE: 
+Forward PE: -2.8209608
+Price To Book: 4.20026
+Beta: 0.874
+52 Week High: 4.22
+52 Week Low: 0.61

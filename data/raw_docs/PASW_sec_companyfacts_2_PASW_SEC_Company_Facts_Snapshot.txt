@@ -1,0 +1,11 @@
+Company: Ping An Biomedical Co. Ltd. Ordinary Shares
+Ticker: PASW
+CIK: 0001897532
+Latest SEC XBRL Facts:
+Revenues: 2512294 | unit=USD | filed=2025-09-29 | period_end=2025-03-31
+NetIncomeLoss: -583339 | unit=USD | filed=2025-09-29 | period_end=2025-03-31
+Assets: 6700990 | unit=USD | filed=2025-09-29 | period_end=2025-03-31
+Liabilities: 8319657 | unit=USD | filed=2025-09-29 | period_end=2025-03-31
+StockholdersEquity: -1618667 | unit=USD | filed=2025-09-29 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 34595 | unit=USD | filed=2025-09-29 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 15110 | unit=USD | filed=2025-09-29 | period_end=2025-03-31

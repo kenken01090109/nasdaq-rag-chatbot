@@ -1,0 +1,11 @@
+Company: Teads Holding Co. Common Stock
+Ticker: TEAD
+CIK: 0001454938
+Latest SEC XBRL Facts:
+Revenues: 948225000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -88846000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1712102000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1192767000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 519335000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 344000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 130751000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: NSTS Bancorp Inc. Common Stock
+Ticker: NSTS
+CIK: 0001881592
+Latest SEC XBRL Facts:
+NetIncomeLoss: -521000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 269842000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 190903000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 78939000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 841000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34135000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Citius Oncology Inc. Common Stock
+Ticker: CTOR
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Cranford
+Website: 
+Employees: 
+Business Summary: Citius Oncology, Inc. focuses on the development and commercialization of innovative targeted oncology therapies. It also engages in the development of LYMPHIR, an orphan indication for the treatment of adult patients with relapsed or refractory cutaneous T-cell lymphoma, a rare form of non-Hodgkin lymphoma. The company is headquartered in Cranford, New Jersey. Citius Oncology, Inc. is a subsidiary of Leonard-Meron Biosciences, Inc.

@@ -1,0 +1,8 @@
+Company: Aethlon Medical Inc. Common Stock
+Ticker: AEMD
+Total Cash: 6956397
+Total Debt: 417522
+Debt To Equity: 6.22
+Current Ratio: 5.681
+Quick Ratio: 5.534
+Book Value: 6.898

@@ -1,0 +1,12 @@
+Company: NextNRG Inc. Common Stock
+Ticker: NXXT
+CIK: 0001817004
+Latest SEC XBRL Facts:
+Revenues: 58824282 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 58824282 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -59117881 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 19645509 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 36915170 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -16341275 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14104694 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 306811 | unit=USD | filed=2024-08-14 | period_end=2024-06-30

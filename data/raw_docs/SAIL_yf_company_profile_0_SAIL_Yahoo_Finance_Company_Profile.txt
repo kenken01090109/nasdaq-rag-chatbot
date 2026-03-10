@@ -1,0 +1,9 @@
+Company: SailPoint Inc. Common Stock
+Ticker: SAIL
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Austin
+Website: https://www.sailpoint.com
+Employees: 2738
+Business Summary: SailPoint, Inc. delivers solutions to enable identity security for the enterprise in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. Its solutions enable organizations to establish, control, and automate policies that help define and maintain a robust security posture and achieve regulatory compliance; and address various types of systems and identities, including data and applications, employee identities, non-employee identities, and machine identities, as well as enable smarter access decisions, improve business processes, and provide deeper understanding of identity and access. The company offers Identity Security Cloud, a cloud-based identity security solution to discover, manage, and secure all enterprise identity types, as well as the data and cloud infrastructure; and IdentityIQ, a customer-hosted identity security solution. It also provides Atlas platform that allow customers to manage various types of identities and their access needs across all environments. The company was founded in 2005 and is based in Austin, Texas.

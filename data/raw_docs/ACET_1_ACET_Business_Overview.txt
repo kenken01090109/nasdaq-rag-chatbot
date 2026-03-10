@@ -1,0 +1,7 @@
+Company: Adicet Bio Inc. Common Stock
+Ticker: ACET
+Business Summary: Adicet Bio, Inc., a clinical stage biotechnology company, discovers and develops allogeneic gamma delta T cell therapies for autoimmune diseases and cancer in the United States. It offers gamma delta T cells engineered with chimeric antigen receptors (CARs) to facilitate durable activity in patients. The company's lead product candidate is ADI-001, an allogeneic gamma delta T cell therapy expressing a CAR targeting CD20, which is in Phase I clinical trial for the potential treatment of autoimmune diseases and relapsed/refractory B-cell non-hodgkin's lymphoma. It also develops ADI-270, an armored gamma delta CAR T cell product candidate to treat multiple CD70+ solid tumor and hematological malignancies indications, with renal cell carcinoma. The company was founded in 2014 and is based in Boston, Massachusetts.
+Sector: Healthcare
+Industry: Biotechnology
+Exchange: NCM
+Quote Type: EQUITY

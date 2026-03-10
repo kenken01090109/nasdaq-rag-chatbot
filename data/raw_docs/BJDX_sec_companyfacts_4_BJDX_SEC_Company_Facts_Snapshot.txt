@@ -1,0 +1,11 @@
+Company: Bluejay Diagnostics Inc. Common Stock
+Ticker: BJDX
+CIK: 0001704287
+Latest SEC XBRL Facts:
+Revenues: 249040 | unit=USD | filed=2023-11-09 | period_end=2022-09-30
+NetIncomeLoss: -5418671 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4890258 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1197476 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 3692782 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4598705 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3082268 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

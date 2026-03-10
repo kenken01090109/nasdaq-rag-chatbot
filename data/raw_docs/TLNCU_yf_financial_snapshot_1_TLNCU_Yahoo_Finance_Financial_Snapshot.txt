@@ -1,0 +1,25 @@
+Company: Talon Capital Corp. Units
+Ticker: TLNCU
+Market Cap: 
+Enterprise Value: 346230400
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 3096635
+Total Debt: 22905
+Debt To Equity: 
+Current Ratio: 0.308
+Quick Ratio: 0.308
+Trailing PE: 
+Forward PE: 
+Price To Book: -49.138756
+Beta: 
+52 Week High: 11.04
+52 Week Low: 9.98

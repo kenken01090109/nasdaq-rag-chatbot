@@ -1,0 +1,25 @@
+Company: Starbucks Corporation Common Stock
+Ticker: SBUX
+Market Cap: 112779304960
+Enterprise Value: 134334816256
+Total Revenue: 37701701632
+Revenue Per Share: 33.164
+EBITDA: 5297299968
+Gross Margins: 0.22167999
+Operating Margins: 0.09262
+Profit Margins: 0.036310002
+Free Cashflow: -1439387520
+Operating Cashflow: 4273200128
+Return On Assets: 0.06874
+Return On Equity: 
+Total Cash: 3598299904
+Total Debt: 25488199680
+Debt To Equity: 
+Current Ratio: 1.047
+Quick Ratio: 0.419
+Trailing PE: 82.49166
+Forward PE: 33.50947
+Price To Book: -13.442423
+Beta: 0.928
+52 Week High: 106.0
+52 Week Low: 75.5

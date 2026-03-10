@@ -1,0 +1,9 @@
+Company: Eshallgo Inc. Class A Ordinary Shares
+Ticker: EHGO
+Sector: Industrials
+Industry: Business Equipment & Supplies
+Country: China
+City: Shanghai
+Website: https://www.eshallgo.com
+Employees: 147
+Business Summary: Eshallgo Inc. engages in the sale, leasing, and maintenance of office equipment, such as printers and copiers in the People's Republic of China. It sells office furniture, IT products, water dispensers, printing papers, and other products; and provides maintenance services with enterprise resource planning systems, as well as after-sale maintenance and repair. The company distributes its products under the HP, Epson, Xerox, Sharp, Toshiba, Konica, and Kyocera brand name. It serves private and public sector businesses, as well as large enterprises and institutions. The company was founded in 2015 and is based in Shanghai, China.

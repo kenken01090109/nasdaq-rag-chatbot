@@ -1,0 +1,12 @@
+Company: ATIF Holdings Limited Ordinary Shares
+Ticker: ZBAI
+CIK: 0001755058
+Latest SEC XBRL Facts:
+Revenues: 450000 | unit=USD | filed=2025-06-06 | period_end=2025-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20785 | unit=USD | filed=2024-06-14 | period_end=2023-04-30
+NetIncomeLoss: -3859571 | unit=USD | filed=2025-06-06 | period_end=2025-04-30
+Assets: 8687975 | unit=USD | filed=2025-06-06 | period_end=2025-04-30
+Liabilities: 278073 | unit=USD | filed=2025-06-06 | period_end=2025-04-30
+StockholdersEquity: 8409902 | unit=USD | filed=2025-06-06 | period_end=2025-04-30
+NetCashProvidedByUsedInOperatingActivities: -2134768 | unit=USD | filed=2025-06-06 | period_end=2025-04-30
+CashAndCashEquivalentsAtCarryingValue: 6681402 | unit=USD | filed=2025-06-06 | period_end=2025-04-30

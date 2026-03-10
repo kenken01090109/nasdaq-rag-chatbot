@@ -1,0 +1,9 @@
+Company: Nautilus Biotechnology Inc. Common Stock
+Ticker: NAUT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Seattle
+Website: https://www.nautilus.bio
+Employees: 
+Business Summary: Nautilus Biotechnology, Inc., a development stage life sciences company, engages in creating a platform technology for quantifying and unlocking the complexity of the proteome in the United States. The company develops Nautilus Voyager Platform, which includes an end-to-end solution comprising instruments, reagents, consumables, and software analysis. It also provides nautilus voyager instrument, a high-resolution optical imaging system with integrated fluidics and liquid handling sub-system to deposit protein libraries onto a flow cell and to process labeled multi-affinity reagent binding and imaging cycles rapidly to decode and quantify the proteins present in biological samples. In addition, the company offers single-molecule library preparation kits, flow cells, affinity reagents, and instrument run buffers to perform multi-cycle analysis runs. It has a research collaboration agreement Genentech, Buck Institute, Allen Institute, Cornell University and the Qatar Foundation, and Michael J. Fox Foundation. Nautilus Biotechnology, Inc. was founded in 2016 and is headquartered in Seattle, Washington.

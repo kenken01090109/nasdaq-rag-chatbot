@@ -1,0 +1,25 @@
+Company: J & J Snack Foods Corp. Common Stock
+Ticker: JJSF
+Market Cap: 1640156928
+Enterprise Value: 1722596224
+Total Revenue: 1564413056
+Revenue Per Share: 80.523
+EBITDA: 161096000
+Gross Margins: 0.29326
+Operating Margins: 0.01234
+Profit Margins: 0.03921
+Free Cashflow: 58843500
+Operating Cashflow: 165927008
+Return On Assets: 0.040799998
+Return On Equity: 0.065960005
+Total Cash: 66761000
+Total Debt: 161368000
+Debt To Equity: 17.677
+Current Ratio: 2.516
+Quick Ratio: 1.402
+Trailing PE: 27.3873
+Forward PE: 17.824379
+Price To Book: 1.7952346
+Beta: 0.353
+52 Week High: 144.37
+52 Week Low: 80.0

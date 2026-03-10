@@ -1,0 +1,10 @@
+Company: Immunovant Inc. Common Stock
+Ticker: IMVT
+CIK: 0001764013
+Latest SEC XBRL Facts:
+NetIncomeLoss: -357750000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 1052392000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 66257000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 986135000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -312251000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 994525000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

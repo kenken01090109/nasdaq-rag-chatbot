@@ -1,0 +1,25 @@
+Company: ClearOne Inc. (DE) Common Stock
+Ticker: CLRO
+Market Cap: 10182500
+Enterprise Value: 11381838
+Total Revenue: 11386000
+Revenue Per Share: 6.776
+EBITDA: -8419000
+Gross Margins: 0.32566002
+Operating Margins: -0.78130996
+Profit Margins: -2.05032
+Free Cashflow: 7450000
+Operating Cashflow: -6110000
+Return On Assets: -0.29378
+Return On Equity: -0.75477
+Total Cash: 101000
+Total Debt: 566000
+Debt To Equity: 16.354
+Current Ratio: 2.292
+Quick Ratio: 0.027
+Trailing PE: 
+Forward PE: -6.5000005
+Price To Book: 18.127491
+Beta: 0.046
+52 Week High: 15.42
+52 Week Low: 3.83

@@ -1,0 +1,25 @@
+Company: Akanda Corp. Common Shares
+Ticker: AKAN
+Market Cap: 1849763
+Enterprise Value: -2004278
+Total Revenue: 836664
+Revenue Per Share: 6.916
+EBITDA: -3678018
+Gross Margins: 0.24906
+Operating Margins: -4.4384203
+Profit Margins: -2.66312
+Free Cashflow: -4874154
+Operating Cashflow: -1763989
+Return On Assets: -0.28688
+Return On Equity: -0.60863996
+Total Cash: 2523719
+Total Debt: 391241
+Debt To Equity: 11.851
+Current Ratio: 1.255
+Quick Ratio: 0.889
+Trailing PE: 0.005684578
+Forward PE: 
+Price To Book: 0.038833495
+Beta: 1.688
+52 Week High: 46.45
+52 Week Low: 0.811

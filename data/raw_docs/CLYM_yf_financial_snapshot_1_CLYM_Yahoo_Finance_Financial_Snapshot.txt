@@ -1,0 +1,25 @@
+Company: Climb Bio Inc. Common Stock
+Ticker: CLYM
+Market Cap: 489564224
+Enterprise Value: 410061696
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -24984500
+Operating Cashflow: -44242000
+Return On Assets: -0.17347999
+Return On Equity: -0.25646
+Total Cash: 86901000
+Total Debt: 580000
+Debt To Equity: 0.328
+Current Ratio: 18.38
+Quick Ratio: 17.559
+Trailing PE: 
+Forward PE: -6.016776
+Price To Book: 2.7657936
+Beta: -0.243
+52 Week High: 7.59
+52 Week Low: 1.05

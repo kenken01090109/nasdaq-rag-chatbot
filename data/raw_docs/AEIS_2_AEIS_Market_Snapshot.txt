@@ -1,0 +1,10 @@
+Company: Advanced Energy Industries Inc. Common Stock
+Ticker: AEIS
+Market Cap: 11756413952
+Enterprise Value: 11644013568
+Trailing PE: 80.678764
+Forward PE: 29.617723
+Price To Book: 8.637838
+Beta: 1.36
+52 Week High: 350.0
+52 Week Low: 75.01

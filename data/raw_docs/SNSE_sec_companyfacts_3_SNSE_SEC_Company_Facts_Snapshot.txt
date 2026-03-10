@@ -1,0 +1,10 @@
+Company: Sensei Biotherapeutics Inc. Common Stock
+Ticker: SNSE
+CIK: 0001829802
+Latest SEC XBRL Facts:
+NetIncomeLoss: -16368000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 27589000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4582000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 23007000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16589000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10562000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

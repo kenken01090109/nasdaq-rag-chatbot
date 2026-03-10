@@ -1,0 +1,10 @@
+Company: Adamas Trust Inc. 9.250% Senior Notes Due 2031
+Ticker: ADAMO
+CIK: 0001273685
+Latest SEC XBRL Facts:
+NetIncomeLoss: 95522000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 12401862000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 10997084000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1390777000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 71959000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 185285000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: KORU Medical Systems Inc. Common Stock (DE)
+Ticker: KRMD
+Market Cap: 210768096
+Enterprise Value: 210146496
+Total Revenue: 39070636
+Revenue Per Share: 0.848
+EBITDA: -3287677
+Gross Margins: 0.62321997
+Operating Margins: -0.083409995
+Profit Margins: -0.095010005
+Free Cashflow: 1008795
+Operating Cashflow: 307264
+Return On Assets: -0.0921
+Return On Equity: -0.2171
+Total Cash: 8464019
+Total Debt: 3673397
+Debt To Equity: 22.311
+Current Ratio: 2.479
+Quick Ratio: 1.784
+Trailing PE: 
+Forward PE: 303.33334
+Price To Book: 12.780899
+Beta: 0.502
+52 Week High: 6.608
+52 Week Low: 1.86

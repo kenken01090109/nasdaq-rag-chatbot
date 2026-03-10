@@ -1,0 +1,9 @@
+Company: Shuttle Pharmaceuticals Holdings Inc. Common Stock
+Ticker: SHPH
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Gaithersburg
+Website: https://www.shuttlepharma.com
+Employees: 9
+Business Summary: Shuttle Pharmaceuticals Holdings, Inc., a clinical stage pharmaceutical company, develops novel therapies to cure cancers. The company is developing Ropidoxuridine, an oral halogenated pyrimidine to treat patients with brain tumors and sarcomas; and SP-2-225, a pre-clinical class IIb product candidate that effects on the regulation of the immune system. It is also developing SP-1-303, a pre-clinical selective Class I HDAC for use in the treatment of ER positive breast cancers; and SP-1-161, a HDAC inhibitor that initiates the mutated in ataxia-telangiectasia response pathway. The company was founded in 2012 and is headquartered in Gaithersburg, Maryland.

@@ -1,0 +1,9 @@
+Company: DocGo Inc. Common Stock
+Ticker: DCGO
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: United States
+City: New York
+Website: https://www.docgo.com
+Employees: 3404
+Business Summary: DocGo Inc. provides mobile health and medical transportation services in the United States and the United Kingdom. The company offers transportation services include emergency response services; and non-emergency transport services comprise ambulance and wheelchair transportation services. It also provides mobile health services through its platform that are performed at home, offices, and other locations; event services, including on-site healthcare support at sporting events and concerts; and total care management solutions comprising healthcare services and ancillary services, such as shelter. DocGo Inc. was incorporated in 2015 and is headquartered in New York, New York.

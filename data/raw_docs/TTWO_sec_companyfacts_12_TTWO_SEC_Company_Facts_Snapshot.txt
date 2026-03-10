@@ -1,0 +1,11 @@
+Company: Take-Two Interactive Software Inc. Common Stock
+Ticker: TTWO
+CIK: 0000946581
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4976600000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: -238700000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 10010500000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 6514900000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 3495600000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 388900000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2160000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

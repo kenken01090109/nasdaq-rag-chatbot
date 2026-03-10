@@ -1,0 +1,8 @@
+Company: Adial Pharmaceuticals Inc Common Stock
+Ticker: ADIL
+Total Cash: 4606289
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.342
+Quick Ratio: 3.989
+Book Value: 4.725

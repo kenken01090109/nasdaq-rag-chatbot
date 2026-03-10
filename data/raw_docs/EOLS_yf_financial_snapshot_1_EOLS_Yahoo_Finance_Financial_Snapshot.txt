@@ -1,0 +1,25 @@
+Company: Evolus Inc. Common Stock
+Ticker: EOLS
+Market Cap: 358453408
+Enterprise Value: 469409536
+Total Revenue: 297176000
+Revenue Per Share: 4.61
+EBITDA: -30094000
+Gross Margins: 0.66327006
+Operating Margins: -0.00322
+Profit Margins: -0.17377001
+Free Cashflow: -26697750
+Operating Cashflow: -42265000
+Return On Assets: -0.10252
+Return On Equity: 
+Total Cash: 53826000
+Total Debt: 154996000
+Debt To Equity: 
+Current Ratio: 1.898
+Quick Ratio: 1.441
+Trailing PE: 
+Forward PE: 23.041668
+Price To Book: -15.577466
+Beta: 1.01
+52 Week High: 13.81
+52 Week Low: 4.091

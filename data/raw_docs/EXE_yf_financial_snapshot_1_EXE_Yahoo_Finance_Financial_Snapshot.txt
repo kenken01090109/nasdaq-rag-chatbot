@@ -1,0 +1,25 @@
+Company: Expand Energy Corporation Common Stock
+Ticker: EXE
+Market Cap: 25684148224
+Enterprise Value: 30176149504
+Total Revenue: 11639000064
+Revenue Per Share: 49.05
+EBITDA: 5615000064
+Gross Margins: 0.45321998
+Operating Margins: 0.27513
+Profit Margins: 0.15628
+Free Cashflow: 1176000000
+Operating Cashflow: 4575000064
+Return On Assets: 0.05863
+Return On Equity: 0.100659996
+Total Cash: 616000000
+Total Debt: 5107999744
+Debt To Equity: 27.495
+Current Ratio: 1.005
+Quick Ratio: 0.792
+Trailing PE: 14.1136055
+Forward PE: 11.6840105
+Price To Book: 1.3758998
+Beta: 0.473
+52 Week High: 126.621
+52 Week Low: 91.015

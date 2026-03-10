@@ -1,0 +1,25 @@
+Company: EDAP TMS S.A. American Depositary Shares
+Ticker: EDAP
+Market Cap: 154429328
+Enterprise Value: 159239184
+Total Revenue: 63798000
+Revenue Per Share: 1.702
+EBITDA: -17375000
+Gross Margins: 0.43238
+Operating Margins: -0.35492
+Profit Margins: -0.30769
+Free Cashflow: -6746125
+Operating Cashflow: -11263000
+Return On Assets: -0.18174
+Return On Equity: -0.59518003
+Total Cash: 10567000
+Total Debt: 10692000
+Debt To Equity: 45.847
+Current Ratio: 1.412
+Quick Ratio: 0.942
+Trailing PE: 
+Forward PE: -5.5622897
+Price To Book: 5.7112947
+Beta: -0.165
+52 Week High: 5.05
+52 Week Low: 1.21

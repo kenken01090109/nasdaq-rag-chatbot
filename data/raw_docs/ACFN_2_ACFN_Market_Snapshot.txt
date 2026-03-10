@@ -1,0 +1,10 @@
+Company: Acorn Energy Inc. Common Stock
+Ticker: ACFN
+Market Cap: 45884748
+Enterprise Value: 51340476
+Trailing PE: 6.8872175
+Forward PE: 
+Price To Book: 6.396648
+Beta: 0.081
+52 Week High: 33.0
+52 Week Low: 12.42

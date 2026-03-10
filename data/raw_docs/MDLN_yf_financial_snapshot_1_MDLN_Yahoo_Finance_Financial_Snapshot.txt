@@ -1,0 +1,25 @@
+Company: Medline Inc. Class A Common Stock
+Ticker: MDLN
+Market Cap: 35574513664
+Enterprise Value: 55340072960
+Total Revenue: 28431998976
+Revenue Per Share: 35.101
+EBITDA: 3190000128
+Gross Margins: 0.26442
+Operating Margins: 0.05689
+Profit Margins: 0.040760003
+Free Cashflow: 791249984
+Operating Cashflow: 1744000000
+Return On Assets: 0.03658
+Return On Equity: 0.06529
+Total Cash: 1975000064
+Total Debt: 13013000192
+Debt To Equity: 67.474
+Current Ratio: 4.289
+Quick Ratio: 2.212
+Trailing PE: 30.650352
+Forward PE: 26.503403
+Price To Book: 3.3146791
+Beta: 
+52 Week High: 50.876
+52 Week Low: 34.89

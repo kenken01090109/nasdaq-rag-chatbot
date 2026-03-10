@@ -1,0 +1,9 @@
+Company: OKYO Pharma Limited Ordinary Shares
+Ticker: OKYO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: London
+Website: https://okyopharma.com
+Employees: 4
+Business Summary: OKYO Pharma Limited, a clinical-stage biopharmaceutical company, develops therapeutics for patients suffering from inflammatory eye diseases and ocular pain in the United Kingdom. Its lead clinical product candidate is urcosimod, which is in Phase II clinical trials for the treatment of dry eye disease; in Phase II clinical trial to treat neuropathic corneal pain; and is in preclinical trial to treat allergic conjunctivitis and uveitis. The company is also developing OK-201 for the treatment acute and chronic ocular pain. OKYO Pharma Limited was incorporated in 2007 and is headquartered in London, the United Kingdom.

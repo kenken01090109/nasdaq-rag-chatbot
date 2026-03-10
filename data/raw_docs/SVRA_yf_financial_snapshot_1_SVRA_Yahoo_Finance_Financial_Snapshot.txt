@@ -1,0 +1,25 @@
+Company: Savara Inc. Common Stock
+Ticker: SVRA
+Market Cap: 1072275520
+Enterprise Value: 1261437312
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -120388000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -55260752
+Operating Cashflow: -99261000
+Return On Assets: -0.39671
+Return On Equity: -0.78740996
+Total Cash: 124918000
+Total Debt: 29830000
+Debt To Equity: 31.604
+Current Ratio: 7.65
+Quick Ratio: 7.52
+Trailing PE: 
+Forward PE: -13.175
+Price To Book: 12.087156
+Beta: 0.256
+52 Week High: 7.005
+52 Week Low: 1.89

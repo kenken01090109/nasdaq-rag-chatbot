@@ -1,0 +1,9 @@
+Company: BCB Bancorp Inc. (NJ) Common Stock
+Ticker: BCBP
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Bayonne
+Website: https://www.bcb.bank
+Employees: 
+Business Summary: BCB Bancorp, Inc. operates as the bank holding company for BCB Community Bank that provides various banking products and services to businesses and individuals in the United States. The company offers insured deposit products, including savings and club, interest and non-interest-bearing demand, money market, and individual retirement accounts, as well as certificates of deposit. It also provides various loan products, such as commercial and multi-family real estate, one-to-four family mortgage, commercial business, construction, home equity, and consumer loans. In addition, the company offers retail and commercial banking services comprising wire transfers, money orders, safe deposit boxes, night depository, debit cards, online and mobile banking, fraud detection, and automated teller services. BCB Bancorp, Inc. was founded in 2000 and is based in Bayonne, New Jersey.

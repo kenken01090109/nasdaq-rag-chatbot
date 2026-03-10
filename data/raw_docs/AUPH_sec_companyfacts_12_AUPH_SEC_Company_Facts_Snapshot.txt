@@ -1,0 +1,11 @@
+Company: Aurinia Pharmaceuticals Inc Ordinary Shares
+Ticker: AUPH
+CIK: 0001600620
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 205941000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 76408000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 527528000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 161757000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 365771000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 89990000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72889000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

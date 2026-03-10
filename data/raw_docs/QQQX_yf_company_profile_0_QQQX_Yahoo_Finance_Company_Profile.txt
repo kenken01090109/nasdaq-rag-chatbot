@@ -1,0 +1,9 @@
+Company: Nuveen NASDAQ 100 Dynamic Overwrite Fund Shares of Beneficial Interest
+Ticker: QQQX
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Chicago
+Website: https://www.nuveen.com/CEF/Product/Overview.aspx?FundCode=QQQX
+Employees: 
+Business Summary: Nuveen Nasdaq 100 Dynamic Overwrite Fund is a closed-ended equity indexed mutual fund launched by Nuveen Investments, Inc. The fund is co-managed by Nuveen Asset Management, LLC and Nuveen Fund Advisors LLC. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in the stocks of large-cap companies. The fund also invests through index call options. It seeks to replicate the performance of its portfolio against the NASDAQ 100 Index. The fund was previously known as NASDAQ Premium Income & Growth Fund Inc. Nuveen Nasdaq 100 Dynamic Overwrite Fund was formed on January 30, 2007 and is domiciled in the United States.

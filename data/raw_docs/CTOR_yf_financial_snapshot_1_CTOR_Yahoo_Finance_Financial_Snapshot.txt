@@ -1,0 +1,25 @@
+Company: Citius Oncology Inc. Common Stock
+Ticker: CTOR
+Market Cap: 90040712
+Enterprise Value: 86545368
+Total Revenue: 3944111
+Revenue Per Share: 0.051
+EBITDA: 
+Gross Margins: 0.7999
+Operating Margins: -1.3316799
+Profit Margins: 0.0
+Free Cashflow: -24720178
+Operating Cashflow: -12846992
+Return On Assets: -0.13956
+Return On Equity: -0.47412997
+Total Cash: 7295451
+Total Debt: 3800111
+Debt To Equity: 6.506
+Current Ratio: 0.831
+Quick Ratio: 0.254
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4804063
+Beta: 3.042
+52 Week High: 6.19
+52 Week Low: 0.551

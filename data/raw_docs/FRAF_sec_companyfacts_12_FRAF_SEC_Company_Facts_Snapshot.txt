@@ -1,0 +1,10 @@
+Company: Franklin Financial Services Corporation Common Stock
+Ticker: FRAF
+CIK: 0000723646
+Latest SEC XBRL Facts:
+NetIncomeLoss: 15183000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2297077000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2130734000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 166343000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22257000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 188144000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

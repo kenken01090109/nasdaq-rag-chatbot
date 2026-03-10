@@ -1,0 +1,25 @@
+Company: Semtech Corporation Common Stock
+Ticker: SMTC
+Market Cap: 7590135296
+Enterprise Value: 7931778560
+Total Revenue: 1026622016
+Revenue Per Share: 12.004
+EBITDA: 165411008
+Gross Margins: 0.52919
+Operating Margins: 0.119160004
+Profit Margins: 0.02782
+Free Cashflow: 125731376
+Operating Cashflow: 153176992
+Return On Assets: 0.0563
+Return On Equity: 0.13411
+Total Cash: 174190000
+Total Debt: 515832992
+Debt To Equity: 91.192
+Current Ratio: 2.433
+Quick Ratio: 1.328
+Trailing PE: 146.46428
+Forward PE: 38.135357
+Price To Book: 13.384464
+Beta: 2.035
+52 Week High: 96.46
+52 Week Low: 24.05

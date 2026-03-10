@@ -1,0 +1,10 @@
+Company: Aduro Clean Technologies Inc. Common Stock
+Ticker: ADUR
+Market Cap: 388361952
+Enterprise Value: 360771424
+Trailing PE: 
+Forward PE: -25.53956
+Price To Book: 27.912086
+Beta: 1.203
+52 Week High: 17.66
+52 Week Low: 3.49

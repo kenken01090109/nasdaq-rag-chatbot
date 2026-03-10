@@ -1,0 +1,25 @@
+Company: TMC the metals company Inc. Common Stock
+Ticker: TMC
+Market Cap: 3064605952
+Enterprise Value: 2348764672
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -111442000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -2146625
+Operating Cashflow: -45214000
+Return On Assets: -0.5893
+Return On Equity: 
+Total Cash: 115648000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.503
+Quick Ratio: 2.503
+Trailing PE: 
+Forward PE: -25.466667
+Price To Book: -57.878788
+Beta: 1.917
+52 Week High: 11.35
+52 Week Low: 1.57

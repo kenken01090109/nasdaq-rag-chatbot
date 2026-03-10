@@ -1,0 +1,25 @@
+Company: Nortech Systems Incorporated Common Stock
+Ticker: NSYS
+Market Cap: 25627148
+Enterprise Value: 46279148
+Total Revenue: 116672000
+Revenue Per Share: 42.131
+EBITDA: 741000
+Gross Margins: 0.1351
+Operating Margins: 0.031
+Profit Margins: -0.02252
+Free Cashflow: -786875
+Operating Cashflow: -2072000
+Return On Assets: -0.0047999998
+Return On Equity: -0.07609
+Total Cash: 1271000
+Total Debt: 21096000
+Debt To Equity: 63.243
+Current Ratio: 1.762
+Quick Ratio: 1.054
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.77405536
+Beta: 0.037
+52 Week High: 12.4
+52 Week Low: 6.5

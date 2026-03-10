@@ -1,0 +1,12 @@
+Company: National CineMedia Inc. Common Stock
+Ticker: NCMI
+CIK: 0001377630
+Latest SEC XBRL Facts:
+Revenues: 15700000 | unit=USD | filed=2021-03-09 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 150000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25
+NetIncomeLoss: -39900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25
+Assets: 451900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25
+Liabilities: 101400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25
+StockholdersEquity: 350500000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25
+NetCashProvidedByUsedInOperatingActivities: 100000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25
+CashAndCashEquivalentsAtCarryingValue: 29900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-25

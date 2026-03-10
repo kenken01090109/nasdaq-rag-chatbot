@@ -1,0 +1,9 @@
+Company: Zenvia Inc. Class A Common Stock
+Ticker: ZENV
+Sector: Technology
+Industry: Software - Application
+Country: Brazil
+City: São Paulo
+Website: https://www.zenvia.com
+Employees: 956
+Business Summary: Zenvia Inc. develops a cloud-based platform that enables organizations to integrate various communication capabilities in Brazil, the United States, Argentina, Mexico, the Netherlands, Malta, Peru, Switzerland, Colombia, Chile, and internationally. It operates in Software-as-a-Service and Communications Platform as a Service segments. The company offers Zenvia Attraction, an active multi-channel end-customer acquisition campaigns utilizing data intelligence and multi-channel automation solution; Zenvia Conversion, which converts leads into sales using various communication channels; Zenvia Service that enables companies to provide customer service with structured support across various channels; and Zenvia Success, which protects and expands costumer revenue through cross-selling and upselling. It also provides Zenvia API, an application programming interface; Zenvia Bots, a visual, low-code, multi-channel tool that allows the creation of business solutions; Zenvia Chat, which allows centralized customer support through a single box; Zenvia Docs that enables companies to manage documents; and Zenvia NLU (Natural-Language Understanding), which provides a solution for creating chatbots. In addition, the company offers communications platform as a service, such as SMS, Voice, WhatsApp, Instagram, and Webchat that orchestrated and automated by chatbots, single customer view, journey designer, documents composer, and authentication, as well as consulting services. Zenvia Inc. was incorporated in 2020 and is based in São Paulo, Brazil.

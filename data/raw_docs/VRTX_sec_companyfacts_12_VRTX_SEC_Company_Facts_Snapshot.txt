@@ -1,0 +1,12 @@
+Company: Vertex Pharmaceuticals Incorporated Common Stock
+Ticker: VRTX
+CIK: 0000875320
+Latest SEC XBRL Facts:
+Revenues: 640799000 | unit=USD | filed=2018-04-27 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 8811300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 2762100000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 24862300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 7543500000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 17318800000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3133400000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4939600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Rumble Inc. Warrant
+Ticker: RUMBW
+Sector: 
+Industry: 
+Country: United States
+City: Longboat Key
+Website: https://rumble.com
+Employees: 
+Business Summary: Rumble Inc. operates video sharing platforms and cloud services in the United States, Canada, and internationally. The company operates rumble.com, a free-to-use video sharing and livestreaming platform where users can subscribe to channels to stay in touch with creators, and access video on-demand (VOD) and live content streamed by creators. It also operates locals.com, a platform where users can access free content and purchase subscriptions to support creators and access exclusive content in creator communities; Rumble Streaming Marketplace, a patent-pending application designed to enable a first-of-its-kind livestreaming and monetization service for creators; and Rumble Advertising Center (RAC), an in-house advertising marketplace and network. In addition, the company offers Rumble Cloud, an infrastructure-as-a-service offering that provides computing, storage, security, and networking services for startups, small and medium sized businesses, and enterprise clients. Rumble Inc. was founded in 2013 and is headquartered in Longboat Key, Florida.

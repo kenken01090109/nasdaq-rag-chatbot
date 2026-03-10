@@ -1,0 +1,11 @@
+Company: GameSquare Holdings Inc. Common Stock
+Ticker: GAME
+CIK: 0001714562
+Latest SEC XBRL Facts:
+Revenues: 26542646 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 26542646 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -8982393 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 121119259 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 42375587 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 78743672 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17255117 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

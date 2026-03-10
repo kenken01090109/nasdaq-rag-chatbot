@@ -1,0 +1,10 @@
+Company: Canton Strategic Holdings Inc. Common Stock
+Ticker: CNTN
+CIK: 0001861657
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6498695 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 7699378 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1544551 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6154827 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5686700 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7610340 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

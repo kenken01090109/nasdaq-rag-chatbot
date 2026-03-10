@@ -1,0 +1,25 @@
+Company: Niagen Bioscience Inc. Common Stock
+Ticker: NAGE
+Market Cap: 403819040
+Enterprise Value: 347443200
+Total Revenue: 129423000
+Revenue Per Share: 1.635
+EBITDA: 15081000
+Gross Margins: 0.64277
+Operating Margins: 0.06215
+Profit Margins: 0.13430001
+Free Cashflow: 4882000
+Operating Cashflow: 13504000
+Return On Assets: 0.102299996
+Return On Equity: 0.28349
+Total Cash: 64636000
+Total Debt: 2817000
+Debt To Equity: 3.681
+Current Ratio: 4.86
+Quick Ratio: 3.734
+Trailing PE: 21.083334
+Forward PE: 14.666667
+Price To Book: 5.281837
+Beta: 2.233
+52 Week High: 14.69
+52 Week Low: 4.73

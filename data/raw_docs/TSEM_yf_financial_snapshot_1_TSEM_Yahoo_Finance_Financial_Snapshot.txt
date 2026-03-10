@@ -1,0 +1,25 @@
+Company: Tower Semiconductor Ltd. Ordinary Shares
+Ticker: TSEM
+Market Cap: 12435594240
+Enterprise Value: 12559752192
+Total Revenue: 1566104064
+Revenue Per Share: 13.985
+EBITDA: 497284000
+Gross Margins: 0.23233
+Operating Margins: 0.1609
+Profit Margins: 0.14078
+Free Cashflow: -1194750
+Operating Cashflow: 395481984
+Return On Assets: 0.03791
+Return On Equity: 0.07893
+Total Cash: 1151910016
+Total Debt: 161518000
+Debt To Equity: 5.561
+Current Ratio: 6.482
+Quick Ratio: 5.425
+Trailing PE: 57.00515
+Forward PE: 23.071642
+Price To Book: 4.2631354
+Beta: 0.938
+52 Week High: 149.57
+52 Week Low: 28.64

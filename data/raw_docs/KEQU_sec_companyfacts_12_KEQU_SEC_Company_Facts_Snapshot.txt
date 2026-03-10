@@ -1,0 +1,12 @@
+Company: Kewaunee Scientific Corporation Common Stock
+Ticker: KEQU
+CIK: 0000055529
+Latest SEC XBRL Facts:
+Revenues: 113542000 | unit=USD | filed=2018-03-09 | period_end=2018-01-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 141200000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetIncomeLoss: 5538000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Assets: 189075000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Liabilities: 117358000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+StockholdersEquity: 69852000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 1526000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 12594000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31

@@ -1,0 +1,9 @@
+Company: ioneer Ltd American Depositary Shares
+Ticker: IONR
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Australia
+City: North Sydney
+Website: https://www.ioneer.com
+Employees: 
+Business Summary: ioneer Ltd engages in the exploration and development of mineral properties, such as lithium and boron in North America. It holds 100% interest in the Rhyolite Ridge lithium-boron project located in the state of Nevada, the United States. The company was formerly known as Global Geoscience Limited and changed its name to ioneer Ltd in November 2018. The company was incorporated in 2001 and is based in North Sydney, Australia.

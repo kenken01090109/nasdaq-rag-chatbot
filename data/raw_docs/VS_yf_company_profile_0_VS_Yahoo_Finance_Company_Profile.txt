@@ -1,0 +1,9 @@
+Company: Versus Systems Inc. Common Stock
+Ticker: VS
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Dover
+Website: https://www.versussystems.com
+Employees: 5
+Business Summary: Versus Systems Inc. provides a business-to-business software platform to drive user engagement through gamification and rewards. The company offers the eXtreme Engagement Online platform, which is designed primarily for main-board work in stadiums and arenas; the Filter Fan Cam platform, an augmented reality filtering tool that can be used for mobile and venue applications; and Winfinite, an interactive advertising tool that allows content creators, marketers, agencies, and other advertisers to increase customer acquisition and loyalty through a combination of games and rewards. Versus Systems Inc. was incorporated in 1988 and is headquartered in Dover, Delaware.

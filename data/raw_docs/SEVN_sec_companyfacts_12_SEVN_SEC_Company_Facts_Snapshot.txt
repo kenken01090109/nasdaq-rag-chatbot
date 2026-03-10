@@ -1,0 +1,11 @@
+Company: Seven Hills Realty Trust Common Stock
+Ticker: SEVN
+CIK: 0001452477
+Latest SEC XBRL Facts:
+Revenues: 22079000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetIncomeLoss: 10640000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Assets: 700844000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Liabilities: 434363000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+StockholdersEquity: 266481000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11828000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 77495000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30

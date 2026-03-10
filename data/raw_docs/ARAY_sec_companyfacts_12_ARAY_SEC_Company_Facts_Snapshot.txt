@@ -1,0 +1,12 @@
+Company: Accuray Incorporated Common Stock
+Ticker: ARAY
+CIK: 0001138723
+Latest SEC XBRL Facts:
+Revenues: 113786000 | unit=USD | filed=2018-08-24 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 196183000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -35448000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 448009000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 394589000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 53420000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3806000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 41295000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

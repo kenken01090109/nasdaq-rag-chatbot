@@ -1,0 +1,11 @@
+Company: Syndax Pharmaceuticals Inc. Common Stock
+Ticker: SNDX
+CIK: 0001395937
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 103624000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -217408000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 551792000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 436362000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 115430000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -253492000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 116808000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Bogota Financial Corp. Common Stock
+Ticker: BSBK
+CIK: 0001787414
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1409967 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 925813867 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 785120490 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 140693377 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2196565 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 31248801 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

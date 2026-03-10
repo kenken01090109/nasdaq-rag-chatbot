@@ -1,0 +1,9 @@
+Company: Scienjoy Holding Corporation Class A Ordinary Shares
+Ticker: SJ
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: China
+City: Hangzhou
+Website: https://www.scienjoy.com
+Employees: 280
+Business Summary: Scienjoy Holding Corporation engages in the provision of mobile live streaming platforms in the People's Republic of China. The company focuses on interactive show live streaming from broadcasters to users. Its platforms enable users to view and interact with broadcasters through online chat, virtual items, and playing games. The company operates live streaming platforms under the Showself Live Streaming, Lehai Live Streaming, Haixiu Live Streaming, BeeLive Live Streaming, and Hongle Live Streaming brand names. It also offers technical development and advisory services. The company was founded in 2011 and is based in Hangzhou, the People's Republic of China.

@@ -1,0 +1,9 @@
+Company: TruBridge Inc. Common Stock
+Ticker: TBRG
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Mobile
+Website: https://trubridge.com
+Employees: 3200
+Business Summary: TruBridge, Inc. provides healthcare solutions and services for community hospitals, clinics, and other healthcare systems in the United States and internationally. The company operates in two segments, Financial Health and Patient Care. It focuses on providing revenue cycle management (RCM) solutions for care settings, and analytics and business intelligence. The company also provides acute care solutions and related services for community hospitals and their physician clinics; and patient engagement and empowerment technology solutions to improve patient outcomes and engagement strategies with care providers. In addition, it offers patient liability estimate, eligibility verification, claim scrubbing and submission, remittance management, denial/audit management, and contract management services; and RCM services, such as accounts receivable management, private pay, medical coding, revenue cycle consulting, and other insurance and patient billing services. Further, the company provides consulting and business management services; managed IT services; encoder solutions; and patient management, financial accounting, clinical, patient care, and enterprise applications. Additionally, it offers acute care software systems, and support and maintenance services; and InstantPHR, an interactive portal, which is designed to serve patient populations and health organizations' needs; and CHBase that funnels data from multiple sources into one platform. The company was formerly known as Computer Programs and Systems, Inc. and changed its name to TruBridge, Inc. in March 2024. TruBridge, Inc. was founded in 1979 and is headquartered in Mobile, Alabama.

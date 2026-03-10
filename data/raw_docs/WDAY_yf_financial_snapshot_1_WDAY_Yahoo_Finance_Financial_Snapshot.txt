@@ -1,0 +1,25 @@
+Company: Workday Inc. Class A Common Stock
+Ticker: WDAY
+Market Cap: 40327680000
+Enterprise Value: 36832161792
+Total Revenue: 9552000000
+Revenue Per Share: 36.032
+EBITDA: 1371000064
+Gross Margins: 0.75701
+Operating Margins: 0.12006
+Profit Margins: 0.07255
+Free Cashflow: 3084000000
+Operating Cashflow: 2939000064
+Return On Assets: 0.03551
+Return On Equity: 0.08231
+Total Cash: 5442999808
+Total Debt: 3820999936
+Debt To Equity: 48.956
+Current Ratio: 1.322
+Quick Ratio: 1.219
+Trailing PE: 58.3166
+Forward PE: 12.123868
+Price To Book: 5.056071
+Beta: 1.167
+52 Week High: 276.0
+52 Week Low: 117.76

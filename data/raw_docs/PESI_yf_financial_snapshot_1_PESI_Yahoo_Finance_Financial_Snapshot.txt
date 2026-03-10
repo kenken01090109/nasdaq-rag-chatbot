@@ -1,0 +1,25 @@
+Company: Perma-Fix Environmental Services Inc. Common Stock
+Ticker: PESI
+Market Cap: 246099728
+Enterprise Value: 243806272
+Total Revenue: 60661000
+Revenue Per Share: 3.391
+EBITDA: -10303000
+Gross Margins: 0.08828
+Operating Margins: -0.10702
+Profit Margins: -0.19143999
+Free Cashflow: -11873750
+Operating Cashflow: -11933000
+Return On Assets: -0.08911
+Return On Equity: -0.23256001
+Total Cash: 16412000
+Total Debt: 4119000
+Debt To Equity: 7.44
+Current Ratio: 1.77
+Quick Ratio: 1.537
+Trailing PE: 
+Forward PE: 40.272724
+Price To Book: 4.4359145
+Beta: 0.399
+52 Week High: 16.5
+52 Week Low: 6.25

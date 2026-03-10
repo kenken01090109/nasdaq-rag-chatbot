@@ -1,0 +1,12 @@
+Company: BioRestorative Therapies Inc. Common Stock (NV)
+Ticker: BRTX
+CIK: 0001505497
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-08-13 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 340100 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -11034339 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 5642662 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 3671235 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+StockholdersEquity: 2206979 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8373790 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 602444 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Xeris Biopharma Holdings Inc. Common Stock
+Ticker: XERS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Chicago
+Website: https://www.xerispharma.com
+Employees: 435
+Business Summary: Xeris Biopharma Holdings, Inc., a commercial-stage biopharmaceutical company, engages in developing and commercializing therapies for chronic endocrine and neurological diseases in Illinois. It offers Gvoke, a ready-to-use liquid-stable glucagon for the treatment of severe hypoglycemia in pediatric and adult patients; Keveyis, a therapy for the treatment of hyperkalemic, hypokalemic, and related variants of primary periodic paralysis; and Recorlev, a cortisol synthesis inhibitor for the treatment of endogenous hypercortisolemia in adult patients with Cushing's syndrome. It is also developing XP-8121, a once-weekly subcutaneous injection of levothyroxine that is in phase 3 clinical trial for the treatment of hypothyroidism. The company was incorporated in 2005 and is headquartered in Chicago, Illinois.

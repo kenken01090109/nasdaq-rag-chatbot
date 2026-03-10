@@ -1,0 +1,10 @@
+Company: Gladstone Investment Corporation Business Development Company
+Ticker: GAIN
+CIK: 0001321741
+Latest SEC XBRL Facts:
+NetIncomeLoss: 102379000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 1236619000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 641211000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 595408000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -118425000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4118000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30

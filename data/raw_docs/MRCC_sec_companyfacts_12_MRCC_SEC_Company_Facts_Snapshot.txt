@@ -1,0 +1,10 @@
+Company: Monroe Capital Corporation Common Stock
+Ticker: MRCC
+CIK: 0001512931
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2474000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 388952000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 215914000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 173038000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 92670000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3526000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

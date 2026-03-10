@@ -1,0 +1,9 @@
+Company: Identiv Inc. Common Stock
+Ticker: INVE
+Sector: Industrials
+Industry: Building Products & Equipment
+Country: United States
+City: Santa Ana
+Website: https://www.identiv.com
+Employees: 166
+Business Summary: Identiv, Inc., develops, manufactures, and supplies specialty IoT products in the United States, Europe, the Middle East, and the Asia-Pacific. The company offers specialty radio-frequency identification (RFID) and Internet of Things (IoT) devices, including near field communication, high frequency, dual frequency, ultra-high frequency, and bluetooth low energy that are attached to or embedded into physical items, such as syringes, pill containers, wine bottles, and sports jerseys, providing unique digital identity. It serves its products to pharmaceutical and medical devices, consumer electronics, mobile devices, wine and spirits, luxury goods, libraries, and logistics. The company was formerly known as Identive Group, Inc. and changed its name to Identiv, Inc. in May 2014. Identiv, Inc. was founded in 1990 and is headquartered in Santa Ana, California.

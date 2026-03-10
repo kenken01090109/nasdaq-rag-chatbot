@@ -1,0 +1,9 @@
+Company: EZCORP Inc. Class A Non Voting Common Stock
+Ticker: EZPW
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Austin
+Website: https://www.ezcorp.com
+Employees: 8500
+Business Summary: EZCORP, Inc. provides pawn services in the United States, Mexixo, and Latin America. It operates through U.S. Pawn, Latin America Pawn, and Other Investments segments. The company retails merchandise, primarily collateral forfeited from pawn lending operations and pre-owned merchandise purchased from customers. It also provides pawn loans collateralized by tangible personal property, jewelry, consumer electronics, tools, sporting goods, and musical instruments. In addition, the company offers EZ+, a web-based application that allow customers to manage their pawn transactions, layaways, and loyalty rewards online. Further, the company operates under the EZPAWN, Value Pawn & Jewelry, Empeño Fácil, Cash Apoyo Efectivo, GuatePrenda, and MaxiEfectivo brands. EZCORP, Inc. was incorporated in 1989 and is headquartered in Austin, Texas.

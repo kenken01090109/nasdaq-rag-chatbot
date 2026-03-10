@@ -1,0 +1,11 @@
+Company: OSR Holdings Inc. Common Stock
+Ticker: OSRH
+CIK: 0001840425
+Latest SEC XBRL Facts:
+Revenues: 2524536 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -388686 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+Assets: 177289528 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 43131683 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -5753955 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -3258041 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2177309 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

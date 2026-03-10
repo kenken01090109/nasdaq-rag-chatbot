@@ -1,0 +1,11 @@
+Company: Silicom Ltd Ordinary Shares
+Ticker: SILC
+CIK: 0000916793
+Latest SEC XBRL Facts:
+Revenues: 58114000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetIncomeLoss: -13708000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+Assets: 150409000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+Liabilities: 22570000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+StockholdersEquity: 127839000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 18288000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 51283000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31

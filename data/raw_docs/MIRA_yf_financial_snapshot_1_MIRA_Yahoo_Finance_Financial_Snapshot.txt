@@ -1,0 +1,25 @@
+Company: MIRA Pharmaceuticals Inc. Common Stock
+Ticker: MIRA
+Market Cap: 48576260
+Enterprise Value: 41877876
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -2723576
+Operating Cashflow: -5331662
+Return On Assets: -0.74644995
+Return On Equity: -1.2332599
+Total Cash: 7535905
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 90.53
+Quick Ratio: 89.792
+Trailing PE: 
+Forward PE: -2.8292682
+Price To Book: 6.0732985
+Beta: 1.805
+52 Week High: 2.45
+52 Week Low: 0.73

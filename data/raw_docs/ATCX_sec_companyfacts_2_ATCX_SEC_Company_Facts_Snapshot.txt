@@ -1,0 +1,12 @@
+Company: Atlas Critical Minerals Corporation Common Stock
+Ticker: ATCX
+CIK: 0001684688
+Latest SEC XBRL Facts:
+Revenues: 667131 | unit=USD | filed=2025-02-28 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 92491 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetIncomeLoss: -5420195 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Assets: 2650875 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Liabilities: 1846401 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+StockholdersEquity: 804474 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -2983086 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 30220 | unit=USD | filed=2026-02-20 | period_end=2025-12-31

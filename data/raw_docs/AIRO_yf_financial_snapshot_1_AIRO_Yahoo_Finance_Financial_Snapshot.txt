@@ -1,0 +1,25 @@
+Company: AIRO Group Holdings Inc. Common Stock
+Ticker: AIRO
+Market Cap: 315542656
+Enterprise Value: 246735296
+Total Revenue: 82357984
+Revenue Per Share: 4.136
+EBITDA: -6461594
+Gross Margins: 0.63782
+Operating Margins: -1.9065
+Profit Margins: -0.058509998
+Free Cashflow: -19645162
+Operating Cashflow: -12582179
+Return On Assets: -0.01584
+Return On Equity: -0.00741
+Total Cash: 83485824
+Total Debt: 14678471
+Debt To Equity: 1.985
+Current Ratio: 3.324
+Quick Ratio: 2.655
+Trailing PE: 
+Forward PE: -19.572817
+Price To Book: 0.42666668
+Beta: 
+52 Week High: 39.07
+52 Week Low: 7.28

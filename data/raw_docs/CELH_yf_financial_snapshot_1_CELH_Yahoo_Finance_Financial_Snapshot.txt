@@ -1,0 +1,25 @@
+Company: Celsius Holdings Inc. Common Stock
+Ticker: CELH
+Market Cap: 11064144896
+Enterprise Value: 13067444224
+Total Revenue: 2515269120
+Revenue Per Share: 9.969
+EBITDA: 547995712
+Gross Margins: 0.50386
+Operating Margins: 0.11216
+Profit Margins: 0.042940002
+Free Cashflow: 69532816
+Operating Cashflow: 359441984
+Return On Assets: 0.094119996
+Return On Equity: 0.05185
+Total Cash: 398865984
+Total Debt: 676926016
+Debt To Equity: 23.013
+Current Ratio: 1.679
+Quick Ratio: 1.07
+Trailing PE: 171.68
+Forward PE: 20.857834
+Price To Book: 9.332463
+Beta: 0.956
+52 Week High: 66.74
+52 Week Low: 25.3

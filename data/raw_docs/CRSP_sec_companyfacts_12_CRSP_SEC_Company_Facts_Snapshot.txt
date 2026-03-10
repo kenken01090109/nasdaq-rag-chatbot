@@ -1,0 +1,12 @@
+Company: CRISPR Therapeutics AG Common Shares
+Ticker: CRSP
+CIK: 0001674416
+Latest SEC XBRL Facts:
+Revenues: 157000 | unit=USD | filed=2020-04-28 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2646000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -450986000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2245308000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 329326000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1915982000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -252461000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 286497000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Tempest Therapeutics Inc. Common Stock
+Ticker: TPST
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Brisbane
+Website: https://www.tempesttx.com
+Employees: 24
+Business Summary: Tempest Therapeutics, Inc., a clinical-stage biotechnology company, develops small molecule therapeutics to treat cancer. Its clinical-stage lead product candidates include Amezalpat, an oral small molecule selective antagonist of peroxisome proliferator-activated receptor alpha for the treatment of first-line unresectable or metastatic hepatocellular carcinoma; and TPST-1495, a small-molecule dual antagonist of the EP2 and EP4 receptors of prostaglandin E2 for treating various cancers. The company has a collaboration agreement with F. Hoffmann-La Roche Ltd. for the development of Amezalpat into a global first-line randomized study. Tempest Therapeutics, Inc. is headquartered in Brisbane, California.

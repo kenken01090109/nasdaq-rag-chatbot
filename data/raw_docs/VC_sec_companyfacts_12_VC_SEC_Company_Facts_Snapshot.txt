@@ -1,0 +1,11 @@
+Company: Visteon Corporation Common Stock
+Ticker: VC
+CIK: 0001111335
+Latest SEC XBRL Facts:
+Revenues: 2820000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2820000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 187000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 3254000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 1483000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 292000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 762000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

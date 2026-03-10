@@ -1,0 +1,12 @@
+Company: ACADIA Pharmaceuticals Inc. Common Stock
+Ticker: ACAD
+CIK: 0001070494
+Latest SEC XBRL Facts:
+Revenues: 726437000 | unit=USD | filed=2024-02-28 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 787516000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 117432000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1330771000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 413499000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 917272000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 158567000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 257996000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Turn Therapeutics Inc. Common Stock
+Ticker: TTRX
+CIK: 0002023016
+Latest SEC XBRL Facts:
+NetIncomeLoss: -3473150 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 4297630 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 3793611 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 504019 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1386634 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 513695 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

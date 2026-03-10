@@ -1,0 +1,25 @@
+Company: BUUU Group Limited Class A Ordinary Share
+Ticker: BUUU
+Market Cap: 211105504
+Enterprise Value: 211738672
+Total Revenue: 6328425
+Revenue Per Share: 0.422
+EBITDA: 1071571
+Gross Margins: 0.31027
+Operating Margins: 0.23115
+Profit Margins: 0.12537
+Free Cashflow: 533358
+Operating Cashflow: 336061
+Return On Assets: 0.25075
+Return On Equity: 0.67014
+Total Cash: 101535
+Total Debt: 699880
+Debt To Equity: 67.067
+Current Ratio: 1.605
+Quick Ratio: 1.454
+Trailing PE: 180.85715
+Forward PE: 
+Price To Book: 188.95522
+Beta: 
+52 Week High: 20.76
+52 Week Low: 3.67

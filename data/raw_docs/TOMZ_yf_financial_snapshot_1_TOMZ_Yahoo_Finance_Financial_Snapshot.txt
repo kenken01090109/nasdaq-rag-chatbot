@@ -1,0 +1,25 @@
+Company: TOMI Environmental Solutions Inc. Common Stock
+Ticker: TOMZ
+Market Cap: 13243042
+Enterprise Value: 14291733
+Total Revenue: 5688341
+Revenue Per Share: 0.284
+EBITDA: -5079247
+Gross Margins: 0.40989
+Operating Margins: -0.15978
+Profit Margins: -0.91401
+Free Cashflow: 727254
+Operating Cashflow: -564071
+Return On Assets: -0.32658002
+Return On Equity: -1.19946
+Total Cash: 490022
+Total Debt: 3441751
+Debt To Equity: 155.984
+Current Ratio: 1.983
+Quick Ratio: 0.438
+Trailing PE: 
+Forward PE: -8.163751
+Price To Book: 0.9850679
+Beta: 1.602
+52 Week High: 1.2
+52 Week Low: 0.54

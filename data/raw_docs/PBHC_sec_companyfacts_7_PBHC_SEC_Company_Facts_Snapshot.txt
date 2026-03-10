@@ -1,0 +1,10 @@
+Company: Pathfinder Bancorp Inc. Common Stock (MD)
+Ticker: PBHC
+CIK: 0001609065
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3631000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1472268000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1345929000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 126339000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9008000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35974000 | unit=USD | filed=2018-11-13 | period_end=2018-09-30

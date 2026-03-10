@@ -1,0 +1,25 @@
+Company: Seneca Foods Corp. Class B Common Stock
+Ticker: SENEB
+Market Cap: 944283328
+Enterprise Value: 1203890304
+Total Revenue: 1611666944
+Revenue Per Share: 234.749
+EBITDA: 175204000
+Gross Margins: 0.12575
+Operating Margins: 0.12347999
+Profit Margins: 0.05584
+Free Cashflow: 151788128
+Operating Cashflow: 206030000
+Return On Assets: 0.06667
+Return On Equity: 0.13567
+Total Cash: 33314000
+Total Debt: 294187008
+Debt To Equity: 41.211
+Current Ratio: 4.343
+Quick Ratio: 0.704
+Trailing PE: 10.740371
+Forward PE: 
+Price To Book: 1.3328298
+Beta: 0.068
+52 Week High: 139.41
+52 Week Low: 85.51

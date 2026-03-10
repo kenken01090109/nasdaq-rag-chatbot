@@ -1,0 +1,25 @@
+Company: Atlanticus Holdings Corporation 7.625% Series B Cumulative Perpetual Preferred Stock no par value per share
+Ticker: ATLCP
+Market Cap: 
+Enterprise Value: 6043146752
+Total Revenue: 498496000
+Revenue Per Share: 33.139
+EBITDA: 
+Gross Margins: 0.71699995
+Operating Margins: 0.28209
+Profit Margins: 0.23746
+Free Cashflow: 
+Operating Cashflow: 494313984
+Return On Assets: 0.023120001
+Return On Equity: 0.19589001
+Total Cash: 425023008
+Total Debt: 6060980224
+Debt To Equity: 970.053
+Current Ratio: 15.667
+Quick Ratio: 15.313
+Trailing PE: 3.2343278
+Forward PE: 
+Price To Book: 0.6316735
+Beta: 1.936
+52 Week High: 25.0
+52 Week Low: 21.66

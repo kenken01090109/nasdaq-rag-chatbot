@@ -1,0 +1,8 @@
+Company: Adamas Trust Inc. 9.125% Senior Notes Due 2030
+Ticker: ADAMG
+Total Cash: 211055008
+Total Debt: 11008335872
+Debt To Equity: 769.579
+Current Ratio: 32.543
+Quick Ratio: 31.054
+Book Value: 9.816

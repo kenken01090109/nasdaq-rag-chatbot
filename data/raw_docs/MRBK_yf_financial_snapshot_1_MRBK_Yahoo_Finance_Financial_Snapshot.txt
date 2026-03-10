@@ -1,0 +1,25 @@
+Company: Meridian Corporation Common Stock
+Ticker: MRBK
+Market Cap: 225640080
+Enterprise Value: 358310240
+Total Revenue: 111706000
+Revenue Per Share: 9.863
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.30034
+Profit Margins: 0.19548
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00883
+Return On Equity: 0.118140005
+Total Cash: 35778000
+Total Debt: 167191008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.095238
+Forward PE: 7.186441
+Price To Book: 1.1259295
+Beta: 0.755
+52 Week High: 21.67
+52 Week Low: 11.16

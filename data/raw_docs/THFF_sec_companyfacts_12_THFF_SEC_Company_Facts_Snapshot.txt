@@ -1,0 +1,10 @@
+Company: First Financial Corporation Common Stock
+Ticker: THFF
+CIK: 0000714562
+Latest SEC XBRL Facts:
+NetIncomeLoss: 57754000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 5669686000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 5047468000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 622218000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 60629000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 60884000 | unit=USD | filed=2019-08-07 | period_end=2019-06-30

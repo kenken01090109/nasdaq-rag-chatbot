@@ -1,0 +1,12 @@
+Company: Novanta Inc. Tangible Equity Units
+Ticker: NOVTU
+CIK: 0001076930
+Latest SEC XBRL Facts:
+Revenues: 146965000 | unit=USD | filed=2018-05-08 | period_end=2018-03-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 722251000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+NetIncomeLoss: 36358000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+Assets: 1505811000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+Liabilities: 704335000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+StockholdersEquity: 801476000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 55251000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 89221000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26

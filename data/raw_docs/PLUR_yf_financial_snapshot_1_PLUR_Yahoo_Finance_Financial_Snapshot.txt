@@ -1,0 +1,25 @@
+Company: Pluri Inc. Common Stock
+Ticker: PLUR
+Market Cap: 32966436
+Enterprise Value: 60817436
+Total Revenue: 1339000
+Revenue Per Share: 0.164
+EBITDA: -24435000
+Gross Margins: 0.40627
+Operating Margins: -32.85859
+Profit Margins: 0.0
+Free Cashflow: -14348750
+Operating Cashflow: -20152000
+Return On Assets: -0.50598
+Return On Equity: 
+Total Cash: 12482000
+Total Debt: 34938000
+Debt To Equity: 
+Current Ratio: 0.427
+Quick Ratio: 0.391
+Trailing PE: 
+Forward PE: -1.7263157
+Price To Book: -2.2404373
+Beta: 0.73
+52 Week High: 7.13
+52 Week Low: 2.82

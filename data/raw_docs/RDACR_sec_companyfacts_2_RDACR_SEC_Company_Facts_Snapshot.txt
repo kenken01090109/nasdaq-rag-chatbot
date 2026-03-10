@@ -1,0 +1,9 @@
+Company: Rising Dragon Acquisition Corp. Rights
+Ticker: RDACR
+CIK: 0002018145
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1305166 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 60164076 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1963935 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -1958315 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -456929 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

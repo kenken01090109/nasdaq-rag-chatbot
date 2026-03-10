@@ -1,0 +1,10 @@
+Company: StoneBridge Acquisition II Corporation Rights
+Ticker: APACR
+CIK: 0002043630
+Latest SEC XBRL Facts:
+NetIncomeLoss: -58376 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 501117 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 542060 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -40943 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 187186 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

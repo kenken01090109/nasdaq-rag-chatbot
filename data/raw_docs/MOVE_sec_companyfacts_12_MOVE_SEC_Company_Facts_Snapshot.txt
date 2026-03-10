@@ -1,0 +1,11 @@
+Company: Movano Inc. Common Stock
+Ticker: MOVE
+CIK: 0001734750
+Latest SEC XBRL Facts:
+Revenues: 389000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -12432000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 5557000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7258000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -1701000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9008000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2000000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

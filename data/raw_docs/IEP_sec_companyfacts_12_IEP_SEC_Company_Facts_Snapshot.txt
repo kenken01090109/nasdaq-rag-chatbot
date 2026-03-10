@@ -1,0 +1,11 @@
+Company: Icahn Enterprises L.P. Common Stock
+Ticker: IEP
+CIK: 0000813762
+Latest SEC XBRL Facts:
+Revenues: 6961000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -300000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 14826000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 11407000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 5691000000 | unit=USD | filed=2019-08-06 | period_end=2019-06-30
+NetCashProvidedByUsedInOperatingActivities: 108000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1787000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

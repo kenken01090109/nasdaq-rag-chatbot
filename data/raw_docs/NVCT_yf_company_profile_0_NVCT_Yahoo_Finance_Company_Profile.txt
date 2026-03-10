@@ -1,0 +1,9 @@
+Company: Nuvectis Pharma Inc. Common Stock
+Ticker: NVCT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Fort Lee
+Website: https://www.nuvectis.com
+Employees: 13
+Business Summary: Nuvectis Pharma, Inc., a clinical-stage biopharmaceutical company, focuses on the development of precision medicines for the treatment of serious conditions of unmet medical need in oncology. The company is developing NXP900, a small molecule drug candidate, which is in Phase 1b clinical trial that inhibits the proto-oncogene c-Src and YES1 kinases for treating solid tumors. The company was formerly known as Centry Pharma, Inc. and changed its name to Nuvectis Pharma, Inc. in July 2021. Nuvectis Pharma, Inc. was incorporated in 2020 and is based in Fort Lee, New Jersey.

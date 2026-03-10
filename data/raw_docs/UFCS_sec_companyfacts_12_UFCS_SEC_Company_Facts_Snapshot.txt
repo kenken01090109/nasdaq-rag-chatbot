@@ -1,0 +1,11 @@
+Company: United Fire Group Inc. Common Stock
+Ticker: UFCS
+CIK: 0000101199
+Latest SEC XBRL Facts:
+Revenues: 1020606000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 79837000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3753912000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2855201000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 898711000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 149911000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 233737000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Omega Flex Inc. Common Stock
+Ticker: OFLX
+Market Cap: 301921184
+Enterprise Value: 257397168
+Total Revenue: 100054000
+Revenue Per Share: 9.912
+EBITDA: 20089000
+Gross Margins: 0.60634
+Operating Margins: 0.17268999
+Profit Margins: 0.16084999
+Free Cashflow: 13326375
+Operating Cashflow: 19428000
+Return On Assets: 0.11319
+Return On Equity: 0.19133
+Total Cash: 49368000
+Total Debt: 4938000
+Debt To Equity: 5.871
+Current Ratio: 5.606
+Quick Ratio: 4.381
+Trailing PE: 18.81132
+Forward PE: 
+Price To Book: 3.585901
+Beta: 0.448
+52 Week High: 42.08
+52 Week Low: 25.58

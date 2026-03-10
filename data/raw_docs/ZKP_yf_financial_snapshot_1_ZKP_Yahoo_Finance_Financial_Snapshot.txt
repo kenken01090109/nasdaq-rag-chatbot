@@ -1,0 +1,25 @@
+Company: Lafayette Digital Acquisition Corp. I Class A Ordinary Shares
+Ticker: ZKP
+Market Cap: 386633056
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -2472.5
+Beta: 
+52 Week High: 10.04
+52 Week Low: 9.85

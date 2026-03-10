@@ -1,0 +1,9 @@
+Company: Stratus Properties Inc. Common Stock
+Ticker: STRS
+Sector: Real Estate
+Industry: Real Estate - Diversified
+Country: United States
+City: Austin
+Website: https://www.stratusproperties.com
+Employees: 34
+Business Summary: Stratus Properties Inc., a real estate company, engages in the entitlement, development, management, leasing, and sale of multi and single family residential and commercial real estate properties in the Austin, Texas area and other select markets in Texas. The company operates through Real Estate Operations and Leasing Operations segments. Its leasing operations cover lease of space at retail and mixed-use and multi-family properties. The company was formerly known as Fm Properties Inc and changed its name to Stratus Properties Inc. in May 1998. The company was incorporated in 1992 and is based in Austin, Texas.

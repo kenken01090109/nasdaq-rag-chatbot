@@ -1,0 +1,11 @@
+Company: PS International Group Ltd. Ordinary Shares
+Ticker: PSIG
+CIK: 0001997201
+Latest SEC XBRL Facts:
+Revenues: 23187800 | unit=USD | filed=2025-11-26 | period_end=2025-06-30
+NetIncomeLoss: -416808 | unit=USD | filed=2025-11-26 | period_end=2025-06-30
+Assets: 15574885 | unit=USD | filed=2025-11-26 | period_end=2025-06-30
+Liabilities: 4533393 | unit=USD | filed=2025-11-26 | period_end=2025-06-30
+StockholdersEquity: 10916359 | unit=USD | filed=2025-11-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -817584 | unit=USD | filed=2025-11-26 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6985841 | unit=USD | filed=2025-11-26 | period_end=2025-06-30

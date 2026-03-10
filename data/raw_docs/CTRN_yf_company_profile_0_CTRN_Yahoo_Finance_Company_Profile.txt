@@ -1,0 +1,9 @@
+Company: Citi Trends Inc. Common Stock
+Ticker: CTRN
+Sector: Consumer Cyclical
+Industry: Apparel Retail
+Country: United States
+City: Savannah
+Website: https://cititrends.com
+Employees: 2600
+Business Summary: Citi Trends, Inc. operates as a value retailer of fashion apparel, accessories, and home goods. The company offers apparel, such as fashion sportswear and footwear for men and ladies, as well as apparel for kids, including newborns, infants, toddlers, boys, and girls; sleepwear, lingerie, and scrubs for ladies; and kids' uniforms and accessories. It also provides accessories and beauty products that include handbags, luggage, hats, belts, sunglasses, jewelry, watches, underwear, and socks, as well as offers beauty and fragrance, and outerwear for men and women. In addition, the company offers home and lifestyle products comprising home products for the bedroom, bathroom, kitchen, and decorative accessories; and food, tech, team sports, health and beauty products, as well as seasonal items, books, and toys. Citi Trends, Inc. provides its products primarily to African American and multicultural families in the United States. The company was formerly known as Allied Fashion, Inc. and changed its name to Citi Trends, Inc. in 2001. Citi Trends, Inc. was founded in 1946 and is headquartered in Savannah, Georgia.

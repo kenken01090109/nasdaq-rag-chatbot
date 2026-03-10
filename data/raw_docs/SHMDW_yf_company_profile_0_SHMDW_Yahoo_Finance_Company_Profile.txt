@@ -1,0 +1,9 @@
+Company: SCHMID Group N.V. Warrants
+Ticker: SHMDW
+Sector: 
+Industry: 
+Country: Germany
+City: Freudenstadt
+Website: https://www.schmid-group.com
+Employees: 676
+Business Summary: SCHMID Group N.V. develops and manufactures equipment and process solutions for electronics, photovoltaics, glass, and energy systems in Germany and internationally. The company offers electronics equipment, ET board, vertical and horizontal wet process, vacuum metallization and tech, plating, chemical mechanical polishing, and automation system solutions; and systems and process solutions for manufacturing and processing photovoltaic products, such as wafers, cells, modules, and thin films, as well as turnkey production lines. It also provides maintenance, after sales, customer training, and on-site services, as well as offers spare parts. The company was founded in 1864 and is based in Freudenstadt, Germany.

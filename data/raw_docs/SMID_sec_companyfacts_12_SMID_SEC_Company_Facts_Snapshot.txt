@@ -1,0 +1,12 @@
+Company: Smith-Midland Corporation Common Stock
+Ticker: SMID
+CIK: 0000924719
+Latest SEC XBRL Facts:
+Revenues: 70335000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 28502000 | unit=USD | filed=2018-11-13 | period_end=2018-09-30
+NetIncomeLoss: 10375000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 85437000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 33310000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 52127000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11714000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12425000 | unit=USD | filed=2022-08-11 | period_end=2022-06-30

@@ -1,0 +1,9 @@
+Company: Carlsmed Inc. Common Stock
+Ticker: CARL
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Carlsbad
+Website: https://carlsmed.com
+Employees: 127
+Business Summary: Carlsmed, Inc., a commercial-stage medical technology company, designs, manufactures, and markets AI-enabled personalized spine surgery solutions. The company develops aprevo, a comprehensive technology platform for spine fusion surgery procedures. Its aprevo platform includes proprietary surgical planning software, using outcomes-based algorithms that are aided with artificial intelligence, and resulting custom-built, anatomically designed vertebral interbody implants. The company was incorporated in 2018 and is based in Carlsbad, California.

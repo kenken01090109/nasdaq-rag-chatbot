@@ -1,0 +1,10 @@
+Company: Trident Digital Tech Holdings Ltd American Depository Shares
+Ticker: TDTH
+CIK: 0001983550
+Latest SEC XBRL Facts:
+Revenues: 36612 | unit=USD | filed=2025-09-23 | period_end=2025-06-30
+NetIncomeLoss: -11271548 | unit=USD | filed=2025-09-23 | period_end=2025-06-30
+Assets: 2652675 | unit=USD | filed=2025-09-23 | period_end=2025-06-30
+Liabilities: 8009267 | unit=USD | filed=2025-09-23 | period_end=2025-06-30
+StockholdersEquity: -5356592 | unit=USD | filed=2025-09-23 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3649470 | unit=USD | filed=2025-09-23 | period_end=2025-06-30

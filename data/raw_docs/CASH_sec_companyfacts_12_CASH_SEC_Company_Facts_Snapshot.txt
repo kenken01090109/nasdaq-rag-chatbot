@@ -1,0 +1,11 @@
+Company: Pathward Financial Inc. Common Stock
+Ticker: CASH
+CIK: 0000907471
+Latest SEC XBRL Facts:
+Revenues: 173101000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 35166000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 7560205000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 6706493000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 854535000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 108304000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 331217000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

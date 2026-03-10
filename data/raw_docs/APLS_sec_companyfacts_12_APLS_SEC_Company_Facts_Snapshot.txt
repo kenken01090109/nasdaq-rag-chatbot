@@ -1,0 +1,11 @@
+Company: Apellis Pharmaceuticals Inc. Common Stock
+Ticker: APLS
+CIK: 0001492422
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 803869000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 81339000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1058723000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 657555000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 401168000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 59503000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 479171000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

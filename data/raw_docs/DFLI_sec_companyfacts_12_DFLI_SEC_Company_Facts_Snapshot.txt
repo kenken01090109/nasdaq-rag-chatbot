@@ -1,0 +1,12 @@
+Company: Dragonfly Energy Holdings Corp. Common Stock (NV)
+Ticker: DFLI
+CIK: 0001847986
+Latest SEC XBRL Facts:
+Revenues: 45571000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 45571000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -24901000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 73843000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 95420000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -21577000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11245000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3838000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

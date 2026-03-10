@@ -1,0 +1,12 @@
+Company: Traws Pharma Inc. Common Stock
+Ticker: TRAW
+CIK: 0001130598
+Latest SEC XBRL Facts:
+Revenues: 2790000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 170000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: 16613000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 12443000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7898000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -6041000 | unit=USD | filed=2019-11-12 | period_end=2019-09-30
+NetCashProvidedByUsedInOperatingActivities: -15427000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20559000 | unit=USD | filed=2024-04-01 | period_end=2023-12-31

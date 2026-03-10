@@ -1,0 +1,11 @@
+Company: Legence Corp. Class A Common stock
+Ticker: LGN
+CIK: 0002052568
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1812849000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -27059000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2600269000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1772796000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 387875000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 162124000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 176034000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

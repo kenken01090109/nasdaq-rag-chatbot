@@ -1,0 +1,25 @@
+Company: NextNav Inc. Common Stock
+Ticker: NN
+Market Cap: 2201758976
+Enterprise Value: 2308812032
+Total Revenue: 5539000
+Revenue Per Share: 0.042
+EBITDA: -62011000
+Gross Margins: -0.64578
+Operating Margins: -19.915451
+Profit Margins: 0.0
+Free Cashflow: -15599750
+Operating Cashflow: -46616000
+Return On Assets: -0.19171
+Return On Equity: -7.06791
+Total Cash: 167576992
+Total Debt: 245808992
+Debt To Equity: 
+Current Ratio: 11.535
+Quick Ratio: 11.318
+Trailing PE: 
+Forward PE: -28.902655
+Price To Book: -99.573166
+Beta: 0.999
+52 Week High: 18.25
+52 Week Low: 9.475

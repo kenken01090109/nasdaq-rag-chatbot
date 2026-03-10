@@ -1,0 +1,12 @@
+Company: Xerox Holdings Corporation Warrants
+Ticker: XRXDW
+CIK: 0001770450
+Latest SEC XBRL Facts:
+Revenues: 117000000 | unit=USD | filed=2021-02-25 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 4994000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -956000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 10068000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 9474000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 365000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 479000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

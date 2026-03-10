@@ -1,0 +1,10 @@
+Company: National Bankshares Inc. Common Stock
+Ticker: NKSH
+CIK: 0000796534
+Latest SEC XBRL Facts:
+NetIncomeLoss: 9945000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1802407000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1623187000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 179220000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 10748000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42305000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

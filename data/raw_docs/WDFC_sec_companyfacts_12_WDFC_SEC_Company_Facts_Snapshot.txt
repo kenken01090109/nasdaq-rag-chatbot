@@ -1,0 +1,12 @@
+Company: WD-40 Company Common Stock
+Ticker: WDFC
+CIK: 0000105132
+Latest SEC XBRL Facts:
+Revenues: 372869000 | unit=USD | filed=2021-07-07 | period_end=2021-05-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 154423000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetIncomeLoss: 17451000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Assets: 459662000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Liabilities: 195596000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+StockholdersEquity: 264066000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 9985000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 48583000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30

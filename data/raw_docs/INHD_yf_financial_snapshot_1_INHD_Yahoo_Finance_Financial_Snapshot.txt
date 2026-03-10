@@ -1,0 +1,25 @@
+Company: Inno Holdings Inc. Common Stock
+Ticker: INHD
+Market Cap: 8581489
+Enterprise Value: -28518424
+Total Revenue: 4106731
+Revenue Per Share: 5.732
+EBITDA: 
+Gross Margins: 0.02773
+Operating Margins: -0.33359
+Profit Margins: -1.58381
+Free Cashflow: -6745583
+Operating Cashflow: -7633572
+Return On Assets: -0.094560005
+Return On Equity: -0.22561
+Total Cash: 37149912
+Total Debt: 50000
+Debt To Equity: 0.106
+Current Ratio: 252.997
+Quick Ratio: 210.192
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15315315
+Beta: -1.068
+52 Week High: 474.72
+52 Week Low: 0.971

@@ -1,0 +1,9 @@
+Company: CaliberCos Inc. Class A Common Stock
+Ticker: CWD
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Scottsdale
+Website: https://www.caliberco.com
+Employees: 81
+Business Summary: CaliberCos Inc. is a real estate investment, and an asset management firm specializes in middle-market assets. It serves its investor clients by creating, managing, and servicing proprietary products, including middle-market investment funds, private syndications, and direct investments, which are managed by the firm's in-house asset services group. It invests primarily in commercial real estate, qualified opportunity zones (QOZ), private equity, and debt facilities. It delivers a full suite of alternative investments to high net worth, accredited and qualified investors, as well as family offices and smaller institutions. CaliberCos Inc. was founded in 2009 and is headquartered in Scottsdale, Arizona.

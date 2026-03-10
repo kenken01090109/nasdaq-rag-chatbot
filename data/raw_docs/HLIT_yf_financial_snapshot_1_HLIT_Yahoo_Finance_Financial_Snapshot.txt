@@ -1,0 +1,25 @@
+Company: Harmonic Inc. Common Stock
+Ticker: HLIT
+Market Cap: 1052746304
+Enterprise Value: 1103782656
+Total Revenue: 360523008
+Revenue Per Share: 3.172
+EBITDA: 28114000
+Gross Margins: 0.48470002
+Operating Margins: 0.03836
+Profit Margins: -0.120129995
+Free Cashflow: 137728624
+Operating Cashflow: 107966000
+Return On Assets: 0.014049999
+Return On Equity: 0.00287
+Total Cash: 124105000
+Total Debt: 133181000
+Debt To Equity: 34.751
+Current Ratio: 2.497
+Quick Ratio: 1.071
+Trailing PE: 938.00006
+Forward PE: 12.92011
+Price To Book: 2.721207
+Beta: 1.045
+52 Week High: 12.18
+52 Week Low: 7.8

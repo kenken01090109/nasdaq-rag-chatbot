@@ -1,0 +1,25 @@
+Company: Veracyte Inc. Common Stock
+Ticker: VCYT
+Market Cap: 2689667584
+Enterprise Value: 2382383360
+Total Revenue: 517144992
+Revenue Per Share: 6.581
+EBITDA: 84402000
+Gross Margins: 0.72165
+Operating Margins: 0.17501
+Profit Margins: 0.12831001
+Free Cashflow: 86797248
+Operating Cashflow: 136307008
+Return On Assets: 0.0291
+Return On Equity: 0.053390004
+Total Cash: 412888992
+Total Debt: 39654000
+Debt To Equity: 3.028
+Current Ratio: 8.148
+Quick Ratio: 7.634
+Trailing PE: 41.280487
+Forward PE: 19.10314
+Price To Book: 2.0512664
+Beta: 1.956
+52 Week High: 50.71
+52 Week Low: 22.61

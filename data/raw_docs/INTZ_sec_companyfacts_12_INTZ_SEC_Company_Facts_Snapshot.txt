@@ -1,0 +1,9 @@
+Company: Intrusion Inc. Common Stock
+Ticker: INTZ
+CIK: 0000736012
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6234000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 13672000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 9809000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6228000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2527000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

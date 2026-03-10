@@ -1,0 +1,11 @@
+Company: Citizens Financial Services Inc. Common Stock
+Ticker: CZFS
+CIK: 0000739421
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7578000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 26089000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3056421000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2728739000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 327682000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19804000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 31075000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

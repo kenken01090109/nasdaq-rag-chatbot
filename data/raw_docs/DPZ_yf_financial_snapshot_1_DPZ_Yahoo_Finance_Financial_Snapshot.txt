@@ -1,0 +1,25 @@
+Company: Domino's Pizza Inc Common Stock
+Ticker: DPZ
+Market Cap: 13734377472
+Enterprise Value: 19657271296
+Total Revenue: 4939994112
+Revenue Per Share: 145.264
+EBITDA: 1009172992
+Gross Margins: 0.28625
+Operating Margins: 0.18064
+Profit Margins: 0.121800005
+Free Cashflow: 508715744
+Operating Cashflow: 792062016
+Return On Assets: 0.34565
+Return On Equity: 
+Total Cash: 295352000
+Total Debt: 5299667968
+Debt To Equity: 
+Current Ratio: 1.651
+Quick Ratio: 0.815
+Trailing PE: 23.257973
+Forward PE: 18.972675
+Price To Book: -3.6180902
+Beta: 1.162
+52 Week High: 499.08
+52 Week Low: 370.7

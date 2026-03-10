@@ -1,0 +1,11 @@
+Company: Amphastar Pharmaceuticals Inc. Common Stock
+Ticker: AMPH
+CIK: 0001297184
+Latest SEC XBRL Facts:
+Revenues: 536782000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 73665000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1666222000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 889476000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 430176000 | unit=USD | filed=2021-11-09 | period_end=2021-09-30
+NetCashProvidedByUsedInOperatingActivities: 123252000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 216265000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

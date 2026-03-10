@@ -1,0 +1,12 @@
+Company: Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026
+Ticker: GREEL
+CIK: 0001844971
+Latest SEC XBRL Facts:
+Revenues: 32390000 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 47323000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 2276000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 50567000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 99975000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -49408000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10403000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7581000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

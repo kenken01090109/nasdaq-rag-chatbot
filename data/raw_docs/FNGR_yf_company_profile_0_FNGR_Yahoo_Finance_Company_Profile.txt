@@ -1,0 +1,9 @@
+Company: FingerMotion Inc. Common Stock
+Ticker: FNGR
+Sector: Communication Services
+Industry: Telecom Services
+Country: Singapore
+City: Singapore
+Website: https://fingermotion.com
+Employees: 65
+Business Summary: FingerMotion, Inc., a mobile data specialist company, provides mobile payment and recharge platform system in China. The company offers telecommunication products and services, including data plans, subscription plans, mobile phones, loyalty points redemption services, and other mobile protection plans; value added products and services comprising cloud services designed for corporate customers, such as robust data storage, processing capabilities, and databases accessible via the internet; and bulk short message and multimedia messaging services. It also provides rich communication services (RCS) platform, a text-messaging system that provides phonebook polling and capable of transmitting in-call multimedia features, as well as enables businesses and brands to communicate and service their customers on the 5G infrastructure; and Sapientus, a proprietary big data insights platform that deliver data-driven for businesses in the insurance, healthcare, and financial services industries. FingerMotion, Inc. is headquartered in Singapore.

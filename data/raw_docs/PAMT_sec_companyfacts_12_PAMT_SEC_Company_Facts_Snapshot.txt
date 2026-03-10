@@ -1,0 +1,11 @@
+Company: PAMT CORP Common Stock
+Ticker: PAMT
+CIK: 0000798287
+Latest SEC XBRL Facts:
+Revenues: 326949000 | unit=USD | filed=2017-11-01 | period_end=2017-09-30
+NetIncomeLoss: -23356000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 715247000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 475735000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 239512000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23142000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 68760000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

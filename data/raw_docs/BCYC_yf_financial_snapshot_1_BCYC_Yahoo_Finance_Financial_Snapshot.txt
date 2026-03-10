@@ -1,0 +1,25 @@
+Company: Bicycle Therapeutics plc American Depositary Shares
+Ticker: BCYC
+Market Cap: 360713056
+Enterprise Value: -281868928
+Total Revenue: 28339000
+Revenue Per Share: 0.409
+EBITDA: -283230016
+Gross Margins: 0.0
+Operating Margins: -5.58642
+Profit Margins: 0.0
+Free Cashflow: -140091120
+Operating Cashflow: -239724992
+Return On Assets: -0.2059
+Return On Equity: -0.34585
+Total Cash: 648324992
+Total Debt: 5743000
+Debt To Equity: 0.929
+Current Ratio: 10.664
+Quick Ratio: 10.329
+Trailing PE: 
+Forward PE: -1.3813071
+Price To Book: 0.58269835
+Beta: 1.612
+52 Week High: 10.89
+52 Week Low: 5.03

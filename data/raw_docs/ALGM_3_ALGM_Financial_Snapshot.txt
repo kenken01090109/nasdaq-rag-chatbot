@@ -1,0 +1,12 @@
+Company: Allegro MicroSystems Inc. Common Stock
+Ticker: ALGM
+Total Revenue: 839732992
+Revenue Per Share: 4.545
+Gross Margins: 0.45126
+Operating Margins: 0.04177
+EBITDA: 72113000
+Profit Margins: -0.01573
+Free Cashflow: 113172000
+Operating Cashflow: 147708000
+Return On Assets: 0.00278
+Return On Equity: -0.01365

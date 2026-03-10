@@ -1,0 +1,7 @@
+Company: Social Commerce Partners Corporation Unit
+Ticker: SCPQU
+CIK: 0002083143
+Latest SEC XBRL Facts:
+NetIncomeLoss: -52729 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+Assets: 83550 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+StockholdersEquity: -27729 | unit=USD | filed=2026-02-03 | period_end=2025-09-30

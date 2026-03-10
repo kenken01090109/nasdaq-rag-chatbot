@@ -1,0 +1,25 @@
+Company: Centessa Pharmaceuticals plc American Depositary Shares
+Ticker: CNTA
+Market Cap: 3835927552
+Enterprise Value: 3413401088
+Total Revenue: 15000000
+Revenue Per Share: 0.113
+EBITDA: -213490000
+Gross Margins: 1.0
+Operating Margins: -14.25333
+Profit Margins: 0.0
+Free Cashflow: -116738248
+Operating Cashflow: -180810000
+Return On Assets: -0.2526
+Return On Equity: -0.60621
+Total Cash: 246214000
+Total Debt: 118259000
+Debt To Equity: 39.214
+Current Ratio: 10.565
+Quick Ratio: 10.247
+Trailing PE: 
+Forward PE: -15.784672
+Price To Book: 11.564172
+Beta: 1.554
+52 Week High: 30.58
+52 Week Low: 9.6

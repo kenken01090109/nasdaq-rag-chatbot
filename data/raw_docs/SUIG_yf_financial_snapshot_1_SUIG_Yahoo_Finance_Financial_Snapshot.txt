@@ -1,0 +1,25 @@
+Company: Sui Group Holdings Limited Common Stock
+Ticker: SUIG
+Market Cap: 99075704
+Enterprise Value: 80450000
+Total Revenue: 3898631
+Revenue Per Share: 0.097
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -171.40135
+Profit Margins: 0.0
+Free Cashflow: -149865888
+Operating Cashflow: -8235211
+Return On Assets: -1.54871
+Return On Equity: -2.79634
+Total Cash: 26305996
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.385
+Quick Ratio: 2.138
+Trailing PE: 
+Forward PE: -6.45
+Price To Book: 0.5837104
+Beta: 1.221
+52 Week High: 8.66
+52 Week Low: 1.09

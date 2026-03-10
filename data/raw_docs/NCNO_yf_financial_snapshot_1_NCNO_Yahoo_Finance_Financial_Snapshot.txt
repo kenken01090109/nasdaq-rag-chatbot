@@ -1,0 +1,25 @@
+Company: nCino Inc. Common Stock
+Ticker: NCNO
+Market Cap: 1948003584
+Enterprise Value: 2123217152
+Total Revenue: 586484992
+Revenue Per Share: 5.139
+EBITDA: 53746000
+Gross Margins: 0.60330003
+Operating Margins: 0.08145001
+Profit Margins: -0.03711
+Free Cashflow: 116012496
+Operating Cashflow: 67108000
+Return On Assets: 0.00468
+Return On Equity: -0.013660001
+Total Cash: 87590000
+Total Debt: 269371008
+Debt To Equity: 25.559
+Current Ratio: 1.005
+Quick Ratio: 0.839
+Trailing PE: 
+Forward PE: 16.401596
+Price To Book: 1.8481486
+Beta: 0.603
+52 Week High: 33.92
+52 Week Low: 13.8

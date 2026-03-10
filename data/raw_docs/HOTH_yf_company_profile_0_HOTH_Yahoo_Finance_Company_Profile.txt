@@ -1,0 +1,9 @@
+Company: Hoth Therapeutics Inc. Common Stock
+Ticker: HOTH
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://hoththerapeutics.com
+Employees: 2
+Business Summary: Hoth Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing therapies for unmet medical needs. It develops HT-001, a topical formulation in Phase II clinical trial for the treatment of patients with rash and skin disorders associated with initial and repeat courses of tyrosine kinase epidermal growth factor receptor inhibitor therapy; HT-KIT to treat mast-cell derived cancers and anaphylaxis; HT-TBI to treat traumatic brain injury and ischemic stroke; HT-ALZ for the treatment and/or prevention of Alzheimer's or other neuroinflammatory diseases; and HT-004 for treatment of asthma and allergies using inhalational administration. The company is developing BioLexa Platform, a proprietary, patented, drug compound platform in Phase I clinical trial for the treatment of eczema; and HT-005 for treating patients with lupus. The company has license agreements with the George Washington University; Isoprene Pharmaceuticals, Inc.; the North Carolina State University; Chelexa BioSciences, Inc. and the University of Cincinnati; Zylö Therapeutics, Inc.; and Voltron Therapeutics, Inc. The company was incorporated in 2017 and is headquartered in New York, New York.

@@ -1,0 +1,9 @@
+Company: FiEE Inc Common Stock
+Ticker: FIEE
+Sector: Technology
+Industry: Communication Equipment
+Country: Hong Kong
+City: Tsuen Wan
+Website: https://www.fiee.com/myhome
+Employees: 
+Business Summary: FiEE, Inc. operates as a digital content management solution provider in North America and internationally. It offers digital account management, content operations and growth analytics, and community engagement and creator partnerships. The company also offers global premium plan, overseas basic plan, and starter plan. It serves creators, artists, and businesses. The company was formerly known as Minim, Inc. and changed its name to FiEE, Inc. in February 2025. FiEE, Inc. was incorporated in 1977 and is headquartered in Tsuen Wan, Hong Kong.

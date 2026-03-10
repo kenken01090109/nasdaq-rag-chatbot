@@ -1,0 +1,11 @@
+Company: Crexendo Inc. Common Stock
+Ticker: CXDO
+CIK: 0001075736
+Latest SEC XBRL Facts:
+Revenues: 50106000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 3853000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 75957000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 14613000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 61344000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6950000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3688000 | unit=USD | filed=2023-05-09 | period_end=2023-03-31

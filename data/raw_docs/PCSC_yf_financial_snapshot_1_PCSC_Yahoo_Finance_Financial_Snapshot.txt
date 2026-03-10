@@ -1,0 +1,25 @@
+Company: Perceptive Capital Solutions Corp Class A Ordinary Shares
+Ticker: PCSC
+Market Cap: 127497608
+Enterprise Value: 128865216
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -749418
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1177909
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.352
+Quick Ratio: 1.26
+Trailing PE: 
+Forward PE: 
+Price To Book: -40.851067
+Beta: 
+52 Week High: 14.47
+52 Week Low: 10.23

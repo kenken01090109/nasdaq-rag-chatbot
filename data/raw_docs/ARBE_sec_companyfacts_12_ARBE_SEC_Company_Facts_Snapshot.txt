@@ -1,0 +1,10 @@
+Company: Arbe Robotics Ltd. Ordinary Shares
+Ticker: ARBE
+CIK: 0001861841
+Latest SEC XBRL Facts:
+Revenues: 568000 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+NetIncomeLoss: -35011000 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+Assets: 66082000 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+StockholdersEquity: 49106000 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -29108000 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4008000 | unit=USD | filed=2025-11-28 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Sol-Gel Technologies Ltd. Ordinary Shares
+Ticker: SLGL
+Market Cap: 227445568
+Enterprise Value: 207685584
+Total Revenue: 18970000
+Revenue Per Share: 6.81
+EBITDA: -10074750
+Gross Margins: -0.28714
+Operating Margins: -15.72
+Profit Margins: -0.4737
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.16478
+Return On Equity: -0.29591
+Total Cash: 20843000
+Total Debt: 1083000
+Debt To Equity: 4.161
+Current Ratio: 5.15
+Quick Ratio: 4.993
+Trailing PE: 
+Forward PE: -11.988986
+Price To Book: 8.737693
+Beta: 1.219
+52 Week High: 97.97
+52 Week Low: 4.02

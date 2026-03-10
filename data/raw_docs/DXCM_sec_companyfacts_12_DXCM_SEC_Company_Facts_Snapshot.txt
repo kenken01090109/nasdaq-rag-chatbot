@@ -1,0 +1,12 @@
+Company: DexCom Inc. Common Stock
+Ticker: DXCM
+CIK: 0001093557
+Latest SEC XBRL Facts:
+Revenues: 693600000 | unit=USD | filed=2018-11-06 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3402400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 569000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 7500000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 4773900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 2726100000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1146700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1835700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

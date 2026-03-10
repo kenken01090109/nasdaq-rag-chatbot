@@ -1,0 +1,10 @@
+Company: Digital Asset Acquisition Corp. Warrant
+Ticker: DAAQW
+CIK: 0002052162
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2665323 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 176739725 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7035726 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5762069 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 86788 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1149892 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

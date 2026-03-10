@@ -1,0 +1,25 @@
+Company: Bullfrog AI Holdings Inc. Common Stock
+Ticker: BFRG
+Market Cap: 6781952
+Enterprise Value: 4682547
+Total Revenue: 116670
+Revenue Per Share: 0.012
+EBITDA: -6863012
+Gross Margins: 0.18764
+Operating Margins: -18.81821
+Profit Margins: 0.0
+Free Cashflow: -3313171
+Operating Cashflow: -5609305
+Return On Assets: -1.17473
+Return On Equity: -2.33495
+Total Cash: 1990712
+Total Debt: 55606
+Debt To Equity: 2.861
+Current Ratio: 3.343
+Quick Ratio: 2.701
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.1786094
+Beta: 0.711
+52 Week High: 2.2
+52 Week Low: 0.425

@@ -1,0 +1,11 @@
+Company: Centessa Pharmaceuticals plc American Depositary Shares
+Ticker: CNTA
+CIK: 0001847903
+Latest SEC XBRL Facts:
+Revenues: 15000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -131369000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 448300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 146726000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 301574000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -138010000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 50811000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Aldel Financial II Inc. Units
+Ticker: ALDFU
+Market Cap: 
+Enterprise Value: 319440864
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 3165376
+Return On Assets: 
+Return On Equity: 
+Total Cash: 746386
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 60.248
+Quick Ratio: 45.584
+Trailing PE: 
+Forward PE: 
+Price To Book: 345.80646
+Beta: 
+52 Week High: 11.779
+52 Week Low: 10.16

@@ -1,0 +1,9 @@
+Company: Solid Power Inc. Class A Common Stock
+Ticker: SLDP
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: Louisville
+Website: https://www.solidpowerbattery.com
+Employees: 230
+Business Summary: Solid Power, Inc., a research and development-stage company, develops solid-state battery technologies for the electric vehicles markets in the United States. It engages in the development of sulfide-based solid electrolytes. The company was founded in 2011 and is headquartered in Louisville, Colorado.

@@ -1,0 +1,10 @@
+Company: Southern First Bancshares Inc. Common Stock
+Ticker: SFST
+CIK: 0001090009
+Latest SEC XBRL Facts:
+NetIncomeLoss: 20509000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 4358589000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 4002241000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 356348000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 32543000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5800000 | unit=USD | filed=2023-02-13 | period_end=2022-12-31

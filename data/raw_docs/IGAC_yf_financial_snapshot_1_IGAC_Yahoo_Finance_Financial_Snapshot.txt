@@ -1,0 +1,25 @@
+Company: Invest Green Acquisition Corporation Class A Ordinary Shares
+Ticker: IGAC
+Market Cap: 237267792
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -1656.6666
+Beta: 
+52 Week High: 9.989
+52 Week Low: 9.82

@@ -1,0 +1,25 @@
+Company: Momentus Inc. Class A Common Stock
+Ticker: MNTS
+Market Cap: 6911990
+Enterprise Value: 9800381
+Total Revenue: 1032000
+Revenue Per Share: 3.343
+EBITDA: -24004000
+Gross Margins: 0.99806
+Operating Margins: -26.69231
+Profit Margins: 0.0
+Free Cashflow: -9409125
+Operating Cashflow: -18482000
+Return On Assets: -0.93359
+Return On Equity: 
+Total Cash: 670000
+Total Debt: 4626000
+Debt To Equity: 
+Current Ratio: 0.407
+Quick Ratio: 0.044
+Trailing PE: 
+Forward PE: -0.45695361
+Price To Book: -4.1071424
+Beta: 1.149
+52 Week High: 43.57143
+52 Week Low: 3.921

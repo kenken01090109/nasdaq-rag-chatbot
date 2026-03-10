@@ -1,0 +1,10 @@
+Company: John Marshall Bancorp Inc. Common Stock
+Ticker: JMSB
+CIK: 0001710482
+Latest SEC XBRL Facts:
+NetIncomeLoss: 15317000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2324544000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2064852000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 259692000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15710000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 163645000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

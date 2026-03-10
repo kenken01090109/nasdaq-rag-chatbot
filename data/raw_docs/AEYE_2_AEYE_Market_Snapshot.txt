@@ -1,0 +1,10 @@
+Company: AudioEye Inc. Common Stock
+Ticker: AEYE
+Market Cap: 97734512
+Enterprise Value: 106410512
+Trailing PE: 
+Forward PE: 6.9035087
+Price To Book: 17.296703
+Beta: 0.668
+52 Week High: 16.39
+52 Week Low: 6.35

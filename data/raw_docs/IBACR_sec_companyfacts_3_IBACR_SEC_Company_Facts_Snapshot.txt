@@ -1,0 +1,10 @@
+Company: IB Acquisition Corp. Right
+Ticker: IBACR
+CIK: 0001998781
+Latest SEC XBRL Facts:
+NetIncomeLoss: -58902 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 16405261 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 1162171 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: -861323 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1050581 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 165484 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

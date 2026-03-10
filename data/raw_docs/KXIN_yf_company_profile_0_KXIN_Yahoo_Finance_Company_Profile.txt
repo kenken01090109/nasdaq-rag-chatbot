@@ -1,0 +1,9 @@
+Company: Kaixin Holdings Ordinary Shares
+Ticker: KXIN
+Sector: Consumer Cyclical
+Industry: Auto & Truck Dealerships
+Country: China
+City: Beijing
+Website: https://ir.kaixin.com
+Employees: 19
+Business Summary: Kaixin Holdings, an investment holding company, primarily sells domestic and imported automobiles in the People's Republic of China and Hong Kong. It also sells new and used vehicles through a network of dealerships with a focus on automobile brands, such as Audi, BMW, Mercedes-Benz, Land Rover, Bentley, Rolls-Royce, and Porsche, as well as through online sales channels, including the Kaixin app and web interfaces. The company is headquartered in Beijing, the People's Republic of China.

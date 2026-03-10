@@ -1,0 +1,9 @@
+Company: Immuron Limited American Depositary Shares
+Ticker: IMRN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Australia
+City: Carlton
+Website: https://www.immuron.com.au
+Employees: 7
+Business Summary: Immuron Limited, a biopharmaceutical company, engages in the research, development, and commercialization of polyclonal antibodies in Australia, the United States, and Canada. It operates through two segments, Research and Development; and Hyper-immune Products. The company offers Travelan, an over-the-counter medicine to reduce the risk of travelers' diarrhea and risk of minor gastrointestinal disorders, as well as a dietary supplement for digestive tract protection; and Protectyn, an immune supplement to help maintain a healthy digestive function and liver. It also develops Travelan (IMM-124E), which is in Phase II clinical trial, to reduce the risk of contracting travelers' diarrhea; and IMM-529, which is in Phase II clinical trial, for treating patients suffering from recurring clostridium difficile infection. In additon, the company develops IMM-986, that is in pre-clinical stage. Further, it offers technology platform. The company has a collaboration with the US Naval Medical Research Command and Silver Spring, MD, USA to develop and clinically evaluate a therapeutic targeting Campylobacter and enterotoxigenic Escherichia coli infections; and a research collaboration with the Walter Reed Army Institute of Research to develop three Shigella-specific therapeutic products. The company was formerly known as Anadis Limited and changed its name to Immuron Limited in December 2008. Immuron Limited was incorporated in 1994 and is headquartered in Carlton, Australia.

@@ -1,0 +1,9 @@
+Company: Nvni Group Limited Ordinary Shares
+Ticker: NVNI
+Sector: Technology
+Industry: Software - Application
+Country: Brazil
+City: São Paulo
+Website: https://nuvini.com.br
+Employees: 618
+Business Summary: Nvni Group Limited, through its subsidiaries, operates in business-to-business software as a service (SaaS) market in Brazil and Latin America. It provides software subscription and licensing services; maintenance services, including technical support and technological evolution; and cloud computing, client, data analytics, and other services. Nvni Group Limited is headquartered in São Paulo, Brazil.

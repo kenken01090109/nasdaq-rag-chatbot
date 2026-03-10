@@ -1,0 +1,8 @@
+Company: Advantage Solutions Inc. Class A Common Stock
+Ticker: ADV
+Total Cash: 240850000
+Total Debt: 1706496000
+Debt To Equity: 308.055
+Current Ratio: 2.248
+Quick Ratio: 1.932
+Book Value: 1.697

@@ -1,0 +1,25 @@
+Company: SaverOne 2014 Ltd. Warrant
+Ticker: SVREW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -34262000
+Gross Margins: -0.41104
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -23025624
+Operating Cashflow: 
+Return On Assets: -0.92227
+Return On Equity: -2.63093
+Total Cash: 
+Total Debt: 
+Debt To Equity: 15.12
+Current Ratio: 3.483
+Quick Ratio: 2.728
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.1499999
+Beta: 0.999
+52 Week High: 0.0086
+52 Week Low: 0.0086

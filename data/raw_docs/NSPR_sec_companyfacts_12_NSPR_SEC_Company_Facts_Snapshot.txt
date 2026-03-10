@@ -1,0 +1,12 @@
+Company: InspireMD Inc. Common Stock
+Ticker: NSPR
+CIK: 0001433607
+Latest SEC XBRL Facts:
+Revenues: 1572000 | unit=USD | filed=2016-11-14 | period_end=2016-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5830000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -37025000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 78472000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 14358000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 64114000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25758000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63403000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

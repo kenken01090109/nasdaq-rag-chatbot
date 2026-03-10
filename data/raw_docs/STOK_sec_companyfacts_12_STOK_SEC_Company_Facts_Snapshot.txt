@@ -1,0 +1,11 @@
+Company: Stoke Therapeutics Inc. Common Stock
+Ticker: STOK
+CIK: 0001623526
+Latest SEC XBRL Facts:
+Revenues: 183018000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 51049000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 360264000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 52159000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 308105000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 76039000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 83394000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

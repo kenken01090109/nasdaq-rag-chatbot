@@ -1,0 +1,12 @@
+Company: Pagaya Technologies Ltd. Warrants
+Ticker: PGYWW
+CIK: 0001883085
+Latest SEC XBRL Facts:
+Revenues: 966552000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 940305000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 47093000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1455376000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 889438000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 438295000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 158823000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 218314000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

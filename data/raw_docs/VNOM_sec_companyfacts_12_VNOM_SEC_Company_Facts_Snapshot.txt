@@ -1,0 +1,12 @@
+Company: Viper Energy Inc. Class A Common Stock
+Ticker: VNOM
+CIK: 0002074176
+Latest SEC XBRL Facts:
+Revenues: 960000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 924000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 35000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 13688000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2747000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 4620000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 654000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 53000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Guardant Health Inc. Common Stock
+Ticker: GH
+CIK: 0001576280
+Latest SEC XBRL Facts:
+Revenues: 700755000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 700755000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -287783000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 1276786000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 1631259000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: -354473000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -158387000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 580013000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

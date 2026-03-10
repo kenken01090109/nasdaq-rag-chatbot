@@ -1,0 +1,12 @@
+Company: Altimmune Inc. Common Stock
+Ticker: ALT
+CIK: 0001326190
+Latest SEC XBRL Facts:
+Revenues: 15000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 42000 | unit=USD | filed=2022-11-10 | period_end=2022-09-30
+NetIncomeLoss: -60735000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 218447000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 32846000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 185601000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -48087000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 61236000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

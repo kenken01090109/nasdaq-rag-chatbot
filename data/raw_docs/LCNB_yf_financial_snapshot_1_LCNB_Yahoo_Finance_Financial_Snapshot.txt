@@ -1,0 +1,25 @@
+Company: LCNB Corporation Common Stock
+Ticker: LCNB
+Market Cap: 238877904
+Enterprise Value: 326994400
+Total Revenue: 90061000
+Revenue Per Share: 6.393
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.33682
+Profit Margins: 0.25671
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01017
+Return On Equity: 0.087749995
+Total Cash: 24324000
+Total Debt: 111305000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.325153
+Forward PE: 9.298343
+Price To Book: 0.8720208
+Beta: 0.569
+52 Week High: 17.89
+52 Week Low: 13.34

@@ -1,0 +1,9 @@
+Company: bioAffinity Technologies Inc. Warrant
+Ticker: BIAFW
+Sector: 
+Industry: 
+Country: United States
+City: San Antonio
+Website: https://www.bioaffinitytech.com
+Employees: 57
+Business Summary: bioAffinity Technologies, Inc. engages in developing non-invasive diagnostics to detect early-stage lung cancer and other diseases of the lung using flow cytometry and automated analysis in the United States. It operates through two segments: Diagnostic Research and Development; and Laboratory Services. The company offers CyPath lung which uses flow cytometry technology to detect and analyze cell populations in a person's sputum, or phlegm, to find characteristics indicative of lung cancer, including cancer and/or cancer-related cells that have shed from a lung tumor. bioAffinity Technologies, Inc. was incorporated in 2014 and is based in San Antonio, Texas.

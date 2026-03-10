@@ -1,0 +1,10 @@
+Company: Alpha Tau Medical Ltd. Ordinary Shares
+Ticker: DRTS
+CIK: 0001871321
+Latest SEC XBRL Facts:
+NetIncomeLoss: -18805000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Assets: 110954000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Liabilities: 24331000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+StockholdersEquity: 86623000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -14612000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 11703000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30

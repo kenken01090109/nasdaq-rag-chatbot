@@ -1,0 +1,25 @@
+Company: LQR House Inc. Common Stock
+Ticker: YHC
+Market Cap: 17947616
+Enterprise Value: 2088029
+Total Revenue: 2103341
+Revenue Per Share: 0.594
+EBITDA: 
+Gross Margins: 0.04586
+Operating Margins: -11.3479
+Profit Margins: 0.0
+Free Cashflow: -2786507
+Operating Cashflow: -22572448
+Return On Assets: -0.52031
+Return On Equity: -1.9840801
+Total Cash: 10039230
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.41
+Quick Ratio: 1.393
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.4334365
+Beta: 4.289
+52 Week High: 98.0
+52 Week Low: 0.682

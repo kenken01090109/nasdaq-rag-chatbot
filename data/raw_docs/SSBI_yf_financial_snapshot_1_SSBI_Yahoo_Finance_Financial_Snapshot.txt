@@ -1,0 +1,25 @@
+Company: Summit State Bank Common Stock
+Ticker: SSBI
+Market Cap: 88639288
+Enterprise Value: 28373104
+Total Revenue: 32808000
+Revenue Per Share: 4.883
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.19044
+Profit Margins: 0.20714001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00656
+Return On Equity: 0.07046
+Total Cash: 65524000
+Total Debt: 5949000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.8712726
+Beta: 0.188
+52 Week High: 14.0
+52 Week Low: 7.5

@@ -1,0 +1,9 @@
+Company: Hyperfine Inc. Class A Common Stock
+Ticker: HYPR
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Guilford
+Website: https://hyperfine.io
+Employees: 111
+Business Summary: Hyperfine, Inc., a health technology company, engages in the production, supply, service, and commercialization of magnetic resonance imaging (MRI) products. Its Swoop Portable MR Imaging System produces images at a lower magnetic field strength than conventional MRI scanners. The company also offers support and technical assistance services, as well as Hyperfine Image Viewer, a cloud picture archiving and communication system. It serves intensive care units, neurology offices, emergency departments, and comprehensive and primary stroke accredited facilities through direct sales and distributors in the United States, Canada, the United Kingdom, other European and Middle Eastern markets, Australia, New Zealand, and internationally. The company was founded in 2014 and is based in Guilford, Connecticut.

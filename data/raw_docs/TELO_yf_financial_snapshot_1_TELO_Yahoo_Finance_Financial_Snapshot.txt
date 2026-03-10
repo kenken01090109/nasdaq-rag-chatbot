@@ -1,0 +1,25 @@
+Company: Telomir Pharmaceuticals Inc. Common Stock
+Ticker: TELO
+Market Cap: 42976216
+Enterprise Value: 37459396
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 1088369
+Operating Cashflow: -3092649
+Return On Assets: -1.67419
+Return On Equity: -3.03188
+Total Cash: 7329298
+Total Debt: 93432
+Debt To Equity: 1.339
+Current Ratio: 17.507
+Quick Ratio: 17.335
+Trailing PE: 
+Forward PE: -4.464286
+Price To Book: 6.067961
+Beta: -0.65
+52 Week High: 5.4
+52 Week Low: 1.05

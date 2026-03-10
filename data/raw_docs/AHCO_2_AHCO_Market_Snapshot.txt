@@ -1,0 +1,10 @@
+Company: AdaptHealth Corp. Common Stock
+Ticker: AHCO
+Market Cap: 1304782336
+Enterprise Value: 3109105152
+Trailing PE: 
+Forward PE: 7.7170424
+Price To Book: 0.8376964
+Beta: 1.72
+52 Week High: 11.17
+52 Week Low: 7.105

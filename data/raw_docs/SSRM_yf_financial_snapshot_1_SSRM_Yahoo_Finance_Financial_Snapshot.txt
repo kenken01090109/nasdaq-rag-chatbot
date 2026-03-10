@@ -1,0 +1,25 @@
+Company: SSR Mining Inc. Common Stock
+Ticker: SSRM
+Market Cap: 6207551488
+Enterprise Value: 6967844864
+Total Revenue: 1629636992
+Revenue Per Share: 8.038
+EBITDA: 651248000
+Gross Margins: 0.50763
+Operating Margins: 0.43105
+Profit Margins: 0.24285
+Free Cashflow: 322894368
+Operating Cashflow: 471852992
+Return On Assets: 0.05928
+Return On Equity: 0.087740004
+Total Cash: 575612992
+Total Debt: 395230016
+Debt To Equity: 9.161
+Current Ratio: 2.082
+Quick Ratio: 1.152
+Trailing PE: 16.502703
+Forward PE: 6.814732
+Price To Book: 1.7667824
+Beta: 0.864
+52 Week High: 33.49
+52 Week Low: 8.65

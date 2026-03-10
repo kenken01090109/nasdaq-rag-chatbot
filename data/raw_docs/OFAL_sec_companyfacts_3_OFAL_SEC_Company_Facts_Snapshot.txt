@@ -1,0 +1,11 @@
+Company: OFA Group Class A Ordinary Shares
+Ticker: OFAL
+CIK: 0002036307
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 634222 | unit=USD | filed=2026-02-26 | period_end=2025-09-30
+NetIncomeLoss: -3432452 | unit=USD | filed=2026-02-26 | period_end=2025-09-30
+Assets: 367927 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Liabilities: 4444879 | unit=USD | filed=2026-02-26 | period_end=2025-09-30
+StockholdersEquity: 12492865 | unit=USD | filed=2026-02-26 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1074593 | unit=USD | filed=2026-02-26 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 505786 | unit=USD | filed=2026-02-26 | period_end=2025-09-30

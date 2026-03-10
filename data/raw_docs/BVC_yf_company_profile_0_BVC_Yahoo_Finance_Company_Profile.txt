@@ -1,0 +1,9 @@
+Company: BitVentures Limited Ordinary Shares
+Ticker: BVC
+Sector: Technology
+Industry: Software - Application
+Country: Hong Kong
+City: Central
+Website: https://ir.bitventures.io
+Employees: 6
+Business Summary: BitVentures Limited a technology company, develops early-stage technology businesses. It provides client referral services to external financial product partners. The company also offers insurance products which includes life insurance products, such as individual whole life, term life, health insurance, and universal life insurance; annuity insurance products; and critical illness insurance products, including personal accident insurance products. The company was formerly known as Santech Holdings Limited and changed its name to BitVentures Limited in December 2025. BitVentures Limited was incorporated in 2019 and is based in Central, Hong Kong. BitVentures Limited operates as a subsidiary of Carmel Holdings Limited.

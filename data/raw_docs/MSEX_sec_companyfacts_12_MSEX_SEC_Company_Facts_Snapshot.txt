@@ -1,0 +1,10 @@
+Company: Middlesex Water Company Common Stock
+Ticker: MSEX
+CIK: 0000066004
+Latest SEC XBRL Facts:
+Revenues: 147715000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 34217000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 1341959000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 482546000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 44134000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3384000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

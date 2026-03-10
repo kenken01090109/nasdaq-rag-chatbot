@@ -1,0 +1,11 @@
+Company: Envoy Medical Inc. Class A Common Stock
+Ticker: COCH
+CIK: 0001840877
+Latest SEC XBRL Facts:
+Revenues: 166000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -17170000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 8181000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 15712000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -7661000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12516000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7440000 | unit=USD | filed=2024-01-17 | period_end=2023-09-30

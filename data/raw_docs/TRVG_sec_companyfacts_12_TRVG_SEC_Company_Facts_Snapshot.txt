@@ -1,0 +1,10 @@
+Company: trivago N.V. American Depositary Shares
+Ticker: TRVG
+CIK: 0001683825
+Latest SEC XBRL Facts:
+Revenues: 535004000 | unit=EUR | filed=2023-03-03 | period_end=2022-12-31
+NetIncomeLoss: 11220000 | unit=EUR | filed=2026-02-26 | period_end=2025-12-31
+Assets: 358449000 | unit=EUR | filed=2026-02-26 | period_end=2025-12-31
+StockholdersEquity: 213299000 | unit=EUR | filed=2026-02-26 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 7731000 | unit=EUR | filed=2026-02-26 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 190201000 | unit=EUR | filed=2018-03-06 | period_end=2017-12-31

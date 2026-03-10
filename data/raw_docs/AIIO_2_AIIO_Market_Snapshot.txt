@@ -1,0 +1,10 @@
+Company: Robo.ai Inc. Class B Ordinary Shares
+Ticker: AIIO
+Market Cap: 59255752
+Enterprise Value: 58058952
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.71748877
+Beta: 1.821
+52 Week High: 3.48
+52 Week Low: 0.108

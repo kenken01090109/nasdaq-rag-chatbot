@@ -1,0 +1,10 @@
+Company: Actuate Therapeutics Inc. Common stock
+Ticker: ACTU
+Market Cap: 74378648
+Enterprise Value: 57453888
+Trailing PE: 9.411765
+Forward PE: -3.0695443
+Price To Book: 6.7940555
+Beta: 
+52 Week High: 11.99
+52 Week Low: 2.73

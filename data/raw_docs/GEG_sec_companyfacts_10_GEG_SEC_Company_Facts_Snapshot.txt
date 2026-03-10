@@ -1,0 +1,12 @@
+Company: Great Elm Group Inc. Common Stock
+Ticker: GEG
+CIK: 0001831096
+Latest SEC XBRL Facts:
+Revenues: 18579000 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 13799000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: -682000 | unit=USD | filed=2025-05-07 | period_end=2025-03-31
+Assets: 135488000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 75798000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 55762000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1923000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 51228000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

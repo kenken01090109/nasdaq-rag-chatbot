@@ -1,0 +1,8 @@
+Company: AIxCrypto Holdings Inc. Common Stock
+Ticker: AIXC
+Total Cash: 38777168
+Total Debt: 3236843
+Debt To Equity: 8.397
+Current Ratio: 8.829
+Quick Ratio: 7.876
+Book Value: 0.8

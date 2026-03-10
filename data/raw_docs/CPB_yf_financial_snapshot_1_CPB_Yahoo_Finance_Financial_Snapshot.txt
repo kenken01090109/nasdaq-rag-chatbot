@@ -1,0 +1,25 @@
+Company: The Campbell's Company Common Stock
+Ticker: CPB
+Market Cap: 7691863040
+Enterprise Value: 14612244480
+Total Revenue: 10158000128
+Revenue Per Share: 34.087
+EBITDA: 1834000000
+Gross Margins: 0.30271998
+Operating Margins: 0.14232
+Profit Margins: 0.056900002
+Free Cashflow: 630499968
+Operating Cashflow: 1130000000
+Return On Assets: 0.05685
+Return On Equity: 0.14815
+Total Cash: 168000000
+Total Debt: 7306999808
+Debt To Equity: 184.567
+Current Ratio: 0.819
+Quick Ratio: 0.299
+Trailing PE: 13.298968
+Forward PE: 10.029271
+Price To Book: 1.9429173
+Beta: -0.064
+52 Week High: 43.85
+52 Week Low: 24.86

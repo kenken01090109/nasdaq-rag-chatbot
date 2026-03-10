@@ -1,0 +1,25 @@
+Company: Veru Inc. Common Stock
+Ticker: VERU
+Market Cap: 39644292
+Enterprise Value: 7325003
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -29895576
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -11035380
+Operating Cashflow: -24879592
+Return On Assets: -0.42924
+Return On Equity: -0.60247004
+Total Cash: 35296644
+Total Debt: 2977357
+Debt To Equity: 8.02
+Current Ratio: 5.164
+Quick Ratio: 4.952
+Trailing PE: 
+Forward PE: -2.0583332
+Price To Book: 1.0678773
+Beta: -1.45
+52 Week High: 7.4
+52 Week Low: 2.1

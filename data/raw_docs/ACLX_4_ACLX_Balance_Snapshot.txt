@@ -1,0 +1,8 @@
+Company: Arcellx Inc. Common Stock
+Ticker: ACLX
+Total Cash: 450334016
+Total Debt: 51919000
+Debt To Equity: 12.904
+Current Ratio: 4.435
+Quick Ratio: 4.322
+Book Value: 6.946

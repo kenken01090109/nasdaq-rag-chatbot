@@ -1,0 +1,25 @@
+Company: GT Biopharma Inc. Common Stock
+Ticker: GTBP
+Market Cap: 12507875
+Enterprise Value: 2557072
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -11017750
+Operating Cashflow: -11361000
+Return On Assets: -1.19472
+Return On Equity: -3.5699399
+Total Cash: 2528000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.271
+Quick Ratio: 1.914
+Trailing PE: 
+Forward PE: -0.043453705
+Price To Book: 0.9461694
+Beta: 1.253
+52 Week High: 3.85
+52 Week Low: 0.401

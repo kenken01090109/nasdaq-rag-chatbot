@@ -1,0 +1,9 @@
+Company: OneStream Inc. Class A Common Stock
+Ticker: OS
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Birmingham
+Website: https://www.onestream.com
+Employees: 1623
+Business Summary: OneStream, Inc. delivers a unified, AI-enabled, and extensible software platform in the United States and internationally. The company's Digital Finance Cloud platform provides solutions that include financial close and consolidation that streamlines financial processes with capabilities to automate tasks and manage the complexity and standards of financial reporting and consolidation; financial and operational planning and analysis that enables financial and operational planning, budgeting, forecasting, and results analysis for individual business functions and the synchronization of plans across the entire organization; and financial and operational reporting and analysis that provides end-to-end visibility of analytics and key metrics to various stakeholders, including executives, finance professionals, line-of-business leaders, and other business partners. Its customers include enterprises, mid-market organizations, and government entities. The company was founded in 2012 and is headquartered in Birmingham, Michigan.

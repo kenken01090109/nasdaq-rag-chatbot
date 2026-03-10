@@ -1,0 +1,25 @@
+Company: Ascent Industries Co. Common Stock
+Ticker: ACNT
+Market Cap: 124378800
+Enterprise Value: 81743816
+Total Revenue: 74942000
+Revenue Per Share: 7.772
+EBITDA: -2766000
+Gross Margins: 0.22966999
+Operating Margins: -0.16835
+Profit Margins: 0.011569999
+Free Cashflow: 32106000
+Operating Cashflow: -519000
+Return On Assets: -0.03353
+Return On Equity: -0.06186
+Total Cash: 57606000
+Total Debt: 13780000
+Debt To Equity: 15.841
+Current Ratio: 6.72
+Quick Ratio: 5.475
+Trailing PE: 
+Forward PE: 16.575
+Price To Book: 1.432894
+Beta: 0.439
+52 Week High: 17.92
+52 Week Low: 11.43

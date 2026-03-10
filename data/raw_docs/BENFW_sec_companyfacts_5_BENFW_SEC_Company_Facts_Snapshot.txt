@@ -1,0 +1,10 @@
+Company: Beneficient Warrant
+Ticker: BENFW
+CIK: 0001775734
+Latest SEC XBRL Facts:
+Revenues: 3284000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -48792000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 337860000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 375901000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -34737000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 7867000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

@@ -1,0 +1,11 @@
+Company: Opendoor Technologies Inc  Series Z Warrants each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant
+Ticker: OPENZ
+CIK: 0001801169
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3635000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -204000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2700000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1889000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 811000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 979000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 962000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

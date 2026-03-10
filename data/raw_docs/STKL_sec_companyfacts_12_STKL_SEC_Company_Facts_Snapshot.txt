@@ -1,0 +1,11 @@
+Company: SunOpta Inc. Common Stock
+Ticker: STKL
+CIK: 0000351834
+Latest SEC XBRL Facts:
+Revenues: 817715000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03
+NetIncomeLoss: 15768000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03
+Assets: 694659000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03
+Liabilities: 508639000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03
+StockholdersEquity: 170797000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03
+NetCashProvidedByUsedInOperatingActivities: 49661000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03
+CashAndCashEquivalentsAtCarryingValue: 169000 | unit=USD | filed=2026-03-04 | period_end=2026-01-03

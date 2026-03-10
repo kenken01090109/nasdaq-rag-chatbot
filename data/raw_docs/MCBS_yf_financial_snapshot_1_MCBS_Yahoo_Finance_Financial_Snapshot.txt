@@ -1,0 +1,25 @@
+Company: MetroCity Bankshares Inc. Common Stock
+Ticker: MCBS
+Market Cap: 816701248
+Enterprise Value: 953140928
+Total Revenue: 155951008
+Revenue Per Share: 6.061
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.6154
+Profit Margins: 0.44055998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01643
+Return On Equity: 0.14229
+Total Cash: 390019008
+Total Debt: 525305984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.734848
+Forward PE: 8.85625
+Price To Book: 1.5002648
+Beta: 0.721
+52 Week High: 31.06
+52 Week Low: 24.24

@@ -1,0 +1,9 @@
+Company: Elite Express Holding Inc. Class A Common Stock
+Ticker: ETS
+Sector: Industrials
+Industry: Trucking
+Country: United States
+City: Laguna Hills
+Website: https://www.eliteexpressholding.com
+Employees: 
+Business Summary: Elite Express Holding Inc. provides last-mile delivery solutions to connect businesses and customers in California. It offers package pickup, transportation, and delivery, as well as post-delivery feedback services through trucks and trailers. The company was founded in 2020 and is based in Laguna Hills, California.

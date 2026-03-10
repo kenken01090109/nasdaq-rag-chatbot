@@ -1,0 +1,25 @@
+Company: SKK Holdings Limited Class A Ordinary Shares
+Ticker: SKK
+Market Cap: 5250000
+Enterprise Value: 13207312
+Total Revenue: 13470000
+Revenue Per Share: 0.816
+EBITDA: 2651000
+Gross Margins: 0.43623
+Operating Margins: 0.00808
+Profit Margins: 0.05768
+Free Cashflow: -6294000
+Operating Cashflow: 2848000
+Return On Assets: 0.03565
+Return On Equity: 0.17954999
+Total Cash: 2758000
+Total Debt: 11195000
+Debt To Equity: 155.421
+Current Ratio: 0.765
+Quick Ratio: 0.761
+Trailing PE: 4.666667
+Forward PE: 
+Price To Book: 0.60737526
+Beta: 
+52 Week High: 1.01
+52 Week Low: 0.211

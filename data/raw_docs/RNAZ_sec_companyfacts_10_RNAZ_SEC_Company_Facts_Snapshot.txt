@@ -1,0 +1,10 @@
+Company: TransCode Therapeutics Inc. Common Stock
+Ticker: RNAZ
+CIK: 0001829635
+Latest SEC XBRL Facts:
+NetIncomeLoss: -21217966 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 5226682 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3800703 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1425979 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11374219 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2835916 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

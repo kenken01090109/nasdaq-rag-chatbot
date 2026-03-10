@@ -1,0 +1,25 @@
+Company: iHeartMedia Inc. Class A Common Stock
+Ticker: IHRT
+Market Cap: 486513632
+Enterprise Value: 6024807936
+Total Revenue: 3864990976
+Revenue Per Share: 25.049
+EBITDA: 553315008
+Gross Margins: 0.58255
+Operating Margins: 0.07603
+Profit Margins: -0.12235
+Free Cashflow: 163315120
+Operating Cashflow: 92583000
+Return On Assets: 0.02258
+Return On Equity: 
+Total Cash: 270920992
+Total Debt: 5788251136
+Debt To Equity: 
+Current Ratio: 1.508
+Quick Ratio: 1.272
+Trailing PE: 
+Forward PE: -8.307693
+Price To Book: -0.27452976
+Beta: 1.643
+52 Week High: 5.44
+52 Week Low: 0.95

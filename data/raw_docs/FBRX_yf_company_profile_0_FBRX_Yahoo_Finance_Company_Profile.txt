@@ -1,0 +1,9 @@
+Company: Forte Biosciences Inc. Common Stock
+Ticker: FBRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Dallas
+Website: https://www.fortebiorx.com
+Employees: 16
+Business Summary: Forte Biosciences, Inc. operates as a clinical-stage biopharmaceutical company in the United States. The company's lead product candidate is the FB-102, a proprietary anti-CD122 monoclonal antibody therapeutic candidate for various autoimmune and autoimmune-related indications, such as graft-vs-host disease, vitiligo, and alopecia areata, as well as for celiac disease and non-segmental vitiligo. Forte Biosciences, Inc. is headquartered in Dallas, Texas.

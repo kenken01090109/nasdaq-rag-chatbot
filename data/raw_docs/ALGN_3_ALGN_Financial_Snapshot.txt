@@ -1,0 +1,12 @@
+Company: Align Technology Inc. Common Stock
+Ticker: ALGN
+Total Revenue: 4034963968
+Revenue Per Share: 55.622
+Gross Margins: 0.69805
+Operating Margins: 0.22384001
+EBITDA: 851347008
+Profit Margins: 0.1017
+Free Cashflow: 483692384
+Operating Cashflow: 593222976
+Return On Assets: 0.06938
+Return On Equity: 0.103870004

@@ -1,0 +1,11 @@
+Company: OnKure Therapeutics Inc. Class A Common Stock
+Ticker: OKUR
+CIK: 0001637715
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-03-10 | period_end=2024-12-31
+NetIncomeLoss: -46014000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 72835000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6407000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 66428000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -40316000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 70331000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

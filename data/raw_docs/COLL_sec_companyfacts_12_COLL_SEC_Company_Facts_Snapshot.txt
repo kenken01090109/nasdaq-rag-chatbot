@@ -1,0 +1,11 @@
+Company: Collegium Pharmaceutical Inc. Common Stock
+Ticker: COLL
+CIK: 0001267565
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 575118000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 45907000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1607328000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1332520000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 274808000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 206275000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 150096000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

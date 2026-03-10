@@ -1,0 +1,12 @@
+Company: JE Cleantech Holdings Limited Ordinary Shares
+Ticker: JCSE
+CIK: 0001905511
+Latest SEC XBRL Facts:
+Revenues: 14764000 | unit=SGD | filed=2022-05-02 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5106000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: -654000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Assets: 25672000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 13323000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+StockholdersEquity: 12349000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 14000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 3957000 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Smith-Midland Corporation Common Stock
+Ticker: SMID
+Market Cap: 187783056
+Enterprise Value: 186205232
+Total Revenue: 88866000
+Revenue Per Share: 16.75
+EBITDA: 18210000
+Gross Margins: 0.28026
+Operating Margins: 0.17966999
+Profit Margins: 0.13247
+Free Cashflow: 1148250
+Operating Cashflow: 11069000
+Return On Assets: 0.12845999
+Return On Equity: 0.25463
+Total Cash: 13376000
+Total Debt: 4690000
+Debt To Equity: 8.997
+Current Ratio: 2.763
+Quick Ratio: 2.232
+Trailing PE: 15.87444
+Forward PE: 
+Price To Book: 3.6023204
+Beta: 1.842
+52 Week High: 43.66
+52 Week Low: 25.13

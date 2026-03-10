@@ -1,0 +1,25 @@
+Company: Exponent Inc. Common Stock
+Ticker: EXPO
+Market Cap: 3631031808
+Enterprise Value: 3521486592
+Total Revenue: 536760000
+Revenue Per Share: 10.545
+EBITDA: 129870000
+Gross Margins: 0.36285
+Operating Margins: 0.22522
+Profit Margins: 0.1975
+Free Cashflow: 95006872
+Operating Cashflow: 131730000
+Return On Assets: 0.0963
+Return On Equity: 0.2613
+Total Cash: 221930000
+Total Debt: 82834000
+Debt To Equity: 21.221
+Current Ratio: 2.402
+Quick Ratio: 2.266
+Trailing PE: 35.41872
+Forward PE: 26.507988
+Price To Book: 9.139443
+Beta: 0.775
+52 Week High: 87.88
+52 Week Low: 63.81

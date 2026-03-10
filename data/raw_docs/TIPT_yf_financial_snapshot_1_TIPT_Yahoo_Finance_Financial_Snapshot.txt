@@ -1,0 +1,25 @@
+Company: Tiptree Inc. Common Stock
+Ticker: TIPT
+Market Cap: 643381760
+Enterprise Value: 1090100736
+Total Revenue: 2070076032
+Revenue Per Share: 55.365
+EBITDA: 237292000
+Gross Margins: 0.29914
+Operating Margins: 0.11376
+Profit Margins: 0.024430001
+Free Cashflow: 300066496
+Operating Cashflow: 193323008
+Return On Assets: 0.02273
+Return On Equity: 0.12739
+Total Cash: 369276000
+Total Debt: 597150016
+Debt To Equity: 80.542
+Current Ratio: 0.87
+Quick Ratio: 0.255
+Trailing PE: 14.791305
+Forward PE: 
+Price To Book: 1.2734896
+Beta: 1.018
+52 Week High: 27.41
+52 Week Low: 15.94

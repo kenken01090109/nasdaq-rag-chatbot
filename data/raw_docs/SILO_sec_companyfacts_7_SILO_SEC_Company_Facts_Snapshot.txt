@@ -1,0 +1,11 @@
+Company: Silo Pharma Inc. Common Stock
+Ticker: SILO
+CIK: 0001514183
+Latest SEC XBRL Facts:
+Revenues: 54076 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -3346168 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 6384681 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1375841 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 5008840 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3881061 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3917627 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

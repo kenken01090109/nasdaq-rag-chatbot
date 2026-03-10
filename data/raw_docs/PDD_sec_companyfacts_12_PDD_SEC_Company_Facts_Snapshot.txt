@@ -1,0 +1,11 @@
+Company: PDD Holdings Inc. American Depositary Shares
+Ticker: PDD
+CIK: 0001737806
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 53955324000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 15403464000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 69189417000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 26265695000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 42923722000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 16704245000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 7914191000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

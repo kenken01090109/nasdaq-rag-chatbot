@@ -1,0 +1,10 @@
+Company: Advantage Solutions Inc. Class A Common Stock
+Ticker: ADV
+Market Cap: 198469664
+Enterprise Value: 1664115712
+Trailing PE: 
+Forward PE: 2.0896552
+Price To Book: 0.35710075
+Beta: 2.163
+52 Week High: 2.466
+52 Week Low: 0.489

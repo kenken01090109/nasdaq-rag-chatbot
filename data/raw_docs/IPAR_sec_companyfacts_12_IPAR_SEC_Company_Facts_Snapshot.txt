@@ -1,0 +1,11 @@
+Company: Interparfums Inc. Common Stock
+Ticker: IPAR
+CIK: 0000822663
+Latest SEC XBRL Facts:
+Revenues: 1317700000 | unit=USD | filed=2024-02-27 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 71500000 | unit=USD | filed=2021-03-01 | period_end=2020-12-31
+NetIncomeLoss: 140289000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1564650000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 870887000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 68373000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 79764000 | unit=USD | filed=2023-11-09 | period_end=2023-09-30

@@ -1,0 +1,25 @@
+Company: Real Asset Acquisition Corp. Class A Ordinary Share
+Ticker: RAAQ
+Market Cap: 243570000
+Enterprise Value: 59814664
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -178265
+Operating Cashflow: 14833
+Return On Assets: -0.00262
+Return On Equity: 
+Total Cash: 1077837
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.398
+Quick Ratio: 7.622
+Trailing PE: 42.36
+Forward PE: 
+Price To Book: -10.443787
+Beta: 
+52 Week High: 10.825
+52 Week Low: 9.62

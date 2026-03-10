@@ -1,0 +1,11 @@
+Company: Starbucks Corporation Common Stock
+Ticker: SBUX
+CIK: 0000829224
+Latest SEC XBRL Facts:
+Revenues: 9915100000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+NetIncomeLoss: 293300000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+Assets: 32228300000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+Liabilities: 40609600000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+StockholdersEquity: -8388700000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 1597700000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 3177500000 | unit=USD | filed=2022-08-02 | period_end=2022-07-03

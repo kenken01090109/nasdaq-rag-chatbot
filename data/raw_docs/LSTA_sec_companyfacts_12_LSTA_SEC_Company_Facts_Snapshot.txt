@@ -1,0 +1,12 @@
+Company: Lisata Therapeutics Inc. Common Stock
+Ticker: LSTA
+CIK: 0000320017
+Latest SEC XBRL Facts:
+Revenues: 7922667 | unit=USD | filed=2017-05-15 | period_end=2017-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 70000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -13632000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 21759000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4640000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 17373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18998000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

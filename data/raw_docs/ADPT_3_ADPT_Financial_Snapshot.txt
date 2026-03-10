@@ -1,0 +1,12 @@
+Company: Adaptive Biotechnologies Corporation Common Stock
+Ticker: ADPT
+Total Revenue: 276976000
+Revenue Per Share: 1.826
+Gross Margins: 0.74236
+Operating Margins: -0.17819001
+EBITDA: -39290000
+Profit Margins: -0.21482
+Free Cashflow: 950875
+Operating Cashflow: -45986000
+Return On Assets: -0.06787
+Return On Equity: -0.27817

@@ -1,0 +1,10 @@
+Company: GeoVax Labs Inc. Common Stock
+Ticker: GOVX
+CIK: 0000832489
+Latest SEC XBRL Facts:
+NetIncomeLoss: -17046348 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 6731255 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 6789405 | unit=USD | filed=2022-11-09 | period_end=2022-09-30
+StockholdersEquity: 4907078 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16512193 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5008997 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

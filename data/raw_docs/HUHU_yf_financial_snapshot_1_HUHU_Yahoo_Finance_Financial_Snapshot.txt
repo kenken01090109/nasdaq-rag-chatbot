@@ -1,0 +1,25 @@
+Company: HUHUTECH International Group Inc. Ordinary Shares
+Ticker: HUHU
+Market Cap: 175716336
+Enterprise Value: 161396368
+Total Revenue: 19113236
+Revenue Per Share: 0.88
+EBITDA: -11125159
+Gross Margins: 0.34223
+Operating Margins: -0.87711996
+Profit Margins: -0.6023
+Free Cashflow: -1072124
+Operating Cashflow: -3861990
+Return On Assets: -0.33078
+Return On Equity: -1.73951
+Total Cash: 3005019
+Total Debt: 6358714
+Debt To Equity: 91.602
+Current Ratio: 1.275
+Quick Ratio: 1.157
+Trailing PE: 
+Forward PE: 
+Price To Book: 24.3
+Beta: 
+52 Week High: 12.2
+52 Week Low: 2.95

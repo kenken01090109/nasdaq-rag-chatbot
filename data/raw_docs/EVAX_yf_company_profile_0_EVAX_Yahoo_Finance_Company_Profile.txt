@@ -1,0 +1,9 @@
+Company: Evaxion A/S American Depositary Share
+Ticker: EVAX
+Sector: Healthcare
+Industry: Biotechnology
+Country: Denmark
+City: Horsholm
+Website: https://evaxion.ai
+Employees: 
+Business Summary: Evaxion A/S, a clinical-stage biotech company, develops artificial intelligence-powered immunology vaccines. The company develops EVX-01, which is in phase 2 global multi-center clinical trial for the treatment of metastatic melanoma; EVX-02, a DNA-based cancer vaccine that has completed Phase 1/2a trial to induce a therapeutic immune response in the adjuvant setting in patients with resected melanoma; and EVX-03, DNA-based cancer vaccine for the treatment of various cancers, including non-small cell lung cancer. Its programs also include vaccines that are in pre-clinical stage, which includes EVX-B1 for the prevention of S. aureus-induced skin and soft tissue infections in patients undergoing elective abdominal hernia surgery; EVX-B2 to target diseases caused by N. gonorrhoeae; EVX-B3 for eliciting strong humoral antibody and cellular immune response to the bacterial pathogen; and EVX-V1, a viral vaccine product candidate for targeting Cytomegalovirus. The company was formerly known as Evaxion Biotech A/S and changed its name to Evaxion A/S in May 2025. Evaxion A/S was incorporated in 2008 and is based in Horsholm, Denmark.

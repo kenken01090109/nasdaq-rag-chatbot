@@ -1,0 +1,9 @@
+Company: EVgo Inc. Warrants
+Ticker: EVGOW
+Sector: 
+Industry: 
+Country: United States
+City: Los Angeles
+Website: https://www.evgo.com
+Employees: 
+Business Summary: EVgo, Inc. owns and operates a direct current fast charging network for electric vehicles in the United States. The company offers electricity directly to drivers; original equipment manufacturer charging and related services; and fleet and rideshare public charging services; and commercial charging. It also provides ancillary services, such as customization of digital applications, charging data integration, loyalty programs, access to chargers behind parking lot or garage pay gates, microtargeted advertising, and charging reservations; and hardware, design, and construction services for charging sites, as well as ongoing operations, maintenance, and networking and software integration solutions through eXtend. In addition, it offers PlugShare such as data, research, and advertising services and equipment procurement and operational services. EVgo, Inc. was incorporated in 2010 and is headquartered in Los Angeles, California.EVgo, Inc. operates as a subsidiary of EVgo Holdings LLC.

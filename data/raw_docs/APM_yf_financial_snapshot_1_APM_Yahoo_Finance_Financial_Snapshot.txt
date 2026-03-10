@@ -1,0 +1,25 @@
+Company: Aptorum Group Limited Class A Ordinary Shares
+Ticker: APM
+Market Cap: 6514191
+Enterprise Value: -2500415
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -1455674
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -1181181
+Return On Assets: 
+Return On Equity: 
+Total Cash: 2272611
+Total Debt: 3425472
+Debt To Equity: 26.025
+Current Ratio: 0.562
+Quick Ratio: 0.517
+Trailing PE: 
+Forward PE: -1.1266197
+Price To Book: 0.25361446
+Beta: -0.028
+52 Week High: 4.47
+52 Week Low: 0.65

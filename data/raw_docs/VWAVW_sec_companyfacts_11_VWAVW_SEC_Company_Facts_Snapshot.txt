@@ -1,0 +1,11 @@
+Company: VisionWave Holdings Inc. Warrant
+Ticker: VWAVW
+CIK: 0002038439
+Latest SEC XBRL Facts:
+Revenues: 10000000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -6935915 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 18370058 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 15308219 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 3061839 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5407342 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 15723 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

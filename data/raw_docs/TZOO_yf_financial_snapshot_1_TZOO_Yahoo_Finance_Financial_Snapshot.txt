@@ -1,0 +1,25 @@
+Company: Travelzoo Common Stock
+Ticker: TZOO
+Market Cap: 73791912
+Enterprise Value: 77169720
+Total Revenue: 91719000
+Revenue Per Share: 8.204
+EBITDA: 7209000
+Gross Margins: 0.80292
+Operating Margins: 0.02465
+Profit Margins: 0.05124
+Free Cashflow: 5573250
+Operating Cashflow: 5661000
+Return On Assets: 0.08647
+Return On Equity: 5.15261
+Total Cash: 10007000
+Total Debt: 5995000
+Debt To Equity: 
+Current Ratio: 0.684
+Quick Ratio: 0.608
+Trailing PE: 10.181817
+Forward PE: 11.789474
+Price To Book: -9.781659
+Beta: 0.773
+52 Week High: 16.56
+52 Week Low: 4.72

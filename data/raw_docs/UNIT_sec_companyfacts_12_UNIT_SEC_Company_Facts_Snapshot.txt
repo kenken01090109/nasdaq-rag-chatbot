@@ -1,0 +1,11 @@
+Company: Uniti Group Inc. Common Stock
+Ticker: UNIT
+CIK: 0002020795
+Latest SEC XBRL Facts:
+Revenues: 1317300000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1610400000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 12079200000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 11398400000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 680700000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 229800000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 158000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: CVB Financial Corporation Common Stock
+Ticker: CVBF
+Market Cap: 2567840000
+Enterprise Value: 3271651840
+Total Revenue: 518958016
+Revenue Per Share: 3.795
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.56324
+Profit Margins: 0.40330002
+Free Cashflow: 
+Operating Cashflow: 221411008
+Return On Assets: 0.0136
+Return On Equity: 0.0934
+Total Cash: 389713984
+Total Debt: 1048568000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.440789
+Forward PE: 10.03183
+Price To Book: 1.1168202
+Beta: 0.684
+52 Week High: 21.48
+52 Week Low: 16.01

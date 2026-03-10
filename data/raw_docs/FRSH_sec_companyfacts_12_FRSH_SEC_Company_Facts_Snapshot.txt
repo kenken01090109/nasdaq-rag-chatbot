@@ -1,0 +1,11 @@
+Company: Freshworks Inc. Class A Common Stock
+Ticker: FRSH
+CIK: 0001544522
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 616069000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -7723000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1371959000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 520473000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 851486000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 180036000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 420934000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

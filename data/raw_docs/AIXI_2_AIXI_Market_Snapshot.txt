@@ -1,0 +1,10 @@
+Company: XIAO-I Corporation American Depositary Shares
+Ticker: AIXI
+Market Cap: 2952897
+Enterprise Value: 54578308
+Trailing PE: 
+Forward PE: -0.4096296
+Price To Book: -0.07172503
+Beta: 2.136
+52 Week High: 4.671
+52 Week Low: 0.193

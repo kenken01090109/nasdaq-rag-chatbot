@@ -1,0 +1,10 @@
+Company: enGene Holdings Inc. Common Stock
+Ticker: ENGN
+CIK: 0001980845
+Latest SEC XBRL Facts:
+NetIncomeLoss: -79422000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Assets: 245550000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Liabilities: 44878000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+StockholdersEquity: 200672000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: -74277000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 32623000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31

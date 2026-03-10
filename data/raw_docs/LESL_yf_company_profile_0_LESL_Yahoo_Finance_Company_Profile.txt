@@ -1,0 +1,9 @@
+Company: Leslie's Inc. Common Stock
+Ticker: LESL
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: United States
+City: Phoenix
+Website: https://lesliespool.com
+Employees: 3790
+Business Summary: Leslie's, Inc. operates as a direct-to-consumer pool and spa care brand in the United States. The company markets and sells pool and spa supplies and related products and services. It also offers various pool and spa maintenance items, such as chemicals, equipment and parts, and cleaning accessories, as well as safety, recreational, and fitness related products. In addition, the company provides installation and repair services for pool and spa equipment. Further, it offers complimentary, commercial grade water testing, and in-store equipment repair services. The company serves residential, professional, and commercial consumers through e-commerce websites and third-party marketplaces. Leslie's, Inc. was founded in 1963 and is headquartered in Phoenix, Arizona.

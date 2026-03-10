@@ -1,0 +1,11 @@
+Company: Harmony Biosciences Holdings Inc. Common Stock
+Ticker: HRMY
+CIK: 0001802665
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 624677000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 136201000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1208218000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 373095000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 835123000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 222048000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 646999000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

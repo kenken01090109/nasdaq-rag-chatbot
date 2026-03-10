@@ -1,0 +1,25 @@
+Company: NRX Pharmaceuticals Inc. Common Stock
+Ticker: NRXP
+Market Cap: 54182980
+Enterprise Value: 52804800
+Total Revenue: 242000
+Revenue Per Share: 0.014
+EBITDA: -15199000
+Gross Margins: 0.59916997
+Operating Margins: -17.01653
+Profit Margins: 0.0
+Free Cashflow: 2985500
+Operating Cashflow: -12497000
+Return On Assets: -0.97826
+Return On Equity: 
+Total Cash: 7184000
+Total Debt: 10256000
+Debt To Equity: 
+Current Ratio: 0.294
+Quick Ratio: 0.259
+Trailing PE: 
+Forward PE: 13.076924
+Price To Book: -1.827957
+Beta: 1.994
+52 Week High: 3.84
+52 Week Low: 1.58

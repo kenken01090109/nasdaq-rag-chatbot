@@ -1,0 +1,11 @@
+Company: Microbot Medical Inc. Common Stock
+Ticker: MBOT
+CIK: 0000883975
+Latest SEC XBRL Facts:
+Revenues: 85237 | unit=USD | filed=2016-11-03 | period_end=2016-09-30
+NetIncomeLoss: -9678000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 81760000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 3536000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 78224000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9288000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6704000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

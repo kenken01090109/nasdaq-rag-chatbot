@@ -1,0 +1,10 @@
+Company: Energys Group Limited Ordinary Shares
+Ticker: ENGS
+CIK: 0001971828
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2847879 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+Assets: 14382025 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+Liabilities: 12338270 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+StockholdersEquity: 2043755 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -685763 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 265122 | unit=USD | filed=2025-11-03 | period_end=2025-06-30

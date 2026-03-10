@@ -1,0 +1,25 @@
+Company: Seres Therapeutics Inc. Common Stock
+Ticker: MCRB
+Market Cap: 82594720
+Enterprise Value: 120209720
+Total Revenue: 351000
+Revenue Per Share: 0.04
+EBITDA: -99165000
+Gross Margins: 0.0
+Operating Margins: -64.03704
+Profit Margins: 15.367519
+Free Cashflow: -81849128
+Operating Cashflow: -23055000
+Return On Assets: -0.40124
+Return On Equity: 0.15955
+Total Cash: 47638000
+Total Debt: 85253000
+Debt To Equity: 195.1
+Current Ratio: 2.297
+Quick Ratio: 2.161
+Trailing PE: 10.375
+Forward PE: -1.1455458
+Price To Book: 1.8311272
+Beta: 0.292
+52 Week High: 29.98
+52 Week Low: 6.53

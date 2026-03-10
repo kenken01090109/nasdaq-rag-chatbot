@@ -1,0 +1,9 @@
+Company: First Guaranty Bancshares Inc. Common Stock
+Ticker: FGBI
+CIK: 0001408534
+Latest SEC XBRL Facts:
+NetIncomeLoss: -58472000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 3797336000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 3576261000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 221075000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16497000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

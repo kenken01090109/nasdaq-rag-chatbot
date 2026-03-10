@@ -1,0 +1,9 @@
+Company: Friedman Industries Inc. Common Stock
+Ticker: FRD
+Sector: Basic Materials
+Industry: Steel
+Country: United States
+City: Longview
+Website: https://www.friedmanindustries.com
+Employees: 271
+Business Summary: Friedman Industries, Incorporated engages in the manufacture and processing of steel products in the United States. It operates in two segments, Flat-Roll Products and Tubular Products. The Flat-Roll Product segment is involved in the operation of hot-rolled coil processing facilities to cut the coils into sheets and plates, as well as the provision of process and storage services for customer-owned coils on a fee basis. The Tubular Product segment manufactures line and oil country pipes, as well as pipes for structural applications. It serves customers manufacturing steel products, and steel and pipe distributors. The company was incorporated in 1965 and is headquartered in Longview, Texas.

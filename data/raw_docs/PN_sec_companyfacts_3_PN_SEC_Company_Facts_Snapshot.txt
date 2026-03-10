@@ -1,0 +1,11 @@
+Company: Skycorp Solar Group Limited Ordinary Shares
+Ticker: PN
+CIK: 0002001288
+Latest SEC XBRL Facts:
+Revenues: 63311196 | unit=USD | filed=2026-02-12 | period_end=2025-09-30
+NetIncomeLoss: -2695965 | unit=USD | filed=2026-02-12 | period_end=2025-09-30
+Assets: 45494086 | unit=USD | filed=2026-02-12 | period_end=2025-09-30
+Liabilities: 23016976 | unit=USD | filed=2026-02-12 | period_end=2025-09-30
+StockholdersEquity: 19884925 | unit=USD | filed=2026-02-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2872940 | unit=USD | filed=2026-02-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9343368 | unit=USD | filed=2026-02-12 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Cemtrex Inc. Common Stock
+Ticker: CETX
+CIK: 0001435064
+Latest SEC XBRL Facts:
+Revenues: 52983112 | unit=USD | filed=2018-05-15 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 16133311 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -20556147 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 60330549 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 31239960 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 29090589 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -891914 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 20505781 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

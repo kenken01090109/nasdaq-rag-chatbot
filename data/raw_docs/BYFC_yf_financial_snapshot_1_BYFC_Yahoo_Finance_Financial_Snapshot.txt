@@ -1,0 +1,25 @@
+Company: Broadway Financial Corporation Class A Common Stock
+Ticker: BYFC
+Market Cap: 72344392
+Enterprise Value: 416594336
+Total Revenue: 32408000
+Revenue Per Share: 3.766
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.3323
+Profit Margins: -0.75626
+Free Cashflow: 
+Operating Cashflow: -355000
+Return On Assets: -0.018099999
+Return On Equity: -0.089370005
+Total Cash: 19731000
+Total Debt: 213784000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.61905885
+Beta: 0.655
+52 Week High: 8.85
+52 Week Low: 5.51

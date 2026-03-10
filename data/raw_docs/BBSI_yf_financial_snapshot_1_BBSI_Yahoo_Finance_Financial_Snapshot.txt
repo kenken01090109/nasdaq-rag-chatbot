@@ -1,0 +1,25 @@
+Company: Barrett Business Services Inc. Common Stock
+Ticker: BBSI
+Market Cap: 744226624
+Enterprise Value: 77755040
+Total Revenue: 1240297984
+Revenue Per Share: 48.425
+EBITDA: 65819000
+Gross Margins: 0.21035999
+Operating Margins: 0.05167
+Profit Margins: 0.043899998
+Free Cashflow: 70952000
+Operating Cashflow: 65955000
+Return On Assets: 0.050970003
+Return On Equity: 0.2355
+Total Cash: 166168000
+Total Debt: 25299000
+Debt To Equity: 12.132
+Current Ratio: 1.293
+Quick Ratio: 1.007
+Trailing PE: 13.927885
+Forward PE: 13.0300045
+Price To Book: 1.0394317
+Beta: 1.04
+52 Week High: 49.65
+52 Week Low: 25.33

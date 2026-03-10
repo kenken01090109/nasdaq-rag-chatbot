@@ -1,0 +1,25 @@
+Company: Accuray Incorporated Common Stock
+Ticker: ARAY
+Market Cap: 58239124
+Enterprise Value: 143237040
+Total Revenue: 436968992
+Revenue Per Share: 3.889
+EBITDA: -1700000
+Gross Margins: 0.27848
+Operating Margins: 0.03734
+Profit Margins: -0.081520006
+Free Cashflow: -803500
+Operating Cashflow: 4547000
+Return On Assets: -0.01176
+Return On Equity: -0.70322
+Total Cash: 116369000
+Total Debt: 199407008
+Debt To Equity: 289.667
+Current Ratio: 1.466
+Quick Ratio: 0.602
+Trailing PE: 
+Forward PE: -16.343334
+Price To Book: 1.0895556
+Beta: 1.198
+52 Week High: 2.1
+52 Week Low: 0.4768

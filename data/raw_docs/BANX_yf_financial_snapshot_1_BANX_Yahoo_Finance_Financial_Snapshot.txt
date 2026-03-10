@@ -1,0 +1,25 @@
+Company: ArrowMark Financial Corp. Common Stock
+Ticker: BANX
+Market Cap: 147615840
+Enterprise Value: 193655920
+Total Revenue: 28016320
+Revenue Per Share: 3.93
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.75801
+Profit Margins: 0.69818
+Free Cashflow: 11120156
+Operating Cashflow: 15638010
+Return On Assets: 0.06166
+Return On Equity: 0.12538
+Total Cash: 8360025
+Total Debt: 64500000
+Debt To Equity: 40.716
+Current Ratio: 8.502
+Quick Ratio: 7.904
+Trailing PE: 6.89781
+Forward PE: 8.325991
+Price To Book: 0.8505085
+Beta: 0.269
+52 Week High: 23.67
+52 Week Low: 17.99

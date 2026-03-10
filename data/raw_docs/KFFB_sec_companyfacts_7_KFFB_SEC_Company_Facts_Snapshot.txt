@@ -1,0 +1,10 @@
+Company: Kentucky First Federal Bancorp Common Stock
+Ticker: KFFB
+CIK: 0001297341
+Latest SEC XBRL Facts:
+NetIncomeLoss: 648000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 375278000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 326177000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 49101000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 147000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 19672000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

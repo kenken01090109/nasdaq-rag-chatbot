@@ -1,0 +1,9 @@
+Company: Digimarc Corporation Common Stock
+Ticker: DMRC
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Beaverton
+Website: https://www.digimarc.com
+Employees: 215
+Business Summary: Digimarc Corporation, together with its subsidiaries, provides digital watermarking solutions in the United States and internationally. The company offers Digimarc Illuminate software as a service cloud-based platform that provides the tools for the application of advanced digital watermarks and dynamic quick response codes; software that enables various systems and devices to interact with data carriers; and a platform to capture insights about digital interactions and automating activities. It also provides Digimarc Automate, an automated product inspection solution for accuracy and efficiency in production, fulfillment, and distribution facilities; Digimarc Engage, consumer engagement solution activates products and multimedia to create and leverage an interactive communications channel; Digimarc Recycle sortation software; Digimarc Retail Experience for retail checkout systems; and Digimarc Validate supports authentication to help ensure online interactions can be trusted and that real products and digital assets are genuine. The company offers its solutions to retailers, consumer brands, their suppliers and related solution providers, as well as media, entertainment, and other customers; and central banks and other government customers through its sales personnel and business partners. Digimarc Corporation was incorporated in 2008 and is based in Beaverton, Oregon.

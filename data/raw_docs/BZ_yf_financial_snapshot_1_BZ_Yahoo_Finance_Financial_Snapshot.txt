@@ -1,0 +1,25 @@
+Company: KANZHUN LIMITED American Depository Shares
+Ticker: BZ
+Market Cap: 7328858624
+Enterprise Value: -5100241408
+Total Revenue: 8012597248
+Revenue Per Share: 18.06
+EBITDA: 2669336064
+Gross Margins: 0.84527
+Operating Margins: 0.31763
+Profit Margins: 0.31086
+Free Cashflow: 2842147840
+Operating Cashflow: 4184908032
+Return On Assets: 0.062800005
+Return On Equity: 0.14404
+Total Cash: 19214428160
+Total Debt: 165847008
+Debt To Equity: 0.86
+Current Ratio: 4.184
+Quick Ratio: 4.041
+Trailing PE: 19.164557
+Forward PE: 11.887828
+Price To Book: 2.494516
+Beta: 0.439
+52 Week High: 25.26
+52 Week Low: 13.28

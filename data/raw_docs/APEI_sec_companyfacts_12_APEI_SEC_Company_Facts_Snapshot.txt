@@ -1,0 +1,12 @@
+Company: American Public Education Inc. Common Stock
+Ticker: APEI
+CIK: 0001201792
+Latest SEC XBRL Facts:
+Revenues: 220757000 | unit=USD | filed=2018-11-06 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 490532000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 18949000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 525296000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 245960000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 279336000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 73516000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 191345000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

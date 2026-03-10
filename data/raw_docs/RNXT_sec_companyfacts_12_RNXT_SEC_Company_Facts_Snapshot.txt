@@ -1,0 +1,11 @@
+Company: RenovoRx Inc. Common Stock
+Ticker: RNXT
+CIK: 0001574094
+Latest SEC XBRL Facts:
+Revenues: 885000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -8227000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 11206000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 3128000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 8078000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7953000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10044000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

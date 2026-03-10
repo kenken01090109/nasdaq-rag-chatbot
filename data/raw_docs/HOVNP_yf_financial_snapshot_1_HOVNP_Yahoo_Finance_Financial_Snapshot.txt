@@ -1,0 +1,25 @@
+Company: Hovnanian Enterprises Inc Dep Shr Srs A Pfd
+Ticker: HOVNP
+Market Cap: 3144731392
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -4.9754252
+Beta: 
+52 Week High: 21.83
+52 Week Low: 16.05

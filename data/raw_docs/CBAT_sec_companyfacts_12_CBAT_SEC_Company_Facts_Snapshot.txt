@@ -1,0 +1,11 @@
+Company: CBAK Energy Technology Inc. Common Stock
+Ticker: CBAT
+CIK: 0001117171
+Latest SEC XBRL Facts:
+Revenues: 136386794 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -2001695 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 363863064 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 245406770 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 121409257 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18746848 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10476254 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

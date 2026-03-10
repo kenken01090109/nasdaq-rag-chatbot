@@ -1,0 +1,25 @@
+Company: Eagle Bancorp Montana Inc. Common Stock
+Ticker: EBMT
+Market Cap: 170256464
+Enterprise Value: 187456816
+Total Revenue: 90388000
+Revenue Per Share: 11.585
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.27227
+Profit Margins: 0.16413
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0070499997
+Return On Equity: 0.08094
+Total Cash: 62962000
+Total Debt: 82472000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.260527
+Forward PE: 9.951162
+Price To Book: 0.87088376
+Beta: 0.271
+52 Week High: 23.75
+52 Week Low: 15.1

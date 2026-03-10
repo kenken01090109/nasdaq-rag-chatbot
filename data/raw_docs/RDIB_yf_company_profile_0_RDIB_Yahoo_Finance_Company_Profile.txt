@@ -1,0 +1,9 @@
+Company: Reading International Inc Class B Common Stock
+Ticker: RDIB
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: New York
+Website: https://www.readingrdi.com
+Employees: 2025
+Business Summary: Reading International, Inc., together with its subsidiaries, focuses on the ownership, development, and operation of entertainment and real property assets in the United States, Australia, and New Zealand. The company operates in two segments, Theatrical Motion Picture Exhibition and Real Estate. The Theatrical Motion Picture Exhibition segment operates multiplex cinemas. This segment operates its cinema exhibition businesses under the Reading Cinemas, Consolidated Theatres, Angelika Film Center, State Cinema by Angelika, Angelika Anywhere, Event Cinemas, and Rialto Cinemas brands. The Real Estate segment develops, rents, or licenses retail, commercial, and live theater assets. The company was incorporated in 1999 and is headquartered in New York, New York.

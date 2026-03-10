@@ -1,0 +1,8 @@
+Company: Insight Digital Partners II Warrants
+Ticker: DYORW
+CIK: 0002079292
+Latest SEC XBRL Facts:
+NetIncomeLoss: -51521 | unit=USD | filed=2025-12-08 | period_end=2025-09-30
+Assets: 229054 | unit=USD | filed=2025-12-08 | period_end=2025-09-30
+StockholdersEquity: -26521 | unit=USD | filed=2025-12-08 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43040 | unit=USD | filed=2025-12-08 | period_end=2025-09-30

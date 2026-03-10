@@ -1,0 +1,10 @@
+Company: Highview Merger Corp. Warrants
+Ticker: HVMCW
+CIK: 0002070602
+Latest SEC XBRL Facts:
+NetIncomeLoss: 941404 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 232584500 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9303290 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -8029965 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -378260 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1029296 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

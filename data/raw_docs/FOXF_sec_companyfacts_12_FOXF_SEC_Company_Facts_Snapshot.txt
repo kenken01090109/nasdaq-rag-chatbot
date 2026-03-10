@@ -1,0 +1,11 @@
+Company: Fox Factory Holding Corp. Common Stock
+Ticker: FOXF
+CIK: 0001424929
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1106249000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+NetIncomeLoss: -257584000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+Assets: 1974924000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+Liabilities: 1019100000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+StockholdersEquity: 1197058000 | unit=USD | filed=2024-11-01 | period_end=2024-09-27
+NetCashProvidedByUsedInOperatingActivities: 42766000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 58008000 | unit=USD | filed=2026-02-27 | period_end=2026-01-02

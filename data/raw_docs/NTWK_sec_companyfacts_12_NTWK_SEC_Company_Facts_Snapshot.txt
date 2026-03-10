@@ -1,0 +1,12 @@
+Company: NetSol Technologies Inc. Common  Stock
+Ticker: NTWK
+CIK: 0001039280
+Latest SEC XBRL Facts:
+Revenues: 36125233 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 33820401 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -2110531 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 62686147 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 20747578 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 35939913 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 554881 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 18132086 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

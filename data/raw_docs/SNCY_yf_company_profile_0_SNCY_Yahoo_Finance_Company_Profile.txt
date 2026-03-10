@@ -1,0 +1,9 @@
+Company: Sun Country Airlines Holdings Inc. Common Stock
+Ticker: SNCY
+Sector: Industrials
+Industry: Airlines
+Country: United States
+City: Minneapolis
+Website: https://www.suncountry.com
+Employees: 3281
+Business Summary: Sun Country Airlines Holdings, Inc., an air carrier company, operates scheduled passenger, air cargo, charter air transportation, and related services in the United States, Latin America, and internationally. It operates through two segments, Passenger and Cargo. The company also provides aircraft, crew, maintenance, and insurance services through ad hoc, repeat, short-term, and long-term service contracts; loyalty program rewards; and ancillary services.. As of December 31, 2025, its fleet consisted of 70 Boeing 737-NG aircraft, which includes 47 passenger fleets, 20 cargo, and 3 leased to unaffiliated airlines aircraft. The company serves leisure and visiting friends and relatives passengers; charter and cargo customers; military branches; collegiate and professional sports teams; wholesale tour operators; schools; companies; and other individual entities through its website, call center, and travel agents. Sun Country Airlines Holdings, Inc. was founded in 1982 and is headquartered in Minneapolis, Minnesota.

@@ -1,0 +1,25 @@
+Company: Bluemount Holdings Limited Class B Ordinary Shares
+Ticker: BMHL
+Market Cap: 95698008
+Enterprise Value: 38668000
+Total Revenue: 53474000
+Revenue Per Share: 2.228
+EBITDA: 
+Gross Margins: 0.36728
+Operating Margins: 0.15970999
+Profit Margins: 0.18862
+Free Cashflow: 
+Operating Cashflow: 10518000
+Return On Assets: 0.090629995
+Return On Equity: 0.3026
+Total Cash: 60587000
+Total Debt: 3557000
+Debt To Equity: 9.238
+Current Ratio: 1.498
+Quick Ratio: 1.023
+Trailing PE: 74.998
+Forward PE: 
+Price To Book: 18.280823
+Beta: 
+52 Week High: 4.49
+52 Week Low: 2.72

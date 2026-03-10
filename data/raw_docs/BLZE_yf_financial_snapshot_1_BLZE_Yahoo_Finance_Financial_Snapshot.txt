@@ -1,0 +1,25 @@
+Company: Backblaze Inc. Class A Common Stock
+Ticker: BLZE
+Market Cap: 222494944
+Enterprise Value: 232697952
+Total Revenue: 145835008
+Revenue Per Share: 2.594
+EBITDA: 4986000
+Gross Margins: 0.60965
+Operating Margins: -0.05633
+Profit Margins: -0.17562
+Free Cashflow: 23042624
+Operating Cashflow: 23544000
+Return On Assets: -0.07147
+Return On Equity: -0.31847
+Total Cash: 51381000
+Total Debt: 61584000
+Debt To Equity: 74.001
+Current Ratio: 1.066
+Quick Ratio: 0.89
+Trailing PE: 
+Forward PE: 36.6786
+Price To Book: 2.6727786
+Beta: 1.304
+52 Week High: 10.858
+52 Week Low: 3.675

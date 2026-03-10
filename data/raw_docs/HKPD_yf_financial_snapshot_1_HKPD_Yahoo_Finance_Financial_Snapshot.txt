@@ -1,0 +1,25 @@
+Company: Cellyan Biotechnology Co. Ltd Class A Ordinary Shares
+Ticker: HKPD
+Market Cap: 7147800
+Enterprise Value: 6717319
+Total Revenue: 20313818
+Revenue Per Share: 1.99
+EBITDA: 266016
+Gross Margins: 0.11889
+Operating Margins: -0.09054
+Profit Margins: -0.00133
+Free Cashflow: 2162709
+Operating Cashflow: 569214
+Return On Assets: 0.013150001
+Return On Equity: -0.00585
+Total Cash: 3005551
+Total Debt: 2374870
+Debt To Equity: 47.595
+Current Ratio: 2.992
+Quick Ratio: 2.646
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4312775
+Beta: 
+52 Week High: 2.76
+52 Week Low: 0.6001

@@ -1,0 +1,11 @@
+Company: ZOOZ Strategy Ltd. Ordinary Shares
+Ticker: ZOOZ
+CIK: 0001992818
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 247000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+NetIncomeLoss: -7045000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+Assets: 6551000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+Liabilities: 6697000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+StockholdersEquity: -146000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4950000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2452000 | unit=USD | filed=2025-08-29 | period_end=2025-06-30

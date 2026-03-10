@@ -1,0 +1,9 @@
+Company: Ponce Financial Group Inc. Common Stock
+Ticker: PDLB
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Bronx
+Website: https://www.poncebank.com
+Employees: 216
+Business Summary: Ponce Financial Group, Inc. operates as the bank holding company for Ponce Bank that provides various banking products and services. It offers various deposits, including demand, NOW/IOLA, money market, individual retirement, and savings accounts; reciprocal deposits; and certificates of deposit to individuals, business entities, and non-profit organizations. The company also provides real estate-secured loans, including one-to-four family investor-owned and owner-occupied residential; multifamily residential; nonresidential property; construction and land; commercial and industrial; and business and consumer loans. In addition, it invests in securities, which consist of U.S. government and federal agency securities and securities issued by government-sponsored or owned enterprises, as well as corporate securities, mortgage-backed securities, and Federal Home Loan Bank of New York stock. Ponce Financial Group, Inc. was founded in 1960 and is headquartered in Bronx, New York.

@@ -1,0 +1,12 @@
+Company: Iveda Solutions Inc. Warrant
+Ticker: IVDAW
+CIK: 0001397183
+Latest SEC XBRL Facts:
+Revenues: 4654270 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4654270 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1579225 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 5778379 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2010137 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 6680020 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+NetCashProvidedByUsedInOperatingActivities: -1775080 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3298474 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Southern Missouri Bancorp Inc. Common Stock
+Ticker: SMBC
+CIK: 0000916907
+Latest SEC XBRL Facts:
+NetIncomeLoss: 33800000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 5094387000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 4527027000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 567360000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 37550000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 134061000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

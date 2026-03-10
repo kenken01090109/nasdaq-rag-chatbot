@@ -1,0 +1,12 @@
+Company: INVO Fertility Inc. Common Stock
+Ticker: IVF
+CIK: 0001417926
+Latest SEC XBRL Facts:
+Revenues: 5257933 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1641685 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+NetIncomeLoss: -25333069 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 18832198 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 12983476 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 5848722 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7039692 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1962159 | unit=USD | filed=2022-08-15 | period_end=2022-06-30

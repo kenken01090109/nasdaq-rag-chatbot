@@ -1,0 +1,25 @@
+Company: KVH Industries Inc. Common Stock
+Ticker: KVHI
+Market Cap: 115677920
+Enterprise Value: 49243504
+Total Revenue: 107407000
+Revenue Per Share: 5.529
+EBITDA: -375000
+Gross Margins: 0.24685
+Operating Margins: -0.2682
+Profit Margins: -0.111949995
+Free Cashflow: 26267876
+Operating Cashflow: 14118000
+Return On Assets: -0.045539998
+Return On Equity: -0.08785
+Total Cash: 72804000
+Total Debt: 4608000
+Debt To Equity: 3.516
+Current Ratio: 7.868
+Quick Ratio: 6.383
+Trailing PE: 
+Forward PE: -49.25
+Price To Book: 0.88274825
+Beta: 0.745
+52 Week High: 7.71
+52 Week Low: 4.69

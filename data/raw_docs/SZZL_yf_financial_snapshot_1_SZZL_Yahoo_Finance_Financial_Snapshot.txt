@@ -1,0 +1,25 @@
+Company: Sizzle Acquisition Corp. II Class A ordinary shares
+Ticker: SZZL
+Market Cap: 321734016
+Enterprise Value: 320485664
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 935663
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -32.15625
+Beta: 
+52 Week High: 10.5
+52 Week Low: 9.21

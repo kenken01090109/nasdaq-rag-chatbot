@@ -1,0 +1,25 @@
+Company: Vince Holding Corp. Common Stock
+Ticker: VNCE
+Market Cap: 35749664
+Enterprise Value: 178027600
+Total Revenue: 296249984
+Revenue Per Share: 23.006
+EBITDA: 17629000
+Gross Margins: 0.49986
+Operating Margins: 0.06385
+Profit Margins: -0.061979998
+Free Cashflow: -5877125
+Operating Cashflow: 10011000
+Return On Assets: 0.03607
+Return On Equity: -0.33236
+Total Cash: 1060000
+Total Debt: 142004000
+Debt To Equity: 265.965
+Current Ratio: 1.786
+Quick Ratio: 0.583
+Trailing PE: 
+Forward PE: 8.375
+Price To Book: 0.6694979
+Beta: 0.572
+52 Week High: 4.65
+52 Week Low: 1.02

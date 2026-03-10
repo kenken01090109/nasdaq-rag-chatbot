@@ -1,0 +1,25 @@
+Company: GDEV Inc. Ordinary Shares
+Ticker: GDEV
+Market Cap: 274670848
+Enterprise Value: 185810368
+Total Revenue: 412017984
+Revenue Per Share: 22.736
+EBITDA: 72220000
+Gross Margins: 0.65448
+Operating Margins: 0.25506002
+Profit Margins: 0.13741
+Free Cashflow: 8358625
+Operating Cashflow: 15912000
+Return On Assets: 0.16660999
+Return On Equity: 
+Total Cash: 90236000
+Total Debt: 1296000
+Debt To Equity: 
+Current Ratio: 0.6
+Quick Ratio: 0.591
+Trailing PE: 5.9179688
+Forward PE: 11.222221
+Price To Book: -2.6161284
+Beta: 1.235
+52 Week High: 42.2
+52 Week Low: 8.6

@@ -1,0 +1,25 @@
+Company: Opendoor Technologies Inc Common Stock
+Ticker: OPEN
+Market Cap: 4791627776
+Enterprise Value: 5149627392
+Total Revenue: 4370999808
+Revenue Per Share: 5.702
+EBITDA: -229000000
+Gross Margins: 0.08007
+Operating Margins: -0.20516
+Profit Margins: -0.29740998
+Free Cashflow: 907500032
+Operating Cashflow: 1049000000
+Return On Assets: -0.061680004
+Return On Equity: -1.5133901
+Total Cash: 962000000
+Total Debt: 1320000000
+Debt To Equity: 131.343
+Current Ratio: 7.031
+Quick Ratio: 2.942
+Trailing PE: 
+Forward PE: -99.02951
+Price To Book: 4.761905
+Beta: 3.79
+52 Week High: 10.87
+52 Week Low: 0.508

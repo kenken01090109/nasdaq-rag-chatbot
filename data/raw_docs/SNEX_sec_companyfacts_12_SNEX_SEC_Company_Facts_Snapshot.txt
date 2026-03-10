@@ -1,0 +1,12 @@
+Company: StoneX Group Inc. Common Stock
+Ticker: SNEX
+CIK: 0000913760
+Latest SEC XBRL Facts:
+Revenues: 39029900000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1200500000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 139000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 47784400000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 45262200000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 2522200000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1261700000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1592700000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

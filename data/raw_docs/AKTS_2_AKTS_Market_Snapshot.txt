@@ -1,0 +1,10 @@
+Company: Aktis Oncology Inc. Common stock
+Ticker: AKTS
+Market Cap: 1133187328
+Enterprise Value: 64992516
+Trailing PE: 
+Forward PE: -18.504505
+Price To Book: -0.12645292
+Beta: 
+52 Week High: 29.16
+52 Week Low: 16.8

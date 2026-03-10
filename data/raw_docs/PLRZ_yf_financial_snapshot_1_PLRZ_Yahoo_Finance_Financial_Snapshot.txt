@@ -1,0 +1,25 @@
+Company: Polyrizon Ltd. Ordinary Shares
+Ticker: PLRZ
+Market Cap: 13656385
+Enterprise Value: -2488471
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -3134000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3426875
+Operating Cashflow: -2631000
+Return On Assets: -0.22251
+Return On Equity: -0.12196
+Total Cash: 15828000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 44.044
+Quick Ratio: 43.484
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6992746
+Beta: 
+52 Week High: 2235.0
+52 Week Low: 2.88

@@ -1,0 +1,11 @@
+Company: International General Insurance Holdings Ltd. Ordinary Share
+Ticker: IGIC
+CIK: 0001794338
+Latest SEC XBRL Facts:
+Revenues: 261906000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+NetIncomeLoss: 61446000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+Assets: 2124090000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+Liabilities: 1461774000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+StockholdersEquity: 662316000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 27172000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 164848000 | unit=USD | filed=2025-09-03 | period_end=2025-06-30

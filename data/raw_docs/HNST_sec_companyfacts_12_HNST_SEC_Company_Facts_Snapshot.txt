@@ -1,0 +1,11 @@
+Company: The Honest Company Inc. Common Stock
+Ticker: HNST
+CIK: 0001530979
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 283280000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 7883000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 241539000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 51354000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 190185000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4187000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 71453000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

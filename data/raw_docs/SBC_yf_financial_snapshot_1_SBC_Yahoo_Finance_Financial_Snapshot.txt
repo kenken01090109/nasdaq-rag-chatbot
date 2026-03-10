@@ -1,0 +1,25 @@
+Company: SBC Medical Group Holdings Incorporated Common Stock
+Ticker: SBC
+Market Cap: 381586240
+Enterprise Value: 276225696
+Total Revenue: 178461312
+Revenue Per Share: 1.732
+EBITDA: 77356344
+Gross Margins: 0.74093
+Operating Margins: 0.36632
+Profit Margins: 0.24277
+Free Cashflow: -9315256
+Operating Cashflow: -34598724
+Return On Assets: 0.15055001
+Return On Equity: 0.19098
+Total Cash: 127431320
+Total Debt: 28154480
+Debt To Equity: 11.35
+Current Ratio: 5.096
+Quick Ratio: 4.75
+Trailing PE: 8.857143
+Forward PE: 7.75
+Price To Book: 1.5384616
+Beta: 1.193
+52 Week High: 5.75
+52 Week Low: 2.91

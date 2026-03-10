@@ -1,0 +1,25 @@
+Company: Beyond Air Inc. Common Stock
+Ticker: XAIR
+Market Cap: 8517187
+Enterprise Value: 20622186
+Total Revenue: 6924000
+Revenue Per Share: 1.131
+EBITDA: -25785000
+Gross Margins: 0.0182
+Operating Margins: -3.00638
+Profit Margins: 0.0
+Free Cashflow: -18648376
+Operating Cashflow: -20155000
+Return On Assets: -0.512
+Return On Equity: -2.40205
+Total Cash: 11661000
+Total Debt: 23591000
+Debt To Equity: 284.709
+Current Ratio: 5.124
+Quick Ratio: 2.59
+Trailing PE: 
+Forward PE: -0.48728916
+Price To Book: 0.83823836
+Beta: 0.422
+52 Week High: 6.44
+52 Week Low: 0.673

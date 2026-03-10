@@ -1,0 +1,25 @@
+Company: Almonty Industries Inc. Common Shares
+Ticker: ALM
+Market Cap: 4801471488
+Enterprise Value: 4418279936
+Total Revenue: 30075000
+Revenue Per Share: 0.157
+EBITDA: -20535000
+Gross Margins: 0.0539
+Operating Margins: -0.36205003
+Profit Margins: -2.16273
+Free Cashflow: -65859500
+Operating Cashflow: -5037000
+Return On Assets: -0.03832
+Return On Equity: -0.57307
+Total Cash: 111588000
+Total Debt: 197263008
+Debt To Equity: 115.128
+Current Ratio: 2.378
+Quick Ratio: 2.158
+Trailing PE: 
+Forward PE: 48.93432
+Price To Book: 33.586155
+Beta: 1.792
+52 Week High: 20.88
+52 Week Low: 2.295

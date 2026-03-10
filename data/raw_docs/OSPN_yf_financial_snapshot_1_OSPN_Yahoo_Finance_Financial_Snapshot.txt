@@ -1,0 +1,25 @@
+Company: OneSpan Inc. Common Stock
+Ticker: OSPN
+Market Cap: 414115392
+Enterprise Value: 348914400
+Total Revenue: 243180000
+Revenue Per Share: 6.364
+EBITDA: 60944000
+Gross Margins: 0.74083
+Operating Margins: 0.21448
+Profit Margins: 0.29979
+Free Cashflow: 38484248
+Operating Cashflow: 59454000
+Return On Assets: 0.08635
+Return On Equity: 0.30102
+Total Cash: 70499000
+Total Debt: 8401000
+Debt To Equity: 3.09
+Current Ratio: 1.503
+Quick Ratio: 1.264
+Trailing PE: 5.7925534
+Forward PE: 8.25
+Price To Book: 1.4967015
+Beta: 1.534
+52 Week High: 18.13
+52 Week Low: 10.16

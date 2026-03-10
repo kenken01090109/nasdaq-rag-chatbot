@@ -1,0 +1,10 @@
+Company: Artelo Biosciences Inc. Common Stock
+Ticker: ARTL
+CIK: 0001621221
+Latest SEC XBRL Facts:
+NetIncomeLoss: -8713000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 4267000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4900000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -633000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5609000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 600000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31

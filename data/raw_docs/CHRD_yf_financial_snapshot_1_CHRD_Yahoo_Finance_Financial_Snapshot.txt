@@ -1,0 +1,25 @@
+Company: Chord Energy Corporation Common Stock
+Ticker: CHRD
+Market Cap: 6948843520
+Enterprise Value: 8219298304
+Total Revenue: 4585246208
+Revenue Per Share: 79.313
+EBITDA: 2335627008
+Gross Margins: 0.50958997
+Operating Margins: 0.12948
+Profit Margins: 0.0097
+Free Cashflow: 622480256
+Operating Cashflow: 2040657024
+Return On Assets: 0.04144
+Return On Equity: 0.0053
+Total Cash: 189531008
+Total Debt: 1510419968
+Debt To Equity: 18.693
+Current Ratio: 1.06
+Quick Ratio: 0.9
+Trailing PE: 41.0
+Forward PE: 12.991392
+Price To Book: 0.8525645
+Beta: 0.712
+52 Week High: 122.4
+52 Week Low: 79.83

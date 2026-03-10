@@ -1,0 +1,12 @@
+Company: ENvue Medical Inc. Common Stock
+Ticker: FEED
+CIK: 0001326706
+Latest SEC XBRL Facts:
+Revenues: 443000 | unit=USD | filed=2019-11-19 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2241000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5333000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 54383000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 11919000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 42464000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6696000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6950000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

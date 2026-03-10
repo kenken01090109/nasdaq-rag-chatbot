@@ -1,0 +1,10 @@
+Company: Andretti Acquisition Corp. II Warrant
+Ticker: POLEW
+CIK: 0002025341
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6783612 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 242309629 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 9869095 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -9486938 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -590984 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 876169 | unit=USD | filed=2024-11-07 | period_end=2024-09-30

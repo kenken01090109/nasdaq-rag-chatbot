@@ -1,0 +1,9 @@
+Company: IceCure Medical Ltd. Ordinary Shares
+Ticker: ICCM
+Sector: Healthcare
+Industry: Medical Devices
+Country: Israel
+City: Caesarea
+Website: https://www.icecure-medical.com
+Employees: 64
+Business Summary: IceCure Medical Ltd, a commercial stage medical device company, researches, develops, and markets cryoablation systems, disposables, and technologies for treating tumors in the United States, Japan, India, China, Israel, and internationally. The company offers ProSense system, a single probe system for the treatment of malignant breast tumors, as well as associated disposables; and IceSense3 system for ablation indications to urology, oncology, dermatology, gynecology, general surgery, thoracic surgery, and proctology. It also develops XSense system, a single probe system; and MultiSense, a multi probe system for the treatment of multiple and larger tumors. The company was incorporated in 2006 and is headquartered in Caesarea, Israel.

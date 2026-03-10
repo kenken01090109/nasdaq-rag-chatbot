@@ -1,0 +1,9 @@
+Company: Largo Inc. Common Shares
+Ticker: LGO
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Toronto
+Website: https://www.largoinc.com
+Employees: 500
+Business Summary: Largo Inc. engages in the development and sale of vanadium-based energy storage systems in Canada. The company operates through six segments: Sales & Trading, Mine Properties, Corporate, Exploration and Evaluation Properties, and Clean Energy and Largo Physical Vanadium. Its products include VPURE+ vanadium flakes that are used in the production of master alloys and aerospace applications; VPURE vanadium flakes ferrovanadium and vanadium carbon nitride for the steel industry; and VPURE+ vanadium powder for catalyst applications. The company offers renewable energy storage solutions through Largo Clean Energy. Its products are sourced from vanadium deposits at the Maracás Menchen Mine in Brazil. The company was formerly known as Largo Resources Ltd. and changed its name to Largo Inc. in November 2021. The company was incorporated in 1988 and is headquartered in Toronto, Canada.

@@ -1,0 +1,11 @@
+Company: Fly-E Group Inc. Common Stock
+Ticker: FLYE
+CIK: 0001975940
+Latest SEC XBRL Facts:
+Revenues: 9237060 | unit=USD | filed=2025-12-18 | period_end=2025-09-30
+NetIncomeLoss: -3784773 | unit=USD | filed=2025-12-18 | period_end=2025-09-30
+Assets: 31629754 | unit=USD | filed=2025-12-18 | period_end=2025-09-30
+Liabilities: 16331709 | unit=USD | filed=2025-12-18 | period_end=2025-09-30
+StockholdersEquity: 15298045 | unit=USD | filed=2025-12-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7707529 | unit=USD | filed=2025-12-18 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2538076 | unit=USD | filed=2025-12-18 | period_end=2025-09-30

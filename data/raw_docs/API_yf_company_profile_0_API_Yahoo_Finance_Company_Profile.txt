@@ -1,0 +1,9 @@
+Company: Agora Inc. American Depositary Shares
+Ticker: API
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Santa Clara
+Website: https://www.agora.io/en/
+Employees: 
+Business Summary: Agora, Inc., through its subsidiaries, engages in the operation of a real-time engagement platform-as-a-service in the United States, the People's Republic of China, and internationally. Its cloud platform enables real-time engagement for concurrent end users which offers developers products, such as video calling, voice calling, interactive live streaming, broadcast streaming, chat, signaling, interactive whiteboard, conversational AI engine and conversational AI toolkit for IoT devices, and others. The company also provides extensions, including analytics, recording, AI noise suppression, 3D spatial audio technology, real-time transcription, and extensions marketplace for solutions and services. In addition, it offers application platforms comprising flexible classroom, a low-code application platform as a service for education providers; and app builder, a no-code application platform. The company operates through Agora and Shengwang brands. Agora, Inc. was incorporated in 2013 and is headquartered in Santa Clara, California.

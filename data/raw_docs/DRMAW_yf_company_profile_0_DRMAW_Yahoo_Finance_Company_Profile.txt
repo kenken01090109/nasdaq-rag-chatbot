@@ -1,0 +1,9 @@
+Company: Dermata Therapeutics Inc. Warrant
+Ticker: DRMAW
+Sector: 
+Industry: 
+Country: United States
+City: San Diego
+Website: https://www.dermatarx.com
+Employees: 8
+Business Summary: Dermata Therapeutics, Inc., a late-stage medical dermatology company, focuses on identifying, developing, and commercializing pharmaceutical product candidates for the treatment of medical skin diseases and aesthetic applications. Its lead product candidate is XYNGARI, which is in Phase 3 clinical studies for the treatment of moderate-to-severe acne, as well as completed Phase 1b proof of concept (POC) trial for mild-to-moderate psoriasis. The company is also developing DMT410 that has completed Phase 1b POC trials for the treatment of axillary hyperhidrosis and aesthetic skin conditions. It has a clinical trial collaboration agreement with Revance Therapeutics, Inc. to conduct a multi-center clinical trial to evaluate the topical application of XYNGARI with DAXXIFY, Revance's botulinum toxin type A. Dermata Therapeutics, Inc. was incorporated in 2014 and is headquartered in San Diego, California.

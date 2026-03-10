@@ -1,0 +1,25 @@
+Company: Aehr Test Systems Common Stock
+Ticker: AEHR
+Market Cap: 1090639616
+Enterprise Value: 1069967680
+Total Revenue: 53249000
+Revenue Per Share: 1.78
+EBITDA: -8875000
+Gross Margins: 0.33276
+Operating Margins: -0.4918
+Profit Margins: -0.16631001
+Free Cashflow: -7361875
+Operating Cashflow: -5360000
+Return On Assets: -0.05011
+Return On Equity: -0.06974
+Total Cash: 30835000
+Total Debt: 10163000
+Debt To Equity: 7.771
+Current Ratio: 10.619
+Quick Ratio: 5.18
+Trailing PE: 
+Forward PE: 284.88
+Price To Book: 8.339579
+Beta: 2.31
+52 Week High: 46.95
+52 Week Low: 6.27

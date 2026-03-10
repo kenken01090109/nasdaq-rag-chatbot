@@ -1,0 +1,12 @@
+Company: Simulations Plus Inc. Common Stock
+Ticker: SLP
+CIK: 0001023459
+Latest SEC XBRL Facts:
+Revenues: 32805000 | unit=USD | filed=2024-04-05 | period_end=2024-02-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 18421000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30
+NetIncomeLoss: 676000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30
+Assets: 137831000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30
+Liabilities: 10718000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30
+StockholdersEquity: 127113000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 4234000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 30189000 | unit=USD | filed=2026-01-09 | period_end=2025-11-30

@@ -1,0 +1,9 @@
+Company: HBT Financial Inc. Common Stock
+Ticker: HBT
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Bloomington
+Website: https://ir.hbtfinancial.com
+Employees: 
+Business Summary: HBT Financial, Inc. operates as the bank holding company for Heartland Bank and Trust Company that provides financial products and services to consumers, businesses, and municipal entities in Illinois and Eastern Iowa. The company's deposits accounts consist of noninterest-bearing demand deposits, interest-bearing transaction accounts, money market accounts, savings accounts, certificates of deposits, health savings accounts, and individual retirement accounts. Its loan offering comprises owner and non-owner occupied commercial real estate; construction and land development and multi-family; commercial and industrial; agricultural and farmland; and one-to-four family residential loans, as well as municipal, consumer, and other loans. The company also offers wealth management services, including financial planning to consumers, trusts, and estates; trustee and custodial; investment management; corporate retirement plan consulting and administration; and retail brokerage services. In addition, it provides farmland management, and farmland sales and services; commercial checking accounts; and treasury management services, as well as originates and services residential mortgage loans. Further, the company offers digital banking services, such as online and mobile banking, and digital payment services, as well as personal financial management tools. The company was formerly known as Heartland Bancorp, Inc. and changed its name to HBT Financial, Inc. in September 2019. HBT Financial, Inc. was founded in 1920 and is headquartered in Bloomington, Illinois.

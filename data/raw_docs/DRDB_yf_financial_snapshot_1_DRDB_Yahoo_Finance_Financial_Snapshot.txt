@@ -1,0 +1,25 @@
+Company: Roman DBDR Acquisition Corp. II Ordinary shares
+Ticker: DRDB
+Market Cap: 320160000
+Enterprise Value: 319836384
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -988313
+Return On Assets: 
+Return On Equity: 
+Total Cash: 323684
+Total Debt: 70
+Debt To Equity: 0.0
+Current Ratio: 4.635
+Quick Ratio: 4.214
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.3393201
+Beta: 
+52 Week High: 10.55
+52 Week Low: 9.94

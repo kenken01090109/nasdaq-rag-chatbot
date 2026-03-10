@@ -1,0 +1,25 @@
+Company: Fenbo Holdings Limited Class A Ordinary Shares
+Ticker: FEBO
+Market Cap: 11173125
+Enterprise Value: 8909125
+Total Revenue: 108715000
+Revenue Per Share: 9.827
+EBITDA: -14634000
+Gross Margins: 0.15063
+Operating Margins: -0.08448
+Profit Margins: -0.16012
+Free Cashflow: 20059000
+Operating Cashflow: 5454000
+Return On Assets: -0.10221
+Return On Equity: -0.34279
+Total Cash: 28260000
+Total Debt: 25996000
+Debt To Equity: 61.587
+Current Ratio: 1.918
+Quick Ratio: 1.567
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.0696332
+Beta: -1.917
+52 Week High: 1.49
+52 Week Low: 0.61

@@ -1,0 +1,11 @@
+Company: Pool Corporation Common Stock
+Ticker: POOL
+CIK: 0000945841
+Latest SEC XBRL Facts:
+Revenues: 4307187000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 374816000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 3500671000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 2120781000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 1379890000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 285743000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36693000 | unit=USD | filed=2019-10-30 | period_end=2019-09-30

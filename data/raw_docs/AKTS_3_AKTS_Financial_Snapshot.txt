@@ -1,0 +1,12 @@
+Company: Aktis Oncology Inc. Common stock
+Ticker: AKTS
+Total Revenue: 5560000
+Revenue Per Share: 7.008
+Gross Margins: 0.0
+Operating Margins: -16.75777
+EBITDA: -70869000
+Profit Margins: 0.0
+Free Cashflow: -36264000
+Operating Cashflow: -61685000
+Return On Assets: -0.14799
+Return On Equity: -0.26504

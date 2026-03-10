@@ -1,0 +1,25 @@
+Company: SAGTEC GLOBAL LIMITED Class A Ordinary shares
+Ticker: SAGT
+Market Cap: 24607500
+Enterprise Value: 28698078
+Total Revenue: 83404640
+Revenue Per Share: 6.802
+EBITDA: 19059220
+Gross Margins: 0.28944
+Operating Margins: 0.23391001
+Profit Margins: 0.17417999
+Free Cashflow: -18831216
+Operating Cashflow: 10273751
+Return On Assets: 0.22836
+Return On Equity: 0.44954
+Total Cash: 1845645
+Total Debt: 4685199
+Debt To Equity: 9.685
+Current Ratio: 2.507
+Quick Ratio: 2.279
+Trailing PE: 6.225806
+Forward PE: 
+Price To Book: 2.0418463
+Beta: 
+52 Week High: 6.24
+52 Week Low: 1.1

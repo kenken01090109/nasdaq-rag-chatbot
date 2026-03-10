@@ -1,0 +1,8 @@
+Company: Automatic Data Processing Inc. Common Stock
+Ticker: ADP
+Total Cash: 2424699904
+Total Debt: 4477899776
+Debt To Equity: 70.044
+Current Ratio: 1.032
+Quick Ratio: 0.081
+Book Value: 15.864

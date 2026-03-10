@@ -1,0 +1,9 @@
+Company: Kestra Medical Technologies Ltd. Common Stock
+Ticker: KMTS
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Kirkland
+Website: https://kestramedical.com
+Employees: 330
+Business Summary: Kestra Medical Technologies, Ltd. operates as a wearable medical device and digital healthcare company. It focuses on transforming patient outcomes in cardiovascular disease using monitoring and therapeutic intervention technologies that are intuitive, intelligent, and connected. The company's develops and commercializes Cardiac Recovery System platform, a system that integrates monitoring, therapeutic treatment, digital health, and patient support services into a single, unified solution. Its platform provides ASSURE WCD, a wearable cardioverter defibrillator used to protect patients at an elevated risk of sudden cardiac arrest; and a suite of integrated digital solutions and services that enable enhanced patient and provider engagement and oversight with the objective of improving patient outcomes. The company was founded in 2014 and is based in Kirkland, Washington.

@@ -1,0 +1,12 @@
+Company: Julong Holding Limited Class A Ordinary Shares
+Ticker: JLHL
+CIK: 0002007846
+Latest SEC XBRL Facts:
+Revenues: 35924 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14080125 | unit=USD | filed=2025-09-25 | period_end=2025-03-31
+NetIncomeLoss: 1593929 | unit=USD | filed=2025-09-25 | period_end=2025-03-31
+Assets: 27477928 | unit=USD | filed=2025-09-25 | period_end=2025-03-31
+Liabilities: 23489530 | unit=USD | filed=2025-09-25 | period_end=2025-03-31
+StockholdersEquity: 3988398 | unit=USD | filed=2025-09-25 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1135086 | unit=USD | filed=2025-09-25 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 2931499 | unit=USD | filed=2025-09-25 | period_end=2025-03-31

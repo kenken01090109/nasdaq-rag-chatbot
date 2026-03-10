@@ -1,0 +1,9 @@
+Company: LivePerson Inc. Common Stock
+Ticker: LPSN
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New York
+Website: https://www.liveperson.com
+Employees: 744
+Business Summary: LivePerson, Inc. operates as a digital customer conversation. It enables brands to leverage the LivePerson Platform's intelligence engine to connect with consumers through an integrated suite of mobile and online business messaging technologies. The company offers the LivePerson Platform, an enterprise-class digital customer conversation platform, which enables businesses and consumers to connect through conversational channels, such as voice, in-app, and mobile messaging. It also provides professional services; LivePerson's Conversational AI, including conversation builder, manager, and intelligence, and intent manager. In addition, the company offers cloud-based suite of messaging, real-time chat, Generative AI, AI and automation, and conversation orchestration comprising LLM powered automation tools; LLM powered agent tools; conversation intelligence tools; integrations; and engagement solutions. The company serves financial services, retail, travel and hospitality, healthcare, telcom and cable, and automotive industries. It operates in the United States, Canada, Latin America, South America, Europe, the Middle East and Africa, and the Asia-Pacific. LivePerson, Inc. was incorporated in 1995 and is headquartered in New York, New York.

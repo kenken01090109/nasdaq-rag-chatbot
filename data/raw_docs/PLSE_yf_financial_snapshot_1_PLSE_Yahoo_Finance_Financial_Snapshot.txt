@@ -1,0 +1,25 @@
+Company: Pulse Biosciences Inc Common Stock (DE)
+Ticker: PLSE
+Market Cap: 1230611840
+Enterprise Value: 1190032128
+Total Revenue: 350000
+Revenue Per Share: 0.005
+EBITDA: -75868000
+Gross Margins: -0.54
+Operating Margins: -69.14015
+Profit Margins: 0.0
+Free Cashflow: -29515876
+Operating Cashflow: -54122000
+Return On Assets: -0.42367
+Return On Equity: -0.74448997
+Total Cash: 80735000
+Total Debt: 7530000
+Debt To Equity: 9.336
+Current Ratio: 10.529
+Quick Ratio: 10.225
+Trailing PE: 
+Forward PE: -21.093021
+Price To Book: 15.256517
+Beta: 1.816
+52 Week High: 26.3
+52 Week Low: 12.56

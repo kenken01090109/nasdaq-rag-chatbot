@@ -1,0 +1,9 @@
+Company: Mountain Lake Acquisition Corp. Class A Ordinary Shares
+Ticker: MLAC
+CIK: 0002029492
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6348172 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 239861376 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 8349348 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -7390547 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -537562 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

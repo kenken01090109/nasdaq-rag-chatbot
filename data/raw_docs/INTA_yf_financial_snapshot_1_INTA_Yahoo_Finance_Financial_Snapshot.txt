@@ -1,0 +1,25 @@
+Company: Intapp Inc. Common Stock
+Ticker: INTA
+Market Cap: 2278375424
+Enterprise Value: 2104376960
+Total Revenue: 543340992
+Revenue Per Share: 6.707
+EBITDA: -16807000
+Gross Margins: 0.74784
+Operating Margins: -0.05119
+Profit Margins: -0.04374
+Free Cashflow: 108077504
+Operating Cashflow: 110520000
+Return On Assets: -0.02395
+Return On Equity: -0.0541
+Total Cash: 191152000
+Total Debt: 21936000
+Debt To Equity: 5.347
+Current Ratio: 1.002
+Quick Ratio: 0.92
+Trailing PE: 
+Forward PE: 18.739513
+Price To Book: 5.439077
+Beta: 0.73
+52 Week High: 64.31
+52 Week Low: 19.24

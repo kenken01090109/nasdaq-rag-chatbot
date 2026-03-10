@@ -1,0 +1,25 @@
+Company: Kodiak AI Inc. Common Stock
+Ticker: KDK
+Market Cap: 1616369920
+Enterprise Value: 1666750464
+Total Revenue: 16450000
+Revenue Per Share: 0.179
+EBITDA: -80254000
+Gross Margins: 1.0
+Operating Margins: -38.92078
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -84953000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 146203008
+Total Debt: 39646000
+Debt To Equity: 1076.752
+Current Ratio: 4.381
+Quick Ratio: 4.251
+Trailing PE: 
+Forward PE: -13.627059
+Price To Book: -7.1075697
+Beta: -0.337
+52 Week High: 11.35
+52 Week Low: 5.43

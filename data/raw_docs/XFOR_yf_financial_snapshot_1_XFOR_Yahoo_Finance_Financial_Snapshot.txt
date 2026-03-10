@@ -1,0 +1,25 @@
+Company: X4 Pharmaceuticals Inc. Common Stock
+Ticker: XFOR
+Market Cap: 328761952
+Enterprise Value: 283924960
+Total Revenue: 33979000
+Revenue Per Share: 2.107
+EBITDA: -90372000
+Gross Margins: 0.83239996
+Operating Margins: -12.80963
+Profit Margins: -2.7986403
+Free Cashflow: -67890128
+Operating Cashflow: -103086000
+Return On Assets: -0.33543
+Return On Equity: -1.56871
+Total Cash: 122194000
+Total Debt: 77357000
+Debt To Equity: 125.541
+Current Ratio: 5.65
+Quick Ratio: 5.267
+Trailing PE: 
+Forward PE: -3.4601119
+Price To Book: 1.5346938
+Beta: 0.461
+52 Week High: 10.68
+52 Week Low: 1.35

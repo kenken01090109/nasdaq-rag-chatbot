@@ -1,0 +1,10 @@
+Company: NorthEast Community Bancorp Inc. Common Stock
+Ticker: NECB
+CIK: 0001847398
+Latest SEC XBRL Facts:
+NetIncomeLoss: 33602000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2056246000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1712203000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 344043000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 40616000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64337000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: ASML Holding N.V. New York Registry Shares
+Ticker: ASML
+Market Cap: 507629174784
+Enterprise Value: 518758400000
+Total Revenue: 32667299840
+Revenue Per Share: 1.513548
+EBITDA: 12266399744
+Gross Margins: 0.52830005
+Operating Margins: 0.35304
+Profit Margins: 0.29416
+Free Cashflow: 10854937600
+Operating Cashflow: 12658499584
+Return On Assets: 0.14247
+Return On Equity: 0.50458
+Total Cash: 13322099712
+Total Debt: 4690400256
+Debt To Equity: 23.916
+Current Ratio: 1.262
+Quick Ratio: 0.728
+Trailing PE: 44.982605
+Forward PE: 29.792158
+Price To Book: 21.887974
+Beta: 1.431
+52 Week High: 1547.22
+52 Week Low: 578.51

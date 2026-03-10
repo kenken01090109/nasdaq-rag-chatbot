@@ -1,0 +1,9 @@
+Company: Ondas Inc. Common Stock
+Ticker: ONDS
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: West Palm Beach
+Website: https://www.ondas.com
+Employees: 113
+Business Summary: Ondas Inc. provides private wireless, drone, and automated data solutions in the United States and internationally. It operates through two segments: Ondas Networks and Ondas Autonomous Systems. The company designs, develops, manufactures, sells, and supports FullMAX, a software defined radio (SDR) platform for wide-area broadband networks. Its FullMAX SDR platform enables secure and reliable industrial-grade connectivity for truly mission-critical applications. It provides Optimus, an AI-powered drone with imaging payloads; the Airbase, a ruggedized weatherproof base station for housing, data processing, and cloud transfer; Insightful, a secure web portal and API, which enables remote interaction with the system, data, and resulting analytics anywhere in the world; and the Raider, a counter-drone system for security and the protection of critical infrastructure, assets, and people from the threat of hostile drones. It serves users in rail, energy, mining, agriculture, public safety, critical infrastructure, and government markets. The company was formerly known as Ondas Holdings Inc. and changed its name to Ondas Inc. in January 2026. Ondas Inc. was incorporated in 2014 and is headquartered in West Palm Beach, Florida.

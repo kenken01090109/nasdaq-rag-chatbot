@@ -1,0 +1,25 @@
+Company: Davis Commodities Limited Class A Ordinary Shares
+Ticker: DTCK
+Market Cap: 1751794
+Enterprise Value: 4654102
+Total Revenue: 160528992
+Revenue Per Share: 6.552
+EBITDA: -4926227
+Gross Margins: 0.0127
+Operating Margins: -0.00198
+Profit Margins: -0.03004
+Free Cashflow: -1251375
+Operating Cashflow: -3304000
+Return On Assets: -0.09060001
+Return On Equity: -0.52547
+Total Cash: 1668000
+Total Debt: 4291000
+Debt To Equity: 63.467
+Current Ratio: 1.021
+Quick Ratio: 0.91
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.259058
+Beta: 0.009
+52 Week High: 6.89
+52 Week Low: 0.066

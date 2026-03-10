@@ -1,0 +1,10 @@
+Company: SolarEdge Technologies Inc. Common Stock
+Ticker: SEDG
+CIK: 0001419612
+Latest SEC XBRL Facts:
+Revenues: 849086000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -273327000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2232310000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 479760000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51632000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 439515000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

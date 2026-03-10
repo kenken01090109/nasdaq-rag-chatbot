@@ -1,0 +1,12 @@
+Company: Lineage Inc. Common Stock
+Ticker: LINE
+CIK: 0001868159
+Latest SEC XBRL Facts:
+Revenues: 4019000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2642000000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetIncomeLoss: -106000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 19197000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 9812000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 8383000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 627000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 409000000 | unit=USD | filed=2024-11-06 | period_end=2024-09-30

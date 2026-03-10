@@ -1,0 +1,25 @@
+Company: Nextpower Inc. Class A Common Stock
+Ticker: NXT
+Market Cap: 15253517312
+Enterprise Value: 14445320192
+Total Revenue: 3603215104
+Revenue Per Share: 24.5
+EBITDA: 765040000
+Gross Margins: 0.32426998
+Operating Margins: 0.19409999
+Profit Margins: 0.16431999
+Free Cashflow: 454167488
+Operating Cashflow: 628809984
+Return On Assets: 0.13605
+Return On Equity: 0.33172
+Total Cash: 952624000
+Total Debt: 44800000
+Debt To Equity: 2.083
+Current Ratio: 2.36
+Quick Ratio: 1.981
+Trailing PE: 25.875
+Forward PE: 21.160963
+Price To Book: 7.000483
+Beta: 2.424
+52 Week High: 131.585
+52 Week Low: 36.06

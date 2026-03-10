@@ -1,0 +1,10 @@
+Company: Anavex Life Sciences Corp. Common Stock
+Ticker: AVXL
+CIK: 0001314052
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5681000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 132989000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 6371000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 126618000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -7151000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 131749000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

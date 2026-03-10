@@ -1,0 +1,11 @@
+Company: Smithfield Foods Inc. Common Stock
+Ticker: SFD
+CIK: 0000091388
+Latest SEC XBRL Facts:
+Revenues: 11924800000 | unit=USD | filed=2016-10-26 | period_end=2016-10-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 11304000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+NetIncomeLoss: 660000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+Assets: 11523000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+StockholdersEquity: 6466000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 207300000 | unit=USD | filed=2016-10-26 | period_end=2016-10-02
+CashAndCashEquivalentsAtCarryingValue: 277600000 | unit=USD | filed=2016-10-26 | period_end=2016-10-02

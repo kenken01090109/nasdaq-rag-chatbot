@@ -1,0 +1,11 @@
+Company: Personalis Inc. Common Stock
+Ticker: PSNL
+CIK: 0001527753
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 52303000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -57458000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 242839000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 71424000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 171415000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -52700000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49973000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

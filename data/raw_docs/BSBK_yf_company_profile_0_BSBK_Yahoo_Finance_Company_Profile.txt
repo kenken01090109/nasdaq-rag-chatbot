@@ -1,0 +1,9 @@
+Company: Bogota Financial Corp. Common Stock
+Ticker: BSBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Teaneck
+Website: https://www.bogotasavingsbank.com
+Employees: 
+Business Summary: Bogota Financial Corp. operates as the bank holding company for Bogota Savings Bank that provides banking products and services in the United States. It offers deposit accounts, including demand accounts, savings accounts, money market accounts, and certificate of deposit accounts. The company also provides one-to four-family residential real estate loans, and commercial real estate and multi-family loans; consumer loans, such as lines of credit; commercial and industrial loans; and construction loans, as well as buys, sells, and holds investment securities. The company was founded in 1893 and is based in Teaneck, New Jersey. Bogota Financial Corp. is a subsidiary of Bogota Financial, MHC.

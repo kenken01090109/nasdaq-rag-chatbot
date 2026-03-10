@@ -1,0 +1,8 @@
+Company: ADMA Biologics Inc Common Stock
+Ticker: ADMA
+Total Cash: 87630000
+Total Debt: 79885000
+Debt To Equity: 16.736
+Current Ratio: 6.708
+Quick Ratio: 3.538
+Book Value: 2.007

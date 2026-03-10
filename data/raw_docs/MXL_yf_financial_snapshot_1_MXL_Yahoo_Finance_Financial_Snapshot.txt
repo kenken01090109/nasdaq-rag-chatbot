@@ -1,0 +1,25 @@
+Company: MaxLinear Inc. Common Stock
+Ticker: MXL
+Market Cap: 1373500928
+Enterprise Value: 1489155328
+Total Revenue: 467640992
+Revenue Per Share: 5.401
+EBITDA: -58373000
+Gross Margins: 0.56841
+Operating Margins: -0.1106
+Profit Margins: -0.29228002
+Free Cashflow: 65875876
+Operating Cashflow: 19619000
+Return On Assets: -0.07703
+Return On Equity: -0.28235
+Total Cash: 72806000
+Total Debt: 145027008
+Debt To Equity: 32.093
+Current Ratio: 1.338
+Quick Ratio: 0.639
+Trailing PE: 
+Forward PE: 13.835471
+Price To Book: 3.007461
+Beta: 1.759
+52 Week High: 20.82
+52 Week Low: 8.35

@@ -1,0 +1,25 @@
+Company: Data Storage Corporation Warrant
+Ticker: DTSTW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 25529820
+Revenue Per Share: 3.583
+EBITDA: 1137888
+Gross Margins: 0.43817002
+Operating Margins: -2.6345098
+Profit Margins: 0.64071
+Free Cashflow: 7328416
+Operating Cashflow: 631676
+Return On Assets: -0.0037
+Return On Equity: 0.04061
+Total Cash: 45756692
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.64
+Quick Ratio: 5.625
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.013151928
+Beta: 1.19
+52 Week High: 0.0697
+52 Week Low: 0.0582

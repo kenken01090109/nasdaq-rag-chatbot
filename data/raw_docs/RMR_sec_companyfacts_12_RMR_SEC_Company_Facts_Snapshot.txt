@@ -1,0 +1,12 @@
+Company: The RMR Group Inc. Class A Common Stock
+Ticker: RMR
+CIK: 0001644378
+Latest SEC XBRL Facts:
+Revenues: 180424000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 66711000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 12190000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 687121000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 272284000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 232702000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 10745000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 49315000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

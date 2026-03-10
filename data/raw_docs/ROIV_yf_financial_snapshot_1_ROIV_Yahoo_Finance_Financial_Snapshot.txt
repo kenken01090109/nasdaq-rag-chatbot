@@ -1,0 +1,25 @@
+Company: Roivant Sciences Ltd. Common Shares
+Ticker: ROIV
+Market Cap: 20597878784
+Enterprise Value: 17554567168
+Total Revenue: 13310000
+Revenue Per Share: 0.019
+EBITDA: -1264381952
+Gross Margins: 0.0
+Operating Margins: -169.65277
+Profit Margins: 0.0
+Free Cashflow: -334342944
+Operating Cashflow: -759096000
+Return On Assets: -0.14468001
+Return On Equity: -0.19143999
+Total Cash: 4529977856
+Total Debt: 108939000
+Debt To Equity: 2.19
+Current Ratio: 30.664
+Quick Ratio: 29.81
+Trailing PE: 
+Forward PE: -23.35584
+Price To Book: 4.78391
+Beta: 1.207
+52 Week High: 30.03
+52 Week Low: 8.73

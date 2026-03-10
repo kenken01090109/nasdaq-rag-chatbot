@@ -1,0 +1,11 @@
+Company: WillScot Holdings Corporation Class A Common Stock
+Ticker: WSC
+CIK: 0001647088
+Latest SEC XBRL Facts:
+Revenues: 1715475000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 134326000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6104669000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5044599000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1060070000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 603089000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14757000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

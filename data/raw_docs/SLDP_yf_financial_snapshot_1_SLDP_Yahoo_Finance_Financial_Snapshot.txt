@@ -1,0 +1,25 @@
+Company: Solid Power Inc. Class A Common Stock
+Ticker: SLDP
+Market Cap: 688204352
+Enterprise Value: 445676384
+Total Revenue: 17913000
+Revenue Per Share: 0.097
+EBITDA: -81662000
+Gross Margins: -0.15274
+Operating Margins: -10.31155
+Profit Margins: 0.0
+Free Cashflow: -57854124
+Operating Cashflow: -73393000
+Return On Assets: -0.13849
+Return On Equity: -0.22618
+Total Cash: 250784000
+Total Debt: 8256000
+Debt To Equity: 1.986
+Current Ratio: 15.923
+Quick Ratio: 15.506
+Trailing PE: 
+Forward PE: -6.6382976
+Price To Book: 1.5101645
+Beta: 1.931
+52 Week High: 8.86
+52 Week Low: 0.68

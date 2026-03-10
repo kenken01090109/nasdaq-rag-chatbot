@@ -1,0 +1,25 @@
+Company: Upland Software Inc. Common Stock
+Ticker: UPLD
+Market Cap: 19131850
+Enterprise Value: 356421440
+Total Revenue: 216876000
+Revenue Per Share: 7.579
+EBITDA: 48756000
+Gross Margins: 0.74751
+Operating Margins: 0.15183
+Profit Margins: -0.17938
+Free Cashflow: 24556250
+Operating Cashflow: 25800000
+Return On Assets: 0.02204
+Return On Equity: -0.41915
+Total Cash: 29398000
+Total Debt: 235194000
+Debt To Equity: 291.406
+Current Ratio: 0.803
+Quick Ratio: 0.649
+Trailing PE: 
+Forward PE: 0.77
+Price To Book: -0.39867547
+Beta: 
+52 Week High: 3.91
+52 Week Low: 0.6547

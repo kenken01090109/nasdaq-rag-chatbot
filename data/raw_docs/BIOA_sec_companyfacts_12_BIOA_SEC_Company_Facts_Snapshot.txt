@@ -1,0 +1,11 @@
+Company: BioAge Labs Inc. Common Stock
+Ticker: BIOA
+CIK: 0001709941
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5917000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -54662000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 305090000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 27626000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 277464000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -53376000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 215573000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

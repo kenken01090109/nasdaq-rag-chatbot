@@ -1,0 +1,25 @@
+Company: Fox Corporation Class A Common Stock
+Ticker: FOXA
+Market Cap: 25430175744
+Enterprise Value: 30638495744
+Total Revenue: 16577999872
+Revenue Per Share: 37.212
+EBITDA: 3532999936
+Gross Margins: 0.35439
+Operating Margins: 0.11347
+Profit Margins: 0.11407
+Free Cashflow: 1765500032
+Operating Cashflow: 2728999936
+Return On Assets: 0.0881
+Return On Equity: 0.16823
+Total Cash: 2016999936
+Total Debt: 7495000064
+Debt To Equity: 67.389
+Current Ratio: 2.784
+Quick Ratio: 2.307
+Trailing PE: 14.335731
+Forward PE: 11.592505
+Price To Book: 2.3263414
+Beta: 0.537
+52 Week High: 76.39
+52 Week Low: 46.42

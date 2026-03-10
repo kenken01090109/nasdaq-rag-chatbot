@@ -1,0 +1,25 @@
+Company: MMTec Inc. Common Shares
+Ticker: MTC
+Market Cap: 118126504
+Enterprise Value: 138850112
+Total Revenue: 2675833
+Revenue Per Share: 0.106
+EBITDA: -2250776
+Gross Margins: 0.82208
+Operating Margins: -1.89747
+Profit Margins: 0.0
+Free Cashflow: -1176956
+Operating Cashflow: 932402
+Return On Assets: -0.018660001
+Return On Equity: -2.91749
+Total Cash: 10189444
+Total Debt: 32424382
+Debt To Equity: 
+Current Ratio: 1.316
+Quick Ratio: 1.289
+Trailing PE: 
+Forward PE: 
+Price To Book: -5.959339
+Beta: -0.79
+52 Week High: 5.0
+52 Week Low: 0.251

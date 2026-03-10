@@ -1,0 +1,25 @@
+Company: OneStream Inc. Class A Common Stock
+Ticker: OS
+Market Cap: 5823936512
+Enterprise Value: 3932113664
+Total Revenue: 601934016
+Revenue Per Share: 3.305
+EBITDA: -91488000
+Gross Margins: 0.68661004
+Operating Margins: -0.03194
+Profit Margins: -0.08356
+Free Cashflow: 128462000
+Operating Cashflow: 96672000
+Return On Assets: -0.06409
+Return On Equity: -0.12408
+Total Cash: 693580032
+Total Debt: 14798000
+Debt To Equity: 2.468
+Current Ratio: 2.305
+Quick Ratio: 2.193
+Trailing PE: 
+Forward PE: 51.765583
+Price To Book: 8.895982
+Beta: 
+52 Week High: 29.66
+52 Week Low: 16.51

@@ -1,0 +1,11 @@
+Company: Mobileye Global Inc. Class A Common Stock
+Ticker: MBLY
+CIK: 0001910139
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1448000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27
+NetIncomeLoss: -265000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27
+Assets: 12480000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27
+Liabilities: 545000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27
+StockholdersEquity: 11935000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 489000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 1749000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-27

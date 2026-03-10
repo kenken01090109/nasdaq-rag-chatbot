@@ -1,0 +1,12 @@
+Company: Ocugen Inc. Common Stock
+Ticker: OCGN
+CIK: 0001372299
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2021-11-09 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4606000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -50140000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 57596000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 54063000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 3533000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43003000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37800000 | unit=USD | filed=2025-05-09 | period_end=2025-03-31

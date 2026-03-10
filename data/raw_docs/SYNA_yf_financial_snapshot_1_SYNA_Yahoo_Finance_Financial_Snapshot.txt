@@ -1,0 +1,25 @@
+Company: Synaptics Incorporated Common Stock $0.001 Par Value
+Ticker: SYNA
+Market Cap: 2807285248
+Enterprise Value: 3232941312
+Total Revenue: 1144400000
+Revenue Per Share: 29.419
+EBITDA: 93100000
+Gross Margins: 0.43132
+Operating Margins: -0.049590003
+Profit Margins: -0.05409
+Free Cashflow: 169500000
+Operating Cashflow: 190600000
+Return On Assets: -0.01731
+Return On Equity: -0.04486
+Total Cash: 437400000
+Total Debt: 881800000
+Debt To Equity: 63.723
+Current Ratio: 2.927
+Quick Ratio: 2.164
+Trailing PE: 
+Forward PE: 13.60822
+Price To Book: 2.014155
+Beta: 1.691
+52 Week High: 97.0
+52 Week Low: 41.8

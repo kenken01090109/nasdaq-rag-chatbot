@@ -1,0 +1,11 @@
+Company: Citi Trends Inc. Common Stock
+Ticker: CTRN
+CIK: 0001318484
+Latest SEC XBRL Facts:
+Revenues: 589569000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 211032000 | unit=USD | filed=2018-06-11 | period_end=2018-05-05
+Assets: 464260000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+Liabilities: 356430000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+StockholdersEquity: 107830000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 1467000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 53978000 | unit=USD | filed=2018-06-11 | period_end=2018-05-05

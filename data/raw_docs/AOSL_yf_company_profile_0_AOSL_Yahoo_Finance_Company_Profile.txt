@@ -1,0 +1,9 @@
+Company: Alpha and Omega Semiconductor Limited Common Shares
+Ticker: AOSL
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Sunnyvale
+Website: https://www.aosmd.com
+Employees: 2428
+Business Summary: Alpha and Omega Semiconductor Limited designs, develops, and supplies power semiconductor products for computing, consumer electronics, communication, and industrial applications in Hong Kong, China, South Korea, the United States, and internationally. The company offers power discrete products, including metal-oxide-semiconductor field-effect transistors (MOSFET), Shielded-Gate low voltage and mid-voltage MOSFETs, SuperJunction high voltage MOSFETs, and trench-stop insulated gate bipolar transistors (IGBTs), as well as application specific MOSFETs for use in smartphone chargers, battery packs, notebooks, desktop and servers, data centers, base stations, graphics card, game boxes, TVs, AC adapters, power supplies, motor control, power tools, e-vehicles, white goods and industrial motor drives, UPS systems, solar inverters, and industrial welding. It also provides power ICs that deliver power, as well as control and regulate the power management variables, such as the flow of current and level of voltage. The company's power ICs are used in flat panel displays, TVs, notebooks, graphic cards, servers, AI datacenters, DVD/Blu-Ray players, set-top boxes, and networking equipment. In addition, the company offers transient voltage protection products, analog switches, and electromagnetic interference filters for notebooks, desktop PCs, tablets, flat panel displays, TVs, smartphones, and portable electronic devices. Further, it provides silicon carbide, IPM, TVS, and HV gate drivers; and power modules, multiphase controllers, EZBuck regulators, and diode protection switches. Alpha and Omega Semiconductor Limited was incorporated in 2000 and is headquartered in Sunnyvale, California.

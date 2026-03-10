@@ -1,0 +1,25 @@
+Company: ANI Pharmaceuticals Inc.
+Ticker: ANIP
+Market Cap: 1662802816
+Enterprise Value: 1879307776
+Total Revenue: 883366016
+Revenue Per Share: 44.052
+EBITDA: 174747008
+Gross Margins: 0.61363
+Operating Margins: 0.11991999
+Profit Margins: 0.08868
+Free Cashflow: 119417128
+Operating Cashflow: 185224992
+Return On Assets: 0.03823
+Return On Equity: 0.16163999
+Total Cash: 294716000
+Total Debt: 628283008
+Debt To Equity: 116.193
+Current Ratio: 2.708
+Quick Ratio: 2.07
+Trailing PE: 22.301205
+Forward PE: 7.1250677
+Price To Book: 2.8692114
+Beta: 0.462
+52 Week High: 99.5
+52 Week Low: 56.71

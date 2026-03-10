@@ -1,0 +1,10 @@
+Company: USA Rare Earth Inc. Class A Common Stock
+Ticker: USAR
+CIK: 0001970622
+Latest SEC XBRL Facts:
+NetIncomeLoss: -247354000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 323325000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 368635000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -15603225 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -21087000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 257609000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

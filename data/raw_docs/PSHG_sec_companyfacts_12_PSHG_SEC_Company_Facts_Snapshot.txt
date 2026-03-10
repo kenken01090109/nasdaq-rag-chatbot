@@ -1,0 +1,10 @@
+Company: Performance Shipping Inc. Common Shares
+Ticker: PSHG
+CIK: 0001481241
+Latest SEC XBRL Facts:
+Revenues: 87445000 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+NetIncomeLoss: 43730000 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+Assets: 330393000 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+StockholdersEquity: 275243000 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 59896000 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 70314000 | unit=USD | filed=2025-04-16 | period_end=2024-12-31

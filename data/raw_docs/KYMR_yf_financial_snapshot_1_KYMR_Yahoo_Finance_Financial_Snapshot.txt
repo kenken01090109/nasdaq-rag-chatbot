@@ -1,0 +1,25 @@
+Company: Kymera Therapeutics Inc. Common Stock
+Ticker: KYMR
+Market Cap: 6816323072
+Enterprise Value: 6052748800
+Total Revenue: 39211000
+Revenue Per Share: 0.464
+EBITDA: -338831008
+Gross Margins: 0.0
+Operating Margins: -34.1101
+Profit Margins: 0.0
+Free Cashflow: -136041248
+Operating Cashflow: -232891008
+Return On Assets: -0.15875
+Return On Equity: -0.25782
+Total Cash: 848275968
+Total Debt: 82252000
+Debt To Equity: 5.207
+Current Ratio: 10.47
+Quick Ratio: 10.194
+Trailing PE: 
+Forward PE: -20.784735
+Price To Book: 4.2982907
+Beta: 2.297
+52 Week High: 103.0
+52 Week Low: 19.445

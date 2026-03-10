@@ -1,0 +1,10 @@
+Company: Bio Green Med Solution Inc. Common Stock
+Ticker: BGMS
+CIK: 0001130166
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2387000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 8158000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1062000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 7096000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4737000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3838000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

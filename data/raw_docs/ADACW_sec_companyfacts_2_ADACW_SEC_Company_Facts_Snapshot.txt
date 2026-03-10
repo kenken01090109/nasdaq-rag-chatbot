@@ -1,0 +1,8 @@
+Company: American Drive Acquisition Company Warrant
+Ticker: ADACW
+CIK: 0002083002
+Latest SEC XBRL Facts:
+NetIncomeLoss: -31329 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Assets: 124609 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+StockholdersEquity: -6329 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12416 | unit=USD | filed=2026-01-30 | period_end=2025-09-30

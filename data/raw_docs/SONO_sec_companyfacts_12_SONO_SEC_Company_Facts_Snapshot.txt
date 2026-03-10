@@ -1,0 +1,11 @@
+Company: Sonos Inc. Common Stock
+Ticker: SONO
+CIK: 0001314727
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 545662000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetIncomeLoss: 93798000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Assets: 947875000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Liabilities: 504549000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+StockholdersEquity: 443326000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 163307000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 312504000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27

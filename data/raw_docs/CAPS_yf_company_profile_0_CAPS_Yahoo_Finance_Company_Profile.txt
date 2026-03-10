@@ -1,0 +1,9 @@
+Company: Capstone Holding Corp. Common Stock
+Ticker: CAPS
+Sector: Basic Materials
+Industry: Building Materials
+Country: United States
+City: Alsip
+Website: https://capstoneholdingcorp.com
+Employees: 36
+Business Summary: Capstone Holding Corp. engages in the distribution of masonry stone products in the Midwest and Northeast United States. The company offers masonry stone products, such as manufactured and natural stone cladding products, natural stone landscape products, and related goods for residential and commercial construction. The company was formerly known as Capstone Therapeutics Corp. and changed its name to Capstone Holding Corp. in February 2022. Capstone Holding Corp. was incorporated in 1987 and is based in Alsip, Illinois.

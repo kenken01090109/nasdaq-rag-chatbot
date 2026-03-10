@@ -1,0 +1,9 @@
+Company: BridgeBio Oncology Therapeutics Inc. Common Stock
+Ticker: BBOT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://bbotx.com
+Employees: 81
+Business Summary: BridgeBio Oncology Therapeutics, Inc., a clinical-stage biotechnology company, engages in the development of small-molecule therapeutics targeting renin-angiotensin system and phosphoinositide 3-kinase malignancies. The company's product pipeline includes BBO-8520, a direct inhibitor targeting the on and off states of KRAS that is in Phase I clinical trial to treat patients with KRASG12C mutant non-small cell lung cancer; and BBO-10203, an orally bioavailable small molecule that is in Phase I clinical trial for treatment of patients with HER2+ breast cancer, HR+/HER2- breast cancer, KRAS pancreatic ductal adenocarcinoma (PDAC), KRAS mutant colorectal cancer (CRC), and KRAS mutant NSCLC. It is also developing BBO-11818, an orally bioavailable pan KRAS on/off inhibitor that is in Phase I clinical trial to treat patients with KRASG12D and KRASG12V mutant NSCLC, PDAC, and CRC. The company was founded in 2016 is headquartered in South San Francisco, California.

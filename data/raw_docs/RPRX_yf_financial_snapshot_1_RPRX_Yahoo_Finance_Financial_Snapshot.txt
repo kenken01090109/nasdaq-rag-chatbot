@@ -1,0 +1,25 @@
+Company: Royalty Pharma plc Class A Ordinary Shares
+Ticker: RPRX
+Market Cap: 26265563136
+Enterprise Value: 31140878336
+Total Revenue: 2378192896
+Revenue Per Share: 5.533
+EBITDA: 1563369984
+Gross Margins: 1.1244
+Operating Margins: 0.57682997
+Profit Margins: 0.32417
+Free Cashflow: -670412224
+Operating Cashflow: 2489822976
+Return On Assets: 0.05151
+Return On Equity: 0.13204001
+Total Cash: 637496000
+Total Debt: 8970174464
+Debt To Equity: 92.334
+Current Ratio: 2.402
+Quick Ratio: 2.391
+Trailing PE: 25.511236
+Forward PE: 8.3360405
+Price To Book: 3.0054934
+Beta: 0.421
+52 Week High: 47.86
+52 Week Low: 29.66

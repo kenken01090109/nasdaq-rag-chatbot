@@ -1,0 +1,9 @@
+Company: LivaNova PLC Ordinary Shares
+Ticker: LIVN
+Sector: Healthcare
+Industry: Medical Devices
+Country: United Kingdom
+City: London
+Website: https://www.livanova.com
+Employees: 3300
+Business Summary: LivaNova PLC, a medical technology company, designs, develops, manufactures, markets, and sells products, therapies, and services in the United States, the United Kingdom, Germany, France, Italy, the Netherlands, Spain, Belgium, Poland, Sweden, Switzerland, Austria, Norway, Portugal, Finland, Denmark, and internationally. The company operates in two segments, Cardiopulmonary and Neuromodulation. The Cardiopulmonary segment provides cardiopulmonary products, including heart-lung machines, oxygenators, autotransfusion systems, perfusion tubing systems, cannulae, and other related accessories, as well as services related products. The Neuromodulation segment offers VNS Therapy System, an implantable pulse generator and connective lead that stimulates the vagus nerve, surgical equipment to assist with the implant procedure, and equipment and instruction manuals; and devices that deliver neuromodulation therapy for treating drug-resistant epilepsy and difficult-to-treat depression. This segment also includes the development and clinical testing of LivaNova's aura6000 system for treating obstructive sleep apnea. It serves perfusionists, neurologists, neurosurgeons, and other healthcare professionals, hospitals, and other medical institutions and healthcare providers. The company sells its medical devices through a combination of direct sales representatives, agents, and independent distributors. LivaNova PLC was incorporated in 2015 and is headquartered in London, the United Kingdom.

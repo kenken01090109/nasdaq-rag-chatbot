@@ -1,0 +1,25 @@
+Company: Streamex Corp. Common Stock
+Ticker: STEX
+Market Cap: 399156032
+Enterprise Value: 72919080
+Total Revenue: 13000
+Revenue Per Share: 0.001
+EBITDA: -28549000
+Gross Margins: 1.0
+Operating Margins: -2357.2307
+Profit Margins: 0.0
+Free Cashflow: 119093624
+Operating Cashflow: -7890000
+Return On Assets: -0.29034
+Return On Equity: 
+Total Cash: 11045000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.119
+Quick Ratio: 0.088
+Trailing PE: 
+Forward PE: 
+Price To Book: -10.153062
+Beta: 1.651
+52 Week High: 14.11
+52 Week Low: 0.4

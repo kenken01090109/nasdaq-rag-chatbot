@@ -1,0 +1,8 @@
+Company: Allegiant Travel Company Common Stock
+Ticker: ALGT
+Total Cash: 805654976
+Total Debt: 1864722048
+Debt To Equity: 177.141
+Current Ratio: 0.95
+Quick Ratio: 0.847
+Book Value: 57.819

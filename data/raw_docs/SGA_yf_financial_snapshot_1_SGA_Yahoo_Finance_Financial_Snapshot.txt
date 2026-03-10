@@ -1,0 +1,25 @@
+Company: Saga Communications Inc. Class A Common Stock (FL)
+Ticker: SGA
+Market Cap: 73994704
+Enterprise Value: 57629296
+Total Revenue: 109822000
+Revenue Per Share: 17.888
+EBITDA: 5125000
+Gross Margins: 0.11407
+Operating Margins: -0.022230001
+Profit Margins: 0.00264
+Free Cashflow: -405750
+Operating Cashflow: 9113000
+Return On Assets: -0.00059999997
+Return On Equity: 0.00177
+Total Cash: 26270000
+Total Debt: 10291000
+Debt To Equity: 6.35
+Current Ratio: 2.738
+Quick Ratio: 2.269
+Trailing PE: 229.79999
+Forward PE: 23.9375
+Price To Book: 0.45660466
+Beta: 0.029
+52 Week High: 14.27
+52 Week Low: 10.68

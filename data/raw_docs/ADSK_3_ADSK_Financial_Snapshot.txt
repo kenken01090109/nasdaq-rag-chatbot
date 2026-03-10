@@ -1,0 +1,12 @@
+Company: Autodesk Inc. Common Stock
+Ticker: ADSK
+Total Revenue: 7206000128
+Revenue Per Share: 33.831
+Gross Margins: 0.92326
+Operating Margins: 0.27236
+EBITDA: 1906000000
+Profit Margins: 0.15597999
+Free Cashflow: 2787000064
+Operating Cashflow: 2452000000
+Return On Assets: 0.096999995
+Return On Equity: 0.39675

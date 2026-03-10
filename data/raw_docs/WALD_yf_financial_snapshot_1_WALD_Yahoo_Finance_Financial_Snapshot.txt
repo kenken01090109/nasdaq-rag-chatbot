@@ -1,0 +1,25 @@
+Company: Waldencast plc Class A Ordinary Share
+Ticker: WALD
+Market Cap: 194611248
+Enterprise Value: 411439488
+Total Revenue: 274560000
+Revenue Per Share: 2.429
+EBITDA: -4643000
+Gross Margins: 0.69214
+Operating Margins: -0.25359
+Profit Margins: -0.73502
+Free Cashflow: 9068375
+Operating Cashflow: -8964000
+Return On Assets: -0.04112
+Return On Equity: -0.33751
+Total Cash: 8970000
+Total Debt: 193084000
+Debt To Equity: 35.172
+Current Ratio: 1.531
+Quick Ratio: 0.551
+Trailing PE: 
+Forward PE: -3.568182
+Price To Book: 0.3556059
+Beta: -0.454
+52 Week High: 3.505
+52 Week Low: 1.45

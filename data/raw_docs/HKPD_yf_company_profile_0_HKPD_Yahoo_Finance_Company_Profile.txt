@@ -1,0 +1,9 @@
+Company: Cellyan Biotechnology Co. Ltd Class A Ordinary Shares
+Ticker: HKPD
+Sector: Healthcare
+Industry: Pharmaceutical Retailers
+Country: Hong Kong
+City: Yau Tong
+Website: https://www.9zt.hk
+Employees: 27
+Business Summary: Cellyan Biotechnology Co., Ltd, an investment holding company, engages in the over the counter (OTC) pharmaceutical business in Hong Kong and Mainland China. The company provides OTC pharmaceutical cross-border procurement and distribution and e-commerce supply chain services. It also offers custom clearance, drugs enlisting, warehouse, and other logistics services. The company serves e-commerce platform logistics partners, merchants, and pharmaceutical distributors. The company was formerly known as Hong Kong Pharma Digital Technology Holdings Limited and changed its name to Cellyan Biotechnology Co., Ltd in December 2025. Cellyan Biotechnology Co., Ltd was incorporated in 2023 and is based in Yau Tong, Hong Kong.

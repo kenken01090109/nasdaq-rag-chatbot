@@ -1,0 +1,10 @@
+Company: Lakeshore Acquisition III Corp. Rights
+Ticker: LCCCR
+CIK: 0002049248
+Latest SEC XBRL Facts:
+NetIncomeLoss: 668571 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 71034547 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 2490000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: -1640094 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -459320 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 756592 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

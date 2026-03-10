@@ -1,0 +1,25 @@
+Company: CPS Technologies Corp. Common Stock
+Ticker: CPSH
+Market Cap: 68501048
+Enterprise Value: 58478168
+Total Revenue: 30321556
+Revenue Per Share: 2.087
+EBITDA: -140392
+Gross Margins: 0.12527001
+Operating Margins: -0.01202
+Profit Margins: -0.01937
+Free Cashflow: -1259904
+Operating Cashflow: -923757
+Return On Assets: -0.02447
+Return On Equity: -0.03841
+Total Cash: 13235561
+Total Debt: 336000
+Debt To Equity: 1.364
+Current Ratio: 3.116
+Quick Ratio: 1.988
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.7830534
+Beta: 1.427
+52 Week High: 6.85
+52 Week Low: 1.4

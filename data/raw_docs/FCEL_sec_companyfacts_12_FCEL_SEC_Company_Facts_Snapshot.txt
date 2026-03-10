@@ -1,0 +1,12 @@
+Company: FuelCell Energy Inc. Common Stock
+Ticker: FCEL
+CIK: 0000886128
+Latest SEC XBRL Facts:
+Revenues: 71553000 | unit=USD | filed=2018-09-06 | period_end=2018-07-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 103146000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+NetIncomeLoss: -158031000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+Assets: 830535000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+Liabilities: 205458000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+StockholdersEquity: 556171000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: -102427000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 174662000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31

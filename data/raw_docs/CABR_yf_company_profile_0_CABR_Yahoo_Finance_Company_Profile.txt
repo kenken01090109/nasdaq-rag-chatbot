@@ -1,0 +1,9 @@
+Company: Caring Brands Inc. Common Stock
+Ticker: CABR
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Fort Pierce
+Website: https://www.Caringbrands.com
+Employees: 4
+Business Summary: Caring Brands, Inc., a wellness consumer products company, provides over-the-counter and cosmetic consumer products. It offers Hair Enzyme Booster (JW-700) for the treatment of hair growth; Photocil for the treatment of psoriasis and vitiligo; CB-101 (Eczema Treatment) for atopic dermatitis (eczema); NoStingz for the protection from jellyfish, sea lice, and UVA/UVB rays; and GoldN for Ebola diagnostics. The company also provides vitiligo solutions and women's sexual wellness products. The company was incorporated in 2020 and is based in Fort Pierce, Florida.

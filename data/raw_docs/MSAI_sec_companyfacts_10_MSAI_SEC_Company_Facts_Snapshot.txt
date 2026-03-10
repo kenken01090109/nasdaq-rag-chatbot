@@ -1,0 +1,11 @@
+Company: MultiSensor AI Holdings Inc. Common Stock
+Ticker: MSAI
+CIK: 0001863990
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4163000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -9435000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 11871000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 3592000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 8279000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5783000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1064000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

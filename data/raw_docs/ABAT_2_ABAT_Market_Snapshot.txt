@@ -1,0 +1,10 @@
+Company: American Battery Technology Company Common Stock
+Ticker: ABAT
+Market Cap: 447811456
+Enterprise Value: 400167296
+Trailing PE: 
+Forward PE: -24.285715
+Price To Book: 3.7444935
+Beta: 0.911
+52 Week High: 11.49
+52 Week Low: 0.86

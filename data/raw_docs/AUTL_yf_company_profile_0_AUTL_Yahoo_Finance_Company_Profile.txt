@@ -1,0 +1,9 @@
+Company: Autolus Therapeutics plc American Depositary Share
+Ticker: AUTL
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: London
+Website: https://www.autolus.com
+Employees: 647
+Business Summary: Autolus Therapeutics plc, a clinical-stage biopharmaceutical company, develops T cell therapies for the treatment of cancer and autoimmune diseases in the United Kingdom and internationally. The company's clinical-stage programs include obecabtagene autoleucel (AUTO1), a CD19-targeting programmed T cell investigational therapy that is in Phase 1b/2 clinical trial for the treatment of adult ALL; AUTO1/22, which is in a Phase 1 clinical trial in pediatric patients with relapsed or refractory ALL; AUTO4, a programmed T cell investigational therapy for the treatment of peripheral T-cell lymphoma targeting TRBC1 and TRBC2; AUTO6NG, a programmed T cell investigational therapy targeting GD2 in development for the treatment of neuroblastoma; and AUTO8, a product candidate to treat multiple myeloma. It focuses on developing AUTO5, a preclinical TRBC2 programmed T cell product candidate for the treatment of peripheral T-cell lymphoma. The company was incorporated in 2014 and is headquartered in London, the United Kingdom.

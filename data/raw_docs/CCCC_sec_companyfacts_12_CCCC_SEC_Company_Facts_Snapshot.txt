@@ -1,0 +1,11 @@
+Company: C4 Therapeutics Inc. Common Stock
+Ticker: CCCC
+CIK: 0001662579
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 24931000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -84508000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 265488000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 111080000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 154408000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -76549000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 58809000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: BIO-key International Inc. Common Stock
+Ticker: BKYI
+CIK: 0001019034
+Latest SEC XBRL Facts:
+Revenues: 3247633 | unit=USD | filed=2017-11-14 | period_end=2017-09-30
+NetIncomeLoss: -2868790 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 10113313 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4068235 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 6045078 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2838088 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2039853 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

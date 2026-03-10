@@ -1,0 +1,11 @@
+Company: CLPS Incorporation Common Stock
+Ticker: CLPS
+CIK: 0001724542
+Latest SEC XBRL Facts:
+Revenues: 164481414 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetIncomeLoss: -7049734 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Assets: 118109430 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Liabilities: 60524434 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+StockholdersEquity: 55536785 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2544043 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 28173160 | unit=USD | filed=2025-10-17 | period_end=2025-06-30

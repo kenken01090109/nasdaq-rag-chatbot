@@ -1,0 +1,9 @@
+Company: Crane Harbor Acquisition Corp. II Units
+Ticker: CRANU
+CIK: 0002081358
+Latest SEC XBRL Facts:
+NetIncomeLoss: 331924 | unit=USD | filed=2026-02-27 | period_end=2025-12-31
+Assets: 347900188 | unit=USD | filed=2026-02-27 | period_end=2025-12-31
+Liabilities: 14829807 | unit=USD | filed=2026-02-27 | period_end=2025-12-31
+StockholdersEquity: -12417598 | unit=USD | filed=2026-02-27 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -318517 | unit=USD | filed=2026-02-27 | period_end=2025-12-31

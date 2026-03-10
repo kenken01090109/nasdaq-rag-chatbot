@@ -1,0 +1,12 @@
+Company: Tenax Therapeutics Inc. Common Stock
+Ticker: TENX
+CIK: 0000034956
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2017-03-16 | period_end=2016-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -37059000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 102810000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 6599000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 96211000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22385000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 99400000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

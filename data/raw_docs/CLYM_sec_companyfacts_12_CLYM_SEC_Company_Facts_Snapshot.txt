@@ -1,0 +1,10 @@
+Company: Climb Bio Inc. Common Stock
+Ticker: CLYM
+CIK: 0001768446
+Latest SEC XBRL Facts:
+NetIncomeLoss: -42335000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 182304000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5301000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 177003000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -38721000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25803000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

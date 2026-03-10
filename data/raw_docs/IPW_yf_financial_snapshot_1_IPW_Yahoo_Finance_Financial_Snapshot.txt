@@ -1,0 +1,25 @@
+Company: iPower Inc. Common Stock
+Ticker: IPW
+Market Cap: 2750752
+Enterprise Value: 11222670
+Total Revenue: 47212756
+Revenue Per Share: 44.44
+EBITDA: -7152932
+Gross Margins: 0.42491
+Operating Margins: -0.34175998
+Profit Margins: -0.10346
+Free Cashflow: 349117
+Operating Cashflow: 1572645
+Return On Assets: -0.1274
+Return On Equity: -0.24632
+Total Cash: 2011738
+Total Debt: 10557567
+Debt To Equity: 58.704
+Current Ratio: 1.831
+Quick Ratio: 0.895
+Trailing PE: 
+Forward PE: 34.666668
+Price To Book: 0.12474511
+Beta: 3.54
+52 Week High: 34.65
+52 Week Low: 1.76

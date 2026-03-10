@@ -1,0 +1,9 @@
+Company: Aqua Metals Inc. Common Stock
+Ticker: AQMS
+Sector: Industrials
+Industry: Waste Management
+Country: United States
+City: Reno
+Website: https://www.aquametals.com
+Employees: 11
+Business Summary: Aqua Metals, Inc. engages in reinventing metals recycling activities with its patented AquaRefining technology. The company's technology produces metals and alloys that can be returned into the battery manufacturing supply chain markets, as well as sells metals for use in various advanced manufacturing industries. Its AquaRefining, a low-emissions and recycling technology that replaces polluting furnaces and hazardous chemicals with electricity-powered electroplating to recover valuable metals and materials from spent batteries. Aqua Metals, Inc. was incorporated in 2014 and is headquartered in Reno, Nevada.

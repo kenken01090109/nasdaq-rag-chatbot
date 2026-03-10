@@ -1,0 +1,12 @@
+Company: Urgent.ly Inc. Common Stock
+Ticker: ULY
+CIK: 0001603652
+Latest SEC XBRL Facts:
+Revenues: 95902000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 95902000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -16275000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 42751000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 87955000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -45204000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5593000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3878000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

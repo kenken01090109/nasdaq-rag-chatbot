@@ -1,0 +1,9 @@
+Company: Sleep Number Corporation Common Stock
+Ticker: SNBR
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Minneapolis
+Website: https://www.sleepnumber.com
+Employees: 3200
+Business Summary: Sleep Number Corporation, together with its subsidiaries, designs, manufactures, markets, distributes, retails, and services sleep solutions in the United States. It offers smart beds and adjustable bases, pillows, sheets, and other bedding products. The company sells its products direct-to-consumer retail touch points, including stores, online, phone, and chat. The company was formerly known as Select Comfort Corporation and changed its name to Sleep Number Corporation in November 2017. Sleep Number Corporation was incorporated in 1987 and is headquartered in Minneapolis, Minnesota.

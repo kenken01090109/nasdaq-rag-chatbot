@@ -1,0 +1,11 @@
+Company: Zions Bancorporation N.A. Common Stock
+Ticker: ZION
+CIK: 0000109380
+Latest SEC XBRL Facts:
+Revenues: 485000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 396000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 636000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 88533000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 81668000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 6865000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 555000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

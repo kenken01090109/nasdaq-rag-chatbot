@@ -1,0 +1,12 @@
+Company: Airship AI Holdings Inc. Warrants
+Ticker: AISPW
+Total Revenue: 15321349
+Revenue Per Share: 0.473
+Gross Margins: 0.50242
+Operating Margins: -0.09436
+EBITDA: -7213925
+Profit Margins: 1.9137601
+Free Cashflow: -6217382
+Operating Cashflow: -8004824
+Return On Assets: -0.27181998
+Return On Equity: 

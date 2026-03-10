@@ -1,0 +1,9 @@
+Company: Kodiak AI Inc. Common Stock
+Ticker: KDK
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Mountain View
+Website: https://kodiak.ai
+Employees: 
+Business Summary: Kodiak AI, Inc. engages in the development of autonomous vehicle technology and related services. The company offers Kodiak Driver, a unified platform driving autonomy forward across trucking. It also provides oversight and integration tools, including Kodiak OnTime, a proprietary suite of support services and tools designed to provide smooth integration with customer operations. In addition, the company delivers freight through its autonomous trucks; and offers driver-as-a-service to its customers. It serves commercial trucking and public sectors. Kodiak AI, Inc. was founded in 2018 and is headquartered in Mountain View, California.

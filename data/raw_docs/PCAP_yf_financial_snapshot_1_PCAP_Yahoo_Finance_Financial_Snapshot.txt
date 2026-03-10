@@ -1,0 +1,25 @@
+Company: ProCap Acquisition Corp Class A Ordinary Shares
+Ticker: PCAP
+Market Cap: 386885984
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -32.176655
+Beta: 
+52 Week High: 11.42
+52 Week Low: 9.01

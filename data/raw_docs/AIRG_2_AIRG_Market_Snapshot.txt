@@ -1,0 +1,10 @@
+Company: Airgain Inc. Common Stock
+Ticker: AIRG
+Market Cap: 49028592
+Enterprise Value: 47460956
+Trailing PE: 
+Forward PE: 13.898305
+Price To Book: 1.757394
+Beta: 0.972
+52 Week High: 5.85
+52 Week Low: 3.0

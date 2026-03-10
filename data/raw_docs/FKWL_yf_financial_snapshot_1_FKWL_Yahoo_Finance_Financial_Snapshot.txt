@@ -1,0 +1,25 @@
+Company: Franklin Wireless Corp. Common Stock
+Ticker: FKWL
+Market Cap: 44780264
+Enterprise Value: 16546818
+Total Revenue: 39610716
+Revenue Per Share: 3.361
+EBITDA: -1886737
+Gross Margins: 0.19048999
+Operating Margins: 0.00408
+Profit Margins: 0.00472
+Free Cashflow: -11016431
+Operating Cashflow: -9142870
+Return On Assets: -0.03079
+Return On Equity: 0.00828
+Total Cash: 33623292
+Total Debt: 1195513
+Debt To Equity: 3.124
+Current Ratio: 3.388
+Quick Ratio: 3.207
+Trailing PE: 190.0
+Forward PE: 7.1698117
+Price To Book: 1.27474
+Beta: 0.214
+52 Week High: 6.79
+52 Week Low: 3.67

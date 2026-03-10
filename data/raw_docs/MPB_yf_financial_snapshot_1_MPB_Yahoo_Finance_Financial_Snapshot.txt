@@ -1,0 +1,25 @@
+Company: Mid Penn Bancorp Common Stock
+Ticker: MPB
+Market Cap: 730299776
+Enterprise Value: 700546176
+Total Revenue: 208868992
+Revenue Per Share: 10.15
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46882
+Profit Margins: 0.23954001
+Free Cashflow: 
+Operating Cashflow: 70873000
+Return On Assets: 0.00848
+Return On Equity: 0.073070005
+Total Cash: 98918000
+Total Debt: 59377000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.458498
+Forward PE: 7.969659
+Price To Book: 0.9119315
+Beta: 0.511
+52 Week High: 35.22
+52 Week Low: 22.5

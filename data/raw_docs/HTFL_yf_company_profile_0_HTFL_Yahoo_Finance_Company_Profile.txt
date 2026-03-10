@@ -1,0 +1,9 @@
+Company: Heartflow Inc. Common Stock
+Ticker: HTFL
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Mountain View
+Website: https://www.heartflow.com
+Employees: 626
+Business Summary: HeartFlow, Inc., a medical technology company, provides non-invasive solutions for diagnosing and managing coronary artery diseases worldwide. Its HeartFlow Platform uses AI and computational fluid dynamics to creates a personalized 3D model of a patient's heart from a single coronary computed tomography angiography, a specialized type of scan that provides detailed images of the heart's arteries. The company's platform provides insights on blood flow, stenosis, and plaque volume and composition by overcoming the limitations of traditional non-invasive imaging tests. The company was founded in 2007 and is headquartered in Mountain View, California.

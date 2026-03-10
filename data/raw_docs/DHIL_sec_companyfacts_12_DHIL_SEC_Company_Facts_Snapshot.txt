@@ -1,0 +1,12 @@
+Company: Diamond Hill Investment Group Inc. Class A Common Stock
+Ticker: DHIL
+CIK: 0000909108
+Latest SEC XBRL Facts:
+Revenues: 111181363 | unit=USD | filed=2018-10-30 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 110544660 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 39483451 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 256267310 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 75304814 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 180944956 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23391925 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 41624604 | unit=USD | filed=2025-02-26 | period_end=2024-12-31

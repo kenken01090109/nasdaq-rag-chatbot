@@ -1,0 +1,8 @@
+Company: AgomAb Therapeutics NV American Depositary Shares
+Ticker: AGMB
+Total Cash: 171459008
+Total Debt: 1545000
+Debt To Equity: 0.821
+Current Ratio: 13.988
+Quick Ratio: 13.628
+Book Value: -7108.435

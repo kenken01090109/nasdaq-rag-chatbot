@@ -1,0 +1,10 @@
+Company: Dermata Therapeutics Inc. Warrant
+Ticker: DRMAW
+CIK: 0001853816
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5696669 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 5071410 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1111308 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 3960102 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6428362 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4664127 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

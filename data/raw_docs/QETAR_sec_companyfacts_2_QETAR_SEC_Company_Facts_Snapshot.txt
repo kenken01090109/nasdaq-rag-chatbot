@@ -1,0 +1,10 @@
+Company: Quetta Acquisition Corporation Right
+Ticker: QETAR
+CIK: 0001978528
+Latest SEC XBRL Facts:
+NetIncomeLoss: -836474 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 19003068 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4871261 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -4883516 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1877354 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2024-11-01 | period_end=2024-09-30

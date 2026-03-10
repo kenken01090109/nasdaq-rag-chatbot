@@ -1,0 +1,11 @@
+Company: Armlogi Holding Corp. Common Stock
+Ticker: BTOC
+CIK: 0001972529
+Latest SEC XBRL Facts:
+Revenues: 101016027 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -10368235 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 153061836 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 134540133 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 18521703 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3397769 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 5041971 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

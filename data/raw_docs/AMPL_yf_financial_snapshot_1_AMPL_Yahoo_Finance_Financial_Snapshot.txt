@@ -1,0 +1,25 @@
+Company: Amplitude Inc. Class A Common Stock
+Ticker: AMPL
+Market Cap: 1049436480
+Enterprise Value: 869996032
+Total Revenue: 343214016
+Revenue Per Share: 2.601
+EBITDA: -92561000
+Gross Margins: 0.73985
+Operating Margins: -0.2085
+Profit Margins: -0.25798
+Free Cashflow: 54611876
+Operating Cashflow: 29824000
+Return On Assets: -0.13848
+Return On Equity: -0.32678002
+Total Cash: 192000992
+Total Debt: 9568000
+Debt To Equity: 3.9
+Current Ratio: 1.558
+Quick Ratio: 1.308
+Trailing PE: 
+Forward PE: 45.761917
+Price To Book: 4.2896175
+Beta: 1.517
+52 Week High: 14.49
+52 Week Low: 5.995

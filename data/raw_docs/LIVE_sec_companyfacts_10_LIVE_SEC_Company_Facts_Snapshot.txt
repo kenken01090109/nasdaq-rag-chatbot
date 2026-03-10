@@ -1,0 +1,12 @@
+Company: Live Ventures Incorporated Common Stock
+Ticker: LIVE
+CIK: 0001045742
+Latest SEC XBRL Facts:
+Revenues: 331051000 | unit=USD | filed=2025-08-08 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 108544000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -64000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 389224000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 293933000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 95291000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 9847000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4309000 | unit=USD | filed=2023-12-22 | period_end=2023-09-30

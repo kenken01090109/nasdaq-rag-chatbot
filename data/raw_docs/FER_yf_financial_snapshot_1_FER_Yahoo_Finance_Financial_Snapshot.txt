@@ -1,0 +1,25 @@
+Company: Ferrovial SE Ordinary Shares
+Ticker: FER
+Market Cap: 47643762688
+Enterprise Value: 56709111808
+Total Revenue: 9626999808
+Revenue Per Share: 13.395
+EBITDA: 1456999936
+Gross Margins: 0.87442
+Operating Margins: 0.12369
+Profit Margins: 0.09224
+Free Cashflow: 321375008
+Operating Cashflow: 1926000000
+Return On Assets: 0.02368
+Return On Equity: 0.14317
+Total Cash: 4241999872
+Total Debt: 10732000256
+Debt To Equity: 140.013
+Current Ratio: 1.131
+Quick Ratio: 0.993
+Trailing PE: 46.92199
+Forward PE: 45.43572
+Price To Book: 6.952807
+Beta: 0.758
+52 Week High: 74.79
+52 Week Low: 40.46

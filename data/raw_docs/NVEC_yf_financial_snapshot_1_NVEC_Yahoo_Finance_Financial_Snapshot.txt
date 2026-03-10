@@ -1,0 +1,25 @@
+Company: NVE Corporation Common Stock
+Ticker: NVEC
+Market Cap: 323993472
+Enterprise Value: 307119968
+Total Revenue: 25946128
+Revenue Per Share: 5.364
+EBITDA: 15785735
+Gross Margins: 0.79153
+Operating Margins: 0.60153
+Profit Margins: 0.54589003
+Free Cashflow: 7254353
+Operating Cashflow: 14654506
+Return On Assets: 0.1549
+Return On Equity: 0.23358999
+Total Cash: 20565020
+Total Debt: 934409
+Debt To Equity: 1.603
+Current Ratio: 34.84
+Quick Ratio: 26.472
+Trailing PE: 22.938356
+Forward PE: 23.667847
+Price To Book: 5.5575843
+Beta: 1.227
+52 Week High: 82.3
+52 Week Low: 51.5

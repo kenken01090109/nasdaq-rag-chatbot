@@ -1,0 +1,25 @@
+Company: Diamond Hill Investment Group Inc. Class A Common Stock
+Ticker: DHIL
+Market Cap: 466785376
+Enterprise Value: 429521408
+Total Revenue: 147097856
+Revenue Per Share: 54.015
+EBITDA: 40822720
+Gross Margins: 0.43922
+Operating Margins: 0.24836999
+Profit Margins: 0.33148998
+Free Cashflow: 37022632
+Operating Cashflow: -6618495
+Return On Assets: 0.098009996
+Return On Equity: 0.29122
+Total Cash: 42423236
+Total Debt: 6398220
+Debt To Equity: 3.626
+Current Ratio: 1.832
+Quick Ratio: 1.735
+Trailing PE: 9.639106
+Forward PE: 
+Price To Book: 2.6459942
+Beta: 0.771
+52 Week High: 173.0
+52 Week Low: 114.11

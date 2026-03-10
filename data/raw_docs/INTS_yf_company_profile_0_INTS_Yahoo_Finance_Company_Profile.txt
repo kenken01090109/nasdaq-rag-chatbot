@@ -1,0 +1,9 @@
+Company: Intensity Therapeutics Inc. Common stock
+Ticker: INTS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Shelton
+Website: https://www.intensitytherapeutics.com
+Employees: 5
+Business Summary: Intensity Therapeutics, Inc., a late-stage clinical biotechnology company, engages in the provision of treatment for the regional and systemic nature of cancer in the United States. Its lead product candidate includes INT230-6, which is in Phase 3 clinical studies for the treatment of soft tissue sarcoma; and neoadjuvant and metastatic triple negative breast cancer which is in Phase 2 clinical trials. The company was incorporated in 2012 and is headquartered in Shelton, Connecticut.

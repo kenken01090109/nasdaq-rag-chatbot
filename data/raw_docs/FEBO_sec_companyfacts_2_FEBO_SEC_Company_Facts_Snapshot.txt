@@ -1,0 +1,10 @@
+Company: Fenbo Holdings Limited Class A Ordinary Shares
+Ticker: FEBO
+CIK: 0001957001
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 17110000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetIncomeLoss: -1993000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Assets: 12412000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Liabilities: 6553000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+StockholdersEquity: 5859000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -2748000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31

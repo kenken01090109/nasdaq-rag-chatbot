@@ -1,0 +1,25 @@
+Company: Insmed Incorporated Common Stock
+Ticker: INSM
+Market Cap: 30205288448
+Enterprise Value: 30266273792
+Total Revenue: 606422976
+Revenue Per Share: 3.047
+EBITDA: -980464000
+Gross Margins: 0.79727
+Operating Margins: -0.94642997
+Profit Margins: -2.10542
+Free Cashflow: -534054880
+Operating Cashflow: -935014016
+Return On Assets: -0.28987
+Return On Equity: -2.49284
+Total Cash: 1430046976
+Total Debt: 749536000
+Debt To Equity: 101.429
+Current Ratio: 3.827
+Quick Ratio: 3.35
+Trailing PE: 
+Forward PE: 377.9636
+Price To Book: 40.62917
+Beta: 1.168
+52 Week High: 212.75
+52 Week Low: 60.4

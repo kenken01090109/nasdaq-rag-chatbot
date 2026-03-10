@@ -1,0 +1,25 @@
+Company: Liberty Broadband Corporation Series A Cumulative Redeemable Preferred Stock
+Ticker: LBRDP
+Market Cap: 
+Enterprise Value: 5333663232
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 171000000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 32750000
+Operating Cashflow: -80000000
+Return On Assets: -0.00176
+Return On Equity: -0.30066
+Total Cash: 57000000
+Total Debt: 1946000000
+Debt To Equity: 34.152
+Current Ratio: 0.104
+Quick Ratio: 0.058
+Trailing PE: 4.4073396
+Forward PE: 
+Price To Book: 0.6049159
+Beta: 0.958
+52 Week High: 25.548
+52 Week Low: 23.39

@@ -1,0 +1,25 @@
+Company: PCB Bancorp Common Stock
+Ticker: PCB
+Market Cap: 313736576
+Enterprise Value: 225492608
+Total Revenue: 111686000
+Revenue Per Share: 7.863
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46618
+Profit Margins: 0.33534
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0117999995
+Return On Equity: 0.09937
+Total Cash: 207142000
+Total Debt: 52996000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.527132
+Forward PE: 7.2131147
+Price To Book: 0.9676284
+Beta: 0.532
+52 Week High: 24.2
+52 Week Low: 16.0

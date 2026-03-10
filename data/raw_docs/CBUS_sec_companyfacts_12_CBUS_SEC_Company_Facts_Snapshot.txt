@@ -1,0 +1,11 @@
+Company: Cibus Inc. Class A Common Stock
+Ticker: CBUS
+CIK: 0001705843
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2582000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -95799000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 330226000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 278197000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 50401000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -37171000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23886000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

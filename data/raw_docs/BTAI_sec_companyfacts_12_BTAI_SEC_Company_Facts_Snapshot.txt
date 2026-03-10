@@ -1,0 +1,12 @@
+Company: BioXcel Therapeutics Inc. Common Stock
+Ticker: BTAI
+CIK: 0001720893
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2018-11-09 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 386000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -57352000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 44792000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 133711000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -88919000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43405000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36176000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

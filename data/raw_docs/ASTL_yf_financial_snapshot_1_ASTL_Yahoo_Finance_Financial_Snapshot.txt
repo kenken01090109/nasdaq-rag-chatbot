@@ -1,0 +1,25 @@
+Company: Algoma Steel Group Inc. Common Shares
+Ticker: ASTL
+Market Cap: 461708736
+Enterprise Value: 1202308736
+Total Revenue: 2214099456
+Revenue Per Share: 20.378
+EBITDA: -426499968
+Gross Margins: -0.18295
+Operating Margins: -0.26856002
+Profit Margins: -0.34794
+Free Cashflow: 
+Operating Cashflow: -274166656
+Return On Assets: 
+Return On Equity: 
+Total Cash: 4500000
+Total Debt: 745100032
+Debt To Equity: 85.213
+Current Ratio: 2.29
+Quick Ratio: 0.663
+Trailing PE: 
+Forward PE: -2.5542958
+Price To Book: 0.72187287
+Beta: 1.539
+52 Week High: 7.245
+52 Week Low: 3.02

@@ -1,0 +1,11 @@
+Company: NeoGenomics Inc. Common Stock
+Ticker: NEO
+CIK: 0001077183
+Latest SEC XBRL Facts:
+Revenues: 131169000 | unit=USD | filed=2018-08-06 | period_end=2018-06-30
+NetIncomeLoss: -98144000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 1374780000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 536490000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 838290000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3887000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 164117000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

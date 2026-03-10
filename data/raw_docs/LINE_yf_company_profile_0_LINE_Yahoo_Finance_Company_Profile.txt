@@ -1,0 +1,9 @@
+Company: Lineage Inc. Common Stock
+Ticker: LINE
+Sector: Real Estate
+Industry: REIT - Industrial
+Country: United States
+City: Novi
+Website: https://www.onelineage.com/
+Employees: 24000
+Business Summary: Lineage, Inc. is the world's largest global temperature-controlled warehouse REIT with a network of over 500 strategically located facilities totaling approximately 88 million square feet and approximately 3.1 billion cubic feet of capacity across countries in North America, Europe, and Asia-Pacific. Coupling end-to-end supply chain solutions and technology, Lineage partners with some of the world's largest food and beverage producers, retailers, and distributors to help increase distribution efficiency, advance sustainability, minimize supply chain waste, and, most importantly, feed the world.

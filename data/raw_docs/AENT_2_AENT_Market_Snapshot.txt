@@ -1,0 +1,10 @@
+Company: Alliance Entertainment Holding Corporation Class A Common Stock
+Ticker: AENT
+Market Cap: 340395200
+Enterprise Value: 446239232
+Trailing PE: 15.5348835
+Forward PE: 9.823529
+Price To Book: 2.8955355
+Beta: 0.513
+52 Week High: 8.8
+52 Week Low: 2.21

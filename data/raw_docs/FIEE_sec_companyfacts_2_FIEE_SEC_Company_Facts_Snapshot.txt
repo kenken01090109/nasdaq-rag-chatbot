@@ -1,0 +1,12 @@
+Company: FiEE Inc Common Stock
+Ticker: FIEE
+CIK: 0001467761
+Latest SEC XBRL Facts:
+Revenues: 44946889 | unit=USD | filed=2021-11-02 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1984660 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -1266575 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 8507910 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4601098 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3906812 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2478829 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5905372 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

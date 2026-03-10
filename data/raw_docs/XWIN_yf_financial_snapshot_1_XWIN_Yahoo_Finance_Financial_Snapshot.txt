@@ -1,0 +1,25 @@
+Company: XMAX Inc. Common Stock
+Ticker: XWIN
+Market Cap: 260938736
+Enterprise Value: 258464720
+Total Revenue: 16959274
+Revenue Per Share: 1.399
+EBITDA: -1790806
+Gross Margins: 0.25539
+Operating Margins: -0.0502
+Profit Margins: -0.16655001
+Free Cashflow: -7951597
+Operating Cashflow: -2400713
+Return On Assets: -0.09908
+Return On Equity: -0.44524
+Total Cash: 1714382
+Total Debt: 1411822
+Debt To Equity: 10.393
+Current Ratio: 2.78
+Quick Ratio: 2.189
+Trailing PE: 207.66667
+Forward PE: 
+Price To Book: 15.692695
+Beta: 1.264
+52 Week High: 6.39
+52 Week Low: 0.41

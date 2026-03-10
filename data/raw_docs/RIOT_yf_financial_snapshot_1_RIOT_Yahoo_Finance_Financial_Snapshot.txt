@@ -1,0 +1,25 @@
+Company: Riot Platforms Inc. Common Stock
+Ticker: RIOT
+Market Cap: 5266649088
+Enterprise Value: 6547604480
+Total Revenue: 647435008
+Revenue Per Share: 1.9
+EBITDA: -169096000
+Gross Margins: 0.37928
+Operating Margins: -4.2469697
+Profit Margins: -1.02432
+Free Cashflow: -256659872
+Operating Cashflow: -572928000
+Return On Assets: -0.081920005
+Return On Equity: -0.22097999
+Total Cash: 233516992
+Total Debt: 866758016
+Debt To Equity: 30.323
+Current Ratio: 0.955
+Quick Ratio: 0.578
+Trailing PE: 27.240385
+Forward PE: -37.050117
+Price To Book: 1.8412843
+Beta: 3.549
+52 Week High: 23.935
+52 Week Low: 6.19

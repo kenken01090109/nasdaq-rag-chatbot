@@ -1,0 +1,10 @@
+Company: Revelation Biosciences Inc. Common Stock
+Ticker: REVB
+CIK: 0001810560
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6402643 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 12856342 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1854507 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 11001835 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6302589 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12708489 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: U-BX Technology Ltd. Class A Ordinary Shares
+Ticker: UBXG
+CIK: 0001888525
+Latest SEC XBRL Facts:
+Revenues: 17287465 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetIncomeLoss: 345861 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Assets: 22646157 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Liabilities: 2774985 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+StockholdersEquity: 19871172 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1584933 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 5134863 | unit=USD | filed=2024-05-29 | period_end=2023-12-31

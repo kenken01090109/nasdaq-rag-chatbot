@@ -1,0 +1,9 @@
+Company: ZenaTech Inc. Common Stock
+Ticker: ZENA
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Canada
+City: Vancouver
+Website: https://www.zenatech.com
+Employees: 30
+Business Summary: ZenaTech, Inc., an enterprise software technology company, develops cloud-based software applications in Canada. It provides cloud-based enterprise software solutions for the medical records industry; software solutions for the automated facility management and center industry; safety and compliance management software and mobile solutions; field service management software and mobile solutions; browser-based enterprise software applications for public safety; and quantum computing solutions. The company also engages in the manufacturing, sale, and distribution of drones. ZenaTech, Inc. was formerly known as ZenaDrone, Inc. and changed its name to ZenaTech, Inc. on October 5, 2020. The company was incorporated in 2017 and is based in Vancouver, Canada.

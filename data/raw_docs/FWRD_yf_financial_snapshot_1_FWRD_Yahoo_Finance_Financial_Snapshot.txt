@@ -1,0 +1,25 @@
+Company: Forward Air Corporation Common Stock
+Ticker: FWRD
+Market Cap: 685586240
+Enterprise Value: 2845315072
+Total Revenue: 2495118080
+Revenue Per Share: 81.245
+EBITDA: 189062000
+Gross Margins: 0.19670999
+Operating Margins: -0.00454
+Profit Margins: -0.0432
+Free Cashflow: 33969124
+Operating Cashflow: 44384000
+Return On Assets: 0.00825
+Return On Equity: -0.63335997
+Total Cash: 105996000
+Total Debt: 2159666944
+Debt To Equity: 1335.899
+Current Ratio: 1.216
+Quick Ratio: 1.064
+Trailing PE: 
+Forward PE: 82.79246
+Price To Book: 6.0258174
+Beta: 1.336
+52 Week High: 32.47
+52 Week Low: 9.79

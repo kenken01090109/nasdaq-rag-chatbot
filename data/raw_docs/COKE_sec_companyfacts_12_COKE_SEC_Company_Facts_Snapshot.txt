@@ -1,0 +1,11 @@
+Company: Coca-Cola Consolidated Inc. Common Stock
+Ticker: COKE
+CIK: 0000317540
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5323813000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+NetIncomeLoss: 433332000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+Assets: 5668510000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+Liabilities: 4032586000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+StockholdersEquity: 1635924000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 722913000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 1532473000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26

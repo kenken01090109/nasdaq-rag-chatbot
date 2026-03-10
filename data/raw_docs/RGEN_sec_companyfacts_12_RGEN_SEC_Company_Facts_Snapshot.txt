@@ -1,0 +1,11 @@
+Company: Repligen Corporation Common Stock
+Ticker: RGEN
+CIK: 0000730272
+Latest SEC XBRL Facts:
+Revenues: 44830000 | unit=USD | filed=2018-05-08 | period_end=2018-03-31
+NetIncomeLoss: 35607000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2923711000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 840624000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 2083087000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 91713000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 748747000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

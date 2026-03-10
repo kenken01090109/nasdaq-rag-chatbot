@@ -1,0 +1,25 @@
+Company: OmniAb Inc. Common Stock
+Ticker: OABI
+Market Cap: 272075680
+Enterprise Value: 255874288
+Total Revenue: 18666000
+Revenue Per Share: 0.164
+EBITDA: -50190000
+Gross Margins: 0.98377
+Operating Margins: -1.86748
+Profit Margins: 0.0
+Free Cashflow: -10732500
+Operating Cashflow: -36455000
+Return On Assets: -0.13697
+Return On Equity: -0.23358999
+Total Cash: 54025000
+Total Debt: 20334000
+Debt To Equity: 7.615
+Current Ratio: 4.02
+Quick Ratio: 3.778
+Trailing PE: 
+Forward PE: -4.5
+Price To Book: 1.0216216
+Beta: 0.855
+52 Week High: 3.455
+52 Week Low: 1.22

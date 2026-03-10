@@ -1,0 +1,8 @@
+Company: Allient Inc. Common Stock
+Ticker: ALNT
+Total Cash: 39476000
+Total Debt: 213568992
+Debt To Equity: 72.6
+Current Ratio: 3.534
+Quick Ratio: 1.797
+Book Value: 17.37

@@ -1,0 +1,25 @@
+Company: PTC Inc. Common Stock
+Ticker: PTC
+Market Cap: 19361857536
+Enterprise Value: 20716435456
+Total Revenue: 2859922944
+Revenue Per Share: 23.877
+EBITDA: 1226161024
+Gross Margins: 0.84233004
+Operating Margins: 0.33803
+Profit Margins: 0.28612
+Free Cashflow: 786878400
+Operating Cashflow: 899011968
+Return On Assets: 0.112390004
+Return On Equity: 0.23141001
+Total Cash: 209736000
+Total Debt: 1381058944
+Debt To Equity: 35.942
+Current Ratio: 1.219
+Quick Ratio: 0.891
+Trailing PE: 23.998526
+Forward PE: 18.681019
+Price To Book: 5.0345
+Beta: 1.042
+52 Week High: 219.69
+52 Week Low: 133.38

@@ -1,0 +1,9 @@
+Company: Rigetti Computing Inc. Warrants
+Ticker: RGTIW
+Sector: 
+Industry: 
+Country: United States
+City: Berkeley
+Website: https://www.rigetti.com
+Employees: 
+Business Summary: Rigetti Computing, Inc., through its subsidiaries, builds quantum computers and the superconducting quantum processors the United States, the United Kingdom, rest of Europe, Asia, and internationally. The company offers quantum processing units (QPUs) and quantum computing systems through the cloud in the form of quantum computing as a service (QCaaS) products. It also provides 9- ubit quantum processing unit under the Novera QPU trade name; 84-qubit Ankaa-3 system under the name Novera QPU; and sells access to its quantum computers through QCaaS. In addition, the company offers quantum cloud services that provides support for various range of programming capabilities, public or private clouds integration, and connectivity, as well as quantum operating system software that supports public and private cloud architectures. Further, it offers professional services, such as algorithm development, benchmarking, quantum application programming, and software development. The company serves commercial enterprises, government organizations, and international government entities. Rigetti Computing, Inc. was founded in 2013 and is headquartered in Berkeley, California.

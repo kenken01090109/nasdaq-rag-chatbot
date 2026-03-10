@@ -1,0 +1,10 @@
+Company: NeuroSense Therapeutics Ltd. Warrant
+Ticker: NRSNW
+CIK: 0001875091
+Latest SEC XBRL Facts:
+NetIncomeLoss: -4709000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+Assets: 1684000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+Liabilities: 2203000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+StockholdersEquity: -519000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 666000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30

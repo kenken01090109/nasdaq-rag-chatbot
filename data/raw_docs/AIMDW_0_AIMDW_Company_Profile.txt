@@ -1,0 +1,9 @@
+Company: Ainos Inc. Warrants
+Ticker: AIMDW
+Long Business Summary: Ainos, Inc., a dual-platform AI and biotech company, focusing SmellTech, AI diagnostics, and immune therapeutics. Its AI Nose platform uses a smell language model to digitize scent into Smell IDs and turning invisible chemical signals into machine-readable data. The company is also giving AI for robotics, smart factories, senior care, and women's health. In addition, it develops VELDONA, a low-dose oral interferon targeting rare, autoimmune, and infectious diseases, plus applications in animal health. The company was formerly known as Amarillo Biosciences, Inc. and changed its name to Ainos, Inc. in May 2021. Ainos, Inc. was incorporated in 1984 and is based in San Diego, California. Ainos, Inc. is a subsidiary of Taiwan Carbon Nano Technology Corporation.
+Industry: 
+Sector: 
+Website: https://www.ainos.com
+Country: United States
+City: San Diego
+Full Time Employees: 44

@@ -1,0 +1,9 @@
+Company: ENvue Medical Inc. Common Stock
+Ticker: FEED
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Tyler
+Website: https://envuemed.com
+Employees: 31
+Business Summary: ENvue Medical, Inc., through its subsidiaries, focuses on non-invasive biological response-activating devices that target biofilm prevention, pain therapy, wound healing, and at home administration without medical professional assistance. The company's product portfolio includes UroShield, an ultrasound-based product that is designed to prevent bacterial colonization and biofilm in urinary catheters, increase antibiotic efficacy, and decrease pain and discomfort associated with urinary catheter use. It also offers UroShield Ultra, which is designed to prevent bacterial colonization and biofilm formation in urinary catheters; PainShield, a patch-based therapeutic ultrasound technology to treat pain, muscle spasm, and joint contractures. In addition, it provides PainShield MD, a single patch-based therapeutic ultrasound technology to treat pain, muscle spasm, and joint contractures; PainShield Plus, a dual patch-based therapeutic ultrasound technology; and WoundShield, a patch-based therapeutic ultrasound device intended to facilitate tissue regeneration and wound healing. The company sells its products directly to patients, as well as through distributor agreements in the United States, Europe, Australia, Israel, New Zealand, and internationally. The company was formerly known as NanoVibronix, Inc. and changed its name to ENvue Medical, Inc. in December 2025. ENvue Medical, Inc. was incorporated in 2003 and is based in Tyler, Texas.

@@ -1,0 +1,9 @@
+Company: Ames National Corporation Common Stock
+Ticker: ATLO
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Ames
+Website: https://www.amesnational.com
+Employees: 
+Business Summary: Ames National Corporation operates as a multi-bank holding company that provides banking products and services primarily in Boone, Clarke, Hancock, Marshall, Polk, Story, Taylor, and Union Counties in central, north-central, and south-central Iowa. The company accepts various deposit products, including checking and savings accounts; and time deposits, such as money market accounts and certificates of deposit. It also provides loans, such as short-term and medium-term commercial, multi-family and agricultural real estate, residential real estate loans, equipment, vehicle, and home improvement loans; consumer loans to finance consumer purchases, such as automobiles, trucks, recreational vehicles, household furnishings, boats, personal loans, and lines of credit; agricultural and business operating loans and lines of credit; and originates mortgage loans for sale into the secondary market. In addition, the company offers cash management, merchant credit card processing, safe deposit box, wire transfer, direct deposit, and automated/video teller machine access services; and automatic drafts for various accounts, as well as wealth management services. Further, it provides farm management, investment, and custodial services for individuals, businesses, and non-profit organizations; and online, mobile, and private banking services. Ames National Corporation was incorporated in 1903 and is headquartered in Ames, Iowa.

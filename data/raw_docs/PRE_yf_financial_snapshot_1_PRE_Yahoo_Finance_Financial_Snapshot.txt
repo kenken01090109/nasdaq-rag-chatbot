@@ -1,0 +1,25 @@
+Company: Prenetics Global Limited Class A Ordinary Share
+Ticker: PRE
+Market Cap: 299546176
+Enterprise Value: 169964032
+Total Revenue: 92390000
+Revenue Per Share: 6.574
+EBITDA: -32973000
+Gross Margins: 0.52975
+Operating Margins: -0.33273
+Profit Margins: -0.63128
+Free Cashflow: -60990500
+Operating Cashflow: -22903000
+Return On Assets: -0.11015
+Return On Equity: -0.31785
+Total Cash: 73347000
+Total Debt: 1767000
+Debt To Equity: 1.013
+Current Ratio: 3.014
+Quick Ratio: 2.759
+Trailing PE: 
+Forward PE: -26.17647
+Price To Book: 1.6346772
+Beta: 0.361
+52 Week High: 22.86
+52 Week Low: 3.095

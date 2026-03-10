@@ -1,0 +1,25 @@
+Company: Oxbridge Re Holdings Limited Ordinary Shares
+Ticker: OXBR
+Market Cap: 7215554
+Enterprise Value: 8378883
+Total Revenue: 2423000
+Revenue Per Share: 0.344
+EBITDA: -3070750
+Gross Margins: -0.052410003
+Operating Margins: -0.26357
+Profit Margins: -1.0974
+Free Cashflow: -4576625
+Operating Cashflow: -2960000
+Return On Assets: -0.23745
+Return On Equity: -0.56284
+Total Cash: 726000
+Total Debt: 1396000
+Debt To Equity: 24.638
+Current Ratio: 4.386
+Quick Ratio: 0.999
+Trailing PE: 
+Forward PE: -47.0
+Price To Book: 1.261745
+Beta: 2.344
+52 Week High: 3.29
+52 Week Low: 0.94

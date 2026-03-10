@@ -1,0 +1,9 @@
+Company: Genenta Science S.p.A. American Depositary Shares
+Ticker: GNTA
+CIK: 0001838716
+Latest SEC XBRL Facts:
+NetIncomeLoss: -3826585 | unit=EUR | filed=2025-10-10 | period_end=2025-06-30
+Assets: 21553856 | unit=EUR | filed=2025-10-10 | period_end=2025-06-30
+StockholdersEquity: 12114140 | unit=EUR | filed=2025-10-10 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5515084 | unit=EUR | filed=2025-10-10 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 25700000 | unit=USD | filed=2022-05-02 | period_end=2021-12-31

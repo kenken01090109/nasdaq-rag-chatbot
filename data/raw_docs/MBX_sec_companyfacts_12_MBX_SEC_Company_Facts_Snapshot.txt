@@ -1,0 +1,10 @@
+Company: MBX Biosciences Inc. Common Stock
+Ticker: MBX
+CIK: 0001776111
+Latest SEC XBRL Facts:
+NetIncomeLoss: -64909000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 400076000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 12538000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 387538000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -61648000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 223125000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

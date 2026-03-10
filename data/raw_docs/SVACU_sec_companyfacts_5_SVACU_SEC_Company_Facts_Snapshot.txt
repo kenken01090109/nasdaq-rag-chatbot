@@ -1,0 +1,10 @@
+Company: Spring Valley Acquisition Corp. III Unit
+Ticker: SVACU
+CIK: 0002074850
+Latest SEC XBRL Facts:
+NetIncomeLoss: 423445 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 231797537 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9327528 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -8115232 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -61255 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1185609 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

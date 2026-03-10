@@ -1,0 +1,25 @@
+Company: Canadian Solar Inc. Common Shares (ON)
+Ticker: CSIQ
+Market Cap: 1071555968
+Enterprise Value: 7505962496
+Total Revenue: 5899139072
+Revenue Per Share: 87.815
+EBITDA: 656681024
+Gross Margins: 0.19527
+Operating Margins: 0.02325
+Profit Margins: 0.00273
+Free Cashflow: -1213957760
+Operating Cashflow: -121241000
+Return On Assets: 0.00427
+Return On Equity: -0.04394
+Total Cash: 1763310976
+Total Debt: 6653216768
+Debt To Equity: 152.628
+Current Ratio: 1.07
+Quick Ratio: 0.515
+Trailing PE: 
+Forward PE: -18.643456
+Price To Book: 0.37720725
+Beta: 1.305
+52 Week High: 34.59
+52 Week Low: 6.57

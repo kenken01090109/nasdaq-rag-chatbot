@@ -1,0 +1,11 @@
+Company: Coya Therapeutics Inc. Common Stock
+Ticker: COYA
+CIK: 0001835022
+Latest SEC XBRL Facts:
+Revenues: 3985754 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -15517565 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 32042878 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4758387 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 27284491 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9732174 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28129866 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

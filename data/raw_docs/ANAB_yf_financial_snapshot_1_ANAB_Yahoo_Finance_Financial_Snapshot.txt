@@ -1,0 +1,25 @@
+Company: AnaptysBio Inc. Common Stock
+Ticker: ANAB
+Market Cap: 1549983872
+Enterprise Value: 1625702016
+Total Revenue: 234603008
+Revenue Per Share: 8.158
+EBITDA: 48455000
+Gross Margins: 0.42043
+Operating Margins: 0.61803
+Profit Margins: -0.056399997
+Free Cashflow: 19342876
+Operating Cashflow: 19697000
+Return On Assets: 0.07058
+Return On Equity: -0.24486
+Total Cash: 311638016
+Total Debt: 290640000
+Debt To Equity: 781.08
+Current Ratio: 9.068
+Quick Ratio: 8.945
+Trailing PE: 
+Forward PE: -14.590102
+Price To Book: 41.7244
+Beta: 0.408
+52 Week High: 63.47
+52 Week Low: 15.32

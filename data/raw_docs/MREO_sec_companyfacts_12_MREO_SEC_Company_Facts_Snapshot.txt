@@ -1,0 +1,11 @@
+Company: Mereo BioPharma Group plc American Depositary Shares
+Ticker: MREO
+CIK: 0001719714
+Latest SEC XBRL Facts:
+Revenues: 500000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -34527000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 53602000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 7004000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 46598000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23289000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 48698000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

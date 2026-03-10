@@ -1,0 +1,25 @@
+Company: Trip.com Group Limited American Depositary Shares
+Ticker: TCOM
+Market Cap: 35294584832
+Enterprise Value: -11280092160
+Total Revenue: 62408998912
+Revenue Per Share: 94.882
+EBITDA: 16620999680
+Gross Margins: 0.80577004
+Operating Margins: 0.16457
+Profit Margins: 0.53348
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.03866
+Return On Equity: 0.21125
+Total Cash: 78458003456
+Total Debt: 31349999616
+Debt To Equity: 18.163
+Current Ratio: 1.549
+Quick Ratio: 1.199
+Trailing PE: 7.814761
+Forward PE: 11.681217
+Price To Book: 1.4332194
+Beta: -0.149
+52 Week High: 78.99
+52 Week Low: 49.48

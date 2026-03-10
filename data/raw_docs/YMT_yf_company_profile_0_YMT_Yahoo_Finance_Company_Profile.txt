@@ -1,0 +1,9 @@
+Company: Yimutian Inc. American Depositary Shares
+Ticker: YMT
+Sector: Technology
+Industry: Software - Application
+Country: China
+City: Haidian
+Website: https://www.ymt.com
+Employees: 592
+Business Summary: Yimutian Inc., through its subsidiaries, provides agricultural B2B platform services for agricultural product transaction in the People's Republic of China. It develops Yimutian App, an agricultural product B2B e-commerce platform; and Douniu App, an online agricultural product wholesale market circulation platform that matches offline transactions of agricultural products between sellers and wholesale buyers. It also offers digital agricultural commerce services; agricultural sourcing and trading services; and other digital agricultural solutions, which includes consulting, brand promotion, and digital agricultural training programs, as well as engages in the farming business. The company was founded in 2011 and is headquartered in Haidian, China.

@@ -1,0 +1,9 @@
+Company: Envoy Medical Inc Warrant
+Ticker: COCHW
+Sector: 
+Industry: 
+Country: United States
+City: White Bear Lake
+Website: https://www.envoymedical.com
+Employees: 42
+Business Summary: Envoy Medical, Inc., a hearing health company, focuses on providing medical technologies across the hearing loss spectrum. The company's medical technologies are designed to shift the paradigm within the hearing industry and bring providers and patients the hearing devices desire. It offers personal sound amplification devices; hearing aids; Esteem fully implanted active middle ear implants; auditory osseointegrated implants; and Acclaim cochlear implants. The company was formerly known as Envoy Medical Corporation and changed its name to Envoy Medical, Inc. in September 2023. Envoy Medical, Inc. was founded in 1995 and is headquartered in White Bear Lake, Minnesota.

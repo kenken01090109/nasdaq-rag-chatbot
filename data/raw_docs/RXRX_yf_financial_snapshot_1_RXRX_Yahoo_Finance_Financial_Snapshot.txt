@@ -1,0 +1,25 @@
+Company: Recursion Pharmaceuticals Inc. Class A Common Stock
+Ticker: RXRX
+Market Cap: 1803569152
+Enterprise Value: 1201659904
+Total Revenue: 74681000
+Revenue Per Share: 0.167
+EBITDA: -564430976
+Gross Margins: 0.0
+Operating Margins: -3.2880301
+Profit Margins: 0.0
+Free Cashflow: -208521744
+Operating Cashflow: -371808000
+Return On Assets: -0.27719
+Return On Equity: -0.59544
+Total Cash: 743294016
+Total Debt: 77965000
+Debt To Equity: 6.894
+Current Ratio: 5.503
+Quick Ratio: 5.199
+Trailing PE: 
+Forward PE: -4.0659485
+Price To Book: 1.6160673
+Beta: 0.963
+52 Week High: 7.18
+52 Week Low: 2.98

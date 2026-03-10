@@ -1,0 +1,25 @@
+Company: Blue Hat Interactive Entertainment Technology Ordinary Shares
+Ticker: BHAT
+Market Cap: 47972
+Enterprise Value: 1665416298496
+Total Revenue: 18972416
+Revenue Per Share: 0.0
+EBITDA: -3841665
+Gross Margins: 0.28127
+Operating Margins: -0.061490003
+Profit Margins: -0.47884998
+Free Cashflow: -45118056
+Operating Cashflow: -13615221
+Return On Assets: -0.03704
+Return On Equity: -0.14986
+Total Cash: 1064151
+Total Debt: 2929910
+Debt To Equity: 3.597
+Current Ratio: 23.031
+Quick Ratio: 7.265
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 0.832
+52 Week High: 300.0
+52 Week Low: 0.029

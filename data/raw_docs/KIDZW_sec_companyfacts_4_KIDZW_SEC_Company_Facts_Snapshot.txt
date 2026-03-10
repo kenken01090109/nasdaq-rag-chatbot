@@ -1,0 +1,10 @@
+Company: Classover Holdings Inc. Warrants
+Ticker: KIDZW
+CIK: 0002022308
+Latest SEC XBRL Facts:
+Revenues: 2829302 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -1642387 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 22646981 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 17246946 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 5400035 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3174525 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

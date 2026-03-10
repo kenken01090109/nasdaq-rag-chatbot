@@ -1,0 +1,9 @@
+Company: International Money Express Inc. Common Stock
+Ticker: IMXI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Miami
+Website: https://www.intermexonline.com
+Employees: 1101
+Business Summary: International Money Express, Inc., together with its subsidiaries, operates as an omnichannel money remittance services company in the United States, Latin America, Mexico, Central and South America, the Caribbean, Africa, and Asia. The company offers remittance services, which include a suite of ancillary financial processing solutions and payment services; and online payment options, pre-paid debit cards, and direct deposit payroll cards. It provides services through sending and paying agents and company-operated stores, as well as through online and internet-enabled mobile devices. International Money Express, Inc. was founded in 1994 and is headquartered in Miami, Florida.

@@ -1,0 +1,25 @@
+Company: Pegasystems Inc. Common Stock
+Ticker: PEGA
+Market Cap: 8017704448
+Enterprise Value: 7645935616
+Total Revenue: 1745811968
+Revenue Per Share: 10.222
+EBITDA: 298088992
+Gross Margins: 0.75863
+Operating Margins: 0.24923
+Profit Margins: 0.22535999
+Free Cashflow: 571994624
+Operating Cashflow: 505227008
+Return On Assets: 0.10455
+Return On Equity: 0.57316
+Total Cash: 425799008
+Total Debt: 75967000
+Debt To Equity: 9.648
+Current Ratio: 1.326
+Quick Ratio: 1.231
+Trailing PE: 22.178404
+Forward PE: 15.545151
+Price To Book: 10.220683
+Beta: 1.116
+52 Week High: 68.1
+52 Week Low: 29.835

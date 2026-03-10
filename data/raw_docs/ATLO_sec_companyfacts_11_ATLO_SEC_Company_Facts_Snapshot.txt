@@ -1,0 +1,10 @@
+Company: Ames National Corporation Common Stock
+Ticker: ATLO
+CIK: 0001132651
+Latest SEC XBRL Facts:
+NetIncomeLoss: 12513000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2107999000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1907407000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 200592000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 13882000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 108161000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

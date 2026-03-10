@@ -1,0 +1,25 @@
+Company: Agape ATP Corporation Common Stock
+Ticker: ATPC
+Market Cap: 2191184
+Enterprise Value: -20878130
+Total Revenue: 1484905
+Revenue Per Share: 2.604
+EBITDA: -2724867
+Gross Margins: 0.52684
+Operating Margins: -1.6225901
+Profit Margins: -1.8259
+Free Cashflow: -1193122
+Operating Cashflow: -2850409
+Return On Assets: -0.123739995
+Return On Equity: -0.21579
+Total Cash: 23133714
+Total Debt: 247807
+Debt To Equity: 1.087
+Current Ratio: 16.206
+Quick Ratio: 15.581
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.09592222
+Beta: 0.278
+52 Week High: 128.25
+52 Week Low: 1.721

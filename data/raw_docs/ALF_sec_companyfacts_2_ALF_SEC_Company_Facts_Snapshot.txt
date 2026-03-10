@@ -1,0 +1,9 @@
+Company: Centurion Acquisition Corp. Class A Ordinary Shares
+Ticker: ALF
+CIK: 0002010930
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8903522 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 305541332 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 13793119 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -13454505 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -438525 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

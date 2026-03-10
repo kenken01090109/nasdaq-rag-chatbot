@@ -1,0 +1,9 @@
+Company: GameSquare Holdings Inc. Common Stock
+Ticker: GAME
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: United States
+City: Frisco
+Website: https://www.gamesquare.com
+Employees: 132
+Business Summary: GameSquare Holdings, Inc. operates as a media, entertainment, and technology company. The company transforms brands and publishers connect with Gen Z, Gen Alpha, and Millennial audiences. Its platform covers creative services, advanced analytics, and FaZe Clan The company also operates a blockchain-native Ethereum treasury management program to generate onchain yield and enhance capital efficiency. GameSquare Holdings, Inc. is headquartered in Frisco, Texas.

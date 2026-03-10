@@ -1,0 +1,11 @@
+Company: Frequency Electronics Inc. Common Stock
+Ticker: FEIM
+CIK: 0000039020
+Latest SEC XBRL Facts:
+Revenues: 30939000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetIncomeLoss: 2435000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Assets: 92255000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Liabilities: 33800000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+StockholdersEquity: 58455000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 638000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 2992000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31

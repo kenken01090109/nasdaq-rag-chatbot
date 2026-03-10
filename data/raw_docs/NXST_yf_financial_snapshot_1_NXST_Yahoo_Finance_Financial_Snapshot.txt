@@ -1,0 +1,25 @@
+Company: Nexstar Media Group Inc. Common Stock
+Ticker: NXST
+Market Cap: 7513760768
+Enterprise Value: 13847760896
+Total Revenue: 4949000192
+Revenue Per Share: 163.07
+EBITDA: 1364999936
+Gross Margins: 0.55385
+Operating Margins: 0.20481001
+Profit Margins: 0.02202
+Free Cashflow: 941875008
+Operating Cashflow: 891000000
+Return On Assets: 0.050079998
+Return On Equity: 0.038340002
+Total Cash: 280000000
+Total Debt: 6616000000
+Debt To Equity: 320.854
+Current Ratio: 2.072
+Quick Ratio: 1.906
+Trailing PE: 82.859535
+Forward PE: 13.714001
+Price To Book: 3.640331
+Beta: 0.786
+52 Week High: 254.3
+52 Week Low: 141.66

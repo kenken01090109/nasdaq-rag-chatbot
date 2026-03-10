@@ -1,0 +1,25 @@
+Company: PLAYSTUDIOS Inc.  Class A Common Stock
+Ticker: MYPS
+Market Cap: 63505960
+Enterprise Value: -33484082
+Total Revenue: 247476992
+Revenue Per Share: 1.975
+EBITDA: 25966000
+Gross Margins: 0.75013
+Operating Margins: -0.114709996
+Profit Margins: -0.15096
+Free Cashflow: 37668500
+Operating Cashflow: 34217000
+Return On Assets: -0.02661
+Return On Equity: -0.14821
+Total Cash: 106320000
+Total Debt: 8649000
+Debt To Equity: 3.62
+Current Ratio: 3.908
+Quick Ratio: 3.734
+Trailing PE: 
+Forward PE: -17.589941
+Price To Book: 0.265752
+Beta: 0.958
+52 Week High: 1.69
+52 Week Low: 0.43

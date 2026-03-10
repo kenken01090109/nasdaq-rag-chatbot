@@ -1,0 +1,11 @@
+Company: OPKO Health Inc. Common Stock
+Ticker: OPK
+CIK: 0000944809
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 458429000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -194423000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 1995508000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 690018000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 1305490000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -152621000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 411972000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Comcast Corporation Class A Common Stock
+Ticker: CMCSA
+CIK: 0001166691
+Latest SEC XBRL Facts:
+Revenues: 90319000000 | unit=USD | filed=2023-10-26 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 91397000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 17830000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 272995000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 97081000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 24802000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9325000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

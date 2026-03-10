@@ -1,0 +1,10 @@
+Company: Cantor Equity Partners IV Inc. Class A Ordinary Shares
+Ticker: CEPF
+CIK: 0002034267
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1645815 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 452581261 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 72329 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 274823 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -62882 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 101829 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

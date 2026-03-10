@@ -1,0 +1,25 @@
+Company: Golden Heaven Group Holdings Ltd. Class A Ordinary Shares
+Ticker: GDHG
+Market Cap: 36057772
+Enterprise Value: -42572860
+Total Revenue: 15288195
+Revenue Per Share: 19.259
+EBITDA: -3558947
+Gross Margins: 0.50179
+Operating Margins: 0.44664
+Profit Margins: -0.56209
+Free Cashflow: 23828216
+Operating Cashflow: 18957632
+Return On Assets: -0.0293
+Return On Equity: -0.06501
+Total Cash: 86002272
+Total Debt: 7171322
+Debt To Equity: 3.97
+Current Ratio: 25.005
+Quick Ratio: 19.784
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.025229871
+Beta: -11.763
+52 Week High: 1968.375
+52 Week Low: 1.56

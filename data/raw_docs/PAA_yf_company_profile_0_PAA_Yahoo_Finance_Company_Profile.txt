@@ -1,0 +1,9 @@
+Company: Plains All American Pipeline L.P. Common Units representing Limited Partner Interests
+Ticker: PAA
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: United States
+City: Houston
+Website: https://www.plains.com
+Employees: 
+Business Summary: Plains All American Pipeline, L.P., through its subsidiaries, engages in the pipeline transportation, terminaling, storage, and gathering of crude oil and natural gas liquids (NGL) in the United States and Canada. The company operates through two segments, Crude Oil and NGL. The Crude Oil segment offers gathering and transporting crude oil through pipelines, trucks, and on barges or railcars. This segment provides terminaling, storage, and other related services, as well as merchant activities. The NGL segment is involved in natural gas processing and NGL fractionation, storage, transportation, and terminaling. This segment also includes ethane, propane, normal butane, iso-butane, and natural gasoline derived from natural gas production and processing activities, as well as crude oil refining processes. Its NGL components are used for various applications, such as heating, engine, and industrial fuels. The company was founded in 1981 and is headquartered in Houston, Texas. Plains All American Pipeline, L.P. operates as a subsidiary of Plains GP Holdings, L.P.

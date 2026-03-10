@@ -1,0 +1,25 @@
+Company: Contineum Therapeutics Inc. Class A Common Stock
+Ticker: CTNM
+Market Cap: 507028736
+Enterprise Value: 226096480
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -67678000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -34328376
+Operating Cashflow: -52472000
+Return On Assets: -0.20888
+Return On Equity: -0.304
+Total Cash: 182407008
+Total Debt: 5493000
+Debt To Equity: 3.044
+Current Ratio: 29.072
+Quick Ratio: 28.676
+Trailing PE: 
+Forward PE: -6.4708624
+Price To Book: 2.244502
+Beta: 
+52 Week High: 16.33
+52 Week Low: 3.35

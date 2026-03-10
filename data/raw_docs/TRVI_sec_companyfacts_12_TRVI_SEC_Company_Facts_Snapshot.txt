@@ -1,0 +1,10 @@
+Company: Trevi Therapeutics Inc. Common Stock
+Ticker: TRVI
+CIK: 0001563880
+Latest SEC XBRL Facts:
+NetIncomeLoss: -34443000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 199356000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9568000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 189788000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -34458000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 56869000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

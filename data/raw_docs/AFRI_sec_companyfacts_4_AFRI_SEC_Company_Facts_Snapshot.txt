@@ -1,0 +1,10 @@
+Company: Forafric Global PLC Ordinary Shares
+Ticker: AFRI
+CIK: 0001903870
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 165238000 | unit=USD | filed=2025-01-16 | period_end=2024-06-30
+NetIncomeLoss: -12756000 | unit=USD | filed=2025-01-16 | period_end=2024-06-30
+Assets: 287122000 | unit=USD | filed=2025-01-16 | period_end=2024-06-30
+Liabilities: 270812000 | unit=USD | filed=2025-01-16 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: 13390000 | unit=USD | filed=2025-01-16 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 16368000 | unit=USD | filed=2025-01-16 | period_end=2024-06-30

@@ -1,0 +1,25 @@
+Company: Celcuity Inc. Common Stock
+Ticker: CELC
+Market Cap: 5321195008
+Enterprise Value: 5197666816
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -159268000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -91554760
+Operating Cashflow: -144650736
+Return On Assets: -0.26604
+Return On Equity: -1.22039
+Total Cash: 454977984
+Total Debt: 320344992
+Debt To Equity: 273.886
+Current Ratio: 12.258
+Quick Ratio: 11.729
+Trailing PE: 
+Forward PE: -25.461235
+Price To Book: 42.54532
+Beta: 0.41
+52 Week High: 120.315
+52 Week Low: 7.575

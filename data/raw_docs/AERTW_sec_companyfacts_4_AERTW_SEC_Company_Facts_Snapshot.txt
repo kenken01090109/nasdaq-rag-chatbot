@@ -1,0 +1,11 @@
+Company: Aeries Technology Inc. Warrant
+Ticker: AERTW
+CIK: 0001853044
+Latest SEC XBRL Facts:
+Revenues: 50149000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: 1157000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 41981000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 42778000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: -1192000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 4762000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2570000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

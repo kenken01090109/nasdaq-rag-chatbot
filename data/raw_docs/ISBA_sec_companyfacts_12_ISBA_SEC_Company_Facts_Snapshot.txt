@@ -1,0 +1,11 @@
+Company: Isabella Bank Corporation Common stock
+Ticker: ISBA
+CIK: 0000842517
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4294000 | unit=USD | filed=2019-11-06 | period_end=2019-09-30
+NetIncomeLoss: 14220000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2259654000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2032234000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 227420000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15290000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 161301000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

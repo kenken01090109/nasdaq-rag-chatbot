@@ -1,0 +1,11 @@
+Company: Walmart Inc. Common Stock
+Ticker: WMT
+CIK: 0000104169
+Latest SEC XBRL Facts:
+Revenues: 522507000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 517500000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetIncomeLoss: 17656000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Assets: 288655000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+StockholdersEquity: 96094000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 27452000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 10582000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31

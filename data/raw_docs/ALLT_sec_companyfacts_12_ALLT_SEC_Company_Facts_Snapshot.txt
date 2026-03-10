@@ -1,0 +1,10 @@
+Company: Allot Ltd. Ordinary Shares
+Ticker: ALLT
+CIK: 0001365767
+Latest SEC XBRL Facts:
+Revenues: 47201000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: -2021000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 154052000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 99717000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 6069000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 26943000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

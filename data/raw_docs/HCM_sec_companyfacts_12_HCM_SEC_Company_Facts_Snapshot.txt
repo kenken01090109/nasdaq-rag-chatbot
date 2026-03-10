@@ -1,0 +1,12 @@
+Company: HUTCHMED (China) Limited American Depositary Shares
+Ticker: HCM
+CIK: 0001648257
+Latest SEC XBRL Facts:
+Revenues: 532874000 | unit=USD | filed=2023-07-31 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 277677000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+NetIncomeLoss: 454954000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+Assets: 1775940000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+Liabilities: 534017000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+StockholdersEquity: 1229064000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -72894000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 110719000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30

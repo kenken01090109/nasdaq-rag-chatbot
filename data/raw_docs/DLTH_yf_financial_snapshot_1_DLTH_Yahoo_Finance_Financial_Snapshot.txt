@@ -1,0 +1,25 @@
+Company: Duluth Holdings Inc. Class B Common Stock
+Ticker: DLTH
+Market Cap: 82266672
+Enterprise Value: 266359888
+Total Revenue: 590561024
+Revenue Per Share: 17.343
+EBITDA: 3621000
+Gross Margins: 0.49732
+Operating Margins: -0.0769
+Profit Margins: -0.05032
+Free Cashflow: 10901250
+Operating Cashflow: 10093000
+Return On Assets: -0.02769
+Return On Equity: -0.1727
+Total Cash: 8172000
+Total Debt: 196268992
+Debt To Equity: 124.47
+Current Ratio: 1.287
+Quick Ratio: 0.086
+Trailing PE: 
+Forward PE: -10.666667
+Price To Book: 0.511883
+Beta: 1.798
+52 Week High: 4.66
+52 Week Low: 1.58

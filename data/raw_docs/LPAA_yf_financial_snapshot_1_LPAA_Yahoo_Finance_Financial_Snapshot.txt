@@ -1,0 +1,25 @@
+Company: Launch One Acquisition Corp. Class A Ordinary shares
+Ticker: LPAA
+Market Cap: 308775008
+Enterprise Value: 308677344
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -950738
+Return On Assets: 
+Return On Equity: 
+Total Cash: 97652
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.54
+Quick Ratio: 0.179
+Trailing PE: 35.8
+Forward PE: 
+Price To Book: -27.397959
+Beta: 
+52 Week High: 10.74
+52 Week Low: 10.16

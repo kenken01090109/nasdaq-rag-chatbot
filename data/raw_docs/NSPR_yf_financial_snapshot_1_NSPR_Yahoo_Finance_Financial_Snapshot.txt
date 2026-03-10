@@ -1,0 +1,25 @@
+Company: InspireMD Inc. Common Stock
+Ticker: NSPR
+Market Cap: 69488432
+Enterprise Value: 9458432
+Total Revenue: 7779000
+Revenue Per Share: 0.139
+EBITDA: -46489000
+Gross Margins: 0.24913
+Operating Margins: -5.17281
+Profit Margins: 0.0
+Free Cashflow: -16552625
+Operating Cashflow: -32508000
+Return On Assets: -0.45459
+Return On Equity: -0.8761
+Total Cash: 63403000
+Total Debt: 3373000
+Debt To Equity: 5.261
+Current Ratio: 6.508
+Quick Ratio: 6.087
+Trailing PE: 
+Forward PE: -2.0759492
+Price To Book: 1.0725964
+Beta: 0.934
+52 Week High: 3.34
+52 Week Low: 1.51

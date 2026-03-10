@@ -1,0 +1,9 @@
+Company: Wealthfront Corporation Common Stock
+Ticker: WLTH
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Redwood City
+Website: https://www.wealthfront.com
+Employees: 376
+Business Summary: Wealthfront Corporation is a privately owned investment manager. It primarily provides its services to individuals. It also caters to high net worth individuals, charitable organizations, and corporations. The firm invests in the public equity and fixed income funds. It also invests in mutual funds and exchange traded funds. It conducts in-house research to make its investments. Wealthfront Corporation was formerly known as Wealthfront Inc. and is based in Redwood City, California with an additional office in Palo Alto, California.

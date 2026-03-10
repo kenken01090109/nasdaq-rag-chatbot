@@ -1,0 +1,9 @@
+Company: Global Engine Group Holding Limited Class A Ordinary Shares
+Ticker: GLE
+Sector: Technology
+Industry: Information Technology Services
+Country: Hong Kong
+City: Kwun Tong
+Website: https://www.globalengine.com.hk
+Employees: 5
+Business Summary: Global Engine Group Holding Limited provides integrated solutions in the information communication technologies (ICT), system integration, and other technical consultation service areas primarily in Hong Kong. The company offers ICT solution services, including cloud platform deployment, IT consultation services, IT system design, configuration, maintenance, and data center colocation and cloud services; technical services, such as technical development, support, and outsourcing services for data center and cloud computing infrastructure, mobility and fixed network communications, and Internet-of-things (IoT) projects; and project management services. It serves telecom operators; data center and cloud computing services providers; and IoT solutions providers, resellers, and users. Global Engine Group Holding Limited was incorporated in 2021 and is based in Kwun Tong, Hong Kong.

@@ -1,0 +1,9 @@
+Company: Plains GP Holdings L.P. Class A Units representing Limited Partner Interests
+Ticker: PAGP
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: United States
+City: Houston
+Website: https://www.plains.com
+Employees: 
+Business Summary: Plains GP Holdings, L.P., through its subsidiary, Plains All American Pipeline, L.P., owns and operates midstream infrastructure systems in the United States and Canada. The company operates in two segments, Crude Oil and Natural Gas Liquids (NGLs). It engages in the gathering and transporting crude oil using pipelines, trucks, and barges or railcars, as well as providing terminalling, storage, and other related services. The company is also involved in the natural gas processing and NGL fractionation, storage, transportation, and terminalling activities. PAA GP Holdings LLC operates as a general partner of the company. Plains GP Holdings, L.P. was incorporated in 2013 and is headquartered in Houston, Texas.

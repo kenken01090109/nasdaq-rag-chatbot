@@ -1,0 +1,10 @@
+Company: Affinity Bancshares Inc. Common Stock (MD)
+Ticker: AFBI
+Market Cap: 121193400
+Enterprise Value: 119929152
+Trailing PE: 15.232558
+Forward PE: 
+Price To Book: 0.94298875
+Beta: 0.263
+52 Week High: 22.5
+52 Week Low: 17.0

@@ -1,0 +1,9 @@
+Company: Elutia Inc. Class A Common Stock
+Ticker: ELUT
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Silver Spring
+Website: https://elutia.com
+Employees: 51
+Business Summary: Elutia Inc., a commercial-stage company, develops and commercializes drug-eluting biologics products for neurostimulation and breast reconstruction in the United States. It operates in three segments: Device Protection, Women's Health, and Cardiovascular. The company offers EluPro, which is used to accommodate cardiac implantable electronic devices, such as pacemakers and internal defibrillators; and CanGaroo, which mitigates complications derived from implantable electronic devices and shortcomings of synthetic envelopes. It also provides ProxiCor for cardiac tissue repair and pericardial closure; Tyke, an extracellular material that is used in the repair of cardiac structures for neonate and infant patients; and VasCure, a patch material used to repair or reconstruct the peripheral vasculature. In addition, the company offers SimpliDerm, which uses human acellular dermal matrices for tissue repair and reconstruction in various applications, such as sports medicine, hernia repair, trauma reconstruction, and breast reconstruction. It serves hospitals and healthcare facilities through its direct sales force, commercial partners, independent sales agents, and distributors. The company was formerly known as Aziyo Biologics, Inc. and changed its name to Elutia Inc. in September 2023. Elutia Inc. was incorporated in 2015 and is headquartered in Silver Spring, Maryland.

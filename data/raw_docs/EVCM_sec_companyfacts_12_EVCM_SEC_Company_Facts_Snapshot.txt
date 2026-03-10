@@ -1,0 +1,11 @@
+Company: EverCommerce Inc. Common Stock
+Ticker: EVCM
+CIK: 0001853145
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 437754000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 11556000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1403136000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 674592000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 728544000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 90183000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 106899000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

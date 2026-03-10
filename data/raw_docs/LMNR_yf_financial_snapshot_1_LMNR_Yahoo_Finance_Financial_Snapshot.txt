@@ -1,0 +1,25 @@
+Company: Limoneira Co Common Stock
+Ticker: LMNR
+Market Cap: 254196176
+Enterprise Value: 357143008
+Total Revenue: 159723008
+Revenue Per Share: 8.956
+EBITDA: -14383000
+Gross Margins: 0.0055299997
+Operating Margins: -0.29915002
+Profit Margins: -0.10005
+Free Cashflow: -33091624
+Operating Cashflow: -6009000
+Return On Assets: -0.04835
+Return On Equity: -0.083170004
+Total Cash: 1509000
+Total Debt: 74497000
+Debt To Equity: 39.037
+Current Ratio: 1.345
+Quick Ratio: 0.726
+Trailing PE: 
+Forward PE: 25.185478
+Price To Book: 1.573513
+Beta: 0.356
+52 Week High: 22.04
+52 Week Low: 12.2

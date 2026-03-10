@@ -1,0 +1,9 @@
+Company: Vox Royalty Corp. Common Stock
+Ticker: VOXR
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: United States
+City: Westminster
+Website: https://www.voxroyalty.com
+Employees: 
+Business Summary: Vox Royalty Corp. operates as a mining royalty company. The company holds a portfolio of 69 precious metals royalties in Australia, Canada, the United States of America, South Africa, Brazil, and Peru. Vox Royalty Corp. was founded in 2014 and is based in Westminster, Colorado.

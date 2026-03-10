@@ -1,0 +1,10 @@
+Company: Springview Holdings Ltd Class A Ordinary Shares
+Ticker: SPHL
+CIK: 0002002236
+Latest SEC XBRL Facts:
+Revenues: 2935791 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetIncomeLoss: -399492 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Assets: 7215453 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Liabilities: 2828886 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+StockholdersEquity: 4386567 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1192045 | unit=USD | filed=2025-09-26 | period_end=2025-06-30

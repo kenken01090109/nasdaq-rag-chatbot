@@ -1,0 +1,25 @@
+Company: Texas Community Bancshares Inc. Common Stock
+Ticker: TCBS
+Market Cap: 45840120
+Enterprise Value: 80600776
+Total Revenue: 15268000
+Revenue Per Share: 5.432
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.19556
+Profit Margins: 0.16492
+Free Cashflow: 
+Operating Cashflow: 1145000
+Return On Assets: 0.00569
+Return On Equity: 0.047399998
+Total Cash: 13480000
+Total Debt: 48772000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 19.244184
+Forward PE: 
+Price To Book: 0.8483699
+Beta: 0.042
+52 Week High: 20.0
+52 Week Low: 15.01

@@ -1,0 +1,12 @@
+Company: Alector Inc. Common Stock
+Ticker: ALEC
+Total Revenue: 21045000
+Revenue Per Share: 0.204
+Gross Margins: 0.0
+Operating Margins: -5.87526
+EBITDA: -147367008
+Profit Margins: 0.0
+Free Cashflow: -114339128
+Operating Cashflow: -184031008
+Return On Assets: -0.25128
+Return On Equity: -1.81556

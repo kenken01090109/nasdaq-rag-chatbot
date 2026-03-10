@@ -1,0 +1,25 @@
+Company: Digi International Inc. Common Stock
+Ticker: DGII
+Market Cap: 1836929024
+Enterprise Value: 1999471104
+Total Revenue: 448816992
+Revenue Per Share: 12.089
+EBITDA: 97341000
+Gross Margins: 0.63939
+Operating Margins: 0.13331
+Profit Margins: 0.09454001
+Free Cashflow: 116527128
+Operating Cashflow: 113866000
+Return On Assets: 0.04459
+Return On Equity: 0.06845
+Total Cash: 30932000
+Total Debt: 146084000
+Debt To Equity: 22.502
+Current Ratio: 1.243
+Quick Ratio: 0.836
+Trailing PE: 43.607143
+Forward PE: 18.3609
+Price To Book: 2.8290083
+Beta: 0.861
+52 Week High: 51.78
+52 Week Low: 22.39

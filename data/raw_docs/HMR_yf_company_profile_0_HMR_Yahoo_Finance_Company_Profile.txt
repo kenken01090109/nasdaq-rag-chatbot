@@ -1,0 +1,9 @@
+Company: Heidmar Maritime Holdings Corp. Common Stock
+Ticker: HMR
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Piraeus
+Website: https://www.heidmar.com
+Employees: 57
+Business Summary: Heidmar Maritime Holdings Corp., 	a commercial and technical management company, operates tanker and dry-bulk vessel pools worldwide. It offers asset management, tanker pooling, and commercial and time charters services; and provides assistance to clients with the buying and selling of ships and technical management services for individual vessels, which includes assistance in technical operations and crewing of the vessel. The company also develops and operates eFleetWatch, a digital platform in the commercial management space which provides port agents, brokers, and employees with tools to monitor, track, and manage vessels. Heidmar Maritime Holdings Corp. is headquartered in Piraeus, Greece.

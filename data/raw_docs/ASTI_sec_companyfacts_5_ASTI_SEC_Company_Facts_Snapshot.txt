@@ -1,0 +1,12 @@
+Company: Ascent Solar Technologies Inc. Common Stock
+Ticker: ASTI
+CIK: 0001350102
+Latest SEC XBRL Facts:
+Revenues: 512473 | unit=USD | filed=2018-11-19 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 61134 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -5761333 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 5768746 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3117688 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 2651058 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5097082 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2094018 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

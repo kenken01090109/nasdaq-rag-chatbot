@@ -1,0 +1,25 @@
+Company: Incyte Corp. Common Stock
+Ticker: INCY
+Market Cap: 19093448704
+Enterprise Value: 15844396032
+Total Revenue: 5141241856
+Revenue Per Share: 26.338
+EBITDA: 1439769984
+Gross Margins: 0.52884996
+Operating Margins: 0.25572002
+Profit Margins: 0.25026
+Free Cashflow: 609552000
+Operating Cashflow: 1413497984
+Return On Assets: 0.13571
+Return On Equity: 0.2987
+Total Cash: 3580603904
+Total Debt: 54920000
+Debt To Equity: 1.063
+Current Ratio: 3.316
+Quick Ratio: 3.039
+Trailing PE: 14.967239
+Forward PE: 11.056218
+Price To Book: 3.684615
+Beta: 0.844
+52 Week High: 112.29
+52 Week Low: 53.56

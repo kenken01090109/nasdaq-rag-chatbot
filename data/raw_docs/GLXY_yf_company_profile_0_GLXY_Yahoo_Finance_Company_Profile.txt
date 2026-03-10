@@ -1,0 +1,9 @@
+Company: Galaxy Digital Inc. Class A Common Stock
+Ticker: GLXY
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: New York
+Website: https://www.galaxy.com
+Employees: 700
+Business Summary: Galaxy Digital Inc. engages in the digital asset and data center infrastructure businesses in North America, Europe, and Asia. It operates through Digital Assets and Digital Center segment. The company's digital assets platform offers financial services including trading, lending, advisory, derivatives, investment banking, asset management, staking, tokenization and custodial technology. In addition, the company invests in and operates data center infrastructure to power AI and high-performance computing, meeting the growing demand for scalable energy and compute solutions in the U.S. The company was founded in 2018 and is headquartered in New York, New York.

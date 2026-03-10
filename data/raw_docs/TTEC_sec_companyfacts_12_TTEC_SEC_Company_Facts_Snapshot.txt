@@ -1,0 +1,12 @@
+Company: TTEC Holdings Inc. Common Stock
+Ticker: TTEC
+CIK: 0001013880
+Latest SEC XBRL Facts:
+Revenues: 394356000 | unit=USD | filed=2019-05-07 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1566942000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -19974000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1681648000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1400842000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -101365000 | unit=USD | filed=2016-03-14 | period_end=2015-12-31
+NetCashProvidedByUsedInOperatingActivities: 118505000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73508000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

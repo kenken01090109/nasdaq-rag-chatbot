@@ -1,0 +1,25 @@
+Company: SolarEdge Technologies Inc. Common Stock
+Ticker: SEDG
+Market Cap: 2016837760
+Enterprise Value: 2038409088
+Total Revenue: 1184444032
+Revenue Per Share: 20.091
+EBITDA: -219538000
+Gross Margins: 0.15422
+Operating Margins: -0.09276
+Profit Margins: -0.34230998
+Free Cashflow: 235121504
+Operating Cashflow: 104261000
+Return On Assets: -0.06473
+Return On Equity: -0.74681
+Total Cash: 493172000
+Total Debt: 404272992
+Debt To Equity: 94.575
+Current Ratio: 2.165
+Quick Ratio: 1.309
+Trailing PE: 
+Forward PE: 17.75909
+Price To Book: 4.717594
+Beta: 1.641
+52 Week High: 48.6
+52 Week Low: 11.0

@@ -1,0 +1,25 @@
+Company: Broadcom Inc. Common Stock
+Ticker: AVGO
+Market Cap: 1566896160768
+Enterprise Value: 166147473408
+Total Revenue: 68281999360
+Revenue Per Share: 14.456
+EBITDA: 37110001664
+Gross Margins: 0.76725996
+Operating Margins: 0.31765
+Profit Margins: 0.36571997
+Free Cashflow: 25438124032
+Operating Cashflow: 29684000768
+Return On Assets: 0.10624
+Return On Equity: 0.33370999
+Total Cash: 11105000448
+Total Debt: 40456998912
+Debt To Equity: 166.032
+Current Ratio: 1.902
+Quick Ratio: 1.343
+Trailing PE: 69.42857
+Forward PE: 19.197714
+Price To Book: 5.580453
+Beta: 1.257
+52 Week High: 414.61
+52 Week Low: 138.1

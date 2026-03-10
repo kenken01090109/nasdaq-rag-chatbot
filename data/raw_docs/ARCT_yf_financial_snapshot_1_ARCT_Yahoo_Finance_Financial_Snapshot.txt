@@ -1,0 +1,25 @@
+Company: Arcturus Therapeutics Holdings Inc. Common Stock
+Ticker: ARCT
+Market Cap: 202025536
+Enterprise Value: -3822979
+Total Revenue: 82031000
+Revenue Per Share: 2.995
+EBITDA: -73235000
+Gross Margins: -0.36792
+Operating Margins: -4.3506103
+Profit Margins: -0.80193
+Free Cashflow: 9176875
+Operating Cashflow: -74271000
+Return On Assets: -0.15495
+Return On Equity: -0.28917998
+Total Cash: 230908992
+Total Debt: 24998000
+Debt To Equity: 11.682
+Current Ratio: 6.637
+Quick Ratio: 6.5
+Trailing PE: 
+Forward PE: -1.7188237
+Price To Book: 0.94409776
+Beta: 2.486
+52 Week High: 24.17
+52 Week Low: 5.85

@@ -1,0 +1,10 @@
+Company: Atossa Therapeutics Inc. Common Stock
+Ticker: ATOS
+CIK: 0001488039
+Latest SEC XBRL Facts:
+NetIncomeLoss: -23833000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 58012000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 8225000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 49787000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19223000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 51845000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

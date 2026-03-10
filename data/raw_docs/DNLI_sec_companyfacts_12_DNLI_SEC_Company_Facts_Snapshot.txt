@@ -1,0 +1,12 @@
+Company: Denali Therapeutics Inc. Common Stock
+Ticker: DNLI
+CIK: 0001714899
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: -383991000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1055621000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 129424000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 926197000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -314062000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 90963000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

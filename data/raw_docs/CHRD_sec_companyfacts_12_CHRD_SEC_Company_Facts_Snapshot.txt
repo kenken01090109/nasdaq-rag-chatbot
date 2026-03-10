@@ -1,0 +1,12 @@
+Company: Chord Energy Corporation Common Stock
+Ticker: CHRD
+CIK: 0001486159
+Latest SEC XBRL Facts:
+Revenues: 922553000 | unit=USD | filed=2018-08-07 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3707687000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -39957000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 13097314000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5023373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 8073941000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1635670000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 629208000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Bloomin' Brands Inc. Common Stock
+Ticker: BLMN
+Market Cap: 512218048
+Enterprise Value: 2477758976
+Total Revenue: 3955995904
+Revenue Per Share: 46.507
+EBITDA: 294839008
+Gross Margins: 0.13479
+Operating Margins: 0.03237
+Profit Margins: 0.00208
+Free Cashflow: 20115124
+Operating Cashflow: 276694016
+Return On Assets: 0.02234
+Return On Equity: 0.05777
+Total Cash: 59461000
+Total Debt: 2021438976
+Debt To Equity: 599.54
+Current Ratio: 0.307
+Quick Ratio: 0.184
+Trailing PE: 60.100002
+Forward PE: 6.1620173
+Price To Book: 1.5351214
+Beta: 1.091
+52 Week High: 10.7
+52 Week Low: 5.6

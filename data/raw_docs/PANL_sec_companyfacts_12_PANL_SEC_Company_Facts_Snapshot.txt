@@ -1,0 +1,11 @@
+Company: Pangaea Logistics Solutions Ltd. Common Shares
+Ticker: PANL
+CIK: 0001606909
+Latest SEC XBRL Facts:
+Revenues: 271141334 | unit=USD | filed=2018-11-08 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 448161160 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 7485335 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 932145629 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 420261924 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38600877 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 94020373 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

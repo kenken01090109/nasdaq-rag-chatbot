@@ -1,0 +1,11 @@
+Company: Primech Holdings Ltd. Ordinary Shares
+Ticker: PMEC
+CIK: 0001891944
+Latest SEC XBRL Facts:
+Revenues: 74349000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+NetIncomeLoss: -1942000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+Assets: 41200000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+Liabilities: 26521000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+StockholdersEquity: 14889000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 7382000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 10145000 | unit=USD | filed=2025-07-24 | period_end=2025-03-31

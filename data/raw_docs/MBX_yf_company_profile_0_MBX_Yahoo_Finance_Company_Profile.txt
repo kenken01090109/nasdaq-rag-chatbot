@@ -1,0 +1,9 @@
+Company: MBX Biosciences Inc. Common Stock
+Ticker: MBX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Carmel
+Website: https://mbxbio.com
+Employees: 43
+Business Summary: MBX Biosciences, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery and development of precision peptide therapies for the treatment of endocrine and metabolic disorders. Its lead product candidate is MBX 2109, a parathyroid hormone peptide prodrug, which is in Phase 2 clinical trial for the treatment of chronic hypoparathyroidism. The company is also developing MBX 1416, a long-acting glucagon-like peptide-1 (GLP-1) receptor antagonist that is in Phase 1 clinical trial a potential therapy for post-bariatric hypoglycemia, a chronic complication of bariatric surgery. In addition, it is developing MBX 4291, a lead obesity product candidate, which is in investigational new drug-enabling studies for the treatment of obesity and co-morbidities. The company was founded in 2018 and is based in Carmel, Indiana.

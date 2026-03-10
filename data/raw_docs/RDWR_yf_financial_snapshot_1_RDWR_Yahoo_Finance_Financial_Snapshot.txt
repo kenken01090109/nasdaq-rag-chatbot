@@ -1,0 +1,25 @@
+Company: Radware Ltd. Ordinary Shares
+Ticker: RDWR
+Market Cap: 1073697344
+Enterprise Value: 879068544
+Total Revenue: 301849984
+Revenue Per Share: 7.04
+EBITDA: 23329000
+Gross Margins: 0.80673
+Operating Margins: 0.04723
+Profit Margins: 0.06711
+Free Cashflow: 45234124
+Operating Cashflow: 50091000
+Return On Assets: 0.01129
+Return On Equity: 0.054180004
+Total Cash: 257260000
+Total Debt: 17021000
+Debt To Equity: 4.357
+Current Ratio: 1.634
+Quick Ratio: 1.566
+Trailing PE: 54.933334
+Forward PE: 18.957054
+Price To Book: 3.0620587
+Beta: 0.981
+52 Week High: 31.57
+52 Week Low: 18.46

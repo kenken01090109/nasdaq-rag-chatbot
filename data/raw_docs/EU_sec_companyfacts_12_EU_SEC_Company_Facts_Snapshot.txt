@@ -1,0 +1,11 @@
+Company: enCore Energy Corp. Common Shares
+Ticker: EU
+CIK: 0001500881
+Latest SEC XBRL Facts:
+Revenues: 30780000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -35331000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 441901000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 164145000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 248569000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -37927000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 91933000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

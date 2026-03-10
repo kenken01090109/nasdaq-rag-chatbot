@@ -1,0 +1,25 @@
+Company: OceanPal Inc. Common Stock
+Ticker: SVRN
+Market Cap: 17287302
+Enterprise Value: -25582934
+Total Revenue: 19435000
+Revenue Per Share: 64.819
+EBITDA: -4933000
+Gross Margins: 0.19469999
+Operating Margins: -1.17232
+Profit Margins: -0.96676004
+Free Cashflow: 5475625
+Operating Cashflow: -1302000
+Return On Assets: -0.08008
+Return On Equity: -0.23819
+Total Cash: 25765000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 7.048
+Quick Ratio: 6.729
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0020717976
+Beta: 1.246
+52 Week High: 79.25
+52 Week Low: 0.36

@@ -1,0 +1,12 @@
+Company: Alumis Inc. Common Stock
+Ticker: ALMS
+Total Revenue: 22121000
+Revenue Per Share: 0.305
+Gross Margins: 1.0
+Operating Margins: -53.72314
+EBITDA: -439332000
+Profit Margins: 0.0
+Free Cashflow: -190766128
+Operating Cashflow: -372380000
+Return On Assets: -0.61458
+Return On Equity: -0.66876

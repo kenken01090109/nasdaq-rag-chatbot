@@ -1,0 +1,10 @@
+Company: Firefly Neuroscience Inc. Common Stock
+Ticker: AIFF
+Market Cap: 20183996
+Enterprise Value: 14820166
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.9804741
+Beta: 
+52 Week High: 6.0
+52 Week Low: 0.62

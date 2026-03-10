@@ -1,0 +1,25 @@
+Company: Compugen Ltd. Ordinary Shares
+Ticker: CGEN
+Market Cap: 195796544
+Enterprise Value: 53473376
+Total Revenue: 72764000
+Revenue Per Share: 0.779
+EBITDA: 31812000
+Gross Margins: 0.87286
+Operating Margins: 0.83234
+Profit Margins: 0.48571998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.14419
+Return On Equity: 0.44839
+Total Cash: 145640000
+Total Debt: 2960000
+Debt To Equity: 2.881
+Current Ratio: 6.558
+Quick Ratio: 6.558
+Trailing PE: 
+Forward PE: -6.240062
+Price To Book: 1.9100091
+Beta: 
+52 Week High: 2.38
+52 Week Low: 1.13

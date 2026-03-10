@@ -1,0 +1,25 @@
+Company: Ethos Technologies Inc. Class A Common Stock
+Ticker: LIFE
+Market Cap: 826595456
+Enterprise Value: 503652992
+Total Revenue: 387608000
+Revenue Per Share: 23.506
+EBITDA: 78281000
+Gross Margins: 0.98263
+Operating Margins: 0.2223
+Profit Margins: 0.18356001
+Free Cashflow: 51009000
+Operating Cashflow: 36225000
+Return On Assets: 0.100030005
+Return On Equity: 0.21028
+Total Cash: 125967000
+Total Debt: 2353000
+Debt To Equity: 0.619
+Current Ratio: 2.172
+Quick Ratio: 1.69
+Trailing PE: 11.5438595
+Forward PE: 8.635397
+Price To Book: -9.057123
+Beta: 
+52 Week High: 19.0
+52 Week Low: 9.45

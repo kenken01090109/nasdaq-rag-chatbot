@@ -1,0 +1,9 @@
+Company: Rhinebeck Bancorp Inc. Common Stock
+Ticker: RBKB
+CIK: 0001751783
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7709000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1316009000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1183005000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 133004000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8971000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,8 @@
+Company: Centurion Acquisition Corp. Warrant
+Ticker: ALFUW
+Total Cash: 226905
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.206
+Quick Ratio: 2.148
+Book Value: -0.374

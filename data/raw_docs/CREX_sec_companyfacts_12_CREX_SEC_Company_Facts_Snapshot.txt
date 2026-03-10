@@ -1,0 +1,11 @@
+Company: Creative Realities Inc. Common Stock
+Ticker: CREX
+CIK: 0001356093
+Latest SEC XBRL Facts:
+Revenues: 32860000 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+NetIncomeLoss: -6311000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 61266000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 39377000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 21889000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -834000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 314000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: J-Star Holding Co. Ltd. Class A Ordinary Shares
+Ticker: YMAT
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: Taiwan
+City: Taichung
+Website: https://j-starholding.com
+Employees: 65
+Business Summary: J-Star Holding Co., Ltd. manufactures and trades in bicycles, sports accessories, and carbon fiber composite products in Taiwan and internationally. It offers bicycles parts of sports bicycles and electric bicycles; paddle rackets for use in tennis, badminton, squash, and beach tennis; and structural parts of automobile, other sporting goods, and healthcare products. The company was founded in 1968 and is headquartered in Taichung, Taiwan.

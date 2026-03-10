@@ -1,0 +1,25 @@
+Company: Richardson Electronics Ltd. Common Stock
+Ticker: RELL
+Market Cap: 162310368
+Enterprise Value: 141367264
+Total Revenue: 212588000
+Revenue Per Share: 14.732
+EBITDA: 6516000
+Gross Margins: 0.30403
+Operating Margins: 0.0025799999
+Profit Margins: 0.00379
+Free Cashflow: 8397625
+Operating Cashflow: 5943000
+Return On Assets: 0.00839
+Return On Equity: 0.0051200003
+Total Cash: 33138000
+Total Debt: 1742000
+Debt To Equity: 1.099
+Current Ratio: 4.14
+Quick Ratio: 1.461
+Trailing PE: 223.6
+Forward PE: 20.327272
+Price To Book: 1.0241847
+Beta: 1.095
+52 Week High: 15.34
+52 Week Low: 7.57

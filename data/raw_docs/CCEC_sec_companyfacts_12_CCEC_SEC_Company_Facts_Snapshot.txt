@@ -1,0 +1,11 @@
+Company: Capital Clean Energy Carriers Corp. Common Share
+Ticker: CCEC
+CIK: 0001392326
+Latest SEC XBRL Facts:
+Revenues: 299071000 | unit=USD | filed=2023-04-26 | period_end=2022-12-31
+NetIncomeLoss: 110481000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+Assets: 4145538000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+Liabilities: 2706685000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+StockholdersEquity: 1438853000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 103352000 | unit=USD | filed=2024-10-10 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 335615000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30

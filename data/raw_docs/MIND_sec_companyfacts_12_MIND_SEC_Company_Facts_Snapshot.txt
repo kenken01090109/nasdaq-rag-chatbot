@@ -1,0 +1,12 @@
+Company: MIND Technology Inc. Common Stock (DE)
+Ticker: MIND
+CIK: 0000926423
+Latest SEC XBRL Facts:
+Revenues: 23132000 | unit=USD | filed=2023-12-14 | period_end=2023-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 31151000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetIncomeLoss: 1021000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Assets: 47344000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Liabilities: 7401000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+StockholdersEquity: 39943000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 3803000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 19387000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31

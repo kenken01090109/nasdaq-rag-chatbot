@@ -1,0 +1,25 @@
+Company: Huadi International Group Co. Ltd. Ordinary Shares
+Ticker: HUDI
+Market Cap: 21162790
+Enterprise Value: 37286448
+Total Revenue: 62895612
+Revenue Per Share: 4.405
+EBITDA: -2506628
+Gross Margins: 0.108
+Operating Margins: -0.07459
+Profit Margins: -0.02219
+Free Cashflow: -19720546
+Operating Cashflow: -8480674
+Return On Assets: -0.018480001
+Return On Equity: -0.01818
+Total Cash: 6483489
+Total Debt: 22595132
+Debt To Equity: 29.804
+Current Ratio: 2.892
+Quick Ratio: 1.675
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.28024995
+Beta: 2.212
+52 Week High: 5.46
+52 Week Low: 1.06

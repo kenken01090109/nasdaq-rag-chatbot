@@ -1,0 +1,8 @@
+Company: Aeries Technology Inc. Class A Ordinary Share
+Ticker: AERT
+Total Cash: 2570000
+Total Debt: 14355000
+Debt To Equity: 
+Current Ratio: 0.751
+Quick Ratio: 0.487
+Book Value: -0.024

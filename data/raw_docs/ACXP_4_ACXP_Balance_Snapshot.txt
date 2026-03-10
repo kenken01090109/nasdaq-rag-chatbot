@@ -1,0 +1,8 @@
+Company: Acurx Pharmaceuticals Inc. Common Stock
+Ticker: ACXP
+Total Cash: 5906802
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.474
+Quick Ratio: 2.409
+Book Value: 2.02

@@ -1,0 +1,9 @@
+Company: Powell Max Limited Class A Ordinary Shares
+Ticker: PMAX
+Sector: Industrials
+Industry: Specialty Business Services
+Country: Hong Kong
+City: Central
+Website: https://www.janfp.com
+Employees: 53
+Business Summary: Powell Max Limited, through its subsidiary, provides corporate financial communications and financial printing services in Hong Kong. The company offers financial communications services that support capital market compliance and transaction needs for corporate clients and their advisors. Its financial communications services include a range of financial printing, corporate reporting, and communications and language support services from inception to completion, including typesetting, proofreading, translation, design, printing, electronic reporting, newspaper placement, and distribution. The company also provides services to help its clients to comply with their disclosure and reporting obligations, create, manage, and deliver financial communications and manage transaction processes. In addition, it offers ancillary financial support services, such as the rental of conference room facilities. The company was incorporated in 2019 and is headquartered in Central, Hong Kong. Powell Max Limited is a subsidiary of Bliss On Limited.

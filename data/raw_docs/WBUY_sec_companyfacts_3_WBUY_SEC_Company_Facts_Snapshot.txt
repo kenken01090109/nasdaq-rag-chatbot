@@ -1,0 +1,11 @@
+Company: WEBUY GLOBAL LTD. Class A Ordinary Shares
+Ticker: WBUY
+CIK: 0001946703
+Latest SEC XBRL Facts:
+Revenues: 9121016 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+NetIncomeLoss: -7670525 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+Assets: 14602328 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+Liabilities: 14237474 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+StockholdersEquity: 454068 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2218757 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2056233 | unit=USD | filed=2024-09-17 | period_end=2024-06-30

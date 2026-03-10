@@ -1,0 +1,25 @@
+Company: Codere Online Luxembourg S.A. Warrants
+Ticker: CDROW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 203926000
+Revenue Per Share: 4.48
+EBITDA: 5836000
+Gross Margins: 0.91154
+Operating Margins: 0.02855
+Profit Margins: 0.00497
+Free Cashflow: 10624500
+Operating Cashflow: 13851000
+Return On Assets: 0.05046
+Return On Equity: 0.051409997
+Total Cash: 45125000
+Total Debt: 3696000
+Debt To Equity: 17.979
+Current Ratio: 1.403
+Quick Ratio: 1.21
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.1538405
+Beta: 0.438
+52 Week High: 0.6895
+52 Week Low: 0.6

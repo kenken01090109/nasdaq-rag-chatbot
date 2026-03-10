@@ -1,0 +1,9 @@
+Company: Performance Shipping Inc. Common Shares
+Ticker: PSHG
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Athens
+Website: https://www.pshipping.com
+Employees: 211
+Business Summary: Performance Shipping Inc. provides shipping transportation services through its tanker vessels worldwide. As of December 31, 2024, it operated through a fleet of six Aframax tanker vessels with a combined carrying capacity of 630,519 DWT. The company was incorporated in 2010 and is based in Athens, Greece.

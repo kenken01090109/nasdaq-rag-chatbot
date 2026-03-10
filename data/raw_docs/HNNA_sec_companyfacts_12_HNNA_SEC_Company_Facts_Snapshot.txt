@@ -1,0 +1,12 @@
+Company: Hennessy Advisors Inc. Common Stock
+Ticker: HNNA
+CIK: 0001145255
+Latest SEC XBRL Facts:
+Revenues: 41386000 | unit=USD | filed=2018-08-01 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 8320000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 1930000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 159555000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 60645000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 98910000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 661000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 71967000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

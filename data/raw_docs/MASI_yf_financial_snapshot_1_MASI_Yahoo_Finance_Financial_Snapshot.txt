@@ -1,0 +1,25 @@
+Company: Masimo Corporation Common Stock
+Ticker: MASI
+Market Cap: 9422500864
+Enterprise Value: 9564702720
+Total Revenue: 1526899968
+Revenue Per Share: 28.487
+EBITDA: 345300000
+Gross Margins: 0.61805
+Operating Margins: 0.18521
+Profit Margins: -0.09922
+Free Cashflow: 316412512
+Operating Cashflow: 217800000
+Return On Assets: 0.08859
+Return On Equity: 0.23427999
+Total Cash: 152300000
+Total Debt: 559299968
+Debt To Equity: 77.551
+Current Ratio: 2.492
+Quick Ratio: 1.291
+Trailing PE: 45.801567
+Forward PE: 26.711779
+Price To Book: 12.672108
+Beta: 1.248
+52 Week High: 176.81
+52 Week Low: 125.94

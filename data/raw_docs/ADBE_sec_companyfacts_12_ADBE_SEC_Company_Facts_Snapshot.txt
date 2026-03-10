@@ -1,0 +1,11 @@
+Company: Adobe Inc. Common Stock
+Ticker: ADBE
+CIK: 0000796343
+Latest SEC XBRL Facts:
+Revenues: 17575000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29
+NetIncomeLoss: 5274000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29
+Assets: 28754000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29
+Liabilities: 16984000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29
+StockholdersEquity: 11770000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29
+NetCashProvidedByUsedInOperatingActivities: 6871000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29
+CashAndCashEquivalentsAtCarryingValue: 4982000000 | unit=USD | filed=2025-09-24 | period_end=2025-08-29

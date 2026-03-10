@@ -1,0 +1,25 @@
+Company: Zions Bancorporation N.A. Common Stock
+Ticker: ZION
+Market Cap: 8243323904
+Enterprise Value: 8930650112
+Total Revenue: 3312999936
+Revenue Per Share: 22.52
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38757
+Profit Margins: 0.27136
+Free Cashflow: 
+Operating Cashflow: 1073000000
+Return On Assets: 0.01011
+Return On Equity: 0.13515
+Total Cash: 4728999936
+Total Debt: 5093000192
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.274543
+Forward PE: 8.530788
+Price To Book: 1.1568877
+Beta: 0.822
+52 Week High: 66.18
+52 Week Low: 39.32

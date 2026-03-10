@@ -1,0 +1,11 @@
+Company: Johnson Outdoors Inc. Class A Common Stock
+Ticker: JOUT
+CIK: 0000788329
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 140935000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+NetIncomeLoss: -3300000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+Assets: 600133000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+Liabilities: 186584000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+StockholdersEquity: 413549000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: -38415000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 130731000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02

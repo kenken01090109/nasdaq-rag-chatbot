@@ -1,0 +1,9 @@
+Company: Gloo Holdings Inc. Class A Common Stock
+Ticker: GLOO
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Boulder
+Website: https://www.gloo.com
+Employees: 
+Business Summary: Gloo Holdings, Inc. designs and develops a vertical technology platform for the faith and flourishing ecosystem. The company offers its products and services to network capability providers (NCPs) and the churches and frontline organizations (CFLs). Its platform offers free tools and services to CFLs, such as messaging and texting services, curated content, and access to resources. The company's platform includes Gloo Workspace, a single, online entry point for resources designed to help a pastor or ministry leader lead, grow and operate church or ministry, including content and insights, communications, tools, data insights, and an e-commerce marketplace; Gloo360, provides cloud services and managed information technology (IT), cybersecurity and data protection, business intelligence and strategic consulting, custom software and digital solutions, helpdesk support, project management, and e-commerce infrastructure; Gloo Media Network, offers advertising and marketing technologies and services; and Gloo AI, a vertical-specific faith- and flourishing-based AI. It serves faith-based organizations, community services, and educational institutions. The company was founded in 2013 and is based in Boulder, Colorado.

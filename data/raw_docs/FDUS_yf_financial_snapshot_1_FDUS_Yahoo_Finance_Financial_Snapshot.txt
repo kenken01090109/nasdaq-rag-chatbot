@@ -1,0 +1,25 @@
+Company: Fidus Investment Corporation Common Stock
+Ticker: FDUS
+Market Cap: 683558080
+Enterprise Value: 1272060800
+Total Revenue: 155872000
+Revenue Per Share: 4.392
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.73144996
+Profit Margins: 0.52865005
+Free Cashflow: 42140624
+Operating Cashflow: -147004992
+Return On Assets: 0.05197
+Return On Equity: 0.11792
+Total Cash: 69995000
+Total Debt: 644075008
+Debt To Equity: 86.814
+Current Ratio: 2.509
+Quick Ratio: 2.253
+Trailing PE: 7.7629313
+Forward PE: 9.283505
+Price To Book: 0.92136896
+Beta: 0.75
+52 Week High: 22.26
+52 Week Low: 16.7

@@ -1,0 +1,12 @@
+Company: SurgePays Inc. Common Stock
+Ticker: SURG
+CIK: 0001392694
+Latest SEC XBRL Facts:
+Revenues: 40775913 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 40775913 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -22206750 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 14494901 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 20919381 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -6369529 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17728805 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2514862 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

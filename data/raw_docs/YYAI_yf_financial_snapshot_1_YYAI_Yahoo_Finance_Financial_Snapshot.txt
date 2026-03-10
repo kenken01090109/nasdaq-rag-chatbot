@@ -1,0 +1,25 @@
+Company: AiRWA Inc. Common Stock
+Ticker: YYAI
+Market Cap: 36789612
+Enterprise Value: -112217056
+Total Revenue: 12272728
+Revenue Per Share: 0.647
+EBITDA: 7233857
+Gross Margins: 0.75744003
+Operating Margins: 0.018229999
+Profit Margins: 0.04935
+Free Cashflow: 
+Operating Cashflow: -32447278
+Return On Assets: 
+Return On Equity: 
+Total Cash: 132362312
+Total Debt: 784091
+Debt To Equity: 0.474
+Current Ratio: 24.181
+Quick Ratio: 21.85
+Trailing PE: 0.2136564
+Forward PE: 
+Price To Book: 0.1113279
+Beta: 
+52 Week High: 264.4
+52 Week Low: 0.77

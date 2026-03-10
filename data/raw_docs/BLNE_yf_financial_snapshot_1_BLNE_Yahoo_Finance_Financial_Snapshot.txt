@@ -1,0 +1,25 @@
+Company: Beeline Holdings Inc. Common Stock
+Ticker: BLNE
+Market Cap: 77136256
+Enterprise Value: 83779256
+Total Revenue: 9565000
+Revenue Per Share: 0.484
+EBITDA: -16383505
+Gross Margins: 0.78244
+Operating Margins: -1.1079
+Profit Margins: -2.30089
+Free Cashflow: -9778115
+Operating Cashflow: -13060000
+Return On Assets: -0.25451002
+Return On Equity: -0.72626996
+Total Cash: 1535000
+Total Debt: 9544000
+Debt To Equity: 18.446
+Current Ratio: 1.047
+Quick Ratio: 0.151
+Trailing PE: 0.03675778
+Forward PE: -22.75
+Price To Book: 1.0419848
+Beta: 
+52 Week High: 7.95
+52 Week Low: 0.62

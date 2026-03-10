@@ -1,0 +1,25 @@
+Company: WISeKey International Holding Ltd American Depositary Shares
+Ticker: WKEY
+Market Cap: 83476008
+Enterprise Value: 8347230
+Total Revenue: 11994000
+Revenue Per Share: 1.5575
+EBITDA: -39911000
+Gross Margins: 0.46280998
+Operating Margins: -5.1604
+Profit Margins: -0.70252
+Free Cashflow: -8512750
+Operating Cashflow: -24844000
+Return On Assets: -0.24615999
+Return On Equity: -0.53602004
+Total Cash: 124602000
+Total Debt: 4970000
+Debt To Equity: 3.927
+Current Ratio: 6.054
+Quick Ratio: 5.852
+Trailing PE: 
+Forward PE: -0.7437584
+Price To Book: 0.98511034
+Beta: 0.201
+52 Week High: 19.8
+52 Week Low: 2.5

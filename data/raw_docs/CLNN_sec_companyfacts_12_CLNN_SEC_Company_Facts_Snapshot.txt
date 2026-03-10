@@ -1,0 +1,11 @@
+Company: Clene Inc. Common Stock
+Ticker: CLNN
+CIK: 0001822791
+Latest SEC XBRL Facts:
+Revenues: 123000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -16947000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 22311000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 34668000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -12357000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13747000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7925000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

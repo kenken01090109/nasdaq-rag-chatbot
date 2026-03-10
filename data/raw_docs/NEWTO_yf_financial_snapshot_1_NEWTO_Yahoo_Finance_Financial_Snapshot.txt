@@ -1,0 +1,25 @@
+Company: NewtekOne Inc. 8.50% Fixed Rate Senior Notes due 2031
+Ticker: NEWTO
+Market Cap: 
+Enterprise Value: 1316059904
+Total Revenue: 383328992
+Revenue Per Share: 14.562
+EBITDA: 197983008
+Gross Margins: 0.85251
+Operating Margins: 0.55594003
+Profit Margins: 0.15786
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.05132
+Return On Equity: 0.17442
+Total Cash: 284232000
+Total Debt: 822761984
+Debt To Equity: 206.948
+Current Ratio: 56.835
+Quick Ratio: 6.616
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.0955708
+Beta: 1.285
+52 Week High: 27.9
+52 Week Low: 25.15

@@ -1,0 +1,25 @@
+Company: Alzamend Neuro Inc. Common Stock
+Ticker: ALZN
+Market Cap: 7527178
+Enterprise Value: 3077743
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -5793921
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3704349
+Operating Cashflow: -5646568
+Return On Assets: -0.72710997
+Return On Equity: -1.4475701
+Total Cash: 4449433
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.581
+Quick Ratio: 6.201
+Trailing PE: 
+Forward PE: -0.6633166
+Price To Book: 1.7202432
+Beta: -0.245
+52 Week High: 10.17
+52 Week Low: 1.58

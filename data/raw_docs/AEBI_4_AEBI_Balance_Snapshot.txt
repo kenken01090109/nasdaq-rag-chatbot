@@ -1,0 +1,8 @@
+Company: Aebi Schmidt Holding AG Common Stock
+Ticker: AEBI
+Total Cash: 125971000
+Total Debt: 813825024
+Debt To Equity: 100.188
+Current Ratio: 2.102
+Quick Ratio: 1.156
+Book Value: 10.554

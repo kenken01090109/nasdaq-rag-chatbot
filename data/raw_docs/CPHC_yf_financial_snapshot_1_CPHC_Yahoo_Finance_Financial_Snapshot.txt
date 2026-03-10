@@ -1,0 +1,25 @@
+Company: Canterbury Park Holding Corporation 'New' Common Stock
+Ticker: CPHC
+Market Cap: 78261584
+Enterprise Value: 61681788
+Total Revenue: 59099604
+Revenue Per Share: 11.699
+EBITDA: 5973725
+Gross Margins: 0.32279998
+Operating Margins: 0.057389997
+Profit Margins: -0.02343
+Free Cashflow: -3015548
+Operating Cashflow: 6210946
+Return On Assets: 0.0114
+Return On Equity: -0.01636
+Total Cash: 16705482
+Total Debt: 125682
+Debt To Equity: 0.149
+Current Ratio: 2.07
+Quick Ratio: 1.559
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.93032676
+Beta: -0.44
+52 Week High: 21.61
+52 Week Low: 14.39

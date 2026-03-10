@@ -1,0 +1,25 @@
+Company: ADTRAN Holdings Inc. Common Stock
+Ticker: ADTN
+Market Cap: 773526016
+Enterprise Value: 1303288064
+Total Revenue: 1083806976
+Revenue Per Share: 13.591
+EBITDA: 77571000
+Gross Margins: 0.38287
+Operating Margins: 0.01747
+Profit Margins: -0.042129997
+Free Cashflow: 65725624
+Operating Cashflow: 129767000
+Return On Assets: -0.0078799995
+Return On Equity: -0.0678
+Total Cash: 95696000
+Total Debt: 252130000
+Debt To Equity: 48.565
+Current Ratio: 1.755
+Quick Ratio: 0.876
+Trailing PE: 
+Forward PE: 12.651715
+Price To Book: 5.2547946
+Beta: 1.401
+52 Week High: 11.1
+52 Week Low: 6.93

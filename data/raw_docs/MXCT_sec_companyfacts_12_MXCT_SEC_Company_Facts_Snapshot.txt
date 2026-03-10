@@ -1,0 +1,12 @@
+Company: MaxCyte Inc. Common Stock
+Ticker: MXCT
+CIK: 0001287098
+Latest SEC XBRL Facts:
+Revenues: 25726000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 16170000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -35034000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 213476000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 33201000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 180275000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31721000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12973000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Defi Technologies Inc. Common Stock
+Ticker: DEFT
+Sector: Financial Services
+Industry: Capital Markets
+Country: Canada
+City: Toronto
+Website: https://defi.tech
+Employees: 9
+Business Summary: DeFi Technologies Inc., a technology company, develops exchange traded products that synthetically track the value of a single DeFi protocol or a basket of protocols in Canada. The company offers asset management services, such as indirect exposure to underlying digital assets, digital asset indexes, or other decentralized finance instruments. It is also involved in early-stage investments in companies, banks, and foundations in the digital asset space; operation of a specialized arbitrage trading desk that focuses on identifying and capitalizing on low-risk arbitrage opportunities within the digital asset market; private research that produces research reports on digital assets; and provision of OTC desk and digital asset liquidity. The company was formerly known as Valour Inc. and changed its name to DeFi Technologies Inc. in July 2023. DeFi Technologies Inc. was incorporated in 1986 and is headquartered in Toronto, Canada.

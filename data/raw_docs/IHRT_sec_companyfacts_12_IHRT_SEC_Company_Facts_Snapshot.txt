@@ -1,0 +1,10 @@
+Company: iHeartMedia Inc. Class A Common Stock
+Ticker: IHRT
+CIK: 0001400891
+Latest SEC XBRL Facts:
+Revenues: 2737764000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -430968000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 5088564000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -10689845000 | unit=USD | filed=2016-05-04 | period_end=2016-03-31
+NetCashProvidedByUsedInOperatingActivities: -63672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 192239000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

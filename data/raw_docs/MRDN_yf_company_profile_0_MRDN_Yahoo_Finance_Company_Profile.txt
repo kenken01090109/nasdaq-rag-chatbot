@@ -1,0 +1,9 @@
+Company: Meridian Holdings Inc. Common Stock
+Ticker: MRDN
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: United States
+City: Las Vegas
+Website: https://goldenmatrix.com
+Employees: 1200
+Business Summary: Meridian Holdings Inc., an B2B and B2C gaming technology company, provides casino, sportsbook, and competition products in Central and South America, Europe, and Africa. It develops and licenses gaming platforms; and provides online sports betting and gaming services under various brands, including Meridianbet, Expanse Studios, MexPlay, R Kings Competitions, Classics For A Cause, and GMAG. The company is based in Las Vegas, Nevada.

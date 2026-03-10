@@ -1,0 +1,25 @@
+Company: Kodiak Sciences Inc Common Stock
+Ticker: KOD
+Market Cap: 1517664000
+Enterprise Value: 1321827584
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -204704000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -41598248
+Operating Cashflow: -126700000
+Return On Assets: -0.47210997
+Return On Equity: -2.07915
+Total Cash: 72038000
+Total Debt: 62201000
+Debt To Equity: 262.54
+Current Ratio: 1.785
+Quick Ratio: 1.698
+Trailing PE: 
+Forward PE: -6.671175
+Price To Book: 55.49107
+Beta: 2.687
+52 Week High: 31.18
+52 Week Low: 1.92

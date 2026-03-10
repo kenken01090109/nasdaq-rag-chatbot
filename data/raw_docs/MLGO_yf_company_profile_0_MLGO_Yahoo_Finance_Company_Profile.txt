@@ -1,0 +1,9 @@
+Company: MicroAlgo Inc. Class A Ordinary Shares
+Ticker: MLGO
+Sector: Technology
+Industry: Software - Infrastructure
+Country: China
+City: Shenzhen
+Website: https://www.microalgor.com
+Employees: 87
+Business Summary: MicroAlgo Inc., together with its subsidiaries, develops and applies central processing algorithm solutions to customers in internet advertisement, gaming, and intelligent chip industries in the People's Republic of China, Hong Kong, and internationally. The company operates through Central Processing Algorithm Services, and Intelligent Chips and Services segments. It offers services that include algorithm optimization, accelerating computing power without the need for hardware upgrades, data processing, and data intelligence services. The company also provides advertising display, mobile game publishing and licensing, software development, and comprehensive services for enterprise customers, as well as intelligent chips solutions for the semiconductor sector. In addition, it engages in the resale of intelligent chips and accessories. MicroAlgo Inc. is headquartered in Shenzhen, the People's Republic of China. MicroAlgo Inc. operates as a subsidiary of WiMi Hologram Cloud Inc.

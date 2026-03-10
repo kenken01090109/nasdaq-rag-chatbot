@@ -1,0 +1,25 @@
+Company: Planet Image International Limited Class A Ordinary Shares
+Ticker: YIBO
+Market Cap: 62788268
+Enterprise Value: 53870904
+Total Revenue: 147072000
+Revenue Per Share: 2.718
+EBITDA: -8274000
+Gross Margins: 0.32683998
+Operating Margins: -0.14147
+Profit Margins: -0.03551
+Free Cashflow: 15005125
+Operating Cashflow: -4224000
+Return On Assets: -0.04232
+Return On Equity: -0.09319
+Total Cash: 54834000
+Total Debt: 48286000
+Debt To Equity: 82.984
+Current Ratio: 1.478
+Quick Ratio: 1.255
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.0794296
+Beta: 3.715
+52 Week High: 2.69
+52 Week Low: 0.722

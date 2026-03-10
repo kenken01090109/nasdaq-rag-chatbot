@@ -1,0 +1,9 @@
+Company: Inogen Inc Common Stock
+Ticker: INGN
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Beverly
+Website: https://www.provider.inogen.com
+Employees: 753
+Business Summary: Inogen, Inc., a medical technology company, develops, manufactures, and markets respiratory health products in the United States and internationally. The company offers portable oxygen concentrators used to deliver supplemental long-term oxygen therapy to patients suffering from chronic respiratory conditions. It provides Inogen One and Inogen Rove, an ambulatory solution for long-term oxygen therapy; Rove 4, a portable oxygen concentrator; Rove 6 concentrator; Inogen Voxi 5, a stationary oxygen concentrator; Aurora for continuous positive airway pressure; CPAP masks; Simeox for airway clearance treatment; and related accessories. It also rents its products directly to patients. Inogen, Inc. was incorporated in 2001 and is headquartered in Beverly, Massachusetts.

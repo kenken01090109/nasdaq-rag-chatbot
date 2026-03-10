@@ -1,0 +1,10 @@
+Company: Afya Limited Class A Common Shares
+Ticker: AFYA
+Market Cap: 1254100224
+Enterprise Value: 3270800384
+Trailing PE: 9.026144
+Forward PE: 7.619969
+Price To Book: 1.3810816
+Beta: 0.58
+52 Week High: 19.9
+52 Week Low: 13.0

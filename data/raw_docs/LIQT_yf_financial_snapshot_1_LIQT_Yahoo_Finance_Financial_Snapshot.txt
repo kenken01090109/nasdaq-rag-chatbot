@@ -1,0 +1,25 @@
+Company: LiqTech International Inc. Common Stock
+Ticker: LIQT
+Market Cap: 13670432
+Enterprise Value: 23242714
+Total Revenue: 16507558
+Revenue Per Share: 1.717
+EBITDA: -6616522
+Gross Margins: 0.07575
+Operating Margins: -0.85769
+Profit Margins: -0.51659
+Free Cashflow: -3869788
+Operating Cashflow: -6108176
+Return On Assets: -0.17395
+Return On Equity: -0.63655996
+Total Cash: 5070385
+Total Debt: 13352949
+Debt To Equity: 128.737
+Current Ratio: 3.38
+Quick Ratio: 1.956
+Trailing PE: 
+Forward PE: -2.5357141
+Price To Book: 1.3099631
+Beta: 1.139
+52 Week High: 3.35
+52 Week Low: 1.34

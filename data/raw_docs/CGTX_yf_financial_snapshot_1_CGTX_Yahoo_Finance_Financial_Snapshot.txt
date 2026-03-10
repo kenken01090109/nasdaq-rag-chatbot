@@ -1,0 +1,25 @@
+Company: Cognition Therapeutics Inc. Common Stock
+Ticker: CGTX
+Market Cap: 90922480
+Enterprise Value: 51968484
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -44802000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -30301000
+Operating Cashflow: -29533000
+Return On Assets: -0.78992
+Return On Equity: -1.09725
+Total Cash: 39334000
+Total Debt: 380000
+Debt To Equity: 1.04
+Current Ratio: 6.445
+Quick Ratio: 6.197
+Trailing PE: 
+Forward PE: -3.0746267
+Price To Book: 2.4879227
+Beta: 1.251
+52 Week High: 3.83
+52 Week Low: 0.222

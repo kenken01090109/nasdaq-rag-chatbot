@@ -1,0 +1,25 @@
+Company: Independent Bank Corp. Common Stock
+Ticker: INDB
+Market Cap: 3827860480
+Enterprise Value: 3990364672
+Total Revenue: 792051008
+Revenue Per Share: 17.155
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47464
+Profit Margins: 0.25898
+Free Cashflow: 
+Operating Cashflow: 251160000
+Return On Assets: 0.00926
+Return On Equity: 0.06255
+Total Cash: 806267008
+Total Debt: 961083008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.389639
+Forward PE: 9.305773
+Price To Book: 1.0662891
+Beta: 0.815
+52 Week High: 87.0
+52 Week Low: 52.15

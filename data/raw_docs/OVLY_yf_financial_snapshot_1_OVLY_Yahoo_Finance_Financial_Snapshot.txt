@@ -1,0 +1,25 @@
+Company: Oak Valley Bancorp (CA) Common Stock
+Ticker: OVLY
+Market Cap: 271862240
+Enterprise Value: 29043426
+Total Revenue: 80924000
+Revenue Per Share: 9.817
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.39942002
+Profit Margins: 0.29549998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.12529
+Total Cash: 247155008
+Total Debt: 7564000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.253471
+Forward PE: 
+Price To Book: 1.349798
+Beta: 0.233
+52 Week High: 34.16
+52 Week Low: 22.7

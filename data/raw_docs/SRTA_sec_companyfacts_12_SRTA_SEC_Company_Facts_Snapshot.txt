@@ -1,0 +1,11 @@
+Company: Strata Critical Medical Inc. Class A Common Stock
+Ticker: SRTA
+CIK: 0001779128
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 130354000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 50180000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 335078000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 52078000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 283000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -40607000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22753000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

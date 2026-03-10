@@ -1,0 +1,11 @@
+Company: Firefly Neuroscience Inc. Common Stock
+Ticker: AIFF
+CIK: 0000803578
+Latest SEC XBRL Facts:
+Revenues: 730000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -17402000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 12407000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2750000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 9657000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6389000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 244137 | unit=USD | filed=2024-08-19 | period_end=2024-06-30

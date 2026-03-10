@@ -1,0 +1,25 @@
+Company: SPS Commerce Inc. Common Stock
+Ticker: SPSC
+Market Cap: 2402823680
+Enterprise Value: 2238383360
+Total Revenue: 751505024
+Revenue Per Share: 19.839
+EBITDA: 176560992
+Gross Margins: 0.69178003
+Operating Margins: 0.18004
+Profit Margins: 0.1242
+Free Cashflow: 124239376
+Operating Cashflow: 178790000
+Return On Assets: 0.06718
+Return On Equity: 0.10208999
+Total Cash: 151355008
+Total Debt: 7192000
+Debt To Equity: 0.738
+Current Ratio: 2.172
+Quick Ratio: 1.422
+Trailing PE: 25.90244
+Forward PE: 12.54432
+Price To Book: 2.4546402
+Beta: 0.629
+52 Week High: 153.16
+52 Week Low: 52.56

@@ -1,0 +1,25 @@
+Company: Fidelity D & D Bancorp Inc. Common Stock
+Ticker: FDBC
+Market Cap: 251389552
+Enterprise Value: 109056000
+Total Revenue: 91960000
+Revenue Per Share: 15.947
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38169
+Profit Margins: 0.30663002
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01058
+Return On Equity: 0.12735
+Total Cash: 148060000
+Total Debt: 6015000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.962963
+Forward PE: 
+Price To Book: 1.0524536
+Beta: 0.844
+52 Week High: 50.0
+52 Week Low: 37.0

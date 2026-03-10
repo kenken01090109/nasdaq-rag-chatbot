@@ -1,0 +1,11 @@
+Company: Cenntro Inc. Common Stock
+Ticker: CENN
+CIK: 0001707919
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13120194 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -22249964 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 112709739 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 36566787 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 76032430 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10781365 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4438499 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

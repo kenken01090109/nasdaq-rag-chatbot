@@ -1,0 +1,25 @@
+Company: Fifth District Bancorp Inc. Common Stock
+Ticker: FDSB
+Market Cap: 82178520
+Enterprise Value: 42404992
+Total Revenue: 16116000
+Revenue Per Share: 3.132
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.13686
+Profit Margins: 0.22996001
+Free Cashflow: 
+Operating Cashflow: 737000
+Return On Assets: 0.0069700005
+Return On Equity: 0.0286
+Total Cash: 34380000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 20.666666
+Forward PE: 
+Price To Book: 0.58286655
+Beta: 
+52 Week High: 15.636
+52 Week Low: 11.35

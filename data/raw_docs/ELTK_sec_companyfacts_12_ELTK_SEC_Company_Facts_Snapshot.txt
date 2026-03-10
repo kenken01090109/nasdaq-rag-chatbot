@@ -1,0 +1,10 @@
+Company: Eltek Ltd. Ordinary Shares
+Ticker: ELTK
+CIK: 0001024672
+Latest SEC XBRL Facts:
+Revenues: 25285000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetIncomeLoss: 1367000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Assets: 64420000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+StockholdersEquity: 44647000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2808000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1770000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

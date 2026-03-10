@@ -1,0 +1,10 @@
+Company: Acco Group Holdings Limited Class A Ordinary Shares
+Ticker: ACCL
+Market Cap: 22738336
+Enterprise Value: 20408710
+Trailing PE: 23.285713
+Forward PE: 
+Price To Book: 9.314286
+Beta: 
+52 Week High: 5.0
+52 Week Low: 1.23

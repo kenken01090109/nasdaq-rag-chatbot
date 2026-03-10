@@ -1,0 +1,10 @@
+Company: Akanda Corp. Common Shares
+Ticker: AKAN
+Market Cap: 1824755
+Enterprise Value: -2006011
+Trailing PE: 0.005607724
+Forward PE: 
+Price To Book: 0.03830848
+Beta: 1.688
+52 Week High: 46.45
+52 Week Low: 0.811

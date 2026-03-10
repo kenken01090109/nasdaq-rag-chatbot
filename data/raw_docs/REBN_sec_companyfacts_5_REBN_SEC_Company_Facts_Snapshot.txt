@@ -1,0 +1,11 @@
+Company: Reborn Coffee Inc. Common Stock
+Ticker: REBN
+CIK: 0001707910
+Latest SEC XBRL Facts:
+Revenues: 4884662 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -10980889 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 6198248 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 9620143 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -3421895 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4794712 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44045 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Geron Corporation Common Stock
+Ticker: GERN
+Market Cap: 976683520
+Enterprise Value: 673646400
+Total Revenue: 183880992
+Revenue Per Share: 0.276
+EBITDA: -51079000
+Gross Margins: 0.9742
+Operating Margins: -0.17719
+Profit Margins: -0.4541
+Free Cashflow: -78356248
+Operating Cashflow: -111037000
+Return On Assets: -0.05535
+Return On Equity: -0.32991
+Total Cash: 357919008
+Total Debt: 121992000
+Debt To Equity: 54.009
+Current Ratio: 4.664
+Quick Ratio: 3.56
+Trailing PE: 
+Forward PE: 19.125
+Price To Book: 4.3342776
+Beta: 0.624
+52 Week High: 2.01
+52 Week Low: 1.04

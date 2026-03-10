@@ -1,0 +1,9 @@
+Company: OSR Holdings Inc. Warrant
+Ticker: OSRHW
+Sector: 
+Industry: 
+Country: United States
+City: Bellevue
+Website: https://www.osr-holdings.com
+Employees: 19
+Business Summary: OSR Holdings, Inc., a healthcare holding company, develops a portfolio of therapies and healthcare solutions in the United States, Switzerland, and South Korea. The company develops immunotherapy products, including VXM01, an immuno-oncology candidate for glioblastoma that is in phase 2 clinical trial, as well as preclinical stage products, such as VXM04 to treat mesothelin; VXM06 for the treatment of Wilms Tumor Protein (WT1); VXM08 for Carcinoembryonic antigen (CEA); and VXM10 for PD-L1. It is also developing design-augmented (DA) biologics comprising DRT-102, a clinical-stage asset for spinal fusion; and DRT-101, a pre-clinical stage asset for osteoarthritis. In addition, the company distributes neurovascular intervention medical device and systems. OSR Holdings, Inc. is based in Bellevue, Washington.

@@ -1,0 +1,9 @@
+Company: Innovative Eyewear Inc. Common Stock
+Ticker: LUCY
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: North Miami
+Website: https://www.lucyd.co
+Employees: 11
+Business Summary: Lucyd, Inc engages in the development and sale of smart eyeglasses and sunglasses in North America. Its flagship product is the Lucyd Lyte which enable the wearer to listen to music, take and make calls, and use voice assistants and ChatGPT to perform various smartphone tasks hands-free. It also provides Nautica Powered by Lucyd smart eyewear collection and various branded accessories, including a power brick, cleaning cloth, and a slipcase adorned; Eddie Bauer Powered by Lucyd smart eyewear collection; and Lucyd Armor line, an ANSI-certified smart safety glass for all-day wear. In addition, the company offers Lucyd app that provides unlimited voice ChatGPT interactions. It sells its products through Amazon, social selling, and retail stores, as well as through Lucyd.co, Walmart.com, Target.com, BestBuy.com, DicksSportingGoods.com, Brookstone.com, and eBay. The company was formerly known as Innovative Eyewear, Inc. and change its name to Lucyd, Inc in October 2025. Lucyd, Inc was founded in 2019 and is based in North Miami, Florida.

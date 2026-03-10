@@ -1,0 +1,9 @@
+Company: Malibu Boats Inc. Class A Common Stock
+Ticker: MBUU
+Sector: Consumer Cyclical
+Industry: Recreational Vehicles
+Country: United States
+City: Loudon
+Website: https://www.malibuboats.com
+Employees: 2200
+Business Summary: Malibu Boats, Inc. designs, engineers, manufactures, markets, and sells various recreational powerboats. The company operates through three segments: Malibu, Saltwater Fishing, and Cobalt. It provides performance sport boats, and sterndrive and outboard boats under the Malibu, Axis, Pursuit, Maverick, Cobia, Pathfinder, Hewes, and Cobalt brands. The company's products are used for various recreational boating activities, including water sports, such as wakeboarding, water skiing, and wake surfing; and general recreational boating and fishing. It sells its products through independent dealers. Malibu Boats, Inc. was founded in 1982 and is based in Loudon, Tennessee.

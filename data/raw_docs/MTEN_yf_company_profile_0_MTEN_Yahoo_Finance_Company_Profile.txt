@@ -1,0 +1,9 @@
+Company: Mingteng International Corporation Inc. Class A Ordinary Shares
+Ticker: MTEN
+Sector: Industrials
+Industry: Metal Fabrication
+Country: China
+City: Wuxi
+Website: https://ir.wxmtmj.cn
+Employees: 160
+Business Summary: Mingteng International Corporation Inc. engages in the design, development, production, assembly, testing, repair, and after-sale service of automotive molds in the People's Republic of China. It offers casting molds for turbocharger systems, braking systems, steering and differential systems, and other automotive system parts, as well as brake caliper molds, steering knuckle molds, and hydraulic part molds. The company also produces molds for new energy electric vehicle motor drive systems, battery pack systems, engineering hydraulic components, and aluminum alloy product mold products for use in automobile, construction machinery, and other manufacturing industries. Mingteng International Corporation Inc. was incorporated in 2021 and is based in Wuxi, China.

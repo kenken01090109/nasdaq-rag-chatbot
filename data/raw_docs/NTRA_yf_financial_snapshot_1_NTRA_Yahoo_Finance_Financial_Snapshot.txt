@@ -1,0 +1,25 @@
+Company: Natera Inc. Common Stock
+Ticker: NTRA
+Market Cap: 28081213440
+Enterprise Value: 27219449856
+Total Revenue: 2306113024
+Revenue Per Share: 16.867
+EBITDA: -271427008
+Gross Margins: 0.64749
+Operating Margins: -0.03424
+Profit Margins: -0.09026
+Free Cashflow: 141016496
+Operating Cashflow: 215300992
+Return On Assets: -0.09544
+Return On Equity: -0.14317
+Total Cash: 1076140032
+Total Debt: 214376992
+Debt To Equity: 12.519
+Current Ratio: 3.393
+Quick Ratio: 3.111
+Trailing PE: 
+Forward PE: -363.7749
+Price To Book: 16.163322
+Beta: 1.702
+52 Week High: 256.36
+52 Week Low: 125.38

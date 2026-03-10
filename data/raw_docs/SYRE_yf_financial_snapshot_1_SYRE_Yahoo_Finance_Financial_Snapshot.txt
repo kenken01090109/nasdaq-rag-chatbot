@@ -1,0 +1,25 @@
+Company: Spyre Therapeutics Inc. Common Stock
+Ticker: SYRE
+Market Cap: 3153387520
+Enterprise Value: 2552674560
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -103849248
+Operating Cashflow: -169252000
+Return On Assets: -0.19798
+Return On Equity: -0.25174
+Total Cash: 756532992
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 13.253
+Quick Ratio: 12.943
+Trailing PE: 
+Forward PE: -13.303556
+Price To Book: 5.6114607
+Beta: 3.117
+52 Week High: 45.76
+52 Week Low: 10.91

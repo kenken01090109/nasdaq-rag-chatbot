@@ -1,0 +1,9 @@
+Company: Information Services Group Inc. Common Stock
+Ticker: III
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: Stamford
+Website: https://www.isg-one.com
+Employees: 
+Business Summary: Information Services Group, Inc., together with its subsidiaries, operates as an artificial intelligence (AI) centered technology research and advisory company in the Americas, Europe, and the Asia Pacific. It offers digital transformation services, including sourcing advisory and cloud and data analytics; managed governance and risk; network carrier; technology strategy and operations design; change management; and market intelligence and technology research and analysis services. The company also provides ISG Digital, a client solution platform focused on developing technology, transformation, sourcing, and digital solutions; ISG Enterprise, a client solution platform that helps clients manage change and optimize operations in such areas as finance, human resource, and training. In addition, it offers ISG Research; ISG Network and Software Advisory services; and ISG GovernX and ISG Tango software platforms. The company serves private sector clients operating in the manufacturing, banking and financial services, insurance, health sciences, energy and utilities, and consumer services industries; and public sector clients, including state and local governments, airport and transit authorities, and national and provincial government units. Information Services Group, Inc. was incorporated in 2006 and is based in Stamford, Connecticut.

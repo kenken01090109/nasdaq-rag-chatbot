@@ -1,0 +1,25 @@
+Company: AsiaStrategy Ordinary Shares
+Ticker: SORA
+Market Cap: 46495680
+Enterprise Value: 46099960
+Total Revenue: 14081504
+Revenue Per Share: 0.629
+EBITDA: -174186
+Gross Margins: 0.07462
+Operating Margins: -0.119090006
+Profit Margins: -0.0275
+Free Cashflow: -6452601
+Operating Cashflow: -4514128
+Return On Assets: -0.01201
+Return On Equity: -0.09538
+Total Cash: 5591343
+Total Debt: 5195624
+Debt To Equity: 58.18
+Current Ratio: 5.848
+Quick Ratio: 2.458
+Trailing PE: 
+Forward PE: 
+Price To Book: 5.208914
+Beta: 
+52 Week High: 14.15
+52 Week Low: 1.57

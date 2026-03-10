@@ -1,0 +1,8 @@
+Company: SuRo Capital Corp. 6.00% Notes due 2026
+Ticker: SSSSL
+CIK: 0001509470
+Latest SEC XBRL Facts:
+NetIncomeLoss: 68938448 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 308301950 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 76514922 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 29917408 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

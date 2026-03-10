@@ -1,0 +1,25 @@
+Company: Sterling Infrastructure Inc. Common Stock
+Ticker: STRL
+Market Cap: 12137531392
+Enterprise Value: 12064905216
+Total Revenue: 2490049024
+Revenue Per Share: 81.529
+EBITDA: 490625984
+Gross Margins: 0.22984
+Operating Margins: 0.15287
+Profit Margins: 0.11653
+Free Cashflow: 278384736
+Operating Cashflow: 439988000
+Return On Assets: 0.111140005
+Return On Equity: 0.32047
+Total Cash: 390720992
+Total Debt: 349913984
+Debt To Equity: 31.625
+Current Ratio: 1.012
+Quick Ratio: 0.977
+Trailing PE: 42.167557
+Forward PE: 25.504675
+Price To Book: 10.9360895
+Beta: 1.502
+52 Week High: 477.03
+52 Week Low: 96.34

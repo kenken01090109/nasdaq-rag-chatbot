@@ -1,0 +1,9 @@
+Company: FIGX Capital Acquisition Corp. Warrant
+Ticker: FIGXW
+CIK: 0002059033
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1157636 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 153418726 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 6562256 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: -5389591 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -566688 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

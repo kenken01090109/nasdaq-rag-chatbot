@@ -1,0 +1,12 @@
+Company: Gevo Inc. Common Stock
+Ticker: GEVO
+CIK: 0001392380
+Latest SEC XBRL Facts:
+Revenues: 630000 | unit=USD | filed=2022-11-08 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 115232000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -27538000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 685207000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 210380000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 468871000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -33356000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72598000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

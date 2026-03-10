@@ -1,0 +1,11 @@
+Company: Dave Inc. Warrants
+Ticker: DAVEW
+CIK: 0001841408
+Latest SEC XBRL Facts:
+Revenues: 390461000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 129924000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 433251000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 141939000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 291312000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 196731000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49889000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

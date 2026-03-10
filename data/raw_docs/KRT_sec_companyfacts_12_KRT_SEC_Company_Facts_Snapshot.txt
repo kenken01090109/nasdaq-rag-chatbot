@@ -1,0 +1,11 @@
+Company: Karat Packaging Inc. Common Stock
+Ticker: KRT
+CIK: 0001758021
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 352126000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 24668000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 302837000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 141251000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 154481000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18458000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24022000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

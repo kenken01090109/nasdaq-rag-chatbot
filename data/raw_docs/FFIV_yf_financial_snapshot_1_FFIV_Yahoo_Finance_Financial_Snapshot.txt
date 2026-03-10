@@ -1,0 +1,25 @@
+Company: F5 Inc. Common Stock
+Ticker: FFIV
+Market Cap: 16260470784
+Enterprise Value: 15099110400
+Total Revenue: 3144048128
+Revenue Per Share: 54.452
+EBITDA: 883518016
+Gross Margins: 0.81385005
+Operating Margins: 0.26037002
+Profit Margins: 0.22455
+Free Cashflow: 681564736
+Operating Cashflow: 906094976
+Return On Assets: 0.08091
+Return On Equity: 0.20844
+Total Cash: 1199734016
+Total Debt: 267718000
+Debt To Equity: 7.566
+Current Ratio: 1.554
+Quick Ratio: 1.363
+Trailing PE: 23.693708
+Forward PE: 17.044584
+Price To Book: 4.6017556
+Beta: 0.994
+52 Week High: 346.0
+52 Week Low: 223.76

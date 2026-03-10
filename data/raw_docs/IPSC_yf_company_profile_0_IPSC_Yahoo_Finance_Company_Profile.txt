@@ -1,0 +1,9 @@
+Company: Century Therapeutics Inc. Common Stock
+Ticker: IPSC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Philadelphia
+Website: https://www.centurytx.com
+Employees: 140
+Business Summary: Century Therapeutics, Inc., a clinical-stage biotechnology company, engages in the development of allogeneic cell therapies for the treatment of solid tumor, hematological malignancies, and autoimmune diseases. Its lead product candidate is CNTY-101, an allogeneic, induced pluripotent stem cells (iPSCs)-derived chimeric antigen receptors (CAR)-iNK cell therapy, under Phase 1 trials targeting CD19 for relapsed and refractory B-cell lymphoma. The company is also involved in the development of CNTY-308, a CD19-targeted CAR-iT cell therapy engineered with Allo-Evasion 5.0 demonstrating preclinical efficacy comparable to autologous CD19 CAR-T cells for the treatment of B-cell mediated autoimmune diseases and malignancies; and CNTY-341, A CD19/CD22 dual-targeted CAR-iT cell therapy engineered with Allo-Evasion 5.0 which pairs dual targeting and primary T-cell-like functionality in an allogeneic cell with the goal of providing a differentiated therapy for B cell malignancies that are in preclinical trial. In addition, it develops solid tumor CAR iT program exploiting Nectin-4 CAR and other validated targets, engineered with Allo-Evasion 5.0 and additional engineering aimed at overcoming the key barriers to success in solid tumors, as well as non-immune effector. The company was incorporated in 2018 and is headquartered in Philadelphia, Pennsylvania.

@@ -1,0 +1,9 @@
+Company: Purple Innovation Inc. Common Stock
+Ticker: PRPL
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Lehi
+Website: https://investors.purple.com
+Employees: 1200
+Business Summary: Purple Innovation, Inc. designs, manufactures, and sells sleep and other products in the United States and internationally. It offers mattresses, pillows, sheets, waterproof mattress protectors, bases, and seat cushions, as well as blankets and duvets. The company markets and sells its products through its direct-to-consumer e-commerce channels, retail brick-and-mortar wholesale partners, third-party online retailers, and Purple showrooms. The company was founded in 2010 and is headquartered in Lehi, Utah.

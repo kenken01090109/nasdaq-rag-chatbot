@@ -1,0 +1,11 @@
+Company: Uxin Limited ADS
+Ticker: UXIN
+CIK: 0001729173
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 162279000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+NetIncomeLoss: -51576000 | unit=USD | filed=2024-07-31 | period_end=2024-03-31
+Assets: 285289000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+Liabilities: 282562000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+StockholdersEquity: -39761000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -21775000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 9530000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30

@@ -1,0 +1,11 @@
+Company: Huadi International Group Co. Ltd. Ordinary Shares
+Ticker: HUDI
+CIK: 0001791725
+Latest SEC XBRL Facts:
+Revenues: 618897 | unit=USD | filed=2023-09-01 | period_end=2023-03-31
+NetIncomeLoss: 145906 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+Assets: 99097713 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+Liabilities: 23208575 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+StockholdersEquity: 75595837 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -10899394 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 9205552 | unit=USD | filed=2025-08-06 | period_end=2025-03-31

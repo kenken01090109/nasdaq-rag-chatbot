@@ -1,0 +1,12 @@
+Company: Perella Weinberg Partners Class A Common Stock
+Ticker: PWP
+CIK: 0001777835
+Latest SEC XBRL Facts:
+Revenues: 602749000 | unit=USD | filed=2021-11-05 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 531743000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 26081000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 650238000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 449718000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -360775000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -61236000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 185535000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

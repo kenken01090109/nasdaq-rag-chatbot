@@ -1,0 +1,25 @@
+Company: SCYNEXIS Inc. Common Stock
+Ticker: SCYX
+Market Cap: 33572044
+Enterprise Value: -3121080
+Total Revenue: 2932000
+Revenue Per Share: 0.059
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -25.16467
+Profit Margins: 0.0
+Free Cashflow: -21688000
+Operating Cashflow: -33591000
+Return On Assets: -0.28851998
+Return On Equity: -0.53286
+Total Cash: 37928000
+Total Debt: 2284000
+Debt To Equity: 6.27
+Current Ratio: 5.75
+Quick Ratio: 5.659
+Trailing PE: 
+Forward PE: -1.8320471
+Price To Book: 0.92165905
+Beta: 1.325
+52 Week High: 1.31
+52 Week Low: 0.565

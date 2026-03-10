@@ -1,0 +1,11 @@
+Company: Dominari Holdings Inc. Common Stock
+Ticker: DOMH
+CIK: 0000012239
+Latest SEC XBRL Facts:
+Revenues: 93026000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 109332000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 223446000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 13149000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 210160000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4031000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5373000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

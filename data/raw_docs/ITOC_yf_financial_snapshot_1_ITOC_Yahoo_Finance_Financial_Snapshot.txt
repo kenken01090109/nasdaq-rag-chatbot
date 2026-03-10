@@ -1,0 +1,25 @@
+Company: iTonic Holdings Ltd Class A Ordinary Shares
+Ticker: ITOC
+Market Cap: 8510407
+Enterprise Value: 2935451
+Total Revenue: 305215
+Revenue Per Share: 0.021
+EBITDA: -2523650
+Gross Margins: 0.82857
+Operating Margins: -30.819399
+Profit Margins: 0.0
+Free Cashflow: -2674562
+Operating Cashflow: -3404564
+Return On Assets: -0.48958
+Return On Equity: -1.01635
+Total Cash: 3209154
+Total Debt: 139595
+Debt To Equity: 2.95
+Current Ratio: 11.689
+Quick Ratio: 8.752
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.2384893
+Beta: 
+52 Week High: 32.0
+52 Week Low: 0.31

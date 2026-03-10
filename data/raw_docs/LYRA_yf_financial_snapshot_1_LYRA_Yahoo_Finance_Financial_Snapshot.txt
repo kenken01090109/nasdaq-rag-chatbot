@@ -1,0 +1,25 @@
+Company: Lyra Therapeutics Inc. Common Stock
+Ticker: LYRA
+Market Cap: 2268831
+Enterprise Value: 11613598
+Total Revenue: 600000
+Revenue Per Share: 0.418
+EBITDA: -31898000
+Gross Margins: 0.0
+Operating Margins: -250.32
+Profit Margins: 0.0
+Free Cashflow: -20296000
+Operating Cashflow: -34145000
+Return On Assets: -0.33078998
+Return On Equity: -4.04481
+Total Cash: 22055000
+Total Debt: 31379000
+Debt To Equity: 
+Current Ratio: 2.428
+Quick Ratio: 2.326
+Trailing PE: 
+Forward PE: -1.2912122
+Price To Book: -0.48567632
+Beta: 0.055
+52 Week High: 37.5
+52 Week Low: 0.906

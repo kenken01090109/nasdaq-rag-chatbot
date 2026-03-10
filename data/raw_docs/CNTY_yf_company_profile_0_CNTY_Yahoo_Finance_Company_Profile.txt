@@ -1,0 +1,9 @@
+Company: Century Casinos Inc. Common Stock
+Ticker: CNTY
+Sector: Consumer Cyclical
+Industry: Resorts & Casinos
+Country: United States
+City: Colorado Springs
+Website: https://www.cnty.com
+Employees: 3181
+Business Summary: Century Casinos, Inc. operates as a casino entertainment company in the United States, Canada, and Poland. It develops and operates gaming establishments, as well as related lodging, restaurant, and horse racing including off-track betting; and entertainment facilities. The company was founded in 1992 and is based in Colorado Springs, Colorado.

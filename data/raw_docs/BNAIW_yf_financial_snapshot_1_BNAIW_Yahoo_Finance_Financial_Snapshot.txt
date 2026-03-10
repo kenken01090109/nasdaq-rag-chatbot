@@ -1,0 +1,25 @@
+Company: Brand Engagement Network Inc. Warrant
+Ticker: BNAIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 75120
+Revenue Per Share: 0.019
+EBITDA: -16151939
+Gross Margins: 0.0
+Operating Margins: -38.53315
+Profit Margins: 0.0
+Free Cashflow: 2638978
+Operating Cashflow: -7717964
+Return On Assets: -0.51139
+Return On Equity: -2.18304
+Total Cash: 102715
+Total Debt: 4108696
+Debt To Equity: 118.985
+Current Ratio: 0.149
+Quick Ratio: 0.012
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.55916774
+Beta: 0.987
+52 Week High: 0.49
+52 Week Low: 0.36

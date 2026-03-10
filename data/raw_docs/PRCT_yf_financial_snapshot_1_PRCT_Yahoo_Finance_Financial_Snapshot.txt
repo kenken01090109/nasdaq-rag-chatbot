@@ -1,0 +1,25 @@
+Company: PROCEPT BioRobotics Corporation Common Stock
+Ticker: PRCT
+Market Cap: 1365770496
+Enterprise Value: 1221471488
+Total Revenue: 308054016
+Revenue Per Share: 5.546
+EBITDA: -97469000
+Gross Margins: 0.63699
+Operating Margins: -0.40639
+Profit Margins: -0.31024
+Free Cashflow: -23916124
+Operating Cashflow: -48985000
+Return On Assets: -0.12458
+Return On Equity: -0.24886
+Total Cash: 286503008
+Total Debt: 78483000
+Debt To Equity: 21.451
+Current Ratio: 6.845
+Quick Ratio: 5.624
+Trailing PE: 
+Forward PE: -31.878487
+Price To Book: 3.7284484
+Beta: 1.021
+52 Week High: 66.85
+52 Week Low: 19.35

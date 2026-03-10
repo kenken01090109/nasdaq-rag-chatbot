@@ -1,0 +1,9 @@
+Company: Cyclerion Therapeutics Inc. Common Stock
+Ticker: CYCN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.cyclerion.com
+Employees: 1
+Business Summary: Cyclerion Therapeutics, Inc., a biopharmaceutical company, develops treatments for serious diseases serious diseases with novel sGC stimulators in both the central nervous system (CNS) and the periphery. It is developing Olinciguat, an orally administered vascular soluble guanylate cyclase (sGC) stimulator, which is in Phase 2 clinical trial to treat cardiovascular diseases; and Praliciguat, a systemic sGC stimulator for the treatment of rare kidney disease. It has a license agreement with Akebia to develop, manufacture, medical affair, and commercializes Praliciguat and other related products. The company was incorporated in 2018 and is headquartered in Cambridge, Massachusetts.

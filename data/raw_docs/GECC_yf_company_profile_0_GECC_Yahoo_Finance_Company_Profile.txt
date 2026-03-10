@@ -1,0 +1,9 @@
+Company: Great Elm Capital Corp. Common Stock
+Ticker: GECC
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Palm Beach Gardens
+Website: https://www.greatelmcc.com
+Employees: 
+Business Summary: Great Elm Capital Corp. is a business development company which specializes in loan and mezzanine, middle market investments. It invests in the debt instruments of middle market companies. The fund prefers to invest in media, commercial services and supplies, healthcare, telecommunication services, communications equipment. It typically makes equity investments between $3 million and $10 million in companies with revenues between $3 million and $75 million.

@@ -1,0 +1,12 @@
+Company: Aehr Test Systems Common Stock
+Ticker: AEHR
+CIK: 0001040470
+Latest SEC XBRL Facts:
+Revenues: 20853000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 20853000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+NetIncomeLoss: -5314000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+Assets: 148734000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+Liabilities: 17958000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+StockholdersEquity: 130776000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+NetCashProvidedByUsedInOperatingActivities: -1453000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28
+CashAndCashEquivalentsAtCarryingValue: 30835000 | unit=USD | filed=2026-01-12 | period_end=2025-11-28

@@ -1,0 +1,25 @@
+Company: Medallion Bank Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series G par value $1.00 per share
+Ticker: MBNKO
+Market Cap: 
+Enterprise Value: 28681000
+Total Revenue: 155051008
+Revenue Per Share: 155.051
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.65048
+Profit Margins: 0.46556
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.02795
+Return On Equity: 0.17341
+Total Cash: 147448992
+Total Debt: 50911000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.07355792
+Beta: 
+52 Week High: 28.0
+52 Week Low: 23.61

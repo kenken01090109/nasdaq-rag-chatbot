@@ -1,0 +1,11 @@
+Company: Commerce Bancshares Inc. Common Stock
+Ticker: CBSH
+CIK: 0000022356
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 425589000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 32288688000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 28495641000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 3771665000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 378816000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 599776000 | unit=USD | filed=2017-11-07 | period_end=2017-09-30

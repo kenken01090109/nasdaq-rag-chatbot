@@ -1,0 +1,25 @@
+Company: HealthEquity Inc. Common Stock
+Ticker: HQY
+Market Cap: 6776208384
+Enterprise Value: 7413792256
+Total Revenue: 1290659968
+Revenue Per Share: 14.927
+EBITDA: 454569984
+Gross Margins: 0.67718005
+Operating Margins: 0.24787001
+Profit Margins: 0.14863
+Free Cashflow: 279539744
+Operating Cashflow: 414927008
+Return On Assets: 0.05435
+Return On Equity: 0.09009
+Total Cash: 309259008
+Total Debt: 1028264000
+Debt To Equity: 48.184
+Current Ratio: 4.134
+Quick Ratio: 3.486
+Trailing PE: 35.944954
+Forward PE: 17.258278
+Price To Book: 3.1437054
+Beta: 0.317
+52 Week High: 116.65
+52 Week Low: 72.76

@@ -1,0 +1,11 @@
+Company: NXP Semiconductors N.V. Common Stock
+Ticker: NXPI
+CIK: 0001413447
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 8934000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+NetIncomeLoss: 1566000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+Assets: 26354000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+Liabilities: 15927000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+StockholdersEquity: 10045000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 1929000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 3454000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-28

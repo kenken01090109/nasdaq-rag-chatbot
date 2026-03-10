@@ -1,0 +1,12 @@
+Company: Willdan Group Inc. Common Stock
+Ticker: WLDN
+CIK: 0001370450
+Latest SEC XBRL Facts:
+Revenues: 185814000 | unit=USD | filed=2018-11-02 | period_end=2018-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 507865000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+NetIncomeLoss: 33844000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+Assets: 507925000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+Liabilities: 224833000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+StockholdersEquity: 283092000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+NetCashProvidedByUsedInOperatingActivities: 40904000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 33109000 | unit=USD | filed=2025-11-07 | period_end=2025-10-03

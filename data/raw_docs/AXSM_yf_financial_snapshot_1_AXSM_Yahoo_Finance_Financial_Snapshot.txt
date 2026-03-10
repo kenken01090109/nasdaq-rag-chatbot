@@ -1,0 +1,25 @@
+Company: Axsome Therapeutics Inc. Common Stock
+Ticker: AXSM
+Market Cap: 8303713280
+Enterprise Value: 8154390016
+Total Revenue: 638496000
+Revenue Per Share: 12.835
+EBITDA: -160171008
+Gross Margins: 0.92564005
+Operating Margins: -0.1838
+Profit Margins: -0.28688
+Free Cashflow: -29420876
+Operating Cashflow: -93405000
+Return On Assets: -0.16812
+Return On Equity: -2.52115
+Total Cash: 322932992
+Total Debt: 218112992
+Debt To Equity: 247.028
+Current Ratio: 1.555
+Quick Ratio: 1.445
+Trailing PE: 
+Forward PE: 28.176325
+Price To Book: 93.56196
+Beta: 0.487
+52 Week High: 191.5
+52 Week Low: 86.99

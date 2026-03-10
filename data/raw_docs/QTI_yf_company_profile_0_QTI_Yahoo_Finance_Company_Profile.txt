@@ -1,0 +1,9 @@
+Company: QT Imaging Holdings Inc. Common Stock
+Ticker: QTI
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Novato
+Website: https://www.qtimaging.com
+Employees: 
+Business Summary: QT Imaging Holdings, Inc. engages in the research, development, and commercialization of body imaging systems with low frequency sound waves for detection, diagnosis, monitoring, and treatment of diseases in the United States and Internationally. The company offers QT Breast Scanner, an ultrasonic imaging system that provides reflection-mode and transmission-mode images of a patient's breast. It serves patients, medical professionals, and radiologists. QT Imaging Holdings, Inc. was founded in 2012 and is headquartered in Novato, California.

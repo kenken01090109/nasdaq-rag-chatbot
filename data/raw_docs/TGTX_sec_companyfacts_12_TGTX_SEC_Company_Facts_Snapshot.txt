@@ -1,0 +1,12 @@
+Company: TG Therapeutics Inc. Common Stock
+Ticker: TGTX
+CIK: 0001001316
+Latest SEC XBRL Facts:
+Revenues: 2705000 | unit=USD | filed=2022-11-09 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 423713000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 424142000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1025024000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 417806000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 607218000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -44432000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 74081000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: LOBO TECHNOLOGIES LTD. Class A Ordinary Shares
+Ticker: LOBO
+Market Cap: 6808364
+Enterprise Value: 8183728
+Total Revenue: 21147700
+Revenue Per Share: 2.462
+EBITDA: -2827890
+Gross Margins: 0.14352
+Operating Margins: -0.09519
+Profit Margins: -0.14812
+Free Cashflow: -3570176
+Operating Cashflow: -3036237
+Return On Assets: -0.082100004
+Return On Equity: -0.37767
+Total Cash: 1424211
+Total Debt: 3391602
+Debt To Equity: 39.376
+Current Ratio: 1.561
+Quick Ratio: 0.325
+Trailing PE: 
+Forward PE: 2.7085
+Price To Book: 0.74820447
+Beta: 
+52 Week High: 2.41
+52 Week Low: 0.353

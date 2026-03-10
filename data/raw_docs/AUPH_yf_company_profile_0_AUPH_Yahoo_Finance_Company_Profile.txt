@@ -1,0 +1,9 @@
+Company: Aurinia Pharmaceuticals Inc Ordinary Shares
+Ticker: AUPH
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Edmonton
+Website: https://www.auriniapharma.com
+Employees: 128
+Business Summary: Aurinia Pharmaceuticals Inc., a biopharmaceutical company, engages in delivering therapies to people living with autoimmune diseases with high unmet medical needs in the United States and Japan. The company offers LUPKYNIS (voclosporin), an oral therapy for the treatment of adult patients with active lupus nephritis. It also develops aritinercept, a dual inhibitor of B cell-activating factor and proliferation-inducing ligand for the potential treatment of autoimmune diseases. The company was founded in 1993 and is headquartered in Edmonton, Canada.

@@ -1,0 +1,9 @@
+Company: Galata Acquisition Corp. II Class A Ordinary Shares
+Ticker: LATA
+CIK: 0002076427
+Latest SEC XBRL Facts:
+NetIncomeLoss: 18492 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 173909020 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 6125931 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -4868075 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -222116 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

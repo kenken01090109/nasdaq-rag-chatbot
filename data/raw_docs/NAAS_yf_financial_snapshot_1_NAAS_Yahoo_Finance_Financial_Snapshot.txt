@@ -1,0 +1,25 @@
+Company: NaaS Technology Inc. American Depositary Shares
+Ticker: NAAS
+Market Cap: 20778240
+Enterprise Value: 11043653632
+Total Revenue: 156292992
+Revenue Per Share: 132.146
+EBITDA: -275519488
+Gross Margins: 0.75026
+Operating Margins: -0.80856
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.18444
+Return On Equity: 
+Total Cash: 74769000
+Total Debt: 845979008
+Debt To Equity: 
+Current Ratio: 0.345
+Quick Ratio: 0.094
+Trailing PE: 
+Forward PE: 197.0
+Price To Book: -0.032449916
+Beta: 1.833
+52 Week High: 21.44
+52 Week Low: 1.8

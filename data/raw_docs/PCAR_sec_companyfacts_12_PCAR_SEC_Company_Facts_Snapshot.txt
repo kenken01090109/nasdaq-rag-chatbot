@@ -1,0 +1,10 @@
+Company: PACCAR Inc. Common Stock
+Ticker: PCAR
+CIK: 0000075362
+Latest SEC XBRL Facts:
+Revenues: 21624000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1818900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 44201200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 19368600000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3271500000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3219400000 | unit=USD | filed=2019-08-02 | period_end=2019-06-30

@@ -1,0 +1,11 @@
+Company: WhiteFiber Inc. Ordinary Shares
+Ticker: WYFI
+CIK: 0002042022
+Latest SEC XBRL Facts:
+Revenues: 55603277 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -23159272 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 555074903 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 74023019 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 481051884 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23759342 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 166490556 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

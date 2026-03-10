@@ -1,0 +1,12 @@
+Company: HealthEquity Inc. Common Stock
+Ticker: HQY
+CIK: 0001428336
+Latest SEC XBRL Facts:
+Revenues: 69904000 | unit=USD | filed=2018-06-07 | period_end=2018-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 978843000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetIncomeLoss: 165461000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Assets: 3398061000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Liabilities: 1264035000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+StockholdersEquity: 2134026000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 339179000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 309259000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31

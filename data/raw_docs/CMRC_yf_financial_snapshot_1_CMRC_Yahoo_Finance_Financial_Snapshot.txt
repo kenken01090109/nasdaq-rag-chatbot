@@ -1,0 +1,25 @@
+Company: Commerce.com Inc. Series 1 Common Stock
+Ticker: CMRC
+Market Cap: 244602672
+Enterprise Value: 275952992
+Total Revenue: 342348992
+Revenue Per Share: 4.264
+EBITDA: 8932000
+Gross Margins: 0.78749
+Operating Margins: 0.0094800005
+Profit Margins: -0.056500003
+Free Cashflow: 34463876
+Operating Cashflow: 25491000
+Return On Assets: -0.00911
+Return On Equity: -0.53194
+Total Cash: 141096000
+Total Debt: 165516992
+Debt To Equity: 420.585
+Current Ratio: 1.981
+Quick Ratio: 1.766
+Trailing PE: 
+Forward PE: 6.7316723
+Price To Book: 6.2448134
+Beta: 1.197
+52 Week High: 6.52
+52 Week Low: 2.41

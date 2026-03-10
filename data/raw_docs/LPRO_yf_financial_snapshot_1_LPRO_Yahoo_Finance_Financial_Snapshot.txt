@@ -1,0 +1,25 @@
+Company: Open Lending Corporation Common Stock
+Ticker: LPRO
+Market Cap: 158373856
+Enterprise Value: 77932432
+Total Revenue: 16948000
+Revenue Per Share: 0.142
+EBITDA: -72570000
+Gross Margins: -0.36748
+Operating Margins: 0.1365
+Profit Margins: 0.0
+Free Cashflow: -32323624
+Operating Cashflow: -12022000
+Return On Assets: -0.13412
+Return On Equity: -1.0253
+Total Cash: 222134000
+Total Debt: 136964992
+Debt To Equity: 188.074
+Current Ratio: 5.59
+Quick Ratio: 5.221
+Trailing PE: 
+Forward PE: 10.307693
+Price To Book: 2.1753247
+Beta: 2.081
+52 Week High: 4.845
+52 Week Low: 0.7

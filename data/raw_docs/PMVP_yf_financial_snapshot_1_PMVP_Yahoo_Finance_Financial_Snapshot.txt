@@ -1,0 +1,25 @@
+Company: PMV Pharmaceuticals Inc. Common Stock
+Ticker: PMVP
+Market Cap: 87266872
+Enterprise Value: -46905396
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -91396000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -48136376
+Operating Cashflow: -73049000
+Return On Assets: -0.3202
+Return On Equity: -0.51868
+Total Cash: 129250000
+Total Debt: 931000
+Debt To Equity: 0.769
+Current Ratio: 10.765
+Quick Ratio: 10.505
+Trailing PE: 
+Forward PE: -1.6026111
+Price To Book: 0.71835303
+Beta: 1.307
+52 Week High: 1.88
+52 Week Low: 0.81

@@ -1,0 +1,25 @@
+Company: AudioCodes Ltd. Common Stock
+Ticker: AUDC
+Market Cap: 231138464
+Enterprise Value: 184181824
+Total Revenue: 245604000
+Revenue Per Share: 8.618
+EBITDA: 18274000
+Gross Margins: 0.64996004
+Operating Margins: 0.05963
+Profit Margins: 0.036459997
+Free Cashflow: 9387375
+Operating Cashflow: 29361000
+Return On Assets: 0.026630001
+Return On Equity: 0.04932
+Total Cash: 72871000
+Total Debt: 37983000
+Debt To Equity: 22.174
+Current Ratio: 2.206
+Quick Ratio: 1.937
+Trailing PE: 26.000002
+Forward PE: 12.029851
+Price To Book: 1.2900128
+Beta: 1.122
+52 Week High: 11.5
+52 Week Low: 6.95

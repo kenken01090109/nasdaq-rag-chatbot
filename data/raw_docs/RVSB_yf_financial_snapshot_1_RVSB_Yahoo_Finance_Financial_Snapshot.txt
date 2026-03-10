@@ -1,0 +1,25 @@
+Company: Riverview Bancorp Inc Common Stock
+Ticker: RVSB
+Market Cap: 111631752
+Enterprise Value: 176168432
+Total Revenue: 52976000
+Revenue Per Share: 2.532
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.13829
+Profit Margins: 0.091529995
+Free Cashflow: 
+Operating Cashflow: 15413000
+Return On Assets: 0.00321
+Return On Equity: 0.03007
+Total Cash: 28641000
+Total Debt: 93799000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 23.434782
+Forward PE: 19.25
+Price To Book: 0.67978305
+Beta: 0.561
+52 Week High: 6.59
+52 Week Low: 4.74

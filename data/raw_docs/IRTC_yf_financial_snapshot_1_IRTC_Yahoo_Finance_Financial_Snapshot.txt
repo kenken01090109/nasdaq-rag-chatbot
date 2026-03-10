@@ -1,0 +1,25 @@
+Company: iRhythm Holdings Inc. Common Stock
+Ticker: IRTC
+Market Cap: 3994028288
+Enterprise Value: 4250033664
+Total Revenue: 747137984
+Revenue Per Share: 23.345
+EBITDA: -30568000
+Gross Margins: 0.70569
+Operating Margins: 0.04197
+Profit Margins: -0.05963
+Free Cashflow: 71667504
+Operating Cashflow: 80863000
+Return On Assets: -0.02358
+Return On Equity: -0.36569
+Total Cash: 583763008
+Total Debt: 731184000
+Debt To Equity: 478.693
+Current Ratio: 4.627
+Quick Ratio: 4.342
+Trailing PE: 
+Forward PE: 147.77483
+Price To Book: 26.134487
+Beta: 1.149
+52 Week High: 212.0
+52 Week Low: 92.52

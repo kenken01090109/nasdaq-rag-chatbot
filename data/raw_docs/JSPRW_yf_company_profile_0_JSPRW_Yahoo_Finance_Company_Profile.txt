@@ -1,0 +1,9 @@
+Company: Japer Therapeutics Inc. Warrants
+Ticker: JSPRW
+Sector: 
+Industry: 
+Country: United States
+City: Redwood City
+Website: https://jaspertx.com
+Employees: 27
+Business Summary: Jasper Therapeutics, Inc., a clinical-stage biotechnology company, focuses on developing therapeutics targeting mast and hematopoietic stem cell driven diseases. The company's lead product candidate is briquilimab, a monoclonal antibody designed to block stem cell factor from binding to and signaling through the CD117 receptor on mast and stem cells. It focuses on the development and commercialization of therapeutic agents for patients with various mast cell driven diseases, including chronic spontaneous urticaria, chronic inducible urticaria, and asthma, as well as conditioning agents for stem cell transplant in patients with sickle cell disease, Fanconi anemia, and severe combined immunodeficiency. Jasper Therapeutics, Inc. was founded in 2018 and is based in Redwood City, California.

@@ -1,0 +1,25 @@
+Company: Pacira BioSciences Inc. Common Stock
+Ticker: PCRX
+Market Cap: 946468096
+Enterprise Value: 1105378944
+Total Revenue: 726411008
+Revenue Per Share: 16.3
+EBITDA: 124326000
+Gross Margins: 0.63236
+Operating Margins: -0.011729999
+Profit Margins: 0.00968
+Free Cashflow: 108558624
+Operating Cashflow: 151994000
+Return On Assets: 0.01477
+Return On Equity: 0.00956
+Total Cash: 238424000
+Total Debt: 418204000
+Debt To Equity: 60.337
+Current Ratio: 4.544
+Quick Ratio: 3.008
+Trailing PE: 137.5
+Forward PE: 6.258107
+Price To Book: 1.3050958
+Beta: 0.226
+52 Week High: 27.64
+52 Week Low: 18.8

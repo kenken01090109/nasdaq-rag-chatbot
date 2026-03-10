@@ -1,0 +1,9 @@
+Company: enGene Holdings Inc. Warrants
+Ticker: ENGNW
+Sector: 
+Industry: 
+Country: Canada
+City: Montreal
+Website: https://www.engene.com
+Employees: 81
+Business Summary: enGene Holdings Inc., through its subsidiary enGene, Inc., operates as a clinical-stage biotechnology company in Canada. The company develops genetic medicines to help patients suffering from bladder cancer. Its lead product candidate is detalimogene voraplasmid, a monotherapy for the treatment of non-muscle invasive bladder cancer (NMIBC). Its pipeline includes LEGEND, which is in Phase 2. enGene Holdings Inc. is based in Montreal, Canada.

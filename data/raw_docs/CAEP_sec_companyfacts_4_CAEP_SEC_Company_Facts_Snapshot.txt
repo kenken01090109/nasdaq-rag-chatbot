@@ -1,0 +1,10 @@
+Company: Cantor Equity Partners III Inc. Class A Ordinary Shares
+Ticker: CAEP
+CIK: 0002034268
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2668175 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 279441420 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 131271 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -3970400 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30436 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 405036 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

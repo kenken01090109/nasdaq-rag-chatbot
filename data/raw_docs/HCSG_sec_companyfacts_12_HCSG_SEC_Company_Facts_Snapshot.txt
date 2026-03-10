@@ -1,0 +1,10 @@
+Company: Healthcare Services Group Inc. Common Stock
+Ticker: HCSG
+CIK: 0000731012
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1370491000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 27815000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 804299000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 496002000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 127581000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 124388000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

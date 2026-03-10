@@ -1,0 +1,25 @@
+Company: Principal Financial Group Inc Common Stock
+Ticker: PFG
+Market Cap: 20268953600
+Enterprise Value: 19416184832
+Total Revenue: 15625499648
+Revenue Per Share: 70.132
+EBITDA: 1730499968
+Gross Margins: 0.44241002
+Operating Margins: 0.14107999
+Profit Margins: 0.075840004
+Free Cashflow: 1039037504
+Operating Cashflow: 4536699904
+Return On Assets: 0.00282
+Return On Equity: 0.10524
+Total Cash: 5691700224
+Total Debt: 4326400000
+Debt To Equity: 34.915
+Current Ratio: 1.51
+Quick Ratio: 0.34
+Trailing PE: 17.573334
+Forward PE: 8.98989
+Price To Book: 1.687611
+Beta: 0.876
+52 Week High: 97.88
+52 Week Low: 68.39

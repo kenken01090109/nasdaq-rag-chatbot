@@ -1,0 +1,25 @@
+Company: MDxHealth SA Ordinary Shares
+Ticker: MDXH
+Market Cap: 167961984
+Enterprise Value: 231405408
+Total Revenue: 107875000
+Revenue Per Share: 2.156
+EBITDA: -5200000
+Gross Margins: 0.6455
+Operating Margins: -0.17809999
+Profit Margins: -0.31072
+Free Cashflow: -2822250
+Operating Cashflow: -2189000
+Return On Assets: -0.05899
+Return On Equity: -24.40408
+Total Cash: 29032000
+Total Debt: 86604000
+Debt To Equity: 
+Current Ratio: 1.078
+Quick Ratio: 0.882
+Trailing PE: 
+Forward PE: -327.0
+Price To Book: -14.217391
+Beta: -561273.75
+52 Week High: 5.33
+52 Week Low: 1.35

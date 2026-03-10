@@ -1,0 +1,25 @@
+Company: Inspired Entertainment Inc. Common Stock
+Ticker: INSE
+Market Cap: 214068592
+Enterprise Value: 553568576
+Total Revenue: 309900000
+Revenue Per Share: 10.718
+EBITDA: 96600000
+Gross Margins: 0.70152
+Operating Margins: 0.18329
+Profit Margins: 0.18458
+Free Cashflow: 29962500
+Operating Cashflow: 57700000
+Return On Assets: 0.080340005
+Return On Equity: 
+Total Cash: 36300000
+Total Debt: 375800000
+Debt To Equity: 
+Current Ratio: 1.819
+Quick Ratio: 1.042
+Trailing PE: 4.0561223
+Forward PE: 15.401007
+Price To Book: -23.802395
+Beta: 1.206
+52 Week High: 10.29
+52 Week Low: 6.505

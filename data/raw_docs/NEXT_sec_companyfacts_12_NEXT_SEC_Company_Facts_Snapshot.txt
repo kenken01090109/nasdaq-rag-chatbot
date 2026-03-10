@@ -1,0 +1,11 @@
+Company: NextDecade Corporation Common Stock
+Ticker: NEXT
+CIK: 0001612720
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -500616000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 10008819000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 8032472000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 154485000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -148741000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 209402000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

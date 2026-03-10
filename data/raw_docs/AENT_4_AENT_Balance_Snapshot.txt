@@ -1,0 +1,8 @@
+Company: Alliance Entertainment Holding Corporation Class A Common Stock
+Ticker: AENT
+Total Cash: 1379000
+Total Debt: 107223000
+Debt To Equity: 91.188
+Current Ratio: 1.348
+Quick Ratio: 0.754
+Book Value: 2.307

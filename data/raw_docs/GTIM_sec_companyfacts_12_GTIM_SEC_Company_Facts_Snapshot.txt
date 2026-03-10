@@ -1,0 +1,10 @@
+Company: Good Times Restaurants Inc. Common Stock
+Ticker: GTIM
+CIK: 0000825324
+Latest SEC XBRL Facts:
+Revenues: 107637000 | unit=USD | filed=2025-08-07 | period_end=2025-07-01
+NetIncomeLoss: 181000 | unit=USD | filed=2026-02-05 | period_end=2025-12-30
+Assets: 82512000 | unit=USD | filed=2026-02-05 | period_end=2025-12-30
+StockholdersEquity: 33247000 | unit=USD | filed=2026-02-05 | period_end=2025-12-30
+NetCashProvidedByUsedInOperatingActivities: 1421000 | unit=USD | filed=2026-02-05 | period_end=2025-12-30
+CashAndCashEquivalentsAtCarryingValue: 2712000 | unit=USD | filed=2025-05-08 | period_end=2025-04-01

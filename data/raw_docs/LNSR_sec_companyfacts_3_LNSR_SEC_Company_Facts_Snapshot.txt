@@ -1,0 +1,12 @@
+Company: LENSAR Inc. Common Stock
+Ticker: LNSR
+CIK: 0001320350
+Latest SEC XBRL Facts:
+Revenues: 42410000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 37321000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -32822000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 70204000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 82327000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -25907000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15449000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7637000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

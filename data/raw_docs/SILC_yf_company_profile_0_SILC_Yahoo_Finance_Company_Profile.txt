@@ -1,0 +1,9 @@
+Company: Silicom Ltd Ordinary Shares
+Ticker: SILC
+Sector: Technology
+Industry: Communication Equipment
+Country: Israel
+City: Kfar Saba
+Website: https://www.silicom.co.il
+Employees: 
+Business Summary: Silicom Ltd. designs, manufactures, markets, and supports networking and data infrastructure solutions in the United States, rest of North America, Israel, Europe, and the Asia Pacific. It provides server network interface cards used in networking appliances. The company also offers smart card products, including redirector and switching cards; encryption, data compression, and other hardware acceleration and offloading cards; and field programmable gate-array based cards. In addition, it provides smart platforms, such as virtualized customer-premises equipment and universal customer-premises equipment; and edge devices for SD-WAN, SASE, telco dedicated routers, and NFV deployments. The company sells its products to original equipment manufacturing, cloud, telco mobile, and related service provider markets. Silicom Ltd. was incorporated in 1987 and is headquartered in Kfar Saba, Israel.

@@ -1,0 +1,25 @@
+Company: TJGC Group Limited Ordinary Shares
+Ticker: TJGC
+Market Cap: 12240000
+Enterprise Value: -1205391
+Total Revenue: 30472132
+Revenue Per Share: 2.269
+EBITDA: -26283178
+Gross Margins: -0.13151
+Operating Margins: -2.17691
+Profit Margins: -0.88069
+Free Cashflow: -5856923
+Operating Cashflow: -34827784
+Return On Assets: -0.56961
+Return On Equity: -1.65645
+Total Cash: 23878900
+Total Debt: 9674628
+Debt To Equity: 32.595
+Current Ratio: 7.075
+Quick Ratio: 5.841
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.2245467
+Beta: 
+52 Week High: 54.91
+52 Week Low: 0.625

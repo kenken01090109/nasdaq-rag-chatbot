@@ -1,0 +1,11 @@
+Company: Dyadic International Inc. Common Stock
+Ticker: DYAI
+CIK: 0001213809
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2524819 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -5797365 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 11672757 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 9065423 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 2607334 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3932110 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5834510 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

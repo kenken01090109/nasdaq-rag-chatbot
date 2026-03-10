@@ -1,0 +1,11 @@
+Company: Elite Express Holding Inc. Class A Common Stock
+Ticker: ETS
+CIK: 0002053641
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1956258 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+NetIncomeLoss: -498484 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+Assets: 15192022 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+Liabilities: 312652 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+StockholdersEquity: 14879370 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -640210 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 13553137 | unit=USD | filed=2025-10-14 | period_end=2025-08-31

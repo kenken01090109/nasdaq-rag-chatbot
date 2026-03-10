@@ -1,0 +1,9 @@
+Company: Cognition Therapeutics Inc. Common Stock
+Ticker: CGTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Purchase
+Website: https://www.cogrx.com
+Employees: 25
+Business Summary: Cognition Therapeutics, Inc., a clinical-stage biopharmaceutical company, engages in the discovery and development of small molecule therapeutics targeting age-related degenerative diseases and disorders of the central nervous system and retina. Its lead product candidate is CT1812, an orally delivered molecule modulator designed to penetrate the blood-brain barrier and bind selectively to the S2R complex, which is in Phase 2 clinical trial for the treatment of Alzheimer's disease, as well as geographic atrophy secondary to dry age-related macular degeneration and synucleinopathies, such as dementia with Lewy bodies. Cognition Therapeutics, Inc. was incorporated in 2007 and is based in Purchase, New York.

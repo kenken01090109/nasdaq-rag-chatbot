@@ -1,0 +1,11 @@
+Company: Neuphoria Therapeutics Inc. Common Stock
+Ticker: NEUP
+CIK: 0001191070
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 15662715 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+NetIncomeLoss: 8514025 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+Assets: 30713319 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+Liabilities: 4716011 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+StockholdersEquity: 25997308 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 3662302 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 17044750 | unit=USD | filed=2025-05-20 | period_end=2025-03-31

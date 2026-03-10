@@ -1,0 +1,9 @@
+Company: Treasure Global Inc. Common Stock
+Ticker: TGL
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New York
+Website: https://treasureglobal.co
+Employees: 12
+Business Summary: Treasure Global Inc. through its subsidiary, TADAA Technologies Sdn. Bhd., offers payment processing and e-commerce services. The company provides an online-to-offline e-commerce platform that offers consumers and merchants instant rebates and affiliate cashback programs with e-payment solution and rebates in both e-commerce and physical retailers/merchant settings. It also offers ZCITY App, a payment gateway platform. Treasure Global Inc. was incorporated in 2020 and is based in New York, New York.

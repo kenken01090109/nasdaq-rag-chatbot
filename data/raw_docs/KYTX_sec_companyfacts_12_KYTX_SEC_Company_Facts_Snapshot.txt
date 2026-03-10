@@ -1,0 +1,10 @@
+Company: Kyverna Therapeutics Inc. Common Stock
+Ticker: KYTX
+CIK: 0001994702
+Latest SEC XBRL Facts:
+NetIncomeLoss: -123503000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 187156000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 35210000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 151946000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -120185000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34164000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

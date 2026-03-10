@@ -1,0 +1,11 @@
+Company: Bowman Consulting Group Ltd. Common Stock
+Ticker: BWMN
+CIK: 0001847590
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 361054000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 10883000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 510176000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 248371000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 261805000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 26471000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16221000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

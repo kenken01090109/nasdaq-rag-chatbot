@@ -1,0 +1,12 @@
+Company: Savara Inc. Common Stock
+Ticker: SVRA
+CIK: 0001160308
+Latest SEC XBRL Facts:
+Revenues: 94000 | unit=USD | filed=2017-05-09 | period_end=2017-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2021-11-12 | period_end=2021-09-30
+NetIncomeLoss: -86601000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 140924000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 46538000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 94386000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -75980000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16277000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

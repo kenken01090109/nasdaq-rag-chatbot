@@ -1,0 +1,9 @@
+Company: LENSAR Inc. Common Stock
+Ticker: LNSR
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Orlando
+Website: https://www.lensar.com
+Employees: 140
+Business Summary: LENSAR, Inc., a commercial-stage medical device company, focuses on designing, developing, and marketing laser system for the treatment of cataracts and the management of pre-existing or surgically induced corneal astigmatism in the United System. The company offers LENSAR Laser System which incorporates a range of proprietary technologies designed to assist the surgeon in obtaining visual outcomes by providing imaging, procedure planning, design, and precision. It also provides ALLY Robotic Cataract Laser System, a compact cataract treatment system that is designed to allow surgeons to perform sterile laser-assisted cataract surgery in a single operating room. LENSAR, Inc. was incorporated in 2004 and is headquartered in Orlando, Florida.

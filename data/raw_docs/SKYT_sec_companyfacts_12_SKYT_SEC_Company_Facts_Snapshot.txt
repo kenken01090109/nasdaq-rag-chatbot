@@ -1,0 +1,11 @@
+Company: SkyWater Technology Inc. Common Stock
+Ticker: SKYT
+CIK: 0001819974
+Latest SEC XBRL Facts:
+Revenues: 271100000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+NetIncomeLoss: 126690000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+Assets: 787029000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+Liabilities: 587281000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+StockholdersEquity: 192805000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 7107000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 30895000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28

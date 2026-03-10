@@ -1,0 +1,9 @@
+Company: Hudson Technologies Inc. Common Stock
+Ticker: HDSN
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United States
+City: Woodcliff Lake
+Website: https://www.hudsontech.com
+Employees: 
+Business Summary: Hudson Technologies, Inc., through its subsidiary, Hudson Technologies Company, provides solutions to recurring problems within the refrigeration industry in the United States. The company offers refrigerant and industrial gas; refrigerant management services consisting primarily of reclamation of refrigerants, laboratory testing through its laboratory, and banking storage services; and RefrigerantSide Services comprising system decontamination to remove moisture, oils, and other contaminants intended to restore systems to designed capacity. It also provides diagnostic services for use in the prediction of potential problems in air conditioning, process cooling, and refrigeration systems; Chiller Chemistry, which integrates several fluid tests of an operating system and the corresponding laboratory results into an engineering report; Fluid Chemistry for use in identification of systems that require further examination; and SmartEnergy OPS, a system for measuring, modifying, and improving the efficiency of energy systems, including air conditioning and refrigeration systems, in industrial and commercial applications. In addition, the company provides a snapshot of a packaged chiller's operating efficiency and health through ChillSmart, a maintenance tool. Further, it is involved in the generation of carbon offset projects. The company serves commercial, industrial, and governmental customers, as well as refrigerant wholesalers, distributors, contractors, and refrigeration equipment manufacturers. Hudson Technologies, Inc. was incorporated in 1991 and is headquartered in Woodcliff Lake, New Jersey.

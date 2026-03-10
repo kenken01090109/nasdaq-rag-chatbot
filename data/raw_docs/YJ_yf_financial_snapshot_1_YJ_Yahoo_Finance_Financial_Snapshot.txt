@@ -1,0 +1,25 @@
+Company: Yunji Inc. American Depository Shares
+Ticker: YJ
+Market Cap: 8718206
+Enterprise Value: 3275443456
+Total Revenue: 342144000
+Revenue Per Share: 69.495
+EBITDA: -194164000
+Gross Margins: 0.49293998
+Operating Margins: -0.63407004
+Profit Margins: -0.6307
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.09405
+Return On Equity: -0.19940001
+Total Cash: 193942000
+Total Debt: 20117000
+Debt To Equity: 2.061
+Current Ratio: 1.672
+Quick Ratio: 0.849
+Trailing PE: 
+Forward PE: 17.699999
+Price To Book: 0.061678078
+Beta: 0.073
+52 Week High: 2.67
+52 Week Low: 1.11

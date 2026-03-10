@@ -1,0 +1,25 @@
+Company: nLIGHT Inc. Common Stock
+Ticker: LASR
+Market Cap: 3271602944
+Enterprise Value: 3392878848
+Total Revenue: 261330000
+Revenue Per Share: 5.229
+EBITDA: -9945000
+Gross Margins: 0.29833
+Operating Margins: -0.059
+Profit Margins: -0.08979999
+Free Cashflow: 16177250
+Operating Cashflow: 21330000
+Return On Assets: -0.05167
+Return On Equity: -0.105900005
+Total Cash: 133633000
+Total Debt: 36207000
+Debt To Equity: 15.968
+Current Ratio: 3.788
+Quick Ratio: 2.969
+Trailing PE: 
+Forward PE: 113.58837
+Price To Book: 13.231047
+Beta: 2.342
+52 Week High: 69.517
+52 Week Low: 6.2

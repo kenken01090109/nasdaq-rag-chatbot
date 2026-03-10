@@ -1,0 +1,11 @@
+Company: Banzai International Inc. Warrant
+Ticker: BNZIW
+CIK: 0001826011
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 9350573 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -17460094 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 32986504 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 27546267 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 5440237 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13416431 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 851356 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Robinhood Markets Inc. Class A Common Stock
+Ticker: HOOD
+Market Cap: 69404770304
+Enterprise Value: 69218770944
+Total Revenue: 4472999936
+Revenue Per Share: 5.034
+EBITDA: 
+Gross Margins: 0.92376
+Operating Margins: 0.46532002
+Profit Margins: 0.42097
+Free Cashflow: 
+Operating Cashflow: 1638000000
+Return On Assets: 0.05855
+Return On Equity: 0.21993999
+Total Cash: 12645999616
+Total Debt: 12449000448
+Debt To Equity: 136.04
+Current Ratio: 1.13
+Quick Ratio: 1.086
+Trailing PE: 37.604877
+Forward PE: 27.864325
+Price To Book: 7.6018143
+Beta: 2.479
+52 Week High: 153.86
+52 Week Low: 29.66

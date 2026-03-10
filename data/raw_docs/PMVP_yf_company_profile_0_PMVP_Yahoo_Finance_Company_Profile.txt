@@ -1,0 +1,9 @@
+Company: PMV Pharmaceuticals Inc. Common Stock
+Ticker: PMVP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Princeton
+Website: https://www.pmvpharma.com
+Employees: 47
+Business Summary: PMV Pharmaceuticals, Inc., a precision oncology company, engages in the discovery and development of small molecule and tumor-agnostic therapies for p53 mutations in cancer. It's lead product candidate is rezatapopt, an orally available small molecule that potently and selectively correct p53 misfolding caused by p53 mutation, Y220C, while sparing wild-type p53. The company was formerly known as PJ Pharmaceuticals, Inc. and changed its name to PMV Pharmaceuticals, Inc. in July 2013. PMV Pharmaceuticals, Inc. was incorporated in 2013 and is based in Princeton, New Jersey.

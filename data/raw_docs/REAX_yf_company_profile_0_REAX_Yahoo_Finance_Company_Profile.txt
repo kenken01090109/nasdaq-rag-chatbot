@@ -1,0 +1,9 @@
+Company: The Real Brokerage Inc. Common Shares
+Ticker: REAX
+Sector: Real Estate
+Industry: Real Estate Services
+Country: United States
+City: Miami
+Website: https://www.onereal.com
+Employees: 
+Business Summary: The Real Brokerage Inc., together with its subsidiaries, operates as a real estate technology company in the United States and Canada. The company provides title, mortgage, and wallet services. It also offers ancillary services including mortgage origination, title and escrow services, and financial technology and lending products. The company was founded in 2014 and is headquartered in Miami, Florida.

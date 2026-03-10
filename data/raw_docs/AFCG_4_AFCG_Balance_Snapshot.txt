@@ -1,0 +1,8 @@
+Company: Advanced Flower Capital Inc. Common Stock
+Ticker: AFCG
+Total Cash: 45120388
+Total Debt: 111057896
+Debt To Equity: 65.583
+Current Ratio: 9.522
+Quick Ratio: 9.445
+Book Value: 7.495

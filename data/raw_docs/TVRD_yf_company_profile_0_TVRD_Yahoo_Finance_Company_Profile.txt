@@ -1,0 +1,9 @@
+Company: Tvardi Therapeutics Inc. Common Stock
+Ticker: TVRD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Sugar Land
+Website: https://tvarditherapeutics.com
+Employees: 12
+Business Summary: Tvardi Therapeutics, Inc., a clinical-stage biopharmaceutical company, engages in the development of novel, oral, and small molecule therapies targeting STAT3 to treat fibrosis-driven diseases with significant unmet need in the United States. The company's lead product candidates include TTI-101, which is in Phase 2 clinical development stage for fibrosis-driven diseases with an initial focus on idiopathic pulmonary fibrosis (IPF), and hepatocellular carcinoma (HCC); and TTI-109, an oral, small molecule STAT3 inhibitor which is in pre-clinical stage. Tvardi Therapeutics, Inc. was founded in 2017 and is based in Sugar Land, Texas.

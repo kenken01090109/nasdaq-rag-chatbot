@@ -1,0 +1,8 @@
+Company: Agencia Comercial Spirits Ltd Class A Ordinary Shares
+Ticker: AGCC
+Total Cash: 825343
+Total Debt: 236313
+Debt To Equity: 7.041
+Current Ratio: 1.861
+Quick Ratio: 0.719
+Book Value: 0.188

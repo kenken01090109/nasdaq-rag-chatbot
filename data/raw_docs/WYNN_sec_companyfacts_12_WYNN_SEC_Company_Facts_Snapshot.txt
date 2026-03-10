@@ -1,0 +1,11 @@
+Company: Wynn Resorts Limited Common stock
+Ticker: WYNN
+CIK: 0001174922
+Latest SEC XBRL Facts:
+Revenues: 5030074000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+NetIncomeLoss: 227306000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 12802172000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 13943642000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -370042000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 874637000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1486291000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

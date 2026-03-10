@@ -1,0 +1,25 @@
+Company: Autodesk Inc. Common Stock
+Ticker: ADSK
+Market Cap: 55329878016
+Enterprise Value: 55866318848
+Total Revenue: 7206000128
+Revenue Per Share: 33.831
+EBITDA: 1906000000
+Gross Margins: 0.92326
+Operating Margins: 0.27236
+Profit Margins: 0.15597999
+Free Cashflow: 2787000064
+Operating Cashflow: 2452000000
+Return On Assets: 0.096999995
+Return On Equity: 0.39675
+Total Cash: 2596999936
+Total Debt: 2734000128
+Debt To Equity: 89.787
+Current Ratio: 0.851
+Quick Ratio: 0.695
+Trailing PE: 49.902485
+Forward PE: 18.534668
+Price To Book: 18.170994
+Beta: 1.467
+52 Week High: 329.09
+52 Week Low: 215.01

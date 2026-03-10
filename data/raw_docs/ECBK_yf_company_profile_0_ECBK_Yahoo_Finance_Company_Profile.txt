@@ -1,0 +1,9 @@
+Company: ECB Bancorp Inc. Common Stock
+Ticker: ECBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Everett
+Website: https://www.everettbank.com
+Employees: 
+Business Summary: ECB Bancorp, Inc. operating as a holding company for Everett Co-operative Bank that provides various banking products and services. The company accepts various deposit products, including certificate of deposit accounts, IRAs, money market accounts, savings accounts, demand deposit accounts, and interest-bearing and noninterest-bearing checking accounts. It also offers one- to four-family residential real estate, commercial real estate and multifamily real estate, construction and land, commercial, and consumer loans, as well as home equity loans and lines of credit. In addition, the company invests in securities, consisting primarily of U.S. government and federal agency obligations, mortgage-backed securities, and corporate bonds. The company was founded in 1890 and is based in Everett, Massachusetts.

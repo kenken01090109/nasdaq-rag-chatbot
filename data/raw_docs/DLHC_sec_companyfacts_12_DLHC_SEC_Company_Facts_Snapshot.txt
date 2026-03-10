@@ -1,0 +1,10 @@
+Company: DLH Holdings Corp.
+Ticker: DLHC
+CIK: 0000785557
+Latest SEC XBRL Facts:
+Revenues: 24114000 | unit=USD | filed=2012-05-15 | period_end=2012-03-31
+Assets: 283508000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 171320000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 112188000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -4770000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 257000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

@@ -1,0 +1,11 @@
+Company: The Trade Desk Inc. Class A Common Stock
+Ticker: TTD
+CIK: 0001671933
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2049493000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 256354000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 5940401000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3339615000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2600786000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 681132000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 653134000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

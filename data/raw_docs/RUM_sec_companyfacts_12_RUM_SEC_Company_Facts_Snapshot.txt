@@ -1,0 +1,12 @@
+Company: Rumble Inc. Class A Common Stock
+Ticker: RUM
+CIK: 0001830081
+Latest SEC XBRL Facts:
+Revenues: 73553866 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 987500 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetIncomeLoss: -49136885 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 367174300 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 64943669 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 302230631 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -41004032 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 269757150 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

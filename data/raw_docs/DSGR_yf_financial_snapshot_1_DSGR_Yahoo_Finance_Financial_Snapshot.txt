@@ -1,0 +1,25 @@
+Company: Distribution Solutions Group Inc. Common Stock
+Ticker: DSGR
+Market Cap: 1022216896
+Enterprise Value: 1768837760
+Total Revenue: 1980023040
+Revenue Per Share: 42.709
+EBITDA: 159142000
+Gross Margins: 0.33436
+Operating Margins: 0.00759
+Profit Margins: 0.00421
+Free Cashflow: 46961376
+Operating Cashflow: 83849000
+Return On Assets: 0.02815
+Return On Equity: 0.012940001
+Total Cash: 61753000
+Total Debt: 819110976
+Debt To Equity: 126.144
+Current Ratio: 2.563
+Quick Ratio: 1.143
+Trailing PE: 
+Forward PE: 11.75
+Price To Book: 1.571012
+Beta: 
+52 Week High: 33.8
+52 Week Low: 21.27

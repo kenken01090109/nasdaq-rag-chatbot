@@ -1,0 +1,9 @@
+Company: CO2 Energy Transition Corp. Warrant
+Ticker: NOEMW
+CIK: 0001956648
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1260098 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 71922124 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2692669 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -1661722 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -689461 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

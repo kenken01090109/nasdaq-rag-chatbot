@@ -1,0 +1,11 @@
+Company: Maison Solutions Inc. Class A Common Stock
+Ticker: MSS
+CIK: 0001892292
+Latest SEC XBRL Facts:
+Revenues: 54789637 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+NetIncomeLoss: -6509275 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+Assets: 75439211 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+Liabilities: 63967446 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+StockholdersEquity: 11618267 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -636479 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 1070802 | unit=USD | filed=2025-09-22 | period_end=2025-07-31

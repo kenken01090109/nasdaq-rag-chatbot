@@ -1,0 +1,12 @@
+Company: Green Plains Inc. Common Stock
+Ticker: GPRE
+CIK: 0001309402
+Latest SEC XBRL Facts:
+Revenues: 1662831000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 146764000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -133218000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1532483000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 757534000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 768923000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 43523000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 135903000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

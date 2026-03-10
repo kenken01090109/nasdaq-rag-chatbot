@@ -1,0 +1,9 @@
+Company: Stran & Company Inc. Common Stock
+Ticker: SWAG
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: United States
+City: Quincy
+Website: https://www.stran.com
+Employees: 153
+Business Summary: Stran & Company, Inc. provides outsourced marketing solutions in the United States, Canada, and Europe. The company operates through Stran & Company, Inc. (Stran) and Stran Loyalty Solutions, LLC (SLS) segments. The company offers clients custom sourcing services; and e-commerce solutions for promoting branded merchandise and other promotional products, managing promotional loyalty and incentives, print collateral and event assets, order and inventory management, designing and hosting online retail popup shops, fixed public retail online stores, and online business-to-business service offerings. It also provides creative and merchandising services; warehousing/fulfillment and distribution; print-on-demand services; kitting services; point of sale displays; and loyalty and incentive programs. In addition, the company offers e-store, logistical support, and other promotional services. It serves pharmaceutical and healthcare, manufacturing, gaming, technology, finance, construction, and consumer goods industries through factories, decorators, printers, logistics firms, and warehouses. The company was founded in 1994 and is headquartered in Quincy, Massachusetts.

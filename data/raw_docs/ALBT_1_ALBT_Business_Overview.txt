@@ -1,0 +1,7 @@
+Company: Avalon GloboCare Corp. Common Stock
+Ticker: ALBT
+Business Summary: Avalon GloboCare Corp., together with its subsidiaries, owns and operates commercial real estate properties in the United States. It also distributes the KetoAir device, which is a breathalyzer system that detects acetone levels in exhaled breath; and the AI Nutritionist software program that helps users monitor and manage ketogenic diet and related programs. Avalon GloboCare Corp. was founded in 2015 and is headquartered in Freehold, New Jersey.
+Sector: Real Estate
+Industry: Real Estate Services
+Exchange: NCM
+Quote Type: EQUITY

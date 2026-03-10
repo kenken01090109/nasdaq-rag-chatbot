@@ -1,0 +1,25 @@
+Company: Lion Group Holding Ltd. American Depositary Share
+Ticker: LGHL
+Market Cap: 638909
+Enterprise Value: 8908862464
+Total Revenue: -15667815
+Revenue Per Share: -279.698
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 2.3819501
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -7778960
+Return On Assets: -0.5711
+Return On Equity: -2.06819
+Total Cash: 22874436
+Total Debt: 11168654
+Debt To Equity: 252.078
+Current Ratio: 0.876
+Quick Ratio: 0.861
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.034541365
+Beta: 2.662
+52 Week High: 83.2
+52 Week Low: 1.03

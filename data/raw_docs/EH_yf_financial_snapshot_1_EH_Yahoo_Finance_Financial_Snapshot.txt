@@ -1,0 +1,25 @@
+Company: EHang Holdings Limited ADS
+Ticker: EH
+Market Cap: 828545728
+Enterprise Value: 1056025728
+Total Revenue: 430004000
+Revenue Per Share: 5.945
+EBITDA: -301712736
+Gross Margins: 0.61456
+Operating Margins: -0.99184996
+Profit Margins: -0.66950995
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.11903
+Return On Equity: -0.32062
+Total Cash: 1096839936
+Total Debt: 468216000
+Debt To Equity: 44.501
+Current Ratio: 2.329
+Quick Ratio: 1.903
+Trailing PE: 
+Forward PE: 35.342285
+Price To Book: 5.6038775
+Beta: 1.03
+52 Week High: 25.79
+52 Week Low: 11.071

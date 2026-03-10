@@ -1,0 +1,12 @@
+Company: Immunocore Holdings plc American Depositary Shares
+Ticker: IMCR
+CIK: 0001671927
+Latest SEC XBRL Facts:
+Revenues: 226150000 | unit=USD | filed=2024-11-06 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 295538000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -5454000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1102500000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 705936000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 396564000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21943000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 498413000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

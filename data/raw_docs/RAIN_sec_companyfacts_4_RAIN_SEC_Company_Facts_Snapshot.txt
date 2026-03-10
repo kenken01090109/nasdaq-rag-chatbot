@@ -1,0 +1,10 @@
+Company: Rain Enhancement Technologies Holdco Inc. Class A Common Stock
+Ticker: RAIN
+CIK: 0002028293
+Latest SEC XBRL Facts:
+NetIncomeLoss: -4635399 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1942011 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11517588 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -9575577 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1624312 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 273125 | unit=USD | filed=2025-05-15 | period_end=2025-03-31

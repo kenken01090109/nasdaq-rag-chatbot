@@ -1,0 +1,9 @@
+Company: 22nd Century Group Inc. Common Stock
+Ticker: XXII
+Sector: Consumer Defensive
+Industry: Tobacco
+Country: United States
+City: Mocksville
+Website: https://www.xxiicentury.com
+Employees: 56
+Business Summary: 22nd Century Group, Inc., a tobacco products company, manufactures, distributes, and sells proprietary new reduced nicotine tobacco products in the United States. The company offers reduced nicotine content tobacco and very low nicotine combustible cigarette products. It also provides contract manufacturing services for conventional combustible tobacco products for third-party brands, as well as turnkey contract manufacturing of cigarettes and filtered cigars for other established tobacco brands. 22nd Century Group, Inc. was founded in 1998 and is headquartered in Mocksville, North Carolina.

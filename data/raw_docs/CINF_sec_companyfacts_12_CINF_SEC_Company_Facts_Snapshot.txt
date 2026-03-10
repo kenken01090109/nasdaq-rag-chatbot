@@ -1,0 +1,12 @@
+Company: Cincinnati Financial Corporation Common Stock
+Ticker: CINF
+CIK: 0000020286
+Latest SEC XBRL Facts:
+Revenues: 9540000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4697000000 | unit=USD | filed=2018-10-25 | period_end=2018-09-30
+NetIncomeLoss: 1717000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Assets: 40567000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Liabilities: 25161000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+StockholdersEquity: 15406000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2165000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1460000000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30

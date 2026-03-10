@@ -1,0 +1,9 @@
+Company: eXp World Holdings Inc. Common Stock
+Ticker: EXPI
+Sector: Real Estate
+Industry: Real Estate Services
+Country: United States
+City: Bellingham
+Website: https://expworldholdings.com
+Employees: 1834
+Business Summary: eXp World Holdings, Inc., together with its subsidiaries, provides cloud-based real estate brokerage services for residential homeowners and homebuyers. It operates through three segments: North American Realty, International Realty, and Other Affiliated Services. The company acts as a licensed broker for processing residential and commercial real estate transactions; and provides other real estate support services. It also offers FrameVR.io, a web-accessible proprietary technology offering immersive 3D platforms; magazine and its related media properties which provide training, classes, resources, and tools under the SUCCESS bran. It operates in Americas, Europe, the Middle East, Asia-Pacific, and South Africa. eXp World Holdings, Inc. was formerly known as eXp Realty International Corporation and changed its name to eXp World Holdings, Inc. in May 2016. The company was incorporated in 2008 and is headquartered in Bellingham, Washington.

@@ -1,0 +1,25 @@
+Company: Cantor Equity Partners II Inc. Class A Ordinary Share
+Ticker: CEPT
+Market Cap: 338214816
+Enterprise Value: 338268032
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -23019
+Return On Assets: 
+Return On Equity: 
+Total Cash: 25000
+Total Debt: 78222
+Debt To Equity: 
+Current Ratio: 2.177
+Quick Ratio: 0.289
+Trailing PE: 92.16667
+Forward PE: 
+Price To Book: -97.01755
+Beta: 
+52 Week High: 13.74
+52 Week Low: 10.325

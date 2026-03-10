@@ -1,0 +1,25 @@
+Company: Skye Bioscience Inc. Common Stock
+Ticker: SKYE
+Market Cap: 23094194
+Enterprise Value: -11332057
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -53217688
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -14401440
+Operating Cashflow: -41469144
+Return On Assets: -0.54876
+Return On Equity: -0.94311
+Total Cash: 35312308
+Total Debt: 321845
+Debt To Equity: 0.98
+Current Ratio: 4.771
+Quick Ratio: 4.222
+Trailing PE: 
+Forward PE: -0.6210345
+Price To Book: 0.67962265
+Beta: 2.863
+52 Week High: 5.75
+52 Week Low: 0.684

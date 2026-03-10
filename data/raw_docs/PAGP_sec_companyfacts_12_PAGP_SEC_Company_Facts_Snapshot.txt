@@ -1,0 +1,9 @@
+Company: Plains GP Holdings L.P. Class A Units representing Limited Partner Interests
+Ticker: PAGP
+CIK: 0001581990
+Latest SEC XBRL Facts:
+Revenues: 33698000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 198000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 29252000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2147000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1181000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

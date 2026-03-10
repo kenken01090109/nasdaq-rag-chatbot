@@ -1,0 +1,12 @@
+Company: Hackett Group Inc (The). Common Stock
+Ticker: HCKT
+CIK: 0001057379
+Latest SEC XBRL Facts:
+Revenues: 72733000 | unit=USD | filed=2018-05-09 | period_end=2018-03-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 229875000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+NetIncomeLoss: 7351000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+Assets: 200657000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+Liabilities: 99033000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+StockholdersEquity: 101624000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 21237000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 13895000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26

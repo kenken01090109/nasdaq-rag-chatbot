@@ -1,0 +1,12 @@
+Company: Monarch Casino & Resort Inc. Common Stock
+Ticker: MCRI
+CIK: 0000907242
+Latest SEC XBRL Facts:
+Revenues: 395377000 | unit=USD | filed=2022-02-28 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 405122000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 78448000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 725384000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 167008000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 558376000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 126612000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23817000 | unit=USD | filed=2019-05-08 | period_end=2019-03-31

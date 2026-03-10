@@ -1,0 +1,9 @@
+Company: Culp Inc. Common Stock
+Ticker: CULP
+Sector: Consumer Cyclical
+Industry: Textile Manufacturing
+Country: United States
+City: High Point
+Website: https://www.culp.com
+Employees: 829
+Business Summary: Culp, Inc. manufactures, sources, and sells fabrics and mattress covers, sewn covers, and cut and sewn kits for use in mattresses, foundations, and other bedding products in the United States, North America, the Far East, Asia, and internationally. The company operates through two segments, Mattress Fabrics and Upholstery Fabrics. The Mattress Fabrics segment offers woven jacquard, knitted, sewn mattress covers and converted fabrics for use in the production of bedding products, including mattresses, box springs, foundations, and top of bed components. The Upholstery Fabrics segment provides jacquard woven fabrics, velvets, woven dobbies, microdenier suedes and polyurethane fabrics for use in the production of residential and commercial upholstered furniture, including sofas, recliners, chairs, loveseats, sectionals, sofa-beds, and seating for offices, healthcare facilities; hospitality industry, including seating for restaurants, hotels, and theaters and window treatment products; and installation services for customers in the hospitality and commercial industries. Culp, Inc. was founded in 1972 and is headquartered in High Point, North Carolina.

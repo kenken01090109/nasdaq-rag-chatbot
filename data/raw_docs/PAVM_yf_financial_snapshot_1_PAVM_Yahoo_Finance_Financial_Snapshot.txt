@@ -1,0 +1,25 @@
+Company: PAVmed Inc. Common Stock
+Ticker: PAVM
+Market Cap: 9599790
+Enterprise Value: 32839566
+Total Revenue: 29000
+Revenue Per Share: 0.054
+EBITDA: -20034000
+Gross Margins: 0.0
+Operating Margins: -968.8
+Profit Margins: 106.724144
+Free Cashflow: -11932125
+Operating Cashflow: -3561000
+Return On Assets: -0.36778998
+Return On Equity: 0.17438999
+Total Cash: 3365000
+Total Debt: 9280000
+Debt To Equity: 35.987
+Current Ratio: 0.401
+Quick Ratio: 0.322
+Trailing PE: 
+Forward PE: -0.60935605
+Price To Book: 0.9472727
+Beta: 0.88
+52 Week High: 28.44
+52 Week Low: 6.0

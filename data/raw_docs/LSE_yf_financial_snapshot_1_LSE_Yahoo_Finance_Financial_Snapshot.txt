@@ -1,0 +1,25 @@
+Company: Leishen Energy Holding Co. Ltd. Class A Ordinary Shares
+Ticker: LSE
+Market Cap: 91594504
+Enterprise Value: 67401840
+Total Revenue: 48335552
+Revenue Per Share: 2.898
+EBITDA: -1196562
+Gross Margins: 0.17638999
+Operating Margins: 0.02762
+Profit Margins: 0.02595
+Free Cashflow: -32109
+Operating Cashflow: -3522067
+Return On Assets: -0.014989999
+Return On Equity: 0.029760001
+Total Cash: 29356412
+Total Debt: 3776990
+Debt To Equity: 8.309
+Current Ratio: 2.543
+Quick Ratio: 1.967
+Trailing PE: 67.25
+Forward PE: 
+Price To Book: 2.0157363
+Beta: 
+52 Week High: 14.99
+52 Week Low: 3.8

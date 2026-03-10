@@ -1,0 +1,25 @@
+Company: First Seacoast Bancorp Inc. Common Stock
+Ticker: FSEA
+Market Cap: 60709444
+Enterprise Value: 95890784
+Total Revenue: 14753000
+Revenue Per Share: 3.513
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -0.0173
+Profit Margins: -0.14682001
+Free Cashflow: 
+Operating Cashflow: -683000
+Return On Assets: -0.00358
+Return On Equity: -0.03359
+Total Cash: 19199000
+Total Debt: 58848000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.89046764
+Beta: -0.032
+52 Week High: 15.0
+52 Week Low: 10.13

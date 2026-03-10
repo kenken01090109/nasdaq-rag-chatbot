@@ -1,0 +1,25 @@
+Company: YY Group Holding Limited Class A Ordinary Shares
+Ticker: YYGH
+Market Cap: 6782593
+Enterprise Value: 13531415
+Total Revenue: 47598368
+Revenue Per Share: 1.382
+EBITDA: -8918429
+Gross Margins: 0.15019
+Operating Margins: -0.17212999
+Profit Margins: -0.28753
+Free Cashflow: 1362868
+Operating Cashflow: 344204
+Return On Assets: -0.1991
+Return On Equity: -0.87466
+Total Cash: 4445071
+Total Debt: 8172156
+Debt To Equity: 32.831
+Current Ratio: 1.139
+Quick Ratio: 1.119
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.21046728
+Beta: 
+52 Week High: 3.45
+52 Week Low: 0.1055

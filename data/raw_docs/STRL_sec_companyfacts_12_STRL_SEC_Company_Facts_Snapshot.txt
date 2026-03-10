@@ -1,0 +1,12 @@
+Company: Sterling Infrastructure Inc. Common Stock
+Ticker: STRL
+CIK: 0000874238
+Latest SEC XBRL Facts:
+Revenues: 222492000 | unit=USD | filed=2018-05-08 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1734436000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 202556000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2562267000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1477272000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1051126000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 253937000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 306395000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

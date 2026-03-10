@@ -1,0 +1,25 @@
+Company: Senstar Technologies Corporation Common Shares
+Ticker: SNT
+Market Cap: 71161536
+Enterprise Value: 51263440
+Total Revenue: 37837000
+Revenue Per Share: 1.622
+EBITDA: 5229000
+Gross Margins: 0.66189003
+Operating Margins: 0.12084
+Profit Margins: 0.12829
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.05538
+Return On Equity: 0.12056
+Total Cash: 21664000
+Total Debt: 366000
+Debt To Equity: 0.857
+Current Ratio: 4.349
+Quick Ratio: 3.742
+Trailing PE: 14.523809
+Forward PE: 
+Price To Book: 1.6666666
+Beta: 1.3
+52 Week High: 5.34
+52 Week Low: 2.57

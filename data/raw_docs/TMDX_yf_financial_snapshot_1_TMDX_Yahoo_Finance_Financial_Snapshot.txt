@@ -1,0 +1,25 @@
+Company: TransMedics Group Inc. Common Stock
+Ticker: TMDX
+Market Cap: 4445940736
+Enterprise Value: 4483369984
+Total Revenue: 605494016
+Revenue Per Share: 17.812
+EBITDA: 134468000
+Gross Margins: 0.59919
+Operating Margins: 0.13232
+Profit Margins: 0.31427
+Free Cashflow: 94003624
+Operating Cashflow: 192840000
+Return On Assets: 0.07249
+Return On Equity: 0.54237
+Total Cash: 488366016
+Total Debt: 519278016
+Debt To Equity: 109.761
+Current Ratio: 7.142
+Quick Ratio: 6.412
+Trailing PE: 26.613964
+Forward PE: 35.742157
+Price To Book: 9.387947
+Beta: 1.955
+52 Week High: 156.0
+52 Week Low: 62.23

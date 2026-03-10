@@ -1,0 +1,25 @@
+Company: Bionano Genomics Inc. Common Stock
+Ticker: BNGO
+Market Cap: 11397120
+Enterprise Value: 7112880
+Total Revenue: 28720000
+Revenue Per Share: 8.747
+EBITDA: -16128000
+Gross Margins: 0.45971
+Operating Margins: -1.15895
+Profit Margins: -1.34356
+Free Cashflow: 2821000
+Operating Cashflow: -18674000
+Return On Assets: -0.19315
+Return On Equity: -0.78217006
+Total Cash: 21581000
+Total Debt: 17195000
+Debt To Equity: 34.529
+Current Ratio: 2.124
+Quick Ratio: 1.136
+Trailing PE: 
+Forward PE: -0.4497992
+Price To Book: 0.21883549
+Beta: 1.718
+52 Week High: 5.5
+52 Week Low: 1.06

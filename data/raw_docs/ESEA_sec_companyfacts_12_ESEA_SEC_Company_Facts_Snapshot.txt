@@ -1,0 +1,11 @@
+Company: Euroseas Ltd. Common Stock (Marshall Islands)
+Ticker: ESEA
+CIK: 0001341170
+Latest SEC XBRL Facts:
+Revenues: 113579814 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: 66776511 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Assets: 662108899 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 259128861 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+StockholdersEquity: 402980038 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 68458904 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 100506369 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: CarGurus Inc. Class A Common Stock
+Ticker: CARG
+Market Cap: 3212954880
+Enterprise Value: 3255783936
+Total Revenue: 906979968
+Revenue Per Share: 9.176
+EBITDA: 259490000
+Gross Margins: 0.92781997
+Operating Margins: 0.28672
+Profit Margins: 0.17188999
+Free Cashflow: 219400992
+Operating Cashflow: 295280000
+Return On Assets: 0.20598
+Return On Equity: 0.42962003
+Total Cash: 190518000
+Total Debt: 190832992
+Debt To Equity: 50.998
+Current Ratio: 2.814
+Quick Ratio: 2.312
+Trailing PE: 17.17347
+Forward PE: 11.544517
+Price To Book: 8.534483
+Beta: 1.414
+52 Week High: 39.42
+52 Week Low: 24.65

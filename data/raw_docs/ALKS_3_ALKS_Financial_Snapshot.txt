@@ -1,0 +1,12 @@
+Company: Alkermes plc Ordinary Shares
+Ticker: ALKS
+Total Revenue: 1475899008
+Revenue Per Share: 8.961
+Gross Margins: 0.86689
+Operating Margins: 0.1511
+EBITDA: 281120992
+Profit Margins: 0.16374001
+Free Cashflow: -363090624
+Operating Cashflow: 520753984
+Return On Assets: 0.06988
+Return On Equity: 0.14716

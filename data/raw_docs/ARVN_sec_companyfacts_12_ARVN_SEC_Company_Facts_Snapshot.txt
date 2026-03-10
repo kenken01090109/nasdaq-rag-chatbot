@@ -1,0 +1,12 @@
+Company: Arvinas Inc. Common Stock
+Ticker: ARVN
+CIK: 0001655759
+Latest SEC XBRL Facts:
+Revenues: 253100000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20300000 | unit=USD | filed=2021-11-03 | period_end=2021-09-30
+NetIncomeLoss: -13400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 844300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 279900000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 564400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -243400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 101500000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Palantir Technologies Inc. Class A Common Stock
+Ticker: PLTR
+CIK: 0001321655
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3068644000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 1016357000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 8113960000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1425691000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 6590457000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1357178000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1615967000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

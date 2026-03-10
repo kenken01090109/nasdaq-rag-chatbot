@@ -1,0 +1,11 @@
+Company: Nutanix Inc. Class A Common Stock
+Ticker: NTNX
+CIK: 0001618732
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1393401000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+NetIncomeLoss: 165118000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+Assets: 3276933000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+Liabilities: 4108220000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+StockholdersEquity: -831287000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 394171000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 603402000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31

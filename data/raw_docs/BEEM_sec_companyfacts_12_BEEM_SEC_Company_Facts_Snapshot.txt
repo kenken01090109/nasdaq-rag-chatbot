@@ -1,0 +1,12 @@
+Company: Beam Global Common Stock
+Ticker: BEEM
+CIK: 0001398805
+Latest SEC XBRL Facts:
+Revenues: 19187000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4009644 | unit=USD | filed=2020-11-12 | period_end=2020-09-30
+NetIncomeLoss: -24671000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 44601000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 18080000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 26521000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6712000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3348000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

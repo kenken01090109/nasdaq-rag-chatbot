@@ -1,0 +1,11 @@
+Company: Baidu Inc. ADS
+Ticker: BIDU
+CIK: 0001329099
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 18238000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+NetIncomeLoss: 3255000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+Assets: 58606000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+Liabilities: 19751000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+StockholdersEquity: 36116000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 2909000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3402000000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31

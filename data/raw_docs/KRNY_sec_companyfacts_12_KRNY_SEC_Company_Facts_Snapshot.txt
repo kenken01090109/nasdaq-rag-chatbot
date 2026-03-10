@@ -1,0 +1,10 @@
+Company: Kearny Financial Corp Common Stock
+Ticker: KRNY
+CIK: 0001617242
+Latest SEC XBRL Facts:
+NetIncomeLoss: 18955000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 7620878000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 6863482000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 757396000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 15815000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 147340000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

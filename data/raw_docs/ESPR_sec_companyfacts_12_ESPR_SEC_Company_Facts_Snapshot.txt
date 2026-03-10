@@ -1,0 +1,11 @@
+Company: Esperion Therapeutics Inc. Common Stock
+Ticker: ESPR
+CIK: 0001434868
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 234689000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -84513000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 364020000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 815381000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -451361000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -58336000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 92447000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

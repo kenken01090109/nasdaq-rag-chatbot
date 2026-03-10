@@ -1,0 +1,25 @@
+Company: ImageneBio Inc. Common Stock
+Ticker: IMA
+Market Cap: 65300988
+Enterprise Value: -74806224
+Total Revenue: 800000
+Revenue Per Share: 0.002
+EBITDA: -46065000
+Gross Margins: 1.0
+Operating Margins: -57.61125
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -44101000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 142583008
+Total Debt: 3445000
+Debt To Equity: 2.464
+Current Ratio: 13.239
+Quick Ratio: 12.86
+Trailing PE: 
+Forward PE: -1.3333334
+Price To Book: 0.44481683
+Beta: 
+52 Week High: 18.12
+52 Week Low: 5.7

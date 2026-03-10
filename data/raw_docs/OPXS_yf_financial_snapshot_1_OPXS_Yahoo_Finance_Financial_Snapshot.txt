@@ -1,0 +1,25 @@
+Company: Optex Systems Holdings Inc. Common Stock
+Ticker: OPXS
+Market Cap: 90393776
+Enterprise Value: 86105064
+Total Revenue: 42284000
+Revenue Per Share: 6.142
+EBITDA: 6841000
+Gross Margins: 0.28439
+Operating Margins: 0.01629
+Profit Margins: 0.107489996
+Free Cashflow: 2402125
+Operating Cashflow: 4038000
+Return On Assets: 0.14461
+Return On Equity: 0.20432
+Total Cash: 5841000
+Total Debt: 1784000
+Debt To Equity: 7.21
+Current Ratio: 5.865
+Quick Ratio: 2.375
+Trailing PE: 20.046154
+Forward PE: 
+Price To Book: 3.6264958
+Beta: 0.718
+52 Week High: 17.76
+52 Week Low: 5.36

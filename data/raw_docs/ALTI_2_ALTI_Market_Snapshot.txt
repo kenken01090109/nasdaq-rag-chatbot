@@ -1,0 +1,10 @@
+Company: AlTi Global Inc. Class A Common Stock
+Ticker: ALTI
+Market Cap: 637524224
+Enterprise Value: 1087474048
+Trailing PE: 
+Forward PE: 15.428572
+Price To Book: 1.6551726
+Beta: 0.757
+52 Week High: 5.445
+52 Week Low: 2.33

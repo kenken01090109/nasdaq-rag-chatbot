@@ -1,0 +1,7 @@
+Company: Alignment Healthcare Inc. Common Stock
+Ticker: ALHC
+Business Summary: Alignment Healthcare, Inc. operates a consumer-centric healthcare platform for seniors in the United States. It delivers customized healthcare experience to meet the needs of seniors through its Medicare Advantage plans. Alignment Healthcare, Inc. was founded in 2013 and is based in Orange, California.
+Sector: Healthcare
+Industry: Healthcare Plans
+Exchange: NMS
+Quote Type: EQUITY

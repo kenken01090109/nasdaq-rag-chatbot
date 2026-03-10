@@ -1,0 +1,25 @@
+Company: Datadog Inc. Class A Common Stock
+Ticker: DDOG
+Market Cap: 44336443392
+Enterprise Value: 39945379840
+Total Revenue: 3427158016
+Revenue Per Share: 9.868
+EBITDA: 7529000
+Gross Margins: 0.79976
+Operating Margins: 0.0100300005
+Profit Margins: 0.03144
+Free Cashflow: 879646720
+Operating Cashflow: 1050134976
+Return On Assets: -0.0043
+Return On Equity: 0.03343
+Total Cash: 4474835968
+Total Debt: 1279005056
+Debt To Equity: 34.269
+Current Ratio: 3.382
+Quick Ratio: 3.278
+Trailing PE: 405.64517
+Forward PE: 47.55422
+Price To Book: 11.877775
+Beta: 1.36
+52 Week High: 201.69
+52 Week Low: 81.63

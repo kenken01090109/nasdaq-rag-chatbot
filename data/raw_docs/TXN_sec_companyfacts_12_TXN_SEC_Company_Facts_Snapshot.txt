@@ -1,0 +1,11 @@
+Company: Texas Instruments Incorporated Common Stock
+Ticker: TXN
+CIK: 0000097476
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13259000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 3838000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 35004000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 18377000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 16627000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4899000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3311000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

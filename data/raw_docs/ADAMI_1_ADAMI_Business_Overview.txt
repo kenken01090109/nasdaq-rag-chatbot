@@ -1,0 +1,7 @@
+Company: Adamas Trust Inc. 9.125% Senior Notes Due 2029
+Ticker: ADAMI
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NMS
+Quote Type: EQUITY

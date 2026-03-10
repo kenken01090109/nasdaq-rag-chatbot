@@ -1,0 +1,11 @@
+Company: Navitas Semiconductor Corporation Common Stock
+Ticker: NVTS
+CIK: 0001821769
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 38620000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -44739000 | unit=USD | filed=2024-11-05 | period_end=2024-09-30
+Assets: 430207000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 59222000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 403350000 | unit=USD | filed=2023-11-09 | period_end=2023-09-30
+NetCashProvidedByUsedInOperatingActivities: -34783000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 150551000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

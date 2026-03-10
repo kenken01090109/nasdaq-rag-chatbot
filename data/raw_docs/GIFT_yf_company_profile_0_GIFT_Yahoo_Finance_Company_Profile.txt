@@ -1,0 +1,9 @@
+Company: Giftify Inc. Common Stock
+Ticker: GIFT
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Schaumburg
+Website: https://www.rdeholdings.com
+Employees: 42
+Business Summary: Giftify, Inc. owns and operates a restaurant deal space in the United States. The company operates Restaurant.com that connects digital consumers, businesses, and communities with dining and merchant deal options at restaurants and retailers. It also sells discount certificates for restaurants, as well as complementary entertainment and travel offerings, and consumer products. In addition, the company operates CardCash, a gift card exchange platform that facilitates the purchase and sale of unused gift cards at discounted rates for consumers and businesses. The company was founded in 1999 and is based in Schaumburg, Illinois.

@@ -1,0 +1,25 @@
+Company: Amphastar Pharmaceuticals Inc. Common Stock
+Ticker: AMPH
+Market Cap: 888715072
+Enterprise Value: 1250649088
+Total Revenue: 719886976
+Revenue Per Share: 15.401
+EBITDA: 220198000
+Gross Margins: 0.4946
+Operating Margins: 0.19445999
+Profit Margins: 0.13626
+Free Cashflow: 81365248
+Operating Cashflow: 156115008
+Return On Assets: 0.06373
+Return On Equity: 0.12898
+Total Cash: 282812000
+Total Debt: 656001984
+Debt To Equity: 83.164
+Current Ratio: 4.021
+Quick Ratio: 2.804
+Trailing PE: 9.527094
+Forward PE: 5.5421987
+Price To Book: 1.1191483
+Beta: 0.921
+52 Week High: 31.26
+52 Week Low: 18.935

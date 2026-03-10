@@ -1,0 +1,9 @@
+Company: WM Technology Inc. Class A Common Stock
+Ticker: MAPS
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Irvine
+Website: https://weedmaps.com
+Employees: 440
+Business Summary: WM Technology, Inc., an online cannabis marketplace, provides ecommerce and compliance software solutions to retailers and brands in cannabis market in the United States and internationally. The company offers Weedmaps marketplace that allows cannabis users to search for and browse cannabis products from retailers and brands, and reserve products from local retailers; and education and learning information to help newer consumers learn about the types of products to purchase. It also provides monthly subscription-based business software solutions, including WM Listings, WM Orders, WM Store, WM Connectors, and WM Insights as well as other add-on products, such as WM Ads and WM Dispatch. WM Technology, Inc. was founded in 2008 and is headquartered in Irvine, California.

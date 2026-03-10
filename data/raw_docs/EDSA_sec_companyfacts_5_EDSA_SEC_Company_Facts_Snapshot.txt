@@ -1,0 +1,11 @@
+Company: Edesa Biotech Inc. Common Shares
+Ticker: EDSA
+CIK: 0001540159
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2021-08-13 | period_end=2021-06-30
+NetIncomeLoss: -2247669 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 14710442 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 2360627 | unit=USD | filed=2024-08-09 | period_end=2024-06-30
+StockholdersEquity: 13954279 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -2087334 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 12100000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

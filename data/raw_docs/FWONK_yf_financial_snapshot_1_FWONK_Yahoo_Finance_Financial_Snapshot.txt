@@ -1,0 +1,25 @@
+Company: Liberty Media Corporation Series C Liberty Formula One Common Stock
+Ticker: FWONK
+Market Cap: 20982272000
+Enterprise Value: 25796872192
+Total Revenue: 4481999872
+Revenue Per Share: 17.928
+EBITDA: 997000000
+Gross Margins: 0.33713
+Operating Margins: 0.13475999
+Profit Margins: 0.123830006
+Free Cashflow: 664249984
+Operating Cashflow: 870000000
+Return On Assets: 0.026589999
+Return On Equity: 0.0769
+Total Cash: 1055000000
+Total Debt: 5123999744
+Debt To Equity: 60.639
+Current Ratio: 1.462
+Quick Ratio: 1.367
+Trailing PE: 36.26407
+Forward PE: 39.162426
+Price To Book: 2.704963
+Beta: 0.717
+52 Week High: 109.363
+52 Week Low: 75.26

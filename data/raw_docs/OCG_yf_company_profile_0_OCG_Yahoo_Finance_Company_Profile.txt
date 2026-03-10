@@ -1,0 +1,9 @@
+Company: Oriental Culture Holding LTD Ordinary Shares
+Ticker: OCG
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: Hong Kong
+City: Hong Kong
+Website: https://www.ocgroup.hk
+Employees: 33
+Business Summary: Oriental Culture Holding LTD, through its subsidiaries, operates an online platform to facilitate the e-commerce trading of artwork and collectables in the People's Republic of China and Hong Kong. The company facilitates trading by individual and institutional customers of various collectibles, artworks, and commodities on its online platforms. It also offers online and offline integrated marketing, storage, and technical maintenance services. In addition, the company provides industry solutions and related software products, and system development and technical support services. Further, it engages in developing Wine and Spirits metaverse project. The company was incorporated in 2018 and is headquartered in Hong Kong, Hong Kong.

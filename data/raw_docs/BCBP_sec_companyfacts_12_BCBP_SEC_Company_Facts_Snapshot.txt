@@ -1,0 +1,10 @@
+Company: BCB Bancorp Inc. (NJ) Common Stock
+Ticker: BCBP
+CIK: 0001228454
+Latest SEC XBRL Facts:
+NetIncomeLoss: -498000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3353065000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 3034612000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 318453000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 24077000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 376611000 | unit=USD | filed=2019-11-06 | period_end=2019-09-30

@@ -1,0 +1,12 @@
+Company: Ascent Industries Co. Common Stock
+Ticker: ACNT
+CIK: 0000095953
+Latest SEC XBRL Facts:
+Revenues: 74697000 | unit=USD | filed=2020-05-05 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 56183000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 1906000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 119889000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 32801000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 87088000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -785000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 58042000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

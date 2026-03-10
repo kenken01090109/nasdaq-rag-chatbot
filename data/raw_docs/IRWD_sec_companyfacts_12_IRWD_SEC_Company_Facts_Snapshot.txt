@@ -1,0 +1,11 @@
+Company: Ironwood Pharmaceuticals Inc. Class A Common Stock
+Ticker: IRWD
+CIK: 0001446847
+Latest SEC XBRL Facts:
+Revenues: 69155000 | unit=USD | filed=2018-05-04 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 248442000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 26293000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 396062000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -264157000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 52469000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 140407000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

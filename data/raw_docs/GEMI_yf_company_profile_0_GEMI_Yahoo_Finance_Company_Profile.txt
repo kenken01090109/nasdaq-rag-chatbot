@@ -1,0 +1,9 @@
+Company: Gemini Space Station Inc. Class A Common Stock
+Ticker: GEMI
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: New York
+Website: https://www.gemini.com
+Employees: 
+Business Summary: Gemini Space Station, Inc. develops a crypto platform to buy, sell, and store crypto assets. The company's platform offers crypto assets, including bitcoin and ether; and services, such as derivatives exchange, staking services, an over-the-counter trading desk, institutional-grade custody, stablecoin, a U.S. credit card, and a Web3 studio for NFTs (non-fungible tokens). It serves individual retail users; and institutional investors, including asset managers, hedge funds, proprietary trading firms, and corporations. The company was founded in 2014 and is based in New York, New York.

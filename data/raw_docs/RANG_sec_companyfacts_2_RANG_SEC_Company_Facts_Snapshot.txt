@@ -1,0 +1,10 @@
+Company: Range Capital Acquisition Corp. Ordinary Shares
+Ticker: RANG
+CIK: 0002035644
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3023739 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 119912464 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 203541 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 365380 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -481583 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

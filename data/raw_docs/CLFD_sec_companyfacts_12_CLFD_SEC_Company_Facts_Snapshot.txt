@@ -1,0 +1,12 @@
+Company: Clearfield Inc. Common Stock
+Ticker: CLFD
+CIK: 0000796505
+Latest SEC XBRL Facts:
+Revenues: 85034000 | unit=USD | filed=2019-11-15 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 34341000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -614000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 268050000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 18398000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 249652000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 18116000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 13879000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

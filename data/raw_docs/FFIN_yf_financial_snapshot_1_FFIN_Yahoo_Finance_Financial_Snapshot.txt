@@ -1,0 +1,25 @@
+Company: First Financial Bankshares Inc. Common Stock
+Ticker: FFIN
+Market Cap: 4308316672
+Enterprise Value: 4138408704
+Total Revenue: 602993984
+Revenue Per Share: 4.215
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.57291
+Profit Margins: 0.42053002
+Free Cashflow: 
+Operating Cashflow: 299444992
+Return On Assets: 0.017239999
+Return On Equity: 0.14392
+Total Cash: 257816992
+Total Debt: 84768000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.99435
+Forward PE: 14.296577
+Price To Book: 2.2321165
+Beta: 0.837
+52 Week High: 38.74
+52 Week Low: 28.89

@@ -1,0 +1,25 @@
+Company: Comtech Telecommunications Corp. Common Stock
+Ticker: CMTL
+Market Cap: 148512560
+Enterprise Value: 565437952
+Total Revenue: 494760000
+Revenue Per Share: 13.715
+EBITDA: 34522000
+Gross Margins: 0.30343
+Operating Margins: 0.0035499998
+Profit Margins: -0.04603
+Free Cashflow: 50743500
+Operating Cashflow: 21590000
+Return On Assets: 0.00179
+Return On Equity: -0.07879
+Total Cash: 43635000
+Total Debt: 258292992
+Debt To Equity: 92.564
+Current Ratio: 1.699
+Quick Ratio: 1.172
+Trailing PE: 
+Forward PE: -6.1097565
+Price To Book: 1.7329644
+Beta: 1.07
+52 Week High: 6.21
+52 Week Low: 1.19

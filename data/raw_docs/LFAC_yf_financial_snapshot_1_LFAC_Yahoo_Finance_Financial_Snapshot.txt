@@ -1,0 +1,25 @@
+Company: Leapfrog Acquisition Corporation Class A Ordinary Shares
+Ticker: LFAC
+Market Cap: 195409712
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 75124
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -1105.5555
+Beta: 
+52 Week High: 10.01
+52 Week Low: 9.535

@@ -1,0 +1,9 @@
+Company: Sono Group N.V. Ordinary Shares
+Ticker: SSM
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: Germany
+City: Munich
+Website: https://sonomotors.com
+Employees: 34
+Business Summary: Sono Group N.V. provides solar-powered mobility solutions and solar integration products for the commercial vehicle and automotive industry. The company offers a range of solar integration solutions, including Solar Bus Kit and solar kits for trucks, vans, RVs, refrigeration trailers, and other applications. It also provides complete solar solutions comprising solar panels, telematics and dashboard services, and electrical interfaces and custom integration concepts; solar charge controller (MCU), such as high voltage system and low voltage system; solar modules; and data services and engineering services, such as data service and dashboard integration, electrical interface creation, testing and validation, and custom engineering services. Sono Group N.V. was founded in 2016 and is headquartered in Munich, Germany

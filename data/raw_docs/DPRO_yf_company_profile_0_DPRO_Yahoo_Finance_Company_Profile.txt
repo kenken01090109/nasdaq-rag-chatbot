@@ -1,0 +1,9 @@
+Company: Draganfly Inc. Common Shares
+Ticker: DPRO
+Sector: Technology
+Industry: Computer Hardware
+Country: Canada
+City: Saskatoon
+Website: https://www.draganfly.com
+Employees: 51
+Business Summary: Draganfly Inc. develops, manufactures, and sells cutting-edge unmanned and remote data collection and analysis platforms and systems in the United States and Canada. The company offers quad-copters, fixed wing aircrafts, ground based robots, handheld controllers, and flight training, as well as software used for tracking, live streaming, and data collection. It also operates a health/telehealth platform, a set of technologies that remotely detects various biometrics, such as heart rate, oxygen saturation, and blood pressure. In addition, the company provides sanitary spraying services to indoor and outdoor public gathering spaces, including sport stadiums and fields; and custom engineering, training, flight, spraying, and geographic information systems data services. Further, it is involved in manufacturing of multirotor drones, which includes commander 3 XL, heavy lift, commander2, medical response, long range LiDAR, and Tango2 drones. The company serves public safety, agriculture, industrial inspections, and mapping and surveying markets. Draganfly Inc. was founded in 1998 and is headquartered in Saskatoon, Canada.

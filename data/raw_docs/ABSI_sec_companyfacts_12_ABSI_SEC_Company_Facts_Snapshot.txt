@@ -1,0 +1,11 @@
+Company: Absci Corporation Common Stock
+Ticker: ABSI
+CIK: 0001672688
+Latest SEC XBRL Facts:
+Revenues: 3869000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetIncomeLoss: -85621000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 244992000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 34652000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 210340000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -63743000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9476000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

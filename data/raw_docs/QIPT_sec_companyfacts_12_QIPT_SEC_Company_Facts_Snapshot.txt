@@ -1,0 +1,12 @@
+Company: Quipt Home Medical Corp. Common Shares
+Ticker: QIPT
+CIK: 0001540013
+Latest SEC XBRL Facts:
+Revenues: 80996000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 49012000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -1053000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 280657000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 167663000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 102536000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 8941000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 10543000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

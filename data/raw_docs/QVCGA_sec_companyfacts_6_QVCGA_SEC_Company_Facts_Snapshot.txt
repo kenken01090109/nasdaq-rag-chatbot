@@ -1,0 +1,12 @@
+Company: QVC Group Inc. Series A Common Stock
+Ticker: QVCGA
+CIK: 0001355096
+Latest SEC XBRL Facts:
+Revenues: 9694000000 | unit=USD | filed=2018-11-09 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6553000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -2402000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 7560000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 10535000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -3072000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 30000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1817000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

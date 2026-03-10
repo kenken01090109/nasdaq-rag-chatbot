@@ -1,0 +1,10 @@
+Company: Mattel Inc. Common Stock
+Ticker: MAT
+CIK: 0000063276
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3581163000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 291390000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 6593430000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 2261214000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -203299000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 691893000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

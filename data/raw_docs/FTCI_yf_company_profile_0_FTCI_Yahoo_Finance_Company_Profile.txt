@@ -1,0 +1,9 @@
+Company: FTC Solar Inc. Common Stock
+Ticker: FTCI
+Sector: Technology
+Industry: Solar
+Country: United States
+City: Austin
+Website: https://ftcsolar.com
+Employees: 202
+Business Summary: FTC Solar, Inc. engages in the manufacture and service of solar tracker systems in the United States, Asia, Europe, the Middle East, North Africa, South Africa, and Australia. The company provides a two modules-in-portrait solar tracker system under the Voyager brand name; and a one module-in-portrait solar tracker solution under the Pioneer brand name. It offers trackers and software solutions for the utility-scale solar energy markets, as well as project developers, solar asset owners, and engineering, procurement, and construction contractors that design and build solar energy projects. The company was incorporated in 2017 and is headquartered in Austin, Texas.

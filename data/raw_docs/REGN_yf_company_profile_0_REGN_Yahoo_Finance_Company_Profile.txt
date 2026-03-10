@@ -1,0 +1,9 @@
+Company: Regeneron Pharmaceuticals Inc. Common Stock
+Ticker: REGN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Tarrytown
+Website: https://www.regeneron.com
+Employees: 15410
+Business Summary: Regeneron Pharmaceuticals, Inc. discovers, invents, develops, manufactures, and commercializes medicines to treat various diseases worldwide. The company develops product candidates to treat eye, allergic and inflammatory, cardiovascular, metabolic, neurological, infectious, and rare diseases; and cancer, hematologic conditions. It also offers EYLEA injections for wet age-related macular degeneration and diabetic macular edema; myopic choroidal neovascularization; diabetic retinopathy; neovascular glaucoma; retinopathy of prematurity; Dupixent injection to treat atopic dermatitis and asthma; Libtayo injection for metastatic or locally advanced cutaneous squamous cell carcinoma; Praluent injection to treat heterozygous familial hypercholesterolemia (HoFH); and Kevzara solution for rheumatoid arthritis. It has license and collaboration agreement with Bayer for the development and commercialization of EYLEA 8 mg and EYLEA; Alnylam Pharmaceuticals, Inc. to discover, develop, and commercialize RNAi therapeutics for diseases by addressing therapeutic disease targets expressed in the eye and central nervous system; Intellia Therapeutics, Inc. to advance CRISPR/Cas9 gene-editing technology for in vivo therapeutic development for therapies focused on neurological and muscular diseases; Hansoh Pharmaceuticals Group Company Limited to acquire development and commercial rights for HS-20094, a dual GLP-1/GIP receptor; and Tessera Therapeutics, Inc. develops and commercializes TSRA-196, an investigational gene editing therapy for Alpha-1 antitrypsin deficiency. The company was incorporated in 1988 and is based in Tarrytown, New York.

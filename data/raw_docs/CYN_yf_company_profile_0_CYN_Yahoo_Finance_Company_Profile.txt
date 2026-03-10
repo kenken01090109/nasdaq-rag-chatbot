@@ -1,0 +1,9 @@
+Company: Cyngn Inc. Common Stock
+Ticker: CYN
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Mountain View
+Website: https://www.cyngn.com
+Employees: 58
+Business Summary: Cyngn Inc., an autonomous vehicle (AV) technology company, develops autonomous driving software in the United States. The company develops Enterprise Autonomy Suite, which consists of DriveMod, a modular industrial vehicle autonomous driving software; and Cyngn Insight, a customer-facing tool suite for monitoring and managing AV fleets and generating/aggregating/analyzing data. It also develops Cyngn Evolve, an internal tool suite and infrastructure that facilitates artificial intelligence and machine learning training to continuously enhance algorithms and models, as well as provides a simulation framework to ensure that data collected in the field can be applied to validating new releases. Cyngn Inc. was incorporated in 2013 and is headquartered in Mountain View, California.

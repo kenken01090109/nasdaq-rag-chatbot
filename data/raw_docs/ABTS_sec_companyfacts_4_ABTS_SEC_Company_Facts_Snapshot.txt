@@ -1,0 +1,11 @@
+Company: Abits Group Inc Ordinary Shares
+Ticker: ABTS
+CIK: 0001864055
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3669627 | unit=USD | filed=2024-08-16 | period_end=2024-06-30
+NetIncomeLoss: -13964 | unit=USD | filed=2024-08-16 | period_end=2024-06-30
+Assets: 12202014 | unit=USD | filed=2024-08-16 | period_end=2024-06-30
+Liabilities: 990346 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 11281314 | unit=USD | filed=2024-08-16 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -470234 | unit=USD | filed=2024-08-16 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 396583 | unit=USD | filed=2024-08-16 | period_end=2024-06-30

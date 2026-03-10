@@ -1,0 +1,10 @@
+Company: Angi Inc. Class A Common Stock
+Ticker: ANGI
+CIK: 0001705110
+Latest SEC XBRL Facts:
+Revenues: 255311000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 789767000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1747391000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1069502000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 74989000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 340689000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

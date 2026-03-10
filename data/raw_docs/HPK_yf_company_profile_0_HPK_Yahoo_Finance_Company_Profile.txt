@@ -1,0 +1,9 @@
+Company: HighPeak Energy Inc. Common Stock
+Ticker: HPK
+Sector: Energy
+Industry: Oil & Gas E&P
+Country: United States
+City: Fort Worth
+Website: https://www.highpeakenergy.com
+Employees: 47
+Business Summary: HighPeak Energy, Inc. operates as an independent crude oil and natural gas exploration and production company. It engages in the exploration, development, and production of crude oil, natural gas, and natural gas liquids reserves in the Permian Basin in West Texas and Eastern New Mexico. The company was founded in 2019 and is headquartered in Fort Worth, Texas.

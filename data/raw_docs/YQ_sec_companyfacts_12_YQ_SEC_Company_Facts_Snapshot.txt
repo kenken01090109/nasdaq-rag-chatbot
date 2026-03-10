@@ -1,0 +1,11 @@
+Company: 17 Education & Technology Group Inc. American Depositary Shares
+Ticker: YQ
+CIK: 0001821468
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 25922000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetIncomeLoss: -26430000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Assets: 75284000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Liabilities: 21356000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+StockholdersEquity: 53928000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -19073000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 32078000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31

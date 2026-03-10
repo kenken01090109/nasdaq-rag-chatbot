@@ -1,0 +1,25 @@
+Company: Delixy Holdings Limited Ordinary Shares
+Ticker: DLXY
+Market Cap: 17331000
+Enterprise Value: 19262000
+Total Revenue: 273155008
+Revenue Per Share: 18.21
+EBITDA: 929000
+Gross Margins: 0.01307
+Operating Margins: 0.00375
+Profit Margins: 0.00417
+Free Cashflow: -1451750
+Operating Cashflow: 1422000
+Return On Assets: 0.03263
+Return On Equity: 0.84673
+Total Cash: 2326000
+Total Debt: 4038000
+Debt To Equity: 211.082
+Current Ratio: 1.184
+Quick Ratio: 1.139
+Trailing PE: 15.142857
+Forward PE: 
+Price To Book: 8.281249
+Beta: 
+52 Week High: 7.16
+52 Week Low: 0.611

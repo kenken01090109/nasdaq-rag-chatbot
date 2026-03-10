@@ -1,0 +1,25 @@
+Company: Coda Octopus Group Inc. Common stock
+Ticker: CODA
+Market Cap: 162296272
+Enterprise Value: 133948880
+Total Revenue: 26563126
+Revenue Per Share: 2.365
+EBITDA: 5927538
+Gross Margins: 0.66492
+Operating Margins: 0.19341
+Profit Margins: 0.15548
+Free Cashflow: 4172155
+Operating Cashflow: 7211168
+Return On Assets: 0.04646
+Return On Equity: 0.074250005
+Total Cash: 28742330
+Total Debt: 394932
+Debt To Equity: 0.68
+Current Ratio: 8.865
+Quick Ratio: 6.37
+Trailing PE: 38.91892
+Forward PE: 33.48837
+Price To Book: 2.7928627
+Beta: 0.468
+52 Week High: 14.98
+52 Week Low: 5.76

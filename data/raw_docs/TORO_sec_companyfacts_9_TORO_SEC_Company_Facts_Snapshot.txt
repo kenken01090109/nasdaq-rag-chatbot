@@ -1,0 +1,10 @@
+Company: Toro Corp. Common Stock
+Ticker: TORO
+CIK: 0001941131
+Latest SEC XBRL Facts:
+Revenues: 22394283 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetIncomeLoss: 25207504 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Assets: 326407184 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+StockholdersEquity: 199045807 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 56126319 | unit=USD | filed=2024-03-12 | period_end=2023-12-31
+CashAndCashEquivalentsAtCarryingValue: 37193010 | unit=USD | filed=2025-04-15 | period_end=2024-12-31

@@ -1,0 +1,11 @@
+Company: QUALCOMM Incorporated Common Stock
+Ticker: QCOM
+CIK: 0000804328
+Latest SEC XBRL Facts:
+Revenues: 12252000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-28
+NetIncomeLoss: 3004000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-28
+Assets: 53034000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-28
+Liabilities: 29961000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-28
+StockholdersEquity: 3617000000 | unit=USD | filed=2019-01-30 | period_end=2018-12-30
+NetCashProvidedByUsedInOperatingActivities: 4965000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 7205000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-28

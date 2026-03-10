@@ -1,0 +1,11 @@
+Company: United Airlines Holdings Inc. Common Stock
+Ticker: UAL
+CIK: 0000100517
+Latest SEC XBRL Facts:
+Revenues: 19809000000 | unit=USD | filed=2018-07-18 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 43673000000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+NetIncomeLoss: 2309000000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+Assets: 76313000000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+StockholdersEquity: 14309000000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7145000000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6730000000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30

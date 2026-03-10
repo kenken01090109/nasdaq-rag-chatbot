@@ -1,0 +1,10 @@
+Company: The Pennant Group Inc. Common Stock
+Ticker: PNTG
+CIK: 0001766400
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 658382000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 20941000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 753641000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 410598000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 71104000 | unit=USD | filed=2019-11-12 | period_end=2019-09-30
+NetCashProvidedByUsedInOperatingActivities: 27336000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

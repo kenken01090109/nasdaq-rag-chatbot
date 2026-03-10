@@ -1,0 +1,11 @@
+Company: Capitol Federal Financial Inc. Common Stock
+Ticker: CFFN
+CIK: 0001490906
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 16300000 | unit=USD | filed=2025-11-26 | period_end=2025-09-30
+NetIncomeLoss: 20304000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 9778400000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 8737080000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 1041320000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 17443000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 232634000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

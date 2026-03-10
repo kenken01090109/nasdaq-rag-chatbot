@@ -1,0 +1,9 @@
+Company: Tungray Technologies Inc Class A Ordinary Shares
+Ticker: TRSG
+Sector: Industrials
+Industry: Metal Fabrication
+Country: Singapore
+City: Singapore
+Website: https://tungray.tech
+Employees: 207
+Business Summary: Tungray Technologies Inc., an engineer-to-order company, through its subsidiaries, provides customized industrial manufacturing solutions in China and Singapore. It offers customized industrial test and tooling solutions; welding equipment manufacturing; and direct drive and linear direct current motors. The company also designs, develops, and manufactures non- standard equipment, such as automated assembly equipment, precision testing equipment, tooling fixtures, etc., as well as researches, develops, designs, and manufactures induction brazing and hardening equipment, automatic welding equipment, linear motors, and DD motors; researches, develops, and sells intelligent robots and storage equipment; and installs industrial machinery and equipment, and mechanical engineering works. It provides its services to original equipment manufacturers in the industry sectors of semiconductors, printers, electronics, and home appliances. The company was incorporated in 2022 and is headquartered in Singapore, Singapore. Tungray Technologies Inc. operates as a subsidiary of Pegasus Automation Limited.

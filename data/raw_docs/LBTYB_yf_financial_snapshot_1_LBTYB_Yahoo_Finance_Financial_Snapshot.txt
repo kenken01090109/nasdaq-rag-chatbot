@@ -1,0 +1,25 @@
+Company: Liberty Global Ltd. Class B Common Shares
+Ticker: LBTYB
+Market Cap: 4398926848
+Enterprise Value: 11995926528
+Total Revenue: 4878499840
+Revenue Per Share: 14.253
+EBITDA: 1113799936
+Gross Margins: 0.65758
+Operating Margins: -0.025510002
+Profit Margins: -1.46318
+Free Cashflow: -401224992
+Operating Cashflow: 1211100032
+Return On Assets: 0.00195
+Return On Equity: -0.6311
+Total Cash: 2284699904
+Total Debt: 9671600128
+Debt To Equity: 97.243
+Current Ratio: 1.075
+Quick Ratio: 0.939
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.45152858
+Beta: 0.802
+52 Week High: 29.01
+52 Week Low: 9.15

@@ -1,0 +1,12 @@
+Company: NetScout Systems Inc. Common Stock
+Ticker: NTCT
+CIK: 0001078075
+Latest SEC XBRL Facts:
+Revenues: 402445000 | unit=USD | filed=2019-10-31 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 656447000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 77291000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 2321597000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 680375000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 1641222000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 142279000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 540642000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

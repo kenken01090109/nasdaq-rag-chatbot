@@ -1,0 +1,25 @@
+Company: Taysha Gene Therapies Inc. Common Stock
+Ticker: TSHA
+Market Cap: 1251811584
+Enterprise Value: 1001636992
+Total Revenue: 6310000
+Revenue Per Share: 0.021
+EBITDA: -100980000
+Gross Margins: 1.0
+Operating Margins: -16.18542
+Profit Margins: 0.0
+Free Cashflow: -49377876
+Operating Cashflow: -84676000
+Return On Assets: -0.25698
+Return On Equity: -0.64934
+Total Cash: 297344000
+Total Debt: 69083000
+Debt To Equity: 31.546
+Current Ratio: 10.476
+Quick Ratio: 10.385
+Trailing PE: 
+Forward PE: -10.92439
+Price To Book: 5.71965
+Beta: 1.082
+52 Week High: 6.02
+52 Week Low: 1.05

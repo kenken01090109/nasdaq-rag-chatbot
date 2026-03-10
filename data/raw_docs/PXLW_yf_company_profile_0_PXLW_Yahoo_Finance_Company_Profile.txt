@@ -1,0 +1,9 @@
+Company: Pixelworks Inc.  Common Stock
+Ticker: PXLW
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Portland
+Website: https://www.pixelworks.com
+Employees: 196
+Business Summary: Pixelworks, Inc., together with its subsidiaries, develops and markets semiconductor and software solutions for mobile, home and enterprise, over-the-air, and cinema markets in the United States, Japan, China, and Taiwan. The company offers image processor integrated circuits, such as embedded microprocessors, digital signal processing technology, and software that control the operations and signal processing within high-end display systems; visual processor integrated circuits that works with a mobile application processor; and transcoder integrated circuits which includes software that control the operations and signal processing for converting multiple bitrates, resolutions and codecs to provide bandwidth efficient video transmissions based on industry standard protocols. It also provides software and platform licensing products comprising Pixelworks Pro Software, a software that enables development and customize mobile products by use of various features, such as absolute color accuracy, HDR tone mapping, SDR-to-HDR conversion, and others; and TrueCut Motion Platform, content creation tool which provides the ability to dial in a motion look on a shot-by-shot basis. In addition, the company provides engineering services, such as motion grading, certification. Further, the company distributes its products to integrators, branded manufacturers, and branded suppliers. Pixelworks, Inc. was founded in 1997 and is based in Portland, Oregon.

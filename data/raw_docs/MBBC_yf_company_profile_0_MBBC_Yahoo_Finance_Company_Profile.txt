@@ -1,0 +1,9 @@
+Company: Marathon Bancorp Inc. Common Stock
+Ticker: MBBC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Wausau
+Website: https://www.marathonbank.com
+Employees: 35
+Business Summary: Marathon Bancorp, Inc. operates as a bank holding company for Marathon Bank that provides banking products and services in the United States. It offers deposit account products, including non-interest-bearing checking, interest-bearing checking, money market, savings, and certificate of deposit accounts. The company also provides lending products, such as one-to-four family residential real estate, commercial real estate, construction, commercial and industrial, multifamily real estate, and consumer loans. In addition, it offers vehicle and equipment financing, small business administration, commercial checking, and treasury management, as well as personal online and mobile banking services. The company was founded in 1902 and is based in Wausau, Wisconsin.

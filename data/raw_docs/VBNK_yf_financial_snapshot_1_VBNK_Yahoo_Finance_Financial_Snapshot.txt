@@ -1,0 +1,25 @@
+Company: VersaBank Common Shares
+Ticker: VBNK
+Market Cap: 459376800
+Enterprise Value: 24837622
+Total Revenue: 120228000
+Revenue Per Share: 3.816
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.29319
+Profit Margins: 0.2367
+Free Cashflow: 
+Operating Cashflow: -679392000
+Return On Assets: 0.00535
+Return On Equity: 0.061079998
+Total Cash: 581710016
+Total Debt: 106600000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 21.787878
+Forward PE: 7.630671
+Price To Book: 1.1790398
+Beta: 0.977
+52 Week High: 17.47
+52 Week Low: 8.51

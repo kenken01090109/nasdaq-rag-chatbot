@@ -1,0 +1,11 @@
+Company: ZoomInfo Technologies Inc Common Stock
+Ticker: GTM
+CIK: 0001794515
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 930400000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 89500000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 6369700000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 4839200000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1530500000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 321900000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 124800000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

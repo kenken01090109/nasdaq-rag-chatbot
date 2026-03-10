@@ -1,0 +1,9 @@
+Company: ARS Pharmaceuticals Inc. Common Stock
+Ticker: SPRY
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://ars-pharma.com
+Employees: 162
+Business Summary: ARS Pharmaceuticals, Inc., a biopharmaceutical company, develops and commercializes treatments for severe allergic reactions. The company is involved in the development of neffy, a needle-free and low-dose intranasal epinephrine nasal spray for rescue medication for people with Type I severe allergic reactions, including anaphylaxis. It serves healthcare professionals, patients, and caregivers. The company was founded in 2015 and is headquartered in San Diego, California.

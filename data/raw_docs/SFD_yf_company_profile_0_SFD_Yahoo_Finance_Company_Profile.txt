@@ -1,0 +1,9 @@
+Company: Smithfield Foods Inc. Common Stock
+Ticker: SFD
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Smithfield
+Website: https://www.smithfieldfoods.com
+Employees: 34500
+Business Summary: Smithfield Foods, Inc. produces packaged meats and fresh pork in the United States and internationally. Its Packaged Meats segment processes fresh meat into various packaged meats products, including bacon, sausage, hot dogs, deli and lunch meats, dry sausage products, ham products, ready-to-eat products, and prepared foods to retail and foodservice customers. This segment markets its packaged meat products under the Smithfield, Eckrich, Nathan's Famous, Farmland, Armour, Farmer John, Kretschmar, Krakus, John Morrell, Cook's, Gwaltney, Carando, Margherita, Curly's and Smithfield Culinary, as well as under private labels. The company's Fresh Pork segment process live hogs into a variety of primal, sub-primal, and offal products, such as bellies, butts, hams, loins, picnics, and ribs. This segment sells its fresh pork products to retail, foodservice and industrial customers, as well as to export markets, including China, Mexico, Japan, South Korea, and Canada. Its Hog Production segment produces and raises its hogs on various company-owned farms and farms that are owned and operated by third-party contract farmers in the United States and Mexico. The Hog Production segment also sells grains to external customers. The company's bioscience operations use raw materials from hogs that process to manufacture heparin products, including an active pharmaceutical ingredient that mitigates the risk of blood clots. The company was founded in 1936 and is based in Smithfield, Virginia. Smithfield Foods, Inc. is a subsidiary of SFDS UK Holdings Limited.

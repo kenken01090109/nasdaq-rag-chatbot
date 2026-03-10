@@ -1,0 +1,25 @@
+Company: Golden Entertainment Inc. Common Stock
+Ticker: GDEN
+Market Cap: 747790720
+Enterprise Value: 1214015616
+Total Revenue: 634910976
+Revenue Per Share: 24.157
+EBITDA: 122053000
+Gross Margins: 0.53745
+Operating Margins: 0.03824
+Profit Margins: -0.00952
+Free Cashflow: 38436248
+Operating Cashflow: 83062000
+Return On Assets: 0.01893
+Return On Equity: -0.0135
+Total Cash: 55328000
+Total Debt: 517953984
+Debt To Equity: 123.06
+Current Ratio: 1.165
+Quick Ratio: 0.774
+Trailing PE: 129.86363
+Forward PE: 23.611568
+Price To Book: 1.7774045
+Beta: 1.412
+52 Week High: 32.74
+52 Week Low: 19.57

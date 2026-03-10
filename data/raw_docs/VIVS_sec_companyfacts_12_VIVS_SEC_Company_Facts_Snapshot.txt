@@ -1,0 +1,12 @@
+Company: VivoSim Labs Inc. Common Stock
+Ticker: VIVS
+CIK: 0001497253
+Latest SEC XBRL Facts:
+Revenues: 3498000 | unit=USD | filed=2018-02-08 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 91000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetIncomeLoss: -8079000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 6960000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 2519000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 4441000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -8589000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4288000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

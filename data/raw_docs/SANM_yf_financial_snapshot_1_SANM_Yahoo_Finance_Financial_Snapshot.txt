@@ -1,0 +1,25 @@
+Company: Sanmina Corporation Common Stock
+Ticker: SANM
+Market Cap: 6716401152
+Enterprise Value: 8242884096
+Total Revenue: 9311726592
+Revenue Per Share: 172.646
+EBITDA: 598785984
+Gross Margins: 0.08493
+Operating Margins: 0.03688
+Profit Margins: 0.024719998
+Free Cashflow: -371326752
+Operating Cashflow: 735446976
+Return On Assets: 0.03615
+Return On Equity: 0.09725001
+Total Cash: 1417794944
+Total Debt: 2358481920
+Debt To Equity: 88.622
+Current Ratio: 1.701
+Quick Ratio: 0.974
+Trailing PE: 29.285715
+Forward PE: 10.154103
+Price To Book: 2.7002108
+Beta: 0.982
+52 Week High: 185.29
+52 Week Low: 63.67

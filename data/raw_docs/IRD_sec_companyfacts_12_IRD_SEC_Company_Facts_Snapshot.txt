@@ -1,0 +1,12 @@
+Company: Opus Genetics Inc. Common Stock
+Ticker: IRD
+CIK: 0001228627
+Latest SEC XBRL Facts:
+Revenues: 1150000 | unit=USD | filed=2020-10-29 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10331000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -33068000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 36122000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 30155000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 5967000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25420000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 30815000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

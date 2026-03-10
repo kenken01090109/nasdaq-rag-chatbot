@@ -1,0 +1,12 @@
+Company: Amplitech Group Inc. Series B Right
+Ticker: AMPGZ
+CIK: 0001518461
+Latest SEC XBRL Facts:
+Revenues: 20718858 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20718858 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -3800519 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 47239387 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 11420772 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 35818615 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5259588 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8387194 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

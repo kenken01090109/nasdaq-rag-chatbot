@@ -1,0 +1,10 @@
+Company: Caesarstone Ltd. Ordinary Shares
+Ticker: CSTE
+CIK: 0001504379
+Latest SEC XBRL Facts:
+Revenues: 397228000 | unit=USD | filed=2026-03-04 | period_end=2025-12-31
+NetIncomeLoss: -137467000 | unit=USD | filed=2026-03-04 | period_end=2025-12-31
+Assets: 398442000 | unit=USD | filed=2026-03-04 | period_end=2025-12-31
+StockholdersEquity: 139213000 | unit=USD | filed=2026-03-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -38029000 | unit=USD | filed=2026-03-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 58440000 | unit=USD | filed=2026-03-04 | period_end=2025-12-31

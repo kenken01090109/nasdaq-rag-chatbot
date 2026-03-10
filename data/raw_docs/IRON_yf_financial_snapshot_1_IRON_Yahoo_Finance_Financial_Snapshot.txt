@@ -1,0 +1,25 @@
+Company: Disc Medicine Inc. Common Stock
+Ticker: IRON
+Market Cap: 2334632704
+Enterprise Value: 1542449280
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -234888992
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -111715624
+Operating Cashflow: -180392992
+Return On Assets: -0.22549
+Return On Equity: -0.35860002
+Total Cash: 791152000
+Total Debt: 31023000
+Debt To Equity: 4.193
+Current Ratio: 21.94
+Quick Ratio: 21.592
+Trailing PE: 
+Forward PE: -8.140445
+Price To Book: 3.1334188
+Beta: 2.66
+52 Week High: 99.5
+52 Week Low: 30.82

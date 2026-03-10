@@ -1,0 +1,25 @@
+Company: The Kraft Heinz Company Common Stock
+Ticker: KHC
+Market Cap: 29049098240
+Enterprise Value: 46904135680
+Total Revenue: 24942000128
+Revenue Per Share: 21.013
+EBITDA: 5727000064
+Gross Margins: 0.33317003
+Operating Margins: 0.17485
+Profit Margins: -0.23437999
+Free Cashflow: 2775500032
+Operating Cashflow: 4462000128
+Return On Assets: 0.03498
+Return On Equity: -0.12837
+Total Cash: 3675000064
+Total Debt: 21771999232
+Debt To Equity: 52.1
+Current Ratio: 1.154
+Quick Ratio: 0.675
+Trailing PE: 
+Forward PE: 11.43134
+Price To Book: 0.6973771
+Beta: 0.01
+52 Week High: 33.35
+52 Week Low: 21.985

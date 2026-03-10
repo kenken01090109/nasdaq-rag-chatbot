@@ -1,0 +1,9 @@
+Company: ZOOZ Strategy Ltd. Ordinary Shares
+Ticker: ZOOZ
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: Israel
+City: Lod
+Website: https://www.zoozpower.com
+Employees: 38
+Business Summary: ZOOZ Strategy Ltd. engages in developing, manufacturing, marketing, and selling energy store solutions for electric vehicles in Israel, Germany, the United Kingdom, and the United States. It offers ZOOZTER-100, a kinetic power booster based on flywheel technology designed to enable sustainable and cost-effective rollout of ultra-fast electric vehicle charging stations in areas where the grid is power-limited. The company was formerly known as ZOOZ Power Ltd. and changed its name to ZOOZ Strategy Ltd. in October 2025. ZOOZ Strategy Ltd. was incorporated in 2013 and is based in Lod, Israel.

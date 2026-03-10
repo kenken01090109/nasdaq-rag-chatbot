@@ -1,0 +1,10 @@
+Company: AGNC Investment Corp. Common Stock
+Ticker: AGNC
+Market Cap: 12085600256
+Enterprise Value: 82167603200
+Trailing PE: 7.4149656
+Forward PE: 7.2662306
+Price To Book: 1.1580961
+Beta: 1.351
+52 Week High: 12.19
+52 Week Low: 7.85

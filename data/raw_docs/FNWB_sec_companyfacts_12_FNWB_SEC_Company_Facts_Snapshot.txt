@@ -1,0 +1,11 @@
+Company: First Northwest Bancorp Common Stock
+Ticker: FNWB
+CIK: 0001556727
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 176000 | unit=USD | filed=2021-03-15 | period_end=2020-12-31
+NetIncomeLoss: -3803000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+Assets: 2111373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1956845000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 158881000 | unit=USD | filed=2024-10-25 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -13050000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25334000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30

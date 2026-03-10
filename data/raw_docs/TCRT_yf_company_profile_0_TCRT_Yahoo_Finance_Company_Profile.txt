@@ -1,0 +1,9 @@
+Company: Alaunos Therapeutics Inc. Common Stock
+Ticker: TCRT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Houston
+Website: https://www.alaunos.com
+Employees: 1
+Business Summary: Alaunos Therapeutics, Inc., a clinical-stage oncology-focused cell therapy company, develops small molecules to treat obesity and other metabolic disorders. The company develops an oral obesity compound that addresses shortcomings of injectable GLP-1 receptor agonists, including preserving lean muscle mass. It also evaluates ALN1001 and related derivatives on lipid deposition and gene expression. In addition, the company develops hunTR TCR discovery platform to target driver mutations. Alaunos Therapeutics, Inc. was founded in 2003 and is headquartered in Houston, Texas.

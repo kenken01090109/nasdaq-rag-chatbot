@@ -1,0 +1,12 @@
+Company: Atomera Incorporated Common Stock
+Ticker: ATOM
+CIK: 0001420520
+Latest SEC XBRL Facts:
+Revenues: 62000 | unit=USD | filed=2021-02-19 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 15000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -15749000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 21941000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 2911000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 19030000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11649000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20322000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

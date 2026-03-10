@@ -1,0 +1,11 @@
+Company: LQR House Inc. Common Stock
+Ticker: YHC
+CIK: 0001843165
+Latest SEC XBRL Facts:
+Revenues: 1039011 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+NetIncomeLoss: -21420945 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 35034351 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 705980 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+StockholdersEquity: 27357891 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19519325 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10039230 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

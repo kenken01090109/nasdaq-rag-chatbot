@@ -1,0 +1,11 @@
+Company: Cronos Group Inc. Common Share
+Ticker: CRON
+CIK: 0001656472
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 102056000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -7631000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1178410000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 46361000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1082504000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14031000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 784170000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: BillionToOne Inc. Class A Common Stock
+Ticker: BLLN
+Market Cap: 3364461568
+Enterprise Value: 4032289792
+Total Revenue: 254136000
+Revenue Per Share: 24.613
+EBITDA: 1030000
+Gross Margins: 0.65151
+Operating Margins: 0.11533
+Profit Margins: -0.04363
+Free Cashflow: 
+Operating Cashflow: 5380000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 195152000
+Total Debt: 108138000
+Debt To Equity: 59.976
+Current Ratio: 6.172
+Quick Ratio: 5.634
+Trailing PE: 
+Forward PE: 82.13408
+Price To Book: -3.4308784
+Beta: 
+52 Week High: 138.7
+52 Week Low: 66.0

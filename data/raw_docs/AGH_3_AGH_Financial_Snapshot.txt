@@ -1,0 +1,12 @@
+Company: Aureus Greenway Holdings Inc. Common Stock
+Ticker: AGH
+Total Revenue: 2926771
+Revenue Per Share: 0.229
+Gross Margins: -0.51637
+Operating Margins: -8.69246
+EBITDA: -3026529
+Profit Margins: -0.95216006
+Free Cashflow: -562893
+Operating Cashflow: -1554474
+Return On Assets: -0.09974
+Return On Equity: -0.15880999

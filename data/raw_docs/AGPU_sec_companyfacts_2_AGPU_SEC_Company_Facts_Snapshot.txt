@@ -1,0 +1,10 @@
+Company: Axe Compute Inc. Common Stock
+Ticker: AGPU
+CIK: 0001446159
+Latest SEC XBRL Facts:
+NetIncomeLoss: -82165178 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 3137298 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 80565220 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -77427922 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6634072 | unit=USD | filed=2024-08-13 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 181667 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

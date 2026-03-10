@@ -1,0 +1,12 @@
+Company: Lightwave Logic Inc. Common Stock
+Ticker: LWLG
+CIK: 0001325964
+Latest SEC XBRL Facts:
+Revenues: 77688 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-11-09 | period_end=2023-09-30
+NetIncomeLoss: -15469715 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 44786666 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3596154 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 41190512 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10436426 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34942070 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

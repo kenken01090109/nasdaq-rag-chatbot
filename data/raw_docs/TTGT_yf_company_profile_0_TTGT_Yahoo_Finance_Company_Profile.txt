@@ -1,0 +1,9 @@
+Company: TechTarget Inc. Common Stock
+Ticker: TTGT
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: Newton
+Website: https://www.techtarget.com
+Employees: 2100
+Business Summary: TechTarget, Inc. provides purchase intent-driven marketing and advertising campaigns in North America, the United Kingdom, and internationally. The company offers intelligence and advisory, data-driven intelligence products and advisory services for product managers, corporate strategists, and the C-suite. Specialist technology research provides research and intelligence services to technology providers based on analysis and data-driven intelligence and reports through the Omdia brand; and advisory services for sector-specialist analysts and data-driven market intelligence. It also provides brand solutions for B2B marketers the opportunity to grow brand awareness through direct exposure to specialist technology and business audiences; custom content creation for custom content creation programs; and video content creation and virtual events offers host webinars, virtual events and video content that generate brand awareness, educate around their solutions through BrightTalk brand. In addition, the company offers intent and demand solutions, an AI-enabled buyer for intent products and demand generation services; priority engine which provides a subscription service powered by Activity IntelligenceTM platform that integrates with customer relationship management and marketing automation platforms; qualified sales opportunities for a product which profiles specific in-progress purchase projects through surveys and interviews; and demand solutions that enable customers to stimulate and generate demand for their products. TechTarget, Inc. was incorporated in 2024 and is headquartered in Newton, Massachusetts. TechTarget, Inc. is a subsidiary of Informa plc.

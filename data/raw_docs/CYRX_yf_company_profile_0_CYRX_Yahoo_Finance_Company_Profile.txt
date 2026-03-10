@@ -1,0 +1,9 @@
+Company: CryoPort Inc. Common Stock
+Ticker: CYRX
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: United States
+City: Brentwood
+Website: https://www.cryoportinc.com
+Employees: 
+Business Summary: Cryoport, Inc. provides temperature-controlled supply chain solutions in biopharma/pharma, animal health, and reproductive medicine markets worldwide. The company's Life Sciences Services segment provides temperature-controlled logistics and biostorage, bioservices and cryopreservation services within the life science industry. Its Life Sciences Products segment manufactures, and sells offers cryogenic freezers, cryogenic dewars, and related ancillary accessories within the life science industry through direct sales or a distribution network. The company's products include Cryoport Express Shippers; Cryoport Elite; Cryoport Express Cryogenic HV3 Shipping System; Smartpak Condition Monitoring System and Tec4Med, an IoT-based monitoring solutions; and Cryoport accessories. It also provides Cryoport BioStorage/Bioservices, such as Cryoport Systems Bioservices, including controlled temperature storage, kitting, labelling, fulfillment, sample management, drug return, and Qualified Person drug product release. In addition, the company offers IntegriCell services that comprise apheresis/leukapheresis collection, cryoshuttle transportation, cryo-process optimization, and cryopreservation services; Cryoport consulting services; MVE Fusion cryogenic system, a self-sustaining cryogenic freezer; and MVE  Vario cryogenic system, a cryogenic freezer system. Further, it provides biological specimen cryopreservation storage and maintenance; archiving, monitoring, tracking, receipt, and delivery of samples; frozen biological specimens transportation; incoming and outgoing biological specimens management; and short-term logistics and engineering consulting services. The company was founded in 1999 and is based in Brentwood, Tennessee.

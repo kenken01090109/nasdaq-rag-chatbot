@@ -1,0 +1,9 @@
+Company: Delixy Holdings Limited Ordinary Shares
+Ticker: DLXY
+Sector: Energy
+Industry: Oil & Gas Refining & Marketing
+Country: Singapore
+City: Singapore
+Website: https://ir.delixy.com
+Employees: 
+Business Summary: Delixy Holdings Limited, an investment holding company, engages in the wholesale trading of crude oil and oil-based products in Southeast Asia, East Asia, and the Middle East. The company was incorporated in 2024 and is headquartered in Singapore. Delixy Holdings Limited is a subsidiary of Mega Origin Holdings Limited.

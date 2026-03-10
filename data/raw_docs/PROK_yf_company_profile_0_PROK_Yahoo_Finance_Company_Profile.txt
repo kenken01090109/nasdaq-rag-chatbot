@@ -1,0 +1,9 @@
+Company: ProKidney Corp. Class A Ordinary Shares
+Ticker: PROK
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Winston-Salem
+Website: https://prokidney.com
+Employees: 204
+Business Summary: ProKidney Corp., a clinical-stage biotechnology company, develops a cell therapy platform for the treatment of multiple chronic kidney diseases in the United States. Its lead product candidate, rilparencel, includes autologous selected renal cells (SRC) in Phase 3 and Phase 2 clinical studies in subjects with moderate to severe chronic kidney disease and diabetes. The company also develops a cryopreserved version of rilparencel that allows for long-term product preservation to be used in Phase 2 and 3 trials of rilparencel. ProKidney Corp. was founded in 2015 and is headquartered in Winston-Salem, North Carolina.

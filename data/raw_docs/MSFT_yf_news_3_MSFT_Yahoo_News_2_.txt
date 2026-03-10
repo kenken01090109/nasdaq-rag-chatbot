@@ -1,0 +1,7 @@
+Company: Microsoft Corporation Common Stock
+Ticker: MSFT
+Title: 
+Publisher: 
+Publish Time: 
+Summary: 
+Link: 

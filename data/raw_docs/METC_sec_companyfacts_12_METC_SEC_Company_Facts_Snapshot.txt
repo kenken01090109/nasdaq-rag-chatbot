@@ -1,0 +1,11 @@
+Company: Ramaco Resources Inc. Class A Common Stock
+Ticker: METC
+CIK: 0001687187
+Latest SEC XBRL Facts:
+Revenues: 408611000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -36741000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 849655000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 322743000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 526912000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20338000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 193846000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

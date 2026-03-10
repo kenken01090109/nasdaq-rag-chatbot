@@ -1,0 +1,9 @@
+Company: Tron Inc. Common Stock
+Ticker: TRON
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: United States
+City: Winter Park
+Website: https://www.srmentertainment.com
+Employees: 
+Business Summary: Tron Inc. designs, manufactures, and sells toys and souvenirs to theme parks and entertainment venues in the United States, China, Japan, and Europe. The company designs a range of product categories, including figures, plush, accessories, apparel, and homewares. It serves content providers and consumers. The company was formerly known as SRM Entertainment, Inc. and changed its name to Tron Inc. in July 2025. The company is headquartered in Winter Park, Florida.

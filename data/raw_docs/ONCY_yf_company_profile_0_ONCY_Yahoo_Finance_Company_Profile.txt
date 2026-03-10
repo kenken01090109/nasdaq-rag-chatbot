@@ -1,0 +1,9 @@
+Company: Oncolytics Biotech Inc. Common Shares
+Ticker: ONCY
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Calgary
+Website: https://oncolyticsbiotech.com
+Employees: 28
+Business Summary: Oncolytics Biotech Inc., a clinical-stage biopharmaceutical company, engages in the research, development, and commercialization of oncology treatments. The company develops pelareorep, an intravenously delivered immunotherapeutic agent for the treatment of hormone receptor-positive / human epidermal growth factor 2-negative advanced and metastatic breast cancer, metastatic pancreatic ductal adenocarcinoma, and anal cancer. It has an agreement with Roche Holding AG to supply its immune checkpoint inhibitors, atezolizumab, for use in its ongoing sponsored studies. Oncolytics Biotech Inc. was incorporated in 1998 and is headquartered in Calgary, Canada.

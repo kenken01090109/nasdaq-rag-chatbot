@@ -1,0 +1,9 @@
+Company: BTC Digital Ltd. Ordinary Shares
+Ticker: BTCT
+Sector: Technology
+Industry: Computer Hardware
+Country: Singapore
+City: Singapore
+Website: https://btct.investorroom.com
+Employees: 21
+Business Summary: BTC Digital Ltd., a crypto asset technology company, engages in bitcoin mining business in the United States. It is also involved in mining machines resale and rental business. The company was formerly known as Meten Holding Group Ltd. and changed its name to BTC Digital Ltd. in August 2023. The company was founded in 2006 and is headquartered in Singapore.

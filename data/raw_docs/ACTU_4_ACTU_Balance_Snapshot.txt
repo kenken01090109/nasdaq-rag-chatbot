@@ -1,0 +1,8 @@
+Company: Actuate Therapeutics Inc. Common stock
+Ticker: ACTU
+Total Cash: 16924764
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.737
+Quick Ratio: 2.656
+Book Value: 0.471

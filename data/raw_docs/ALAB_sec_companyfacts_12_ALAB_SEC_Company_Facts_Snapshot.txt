@@ -1,0 +1,11 @@
+Company: Astera Labs Inc. Common Stock
+Ticker: ALAB
+CIK: 0001736297
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 581942000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 174152000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1401182000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 129451000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1271731000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 224041000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 140407000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

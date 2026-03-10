@@ -1,0 +1,9 @@
+Company: Sunrise Realty Trust Inc. Common Stock
+Ticker: SUNS
+Sector: Real Estate
+Industry: REIT - Mortgage
+Country: United States
+City: West Palm Beach
+Website: https://sunriserealtytrust.com
+Employees: 
+Business Summary: Sunrise Realty Trust, Inc. engages in commercial real estate lending business in the United States. It focuses on originating commercial real estate (CRE) loans and providing capital to borrowers and sponsors with business plants collateralized by CRE assets. The company also intends to diversified investment portfolio, targeting investments for mortgage loans, mezzanine loans, B-notes, CMBS, and debt-like preferred equity securities across CRE asset classes. Sunrise Realty Trust, Inc. was founded in 2023 and is headquartered in West Palm Beach, Florida.

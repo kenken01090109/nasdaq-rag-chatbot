@@ -1,0 +1,11 @@
+Company: WiMi Hologram Cloud Inc. Class B Ordinary Shares
+Ticker: WIMI
+CIK: 0001770088
+Latest SEC XBRL Facts:
+Revenues: 26295764 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetIncomeLoss: 14848962 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Assets: 474759250 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Liabilities: 135901164 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+StockholdersEquity: 207025383 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 29847925 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 273795403 | unit=USD | filed=2025-09-26 | period_end=2025-06-30

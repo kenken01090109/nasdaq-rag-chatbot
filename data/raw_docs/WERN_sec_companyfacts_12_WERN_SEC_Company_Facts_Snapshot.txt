@@ -1,0 +1,12 @@
+Company: Werner Enterprises Inc. Common Stock
+Ticker: WERN
+CIK: 0000793074
+Latest SEC XBRL Facts:
+Revenues: 2236761000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2179653000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 13389000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2971103000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1539875000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1395587000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 119539000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 50984000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

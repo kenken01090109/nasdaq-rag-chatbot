@@ -1,0 +1,8 @@
+Company: Afya Limited Class A Common Shares
+Ticker: AFYA
+Total Cash: 996825984
+Total Debt: 2974572032
+Debt To Equity: 62.144
+Current Ratio: 0.979
+Quick Ratio: 0.952
+Book Value: 9.99941

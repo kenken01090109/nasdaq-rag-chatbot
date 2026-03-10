@@ -1,0 +1,25 @@
+Company: Amalgamated Financial Corp. Common Stock (DE)
+Ticker: AMAL
+Market Cap: 1131592832
+Enterprise Value: 869059456
+Total Revenue: 312400000
+Revenue Per Share: 10.301
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.43164003
+Profit Margins: 0.33433
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.012200001
+Return On Equity: 0.13906
+Total Cash: 339879008
+Total Debt: 81802000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.385542
+Forward PE: 8.335171
+Price To Book: 1.4187591
+Beta: 0.842
+52 Week High: 42.66
+52 Week Low: 25.03

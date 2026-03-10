@@ -1,0 +1,8 @@
+Company: Axcelis Technologies Inc. Common Stock
+Ticker: ACLS
+Total Cash: 374252992
+Total Debt: 71801000
+Debt To Equity: 6.939
+Current Ratio: 4.772
+Quick Ratio: 2.746
+Book Value: 33.684

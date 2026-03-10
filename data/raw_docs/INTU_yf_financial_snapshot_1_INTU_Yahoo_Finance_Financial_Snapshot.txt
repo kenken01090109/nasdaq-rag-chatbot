@@ -1,0 +1,25 @@
+Company: Intuit Inc. Common Stock
+Ticker: INTU
+Market Cap: 133897142272
+Enterprise Value: 
+Total Revenue: 20120999936
+Revenue Per Share: 71.989
+EBITDA: 6106999808
+Gross Margins: 0.80896
+Operating Margins: 0.15697
+Profit Margins: 0.2157
+Free Cashflow: 5301374976
+Operating Cashflow: 6983000064
+Return On Assets: 0.10328
+Return On Equity: 0.23457001
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 1.323
+Quick Ratio: 0.479
+Trailing PE: 31.326174
+Forward PE: 18.226467
+Price To Book: 7.0070925
+Beta: 1.282
+52 Week High: 813.7
+52 Week Low: 349.0

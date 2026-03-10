@@ -1,0 +1,10 @@
+Company: Acumen Pharmaceuticals Inc. Common Stock
+Ticker: ABOS
+Market Cap: 202315232
+Enterprise Value: 106542240
+Trailing PE: 
+Forward PE: -1.7253046
+Price To Book: 2.1716514
+Beta: 0.21
+52 Week High: 3.41
+52 Week Low: 0.855

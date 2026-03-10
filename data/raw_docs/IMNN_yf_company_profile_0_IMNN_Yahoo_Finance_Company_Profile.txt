@@ -1,0 +1,9 @@
+Company: Imunon Inc. Common Stock
+Ticker: IMNN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Lawrenceville
+Website: https://imunon.com
+Employees: 25
+Business Summary: Imunon, Inc., a clinical-stage biotechnology company, focuses on developing immunotherapies and vaccines. The company's lead clinical program is IMNN-001, a DNA-based immunotherapy for the localized treatment of ovarian cancer that is in Phase II clinical development. Its preclinical stage products include IMNN-101, a COVID-19 booster vaccine; IMNN-102 for the treatment of Lassa virus; and IMNN-201, a Trp2 tumor associated antigen cancer vaccine in melanoma. In addition, the company develops non-viral DNA technology across four modalities, such as TheraPlas for the coding of proteins and cytokines in the treatment of solid tumors; and PlaCCine for the coding of viral antigens that can elicit a strong immunological response. The company was formerly known as Celsion Corporation and changed its name to Imunon, Inc. in September 2022. The company was founded in 1982 and is headquartered in Lawrenceville, New Jersey.

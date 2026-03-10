@@ -1,0 +1,25 @@
+Company: Liquidia Corporation Common Stock
+Ticker: LQDA
+Market Cap: 3134447104
+Enterprise Value: 3048957184
+Total Revenue: 158320000
+Revenue Per Share: 1.84
+EBITDA: -49848000
+Gross Margins: 0.91636
+Operating Margins: 0.21503
+Profit Margins: -0.43535
+Free Cashflow: -72593504
+Operating Cashflow: -35686000
+Return On Assets: -0.11504
+Return On Equity: -1.12969
+Total Cash: 190680000
+Total Debt: 197927008
+Debt To Equity: 442.315
+Current Ratio: 2.014
+Quick Ratio: 1.803
+Trailing PE: 
+Forward PE: 8.184916
+Price To Book: 70.23392
+Beta: 
+52 Week High: 46.67
+52 Week Low: 11.26

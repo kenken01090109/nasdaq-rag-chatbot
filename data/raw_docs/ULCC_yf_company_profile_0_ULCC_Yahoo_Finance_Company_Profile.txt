@@ -1,0 +1,9 @@
+Company: Frontier Group Holdings Inc. Common Stock
+Ticker: ULCC
+Sector: Industrials
+Industry: Airlines
+Country: United States
+City: Denver
+Website: https://www.flyfrontier.com
+Employees: 7656
+Business Summary: Frontier Group Holdings, Inc., provides low-fare passenger airline services to leisure travelers in the United States and Latin America. The company sells its products through direct distribution channels, such as websites, mobile apps, and contact centers. As of December 31, 2025, it had a fleet of 176 Airbus single-aisle aircraft. Frontier Group Holdings, Inc. was founded in 1994 and is headquartered in Denver, Colorado.

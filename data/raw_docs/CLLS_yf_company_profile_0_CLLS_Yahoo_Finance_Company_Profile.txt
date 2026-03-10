@@ -1,0 +1,9 @@
+Company: Cellectis S.A. American Depositary Shares
+Ticker: CLLS
+Sector: Healthcare
+Industry: Biotechnology
+Country: France
+City: Paris
+Website: https://www.cellectis.com
+Employees: 216
+Business Summary: Cellectis S.A., a clinical stage biotechnological company, develops products based on gene-editing with a portfolio of allogeneic chimeric antigen receptor T-cells product candidates in the field of immuno-oncology and gene therapy product candidates in other therapeutic indications. The company is developing ALLO-501 to treat large B-cell lymphoma; ALLO-316, a gene-edited allogeneic CAR T-cell product targeting CD70; ALLO-819 to treat acute myeloid leukemia; ALLO-213 for the treatment of small cell lung cancer; and ALLO-182 to treat gastric and pancreatic cancer. It also develops UCART22 for the treatment of relapsed or refractory B-cell acute lymphoblastic leukemia; UCART123 to treat acute myeloid leukemia; UCART 20x22 for relapsed or refractory B-Cell non-hodgkin's lymphoma; and cema-cel to treat relapsed/refractory chronic lymphocytic leukemia/small lymphocytic lymphoma. The company was founded in 1999 and is headquartered in Paris, France.

@@ -1,0 +1,8 @@
+Company: AIRO Group Holdings Inc. Common Stock
+Ticker: AIRO
+Total Cash: 83485824
+Total Debt: 14678471
+Debt To Equity: 1.985
+Current Ratio: 3.324
+Quick Ratio: 2.655
+Book Value: 23.625

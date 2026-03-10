@@ -1,0 +1,25 @@
+Company: Ohio Valley Banc Corp. Common Stock
+Ticker: OVBC
+Market Cap: 199157616
+Enterprise Value: 209062640
+Total Revenue: 63661000
+Revenue Per Share: 13.513
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.32497
+Profit Margins: 0.24506001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01011
+Return On Equity: 0.09733
+Total Cash: 45897000
+Total Debt: 54271000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.771904
+Forward PE: 
+Price To Book: 1.1697565
+Beta: -0.039
+52 Week High: 44.8
+52 Week Low: 25.75

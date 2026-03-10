@@ -1,0 +1,25 @@
+Company: Scienjoy Holding Corporation Class A Ordinary Shares
+Ticker: SJ
+Market Cap: 49061004
+Enterprise Value: -215088048
+Total Revenue: 1310118016
+Revenue Per Share: 31.445
+EBITDA: 59658248
+Gross Margins: 0.18608
+Operating Margins: 0.0305
+Profit Margins: 0.01316
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.02317
+Return On Equity: 0.00612
+Total Cash: 260374000
+Total Debt: 15857000
+Debt To Equity: 1.313
+Current Ratio: 4.643
+Quick Ratio: 4.329
+Trailing PE: 28.970001
+Forward PE: 
+Price To Book: 0.27265334
+Beta: 0.947
+52 Week High: 1.58
+52 Week Low: 0.45

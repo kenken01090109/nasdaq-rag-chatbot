@@ -1,0 +1,25 @@
+Company: Sarepta Therapeutics Inc. Common Stock (DE)
+Ticker: SRPT
+Market Cap: 1754379008
+Enterprise Value: 1803881984
+Total Revenue: 2198236928
+Revenue Per Share: 21.956
+EBITDA: -613251008
+Gross Margins: -0.07435
+Operating Margins: -0.92584
+Profit Margins: -0.32454
+Free Cashflow: 95917000
+Operating Cashflow: -205479008
+Return On Assets: -0.11243
+Return On Equity: -0.53472
+Total Cash: 939649984
+Total Debt: 1039548032
+Debt To Equity: 91.139
+Current Ratio: 2.317
+Quick Ratio: 1.332
+Trailing PE: 
+Forward PE: 5.603941
+Price To Book: 1.5376829
+Beta: 0.461
+52 Week High: 103.32
+52 Week Low: 10.42

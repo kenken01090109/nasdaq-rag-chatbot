@@ -1,0 +1,25 @@
+Company: NextCure Inc. Common Stock
+Ticker: NXTC
+Market Cap: 43434644
+Enterprise Value: 10472529
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -57820000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -29165250
+Operating Cashflow: -48944000
+Return On Assets: -0.58013
+Return On Equity: -1.16913
+Total Cash: 29110000
+Total Debt: 5388000
+Debt To Equity: 22.786
+Current Ratio: 2.969
+Quick Ratio: 2.675
+Trailing PE: 
+Forward PE: -3.5706053
+Price To Book: 1.4022182
+Beta: 1.554
+52 Week High: 15.74
+52 Week Low: 2.688

@@ -1,0 +1,25 @@
+Company: Hongli Group Inc. Ordinary Shares
+Ticker: HLP
+Market Cap: 77110688
+Enterprise Value: 86388200
+Total Revenue: 16731357
+Revenue Per Share: 0.35
+EBITDA: 2277533
+Gross Margins: 0.32914
+Operating Margins: 0.13392
+Profit Margins: 0.06041
+Free Cashflow: 425894
+Operating Cashflow: 528113
+Return On Assets: 0.017339999
+Return On Equity: 0.026530001
+Total Cash: 923333
+Total Debt: 9466461
+Debt To Equity: 17.054
+Current Ratio: 1.147
+Quick Ratio: 0.88
+Trailing PE: 20.999998
+Forward PE: 
+Price To Book: 1.3888888
+Beta: 0.698
+52 Week High: 1.82
+52 Week Low: 0.613

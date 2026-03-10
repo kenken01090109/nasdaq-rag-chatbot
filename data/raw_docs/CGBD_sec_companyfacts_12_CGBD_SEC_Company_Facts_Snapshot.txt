@@ -1,0 +1,9 @@
+Company: Carlyle Secured Lending Inc. Common Stock
+Ticker: CGBD
+CIK: 0001544206
+Latest SEC XBRL Facts:
+NetIncomeLoss: 52587000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2557926000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1365326000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1192600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -51310000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

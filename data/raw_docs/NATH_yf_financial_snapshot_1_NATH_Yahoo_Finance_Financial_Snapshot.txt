@@ -1,0 +1,25 @@
+Company: Nathan's Famous Inc. Common Stock
+Ticker: NATH
+Market Cap: 410955552
+Enterprise Value: 439720992
+Total Revenue: 157784000
+Revenue Per Share: 38.58
+EBITDA: 32710000
+Gross Margins: 0.3065
+Operating Margins: 0.14942001
+Profit Margins: 0.13592
+Free Cashflow: 19223124
+Operating Cashflow: 22482000
+Return On Assets: 0.3987
+Return On Equity: 
+Total Cash: 24545000
+Total Debt: 52983000
+Debt To Equity: 
+Current Ratio: 2.73
+Quick Ratio: 2.626
+Trailing PE: 19.301924
+Forward PE: 
+Price To Book: -26.916063
+Beta: 0.319
+52 Week High: 118.5
+52 Week Low: 88.0

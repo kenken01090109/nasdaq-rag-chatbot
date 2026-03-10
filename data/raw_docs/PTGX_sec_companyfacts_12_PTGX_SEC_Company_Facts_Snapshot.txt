@@ -1,0 +1,11 @@
+Company: Protagonist Therapeutics Inc. Common Stock
+Ticker: PTGX
+CIK: 0001377121
+Latest SEC XBRL Facts:
+Revenues: 8781000 | unit=USD | filed=2017-11-07 | period_end=2017-09-30
+NetIncomeLoss: -85765000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 701688000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 56251000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 645437000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 94646000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 113713000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

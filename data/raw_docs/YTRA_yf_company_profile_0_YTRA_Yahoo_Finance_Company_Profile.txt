@@ -1,0 +1,9 @@
+Company: Yatra Online Inc. Ordinary Shares
+Ticker: YTRA
+Sector: Consumer Cyclical
+Industry: Travel Services
+Country: India
+City: Gurugram
+Website: https://www.yatra.com
+Employees: 1452
+Business Summary: Yatra Online, Inc. operates as an online travel company in India and internationally. It operates through Air Ticketing; Hotels and Packages; and Other Services segments. The company offers travel-related services, including domestic and international air ticketing, hotel bookings, homestays, holiday packages, bus ticketing, rail ticketing, cab bookings, and ancillary services for leisure and business travelers. It also provides various services, such as exploring and searching comprises web and mobile platforms that enable customers to explore and search flights, hotels, holiday packages, buses, trains, and activities. In addition, the company offers tours, sightseeing, shows, and event services; rail and cab services; and other ancillary travel services, as well as sells travel vouchers and coupons. It serves its services through mobile applications comprising Yatra, a mobile interface; and Yatra Corporate, a self-booking application for business customers. Yatra Online, Inc. was incorporated in 2005 and is based in Gurugram, India.

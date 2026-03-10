@@ -1,0 +1,9 @@
+Company: Terns Pharmaceuticals Inc. Common Stock
+Ticker: TERN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Foster City
+Website: https://www.ternspharma.com
+Employees: 59
+Business Summary: Terns Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, develops small-molecule product candidates for the treatment of oncology and obesity. The company develops TERN-701, an allosteric BCR-ABL tyrosine kinase inhibitor (TKI) that is in Phase 1 clinical trial for chronic myeloid leukemia (CML), a form of cancer that starts in bone marrow. It also develops TERN-501, a thyroid hormone receptor beta agonist with enhanced liver distribution and metabolic stability that is in Phase IIa clinical trial for the treatment of metabolic dysfunction-associated steatohepatitis (MASH); and TERN-601, a small-molecule Glucagon-Like Peptide-1 receptor agonist program that is intended to orally be administered for obesity, as well as TERN-800 series of small-molecule glucose-dependent insulinotropic polypeptide receptor (GIPR) modulators for obesity. The company was incorporated in 2016 and is headquartered in Foster City, California.

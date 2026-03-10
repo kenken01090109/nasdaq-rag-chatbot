@@ -1,0 +1,25 @@
+Company: GSR IV Acquisition Corp. Class A ordinary share
+Ticker: GSRF
+Market Cap: 294643136
+Enterprise Value: 292807104
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -325194
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1835999
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 90.452
+Quick Ratio: 82.74
+Trailing PE: 1002.00006
+Forward PE: 
+Price To Book: -40.89796
+Beta: 
+52 Week High: 10.2
+52 Week Low: 9.96

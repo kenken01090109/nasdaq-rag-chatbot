@@ -1,0 +1,9 @@
+Company: Establishment Labs Holdings Inc. Common Shares
+Ticker: ESTA
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Austin
+Website: https://www.establishmentlabs.com
+Employees: 
+Business Summary: Establishment Labs Holdings Inc., a medical technology company, manufactures and markets medical devices for breast aesthetic and reconstructive plastic surgeries in Europe, the Middle East, Africa, Latin America, Asia, and the United States. The company offers silicone gel-filled breast implants under the Motiva Implants brand. It also provides breast tissue expanders. The company sells products to physicians, hospitals, and clinics through distributors and its direct sales force. Establishment Labs Holdings Inc. was incorporated in 2004 and is based in Austin, Texas.

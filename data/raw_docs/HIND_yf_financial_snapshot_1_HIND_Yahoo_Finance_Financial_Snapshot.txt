@@ -1,0 +1,25 @@
+Company: Vyome Holdings Inc. Common Stock
+Ticker: HIND
+Market Cap: 15804583
+Enterprise Value: 12145822
+Total Revenue: 344591
+Revenue Per Share: 0.5
+EBITDA: -1634808
+Gross Margins: 0.75297
+Operating Margins: -25.08958
+Profit Margins: 0.0
+Free Cashflow: 6276460
+Operating Cashflow: -2273623
+Return On Assets: -0.24524
+Return On Equity: 
+Total Cash: 5707012
+Total Debt: 38609
+Debt To Equity: 0.985
+Current Ratio: 1.936
+Quick Ratio: 1.86
+Trailing PE: 
+Forward PE: 
+Price To Book: 6.153846
+Beta: 
+52 Week High: 305.0
+52 Week Low: 1.75

@@ -1,0 +1,9 @@
+Company: United Bancorp Inc. Common Stock
+Ticker: UBCP
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Martins Ferry
+Website: https://www.unitedbancorp.com
+Employees: 
+Business Summary: United Bancorp, Inc. operates as the bank holding company for Unified Bank that provides commercial and retail banking services in Ohio. The company offers a range of banking and financial services, including accepting demand, savings, and time deposits, as well as granting commercial, real estate, and consumer loans. United Bancorp, Inc. was founded in 1902 and is headquartered in Martins Ferry, Ohio.

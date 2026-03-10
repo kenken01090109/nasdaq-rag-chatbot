@@ -1,0 +1,10 @@
+Company: Stock Yards Bancorp Inc. Common Stock
+Ticker: SYBT
+CIK: 0000835324
+Latest SEC XBRL Facts:
+NetIncomeLoss: 103536000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 9307376000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 8266232000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1041144000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 113934000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 254511000 | unit=USD | filed=2020-05-08 | period_end=2020-03-31

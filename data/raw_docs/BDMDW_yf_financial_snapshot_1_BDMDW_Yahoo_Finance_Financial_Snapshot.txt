@@ -1,0 +1,25 @@
+Company: Baird Medical Investment Holdings Ltd Warrant
+Ticker: BDMDW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 31860014
+Revenue Per Share: 1.226
+EBITDA: 919415
+Gross Margins: 0.86935997
+Operating Margins: -1.31295
+Profit Margins: -0.09952
+Free Cashflow: 2515115
+Operating Cashflow: -5546753
+Return On Assets: -0.002
+Return On Equity: -0.08028
+Total Cash: 2504181
+Total Debt: 22561916
+Debt To Equity: 63.333
+Current Ratio: 1.713
+Quick Ratio: 1.222
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.08686567
+Beta: -1.416
+52 Week High: 0.12
+52 Week Low: 0.1

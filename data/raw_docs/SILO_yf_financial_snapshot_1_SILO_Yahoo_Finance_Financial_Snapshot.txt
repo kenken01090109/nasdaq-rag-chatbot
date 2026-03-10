@@ -1,0 +1,25 @@
+Company: Silo Pharma Inc. Common Stock
+Ticker: SILO
+Market Cap: 4642392
+Enterprise Value: -1204810
+Total Revenue: 72102
+Revenue Per Share: 0.012
+EBITDA: -5295894
+Gross Margins: 0.65235
+Operating Margins: -63.88161
+Profit Margins: 0.0
+Free Cashflow: -3113872
+Operating Cashflow: -4798493
+Return On Assets: -0.44373
+Return On Equity: -0.86112
+Total Cash: 5866206
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.703
+Quick Ratio: 8.29
+Trailing PE: 
+Forward PE: -0.46814284
+Price To Book: 0.6841336
+Beta: 0.614
+52 Week High: 1.447
+52 Week Low: 0.221

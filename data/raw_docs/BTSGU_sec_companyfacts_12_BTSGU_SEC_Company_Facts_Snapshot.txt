@@ -1,0 +1,12 @@
+Company: BrightSpring Health Services Inc. Tangible Equity Unit
+Ticker: BTSGU
+CIK: 0001865782
+Latest SEC XBRL Facts:
+Revenues: 8213671000 | unit=USD | filed=2024-11-01 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9359933000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 113586000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 6049497000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 4228479000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 1818563000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 258610000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 140344000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Twin Disc Incorporated Common Stock
+Ticker: TWIN
+Market Cap: 247908304
+Enterprise Value: 311390560
+Total Revenue: 348096000
+Revenue Per Share: 24.913
+EBITDA: 25318000
+Gross Margins: 0.27873
+Operating Margins: 0.015319999
+Profit Margins: 0.06264
+Free Cashflow: -15659375
+Operating Cashflow: 16695000
+Return On Assets: 0.01835
+Return On Equity: 0.13305001
+Total Cash: 14904000
+Total Debt: 66919000
+Debt To Equity: 36.137
+Current Ratio: 2.125
+Quick Ratio: 0.635
+Trailing PE: 11.309211
+Forward PE: 15.078948
+Price To Book: 1.3434936
+Beta: 0.637
+52 Week High: 19.63
+52 Week Low: 6.16

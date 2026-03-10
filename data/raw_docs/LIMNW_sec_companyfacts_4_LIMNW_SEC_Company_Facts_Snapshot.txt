@@ -1,0 +1,9 @@
+Company: Liminatus Pharma Inc. Warrants
+Ticker: LIMNW
+CIK: 0001971387
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2037590 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1342409 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2988172 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -1645763 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9576471 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

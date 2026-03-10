@@ -1,0 +1,11 @@
+Company: China SXT Pharmaceuticals Inc. Ordinary Shares
+Ticker: SXTC
+CIK: 0001723980
+Latest SEC XBRL Facts:
+Revenues: 829490 | unit=USD | filed=2025-03-28 | period_end=2024-09-30
+NetIncomeLoss: -802568 | unit=USD | filed=2025-03-28 | period_end=2024-09-30
+Assets: 30997352 | unit=USD | filed=2025-03-28 | period_end=2024-09-30
+Liabilities: 15962396 | unit=USD | filed=2025-03-28 | period_end=2024-09-30
+StockholdersEquity: 15034956 | unit=USD | filed=2025-03-28 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -1357179 | unit=USD | filed=2025-03-28 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 18512756 | unit=USD | filed=2025-03-28 | period_end=2024-09-30

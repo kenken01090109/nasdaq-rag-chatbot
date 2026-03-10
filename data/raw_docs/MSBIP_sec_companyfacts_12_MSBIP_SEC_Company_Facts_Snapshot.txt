@@ -1,0 +1,10 @@
+Company: Midland States Bancorp Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: MSBIP
+CIK: 0001466026
+Latest SEC XBRL Facts:
+NetIncomeLoss: -121393000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6911515000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6327514000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 584001000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 132741000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 166147000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

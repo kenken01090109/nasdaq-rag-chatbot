@@ -1,0 +1,25 @@
+Company: Hologic Inc. Common Stock
+Ticker: HOLX
+Market Cap: 16908569600
+Enterprise Value: 17064501248
+Total Revenue: 4126500096
+Revenue Per Share: 18.366
+EBITDA: 1350700032
+Gross Margins: 0.60378
+Operating Margins: 0.22990999
+Profit Margins: 0.13178
+Free Cashflow: 848612480
+Operating Cashflow: 1097699968
+Return On Assets: 0.07434
+Return On Equity: 0.108559996
+Total Cash: 2366599936
+Total Debt: 2520300032
+Debt To Equity: 48.051
+Current Ratio: 4.04
+Quick Ratio: 3.102
+Trailing PE: 31.427383
+Forward PE: 15.60861
+Price To Book: 3.2210598
+Beta: 0.728
+52 Week High: 75.75
+52 Week Low: 51.9

@@ -1,0 +1,12 @@
+Company: Aditxt Inc. Common Stock
+Ticker: ADTX
+Total Revenue: 5945
+Revenue Per Share: 0.341
+Gross Margins: 0.0
+Operating Margins: -4198.703
+EBITDA: -20184174
+Profit Margins: 0.0
+Free Cashflow: -9754437
+Operating Cashflow: -22589676
+Return On Assets: -0.61698
+Return On Equity: 

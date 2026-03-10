@@ -1,0 +1,9 @@
+Company: Erasca Inc. Common Stock
+Ticker: ERAS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.erasca.com
+Employees: 103
+Business Summary: Erasca, Inc., a clinical-stage precision oncology company, focuses on discovering, developing, and commercializing therapies for patients with RAS/MAPK pathway-driven cancers. The company's lead product is naporafenib which is in SEACRAFT-2 pivotal Phase 3 trial for patients with NRAS-mutated (NRASm) melanoma; and in SEACRAFT-1 Phase 1b trial for patients with NRAS Q61X melanoma. It also develops ERAS-0015, a pan-RAS molecular glue for the treatment of patients with RAS-altered solid tumors; ERAS-4001, a pan-KRAS inhibitor for the treatment of patients with KRAS-altered solid tumors; and ERAS-12, an investigational EGFR D2/D3 biparatopic antibody (bpAb) for the treatment of EGRF and RAS/MAPK solid tumors. In addition, the company's products under development include ERAS-801, a central nervous system (CNS)-penetrant EGFR inhibitor for patients with EGFR-altered recurrent glioblastoma (GBM) which is in phase 1 clinical trials; and ERAS-007, an oral inhibitor of ERK1/2 and ERAS-601, an oral SHP2 inhibitor for patients with advanced or metastatic solid tumors. It has a license agreement with Novartis to develop, manufacture, use, and commercialize naporafenib; Katmai Pharmaceuticals, Inc. to develop, manufacture, use, and commercialize ERAS-801 and certain other related compounds; and NiKang Therapeutics, Inc. to develop and commercialize ERAS-601 and certain other related compounds. The company has a clinical trial collaboration and supply agreement with Tango Therapeutics, Inc. for the evaluation of its pan-RAS molecular glue, ERAS-0015. Erasca, Inc. was incorporated in 2018 and is headquartered in San Diego, California.

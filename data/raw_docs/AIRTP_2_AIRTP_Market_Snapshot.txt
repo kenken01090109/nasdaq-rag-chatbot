@@ -1,0 +1,10 @@
+Company: Air T Inc. Air T Funding Alpha Income Trust Preferred Securities
+Ticker: AIRTP
+Market Cap: 465160512
+Enterprise Value: 232963952
+Trailing PE: 57.470238
+Forward PE: 
+Price To Book: -44.59584
+Beta: 0.399
+52 Week High: 21.0
+52 Week Low: 14.365

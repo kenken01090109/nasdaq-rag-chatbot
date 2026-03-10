@@ -1,0 +1,25 @@
+Company: Greenlight Capital Re Ltd. Class A Ordinary Shares
+Ticker: GLRE
+Market Cap: 483903840
+Enterprise Value: 455503968
+Total Revenue: 661539968
+Revenue Per Share: 19.538
+EBITDA: 
+Gross Margins: 0.03487
+Operating Margins: -0.00244
+Profit Margins: -0.00282
+Free Cashflow: -26103750
+Operating Cashflow: 139534000
+Return On Assets: 0.0015700001
+Return On Equity: -0.00282
+Total Cash: 68789000
+Total Debt: 38379000
+Debt To Equity: 5.825
+Current Ratio: 1.747
+Quick Ratio: 0.08
+Trailing PE: 
+Forward PE: 8.84375
+Price To Book: 0.73228794
+Beta: 0.512
+52 Week High: 15.07
+52 Week Low: 11.57

@@ -1,0 +1,10 @@
+Company: Erasca Inc. Common Stock
+Ticker: ERAS
+CIK: 0001761918
+Latest SEC XBRL Facts:
+NetIncomeLoss: -95454000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 420401000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 72515000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 347886000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -73744000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 70230000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

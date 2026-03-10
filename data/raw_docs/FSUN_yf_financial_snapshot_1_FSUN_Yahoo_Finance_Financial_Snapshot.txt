@@ -1,0 +1,25 @@
+Company: FirstSun Capital Bancorp Common Stock
+Ticker: FSUN
+Market Cap: 1022907520
+Enterprise Value: 431820320
+Total Revenue: 394670016
+Revenue Per Share: 14.203
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.33469
+Profit Margins: 0.24815
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01181
+Return On Equity: 0.08925
+Total Cash: 652592000
+Total Debt: 47840000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.570605
+Forward PE: 7.354386
+Price To Book: 0.88689005
+Beta: 0.314
+52 Week High: 42.34
+52 Week Low: 29.95

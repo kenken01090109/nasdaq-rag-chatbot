@@ -1,0 +1,25 @@
+Company: Woodward Inc. Common Stock
+Ticker: WWD
+Market Cap: 22432798720
+Enterprise Value: 23530770432
+Total Revenue: 3790792960
+Revenue Per Share: 63.478
+EBITDA: 676028032
+Gross Margins: 0.28104
+Operating Margins: 0.16055
+Profit Margins: 0.12893
+Free Cashflow: 252776256
+Operating Cashflow: 551214976
+Return On Assets: 0.077870004
+Return On Equity: 0.20381
+Total Cash: 454244992
+Total Debt: 938115968
+Debt To Equity: 36.256
+Current Ratio: 2.051
+Quick Ratio: 1.297
+Trailing PE: 47.150063
+Forward PE: 36.655174
+Price To Book: 8.639294
+Beta: 0.964
+52 Week High: 403.31
+52 Week Low: 146.82

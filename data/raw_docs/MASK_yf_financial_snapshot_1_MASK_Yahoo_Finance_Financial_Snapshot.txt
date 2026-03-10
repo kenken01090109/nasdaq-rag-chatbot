@@ -1,0 +1,25 @@
+Company: 3 E Network Technology Group Ltd Class A Ordinary Shares
+Ticker: MASK
+Market Cap: 3833598
+Enterprise Value: 786732
+Total Revenue: 4835167
+Revenue Per Share: 0.456
+EBITDA: 1937102
+Gross Margins: 0.49822
+Operating Margins: 0.39926997
+Profit Margins: 0.1582
+Free Cashflow: 743822
+Operating Cashflow: 13832
+Return On Assets: 0.1826
+Return On Equity: 0.36533
+Total Cash: 2697758
+Total Debt: 1080266
+Debt To Equity: 20.178
+Current Ratio: 2.462
+Quick Ratio: 2.388
+Trailing PE: 1.0035714
+Forward PE: 
+Price To Book: 0.29516804
+Beta: 
+52 Week High: 4.192
+52 Week Low: 0.129

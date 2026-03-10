@@ -1,0 +1,25 @@
+Company: Pyxis Tankers Inc. Common Stock
+Ticker: PXS
+Market Cap: 41838604
+Enterprise Value: 80970304
+Total Revenue: 38994000
+Revenue Per Share: 3.741
+EBITDA: 13492000
+Gross Margins: 0.55016
+Operating Margins: 0.29341
+Profit Margins: 0.05114
+Free Cashflow: 12659375
+Operating Cashflow: 13608000
+Return On Assets: 0.01935
+Return On Equity: 0.01925
+Total Cash: 53555000
+Total Debt: 87246000
+Debt To Equity: 86.051
+Current Ratio: 4.445
+Quick Ratio: 4.36
+Trailing PE: 
+Forward PE: 2.7328765
+Price To Book: 0.43687725
+Beta: 
+52 Week High: 4.738
+52 Week Low: 2.47

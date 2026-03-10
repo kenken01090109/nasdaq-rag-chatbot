@@ -1,0 +1,25 @@
+Company: Scienture Holdings Inc. Common Stock
+Ticker: SCNX
+Market Cap: 16097929
+Enterprise Value: 18297374
+Total Revenue: 653391
+Revenue Per Share: 0.051
+EBITDA: -17303492
+Gross Margins: 0.8848
+Operating Margins: -7.39125
+Profit Margins: 0.0
+Free Cashflow: 1808025
+Operating Cashflow: -11113802
+Return On Assets: -0.10865
+Return On Equity: -0.24069999
+Total Cash: 355692
+Total Debt: 2555137
+Debt To Equity: 3.091
+Current Ratio: 0.193
+Quick Ratio: 0.129
+Trailing PE: 0.52826667
+Forward PE: -0.55027777
+Price To Book: 0.11085619
+Beta: 
+52 Week High: 3.17
+52 Week Low: 0.372

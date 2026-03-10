@@ -1,0 +1,25 @@
+Company: Future FinTech Group Inc. Common Stock
+Ticker: FTFT
+Market Cap: 7320074
+Enterprise Value: -27150198
+Total Revenue: 2665719
+Revenue Per Share: 3.048
+EBITDA: -35203024
+Gross Margins: 0.18906
+Operating Margins: -1.08954
+Profit Margins: 0.0
+Free Cashflow: -3453885
+Operating Cashflow: 61294592
+Return On Assets: -0.41173
+Return On Equity: -1.43875
+Total Cash: 37012116
+Total Debt: 2505959
+Debt To Equity: 5.776
+Current Ratio: 5.139
+Quick Ratio: 3.957
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.16838928
+Beta: 1.591
+52 Week High: 16.12
+52 Week Low: 1.3

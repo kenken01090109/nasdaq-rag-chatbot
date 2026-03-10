@@ -1,0 +1,25 @@
+Company: Blue Water Acquisition Corp. III Unit.
+Ticker: BLUWU
+Market Cap: 
+Enterprise Value: 341382496
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 759229
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -41.52941
+Beta: 
+52 Week High: 11.0
+52 Week Low: 10.0

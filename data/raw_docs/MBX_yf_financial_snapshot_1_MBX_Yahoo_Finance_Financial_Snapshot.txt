@@ -1,0 +1,25 @@
+Company: MBX Biosciences Inc. Common Stock
+Ticker: MBX
+Market Cap: 1371765376
+Enterprise Value: 1020453888
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -90624000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -50834752
+Operating Cashflow: -77685000
+Return On Assets: -0.16643
+Return On Equity: -0.24433
+Total Cash: 391672992
+Total Debt: 623000
+Debt To Equity: 0.161
+Current Ratio: 32.955
+Quick Ratio: 32.6
+Trailing PE: 3.9830508
+Forward PE: -9.968609
+Price To Book: 3.5248644
+Beta: 
+52 Week High: 44.89
+52 Week Low: 4.807

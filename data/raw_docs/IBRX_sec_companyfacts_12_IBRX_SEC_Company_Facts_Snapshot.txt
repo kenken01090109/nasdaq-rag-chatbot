@@ -1,0 +1,12 @@
+Company: ImmunityBio Inc. Common Stock
+Ticker: IBRX
+CIK: 0001326110
+Latest SEC XBRL Facts:
+Revenues: 75003000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 75003000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -289454000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 518987000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1042397000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -524319000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -234558000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 60241000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

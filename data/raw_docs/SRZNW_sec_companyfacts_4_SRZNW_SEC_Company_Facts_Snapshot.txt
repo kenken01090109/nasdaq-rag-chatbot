@@ -1,0 +1,11 @@
+Company: Surrozen Inc. Warrant
+Ticker: SRZNW
+CIK: 0001824893
+Latest SEC XBRL Facts:
+Revenues: 2949000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -58867000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 94046000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 117561000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -23515000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24432000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 81335000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Koss Corporation Common Stock
+Ticker: KOSS
+CIK: 0000056701
+Latest SEC XBRL Facts:
+NetIncomeLoss: -321678 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Assets: 36769678 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Liabilities: 6458748 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+StockholdersEquity: 30310930 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1823 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2464838 | unit=USD | filed=2026-01-30 | period_end=2025-12-31

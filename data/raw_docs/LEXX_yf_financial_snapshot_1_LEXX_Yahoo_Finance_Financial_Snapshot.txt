@@ -1,0 +1,25 @@
+Company: Lexaria Bioscience Corp. Common Stock
+Ticker: LEXX
+Market Cap: 20626716
+Enterprise Value: 14548376
+Total Revenue: 522000
+Revenue Per Share: 0.027
+EBITDA: -10444801
+Gross Margins: 1.0
+Operating Margins: -20.14616
+Profit Margins: 0.0
+Free Cashflow: -4779293
+Operating Cashflow: -8708440
+Return On Assets: -0.82964
+Return On Equity: -1.55233
+Total Cash: 4424500
+Total Debt: 101920
+Debt To Equity: 2.253
+Current Ratio: 3.682
+Quick Ratio: 3.098
+Trailing PE: 
+Forward PE: -2.1251283
+Price To Book: 3.7502263
+Beta: 0.558
+52 Week High: 1.896
+52 Week Low: 0.46

@@ -1,0 +1,9 @@
+Company: Lion Group Holding Ltd. American Depositary Share
+Ticker: LGHL
+Sector: Financial Services
+Industry: Capital Markets
+Country: Singapore
+City: Singapore
+Website: https://www.liongrouphl.com
+Employees: 25
+Business Summary: Lion Group Holding Ltd., together with its subsidiaries, operates a trading platform for corporate clients, individual traders, and retail investors primarily in the People's Republic of China and Southeast Asia. Its trading platform offers a range of products and services comprising contracts for difference trading, over-the-counter stock options trading, futures and securities brokerage, and total return swap trading services through its Lion Brokers Pro app platform. The company's trading platform allows users to trade various futures products on futures exchanges, including the Chicago Mercantile Exchange, Singapore Exchange, the Hong Kong Futures Exchange, and Eurex Exchange; stocks listed on the New York Stock Exchange, Nasdaq, and Hong Kong Stock Exchange; and the People's Republic of China stocks listed on the Shanghai Stock Exchange and Shenzhen Stock Exchange that are eligible for the Shanghai-Hong Kong Stock Connect and Shenzhen-Hong Kong Stock Connect programs. It markets its products mainly through search engines, social media, app stores, and third-party websites. Lion Group Holding Ltd. was founded in 2015 and is headquartered in Singapore.

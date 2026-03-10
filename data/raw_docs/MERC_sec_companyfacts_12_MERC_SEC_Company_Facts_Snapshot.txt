@@ -1,0 +1,12 @@
+Company: Mercer International Inc. Common Stock
+Ticker: MERC
+CIK: 0001333274
+Latest SEC XBRL Facts:
+Revenues: 1045493000 | unit=USD | filed=2018-10-25 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1418566000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -189189000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2290563000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1931031000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 359532000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -37569000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 98102000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

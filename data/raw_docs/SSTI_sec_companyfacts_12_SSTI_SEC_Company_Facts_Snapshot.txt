@@ -1,0 +1,12 @@
+Company: SoundThinking Inc. Common Stock
+Ticker: SSTI
+CIK: 0001351636
+Latest SEC XBRL Facts:
+Revenues: 9593000 | unit=USD | filed=2019-05-09 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 79338000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -6648000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 134433000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 60885000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 73548000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4810000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11833000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

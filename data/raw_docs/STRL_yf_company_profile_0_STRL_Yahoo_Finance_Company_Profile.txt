@@ -1,0 +1,9 @@
+Company: Sterling Infrastructure Inc. Common Stock
+Ticker: STRL
+Sector: Industrials
+Industry: Engineering & Construction
+Country: United States
+City: The Woodlands
+Website: https://www.strlco.com
+Employees: 4400
+Business Summary: Sterling Infrastructure, Inc. engages in the provision of e-infrastructure, transportation, and building solutions in the United States. It operates through three segments: E-Infrastructure, Transportation, and Building Solutions. The E-Infrastructure Solutions segment provides site development services for the blue-chip end users in the e-commerce distribution center, data center, manufacturing, warehousing, and power generation sectors. Its Transportation Solutions segment is involved in the development of infrastructure and rehabilitation projects for highways, roads, bridges, airports, ports, rail, and storm drainage systems for the departments of transportation, regional transit, airport, port, water, and railroads authorities. The Building Solutions segment offers residential and commercial concrete foundations for single-family and multi-family homes, parking structures, elevated slabs, and other concrete work for developers and general contractors, as well as plumbing and surveys services for residential builds. It operates in the United States, primarily across the Southern, Northeastern, Mid-Atlantic and Rocky Mountain regions, and the Pacific Islands. The company was formerly known as Sterling Construction Company, Inc. and changed its name to Sterling Infrastructure, Inc. in June 2022. Sterling Infrastructure, Inc. was founded in 1955 and is headquartered in The Woodlands, Texas.

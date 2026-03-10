@@ -1,0 +1,25 @@
+Company: UMB Financial Corporation Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series B
+Ticker: UMBFO
+Market Cap: 
+Enterprise Value: 3422695424
+Total Revenue: 2497754880
+Revenue Per Share: 34.095
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.42957002
+Profit Margins: 0.28121
+Free Cashflow: 
+Operating Cashflow: 1026692992
+Return On Assets: 0.0113699995
+Return On Equity: 0.12588
+Total Cash: 2925409024
+Total Debt: 4008278016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.2758387
+Beta: 0.773
+52 Week High: 28.05
+52 Week Low: 25.1

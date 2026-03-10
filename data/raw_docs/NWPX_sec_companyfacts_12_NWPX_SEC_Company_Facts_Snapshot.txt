@@ -1,0 +1,10 @@
+Company: NWPX Infrastructure Inc. Common Stock
+Ticker: NWPX
+CIK: 0001001385
+Latest SEC XBRL Facts:
+NetIncomeLoss: 26532000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 605233000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 218881000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 386352000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 31250000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2671000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

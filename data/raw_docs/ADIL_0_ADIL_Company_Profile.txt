@@ -1,0 +1,9 @@
+Company: Adial Pharmaceuticals Inc Common Stock
+Ticker: ADIL
+Long Business Summary: Adial Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on the development of therapeutics for the treatment or prevention of addiction and related disorders. The company's lead product is AD04, a serotonin-3 antagonist, which is in Phase 3 clinical trials for the treatment of alcohol use disorder. It is also involved in the development of drug candidates for non-opioid pain reduction and other diseases and disorders. Adial Pharmaceuticals, Inc. was founded in 2010 and is based in Glen Allen, Virginia.
+Industry: Biotechnology
+Sector: Healthcare
+Website: https://www.adial.com
+Country: United States
+City: Glen Allen
+Full Time Employees: 5

@@ -1,0 +1,9 @@
+Company: Canadian Solar Inc. Common Shares (ON)
+Ticker: CSIQ
+CIK: 0001375877
+Latest SEC XBRL Facts:
+Assets: 13511550000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 9361747000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 2815500000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -885324000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1701487000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

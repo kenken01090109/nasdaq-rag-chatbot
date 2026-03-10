@@ -1,0 +1,25 @@
+Company: QuinStreet Inc. Common Stock
+Ticker: QNST
+Market Cap: 694186176
+Enterprise Value: 611791104
+Total Revenue: 1105593984
+Revenue Per Share: 19.391
+EBITDA: 34300000
+Gross Margins: 0.09983
+Operating Margins: 0.0336
+Profit Margins: 0.05643
+Free Cashflow: 74459504
+Operating Cashflow: 101232000
+Return On Assets: 0.03258
+Return On Equity: 0.24054001
+Total Cash: 110318000
+Total Debt: 8545000
+Debt To Equity: 2.891
+Current Ratio: 1.511
+Quick Ratio: 1.462
+Trailing PE: 11.383178
+Forward PE: 7.6220274
+Price To Book: 2.3577237
+Beta: 0.749
+52 Week High: 19.52
+52 Week Low: 10.29

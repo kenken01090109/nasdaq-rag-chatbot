@@ -1,0 +1,10 @@
+Company: Agriculture & Natural Solutions Acquisition Corporation Class A Ordinary Shares
+Ticker: ANSC
+CIK: 0001854149
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7299715 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 378295457 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 27307862 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -27259781 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2023-12-21 | period_end=2023-09-30

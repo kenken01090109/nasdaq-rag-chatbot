@@ -1,0 +1,25 @@
+Company: Finward Bancorp Common Stock
+Ticker: FNWD
+Market Cap: 161353840
+Enterprise Value: 123068800
+Total Revenue: 66246000
+Revenue Per Share: 15.509
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.13465
+Profit Margins: 0.12208
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00396
+Return On Equity: 0.0496
+Total Cash: 119647000
+Total Debt: 84703000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 19.835108
+Forward PE: 12.3069315
+Price To Book: 0.92375153
+Beta: 0.337
+52 Week High: 39.99
+52 Week Low: 26.46

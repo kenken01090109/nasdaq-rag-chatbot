@@ -1,0 +1,25 @@
+Company: Hackett Group Inc (The). Common Stock
+Ticker: HCKT
+Market Cap: 385528896
+Enterprise Value: 423804544
+Total Revenue: 300846016
+Revenue Per Share: 11.018
+EBITDA: 31826000
+Gross Margins: 0.38944998
+Operating Margins: 0.12132
+Profit Margins: 0.04302
+Free Cashflow: 33290250
+Operating Cashflow: 40304000
+Return On Assets: 0.08332
+Return On Equity: 0.14093
+Total Cash: 18197000
+Total Debt: 78300000
+Debt To Equity: 114.978
+Current Ratio: 1.72
+Quick Ratio: 1.593
+Trailing PE: 30.891304
+Forward PE: 8.028249
+Price To Book: 5.2358146
+Beta: 1.058
+52 Week High: 29.65
+52 Week Low: 12.76

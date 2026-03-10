@@ -1,0 +1,9 @@
+Company: Neuronetics Inc. Common Stock
+Ticker: STIM
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Malvern
+Website: https://neurostar.com/neuronetics
+Employees: 716
+Business Summary: Neuronetics, Inc. engages in providing in office treatments for patients with neurohealth disorders in the United States and internationally. The company offers NeuroStar Advanced Therapy System, a non-invasive and non-systemic office-based treatment to treat adult patients with major depressive disorder. Its NeuroStar Advanced Therapy System uses transcranial magnetic stimulation to create a pulsed, MRI-strength magnetic field that induces electrical currents designed to stimulate specific areas of the brain associated with mood. The company sells its products through its sales and customer support team to psychiatrists. The company was incorporated in 2001 and is headquartered in Malvern, Pennsylvania.

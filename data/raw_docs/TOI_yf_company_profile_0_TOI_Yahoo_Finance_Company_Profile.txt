@@ -1,0 +1,9 @@
+Company: The Oncology Institute Inc. Common Stock
+Ticker: TOI
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: United States
+City: Cerritos
+Website: https://theoncologyinstitute.com
+Employees: 825
+Business Summary: The Oncology Institute, Inc., an oncology company, provides various medical oncology services in the United States. The company operates through three segments: Dispensary, Patient Services, and Clinical Trials & Other. It offers physician services, in-house infusion and dispensary, clinical trial, radiation, outpatient blood product transfusion, and patient support services, as well as educational seminars, support groups, counseling services, and 24/7 patient assistance services. The company also provides and manages clinical trials, palliative care programs, stem cell transplants services, other care delivery models associated with non-community-based academic, and tertiary care settings; and conducts clinical trials for a range of pharmaceutical, and medical device companies. It serves adult and senior cancer patients. The Oncology Institute, Inc. was founded in 2007 and is headquartered in Cerritos, California.

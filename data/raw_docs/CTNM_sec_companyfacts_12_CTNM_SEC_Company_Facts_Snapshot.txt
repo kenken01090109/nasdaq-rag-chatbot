@@ -1,0 +1,11 @@
+Company: Contineum Therapeutics Inc. Class A Common Stock
+Ticker: CTNM
+CIK: 0001855175
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-11-06 | period_end=2024-09-30
+NetIncomeLoss: -44822000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 190847000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 10377000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 180470000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -42270000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42633000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

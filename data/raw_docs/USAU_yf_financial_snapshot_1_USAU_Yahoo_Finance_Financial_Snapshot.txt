@@ -1,0 +1,25 @@
+Company: U.S. Gold Corp. Common Stock
+Ticker: USAU
+Market Cap: 287800064
+Enterprise Value: 251277344
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -16390127
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -8192505
+Operating Cashflow: -12971196
+Return On Assets: -0.45466
+Return On Equity: -1.15512
+Total Cash: 8836730
+Total Debt: 83121
+Debt To Equity: 0.338
+Current Ratio: 5.888
+Quick Ratio: 5.29
+Trailing PE: 
+Forward PE: -14.759494
+Price To Book: 10.234055
+Beta: 0.748
+52 Week High: 23.75
+52 Week Low: 7.38

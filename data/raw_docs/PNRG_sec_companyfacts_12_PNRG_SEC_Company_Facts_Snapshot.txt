@@ -1,0 +1,11 @@
+Company: PrimeEnergy Resources Corporation Common Stock
+Ticker: PNRG
+CIK: 0000056868
+Latest SEC XBRL Facts:
+Revenues: 138010000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: 53127000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+Assets: 332018000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 118233000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 213785000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 84542000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3689000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

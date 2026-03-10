@@ -1,0 +1,11 @@
+Company: GRAIL Inc. Common Stock
+Ticker: GRAL
+CIK: 0001699031
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 103575000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -309175000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 2601031000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 361068000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 2239963000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -235222000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 126892000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

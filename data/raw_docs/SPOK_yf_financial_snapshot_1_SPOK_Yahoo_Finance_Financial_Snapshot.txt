@@ -1,0 +1,25 @@
+Company: Spok Holdings Inc. Common Stock
+Ticker: SPOK
+Market Cap: 258301024
+Enterprise Value: 238922688
+Total Revenue: 139708000
+Revenue Per Share: 6.797
+EBITDA: 23597000
+Gross Margins: 0.6107
+Operating Margins: 0.12259
+Profit Margins: 0.11367
+Free Cashflow: 18100000
+Operating Cashflow: 28949000
+Return On Assets: 0.05957
+Return On Equity: 0.10548
+Total Cash: 25280000
+Total Debt: 6939000
+Debt To Equity: 4.74
+Current Ratio: 1.179
+Quick Ratio: 0.976
+Trailing PE: 15.675
+Forward PE: 14.928572
+Price To Book: 1.7656997
+Beta: 0.422
+52 Week High: 19.31
+52 Week Low: 11.68

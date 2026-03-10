@@ -1,0 +1,25 @@
+Company: Commvault Systems Inc. Common Stock
+Ticker: CVLT
+Market Cap: 3837973248
+Enterprise Value: 3765104128
+Total Revenue: 1147037056
+Revenue Per Share: 25.936
+EBITDA: 108941000
+Gross Margins: 0.81441003
+Operating Margins: 0.10087
+Profit Margins: 0.07585
+Free Cashflow: 247072496
+Operating Cashflow: 189450000
+Return On Assets: 0.041100003
+Return On Equity: 0.34485
+Total Cash: 1026345984
+Total Debt: 919945024
+Debt To Equity: 424.464
+Current Ratio: 2.343
+Quick Ratio: 2.251
+Trailing PE: 45.333336
+Forward PE: 18.04656
+Price To Book: 17.683868
+Beta: 0.593
+52 Week High: 200.68
+52 Week Low: 79.51

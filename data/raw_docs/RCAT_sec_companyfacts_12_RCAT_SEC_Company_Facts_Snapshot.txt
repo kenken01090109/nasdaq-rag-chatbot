@@ -1,0 +1,12 @@
+Company: Red Cat Holdings Inc. Common Stock
+Ticker: RCAT
+CIK: 0000748268
+Latest SEC XBRL Facts:
+Revenues: 4848239 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14494631 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -52418759 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 286024366 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 32750497 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 253273869 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15354934 | unit=USD | filed=2024-03-18 | period_end=2024-01-31
+CashAndCashEquivalentsAtCarryingValue: 66118581 | unit=USD | filed=2021-09-20 | period_end=2021-07-31

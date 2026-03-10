@@ -1,0 +1,9 @@
+Company: IO Biotech Inc. Common Stock
+Ticker: IOBT
+Sector: Healthcare
+Industry: Biotechnology
+Country: Denmark
+City: Copenhagen
+Website: https://www.iobiotech.com
+Employees: 80
+Business Summary: IO Biotech, Inc., a clinical-stage biopharmaceutical company, develops immune-modulating therapeutic cancer vaccines based on the T-win technology platform. The company's lead therapeutic cancer vaccine candidate includes IO102-IO103, which targets cancer cells and immune-suppressive cells in the tumor microenvironment that express indoleamine 2,3-dehydrogenase (IDO), and programmed death-ligand (PD-L1) that is in phase 3 clinical trial to treat melanoma, as well as in phase 2 clinical trial to treat lung, head and neck, and melanoma cancer. It also develops IO112, a product candidate that contains a single Arginase 1-derived peptide to target T cells that recognize epitopes derived from Arginase 1, which is an immunoregulatory enzyme highly expressed in difficult-to-treat tumors associated with high levels of myeloid-derived suppressor cells, including renal cell carcinoma, head and neck, breast, pancreatic, ovarian, colorectal, and prostate cancers. In addition, the company develops IO170, a TGFß1 vaccine for the treatment of solid tumors. IO Biotech, Inc. was incorporated in 2014 and is based in Copenhagen, Denmark.

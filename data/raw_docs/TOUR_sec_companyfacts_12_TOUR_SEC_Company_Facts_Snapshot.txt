@@ -1,0 +1,12 @@
+Company: Tuniu Corporation American Depositary Shares
+Ticker: TOUR
+CIK: 0001597095
+Latest SEC XBRL Facts:
+Revenues: 325816000 | unit=USD | filed=2019-04-04 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 70366000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+NetIncomeLoss: 10573000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+Assets: 261591000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+Liabilities: 123365000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+StockholdersEquity: 148041000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 13189000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 63705000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31

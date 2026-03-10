@@ -1,0 +1,10 @@
+Company: Old Second Bancorp Inc. Common Stock
+Ticker: OSBC
+CIK: 0000357173
+Latest SEC XBRL Facts:
+NetIncomeLoss: 51523000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6991754000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6125069000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 866685000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 78024000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 116525000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

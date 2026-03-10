@@ -1,0 +1,9 @@
+Company: Arcellx Inc. Common Stock
+Ticker: ACLX
+Long Business Summary: Arcellx, Inc., together with its subsidiary, engages in the development of various immunotherapies for patients with cancer and other incurable diseases in the United States. The company's lead ddCAR product candidate is anitocabtagene autoleucel, which is in phase 2 clinical trial for the treatment of patients with relapsed or refractory multiple myeloma (rrMM). It also develops ACLX-001, a product candidate in Phase 1 clinical trials targeting BCMA to treat rrMM; and ACLX-002, which is in Phase 1 clinical trials that targets CD123 for treating relapsed or refractory acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS). In addition, the company preclinical product includes ACLX-004 for the treatment of AML and MDS. Further, the company focuses on the development of product candidates for solid tumor programs. It has a strategic alliance with Kite Pharma, Inc. to co-develop and co-commercialize nito-cel and next-generation autologous and non-autologous CAR-T cell therapy products. The company was formerly known as Encarta Therapeutics, Inc. and changed its name to Arcellx, Inc. in January 2016. Arcellx, Inc. was incorporated in 2014 and is headquartered in Redwood City, California.
+Industry: Biotechnology
+Sector: Healthcare
+Website: https://www.arcellx.com
+Country: United States
+City: Redwood City
+Full Time Employees: 209

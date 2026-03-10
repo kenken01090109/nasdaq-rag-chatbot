@@ -1,0 +1,25 @@
+Company: Robo.ai Inc. Class B Ordinary Shares
+Ticker: AIIO
+Market Cap: 52589480
+Enterprise Value: 52799356
+Total Revenue: 5742000
+Revenue Per Share: 0.02
+EBITDA: -83994000
+Gross Margins: 0.54528
+Operating Margins: -7.3588
+Profit Margins: 0.0
+Free Cashflow: -31292124
+Operating Cashflow: 53906000
+Return On Assets: -0.60959
+Return On Equity: 
+Total Cash: 1683000
+Total Debt: 17131000
+Debt To Equity: 
+Current Ratio: 0.301
+Quick Ratio: 0.17
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.6367713
+Beta: 1.821
+52 Week High: 3.48
+52 Week Low: 0.108

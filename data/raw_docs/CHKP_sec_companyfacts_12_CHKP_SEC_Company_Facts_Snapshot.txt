@@ -1,0 +1,12 @@
+Company: Check Point Software Technologies Ltd. Ordinary Shares
+Ticker: CHKP
+CIK: 0001015922
+Latest SEC XBRL Facts:
+Revenues: 1980500000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1980500000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+NetIncomeLoss: 752400000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+Assets: 5699600000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+Liabilities: 2619800000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+StockholdersEquity: 3079800000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 914900000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 619900000 | unit=USD | filed=2025-12-02 | period_end=2025-09-30

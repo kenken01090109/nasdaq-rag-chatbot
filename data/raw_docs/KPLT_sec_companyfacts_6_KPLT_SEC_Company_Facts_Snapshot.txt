@@ -1,0 +1,11 @@
+Company: Katapult Holdings Inc. Common Stock
+Ticker: KPLT
+CIK: 0001785424
+Latest SEC XBRL Facts:
+Revenues: 217876000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -18472000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 85941000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 144313000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -58372000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 796000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3397000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

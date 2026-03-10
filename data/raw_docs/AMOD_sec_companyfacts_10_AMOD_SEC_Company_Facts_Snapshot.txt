@@ -1,0 +1,10 @@
+Company: Alpha Modus Holdings Inc. Class A Common Stock
+Ticker: AMOD
+CIK: 0001862463
+Latest SEC XBRL Facts:
+NetIncomeLoss: -7354742 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 403259 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10801685 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -51568934 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2055673 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11810 | unit=USD | filed=2024-11-18 | period_end=2023-12-31

@@ -1,0 +1,12 @@
+Company: Processa Pharmaceuticals Inc. Common Stock
+Ticker: PCSA
+CIK: 0001533743
+Latest SEC XBRL Facts:
+Revenues: 5000 | unit=USD | filed=2017-11-20 | period_end=2016-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-11-13 | period_end=2023-09-30
+NetIncomeLoss: -10204896 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 7584576 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1750978 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 5833598 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8484617 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6308420 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

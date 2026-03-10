@@ -1,0 +1,8 @@
+Company: reAlpha Tech Corp. Common Stock
+Ticker: AIRE
+Total Cash: 9278879
+Total Debt: 598705
+Debt To Equity: 5.493
+Current Ratio: 3.986
+Quick Ratio: 3.047
+Book Value: 0.106

@@ -1,0 +1,25 @@
+Company: ADS-TEC ENERGY PLC Ordinary Shares
+Ticker: ADSE
+Market Cap: 693212800
+Enterprise Value: 642675776
+Total Revenue: 45364000
+Revenue Per Share: 0.853
+EBITDA: -28201000
+Gross Margins: -0.0641
+Operating Margins: -2.05392
+Profit Margins: -1.4894
+Free Cashflow: -29704124
+Operating Cashflow: -42244000
+Return On Assets: -0.15991999
+Return On Equity: 
+Total Cash: 37869000
+Total Debt: 36871000
+Debt To Equity: 
+Current Ratio: 1.894
+Quick Ratio: 0.886
+Trailing PE: 
+Forward PE: 13.988474
+Price To Book: -37.20408
+Beta: 0.354
+52 Week High: 15.18
+52 Week Low: 7.89

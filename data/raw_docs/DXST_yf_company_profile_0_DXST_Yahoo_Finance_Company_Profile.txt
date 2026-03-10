@@ -1,0 +1,9 @@
+Company: Decent Holding Inc Class A Ordinary Shares
+Ticker: DXST
+Sector: Industrials
+Industry: Waste Management
+Country: China
+City: Yantai
+Website: https://www.dxshengtai.com
+Employees: 
+Business Summary: Decent Holding Inc., through its subsidiaries, provides industrial wastewater treatment services in the People's Republic of China. The company also offers ecological river restoration and river ecosystem management services. In addition, it provides microbial products, including COD decreasing, algae removal, and ammonia nitrogen decreasing bacteria, as well as river conditioner that are used to enhance water quality, remove pollutants, and treat black odor water. The company was founded in 2011 and is based in Yantai, the People's Republic of China. Decent Holding Inc. is a subsidiary of Decent Limited.

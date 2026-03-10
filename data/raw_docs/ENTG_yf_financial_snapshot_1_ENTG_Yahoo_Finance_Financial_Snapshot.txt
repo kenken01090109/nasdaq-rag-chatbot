@@ -1,0 +1,25 @@
+Company: Entegris Inc. Common Stock
+Ticker: ENTG
+Market Cap: 17079635968
+Enterprise Value: 20542480384
+Total Revenue: 3196600064
+Revenue Per Share: 21.072
+EBITDA: 875299968
+Gross Margins: 0.44554
+Operating Margins: 0.14225
+Profit Margins: 0.073699996
+Free Cashflow: 317824992
+Operating Cashflow: 695400000
+Return On Assets: 0.03625
+Return On Equity: 0.06164
+Total Cash: 360400000
+Total Debt: 3812000000
+Debt To Equity: 96.423
+Current Ratio: 3.353
+Quick Ratio: 1.676
+Trailing PE: 73.01299
+Forward PE: 25.781126
+Price To Book: 4.3202953
+Beta: 1.295
+52 Week High: 142.5
+52 Week Low: 60.75

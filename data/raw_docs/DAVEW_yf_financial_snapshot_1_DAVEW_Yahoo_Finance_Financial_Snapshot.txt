@@ -1,0 +1,25 @@
+Company: Dave Inc. Warrants
+Ticker: DAVEW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 554182016
+Revenue Per Share: 41.462
+EBITDA: 191854000
+Gross Margins: 0.70219004
+Operating Margins: 0.39393002
+Profit Margins: 0.35342997
+Free Cashflow: 25525000
+Operating Cashflow: 290023008
+Return On Assets: 0.30366
+Return On Equity: 0.73107004
+Total Cash: 121311000
+Total Debt: 75204000
+Debt To Equity: 21.321
+Current Ratio: 3.831
+Quick Ratio: 1.064
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.023626585
+Beta: 3.866
+52 Week High: 0.6168
+52 Week Low: 0.4801

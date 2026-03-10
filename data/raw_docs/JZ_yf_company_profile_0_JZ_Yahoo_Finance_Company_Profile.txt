@@ -1,0 +1,9 @@
+Company: Jianzhi Education Technology Group Company Limited American Depositary Shs
+Ticker: JZ
+Sector: Technology
+Industry: Information Technology Services
+Country: China
+City: Beijing
+Website: https://www.jianzhi-jiaoyu.com
+Employees: 46
+Business Summary: Jianzhi Education Technology Group Company Limited develops and provides educational content products and IT services to higher education institutions in the People's Republic of China. The company designs and develops customized IT system services, as well as provides sentu desktop virtualization software that manages virtual desktops and deploys them to local client devices; and Sentu Online Learning Software, which customizes the software for clients according to their specific needs. It also offers procurement and assembling services for equipment; and technological support and maintenance services, and other services. In addition, the company provides mobile media services, including mobile media advertising and application content data business system services. Jianzhi Education Technology Group Company Limited was founded in 2011 and is based in Beijing, the People's Republic of China.

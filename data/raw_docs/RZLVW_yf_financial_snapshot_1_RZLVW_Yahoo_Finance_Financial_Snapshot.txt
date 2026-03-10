@@ -1,0 +1,25 @@
+Company: Rezolve AI PLC Warrants
+Ticker: RZLVW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 5302724
+Revenue Per Share: 0.026
+EBITDA: -159435328
+Gross Margins: 0.95631
+Operating Margins: -5.1329403
+Profit Margins: 0.0
+Free Cashflow: 7490715
+Operating Cashflow: -36552460
+Return On Assets: -2.3903399
+Return On Equity: 
+Total Cash: 9857390
+Total Debt: 35553888
+Debt To Equity: 
+Current Ratio: 0.241
+Quick Ratio: 0.216
+Trailing PE: 
+Forward PE: 
+Price To Book: -18.0
+Beta: -0.174
+52 Week High: 1.08
+52 Week Low: 0.975

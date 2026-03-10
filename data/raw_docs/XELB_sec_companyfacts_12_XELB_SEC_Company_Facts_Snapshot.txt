@@ -1,0 +1,11 @@
+Company: Xcel Brands Inc. Common Stock
+Ticker: XELB
+CIK: 0001083220
+Latest SEC XBRL Facts:
+Revenues: 8766000 | unit=USD | filed=2018-05-15 | period_end=2018-03-31
+NetIncomeLoss: -14684000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 40462000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 23882000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 18699000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5196000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1494000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

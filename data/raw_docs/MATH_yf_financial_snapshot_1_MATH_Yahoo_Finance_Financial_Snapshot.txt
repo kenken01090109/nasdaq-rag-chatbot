@@ -1,0 +1,25 @@
+Company: Metalpha Technology Holding Limited Ordinary Shares
+Ticker: MATH
+Market Cap: 52088488
+Enterprise Value: 18648084
+Total Revenue: 36868432
+Revenue Per Share: 0.916
+EBITDA: 6544784
+Gross Margins: 0.40508
+Operating Margins: -0.24183
+Profit Margins: 0.1889
+Free Cashflow: 2571802
+Operating Cashflow: 19452372
+Return On Assets: 0.01255
+Return On Equity: 0.23068
+Total Cash: 34384800
+Total Debt: 118449
+Debt To Equity: 0.338
+Current Ratio: 1.092
+Quick Ratio: 0.091
+Trailing PE: 6.6666665
+Forward PE: 
+Price To Book: 1.4035088
+Beta: -0.743
+52 Week High: 4.17
+52 Week Low: 1.1

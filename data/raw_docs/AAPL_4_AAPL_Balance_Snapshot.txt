@@ -1,0 +1,8 @@
+Company: Apple Inc. Common Stock
+Ticker: AAPL
+Total Cash: 66907000832
+Total Debt: 90509000704
+Debt To Equity: 102.63
+Current Ratio: 0.974
+Quick Ratio: 0.845
+Book Value: 5.998

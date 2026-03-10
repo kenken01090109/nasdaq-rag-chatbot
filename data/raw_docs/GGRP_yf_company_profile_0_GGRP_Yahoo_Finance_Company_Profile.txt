@@ -1,0 +1,9 @@
+Company: The Glimpse Group Inc. Common Stock
+Ticker: GGRP
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: New York
+Website: https://www.theglimpsegroup.com
+Employees: 40
+Business Summary: The Glimpse Group, Inc., an immersive technology company provides enterprise focused virtual reality (VR), augmented reality (AR), and spatial computing software and services in the United States. It offers Brightline Interactive, an immersive and interactive experience, training scenarios, and simulation for government and commercial customers; sector 5 digital for corporate immersive experiences and events; Glimpse learning for education, learning, and upskilling; Foretell reality, a customizable social VR platform for behavioral health, support groups, collaboration, corporate training, soft skills training, and higher education; QReal, a software to create lifelike photorealistic 3D interactive digital models and experiences in AR; and Glimpse Turkey, a development center in Turkey, which develops and creates 3D models for QReal. The Glimpse Group, Inc. was incorporated in 2016 and is headquartered in New York, New York.

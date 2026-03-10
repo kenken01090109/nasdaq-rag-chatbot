@@ -1,0 +1,9 @@
+Company: TORM plc Class A Common Stock
+Ticker: TRMD
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: United Kingdom
+City: London
+Website: https://www.torm.com
+Employees: 
+Business Summary: TORM plc, a shipping company, owns and operates a fleet of product tankers in the United Kingdom and internationally. It operates in two segments, Tanker and Marine Engineering. The Tanker segment transports refined oil products, such as gasoline, jet fuel, diesel, naphtha, and gas oil, as well as dirty petroleum products, such as residual fuels and crude oil. The Marine Engineering segment engages in developing and producing advanced and green marine equipment. TORM plc was founded in 1889 and is based in London, the United Kingdom.

@@ -1,0 +1,25 @@
+Company: Gentherm Inc Common Stock
+Ticker: THRM
+Market Cap: 899004416
+Enterprise Value: 1018269248
+Total Revenue: 1498601984
+Revenue Per Share: 48.997
+EBITDA: 157351008
+Gross Margins: 0.24168
+Operating Margins: 0.06855
+Profit Margins: 0.012200001
+Free Cashflow: 60113624
+Operating Cashflow: 116791000
+Return On Assets: 0.04915
+Return On Equity: 0.02735
+Total Cash: 160832992
+Total Debt: 246824000
+Debt To Equity: 34.266
+Current Ratio: 1.922
+Quick Ratio: 1.21
+Trailing PE: 49.915257
+Forward PE: 9.655738
+Price To Book: 1.2480401
+Beta: 1.31
+52 Week High: 39.48
+52 Week Low: 22.75

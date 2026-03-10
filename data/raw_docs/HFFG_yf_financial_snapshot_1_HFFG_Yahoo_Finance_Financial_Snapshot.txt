@@ -1,0 +1,25 @@
+Company: HF Foods Group Inc. Common Stock
+Ticker: HFFG
+Market Cap: 112983368
+Enterprise Value: 339753376
+Total Revenue: 1225540992
+Revenue Per Share: 23.18
+EBITDA: 38524000
+Gross Margins: 0.17026
+Operating Margins: 0.00365
+Profit Margins: -0.03708
+Free Cashflow: 8948875
+Operating Cashflow: 22894000
+Return On Assets: 0.010880001
+Return On Equity: -0.17412001
+Total Cash: 12328000
+Total Debt: 237444000
+Debt To Equity: 98.581
+Current Ratio: 1.19
+Quick Ratio: 0.38
+Trailing PE: 
+Forward PE: 4.096154
+Price To Book: 0.4722838
+Beta: 0.429
+52 Week High: 4.93
+52 Week Low: 1.38

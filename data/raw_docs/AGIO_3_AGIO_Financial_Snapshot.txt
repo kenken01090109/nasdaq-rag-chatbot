@@ -1,0 +1,12 @@
+Company: Agios Pharmaceuticals Inc. Common Stock
+Ticker: AGIO
+Total Revenue: 54028000
+Revenue Per Share: 0.932
+Gross Margins: 0.0
+Operating Margins: -6.08895
+EBITDA: -466955008
+Profit Margins: 0.0
+Free Cashflow: -267967504
+Operating Cashflow: -372976992
+Return On Assets: -0.19935
+Return On Equity: -0.30195

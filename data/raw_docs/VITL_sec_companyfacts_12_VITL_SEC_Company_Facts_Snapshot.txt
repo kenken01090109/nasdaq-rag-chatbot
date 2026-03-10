@@ -1,0 +1,11 @@
+Company: Vital Farms Inc. Common Stock
+Ticker: VITL
+CIK: 0001579733
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 545892000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+NetIncomeLoss: 16419000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+Assets: 481504000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+Liabilities: 150288000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+StockholdersEquity: 331216000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 27935000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 93796000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28

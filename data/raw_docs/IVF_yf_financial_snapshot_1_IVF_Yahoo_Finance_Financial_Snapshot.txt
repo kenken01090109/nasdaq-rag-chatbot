@@ -1,0 +1,25 @@
+Company: INVO Fertility Inc. Common Stock
+Ticker: IVF
+Market Cap: 5909969
+Enterprise Value: 14396993
+Total Revenue: 6943899
+Revenue Per Share: 50.542
+EBITDA: -7119142
+Gross Margins: 0.39174
+Operating Margins: -0.93079
+Profit Margins: 0.0
+Free Cashflow: 950669
+Operating Cashflow: -7657071
+Return On Assets: -0.48356998
+Return On Equity: 
+Total Cash: 355891
+Total Debt: 4233890
+Debt To Equity: 72.39
+Current Ratio: 0.123
+Quick Ratio: 0.068
+Trailing PE: 
+Forward PE: -0.18297414
+Price To Book: -0.19006044
+Beta: 
+52 Week High: 103.68
+52 Week Low: 0.71

@@ -1,0 +1,25 @@
+Company: GCL Global Holdings Ltd Ordinary Shares
+Ticker: GCL
+Market Cap: 62924108
+Enterprise Value: 105365696
+Total Revenue: 189890000
+Revenue Per Share: 1.641
+EBITDA: -763439
+Gross Margins: 0.132
+Operating Margins: -0.06711
+Profit Margins: 0.00527
+Free Cashflow: -24467724
+Operating Cashflow: -12951616
+Return On Assets: -0.01298
+Return On Equity: 0.011729999
+Total Cash: 19339838
+Total Debt: 58204844
+Debt To Equity: 161.651
+Current Ratio: 1.312
+Quick Ratio: 0.666
+Trailing PE: 51.270004
+Forward PE: 
+Price To Book: 1.898889
+Beta: 0.44
+52 Week High: 4.49
+52 Week Low: 0.47

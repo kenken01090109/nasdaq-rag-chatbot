@@ -1,0 +1,9 @@
+Company: HealthEquity Inc. Common Stock
+Ticker: HQY
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Draper
+Website: https://www.healthequity.com
+Employees: 3105
+Business Summary: HealthEquity, Inc. provides technology-enabled services platforms to consumers and employers in the United States. It provides health savings accounts; investment platform; and online-only automated investment advisory services through Advisor, a Web-based tool. The company also offers flexible spending accounts for health and dependent care; health reimbursement arrangements; and Consolidated Omnibus Budget Reconciliation Act continuation services, as well as administers pre-tax commuter benefit programs. It serves clients through a direct sales force; and a network of health plans, benefits administrators, benefits brokers and consultants, and retirement plan record-keepers. HealthEquity, Inc. was incorporated in 2002 and is based in Draper, Utah.

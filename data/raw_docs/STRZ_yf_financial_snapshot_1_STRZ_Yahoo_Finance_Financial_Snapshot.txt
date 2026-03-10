@@ -1,0 +1,25 @@
+Company: Starz Entertainment Corp. Common Shares
+Ticker: STRZ
+Market Cap: 255985008
+Enterprise Value: 936435136
+Total Revenue: 1284532992
+Revenue Per Share: 
+EBITDA: 131066632
+Gross Margins: 0.53155
+Operating Margins: 0.01456
+Profit Margins: -0.12020001
+Free Cashflow: 
+Operating Cashflow: 23866660
+Return On Assets: 
+Return On Equity: 
+Total Cash: 35700000
+Total Debt: 742400000
+Debt To Equity: 114.923
+Current Ratio: 0.245
+Quick Ratio: 0.223
+Trailing PE: 
+Forward PE: -8.722173
+Price To Book: 0.3955226
+Beta: 
+52 Week High: 22.98
+52 Week Low: 8.0

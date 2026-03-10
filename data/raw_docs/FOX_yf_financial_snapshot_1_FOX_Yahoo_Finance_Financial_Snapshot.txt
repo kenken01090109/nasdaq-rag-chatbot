@@ -1,0 +1,25 @@
+Company: Fox Corporation Class B Common Stock
+Ticker: FOX
+Market Cap: 25354838016
+Enterprise Value: 28430690304
+Total Revenue: 16577999872
+Revenue Per Share: 37.212
+EBITDA: 3532999936
+Gross Margins: 0.35439
+Operating Margins: 0.11347
+Profit Margins: 0.11407
+Free Cashflow: 1765500032
+Operating Cashflow: 2728999936
+Return On Assets: 0.0881
+Return On Equity: 0.16823
+Total Cash: 2016999936
+Total Debt: 7495000064
+Debt To Equity: 67.389
+Current Ratio: 2.784
+Quick Ratio: 2.307
+Trailing PE: 13.023981
+Forward PE: 10.956954
+Price To Book: 2.1134763
+Beta: 0.537
+52 Week High: 68.175
+52 Week Low: 43.18

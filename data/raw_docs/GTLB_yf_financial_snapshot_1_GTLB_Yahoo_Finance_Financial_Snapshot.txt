@@ -1,0 +1,25 @@
+Company: GitLab Inc. Class A Common Stock
+Ticker: GTLB
+Market Cap: 4194843904
+Enterprise Value: 3024621824
+Total Revenue: 955224000
+Revenue Per Share: 5.727
+EBITDA: -55999000
+Gross Margins: 0.87376
+Operating Margins: -0.01356
+Profit Margins: -0.058579996
+Free Cashflow: 283716000
+Operating Cashflow: 232856000
+Return On Assets: -0.02696
+Return On Equity: -0.06305
+Total Cash: 1259902976
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.539
+Quick Ratio: 2.399
+Trailing PE: 
+Forward PE: 24.244959
+Price To Book: 4.276395
+Beta: 0.793
+52 Week High: 58.75
+52 Week Low: 23.1

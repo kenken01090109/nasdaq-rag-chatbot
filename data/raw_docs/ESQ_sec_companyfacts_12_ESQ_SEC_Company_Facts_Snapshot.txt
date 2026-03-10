@@ -1,0 +1,10 @@
+Company: Esquire Financial Holdings Inc. Common Stock
+Ticker: ESQ
+CIK: 0001531031
+Latest SEC XBRL Facts:
+NetIncomeLoss: 37354000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2184311000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1905084000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 279227000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 43047000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 240759000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

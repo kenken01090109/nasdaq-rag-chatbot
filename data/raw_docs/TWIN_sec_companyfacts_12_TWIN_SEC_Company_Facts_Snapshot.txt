@@ -1,0 +1,10 @@
+Company: Twin Disc Incorporated Common Stock
+Ticker: TWIN
+CIK: 0000100378
+Latest SEC XBRL Facts:
+Revenues: 170176000 | unit=USD | filed=2026-02-04 | period_end=2025-12-26
+NetIncomeLoss: 21853000 | unit=USD | filed=2026-02-04 | period_end=2025-12-26
+Assets: 384015000 | unit=USD | filed=2026-02-04 | period_end=2025-12-26
+Liabilities: 198836000 | unit=USD | filed=2026-02-04 | period_end=2025-12-26
+StockholdersEquity: 184528000 | unit=USD | filed=2026-02-04 | period_end=2025-12-26
+NetCashProvidedByUsedInOperatingActivities: -2969000 | unit=USD | filed=2026-02-04 | period_end=2025-12-26

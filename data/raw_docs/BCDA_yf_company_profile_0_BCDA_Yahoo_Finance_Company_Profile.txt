@@ -1,0 +1,9 @@
+Company: BioCardia Inc. Common Stock
+Ticker: BCDA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Sunnyvale
+Website: https://www.biocardia.com
+Employees: 17
+Business Summary: BioCardia, Inc., a clinical-stage regenerative medicine company, develops cellular and cell-derived therapeutics for cardiovascular and pulmonary diseases in the United States. The company's lead product candidate is CardiAMP, an autologous mononuclear cell therapy system in Phase III clinical trial for the treatment of ischemic heart failure with reduced ejection fraction and refractory angina resulting from chronic myocardial ischemia. It is also developing an allogeneic cells therapy platform, which is an investigational culture expanded bone marrow derived mesenchymal cell therapy in Phase I/II trial to treat ischemic heart failure and acute respiratory distress syndrome. In addition, the company offers the Helix biotherapeutic delivery system for minimally invasive targeted delivery of biologic agents to the heart; and Morph deflectable guides and sheaths products. It has collaboration agreements with CellProthera in the development of ProtheraCytes, which is currently under Phase II trial for the treatment of acute myocardial infarction. It also has a development and commercialization agreement with CART-Tech, B.V. for the development of Heart3D Fusion Imaging system. BioCardia, Inc. is based in Sunnyvale, California.

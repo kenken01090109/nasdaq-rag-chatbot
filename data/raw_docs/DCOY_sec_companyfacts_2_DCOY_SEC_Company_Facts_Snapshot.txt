@@ -1,0 +1,11 @@
+Company: Decoy Therapeutics Inc. Common Stock
+Ticker: DCOY
+CIK: 0001615219
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-05-11 | period_end=2023-03-31
+NetIncomeLoss: -3540825 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 6097032 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1848967 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 4248065 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3690700 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4809680 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

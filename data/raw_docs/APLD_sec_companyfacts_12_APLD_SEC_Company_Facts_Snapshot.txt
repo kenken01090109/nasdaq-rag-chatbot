@@ -1,0 +1,11 @@
+Company: Applied Digital Corporation Common Stock
+Ticker: APLD
+CIK: 0001144879
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 190805000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetIncomeLoss: -31376000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Assets: 5229344000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Liabilities: 3157525000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+StockholdersEquity: 1449629000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -97868000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 1913436000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30

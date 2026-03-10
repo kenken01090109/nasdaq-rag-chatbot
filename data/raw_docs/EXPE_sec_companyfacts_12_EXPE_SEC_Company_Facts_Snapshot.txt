@@ -1,0 +1,10 @@
+Company: Expedia Group Inc. Common Stock
+Ticker: EXPE
+CIK: 0001324424
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 11186000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1089000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 25108000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1337000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3576000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5826000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

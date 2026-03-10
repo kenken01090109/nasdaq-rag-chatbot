@@ -1,0 +1,11 @@
+Company: Lexeo Therapeutics Inc. Common Stock
+Ticker: LXEO
+CIK: 0001907108
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 654000 | unit=USD | filed=2023-12-11 | period_end=2022-09-30
+NetIncomeLoss: -79042000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 143844000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 23013000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 120831000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -78482000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 40996000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

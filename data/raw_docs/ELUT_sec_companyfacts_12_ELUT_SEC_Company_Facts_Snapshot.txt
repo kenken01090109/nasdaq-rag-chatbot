@@ -1,0 +1,10 @@
+Company: Elutia Inc. Class A Common Stock
+Ticker: ELUT
+CIK: 0001708527
+Latest SEC XBRL Facts:
+NetIncomeLoss: -17411000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 29407000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 73325000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -43918000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19996000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4721000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: BGC Group Inc. Class A Common Stock
+Ticker: BGC
+CIK: 0001094831
+Latest SEC XBRL Facts:
+Revenues: 2185093000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1803397000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 140591000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 5825151000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 4683430000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 965317000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 213938000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 774940000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

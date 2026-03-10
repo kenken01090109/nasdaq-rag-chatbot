@@ -1,0 +1,11 @@
+Company: SOBR Safe Inc. Common Stock
+Ticker: SOBR
+CIK: 0001425627
+Latest SEC XBRL Facts:
+Revenues: 299738 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -6061155 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 7190287 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1222562 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6021425 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5330526 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3751391 | unit=USD | filed=2022-08-15 | period_end=2022-06-30

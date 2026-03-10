@@ -1,0 +1,12 @@
+Company: Travere Therapeutics Inc. Common Stock
+Ticker: TVTX
+CIK: 0001438533
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2013-03-06 | period_end=2012-11-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 361039000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -28275000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 538581000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 465017000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 73564000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22894000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 110930000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

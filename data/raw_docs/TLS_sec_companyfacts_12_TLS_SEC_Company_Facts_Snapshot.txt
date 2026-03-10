@@ -1,0 +1,11 @@
+Company: Telos Corporation Common Stock
+Ticker: TLS
+CIK: 0000320121
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 118028000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -20235000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 164281000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 44606000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 119675000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22202000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 59050000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

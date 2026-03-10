@@ -1,0 +1,25 @@
+Company: Scage Future Warrants
+Ticker: SCAGW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 11122585
+Revenue Per Share: 0.154
+EBITDA: -13066810
+Gross Margins: -0.06412
+Operating Margins: -2.39134
+Profit Margins: -1.16374
+Free Cashflow: 4342742
+Operating Cashflow: -5894330
+Return On Assets: -0.45112
+Return On Equity: 
+Total Cash: 133582
+Total Debt: 15564357
+Debt To Equity: 
+Current Ratio: 0.197
+Quick Ratio: 0.116
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.7123288
+Beta: 
+52 Week High: 0.052
+52 Week Low: 0.052

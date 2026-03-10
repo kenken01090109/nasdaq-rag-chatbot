@@ -1,0 +1,9 @@
+Company: Uniti Group Inc. Common Stock
+Ticker: UNIT
+Sector: Real Estate
+Industry: REIT - Specialty
+Country: United States
+City: Little Rock
+Website: https://www.uniti.com
+Employees: 8632
+Business Summary: Uniti Group LLC (NASDAQ: UNIT) is a premier insurgent fiber provider dedicated to enabling mission-critical connectivity across the United States. We build, operate, and deliver fast and reliable communications services, empowering more than a million consumers and businesses in the digital economy. Our broad portfolio of services is offered through a suite of brands: Uniti Wholesale, Kinetic, Uniti Fiber, and Uniti Solutions.

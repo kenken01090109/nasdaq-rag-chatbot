@@ -1,0 +1,11 @@
+Company: Maravai LifeSciences Holdings Inc. Class A Common Stock
+Ticker: MRVI
+CIK: 0001823239
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 135877000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -95092000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 849191000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 417332000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 245443000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -34805000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 243574000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

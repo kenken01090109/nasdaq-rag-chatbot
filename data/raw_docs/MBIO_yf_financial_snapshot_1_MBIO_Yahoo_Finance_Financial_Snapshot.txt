@@ -1,0 +1,25 @@
+Company: Mustang Bio Inc. Common Stock
+Ticker: MBIO
+Market Cap: 6542172
+Enterprise Value: -12055661
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -1651000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3819125
+Operating Cashflow: -5543000
+Return On Assets: -0.08172
+Return On Equity: -4.18834
+Total Cash: 18984000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.051
+Quick Ratio: 2.034
+Trailing PE: 
+Forward PE: -2.5608573
+Price To Book: 0.6693801
+Beta: 2.145
+52 Week High: 7.0
+52 Week Low: 0.531

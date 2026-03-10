@@ -1,0 +1,12 @@
+Company: Allot Ltd. Ordinary Shares
+Ticker: ALLT
+Total Revenue: 101993000
+Revenue Per Share: 2.314
+Gross Margins: 0.71134
+Operating Margins: 0.09053001
+EBITDA: 7652000
+Profit Margins: 0.03633
+Free Cashflow: 8732500
+Operating Cashflow: 17791000
+Return On Assets: 0.01442
+Return On Equity: 0.04542

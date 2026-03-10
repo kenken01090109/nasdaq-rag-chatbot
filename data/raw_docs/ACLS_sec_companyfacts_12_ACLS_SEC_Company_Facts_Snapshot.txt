@@ -1,0 +1,12 @@
+Company: Axcelis Technologies Inc. Common Stock
+Ticker: ACLS
+CIK: 0001113232
+Latest SEC XBRL Facts:
+Revenues: 600718000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 600718000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 85941000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1351940000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 331796000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1020144000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 124872000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 187501000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

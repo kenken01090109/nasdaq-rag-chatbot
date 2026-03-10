@@ -1,0 +1,8 @@
+Company: Allarity Therapeutics Inc. Common Stock
+Ticker: ALLR
+Total Cash: 16895000
+Total Debt: 1390000
+Debt To Equity: 11.573
+Current Ratio: 2.33
+Quick Ratio: 2.112
+Book Value: 0.745

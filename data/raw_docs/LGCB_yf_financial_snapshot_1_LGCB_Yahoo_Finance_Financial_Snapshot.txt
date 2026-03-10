@@ -1,0 +1,25 @@
+Company: Linkage Global Inc. Class A Ordinary Shares
+Ticker: LGCB
+Market Cap: 18046248
+Enterprise Value: 19440442
+Total Revenue: 5098190
+Revenue Per Share: 0.88
+EBITDA: -4561226
+Gross Margins: 0.72613
+Operating Margins: -1.86191
+Profit Margins: -1.44524
+Free Cashflow: -14491692
+Operating Cashflow: -4684517
+Return On Assets: -0.16928
+Return On Equity: -0.63081
+Total Cash: 766779
+Total Debt: 3240187
+Debt To Equity: 19.835
+Current Ratio: 5.077
+Quick Ratio: 1.729
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.0663021
+Beta: -1.046
+52 Week High: 3.1
+52 Week Low: 1.22

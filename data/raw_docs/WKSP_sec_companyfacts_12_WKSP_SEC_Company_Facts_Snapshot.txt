@@ -1,0 +1,12 @@
+Company: Worksport Ltd. Common Stock
+Ticker: WKSP
+CIK: 0001096275
+Latest SEC XBRL Facts:
+Revenues: 11358835 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 11358835 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -13123627 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 27048622 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7269230 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 19779392 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11190182 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3761690 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

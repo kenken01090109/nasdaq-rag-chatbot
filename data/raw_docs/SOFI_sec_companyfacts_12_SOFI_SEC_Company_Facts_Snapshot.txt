@@ -1,0 +1,11 @@
+Company: SoFi Technologies Inc. Common Stock
+Ticker: SOFI
+CIK: 0001818874
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 449063000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 307771000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 45293450000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 36513487000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 8779963000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2751280000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3246351000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

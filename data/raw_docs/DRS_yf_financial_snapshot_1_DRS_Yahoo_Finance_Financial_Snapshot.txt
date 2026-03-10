@@ -1,0 +1,25 @@
+Company: Leonardo DRS Inc. Common Stock
+Ticker: DRS
+Market Cap: 12394847232
+Enterprise Value: 12206115840
+Total Revenue: 3648000000
+Revenue Per Share: 13.719
+EBITDA: 443000000
+Gross Margins: 0.23821
+Operating Margins: 0.11981
+Profit Margins: 0.07621
+Free Cashflow: 198750000
+Operating Cashflow: 366000000
+Return On Assets: 0.05046
+Return On Equity: 0.10516
+Total Cash: 647000000
+Total Debt: 470000000
+Debt To Equity: 17.216
+Current Ratio: 1.89
+Quick Ratio: 1.553
+Trailing PE: 45.223305
+Forward PE: 33.217808
+Price To Book: 4.5355406
+Beta: 0.257
+52 Week High: 49.31
+52 Week Low: 28.17

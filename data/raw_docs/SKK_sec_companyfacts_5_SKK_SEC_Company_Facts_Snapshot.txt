@@ -1,0 +1,12 @@
+Company: SKK Holdings Limited Class A Ordinary Shares
+Ticker: SKK
+CIK: 0001991261
+Latest SEC XBRL Facts:
+Revenues: 6188000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6188000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+NetIncomeLoss: -215000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+Assets: 28039000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+Liabilities: 20836000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+StockholdersEquity: 7203000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -500000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1861000 | unit=USD | filed=2025-10-14 | period_end=2025-06-30

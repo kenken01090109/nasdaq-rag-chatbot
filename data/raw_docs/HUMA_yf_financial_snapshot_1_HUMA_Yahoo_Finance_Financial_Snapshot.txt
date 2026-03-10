@@ -1,0 +1,25 @@
+Company: Humacyte Inc. Common Stock
+Ticker: HUMA
+Market Cap: 214226128
+Enterprise Value: 235608736
+Total Revenue: 1571000
+Revenue Per Share: 0.011
+EBITDA: -97324000
+Gross Margins: 0.0
+Operating Margins: -32.390438
+Profit Margins: 0.0
+Free Cashflow: -74158248
+Operating Cashflow: -105495000
+Return On Assets: -0.63441
+Return On Equity: 
+Total Cash: 19488000
+Total Debt: 50971000
+Debt To Equity: 
+Current Ratio: 1.616
+Quick Ratio: 0.804
+Trailing PE: 
+Forward PE: -2.1102662
+Price To Book: -37.0
+Beta: 1.928
+52 Week High: 3.36
+52 Week Low: 0.88

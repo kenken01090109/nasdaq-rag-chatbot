@@ -1,0 +1,9 @@
+Company: Genenta Science S.p.A. American Depositary Shares
+Ticker: GNTA
+Sector: Healthcare
+Industry: Biotechnology
+Country: Italy
+City: Milan
+Website: https://www.genenta.com
+Employees: 13
+Business Summary: Genenta Science S.p.A., a clinical-stage biotechnology company, engages in the development of hematopoietic stem cell gene therapies for the treatment of solid tumors in Italy. Its lead product candidate is Temferon, which is in Phase 1/2a clinical trials for use in the treatment of glioblastoma multiforme in patients with unmethylated MGMT gene promoter. The company is developing Temferon for use in the treatment of other solid tumor indications, locally advanced hepatocellular carcinoma, and intra-hepatic cholangiocarcinoma. In addition, it develops biologic platform to deliver immunomodulatory molecules directly to the tumor by infiltrating monocytes/macrophages. The company was incorporated in 2014 and is headquartered in Milan, Italy.

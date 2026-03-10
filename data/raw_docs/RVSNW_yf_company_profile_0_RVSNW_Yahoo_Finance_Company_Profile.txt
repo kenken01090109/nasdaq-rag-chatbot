@@ -1,0 +1,9 @@
+Company: Rail Vision Ltd. Warrant
+Ticker: RVSNW
+Sector: 
+Industry: 
+Country: Israel
+City: Ra'anana
+Website: https://railvision.io
+Employees: 52
+Business Summary: Rail Vision Ltd. designs, develops, assembles, and sells railway detection systems for railway operational safety, efficiency, and predictive maintenance in Israel, Latin America, and the United States. The company's railway detection systems include various cameras, such as optics, visible light spectrum cameras (video), and thermal cameras that transmit data to a ruggedized on-board computer, which is designed to be suitable for the rough environment of a train's locomotive. It also offers main line systems for the safety of train operations, prevention of collisions, and reduction of downtime; railway detection systems; and shunting yard systems for shunting operations. In addition, the company provides rail vision data services, as well as maintenance and predictive maintenance systems; and geographic information systems for mapping and updates. Further, it offers supervision, guidance, and training services; and DASH, a cloud-based SaaS platform designed for fleet and infrastructure, analysis, and reports. Rail Vision Ltd. was incorporated in 2016 and is headquartered in Ra'anana, Israel.

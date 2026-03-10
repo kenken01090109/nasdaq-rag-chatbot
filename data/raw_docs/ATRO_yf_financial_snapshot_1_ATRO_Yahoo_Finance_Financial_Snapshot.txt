@@ -1,0 +1,25 @@
+Company: Astronics Corporation Common Stock
+Ticker: ATRO
+Market Cap: 2707456768
+Enterprise Value: 3055571456
+Total Revenue: 862128000
+Revenue Per Share: 24.324
+EBITDA: 112087000
+Gross Margins: 0.30617002
+Operating Margins: 0.19077998
+Profit Margins: 0.03405
+Free Cashflow: 29901000
+Operating Cashflow: 74795000
+Return On Assets: 0.083229996
+Return On Equity: 0.14821
+Total Cash: 18180000
+Total Debt: 378353984
+Debt To Equity: 270.11
+Current Ratio: 3.098
+Quick Ratio: 1.577
+Trailing PE: 
+Forward PE: 24.181385
+Price To Book: 19.355577
+Beta: 1.044
+52 Week High: 83.96
+52 Week Low: 19.89

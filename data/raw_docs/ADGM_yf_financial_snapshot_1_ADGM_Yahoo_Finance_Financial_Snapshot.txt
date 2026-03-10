@@ -1,0 +1,25 @@
+Company: Adagio Medical Holdings Inc Common Stock
+Ticker: ADGM
+Market Cap: 20692504
+Enterprise Value: 37986504
+Total Revenue: 137000
+Revenue Per Share: 0.009
+EBITDA: -25618000
+Gross Margins: 0.0
+Operating Margins: -195.43797
+Profit Margins: 0.0
+Free Cashflow: -13261000
+Operating Cashflow: -21987000
+Return On Assets: -0.24123
+Return On Equity: -2.10357
+Total Cash: 4673000
+Total Debt: 21967000
+Debt To Equity: 
+Current Ratio: 0.839
+Quick Ratio: 0.482
+Trailing PE: 
+Forward PE: -0.9868687
+Price To Book: -11.494118
+Beta: 0.135
+52 Week High: 2.87
+52 Week Low: 0.625

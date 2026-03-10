@@ -1,0 +1,12 @@
+Company: DNA X Inc. Common Stock
+Ticker: SONM
+CIK: 0001178697
+Latest SEC XBRL Facts:
+Revenues: 44125000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 44125000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: -11770000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 40219000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 40920000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: -701000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -21522000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2137000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

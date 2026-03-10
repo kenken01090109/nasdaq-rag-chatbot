@@ -1,0 +1,10 @@
+Company: iQIYI Inc. American Depositary Shares
+Ticker: IQ
+CIK: 0001722608
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4003841000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+NetIncomeLoss: 104676000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+Assets: 6269166000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+Liabilities: 4436968000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 289075000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 483564000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31

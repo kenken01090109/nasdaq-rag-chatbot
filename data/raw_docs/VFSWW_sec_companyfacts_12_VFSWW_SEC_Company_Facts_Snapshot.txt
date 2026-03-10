@@ -1,0 +1,12 @@
+Company: VinFast Auto Ltd. Warrant
+Ticker: VFSWW
+CIK: 0001913510
+Latest SEC XBRL Facts:
+Revenues: 1313894499 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1313894499 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: -1516361049 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 7243482836 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 212269436000000 | unit=VND | filed=2025-04-28 | period_end=2023-12-31
+StockholdersEquity: -7184711320 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1065223256 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 549759899 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

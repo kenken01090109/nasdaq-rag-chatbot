@@ -1,0 +1,9 @@
+Company: VSee Health Inc. Common Stock
+Ticker: VSEE
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Newton
+Website: https://www.vseehealth.com
+Employees: 154
+Business Summary: VSee Health, Inc. provides telehealth care solutions in the United States. The company offers iDoc Telehealth solutions that treat and coordinate care for acutely ill patients in the neurointensive care, cardiac intensive care, and intensive care units for stroke, spinal cord, brain trauma, and other neurological conditions. It also provides telehealth software building blocks, such as patient engagement, clinician staffing, remote physical exam and remote patient monitoring, and AI for telesitter and telenursing solutions; data connectors; and workflow templates. The company distributes its products through third-party resellers and affiliated hospitals, as well as sales executives. VSee Health, Inc. is headquartered in Newton, Massachusetts.

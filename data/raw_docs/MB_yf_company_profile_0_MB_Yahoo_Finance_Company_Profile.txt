@@ -1,0 +1,9 @@
+Company: MasterBeef Group Ordinary Shares
+Ticker: MB
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: Hong Kong
+City: Kwai Chung
+Website: https://masterbeef.hk
+Employees: 363
+Business Summary: MasterBeef Group, through its subsidiaries, engages in the operation of Taiwanese hotpot and barbecue restaurants in Hong Kong. It operates its restaurants under the Master Beef and Anping Grill brands. The company was founded in 2019 and is headquartered in Kwai Chung, Hong Kong. MasterBeef Group is a subsidiary of Galaxy Shine Company Limited.

@@ -1,0 +1,25 @@
+Company: Ionis Pharmaceuticals Inc. Common Stock
+Ticker: IONS
+Market Cap: 12230816768
+Enterprise Value: 12351248384
+Total Revenue: 943710976
+Revenue Per Share: 5.898
+EBITDA: -369236992
+Gross Margins: 0.01291
+Operating Margins: -1.0547299
+Profit Margins: -0.40414003
+Free Cashflow: -154724496
+Operating Cashflow: -268583008
+Return On Assets: -0.07309
+Return On Equity: -0.70795
+Total Cash: 2680448000
+Total Debt: 2615865088
+Debt To Equity: 534.844
+Current Ratio: 3.826
+Quick Ratio: 3.514
+Trailing PE: 
+Forward PE: -85.77188
+Price To Book: 24.721203
+Beta: 0.364
+52 Week High: 86.74
+52 Week Low: 23.95

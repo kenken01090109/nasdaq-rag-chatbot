@@ -1,0 +1,11 @@
+Company: Duolingo Inc. Class A Common Stock
+Ticker: DUOL
+CIK: 0001562088
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 754721000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 372111000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1885638000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 578099000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1307539000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 280545000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1011542000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

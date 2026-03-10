@@ -1,0 +1,9 @@
+Company: FTAI Infrastructure Inc. Common Stock
+Ticker: FIP
+Sector: Industrials
+Industry: Conglomerates
+Country: United States
+City: New York
+Website: https://www.fipinc.com
+Employees: 
+Business Summary: FTAI Infrastructure Inc. engages in the acquiring, developing, and operating assets and businesses that represent infrastructure for customers in the transportation, energy, and industrial products industries in North America. It operates through five segments: Railroad, Jefferson Terminal, Repauno, Power and Gas, and Sustainability and Energy Transition. The company operates a multi-modal crude oil and refined products terminal, and other related assets. It also has a 1,630-acre deep-water port located along the Delaware River with an underground storage cavern, a multipurpose dock, a rail-to-ship transloading system, and multiple industrial development opportunities; and a 1,660-acre multi-modal port located along the Ohio River with rail, dock, and multiple industrial development opportunities, including a power plant. In addition, the company operates six freight railroads and one switching facility. Further, it focuses on waste plastic to renewable fuel, lithium-ion battery recycling, hydrogen-fueled power generation, and carbon capture businesses. FTAI Infrastructure Inc. was incorporated in 2021 and is headquartered in New York, New York.

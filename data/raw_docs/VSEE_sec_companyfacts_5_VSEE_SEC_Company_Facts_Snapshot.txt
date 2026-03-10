@@ -1,0 +1,12 @@
+Company: VSee Health Inc. Common Stock
+Ticker: VSEE
+CIK: 0001864531
+Latest SEC XBRL Facts:
+Revenues: 6686998 | unit=USD | filed=2025-11-14 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10692259 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -6862468 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 18707122 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 24282620 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5575498 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1519632 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 472759 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

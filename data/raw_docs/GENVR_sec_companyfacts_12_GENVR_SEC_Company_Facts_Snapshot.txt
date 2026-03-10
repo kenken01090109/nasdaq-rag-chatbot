@@ -1,0 +1,12 @@
+Company: Gen Digital Inc. Contingent Value Rights
+Ticker: GENVR
+CIK: 0000849399
+Latest SEC XBRL Facts:
+Revenues: 27000000 | unit=USD | filed=2022-08-05 | period_end=2022-07-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 3717000000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+NetIncomeLoss: 461000000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+Assets: 15831000000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+Liabilities: 13499000000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+StockholdersEquity: 2332000000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: 1066000000 | unit=USD | filed=2026-02-06 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 883000000 | unit=USD | filed=2025-01-31 | period_end=2024-12-27

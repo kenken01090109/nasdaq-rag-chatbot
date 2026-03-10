@@ -1,0 +1,9 @@
+Company: Currenc Group Inc. Ordinary Shares
+Ticker: CURR
+Sector: Technology
+Industry: Software - Application
+Country: Singapore
+City: Singapore
+Website: https://investors.currencgroup.com
+Employees: 244
+Business Summary: CURRENC Group Inc. operates as a fintech company to transform global financial services through artificial intelligence (AI). It empowers financial institutions with AI solutions, including the SEAMLESS AI call centre and other AI-powered tools to reduce costs, and enhances customer satisfaction. The company's digital remittance platform also enables e-wallets, remittance companies, and corporations to provide real-time payment services and advancing financial access across underserved communities. It also develops and operates AI data centers. The company is headquartered in Singapore.

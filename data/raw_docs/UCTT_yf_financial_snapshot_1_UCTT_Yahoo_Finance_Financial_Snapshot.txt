@@ -1,0 +1,25 @@
+Company: Ultra Clean Holdings Inc. Common Stock
+Ticker: UCTT
+Market Cap: 2299976448
+Enterprise Value: 2952889344
+Total Revenue: 2054000000
+Revenue Per Share: 45.342
+EBITDA: 119700000
+Gross Margins: 0.15720999
+Operating Margins: 0.02151
+Profit Margins: -0.08821999
+Free Cashflow: 28875000
+Operating Cashflow: 65600000
+Return On Assets: 0.01497
+Return On Equity: -0.19955
+Total Cash: 311800000
+Total Debt: 653699968
+Debt To Equity: 83.369
+Current Ratio: 3.192
+Quick Ratio: 1.731
+Trailing PE: 
+Forward PE: 14.676343
+Price To Book: 3.235633
+Beta: 1.879
+52 Week High: 73.8
+52 Week Low: 16.66

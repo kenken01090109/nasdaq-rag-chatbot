@@ -1,0 +1,11 @@
+Company: ASML Holding N.V. New York Registry Shares
+Ticker: ASML
+CIK: 0000937966
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 32667300000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31
+NetIncomeLoss: 9609400000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31
+Assets: 50566600000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31
+Liabilities: 30954400000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31
+StockholdersEquity: 19612200000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 12658500000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 12916000000 | unit=EUR | filed=2026-02-25 | period_end=2025-12-31

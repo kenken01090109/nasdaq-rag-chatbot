@@ -1,0 +1,25 @@
+Company: Westin Acquisition Corp Units
+Ticker: WSTNU
+Market Cap: 
+Enterprise Value: 74016856
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 432172
+Total Debt: 449377
+Debt To Equity: 8.815
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 14.512894
+Beta: 
+52 Week High: 10.65
+52 Week Low: 10.05

@@ -1,0 +1,25 @@
+Company: Cingulate Inc. Common Stock
+Ticker: CING
+Market Cap: 47879616
+Enterprise Value: 41908060
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -19980968
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -10430769
+Operating Cashflow: -17727424
+Return On Assets: -1.06645
+Return On Equity: -2.7585402
+Total Cash: 6118710
+Total Debt: 4578809
+Debt To Equity: 131.814
+Current Ratio: 1.264
+Quick Ratio: 1.046
+Trailing PE: 
+Forward PE: -4.5602837
+Price To Book: 11.067126
+Beta: -0.773
+52 Week High: 7.92
+52 Week Low: 3.2

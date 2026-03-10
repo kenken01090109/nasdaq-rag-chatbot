@@ -1,0 +1,25 @@
+Company: Forrester Research Inc. Common Stock
+Ticker: FORR
+Market Cap: 123276184
+Enterprise Value: 62624992
+Total Revenue: 396888000
+Revenue Per Share: 20.87
+EBITDA: 24353996
+Gross Margins: 0.56986
+Operating Margins: -0.00342
+Profit Margins: -0.30074
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: -0.61651003
+Total Cash: 131952000
+Total Debt: 74288000
+Debt To Equity: 47.116
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 7.1249743
+Price To Book: 0.778032
+Beta: 0.972
+52 Week High: 11.57
+52 Week Low: 4.91

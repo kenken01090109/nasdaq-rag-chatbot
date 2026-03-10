@@ -1,0 +1,9 @@
+Company: Achieve Life Sciences Inc. Common Shares
+Ticker: ACHV
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Bothell
+Website: https://www.achievelifesciences.com
+Employees: 25
+Business Summary: Achieve Life Sciences, Inc., a late-stage pharmaceutical company, develops and commercializes cytisinicline for nicotine independence in Canada, the United States, and the United Kingdom. The company offers cytisinicline, a plant-based alkaloid that interacts with nicotine receptors in the brain that reduce the severity of nicotine withdrawal symptoms. It has license and supply agreement with Sopharma AD and University of Bristol. Achieve Life Sciences, Inc., is headquartered in Bothell, Washington.

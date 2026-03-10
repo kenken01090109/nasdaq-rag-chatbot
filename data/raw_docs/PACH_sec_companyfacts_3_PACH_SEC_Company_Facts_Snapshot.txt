@@ -1,0 +1,10 @@
+Company: Pioneer Acquisition I Corp Class A Ordinary Shares
+Ticker: PACH
+CIK: 0002040381
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2434663 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 256830217 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12187996 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -11217382 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -486972 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 820826 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

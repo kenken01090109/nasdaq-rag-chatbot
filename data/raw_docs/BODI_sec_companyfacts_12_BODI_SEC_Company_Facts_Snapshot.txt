@@ -1,0 +1,11 @@
+Company: The Beachbody Company Inc. Class A Common Stock
+Ticker: BODI
+CIK: 0001826889
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 196191000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -8079000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 146412000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 121722000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 24690000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16767000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 33949000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

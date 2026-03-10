@@ -1,0 +1,25 @@
+Company: S&T Bancorp Inc. Common Stock
+Ticker: STBA
+Market Cap: 1556802432
+Enterprise Value: 1666458240
+Total Revenue: 394696992
+Revenue Per Share: 10.334
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.43658
+Profit Margins: 0.34008
+Free Cashflow: 
+Operating Cashflow: 133616000
+Return On Assets: 0.01375
+Return On Equity: 0.094390005
+Total Cash: 197186000
+Total Debt: 346144992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.670487
+Forward PE: 10.7873745
+Price To Book: 1.0406766
+Beta: 0.876
+52 Week High: 44.91
+52 Week Low: 30.84

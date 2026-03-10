@@ -1,0 +1,9 @@
+Company: Relmada Therapeutics Inc. Common Stock
+Ticker: RLMD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Coral Gables
+Website: https://www.relmada.com
+Employees: 17
+Business Summary: Relmada Therapeutics, Inc. operates as a clinical-stage biotechnology company in the United States. The company focuses on the development of NDV-01, a controlled-release intravesical formulation of gemcitabine and docetaxel, which is in Phase 2 clinical trial for patients with aggressive forms of non-muscle invasive bladder cancer; and sepranolone, a neurosteroid epimer of allopregnanolone, which is Phase 2b-ready for the potential treatment of Prader-Willi Syndrome, Tourette Syndrome, excessive tremor, and other diseases related to excessive GABAergic activity. It also develops REL-P11, a modified-release formulation of psilocybin that has completed Phase 1 safety study for the treatment of metabolic disease. Relmada Therapeutics, Inc. was founded in 2004 and is headquartered in Coral Gables, Florida.

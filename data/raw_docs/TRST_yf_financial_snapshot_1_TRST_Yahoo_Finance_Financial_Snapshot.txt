@@ -1,0 +1,25 @@
+Company: TrustCo Bank Corp NY Common Stock
+Ticker: TRST
+Market Cap: 807524800
+Enterprise Value: 220375744
+Total Revenue: 186318000
+Revenue Per Share: 9.936
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46793997
+Profit Margins: 0.32813
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00964
+Return On Equity: 0.08971
+Total Cash: 730427008
+Total Debt: 156444992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.486155
+Forward PE: 15.271778
+Price To Book: 1.1509374
+Beta: 0.598
+52 Week High: 48.45
+52 Week Low: 27.18

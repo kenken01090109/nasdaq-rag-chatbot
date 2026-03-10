@@ -1,0 +1,10 @@
+Company: Horizon Bancorp Inc. Common Stock
+Ticker: HBNC
+CIK: 0000706129
+Latest SEC XBRL Facts:
+NetIncomeLoss: -177404000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 6712497000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 6051726000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 660771000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 45658000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 458255000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

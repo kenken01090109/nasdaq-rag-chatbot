@@ -1,0 +1,11 @@
+Company: Sunrise Realty Trust Inc. Common Stock
+Ticker: SUNS
+CIK: 0002012706
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 16347997 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 10512710 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 258831482 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 74219911 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 184611571 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1893601 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5547368 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

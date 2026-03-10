@@ -1,0 +1,25 @@
+Company: WF Holding Limited Ordinary Shares
+Ticker: WFF
+Market Cap: 12078605
+Enterprise Value: 9323025
+Total Revenue: 6021079
+Revenue Per Share: 0.25
+EBITDA: -200238
+Gross Margins: 0.36806
+Operating Margins: -0.07828
+Profit Margins: -0.07102
+Free Cashflow: 3929798
+Operating Cashflow: -1041375
+Return On Assets: -0.02104
+Return On Equity: -0.07441
+Total Cash: 3150892
+Total Debt: 395312
+Debt To Equity: 4.499
+Current Ratio: 1.038
+Quick Ratio: 0.945
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.3739254
+Beta: 
+52 Week High: 29.26
+52 Week Low: 0.34

@@ -1,0 +1,9 @@
+Company: Youlife Group Inc. American Depositary Shares
+Ticker: YOUL
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: China
+City: Shanghai
+Website: https://ir.youlife.cn
+Employees: 
+Business Summary: Youlife Group Inc. operates as a blue-collar lifetime service provider in the People's Republic of China. The company operates through Vocational Education, HR Recruitment, Employee Management, and Market Service segments. It provides vocational education entrusted management, self-operated vocational school, curriculum co-development projects, and vocational training services; HR recruitment services; labor outsourcing and dispatch services; and value-added services. The company is based in Shanghai, China.

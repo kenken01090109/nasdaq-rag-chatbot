@@ -1,0 +1,11 @@
+Company: Acco Group Holdings Limited Class A Ordinary Shares
+Ticker: ACCL
+CIK: 0002038378
+Latest SEC XBRL Facts:
+Revenues: 4852182 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+NetIncomeLoss: 1021725 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+Assets: 3909876 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+Liabilities: 1722992 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+StockholdersEquity: 2186884 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1538145 | unit=USD | filed=2025-11-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2450033 | unit=USD | filed=2025-11-17 | period_end=2025-06-30

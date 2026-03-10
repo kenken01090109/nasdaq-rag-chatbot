@@ -1,0 +1,11 @@
+Company: Cloudastructure Inc. Class A Common Stock
+Ticker: CSAI
+CIK: 0001709628
+Latest SEC XBRL Facts:
+Revenues: 3278000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -6628000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 8685000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1892000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 6792000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5659000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6403000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

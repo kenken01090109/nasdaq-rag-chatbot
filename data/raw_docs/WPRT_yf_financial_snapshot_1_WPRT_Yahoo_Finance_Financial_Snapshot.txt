@@ -1,0 +1,25 @@
+Company: Westport Fuel Systems Inc Common Shares
+Ticker: WPRT
+Market Cap: 34725072
+Enterprise Value: 8217946
+Total Revenue: 290323008
+Revenue Per Share: 16.762
+EBITDA: 74000
+Gross Margins: 0.19964
+Operating Margins: -3.97526
+Profit Margins: -0.20895
+Free Cashflow: 37907248
+Operating Cashflow: 4963000
+Return On Assets: -0.021240002
+Return On Equity: -0.21572
+Total Cash: 32742000
+Total Debt: 5714000
+Debt To Equity: 7.122
+Current Ratio: 2.386
+Quick Ratio: 2.157
+Trailing PE: 
+Forward PE: -1.6806722
+Price To Book: 0.43252593
+Beta: 2.196
+52 Week High: 4.25
+52 Week Low: 1.54

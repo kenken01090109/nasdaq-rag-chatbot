@@ -1,0 +1,11 @@
+Company: Sono-Tek Corporation Common Stock
+Ticker: SOTK
+CIK: 0000806172
+Latest SEC XBRL Facts:
+Revenues: 15299839 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetIncomeLoss: 1248637 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Assets: 23930614 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Liabilities: 4798194 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+StockholdersEquity: 19132420 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 109661 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 5395695 | unit=USD | filed=2026-01-13 | period_end=2025-11-30

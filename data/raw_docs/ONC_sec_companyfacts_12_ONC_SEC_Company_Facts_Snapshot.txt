@@ -1,0 +1,12 @@
+Company: BeOne Medicines Ltd. American Depositary Shares
+Ticker: ONC
+CIK: 0001651308
+Latest SEC XBRL Facts:
+Revenues: 139550000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3844863000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 220431000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 7632586000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3503260000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 4129326000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 710233000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4036868000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

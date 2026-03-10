@@ -1,0 +1,12 @@
+Company: MongoDB Inc. Class A Common Stock
+Ticker: MDB
+CIK: 0001441816
+Latest SEC XBRL Facts:
+Revenues: 170697000 | unit=USD | filed=2018-12-06 | period_end=2018-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1768725000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31
+NetIncomeLoss: -86681000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31
+Assets: 3566649000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31
+Liabilities: 678210000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31
+StockholdersEquity: 2888439000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 325544000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 834092000 | unit=USD | filed=2025-12-02 | period_end=2025-10-31

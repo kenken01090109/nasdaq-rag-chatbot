@@ -1,0 +1,10 @@
+Company: Gladstone Capital Corporation Common Stock
+Ticker: GLAD
+CIK: 0001143513
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5454000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 922811000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 416339000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 477322000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -33806000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 15169000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30

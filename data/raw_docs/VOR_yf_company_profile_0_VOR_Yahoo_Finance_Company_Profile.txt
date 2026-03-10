@@ -1,0 +1,9 @@
+Company: Vor Biopharma Inc. Common Stock
+Ticker: VOR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.vorbio.com
+Employees: 154
+Business Summary: Vor Biopharma Inc. operates as a clinical-stage cell and genome engineering company. The company offers the Vor Bio platform, a technology platform for the treatment of acute myeloid leukemia (AML) and other blood cancers. It develops tremtelectogene empogeditemcel (trem-cel), a genome-edited hematopoietic stem and progenitor allogeneic donor product candidate to treat acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), and other blood cancers; trem-cel in combination with Mylotarg to treat patients in VBP101, which is in phase 1 / 2; and VCAR33, a CAR-T therapy designed to target CD33, which is under preclinical studies to treat AML post-transplant. The company also develops trem-cel + VCAR33 treatment system, CD33-directed CAR-T program, which is under pre-clinical studies for the treatment of AML; VADC45 for the treatment of hematologic malignancies, conditioning, and immune reset, which is under preclinical studies; and CD33-CLL1 treatment system made with CD33-CLL1 multiplex-edited HSC therapy and a CD33-CLL1 multi-specific CAR-T therapy, which is under preclinical studies for the treatment of AML. It has a license agreement with Columbia University and the National Institutes of Health for patents; and with Editas Medicine, Inc. for ex-vivo Cas9 gene-edited HSC therapies for the treatment and/or prevention of hematological malignancies. The company was incorporated in 2015 and is headquartered in Cambridge, Massachusetts.

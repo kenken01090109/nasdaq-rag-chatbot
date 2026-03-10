@@ -1,0 +1,9 @@
+Company: Blue Gold Limited Class A Ordinary Shares
+Ticker: BGL
+Sector: Basic Materials
+Industry: Gold
+Country: Cayman Islands
+City: Grand Cayman
+Website: https://bluegoldmine.com
+Employees: 
+Business Summary: Blue Gold Limited acquires, develops, finances, licenses, and operates gold mines in the Ashanti region of Ghana. The company focused on the Ashanti Gold Belt located in Ghana. Blue Gold Limited was founded in 2023 and is headquartered in Grand Cayman, the Cayman Islands.

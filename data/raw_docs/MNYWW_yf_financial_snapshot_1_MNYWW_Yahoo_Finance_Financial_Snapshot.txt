@@ -1,0 +1,25 @@
+Company: MoneyHero Limited Warrants
+Ticker: MNYWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 69182744
+Revenue Per Share: 1.286
+EBITDA: -13407561
+Gross Margins: 0.25019
+Operating Margins: -0.13132
+Profit Margins: -0.34537
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.103240006
+Return On Equity: -0.50254
+Total Cash: 27924000
+Total Debt: 1137000
+Debt To Equity: 2.96
+Current Ratio: 1.963
+Quick Ratio: 1.758
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.075256556
+Beta: 1.253
+52 Week High: 0.189
+52 Week Low: 0.023

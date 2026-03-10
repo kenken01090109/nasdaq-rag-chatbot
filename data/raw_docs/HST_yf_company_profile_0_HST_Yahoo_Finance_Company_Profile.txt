@@ -1,0 +1,9 @@
+Company: Host Hotels & Resorts Inc. Common Stock
+Ticker: HST
+Sector: Real Estate
+Industry: REIT - Hotel & Motel
+Country: United States
+City: Bethesda
+Website: https://www.hosthotels.com
+Employees: 162
+Business Summary: Host Hotels & Resorts, Inc., herein referred to as we, Host Inc., or the Company, is a self-managed and self-administered real estate investment trust that owns hotel property. We conduct our operations as an umbrella partnership, REIT, through an operating partnership, Host Hotels & Resorts, L.P., of which we are the sole general partner. When distinguishing between Host Inc. and Host LP, the primary difference is approximately 1% of the partnership interests in Host LP held by outside partners as of December 31, 2025, which are non-controlling interests in Host LP in our consolidated balance sheets and are included in net (income) loss attributable to non-controlling interests in our condensed consolidated statements of operations. Host Hotels & Resorts, Inc. is incorporated in 1927 in Maryland, USA.

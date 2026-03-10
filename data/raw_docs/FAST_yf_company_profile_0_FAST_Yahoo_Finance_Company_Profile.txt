@@ -1,0 +1,9 @@
+Company: Fastenal Company Common Stock
+Ticker: FAST
+Sector: Industrials
+Industry: Industrial Distribution
+Country: United States
+City: Winona
+Website: https://www.fastenal.com
+Employees: 21602
+Business Summary: Fastenal Company, together with its subsidiaries, engages in the wholesale distribution of industrial and construction supplies in the United States, Canada, Mexico, and internationally. It offers fasteners, and related industrial and construction supplies under the Fastenal name. The company's fastener products include threaded fasteners, bolts, nuts, screws, studs, and related washers that are used in manufactured products and construction projects, as well as in the maintenance and repair of machines. It offers miscellaneous supplies and hardware, including pins, machinery keys, concrete anchors, metal framing systems, wire ropes, strut products, rivets, and related accessories. The company serves the manufacturing market comprising original equipment manufacturers; maintenance, repair, and operations customers; non-residential construction market; farmers, truckers, railroads, mining companies, schools, and retail trades; and oil exploration, production, and refinement companies, as well as federal, state, and local governmental entities. Fastenal Company was founded in 1967 and is headquartered in Winona, Minnesota.

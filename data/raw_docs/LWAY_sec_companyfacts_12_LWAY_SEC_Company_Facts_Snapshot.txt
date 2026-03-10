@@ -1,0 +1,12 @@
+Company: Lifeway Foods Inc. Common Stock
+Ticker: LWAY
+CIK: 0000814586
+Latest SEC XBRL Facts:
+Revenues: 70497000 | unit=USD | filed=2019-11-14 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 157135000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 11318000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 109526000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 26762000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 82764000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 10681000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22990000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

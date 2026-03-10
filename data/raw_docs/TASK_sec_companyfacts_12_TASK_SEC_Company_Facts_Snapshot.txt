@@ -1,0 +1,12 @@
+Company: TaskUs Inc. Class A Common Stock
+Ticker: TASK
+CIK: 0001829864
+Latest SEC XBRL Facts:
+Revenues: 332893000 | unit=USD | filed=2021-08-11 | period_end=2021-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 870591000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 72570000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1037366000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 469846000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 567520000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 107549000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 209981000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

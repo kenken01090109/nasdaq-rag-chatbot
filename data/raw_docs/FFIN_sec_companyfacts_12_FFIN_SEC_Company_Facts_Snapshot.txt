@@ -1,0 +1,9 @@
+Company: First Financial Bankshares Inc. Common Stock
+Ticker: FFIN
+CIK: 0000036029
+Latest SEC XBRL Facts:
+NetIncomeLoss: 180270000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 14841528000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 13011260000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1830268000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 224560000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

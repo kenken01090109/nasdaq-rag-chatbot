@@ -1,0 +1,25 @@
+Company: Ultragenyx Pharmaceutical Inc. Common Stock
+Ticker: RARE
+Market Cap: 2053383040
+Enterprise Value: 2648383232
+Total Revenue: 673000000
+Revenue Per Share: 6.826
+EBITDA: -500000000
+Gross Margins: -0.27637
+Operating Margins: -0.54652
+Profit Margins: -0.85438
+Free Cashflow: -251124992
+Operating Cashflow: -466000000
+Return On Assets: -0.22035
+Return On Equity: -6.08466
+Total Cash: 680000000
+Total Debt: 1252000000
+Debt To Equity: 
+Current Ratio: 2.477
+Quick Ratio: 2.188
+Trailing PE: 
+Forward PE: 543.6173
+Price To Book: -25.60241
+Beta: 0.208
+52 Week High: 42.37
+52 Week Low: 18.41

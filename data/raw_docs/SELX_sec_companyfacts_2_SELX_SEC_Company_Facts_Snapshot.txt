@@ -1,0 +1,11 @@
+Company: Semilux International Ltd. Ordinary Shares
+Ticker: SELX
+CIK: 0001990950
+Latest SEC XBRL Facts:
+Revenues: 3667000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31
+NetIncomeLoss: -3677000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31
+Assets: 9611000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31
+Liabilities: 8217000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31
+StockholdersEquity: 570000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 66000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3591000 | unit=USD | filed=2025-11-10 | period_end=2024-12-31

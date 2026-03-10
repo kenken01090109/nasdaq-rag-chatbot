@@ -1,0 +1,12 @@
+Company: FGI Industries Ltd. Ordinary Shares
+Ticker: FGI
+CIK: 0001864943
+Latest SEC XBRL Facts:
+Revenues: 332787 | unit=USD | filed=2023-11-13 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 100059669 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -3511948 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 73038015 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 54599747 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 19741636 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1670736 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1900000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

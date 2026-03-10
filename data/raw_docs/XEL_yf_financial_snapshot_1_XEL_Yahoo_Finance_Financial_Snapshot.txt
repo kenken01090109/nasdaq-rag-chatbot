@@ -1,0 +1,25 @@
+Company: Xcel Energy Inc. Common Stock
+Ticker: XEL
+Market Cap: 48813858816
+Enterprise Value: 87195975680
+Total Revenue: 14668999680
+Revenue Per Share: 24.99
+EBITDA: 5980000256
+Gross Margins: 0.45743
+Operating Margins: 0.16680999
+Profit Margins: 0.13757
+Free Cashflow: -7018250240
+Operating Cashflow: 4083000064
+Return On Assets: 0.023929998
+Return On Equity: 0.09358
+Total Cash: 281000000
+Total Debt: 36081999872
+Debt To Equity: 152.832
+Current Ratio: 0.707
+Quick Ratio: 0.379
+Trailing PE: 24.128653
+Forward PE: 18.232273
+Price To Book: 2.1796665
+Beta: 0.426
+52 Week High: 84.23
+52 Week Low: 65.21

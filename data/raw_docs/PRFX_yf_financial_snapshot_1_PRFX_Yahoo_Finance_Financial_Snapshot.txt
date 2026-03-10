@@ -1,0 +1,25 @@
+Company: PRF Technologies Ltd. Ordinary Shares
+Ticker: PRFX
+Market Cap: 2051638
+Enterprise Value: -2315773
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -3941000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4539875
+Operating Cashflow: -5959000
+Return On Assets: -0.36189
+Return On Equity: -1.2764801
+Total Cash: 3479000
+Total Debt: 56000
+Debt To Equity: 0.663
+Current Ratio: 1.592
+Quick Ratio: 1.523
+Trailing PE: 0.017525082
+Forward PE: -0.21724708
+Price To Book: 0.12494039
+Beta: 0.612
+52 Week High: 17.95
+52 Week Low: 2.53

@@ -1,0 +1,10 @@
+Company: Terrestrial Energy Inc. Common Stock
+Ticker: IMSR
+CIK: 0002019804
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3218865 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 243104629 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 14997990 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -14536333 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1055702 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 517160 | unit=USD | filed=2025-07-17 | period_end=2025-03-31

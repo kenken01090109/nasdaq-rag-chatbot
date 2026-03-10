@@ -1,0 +1,25 @@
+Company: CAMP4 Therapeutics Corporation Common Stock
+Ticker: CAMP
+Market Cap: 217900768
+Enterprise Value: 146275408
+Total Revenue: 3802000
+Revenue Per Share: 0.179
+EBITDA: -51634000
+Gross Margins: 0.0
+Operating Margins: -16.54969
+Profit Margins: 0.0
+Free Cashflow: -31920624
+Operating Cashflow: -47134000
+Return On Assets: -0.6185
+Return On Equity: -1.727
+Total Cash: 75255000
+Total Debt: 6346000
+Debt To Equity: 10.817
+Current Ratio: 9.833
+Quick Ratio: 9.522
+Trailing PE: 
+Forward PE: -4.962486
+Price To Book: 3.3573139
+Beta: 
+52 Week High: 7.305
+52 Week Low: 1.305

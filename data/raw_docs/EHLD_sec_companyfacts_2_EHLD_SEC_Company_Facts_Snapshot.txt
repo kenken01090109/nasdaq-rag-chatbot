@@ -1,0 +1,10 @@
+Company: Euroholdings Ltd. Common Stock
+Ticker: EHLD
+CIK: 0002032779
+Latest SEC XBRL Facts:
+Revenues: 15640631 | unit=USD | filed=2025-05-29 | period_end=2024-12-31
+NetIncomeLoss: 3773243 | unit=USD | filed=2025-05-29 | period_end=2024-12-31
+Assets: 8613427 | unit=USD | filed=2025-05-29 | period_end=2024-12-31
+Liabilities: 2374659 | unit=USD | filed=2025-05-29 | period_end=2024-12-31
+StockholdersEquity: 6238768 | unit=USD | filed=2025-05-29 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 4961396 | unit=USD | filed=2025-05-29 | period_end=2024-12-31

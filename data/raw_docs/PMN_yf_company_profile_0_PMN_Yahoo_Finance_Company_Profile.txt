@@ -1,0 +1,9 @@
+Company: ProMIS Neurosciences Inc. Common Shares (ON)
+Ticker: PMN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Toronto
+Website: https://www.promisneurosciences.com
+Employees: 7
+Business Summary: ProMIS Neurosciences, Inc. discovers and develops antibody therapies and therapeutic vaccines for neurodegenerative diseases and other misfolded protein diseases in Canada. The company's proprietary discovery platform comprises ProMIS and Collective Coordinates algorithms to predict novel targets known as disease specific epitopes on the molecular surface of misfolded proteins. Its lead product candidates comprise of PMN310, a monoclonal antibody (mAb) for toxic oligomers for treating Alzheimer's Disease; PMN267 for treatment of amyotrophic lateral sclerosis; and PMN442, a mAb targeting toxic a-syn oligomers and seeding fibrils for treating multiple system atrophy. The company also develops PNM440, an alpha-synuclein vaccine for treating multiple synucleinopathies; and PMN311, an amyloid-beta vaccine for treatment of Alzheimer's. In addition, it is developing therapies for frontotemporal lobar degeneration, Huntington's disease, progressive supranuclear palsy, corticobasal degeneration, and schizophrenia. The company was formerly known as Amorfix Life Sciences Ltd. and changed its name to ProMIS Neurosciences, Inc. in July 2015. ProMIS Neurosciences, Inc. is headquartered in Toronto, Canada.

@@ -1,0 +1,9 @@
+Company: TMC the metals company Inc. Warrants
+Ticker: TMCWW
+Sector: 
+Industry: 
+Country: Canada
+City: Vancouver
+Website: https://metals.co
+Employees: 47
+Business Summary: TMC the metals company Inc., a deep-sea minerals exploration company, focuses on the collection, processing, and refining of polymetallic nodules found on the seafloor in California. It primarily explores for nickel, cobalt, copper, and manganese products. The company holds exploration and commercial rights in two polymetallic nodule contract areas in the Clarion Clipperton Zone of the Pacific Ocean. Its products are used in electric vehicles (EV) and energy storage markets; manganese alloy production required for steel production; and EV wiring, energy transmission, and other applications. The company was founded in 2011 and is based in Vancouver, Canada.

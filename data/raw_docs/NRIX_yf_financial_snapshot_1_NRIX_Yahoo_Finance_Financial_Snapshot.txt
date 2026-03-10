@@ -1,0 +1,25 @@
+Company: Nurix Therapeutics Inc. Common stock
+Ticker: NRIX
+Market Cap: 1552929408
+Enterprise Value: 1028059648
+Total Revenue: 83980000
+Revenue Per Share: 0.969
+EBITDA: -277526016
+Gross Margins: -2.77355
+Operating Margins: -6.1202803
+Profit Margins: 0.0
+Free Cashflow: -143989248
+Operating Cashflow: -249464992
+Return On Assets: -0.26305
+Return On Equity: -0.49629003
+Total Cash: 592940992
+Total Debt: 55730000
+Debt To Equity: 10.344
+Current Ratio: 7.018
+Quick Ratio: 6.874
+Trailing PE: 
+Forward PE: -4.993601
+Price To Book: 2.8533638
+Beta: 2.023
+52 Week High: 22.5
+52 Week Low: 8.18

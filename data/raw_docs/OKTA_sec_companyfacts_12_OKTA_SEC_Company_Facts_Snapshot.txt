@@ -1,0 +1,11 @@
+Company: Okta Inc. Class A Common Stock
+Ticker: OKTA
+CIK: 0001660134
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2158000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetIncomeLoss: 172000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Assets: 9229000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Liabilities: 2336000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+StockholdersEquity: 6893000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 626000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 645000000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31

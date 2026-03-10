@@ -1,0 +1,11 @@
+Company: Ollie's Bargain Outlet Holdings Inc. Common Stock
+Ticker: OLLI
+CIK: 0001639300
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1869942000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+NetIncomeLoss: 155042000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+Assets: 2855043000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+Liabilities: 1022453000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+StockholdersEquity: 1832590000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 114172000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 144699000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01

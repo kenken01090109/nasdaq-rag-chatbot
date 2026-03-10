@@ -1,0 +1,8 @@
+Company: AC Immune SA Common Stock
+Ticker: ACIU
+Total Cash: 108468000
+Total Debt: 4661000
+Debt To Equity: 7.464
+Current Ratio: 1.157
+Quick Ratio: 1.124
+Book Value: 0.79432553

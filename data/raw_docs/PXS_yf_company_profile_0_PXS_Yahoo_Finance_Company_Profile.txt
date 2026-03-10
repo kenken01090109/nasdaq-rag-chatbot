@@ -1,0 +1,9 @@
+Company: Pyxis Tankers Inc. Common Stock
+Ticker: PXS
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: Greece
+City: Marousi
+Website: https://www.pyxistankers.com
+Employees: 
+Business Summary: Pyxis Tankers Inc. operates as a maritime transportation company with a focus on the tanker and dry-bulk sectors in the United States and internationally. It operates through two segments: Tanker Vessels and Dry-Bulk Vessels. The company's fleet transports refined petroleum products, such as naphtha, gasoline, jet fuel, kerosene, diesel, and fuel oil, as well as other liquid bulk items, including vegetable oils and organic chemicals. As of March 28, 2025, it operated a fleet of three double hull product tankers and three dry-bulk vessels. Pyxis Tankers Inc. was incorporated in 2015 and is based in Marousi, Greece. Pyxis Tankers Inc. is a subsidiary of Maritime Investors Corp.

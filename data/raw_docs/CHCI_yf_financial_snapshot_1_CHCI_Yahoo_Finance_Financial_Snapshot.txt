@@ -1,0 +1,25 @@
+Company: Comstock Holding Companies Inc. Class A Common Stock
+Ticker: CHCI
+Market Cap: 116512368
+Enterprise Value: 95929368
+Total Revenue: 55836000
+Revenue Per Share: 5.574
+EBITDA: 9578000
+Gross Margins: 0.24199
+Operating Margins: 0.049640004
+Profit Margins: 0.249
+Free Cashflow: 1043375
+Operating Cashflow: 7310000
+Return On Assets: 0.09668
+Return On Equity: 0.28388
+Total Cash: 26171000
+Total Debt: 5588000
+Debt To Equity: 9.932
+Current Ratio: 7.098
+Quick Ratio: 6.783
+Trailing PE: 8.619403
+Forward PE: 
+Price To Book: 2.0706346
+Beta: -0.099
+52 Week High: 18.99
+52 Week Low: 6.35

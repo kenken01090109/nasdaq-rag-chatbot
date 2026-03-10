@@ -1,0 +1,25 @@
+Company: Zillow Group Inc. Class A Common Stock
+Ticker: ZG
+Market Cap: 11108938752
+Enterprise Value: 10433025024
+Total Revenue: 2583000064
+Revenue Per Share: 10.677
+EBITDA: 69000000
+Gross Margins: 0.74139
+Operating Margins: -0.01682
+Profit Margins: 0.0089
+Free Cashflow: 84750000
+Operating Cashflow: 368000000
+Return On Assets: -0.00347
+Return On Equity: 0.0047299997
+Total Cash: 1303000064
+Total Debt: 457000000
+Debt To Equity: 9.357
+Current Ratio: 3.125
+Quick Ratio: 2.138
+Trailing PE: 510.77777
+Forward PE: 15.910704
+Price To Book: 2.263194
+Beta: 2.14
+52 Week High: 90.22
+52 Week Low: 41.9

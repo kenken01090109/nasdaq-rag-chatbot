@@ -1,0 +1,25 @@
+Company: BT Brands Inc. Common Stock
+Ticker: BTBD
+Market Cap: 9478275
+Enterprise Value: 8482667
+Total Revenue: 14038307
+Revenue Per Share: 2.285
+EBITDA: 806
+Gross Margins: 0.18159
+Operating Margins: 0.12788
+Profit Margins: -0.06667
+Free Cashflow: -2145658
+Operating Cashflow: -123603
+Return On Assets: -0.03517
+Return On Equity: -0.11534
+Total Cash: 4739580
+Total Debt: 3743972
+Debt To Equity: 48.469
+Current Ratio: 6.804
+Quick Ratio: 4.914
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.2270916
+Beta: 0.895
+52 Week High: 5.6
+52 Week Low: 1.0

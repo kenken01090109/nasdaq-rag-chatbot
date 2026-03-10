@@ -1,0 +1,11 @@
+Company: Exelon Corporation Common Stock
+Ticker: EXC
+CIK: 0001109357
+Latest SEC XBRL Facts:
+Revenues: 18846000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 787000000 | unit=USD | filed=2012-11-07 | period_end=2012-09-30
+Assets: 113539000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 85426000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 28113000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5010000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1533000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

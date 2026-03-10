@@ -1,0 +1,12 @@
+Company: Ten-League International Holdings Limited Ordinary Shares
+Ticker: TLIH
+CIK: 0001982012
+Latest SEC XBRL Facts:
+Revenues: 42817000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 58496000 | unit=SGD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 1379000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 52003000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 47453000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 4550000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 3668000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 502000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

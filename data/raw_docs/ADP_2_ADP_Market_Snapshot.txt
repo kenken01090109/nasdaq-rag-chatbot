@@ -1,0 +1,10 @@
+Company: Automatic Data Processing Inc. Common Stock
+Ticker: ADP
+Market Cap: 90070728704
+Enterprise Value: 91722096640
+Trailing PE: 21.413462
+Forward PE: 18.613615
+Price To Book: 14.038074
+Beta: 0.854
+52 Week High: 329.93
+52 Week Low: 203.26

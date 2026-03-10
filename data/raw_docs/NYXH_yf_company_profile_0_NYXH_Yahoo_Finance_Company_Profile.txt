@@ -1,0 +1,9 @@
+Company: Nyxoah SA Ordinary Shares
+Ticker: NYXH
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: Belgium
+City: Mont-Saint-Guibert
+Website: https://www.nyxoah.com
+Employees: 183
+Business Summary: Nyxoah SA, a medical technology company, develops and commercializes solutions to treat obstructive sleep apnea (OSA). The company's lead solution comprises Genio system, a CE-Marked, patient-centric, minimally invasive, and hypoglossal neurostimulation therapy to treat moderate to severe obstructive sleep apnea. Nyxoah SA was incorporated in 2009 and is headquartered in Mont-Saint-Guibert, Belgium.

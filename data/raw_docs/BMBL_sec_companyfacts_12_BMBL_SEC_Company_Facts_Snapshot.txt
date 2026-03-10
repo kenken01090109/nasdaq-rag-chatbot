@@ -1,0 +1,11 @@
+Company: Bumble Inc. Class A Common Stock
+Ticker: BMBL
+CIK: 0001830043
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 741493000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -202962000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2192852000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1155812000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 675462000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 191300000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 307883000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

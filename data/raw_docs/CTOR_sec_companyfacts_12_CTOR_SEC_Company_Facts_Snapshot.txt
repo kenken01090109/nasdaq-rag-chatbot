@@ -1,0 +1,11 @@
+Company: Citius Oncology Inc. Common Stock
+Ticker: CTOR
+CIK: 0001851484
+Latest SEC XBRL Facts:
+Revenues: 3944111 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -5534069 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 109973406 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 51559705 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 58413701 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -7354946 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 7295451 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

@@ -1,0 +1,12 @@
+Company: Haoxi Health Technology Limited Class A Ordinary Shares
+Ticker: HAO
+CIK: 0001954594
+Latest SEC XBRL Facts:
+Revenues: 23954998 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 537646 | unit=USD | filed=2025-10-20 | period_end=2025-06-30
+NetIncomeLoss: -232533 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Assets: 22066772 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Liabilities: 3324049 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+StockholdersEquity: 18742723 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -2250334 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 6655734 | unit=USD | filed=2024-10-29 | period_end=2024-06-30

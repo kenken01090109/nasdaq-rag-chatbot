@@ -1,0 +1,25 @@
+Company: SI-BONE Inc. Common Stock
+Ticker: SIBN
+Market Cap: 610805952
+Enterprise Value: 499670912
+Total Revenue: 200924992
+Revenue Per Share: 4.677
+EBITDA: -16560000
+Gross Margins: 0.79570997
+Operating Margins: -0.043709997
+Profit Margins: -0.09408
+Free Cashflow: -4801750
+Operating Cashflow: -675000
+Return On Assets: -0.059520002
+Return On Equity: -0.10975
+Total Cash: 147823008
+Total Debt: 36688000
+Debt To Equity: 20.666
+Current Ratio: 8.549
+Quick Ratio: 7.051
+Trailing PE: 
+Forward PE: -33.938652
+Price To Book: 3.400541
+Beta: 0.694
+52 Week High: 21.89
+52 Week Low: 12.5

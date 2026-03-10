@@ -1,0 +1,11 @@
+Company: United Bankshares Inc. Common Stock
+Ticker: UBSI
+CIK: 0000729986
+Latest SEC XBRL Facts:
+Revenues: 311957000 | unit=USD | filed=2023-03-01 | period_end=2022-12-31
+NetIncomeLoss: 335775000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 33407181000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 27961466000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 5445715000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 359987000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1667328000 | unit=USD | filed=2017-05-09 | period_end=2017-03-31

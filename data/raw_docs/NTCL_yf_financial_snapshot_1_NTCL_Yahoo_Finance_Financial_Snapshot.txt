@@ -1,0 +1,25 @@
+Company: NETCLASS TECHNOLOGY INC Class A Ordinary Shares
+Ticker: NTCL
+Market Cap: 6225944
+Enterprise Value: 7447475
+Total Revenue: 9805037
+Revenue Per Share: 0.545
+EBITDA: -9148675
+Gross Margins: 0.22850001
+Operating Margins: -0.73189
+Profit Margins: -1.1039801
+Free Cashflow: -1818801
+Operating Cashflow: -5718817
+Return On Assets: -0.57537997
+Return On Equity: -2.40377
+Total Cash: 1763888
+Total Debt: 2724476
+Debt To Equity: 45.568
+Current Ratio: 1.292
+Quick Ratio: 1.072
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.0039008
+Beta: 
+52 Week High: 51.8
+52 Week Low: 0.222

@@ -1,0 +1,10 @@
+Company: AIRO Group Holdings Inc. Common Stock
+Ticker: AIRO
+Market Cap: 320551264
+Enterprise Value: 251743904
+Trailing PE: 
+Forward PE: -19.883495
+Price To Book: 0.43343914
+Beta: 
+52 Week High: 39.07
+52 Week Low: 7.28

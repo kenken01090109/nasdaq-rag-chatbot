@@ -1,0 +1,25 @@
+Company: Seacoast Banking Corporation of Florida Common Stock
+Ticker: SBCF
+Market Cap: 2966234368
+Enterprise Value: 4313022976
+Total Revenue: 598366016
+Revenue Per Share: 6.778
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.43752
+Profit Margins: 0.24212
+Free Cashflow: 
+Operating Cashflow: 188060992
+Return On Assets: 0.00804
+Return On Equity: 0.05531
+Total Cash: 431588992
+Total Debt: 1399465984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 19.292994
+Forward PE: 11.014545
+Price To Book: 1.0820177
+Beta: 0.934
+52 Week High: 35.55
+52 Week Low: 21.36

@@ -1,0 +1,10 @@
+Company: Privia Health Group Inc. Common Stock
+Ticker: PRVA
+CIK: 0001759655
+Latest SEC XBRL Facts:
+NetIncomeLoss: 13768000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1350987000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 588226000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 709124000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 35904000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 441352000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Sidus Space Inc. Class A Common Stock
+Ticker: SIDU
+CIK: 0001879726
+Latest SEC XBRL Facts:
+Revenues: 2797575 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1410879 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -18073296 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 39850647 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 15869486 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 23981161 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14065111 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10419648 | unit=USD | filed=2022-05-13 | period_end=2022-03-31

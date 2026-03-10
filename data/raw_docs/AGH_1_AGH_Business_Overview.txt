@@ -1,0 +1,7 @@
+Company: Aureus Greenway Holdings Inc. Common Stock
+Ticker: AGH
+Business Summary: Aureus Greenway Holdings Inc., through its subsidiaries, owns and operates public golf country clubs in Florida. The company's golf country clubs include golf-courses, fairways, clubhouses boasting food and beverage options, aquatic golf ranges, and pro shops to assist any level of golfers. It also retails golf products; and provides golf equipment and facilities rental, membership, and ancillary services and amenities. Aureus Greenway Holdings Inc. was incorporated in 2023 and is based in Kissimmee, Florida.
+Sector: Consumer Cyclical
+Industry: Leisure
+Exchange: NCM
+Quote Type: EQUITY

@@ -1,0 +1,12 @@
+Company: Nutex Health Inc. Common Stock
+Ticker: NUTX
+CIK: 0001479681
+Latest SEC XBRL Facts:
+Revenues: 723578000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 38600000 | unit=USD | filed=2022-11-21 | period_end=2022-09-30
+NetIncomeLoss: 58955000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 964518000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 526485000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 317166000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 177736000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 166048000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

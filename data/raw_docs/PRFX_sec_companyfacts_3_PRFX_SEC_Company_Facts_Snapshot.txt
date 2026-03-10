@@ -1,0 +1,10 @@
+Company: PRF Technologies Ltd. Ordinary Shares
+Ticker: PRFX
+CIK: 0001801834
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2316000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Assets: 11162000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Liabilities: 2719000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+StockholdersEquity: 8443000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1982000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 3479000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30

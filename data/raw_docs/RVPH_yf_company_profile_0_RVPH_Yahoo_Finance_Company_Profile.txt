@@ -1,0 +1,9 @@
+Company: Reviva Pharmaceuticals Holdings Inc. Common Stock
+Ticker: RVPH
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cupertino
+Website: https://www.revivapharma.com
+Employees: 14
+Business Summary: Reviva Pharmaceuticals Holdings, Inc., a biopharmaceutical company, discovers, develops, and commercializes next-generation therapeutics for diseases targeting unmet medical needs in the areas of central nervous system, respiratory, inflammatory, and cardiometabolic diseases. The company's lead product candidate comprises brilaroxazine (RP5063) for the treatment of neuropsychiatric indications, including schizophrenia, bipolar disorder, major depressive disorder, attention-deficit/hyperactivity disorder, behavioral and psychotic symptoms of dementia and Alzheimer's disease, and Parkinson's disease psychosis; in clinical development for respiratory indications, such as pulmonary arterial hypertension and idiopathic pulmonary fibrosis; and in preclinical development for the treatment of psoriasis. It is also developing RP1208 for the treatment of depression and obesity. The company was founded in 2018 and is headquartered in Cupertino, California.

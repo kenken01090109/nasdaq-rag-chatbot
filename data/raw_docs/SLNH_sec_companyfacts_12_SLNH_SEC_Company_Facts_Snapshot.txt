@@ -1,0 +1,11 @@
+Company: Soluna Holdings Inc. Common Stock
+Ticker: SLNH
+CIK: 0000064463
+Latest SEC XBRL Facts:
+Revenues: 20510000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -38894000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 152035000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 78570000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 14472000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3479000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1100000 | unit=USD | filed=2023-11-14 | period_end=2022-09-30

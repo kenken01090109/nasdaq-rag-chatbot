@@ -1,0 +1,12 @@
+Company: RCI Hospitality Holdings Inc. Common Stock
+Ticker: RICK
+CIK: 0000935419
+Latest SEC XBRL Facts:
+Revenues: 125072000 | unit=USD | filed=2018-08-09 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 208504000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetIncomeLoss: 16313000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Assets: 597412000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Liabilities: 328109000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+StockholdersEquity: 269547000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 35684000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 29347000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30

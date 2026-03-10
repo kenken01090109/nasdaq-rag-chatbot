@@ -1,0 +1,9 @@
+Company: Antalpha Platform Holding Company Class A Ordinary Shares
+Ticker: ANTA
+Sector: Financial Services
+Industry: Credit Services
+Country: Singapore
+City: Singapore
+Website: https://www.antalpha.com
+Employees: 96
+Business Summary: Antalpha Platform Holding Company provides financing, technology, and risk management solutions to the crypto asset industry. It offers supply chain financing to enterprises secured by Bitcoin and Bitcoin mining machines; and mining machine and hashrate loans to pay for the acquisition of mining machines and mining operation expenditures. The company also assists customers to seek other financing solutions, including Bitcoin loans from its funding partner Northstar. In addition, it acts as an agent and utilizes its technology and services capabilities to service its customers by providing loan servicing and management, anti-money laundering, and other platform services during the term of the loan. The company was founded in 2022 and is headquartered in Singapore. Antalpha Platform Holding Company is a subsidiary of Antalpha Technologies Holding Company.

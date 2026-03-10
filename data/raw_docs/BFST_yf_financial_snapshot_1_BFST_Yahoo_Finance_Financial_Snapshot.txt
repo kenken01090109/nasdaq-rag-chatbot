@@ -1,0 +1,25 @@
+Company: Business First Bancshares Inc. Common Stock
+Ticker: BFST
+Market Cap: 874782720
+Enterprise Value: 924043072
+Total Revenue: 312756992
+Revenue Per Share: 10.639
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.36235002
+Profit Margins: 0.28092
+Free Cashflow: 
+Operating Cashflow: 92083000
+Return On Assets: 0.010930001
+Return On Equity: 0.103590004
+Total Cash: 609155008
+Total Debt: 578086016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.555555
+Forward PE: 8.152905
+Price To Book: 1.0570976
+Beta: 0.839
+52 Week High: 30.32
+52 Week Low: 20.07

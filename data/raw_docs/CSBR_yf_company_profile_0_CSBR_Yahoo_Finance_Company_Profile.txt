@@ -1,0 +1,9 @@
+Company: Champions Oncology Inc. Common Stock
+Ticker: CSBR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Hackensack
+Website: https://www.championsoncology.com
+Employees: 213
+Business Summary: Champions Oncology, Inc., a technology-enabled research company, provides technology solutions for drug discovery and development in the United States. The company, through its Tumorgraft technology platform, provides personalized cancer care based upon the implantation of human tumors in immune-deficient mice. It also offers translational oncology solutions that utilizes its technology platform to provide research services that assist in the drug development process of pharmaceutical and biotechnology companies. In addition, the company offers Lumin Bioinformatics, an oncology data-driven software program which contains comprehensive information derived from research services and clinical studies. It markets its products through internet and sales force to pharmaceutical and biotechnology companies. The company was formerly known as Champions Biotechnology, Inc. and changed its name to Champions Oncology, Inc. in April 2011. Champions Oncology, Inc. was incorporated in 1985 and is headquartered in Hackensack, New Jersey.

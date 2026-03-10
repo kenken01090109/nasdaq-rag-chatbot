@@ -1,0 +1,25 @@
+Company: CECO Environmental Corp. Common Stock
+Ticker: CECO
+Market Cap: 1873525120
+Enterprise Value: 2086076160
+Total Revenue: 774380992
+Revenue Per Share: 21.918
+EBITDA: 78787000
+Gross Margins: 0.34767
+Operating Margins: 0.09241
+Profit Margins: 0.06463
+Free Cashflow: 27201000
+Operating Cashflow: 5861000
+Return On Assets: 0.040749997
+Return On Equity: 0.1847
+Total Cash: 33144000
+Total Debt: 240040992
+Debt To Equity: 74.274
+Current Ratio: 1.341
+Quick Ratio: 1.052
+Trailing PE: 38.343063
+Forward PE: 25.401352
+Price To Book: 5.8969464
+Beta: 1.424
+52 Week High: 81.72
+52 Week Low: 17.57

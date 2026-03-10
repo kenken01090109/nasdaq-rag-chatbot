@@ -1,0 +1,11 @@
+Company: Mobile-health Network Solutions Class A Ordinary Shares
+Ticker: MNDR
+CIK: 0001976695
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7646739 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetIncomeLoss: -3383806 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 4447950 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 1831173 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 2616777 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4359262 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1034103 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

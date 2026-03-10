@@ -1,0 +1,9 @@
+Company: Hour Loop Inc. Common Stock
+Ticker: HOUR
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: United States
+City: Redmond
+Website: https://www.hourloop.com
+Employees: 151
+Business Summary: Hour Loop, Inc., an online retailer, engages in e-commerce retailing business in the United States. The company sells products in various categories, including home/garden décor, toys, kitchenware, apparel, and electronics products. It sells its products through hourloop.com, as well as third-party marketplaces, including Amazon, Walmart, eBay, and Etsy. Hour Loop, Inc. was founded in 2013 and is headquartered in Redmond, Washington.

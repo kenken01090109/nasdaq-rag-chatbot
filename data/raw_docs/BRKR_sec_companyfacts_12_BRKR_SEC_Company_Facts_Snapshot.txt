@@ -1,0 +1,12 @@
+Company: Bruker Corporation Common Stock
+Ticker: BRKR
+CIK: 0001109354
+Latest SEC XBRL Facts:
+Revenues: 1472700000 | unit=USD | filed=2019-11-04 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2459300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -34600000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 6434900000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 3731100000 | unit=USD | filed=2026-02-27 | period_end=2025-12-31
+StockholdersEquity: 2431900000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -95700000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 293100000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

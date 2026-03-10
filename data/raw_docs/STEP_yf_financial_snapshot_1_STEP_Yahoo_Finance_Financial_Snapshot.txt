@@ -1,0 +1,25 @@
+Company: StepStone Group Inc. Class A Common Stock
+Ticker: STEP
+Market Cap: 5707347968
+Enterprise Value: 4713993216
+Total Revenue: 1782752000
+Revenue Per Share: 22.873
+EBITDA: -963206976
+Gross Margins: -0.46383998
+Operating Margins: -0.37707
+Profit Margins: -0.30656
+Free Cashflow: 2396484352
+Operating Cashflow: 23158000
+Return On Assets: -0.13149
+Return On Equity: -0.65119004
+Total Cash: 377452000
+Total Debt: 376743008
+Debt To Equity: 72.527
+Current Ratio: 0.666
+Quick Ratio: 0.662
+Trailing PE: 
+Forward PE: 17.482798
+Price To Book: -9.659403
+Beta: 1.405
+52 Week High: 77.795
+52 Week Low: 40.07

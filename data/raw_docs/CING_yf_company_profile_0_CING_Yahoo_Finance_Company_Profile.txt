@@ -1,0 +1,9 @@
+Company: Cingulate Inc. Common Stock
+Ticker: CING
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Kansas City
+Website: https://www.cingulate.com
+Employees: 13
+Business Summary: Cingulate Inc., a biopharmaceutical company, develops pharmaceutical products using delivery platform technology for the treatment of attention deficit/hyperactivity disorder (ADHD) and anxiety in the United States. The company's lead product candidate is CTx-1301 (dexmethylphenidate), which is in Phase 3 clinical trials. It also develops CTx-2103 (buspirone) that is in a formulation stage for the treatment of anxiety and mental health disorders; and plans to initiate the clinical plan for CTx-1302 (dextroamphetamine) to treat ADHD in children, adolescents, and adults. Cingulate Inc. was founded in 2012 and is headquartered in Kansas City, Kansas.

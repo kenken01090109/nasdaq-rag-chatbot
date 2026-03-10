@@ -1,0 +1,9 @@
+Company: First Financial Corporation Common Stock
+Ticker: THFF
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Terre Haute
+Website: https://www.first-online.bank
+Employees: 
+Business Summary: First Financial Corporation, through its subsidiaries, provides various financial products and services in west-central Indiana, east-central Illinois, western Kentucky, central and eastern Tennessee, and northern Georgia. It offers non-interest-bearing demand, interest-bearing demand, savings, time, and other time deposits. The company also provides commercial loans primarily to expand a business or finance asset purchases; residential real estate and residential real estate construction loans; and home equity loans and lines, secured loans, and cash/CD secured and unsecured loans. In addition, it offers lease financing, trust account, depositor, investment, and insurance services. The company was founded in 1834 and is headquartered in Terre Haute, Indiana.

@@ -1,0 +1,25 @@
+Company: Grace Therapeutics Inc. Common Stock
+Ticker: GRCE
+Market Cap: 59729744
+Enterprise Value: 39510336
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -11241000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6619000
+Operating Cashflow: -10128000
+Return On Assets: -0.108389996
+Return On Equity: -0.102180004
+Total Cash: 18672000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 14.962
+Quick Ratio: 14.558
+Trailing PE: 
+Forward PE: -5.989917
+Price To Book: 0.9203625
+Beta: 0.763
+52 Week High: 4.3
+52 Week Low: 1.75

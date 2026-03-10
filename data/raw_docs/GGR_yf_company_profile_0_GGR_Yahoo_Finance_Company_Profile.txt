@@ -1,0 +1,9 @@
+Company: Gogoro Inc. Ordinary Shares
+Ticker: GGR
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: Taiwan
+City: Taipei
+Website: https://www.gogoro.com
+Employees: 
+Business Summary: Gogoro Inc., together with its subsidiaries, engages in the research, development, manufacture, sale, and distribution of electric scooters and bikes, and electric scooter enabling components in Taiwan, India, and internationally. The company offers consulting services; battery swapping services, including the Swap & Go battery swapping platform that delivers full power to electric-powered four-wheelers; scooter sharing; and after-sale services. It also provides battery swapping technology in the form of hardware, software, and services, which consists of Gogoro Smart Batteries, GoStation, Gogoro Network Software & Battery Management Systems, Smartscooter, GoReward, and related components and kits. Gogoro Inc. was founded in 2011 and is based in Taipei, Taiwan.

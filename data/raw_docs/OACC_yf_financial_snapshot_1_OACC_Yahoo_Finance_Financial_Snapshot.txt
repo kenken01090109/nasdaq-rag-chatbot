@@ -1,0 +1,25 @@
+Company: Oaktree Acquisition Corp. III Life Sciences Class A Ordinary Share
+Ticker: OACC
+Market Cap: 262298144
+Enterprise Value: 260981120
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -179374
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1328841
+Total Debt: 11824
+Debt To Equity: 
+Current Ratio: 2.143
+Quick Ratio: 1.866
+Trailing PE: 
+Forward PE: 
+Price To Book: -38.8
+Beta: 
+52 Week High: 10.85
+52 Week Low: 10.04

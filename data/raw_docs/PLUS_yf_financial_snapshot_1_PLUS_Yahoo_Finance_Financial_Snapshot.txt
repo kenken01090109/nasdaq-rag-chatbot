@@ -1,0 +1,25 @@
+Company: ePlus inc. Common Stock
+Ticker: PLUS
+Market Cap: 2062232320
+Enterprise Value: 1909750656
+Total Revenue: 2407459072
+Revenue Per Share: 91.612
+EBITDA: 226040992
+Gross Margins: 0.26594
+Operating Margins: 0.070700005
+Profit Margins: 0.055159997
+Free Cashflow: 46106376
+Operating Cashflow: -60238000
+Return On Assets: 0.06762
+Return On Equity: 0.14623
+Total Cash: 326291008
+Total Debt: 133150000
+Debt To Equity: 12.522
+Current Ratio: 2.132
+Quick Ratio: 1.565
+Trailing PE: 13.928572
+Forward PE: 13.471502
+Price To Book: 1.9178283
+Beta: 1.002
+52 Week High: 93.98
+52 Week Low: 53.83

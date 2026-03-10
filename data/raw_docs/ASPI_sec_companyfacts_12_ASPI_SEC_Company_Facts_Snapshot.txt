@@ -1,0 +1,11 @@
+Company: ASP Isotopes Inc. Common Stock
+Ticker: ASPI
+CIK: 0001921865
+Latest SEC XBRL Facts:
+Revenues: 7189476 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -96512193 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 225890161 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 129286184 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 74068517 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19928958 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 113900000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

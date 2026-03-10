@@ -1,0 +1,9 @@
+Company: Perion Network Ltd. Ordinary Shares
+Ticker: PERI
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: Israel
+City: Tel Aviv
+Website: https://www.perion.com
+Employees: 
+Business Summary: Perion Network Ltd. provides digital advertising solutions to brands, agencies, and retailers in the United States and internationally. It offers a content monetization platform; search monetization solutions, including search mediation and app monetization; and a social platform that supports campaign management and media buying as a service platforms, as well as search advertising solutions. The company also provides a supply management platform; a demand management platform for campaign planning and design; an analytics platform, which provides information and performance metrics and insights; a creative optimization platform that offers ad building, tag creation, creative optimization, and post-campaign performance; and an AI platform that uses machine learning to bring intelligence to the various phases of campaigns. In addition, it offers an online video player and integrated ad server to upload, manage, and stream video content; an ad server; and a yield ad management platform. Further, the company provides a publisher management system that provides analytics and performance optimization tools, as well as reports; search-demand management systems; monetization products that integrate and onboard demand vendors; and AI systems. Additionally, it offers digital out of home (DOOH), connected tv (CTV), open web, and strategic optimization of relevant traits (SORT) solutions, as well as provides a provisional patent technology that eliminates the need for cookies. The company was formerly known as IncrediMail Ltd. and changed its name to Perion Network Ltd. in November 2011. Perion Network Ltd. was incorporated in 1999 and is headquartered in Tel Aviv, Israel.

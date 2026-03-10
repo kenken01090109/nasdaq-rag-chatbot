@@ -1,0 +1,25 @@
+Company: Perion Network Ltd. Ordinary Shares
+Ticker: PERI
+Market Cap: 370711328
+Enterprise Value: 70911344
+Total Revenue: 439927008
+Revenue Per Share: 10.45
+EBITDA: 4097000
+Gross Margins: 0.3447
+Operating Margins: 0.07599
+Profit Margins: -0.018029999
+Free Cashflow: 43914500
+Operating Cashflow: 41927000
+Return On Assets: -0.00928
+Return On Equity: -0.01134
+Total Cash: 312904000
+Total Debt: 22358000
+Debt To Equity: 3.307
+Current Ratio: 2.756
+Quick Ratio: 2.655
+Trailing PE: 
+Forward PE: 6.206657
+Price To Book: 0.530559
+Beta: 1.492
+52 Week High: 11.79
+52 Week Low: 7.0

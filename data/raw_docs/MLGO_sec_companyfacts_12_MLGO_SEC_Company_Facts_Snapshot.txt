@@ -1,0 +1,12 @@
+Company: MicroAlgo Inc. Class A Ordinary Shares
+Ticker: MLGO
+CIK: 0001800392
+Latest SEC XBRL Facts:
+Revenues: 75327948 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 75327948 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 7288806 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 176274857 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 28882391 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 144945752 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 4075482 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 144111733 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

@@ -1,0 +1,12 @@
+Company: Cardiff Oncology Inc. Common Stock
+Ticker: CRDF
+CIK: 0001213037
+Latest SEC XBRL Facts:
+Revenues: 226000 | unit=USD | filed=2021-11-04 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 350000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -38635000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 63780000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 14990000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 48790000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31956000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10135000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

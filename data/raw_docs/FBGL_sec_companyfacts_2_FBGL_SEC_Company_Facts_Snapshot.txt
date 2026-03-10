@@ -1,0 +1,11 @@
+Company: FBS Global Limited Ordinary Shares
+Ticker: FBGL
+CIK: 0001938534
+Latest SEC XBRL Facts:
+Revenues: 10385661 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetIncomeLoss: -610775 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Assets: 11770012 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Liabilities: 8559901 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+StockholdersEquity: 3210111 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -91555 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 5295704 | unit=USD | filed=2025-10-17 | period_end=2025-06-30

@@ -1,0 +1,12 @@
+Company: Smart Sand Inc. Common Stock
+Ticker: SND
+CIK: 0001529628
+Latest SEC XBRL Facts:
+Revenues: 244108000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 295974000 | unit=USD | filed=2024-03-11 | period_end=2023-12-31
+NetIncomeLoss: 167000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 343073000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 103200000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 239873000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21746000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5081000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

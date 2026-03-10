@@ -1,0 +1,25 @@
+Company: EVgo Inc. Warrants
+Ticker: EVGOW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 384086016
+Revenue Per Share: 2.878
+EBITDA: -36647000
+Gross Margins: 0.36508
+Operating Margins: -0.10439
+Profit Margins: -0.10824
+Free Cashflow: -124637624
+Operating Cashflow: -7728000
+Return On Assets: -0.07821
+Return On Equity: -0.23006001
+Total Cash: 151000000
+Total Debt: 311209984
+Debt To Equity: 80.636
+Current Ratio: 2.191
+Quick Ratio: 1.545
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.032373276
+Beta: 2.691
+52 Week High: 0.38
+52 Week Low: 0.028

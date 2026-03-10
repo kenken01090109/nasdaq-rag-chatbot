@@ -1,0 +1,9 @@
+Company: Blue Hat Interactive Entertainment Technology Ordinary Shares
+Ticker: BHAT
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: China
+City: Xiamen
+Website: https://www.bluehatgroup.com
+Employees: 14
+Business Summary: Blue Hat Interactive Entertainment Technology engages in bulk commodity trading business in the People's Republic of China and Malaysia. It operates through three segments: Diamond Trading, Commodity Trading, and Information Services. The company engages in the commodity trading business, such as chemicals products primarily ethanol; and jewelry, which includes diamonds, gold, etc. It also provides gold supply chain services, intelligent trading platforms, gold derivatives trading, and gold real world assets tokenization services. It serves gold refineries, wholesalers, and retailers, as well as diamond wholesalers and retailers. Blue Hat Interactive Entertainment Technology was incorporated in 2010 and is based in Xiamen, China.

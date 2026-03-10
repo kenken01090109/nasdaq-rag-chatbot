@@ -1,0 +1,10 @@
+Company: Magyar Bancorp Inc. Common Stock
+Ticker: MGYR
+CIK: 0001337068
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3136000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 1045498000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 923750000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 121748000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 3675000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 34113000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

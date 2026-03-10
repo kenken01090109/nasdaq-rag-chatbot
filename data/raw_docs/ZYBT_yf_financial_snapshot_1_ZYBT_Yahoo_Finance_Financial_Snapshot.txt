@@ -1,0 +1,25 @@
+Company: Zhengye Biotechnology Holding Limited Ordinary Shares
+Ticker: ZYBT
+Market Cap: 35543532
+Enterprise Value: 141269280
+Total Revenue: 153735008
+Revenue Per Share: 3.307
+EBITDA: -2213000
+Gross Margins: 0.37373
+Operating Margins: -0.46333998
+Profit Margins: -0.12597999
+Free Cashflow: 24229624
+Operating Cashflow: 12389000
+Return On Assets: -0.03446
+Return On Equity: -0.0638
+Total Cash: 47628000
+Total Debt: 85763000
+Debt To Equity: 23.491
+Current Ratio: 1.494
+Quick Ratio: 1.005
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.82014656
+Beta: 
+52 Week High: 14.3
+52 Week Low: 0.7

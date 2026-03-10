@@ -1,0 +1,9 @@
+Company: Horizon Technology Finance Corporation Common Stock
+Ticker: HRZN
+CIK: 0001487428
+Latest SEC XBRL Facts:
+NetIncomeLoss: -11491000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 759212000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 443511000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 315701000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 87055000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

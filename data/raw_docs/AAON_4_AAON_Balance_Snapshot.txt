@@ -1,0 +1,8 @@
+Company: AAON Inc. Common Stock
+Ticker: AAON
+Total Cash: 2859000
+Total Debt: 40000000
+Debt To Equity: 8.581
+Current Ratio: 2.627
+Quick Ratio: 1.78
+Book Value: 10.956

@@ -1,0 +1,9 @@
+Company: Blue Moon Metals Inc. Common Shares
+Ticker: BMM
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Toronto
+Website: https://bluemoonmetals.com
+Employees: 
+Business Summary: Blue Moon Metals Inc. engages in the exploration and development of mineral resource properties in Norway and the United States. The company explores for zinc, silver, gold, lead, germanium, gallium, and copper deposits. Its flagship project is the 100% owned the Nussir project located at the Finnmark county in northern Norway. The company was formerly known as Blue Moon Zinc Corp. and changed its name to Blue Moon Metals Inc. in April 2021. Blue Moon Metals Inc. was incorporated in 2007 and is headquartered in Toronto, Canada.

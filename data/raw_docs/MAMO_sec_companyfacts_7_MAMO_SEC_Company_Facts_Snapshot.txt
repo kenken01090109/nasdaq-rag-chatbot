@@ -1,0 +1,12 @@
+Company: Massimo Group Common Stock
+Ticker: MAMO
+CIK: 0001952853
+Latest SEC XBRL Facts:
+Revenues: 1900000 | unit=USD | filed=2025-05-20 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 50808495 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -484621 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 44380414 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 22661771 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 21718643 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4098065 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2595614 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

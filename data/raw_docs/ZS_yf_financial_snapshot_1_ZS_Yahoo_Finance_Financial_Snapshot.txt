@@ -1,0 +1,25 @@
+Company: Zscaler Inc. Common Stock
+Ticker: ZS
+Market Cap: 26379323392
+Enterprise Value: 24395347968
+Total Revenue: 3001123072
+Revenue Per Share: 19.065
+EBITDA: -68018000
+Gross Margins: 0.76632005
+Operating Margins: -0.061979998
+Profit Margins: -0.02253
+Free Cashflow: 1020966656
+Operating Cashflow: 1114038016
+Return On Assets: -0.014090001
+Return On Equity: -0.03556
+Total Cash: 3512751104
+Total Debt: 1866436992
+Debt To Equity: 84.995
+Current Ratio: 1.901
+Quick Ratio: 1.746
+Trailing PE: 
+Forward PE: 35.773705
+Price To Book: 11.996198
+Beta: 1.124
+52 Week High: 336.99
+52 Week Low: 140.56

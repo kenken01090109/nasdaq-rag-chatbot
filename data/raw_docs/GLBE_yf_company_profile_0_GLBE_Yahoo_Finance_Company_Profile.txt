@@ -1,0 +1,9 @@
+Company: Global-E Online Ltd. Ordinary Shares
+Ticker: GLBE
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: Israel
+City: Petah Tikva
+Website: https://www.global-e.com
+Employees: 
+Business Summary: Global-E Online Ltd., together with its subsidiaries, provides direct-to-consumer cross-border e-commerce platform in Israel, the United Kingdom, the United States, and internationally. Its platform enables international shoppers to buy online and merchants to sell from and to worldwide. The company was incorporated in 2013 and is headquartered in Petah Tikva, Israel.

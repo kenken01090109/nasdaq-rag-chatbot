@@ -1,0 +1,12 @@
+Company: National Research Corporation Common Stock (Delaware)
+Ticker: NRC
+CIK: 0000070487
+Latest SEC XBRL Facts:
+Revenues: 119686000 | unit=USD | filed=2019-03-08 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 102196000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 22246000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30
+Assets: 135719000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 121405000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 14314000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19271000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2219000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

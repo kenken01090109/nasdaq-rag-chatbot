@@ -1,0 +1,25 @@
+Company: Ocugen Inc. Common Stock
+Ticker: OCGN
+Market Cap: 526985408
+Enterprise Value: 612546432
+Total Revenue: 5370000
+Revenue Per Share: 0.018
+EBITDA: -57505000
+Gross Margins: 0.0
+Operating Margins: -10.812791
+Profit Margins: 0.0
+Free Cashflow: -27169250
+Operating Cashflow: -53367000
+Return On Assets: -0.63673997
+Return On Equity: -2.89926
+Total Cash: 32565000
+Total Debt: 32964000
+Debt To Equity: 933.031
+Current Ratio: 1.849
+Quick Ratio: 1.599
+Trailing PE: 
+Forward PE: 3.0666668
+Price To Book: 146.36363
+Beta: 2.899
+52 Week High: 2.0
+52 Week Low: 0.515

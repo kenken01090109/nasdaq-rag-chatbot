@@ -1,0 +1,25 @@
+Company: Solidion Technology Inc. Common Stock
+Ticker: STI
+Market Cap: 29975792
+Enterprise Value: 32440094
+Total Revenue: 13350
+Revenue Per Share: 0.005
+EBITDA: -8818017
+Gross Margins: 0.50202
+Operating Margins: -186.40643
+Profit Margins: 0.0
+Free Cashflow: -6164566
+Operating Cashflow: -5308396
+Return On Assets: -1.0143
+Return On Equity: 
+Total Cash: 160506
+Total Debt: 1992940
+Debt To Equity: 
+Current Ratio: 0.045
+Quick Ratio: 0.021
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.63903564
+Beta: 0.833
+52 Week High: 33.99
+52 Week Low: 2.94

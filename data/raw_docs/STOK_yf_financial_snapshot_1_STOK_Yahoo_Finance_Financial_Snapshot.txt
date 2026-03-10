@@ -1,0 +1,25 @@
+Company: Stoke Therapeutics Inc. Common Stock
+Ticker: STOK
+Market Cap: 2026516480
+Enterprise Value: 1735581184
+Total Revenue: 205632000
+Revenue Per Share: 3.547
+EBITDA: 29087000
+Gross Margins: 1.0
+Operating Margins: -4.05295
+Profit Margins: 0.19728
+Free Cashflow: 29574900
+Operating Cashflow: 52846000
+Return On Assets: 0.052010003
+Return On Equity: 0.15019
+Total Cash: 248310000
+Total Debt: 4782000
+Debt To Equity: 1.552
+Current Ratio: 6.529
+Quick Ratio: 6.211
+Trailing PE: 52.176468
+Forward PE: -11.371795
+Price To Book: 6.3470483
+Beta: 1.191
+52 Week High: 39.81
+52 Week Low: 5.35

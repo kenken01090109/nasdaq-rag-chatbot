@@ -1,0 +1,25 @@
+Company: United States Lime & Minerals Inc. Common Stock
+Ticker: USLM
+Market Cap: 3367298048
+Enterprise Value: 3106812928
+Total Revenue: 372727008
+Revenue Per Share: 13.017
+EBITDA: 183078000
+Gross Margins: 0.5561
+Operating Margins: 0.40952998
+Profit Margins: 0.36025003
+Free Cashflow: 68525872
+Operating Cashflow: 164970000
+Return On Assets: 0.16118
+Return On Equity: 0.23797001
+Total Cash: 371124000
+Total Debt: 4013000
+Debt To Equity: 0.636
+Current Ratio: 19.267
+Quick Ratio: 17.733
+Trailing PE: 25.149893
+Forward PE: 19.004854
+Price To Book: 5.325806
+Beta: 1.009
+52 Week High: 137.96
+52 Week Low: 80.47

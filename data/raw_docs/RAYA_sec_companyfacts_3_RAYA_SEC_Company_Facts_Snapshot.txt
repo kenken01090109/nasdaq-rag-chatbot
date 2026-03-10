@@ -1,0 +1,11 @@
+Company: Erayak Power Solution Group Inc. Class A Ordinary Shares
+Ticker: RAYA
+CIK: 0001825875
+Latest SEC XBRL Facts:
+Revenues: 8744869 | unit=USD | filed=2025-12-02 | period_end=2025-06-30
+NetIncomeLoss: -516655 | unit=USD | filed=2025-12-02 | period_end=2025-06-30
+Assets: 49195680 | unit=USD | filed=2025-12-02 | period_end=2025-06-30
+Liabilities: 22797047 | unit=USD | filed=2025-12-02 | period_end=2025-06-30
+StockholdersEquity: 26398633 | unit=USD | filed=2025-12-02 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -782378 | unit=USD | filed=2025-12-02 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 422375 | unit=USD | filed=2025-12-02 | period_end=2025-06-30

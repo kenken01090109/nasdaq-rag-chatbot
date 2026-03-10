@@ -1,0 +1,25 @@
+Company: Trupanion Inc. Common Stock
+Ticker: TRUP
+Market Cap: 1191723776
+Enterprise Value: 1004703936
+Total Revenue: 1439304960
+Revenue Per Share: 33.504
+EBITDA: 31107000
+Gross Margins: 0.22575001
+Operating Margins: 0.021930002
+Profit Margins: 0.0135
+Free Cashflow: -23275000
+Operating Cashflow: 89488000
+Return On Assets: 0.011089999
+Return On Equity: 0.054959998
+Total Cash: 370729984
+Total Debt: 125948000
+Debt To Equity: 32.804
+Current Ratio: 1.666
+Quick Ratio: 1.641
+Trailing PE: 60.97778
+Forward PE: 6.293578
+Price To Book: 3.101967
+Beta: 1.698
+52 Week High: 57.885
+52 Week Low: 25.24

@@ -1,0 +1,25 @@
+Company: HighPeak Energy Inc. Common Stock
+Ticker: HPK
+Market Cap: 703818176
+Enterprise Value: 1699234048
+Total Revenue: 881516032
+Revenue Per Share: 7.07
+EBITDA: 661280000
+Gross Margins: 0.79130995
+Operating Margins: 0.1728
+Profit Margins: 0.060300004
+Free Cashflow: -53028376
+Operating Cashflow: 558022016
+Return On Assets: 0.0484
+Return On Equity: 0.03289
+Total Cash: 164912992
+Total Debt: 1193511936
+Debt To Equity: 73.379
+Current Ratio: 1.646
+Quick Ratio: 1.418
+Trailing PE: 14.307693
+Forward PE: 44.64
+Price To Book: 0.43085474
+Beta: 0.796
+52 Week High: 13.115
+52 Week Low: 3.85

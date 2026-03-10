@@ -1,0 +1,9 @@
+Company: Greenlight Capital Re Ltd. Class A Ordinary Shares
+Ticker: GLRE
+Sector: Financial Services
+Industry: Insurance - Reinsurance
+Country: Cayman Islands
+City: Grand Cayman
+Website: https://greenlightre.com
+Employees: 75
+Business Summary: Greenlight Capital Re, Ltd., through its subsidiaries, operates as a property and casualty reinsurance company worldwide. The company offers various property reinsurance products and services, including automobile liability, personal lines, and commercial lines. It also provides casualty reinsurance products and services comprising general liability, umbrella, multiline casualty, and worker's compensation; and accident and health, transactional liability, mortgage insurance, surety, trade credit, marine, and energy, as well as other specialty products, such as aviation, cyber, political, and terrorism products. The company markets its products through reinsurance brokers. Greenlight Capital Re, Ltd. was incorporated in 2004 and is headquartered in Grand Cayman, the Cayman Islands.

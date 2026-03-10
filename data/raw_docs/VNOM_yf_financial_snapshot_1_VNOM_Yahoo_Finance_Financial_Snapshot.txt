@@ -1,0 +1,25 @@
+Company: Viper Energy Inc. Class A Common Stock
+Ticker: VNOM
+Market Cap: 16220039168
+Enterprise Value: 15881496576
+Total Revenue: 1324999936
+Revenue Per Share: 9.296
+EBITDA: 1279000064
+Gross Margins: 1.0
+Operating Margins: 0.43066
+Profit Margins: -0.05132
+Free Cashflow: -1588375040
+Operating Cashflow: 1053000000
+Return On Assets: 0.04735
+Return On Equity: -0.028870001
+Total Cash: 13000000
+Total Debt: 2185999872
+Debt To Equity: 21.094
+Current Ratio: 3.721
+Quick Ratio: 3.27
+Trailing PE: 
+Forward PE: 26.197292
+Price To Book: 1.69485
+Beta: 0.329
+52 Week High: 48.0
+52 Week Low: 34.71

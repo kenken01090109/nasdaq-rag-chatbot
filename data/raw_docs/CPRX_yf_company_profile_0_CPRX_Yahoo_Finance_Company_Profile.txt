@@ -1,0 +1,9 @@
+Company: Catalyst Pharmaceuticals Inc. Common Stock
+Ticker: CPRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Coral Gables
+Website: https://catalystpharma.com
+Employees: 182
+Business Summary: Catalyst Pharmaceuticals, Inc., a commercial-stage biopharmaceutical company, focuses on developing and commercializing medicines for patients living with rare diseases in the United States. It offers Firdapse for the treatment of patients with lambert-eaton myasthenic syndrome (LEMS); Fycompa, a novel non-competitive selective antagonist at the postsynaptic ionotropic alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid glutamate receptor that is used to treat focal onset seizures, as well as tonic-clonic seizure; and AGAMREE, a corticosteroid for the treatment of duchenne muscular dystrophy. The company has license agreements with BioMarin Pharmaceutical Inc.; and a collaboration and license agreement with Endo Ventures Limited for the development and commercialization of generic Sabril tablets. Catalyst Pharmaceuticals, Inc. was founded in 2002 and is based in Coral Gables, Florida.

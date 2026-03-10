@@ -1,0 +1,25 @@
+Company: AIFU Inc. Class A Ordinary Share
+Ticker: AIFU
+Market Cap: 220297456
+Enterprise Value: -480633056
+Total Revenue: 1205214976
+Revenue Per Share: 295.505
+EBITDA: -63490800
+Gross Margins: 0.41572
+Operating Margins: -0.02616
+Profit Margins: -0.014359999
+Free Cashflow: -293207936
+Operating Cashflow: 111411000
+Return On Assets: -0.01622
+Return On Equity: -0.07372
+Total Cash: 621137984
+Total Debt: 137340992
+Debt To Equity: 6.57
+Current Ratio: 3.722
+Quick Ratio: 3.681
+Trailing PE: 0.16225448
+Forward PE: 3.5185184
+Price To Book: 0.034306176
+Beta: 
+52 Week High: 9.4
+52 Week Low: 1.5

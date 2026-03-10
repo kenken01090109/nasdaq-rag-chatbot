@@ -1,0 +1,11 @@
+Company: Maplebear Inc. Common Stock
+Ticker: CART
+CIK: 0001579091
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2750000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 366000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 4540000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 889000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 3458000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 788000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1690000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

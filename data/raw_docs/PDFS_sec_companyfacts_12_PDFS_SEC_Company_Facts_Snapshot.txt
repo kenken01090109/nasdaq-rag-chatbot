@@ -1,0 +1,11 @@
+Company: PDF Solutions Inc. Common Stock
+Ticker: PDFS
+CIK: 0001120914
+Latest SEC XBRL Facts:
+Revenues: 22367000 | unit=USD | filed=2021-03-11 | period_end=2020-12-31
+NetIncomeLoss: -592000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 406399000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 142017000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 264382000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6712000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35880000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

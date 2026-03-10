@@ -1,0 +1,12 @@
+Company: Willis Towers Watson Public Limited Company Ordinary Shares
+Ticker: WTW
+CIK: 0001140536
+Latest SEC XBRL Facts:
+Revenues: 6772000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6635000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 870000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 27439000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 19629000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 7735000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1004000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1895000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

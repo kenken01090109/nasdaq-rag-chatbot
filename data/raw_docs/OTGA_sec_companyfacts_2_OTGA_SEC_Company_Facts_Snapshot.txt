@@ -1,0 +1,8 @@
+Company: OTG Acquisition Corp. I Class A Ordinary Share
+Ticker: OTGA
+CIK: 0002077010
+Latest SEC XBRL Facts:
+NetIncomeLoss: 209856 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 231747600 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 148978 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -355950 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

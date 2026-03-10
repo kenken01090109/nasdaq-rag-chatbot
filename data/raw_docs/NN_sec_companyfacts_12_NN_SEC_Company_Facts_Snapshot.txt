@@ -1,0 +1,11 @@
+Company: NextNav Inc. Common Stock
+Ticker: NN
+CIK: 0001865631
+Latest SEC XBRL Facts:
+Revenues: 3628000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -121291000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 263070000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 285188000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -22118000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -34668000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 89994000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

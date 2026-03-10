@@ -1,0 +1,25 @@
+Company: Vera Bradley Inc. Common Stock
+Ticker: VRA
+Market Cap: 74360360
+Enterprise Value: 150044352
+Total Revenue: 324296000
+Revenue Per Share: 11.616
+EBITDA: -34692000
+Gross Margins: 0.47155
+Operating Margins: -0.18576999
+Profit Margins: -0.30056
+Free Cashflow: 45990000
+Operating Cashflow: -5646000
+Return On Assets: -0.08906999
+Return On Equity: -0.47621
+Total Cash: 10729000
+Total Debt: 86413000
+Debt To Equity: 67.477
+Current Ratio: 2.516
+Quick Ratio: 0.619
+Trailing PE: 
+Forward PE: 53.2
+Price To Book: 0.5806593
+Beta: 1.759
+52 Week High: 3.41
+52 Week Low: 1.39

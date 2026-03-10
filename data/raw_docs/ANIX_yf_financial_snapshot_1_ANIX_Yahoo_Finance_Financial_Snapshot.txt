@@ -1,0 +1,25 @@
+Company: Anixa Biosciences Inc. Common Stock
+Ticker: ANIX
+Market Cap: 95131584
+Enterprise Value: 78942568
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3287125
+Operating Cashflow: -7173000
+Return On Assets: -0.38826
+Return On Equity: -0.67166
+Total Cash: 15174000
+Total Debt: 204000
+Debt To Equity: 1.462
+Current Ratio: 8.077
+Quick Ratio: 7.714
+Trailing PE: 
+Forward PE: -7.7027025
+Price To Book: 6.2091503
+Beta: 0.519
+52 Week High: 5.46
+52 Week Low: 2.33

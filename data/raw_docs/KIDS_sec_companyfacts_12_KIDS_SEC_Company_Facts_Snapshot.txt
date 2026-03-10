@@ -1,0 +1,12 @@
+Company: OrthoPediatrics Corp. Common Stock
+Ticker: KIDS
+CIK: 0001425450
+Latest SEC XBRL Facts:
+Revenues: 98049000 | unit=USD | filed=2022-03-03 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 174743000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -29545000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 493486000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 144177000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 349309000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15199000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16826000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

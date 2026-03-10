@@ -1,0 +1,10 @@
+Company: American Airlines Group Inc. Common Stock
+Ticker: AAL
+CIK: 0000006201
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 40634000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 12000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 62141000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: -3962000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3373000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1178000000 | unit=USD | filed=2014-10-23 | period_end=2014-09-30

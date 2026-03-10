@@ -1,0 +1,9 @@
+Company: Insight Molecular Diagnostics Inc. Common Stock
+Ticker: IMDX
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: Nashville
+Website: https://imdxinc.com
+Employees: 46
+Business Summary: Insight Molecular Diagnostics Inc. operates as a precision diagnostics company in the United States and internationally. The company develops and commercializes laboratory developed tests, kitted research use only tests, and kitted clinical tests. It is developing DetermaCNI, a blood-based monitoring tool that detects progression early after one cycle cancer treatment; and DetermaIO, a gene expression test that assesses the tumor microenvironment to predict response to immunotherapies. The company also offers VitaGraft Kidney, a blood-based transplant monitoring test that quantifies the concentration of donor-derived cell-free DNA for kidney transplantation; VitaGraft Liver, a blood-based transplant monitoring test that quantifies the concentration of donor-derived cell-free DNA for liver transplantation; and GraftAssure, a dd-cfDNA test that uses droplet digital PCR technology to measure the concentration of dd-cfDNA using 48 predefined SNPs. In addition, it provides testing services for biomarker discovery, assay design and development, clinical trial support, and various biomarker tests. The company has a collaboration agreement with Bio-Rad Laboratories, Inc. for the development and commercialization of research use only and in vitro diagnostics kitted transplant products using Bio-Rad's ddPCR instruments and reagents. Insight Molecular Diagnostics Inc. was formerly known as OncoCyte Corporation and changed its name to Insight Molecular Diagnostics Inc. in June 2025. Insight Molecular Diagnostics Inc. was incorporated in 2009 and is based in Nashville, Tennessee.

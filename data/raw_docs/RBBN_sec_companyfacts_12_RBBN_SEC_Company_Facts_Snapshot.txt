@@ -1,0 +1,12 @@
+Company: Ribbon Communications Inc. Common Stock
+Ticker: RBBN
+CIK: 0001708055
+Latest SEC XBRL Facts:
+Revenues: 226401000 | unit=USD | filed=2024-02-28 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 617233000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: -49429000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 1105234000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 745182000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 360052000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22159000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 74799000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

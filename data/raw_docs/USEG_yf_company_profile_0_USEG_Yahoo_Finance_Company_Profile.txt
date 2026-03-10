@@ -1,0 +1,9 @@
+Company: U.S. Energy Corp. Common Stock (DE)
+Ticker: USEG
+Sector: Energy
+Industry: Oil & Gas E&P
+Country: United States
+City: Houston
+Website: https://www.usnrg.com
+Employees: 20
+Business Summary: U.S. Energy Corp., an independent energy company, focuses on the acquisition, exploration, and development of industrial gas, and oil and natural gas properties in the continental United States. The company's principal properties and operations are located in the Rockies region, including Montana, Wyoming, and North Dakota; the Mid-Continent region comprising Oklahoma, Kansas, and North and East Texas; West Texas; South Texas; and the Gulf Coast regions. U.S. Energy Corp. was incorporated in 1966 and is headquartered in Houston, Texas.

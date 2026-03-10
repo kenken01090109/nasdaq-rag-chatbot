@@ -1,0 +1,25 @@
+Company: GeneDx Holdings Corp. Warrant
+Ticker: WGSWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 427539008
+Revenue Per Share: 14.927
+EBITDA: 12652000
+Gross Margins: 0.69742996
+Operating Margins: -0.10604
+Profit Margins: -0.04917
+Free Cashflow: 38056124
+Operating Cashflow: 33279000
+Return On Assets: -0.015470001
+Return On Equity: -0.07597
+Total Cash: 171282000
+Total Debt: 113168000
+Debt To Equity: 36.721
+Current Ratio: 2.463
+Quick Ratio: 2.256
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0008255836
+Beta: 2.148
+52 Week High: 0.009
+52 Week Low: 0.0087

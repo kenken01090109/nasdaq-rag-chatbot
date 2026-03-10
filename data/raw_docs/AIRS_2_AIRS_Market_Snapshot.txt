@@ -1,0 +1,10 @@
+Company: AirSculpt Technologies Inc. Common Stock
+Ticker: AIRS
+Market Cap: 115507848
+Enterprise Value: 194314832
+Trailing PE: 
+Forward PE: Infinity
+Price To Book: 1.406844
+Beta: 2.798
+52 Week High: 12.0
+52 Week Low: 1.51

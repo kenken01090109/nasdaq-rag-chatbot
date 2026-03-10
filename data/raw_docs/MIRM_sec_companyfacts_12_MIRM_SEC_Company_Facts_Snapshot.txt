@@ -1,0 +1,12 @@
+Company: Mirum Pharmaceuticals Inc. Common Stock
+Ticker: MIRM
+CIK: 0001759425
+Latest SEC XBRL Facts:
+Revenues: 19138000 | unit=USD | filed=2022-03-09 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 372380000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -17633000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 785115000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 493069000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 292046000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 49760000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 282021000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

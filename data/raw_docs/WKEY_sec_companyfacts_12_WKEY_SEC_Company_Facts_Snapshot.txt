@@ -1,0 +1,11 @@
+Company: WISeKey International Holding Ltd American Depositary Shares
+Ticker: WKEY
+CIK: 0001738699
+Latest SEC XBRL Facts:
+Revenues: 11875000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+NetIncomeLoss: -13446000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+Assets: 114688000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+Liabilities: 27564000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+StockholdersEquity: 25048000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -17774000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 90600000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31

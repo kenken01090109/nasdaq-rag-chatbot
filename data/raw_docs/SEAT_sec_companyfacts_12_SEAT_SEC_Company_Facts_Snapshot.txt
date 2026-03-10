@@ -1,0 +1,12 @@
+Company: Vivid Seats Inc. Class A Common Stock
+Ticker: SEAT
+CIK: 0001856031
+Latest SEC XBRL Facts:
+Revenues: 435284000 | unit=USD | filed=2022-11-08 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 353025000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -376203000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1107082000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 771583000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 272155000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -53396000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 145108000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

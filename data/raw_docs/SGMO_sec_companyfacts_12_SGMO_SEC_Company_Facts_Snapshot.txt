@@ -1,0 +1,12 @@
+Company: Sangamo Therapeutics Inc. Common Stock
+Ticker: SGMO
+CIK: 0001001233
+Latest SEC XBRL Facts:
+Revenues: 12637000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 25324000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -85513000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 88643000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 82400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 6243000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -72805000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29616000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Seres Therapeutics Inc. Common Stock
+Ticker: MCRB
+CIK: 0001609809
+Latest SEC XBRL Facts:
+Revenues: 351000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 351000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 21031000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 143473000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 99776000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 43697000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15827000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47638000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Myseum Inc. Common Stock
+Ticker: MYSE
+Market Cap: 7803722
+Enterprise Value: 712735
+Total Revenue: 581
+Revenue Per Share: 0.0
+EBITDA: -5438014
+Gross Margins: 0.0
+Operating Margins: -3904.2712
+Profit Margins: 0.0
+Free Cashflow: -2772882
+Operating Cashflow: -4396617
+Return On Assets: -0.58938
+Return On Equity: -1.05883
+Total Cash: 4803936
+Total Debt: 270297
+Debt To Equity: 4.747
+Current Ratio: 5.724
+Quick Ratio: 5.412
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.9360614
+Beta: 2.008
+52 Week High: 5.93
+52 Week Low: 1.6

@@ -1,0 +1,9 @@
+Company: Tuniu Corporation American Depositary Shares
+Ticker: TOUR
+Sector: Consumer Cyclical
+Industry: Travel Services
+Country: China
+City: Nanjing
+Website: https://www.tuniu.com
+Employees: 983
+Business Summary: Tuniu Corporation, together with its subsidiaries, operates as an online leisure travel company in the People's Republic of China and Hong Kong. The company offers various packaged tours, including organized and self-guided tours; and other travel-related services, such as tourist attraction tickets, visa application services, accommodation reservation, and hotel booking services, as well as air and train ticketing services. It also provides loans for travel suppliers and cash lending services through online credit companies; and car rental and insurance services, as well as advertising services to tourism boards and bureaus. The company offers its products and services through various online and offline channels, including the tuniu.com website; mobile platform; call center in Nanjing; and offline retail stores in China. Tuniu Corporation was founded in 2006 and is headquartered in Nanjing, the People's Republic of China.

@@ -1,0 +1,25 @@
+Company: Arrive AI Inc. Common Stock
+Ticker: ARAI
+Market Cap: 37527560
+Enterprise Value: 36592196
+Total Revenue: 98175
+Revenue Per Share: 0.003
+EBITDA: -9472999
+Gross Margins: -0.22431
+Operating Margins: -221.51424
+Profit Margins: 0.0
+Free Cashflow: -9213001
+Operating Cashflow: -5378257
+Return On Assets: -1.13809
+Return On Equity: -5.1938
+Total Cash: 2735710
+Total Debt: 4088119
+Debt To Equity: 86.799
+Current Ratio: 1.855
+Quick Ratio: 0.551
+Trailing PE: 
+Forward PE: 
+Price To Book: 7.463768
+Beta: 
+52 Week High: 40.0
+52 Week Low: 0.96

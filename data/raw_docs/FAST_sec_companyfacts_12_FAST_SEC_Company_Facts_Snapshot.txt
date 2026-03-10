@@ -1,0 +1,10 @@
+Company: Fastenal Company Common Stock
+Ticker: FAST
+CIK: 0000815556
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6173100000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+NetIncomeLoss: 964400000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+Assets: 5116300000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+StockholdersEquity: 3894500000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 927800000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 288100000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30

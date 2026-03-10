@@ -1,0 +1,11 @@
+Company: Stratasys Ltd. Ordinary Shares (Israel)
+Ticker: SSYS
+CIK: 0001517396
+Latest SEC XBRL Facts:
+Revenues: 551102000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+NetIncomeLoss: -22224000 | unit=USD | filed=2023-05-16 | period_end=2023-03-31
+Assets: 1073764000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+Liabilities: 230864000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+StockholdersEquity: 842900000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 15144000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 94527000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31

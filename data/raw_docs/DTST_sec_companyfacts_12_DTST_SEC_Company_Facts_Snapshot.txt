@@ -1,0 +1,11 @@
+Company: Data Storage Corporation Common Stock
+Ticker: DTST
+CIK: 0001419951
+Latest SEC XBRL Facts:
+Revenues: 1057651 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: 16072767 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 47677690 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 8414058 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 39507997 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -555823 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 284714 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

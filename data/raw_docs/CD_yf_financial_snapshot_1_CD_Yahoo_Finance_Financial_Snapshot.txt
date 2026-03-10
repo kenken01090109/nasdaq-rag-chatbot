@@ -1,0 +1,25 @@
+Company: Chaince Digital Holdings Inc. Ordinary Shares
+Ticker: CD
+Market Cap: 398316352
+Enterprise Value: 369703808
+Total Revenue: 956830
+Revenue Per Share: 0.014
+EBITDA: -2695244
+Gross Margins: -0.30127
+Operating Margins: -3.0419
+Profit Margins: 0.0
+Free Cashflow: 696479
+Operating Cashflow: -3714729
+Return On Assets: -0.06419
+Return On Equity: -0.16691
+Total Cash: 27228602
+Total Debt: 4236054
+Debt To Equity: 14.397
+Current Ratio: 4.554
+Quick Ratio: 3.847
+Trailing PE: 
+Forward PE: 
+Price To Book: 12.164501
+Beta: 9.553
+52 Week High: 36.77
+52 Week Low: 1.38

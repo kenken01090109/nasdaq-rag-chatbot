@@ -1,0 +1,25 @@
+Company: Bragg Gaming Group Inc. Common Shares
+Ticker: BRAG
+Market Cap: 40973660
+Enterprise Value: 44868164
+Total Revenue: 105548000
+Revenue Per Share: 4.188
+EBITDA: -5151000
+Gross Margins: 0.55367
+Operating Margins: -0.02947
+Profit Margins: -0.0706
+Free Cashflow: 19475000
+Operating Cashflow: 12239000
+Return On Assets: -0.03482
+Return On Equity: -0.11067
+Total Cash: 3024000
+Total Debt: 7173000
+Debt To Equity: 11.204
+Current Ratio: 1.046
+Quick Ratio: 0.892
+Trailing PE: 
+Forward PE: -34.676754
+Price To Book: 0.55129975
+Beta: 0.381
+52 Week High: 4.82
+52 Week Low: 1.46

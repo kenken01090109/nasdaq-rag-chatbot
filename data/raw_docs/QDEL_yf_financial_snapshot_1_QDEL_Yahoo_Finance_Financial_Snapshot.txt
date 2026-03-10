@@ -1,0 +1,25 @@
+Company: QuidelOrtho Corporation Common Stock
+Ticker: QDEL
+Market Cap: 1418143232
+Enterprise Value: 4141330688
+Total Revenue: 2730200064
+Revenue Per Share: 40.268
+EBITDA: 562000000
+Gross Margins: 0.4681
+Operating Margins: 0.04008
+Profit Margins: -0.41455
+Free Cashflow: 233875008
+Operating Cashflow: 105200000
+Return On Assets: 0.012669999
+Return On Equity: -0.46148998
+Total Cash: 170100000
+Total Debt: 2853799936
+Debt To Equity: 148.597
+Current Ratio: 1.498
+Quick Ratio: 0.768
+Trailing PE: 
+Forward PE: 6.9833245
+Price To Book: 0.7364588
+Beta: 0.81
+52 Week High: 41.4
+52 Week Low: 19.5

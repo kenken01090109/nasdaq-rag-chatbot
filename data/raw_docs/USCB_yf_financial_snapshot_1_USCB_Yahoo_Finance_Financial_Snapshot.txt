@@ -1,0 +1,25 @@
+Company: USCB Financial Holdings Inc. Class A Common Stock
+Ticker: USCB
+Market Cap: 334643968
+Enterprise Value: 493716992
+Total Revenue: 87925000
+Revenue Per Share: 4.526
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.21181
+Profit Margins: 0.29684
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00972
+Return On Equity: 0.120670006
+Total Cash: 38477000
+Total Debt: 197550000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.751593
+Forward PE: 8.214603
+Price To Book: 1.5408386
+Beta: 0.594
+52 Week High: 20.785
+52 Week Low: 15.39

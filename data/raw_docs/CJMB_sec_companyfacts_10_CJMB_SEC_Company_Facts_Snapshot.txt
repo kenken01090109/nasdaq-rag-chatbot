@@ -1,0 +1,12 @@
+Company: Callan JMB Inc. Common Stock
+Ticker: CJMB
+CIK: 0002032545
+Latest SEC XBRL Facts:
+Revenues: 4562604 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4562604 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5373327 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 7736180 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3560528 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 4175652 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3887737 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2789744 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

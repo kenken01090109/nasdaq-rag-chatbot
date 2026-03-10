@@ -1,0 +1,12 @@
+Company: Sotherly Hotels Inc. 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock
+Ticker: SOHOB
+CIK: 0001301236
+Latest SEC XBRL Facts:
+Revenues: 43951507 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 135119610 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 772603 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 411381376 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 374625559 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 36755929 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9760267 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9432658 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

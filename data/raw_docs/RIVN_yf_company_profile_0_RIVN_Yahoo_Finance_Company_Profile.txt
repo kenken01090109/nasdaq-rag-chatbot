@@ -1,0 +1,9 @@
+Company: Rivian Automotive Inc. Class A Common Stock
+Ticker: RIVN
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: United States
+City: Irvine
+Website: https://www.rivian.com
+Employees: 15232
+Business Summary: Rivian Automotive, Inc., together with its subsidiaries, develops, manufactures, and sells category-defining electric vehicles. It operates through two segments, Automotive, and Software and Services. The company offers consumer vehicles, including a two-row, five-passenger pickup truck under the R1T brand; and a three-row, seven-passenger sport utility vehicle under the R1S name. It also provides software and services, such as vehicle electrical architecture and software development, as well as Autonomy+, remarketing, vehicle repair and maintenance services, software subscriptions, vehicle accessories, financing, insurance, and other services. In addition, the company designs, develops, and manufactures the Rivian Adventure Network Direct Current fast chargers; and FleetOS, a proprietary, end-to-end centralized fleet management subscription platform. Further, it offers Rivian Commercial Van platform for Electric Delivery Van with collaboration with Amazon.com, Inc. Rivian Automotive, Inc. was founded in 2009 and is based in Irvine, California.

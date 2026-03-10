@@ -1,0 +1,9 @@
+Company: Repay Holdings Corporation Class A Common Stock
+Ticker: RPAY
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Atlanta
+Website: https://www.repay.com
+Employees: 465
+Business Summary: Repay Holdings Corporation, a payments technology company, provides integrated payment processing solutions that enables consumers and businesses to make payments using electronic payment methods in the United States. It operates through two segments: Consumer Payments and Business Payments. The company offers payment acceptance solutions, such as debit and credit card processing, automated clearing house (ACH) processing, e-cash, and digital wallet services; virtual credit card processing, enhanced ACH processing, instant funding, clearing and settlement, and communication solutions; and proprietary payment channels that include Web-based, mobile application, text-to-pay, interactive voice response, and point of sale services. It serves customers primarily operating in the personal loans, automotive loans, receivables management, and business-to-business verticals through direct sales representatives and software integration partners. The company was founded in 2006 and is headquartered in Atlanta, Georgia.

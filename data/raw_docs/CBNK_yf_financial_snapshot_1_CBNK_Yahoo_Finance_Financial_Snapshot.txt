@@ -1,0 +1,25 @@
+Company: Capital Bancorp Inc. Common Stock
+Ticker: CBNK
+Market Cap: 482574432
+Enterprise Value: 274988576
+Total Revenue: 230026000
+Revenue Per Share: 13.872
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.3348
+Profit Margins: 0.24854
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01678
+Return On Equity: 0.15102
+Total Cash: 255564992
+Total Debt: 52062000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.565982
+Forward PE: 7.9917917
+Price To Book: 1.19035
+Beta: 0.611
+52 Week High: 36.4
+52 Week Low: 24.69

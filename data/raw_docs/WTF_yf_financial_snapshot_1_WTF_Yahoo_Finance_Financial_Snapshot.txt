@@ -1,0 +1,25 @@
+Company: Waton Financial Limited Ordinary Shares
+Ticker: WTF
+Market Cap: 209350640
+Enterprise Value: 179678816
+Total Revenue: 10034708
+Revenue Per Share: 0.221
+EBITDA: 
+Gross Margins: 0.55996
+Operating Margins: -1.27367
+Profit Margins: -1.9119501
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.42779
+Return On Equity: -1.02726
+Total Cash: 29883004
+Total Debt: 211186
+Debt To Equity: 0.763
+Current Ratio: 1.539
+Quick Ratio: 1.507
+Trailing PE: 
+Forward PE: 
+Price To Book: 7.560976
+Beta: 
+52 Week High: 19.85
+52 Week Low: 2.71

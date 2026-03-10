@@ -1,0 +1,11 @@
+Company: Pliant Therapeutics Inc. Common Stock
+Ticker: PLRX
+CIK: 0001746473
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+NetIncomeLoss: -125767000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 276600000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 76294000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 200306000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -110548000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 93732000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

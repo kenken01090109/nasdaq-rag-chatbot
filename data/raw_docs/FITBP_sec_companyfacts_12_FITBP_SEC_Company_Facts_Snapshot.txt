@@ -1,0 +1,9 @@
+Company: Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock Series A
+Ticker: FITBP
+CIK: 0000035527
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1791000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 212903000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 191796000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 21107000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3585000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Corcept Therapeutics Incorporated Common Stock
+Ticker: CORT
+Market Cap: 3602887936
+Enterprise Value: 3254926592
+Total Revenue: 761406976
+Revenue Per Share: 7.331
+EBITDA: 45946000
+Gross Margins: 0.98296
+Operating Margins: 0.0222
+Profit Margins: 0.13088
+Free Cashflow: 114190128
+Operating Cashflow: 141996000
+Return On Assets: 0.03339
+Return On Equity: 0.15015
+Total Cash: 372152000
+Total Debt: 6107000
+Debt To Equity: 0.943
+Current Ratio: 2.923
+Quick Ratio: 2.601
+Trailing PE: 41.30488
+Forward PE: 21.06343
+Price To Book: 5.540651
+Beta: 0.312
+52 Week High: 117.33
+52 Week Low: 28.66

@@ -1,0 +1,25 @@
+Company: Omada Health Inc. Common Stock
+Ticker: OMDA
+Market Cap: 813608064
+Enterprise Value: 572598400
+Total Revenue: 260210000
+Revenue Per Share: 7.102
+EBITDA: -6481000
+Gross Margins: 0.65693
+Operating Margins: 0.04326
+Profit Margins: -0.04911
+Free Cashflow: 1697750
+Operating Cashflow: 18252000
+Return On Assets: -0.0328
+Return On Equity: -0.08683
+Total Cash: 222036000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.604
+Quick Ratio: 3.389
+Trailing PE: 
+Forward PE: 39.909103
+Price To Book: 3.5741541
+Beta: 
+52 Week High: 28.4
+52 Week Low: 10.28

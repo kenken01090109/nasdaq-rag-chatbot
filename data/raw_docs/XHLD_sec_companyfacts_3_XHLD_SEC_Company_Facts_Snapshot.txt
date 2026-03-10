@@ -1,0 +1,12 @@
+Company: TEN Holdings Inc. Common Stock
+Ticker: XHLD
+CIK: 0002030954
+Latest SEC XBRL Facts:
+Revenues: 2398000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2398000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -9607000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 10746000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 6962000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 3784000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9035000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 310000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

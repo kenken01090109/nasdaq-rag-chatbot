@@ -1,0 +1,10 @@
+Company: MacKenzie Realty Capital Inc. Common Stock
+Ticker: MKZR
+CIK: 0001550913
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 9133120 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 238052301 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 152018491 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 51814910 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3588672 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4335778 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

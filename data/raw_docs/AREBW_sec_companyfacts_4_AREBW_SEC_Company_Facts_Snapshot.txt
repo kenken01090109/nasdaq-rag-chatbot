@@ -1,0 +1,12 @@
+Company: American Rebel Holdings Inc. Warrants
+Ticker: AREBW
+CIK: 0001648087
+Latest SEC XBRL Facts:
+Revenues: 848357 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7231439 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -28427026 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 31743334 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 28365077 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 3378257 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4969701 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 722233 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

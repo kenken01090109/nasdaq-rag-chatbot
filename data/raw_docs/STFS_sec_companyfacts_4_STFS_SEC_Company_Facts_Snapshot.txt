@@ -1,0 +1,11 @@
+Company: Star Fashion Culture Holdings Limited Class A Ordinary Shares
+Ticker: STFS
+CIK: 0002003061
+Latest SEC XBRL Facts:
+Revenues: 16861501 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+NetIncomeLoss: -18263343 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+Assets: 12192555 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+Liabilities: 5782227 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+StockholdersEquity: 6410328 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3964700 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 65430 | unit=USD | filed=2025-11-12 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: BioXcel Therapeutics Inc. Common Stock
+Ticker: BTAI
+Market Cap: 32366848
+Enterprise Value: 105476848
+Total Revenue: 752000
+Revenue Per Share: 0.1
+EBITDA: -50143000
+Gross Margins: -0.28191
+Operating Margins: -143.20409
+Profit Margins: 0.0
+Free Cashflow: -43281248
+Operating Cashflow: -58214000
+Return On Assets: -0.67309
+Return On Equity: 
+Total Cash: 36176000
+Total Debt: 109286000
+Debt To Equity: 
+Current Ratio: 1.175
+Quick Ratio: 0.957
+Trailing PE: 
+Forward PE: -0.56273764
+Price To Book: -0.33280864
+Beta: 0.228
+52 Week High: 8.08
+52 Week Low: 1.17

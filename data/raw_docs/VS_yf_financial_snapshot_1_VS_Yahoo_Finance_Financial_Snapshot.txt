@@ -1,0 +1,25 @@
+Company: Versus Systems Inc. Common Stock
+Ticker: VS
+Market Cap: 4462487
+Enterprise Value: -5007980
+Total Revenue: 2179348
+Revenue Per Share: 0.493
+EBITDA: -2303193
+Gross Margins: 0.99245
+Operating Margins: -1.05741
+Profit Margins: -0.75102997
+Free Cashflow: -1951157
+Operating Cashflow: -2200870
+Return On Assets: -0.66748
+Return On Equity: -0.94092005
+Total Cash: 1405628
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1116.663
+Quick Ratio: 1035.694
+Trailing PE: 
+Forward PE: -0.5293023
+Price To Book: 0.4007042
+Beta: 1.736
+52 Week High: 2.83
+52 Week Low: 0.7501

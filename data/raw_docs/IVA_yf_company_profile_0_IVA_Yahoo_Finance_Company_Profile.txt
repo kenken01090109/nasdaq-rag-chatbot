@@ -1,0 +1,9 @@
+Company: Inventiva S.A. American Depository Shares
+Ticker: IVA
+Sector: Healthcare
+Industry: Biotechnology
+Country: France
+City: Daix
+Website: https://inventivapharma.com
+Employees: 84
+Business Summary: Inventiva S.A., a clinical-stage biopharmaceutical company, focuses on the development of oral small molecule therapies for the treatment of metabolic dysfunction-associated steatohepatitis (MASH) and other diseases in France and internationally. The company develops Lanifibranor, a novel pan-peroxisome proliferator-activated receptor agonist that is in the NATiV3 Phase 3 clinical trial to treat adult patients with MASH; and Odiparcil for the treatment of patients with mucopolysaccharidoses. It also develops TGF-ß, a pre-clinical program for the treatment of idiopathic pulmonary fibrosis. The company was incorporated in 2011 and is headquartered in Daix, France.

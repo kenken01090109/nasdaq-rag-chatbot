@@ -1,0 +1,7 @@
+Company: Intel Corporation Common Stock
+Ticker: INTC
+Title: 
+Publisher: 
+Publish Time: 
+Summary: 
+Link: 

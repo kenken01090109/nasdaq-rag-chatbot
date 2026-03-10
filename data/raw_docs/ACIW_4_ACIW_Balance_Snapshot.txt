@@ -1,0 +1,8 @@
+Company: ACI Worldwide Inc. Common Stock
+Ticker: ACIW
+Total Cash: 196462000
+Total Debt: 865638976
+Debt To Equity: 56.984
+Current Ratio: 1.543
+Quick Ratio: 0.91
+Book Value: 14.79

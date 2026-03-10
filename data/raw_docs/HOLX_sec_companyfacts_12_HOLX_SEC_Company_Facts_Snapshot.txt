@@ -1,0 +1,11 @@
+Company: Hologic Inc. Common Stock
+Ticker: HOLX
+CIK: 0000859737
+Latest SEC XBRL Facts:
+Revenues: 1047800000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+NetIncomeLoss: 179100000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+Assets: 9180700000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+Liabilities: 7318642000 | unit=USD | filed=2013-05-09 | period_end=2013-03-30
+StockholdersEquity: 5245100000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 229900000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 2168000000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27

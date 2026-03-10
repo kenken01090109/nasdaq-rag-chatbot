@@ -1,0 +1,25 @@
+Company: Gauzy Ltd. Ordinary Shares
+Ticker: GAUZ
+Market Cap: 9390311
+Enterprise Value: 71416568
+Total Revenue: 96810000
+Revenue Per Share: 5.161
+EBITDA: -26436000
+Gross Margins: 0.29993
+Operating Margins: -0.62382
+Profit Margins: -0.39626
+Free Cashflow: -10643000
+Operating Cashflow: -20112000
+Return On Assets: -0.13033
+Return On Equity: -0.9446
+Total Cash: 1235000
+Total Debt: 63280000
+Debt To Equity: 354.311
+Current Ratio: 0.655
+Quick Ratio: 0.322
+Trailing PE: 
+Forward PE: 0.84915257
+Price To Book: 0.52570826
+Beta: 
+52 Week High: 11.0
+52 Week Low: 0.4761

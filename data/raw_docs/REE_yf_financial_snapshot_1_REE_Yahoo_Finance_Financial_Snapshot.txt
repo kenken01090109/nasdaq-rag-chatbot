@@ -1,0 +1,25 @@
+Company: REE Automotive Ltd. Class A Ordinary Shares
+Ticker: REE
+Market Cap: 18182264
+Enterprise Value: 3540850
+Total Revenue: 207000
+Revenue Per Share: 0.008
+EBITDA: -90737000
+Gross Margins: 0.0
+Operating Margins: -293.47284
+Profit Margins: 0.0
+Free Cashflow: -53149376
+Operating Cashflow: -78806000
+Return On Assets: -0.57098997
+Return On Equity: -2.02562
+Total Cash: 54668000
+Total Debt: 38015000
+Debt To Equity: 105.747
+Current Ratio: 1.739
+Quick Ratio: 1.622
+Trailing PE: 
+Forward PE: -0.2807522
+Price To Book: 0.50197786
+Beta: 2.761
+52 Week High: 6.6
+52 Week Low: 0.511

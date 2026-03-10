@@ -1,0 +1,25 @@
+Company: Origin Agritech Limited Common Stock
+Ticker: SEED
+Market Cap: 12614784
+Enterprise Value: 3310323
+Total Revenue: 91290000
+Revenue Per Share: 12.187
+EBITDA: -50603000
+Gross Margins: 0.07003
+Operating Margins: -1.5375501
+Profit Margins: -0.58416003
+Free Cashflow: -23485876
+Operating Cashflow: -22861000
+Return On Assets: -0.28964
+Return On Equity: 
+Total Cash: 15875000
+Total Debt: 44964000
+Debt To Equity: 
+Current Ratio: 0.442
+Quick Ratio: 0.13
+Trailing PE: 
+Forward PE: 
+Price To Book: -3.665763
+Beta: 1.86
+52 Week High: 2.49
+52 Week Low: 0.74

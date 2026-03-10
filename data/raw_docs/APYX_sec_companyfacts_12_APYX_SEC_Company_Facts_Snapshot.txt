@@ -1,0 +1,12 @@
+Company: Apyx Medical Corporation Common Stock
+Ticker: APYX
+CIK: 0000719135
+Latest SEC XBRL Facts:
+Revenues: 8295000 | unit=USD | filed=2016-03-18 | period_end=2015-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 33680000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -9912000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 57365000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 51285000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 5848000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5471000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25135000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

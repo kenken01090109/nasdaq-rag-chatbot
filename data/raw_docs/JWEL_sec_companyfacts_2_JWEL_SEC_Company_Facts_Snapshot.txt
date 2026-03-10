@@ -1,0 +1,11 @@
+Company: Jowell Global Ltd. Ordinary Shares
+Ticker: JWEL
+CIK: 0001805594
+Latest SEC XBRL Facts:
+Revenues: 132981531 | unit=USD | filed=2025-05-09 | period_end=2024-12-31
+NetIncomeLoss: -7964159 | unit=USD | filed=2025-05-09 | period_end=2024-12-31
+Assets: 25847331 | unit=USD | filed=2025-05-09 | period_end=2024-12-31
+Liabilities: 8934221 | unit=USD | filed=2025-05-09 | period_end=2024-12-31
+StockholdersEquity: 16914181 | unit=USD | filed=2025-05-09 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 790184 | unit=USD | filed=2025-05-09 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 2184920 | unit=USD | filed=2025-05-09 | period_end=2024-12-31

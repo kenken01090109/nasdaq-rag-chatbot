@@ -1,0 +1,11 @@
+Company: Anbio Biotechnology Class A Ordinary Shares
+Ticker: NNNN
+CIK: 0001982708
+Latest SEC XBRL Facts:
+Revenues: 8185146 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 2372842 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 18921784 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 1730234 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 17191550 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 2080387 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 11760859 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

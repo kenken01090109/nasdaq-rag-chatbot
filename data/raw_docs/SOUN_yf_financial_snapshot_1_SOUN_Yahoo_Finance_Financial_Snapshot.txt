@@ -1,0 +1,25 @@
+Company: SoundHound AI Inc Class A Common Stock
+Ticker: SOUN
+Market Cap: 3412110592
+Enterprise Value: 3252542464
+Total Revenue: 168920000
+Revenue Per Share: 0.417
+EBITDA: -146268992
+Gross Margins: 0.42358002
+Operating Margins: -0.74208
+Profit Margins: -0.08291
+Free Cashflow: -18346124
+Operating Cashflow: -98222000
+Return On Assets: -0.18154
+Return On Equity: -0.043330003
+Total Cash: 248490000
+Total Debt: 4359000
+Debt To Equity: 0.94
+Current Ratio: 4.588
+Quick Ratio: 4.447
+Trailing PE: 
+Forward PE: -807.0
+Price To Book: 7.3564262
+Beta: 2.88
+52 Week High: 22.17
+52 Week Low: 6.52

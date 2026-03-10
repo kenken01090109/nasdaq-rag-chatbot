@@ -1,0 +1,9 @@
+Company: Kopin Corporation Common Stock
+Ticker: KOPN
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Westborough
+Website: https://www.kopin.com
+Employees: 181
+Business Summary: Kopin Corporation, together with its subsidiaries, develops, manufactures, and sells microdisplays, subassemblies, and related components for defense, enterprise, industrial, and consumer products in the United States, the Asia-Pacific, Europe, and internationally. It offers miniature active-matrix liquid crystal displays, ferroelectric liquid crystal on silicon displays, organic light emitting diode displays, MicroLED display technologies, application specific optical solutions, backlights, and optical lenses. The company's products are used for soldier thermal weapon rifle sights, avionic fixed and rotary wing pilot helmets, armored vehicle targeting systems, and training and simulation headsets; industrial and medical headsets; 3D optical inspection systems; and consumer augmented reality and virtual reality wearable headsets systems. Kopin Corporation was incorporated in 1984 and is headquartered in Westborough, Massachusetts.

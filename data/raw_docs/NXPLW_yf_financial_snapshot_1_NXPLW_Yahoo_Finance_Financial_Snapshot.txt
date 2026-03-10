@@ -1,0 +1,25 @@
+Company: NextPlat Corp Warrants
+Ticker: NXPLW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 57151000
+Revenue Per Share: 2.201
+EBITDA: -7454000
+Gross Margins: 0.19293
+Operating Margins: -0.14463
+Profit Margins: -0.14581999
+Free Cashflow: -2746000
+Operating Cashflow: -6304000
+Return On Assets: -0.14396
+Return On Equity: -0.32467
+Total Cash: 13926000
+Total Debt: 1716000
+Debt To Equity: 7.964
+Current Ratio: 3.56
+Quick Ratio: 2.762
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.060954716
+Beta: 1.267
+52 Week High: 0.0498
+52 Week Low: 0.0441

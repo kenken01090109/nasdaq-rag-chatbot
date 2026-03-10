@@ -1,0 +1,25 @@
+Company: TruBridge Inc. Common Stock
+Ticker: TBRG
+Market Cap: 282068800
+Enterprise Value: 421378752
+Total Revenue: 347272992
+Revenue Per Share: 24.053
+EBITDA: 46335000
+Gross Margins: 0.52807
+Operating Margins: 0.090050004
+Profit Margins: 0.0103400005
+Free Cashflow: 31997624
+Operating Cashflow: 38403000
+Return On Assets: 0.05143
+Return On Equity: 0.020350002
+Total Cash: 19920000
+Total Debt: 166863008
+Debt To Equity: 92.518
+Current Ratio: 1.908
+Quick Ratio: 1.482
+Trailing PE: 78.29167
+Forward PE: 8.184084
+Price To Book: 1.5134919
+Beta: 0.652
+52 Week High: 32.0
+52 Week Low: 17.86

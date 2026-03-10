@@ -1,0 +1,12 @@
+Company: Agilysys Inc. Common Stock (DE)
+Ticker: AGYS
+Total Revenue: 310638016
+Revenue Per Share: 11.156
+Gross Margins: 0.61665
+Operating Margins: 0.10782
+EBITDA: 36937000
+Profit Margins: 0.09793
+Free Cashflow: 43789876
+Operating Cashflow: 61314000
+Return On Assets: 0.040149998
+Return On Equity: 0.106759995

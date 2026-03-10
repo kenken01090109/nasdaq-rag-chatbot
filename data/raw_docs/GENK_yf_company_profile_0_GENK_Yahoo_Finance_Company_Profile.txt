@@ -1,0 +1,9 @@
+Company: GEN Restaurant Group Inc. Class A Common Stock
+Ticker: GENK
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Cerritos
+Website: https://www.genkoreanbbq.com
+Employees: 289
+Business Summary: GEN Restaurant Group, Inc. operates restaurants in the United States. The company offers meats, poultry, and seafood. GEN Restaurant Group, Inc. was founded in 2011 and is based in Cerritos, California.

@@ -1,0 +1,9 @@
+Company: WEBUY GLOBAL LTD. Class A Ordinary Shares
+Ticker: WBUY
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: Singapore
+City: Singapore
+Website: https://webuysg.com
+Employees: 174
+Business Summary: Webuy Global Ltd operates as an e-commerce retailor with dual focus on grocery and travel in Singapore, Indonesia, and internationally. It offers a range of products, including food and beverages, fresh produce, lifestyle daily essentials, e-vouchers, miscellaneous daily needs, and personal care items, as well as packaged tours. The company was founded in 2019 and is headquartered in Singapore.

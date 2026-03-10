@@ -1,0 +1,11 @@
+Company: Beyond Air Inc. Common Stock
+Ticker: XAIR
+CIK: 0001641631
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5772000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -22967000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 36774000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 28488000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 8111000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -13198000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 6643000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

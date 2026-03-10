@@ -1,0 +1,11 @@
+Company: Flywire Corporation Voting Common Stock
+Ticker: FLYW
+CIK: 0001580560
+Latest SEC XBRL Facts:
+Revenues: 465481000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 13464000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1259867000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 430741000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 829126000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 95289000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 354914000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

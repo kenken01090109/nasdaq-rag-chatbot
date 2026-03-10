@@ -1,0 +1,25 @@
+Company: Connect Biopharma Holdings Limited Ordinary Shares
+Ticker: CNTB
+Market Cap: 138640704
+Enterprise Value: 84640712
+Total Revenue: 762000
+Revenue Per Share: 0.014
+EBITDA: -54686000
+Gross Margins: 1.0
+Operating Margins: -1104.8125
+Profit Margins: 0.0
+Free Cashflow: -27706376
+Operating Cashflow: -42275000
+Return On Assets: -0.38666
+Return On Equity: -0.66800004
+Total Cash: 54781000
+Total Debt: 781000
+Debt To Equity: 1.41
+Current Ratio: 5.478
+Quick Ratio: 4.809
+Trailing PE: 
+Forward PE: -2.6883469
+Price To Book: 2.4974825
+Beta: -0.183
+52 Week High: 3.28
+52 Week Low: 0.51

@@ -1,0 +1,9 @@
+Company: StableX Technologies Inc. Common Stock
+Ticker: SBLX
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: United States
+City: New York
+Website: https://www.stablextechnologies.com
+Employees: 
+Business Summary: StableX Technologies, Inc. designs, manufactures, and sells electric vehicles for closed campus mobility, urban and community transport, local on-demand and last mile delivery, and government use in the United States. The company offers four-wheeled purpose-built electric vehicles for universities, business and medical campuses, last mile delivery services, and food service providers. It also provides vehicles as an alternative to internal combustion engine vehicles for light duty uses, including low-speed logistics, maintenance, cargo, and personal and group transport services; and AYRO Vanish and AYRO Valet fleet of low-speed electric vehicles. The company was formerly known as Ayro, Inc. and change its name to StableX Technologies, Inc. in August 2025. StableX Technologies, Inc. was founded in 2017 and is headquartered in New York, New York.

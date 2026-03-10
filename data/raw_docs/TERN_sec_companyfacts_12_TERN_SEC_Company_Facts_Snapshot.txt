@@ -1,0 +1,11 @@
+Company: Terns Pharmaceuticals Inc. Common Stock
+Ticker: TERN
+CIK: 0001831363
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-03-27 | period_end=2022-12-31
+NetIncomeLoss: -24635000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 301651000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 17585000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 284066000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -63093000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 150698000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

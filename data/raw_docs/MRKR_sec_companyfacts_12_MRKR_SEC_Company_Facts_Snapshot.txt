@@ -1,0 +1,11 @@
+Company: Marker Therapeutics Inc. Common Stock
+Ticker: MRKR
+CIK: 0001094038
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2022-03-17 | period_end=2021-12-31
+NetIncomeLoss: -10460410 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 21734830 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 3345937 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 18388893 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10113975 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17589978 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

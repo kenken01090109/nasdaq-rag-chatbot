@@ -1,0 +1,9 @@
+Company: Prelude Therapeutics Incorporated Common Stock
+Ticker: PRLD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Wilmington
+Website: https://preludetx.com
+Employees: 131
+Business Summary: Prelude Therapeutics Incorporated, a clinical-stage precision oncology company, focuses on the discovery and development of novel precision cancer medicines to underserved patients. It is developing PRT3789, a selective degrader of SMARCA2 protein for the treatment of advanced or metastatic solid tumors with loss of SMARCA4 due to truncating mutation and/or deletion; PRT7732, a selective and orally bioavailable SMARCA2 degraders to treat advanced or metastatic solid tumors; and PRT2527, a cyclin-dependent kinase 9 inhibitor for the treatment of advanced solid tumors. The company's CDK9 program is a regulator of cancer-promoting transcriptional programs, including MCL1, MYC, and MYB. Prelude Therapeutics Incorporated was incorporated in 2016 and is based in Wilmington, Delaware.

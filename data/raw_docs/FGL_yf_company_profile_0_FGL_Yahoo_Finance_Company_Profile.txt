@@ -1,0 +1,9 @@
+Company: Founder Group Limited Class A Ordinary Shares
+Ticker: FGL
+Sector: Industrials
+Industry: Engineering & Construction
+Country: Malaysia
+City: Klang
+Website: https://www.founderenergy.com.my
+Employees: 82
+Business Summary: Founder Group Limited provides engineering, procurement, construction, and commissioning solutions (EPCC) for solar projects and commercial and industrial solar projects in Malaysia. It operates through two segments; Large-scale solar, and Commercial and Industrial. The company offers engineering and design services for solar PV array, including inverters, transformers, and interconnection to the power grid; procurement of construction materials and equipment for the solar PV facilities, including solar PV modules and balance of systems; and construction services, including civil, structural, mechanical, and electrical works, installation, integration of equipment, and interconnection to the power grid. It also provides commissioning, including testing of equipment and systems and testing of the installed solar PV facilities. In addition, the company engages in the installation, testing, and commissioning of photovoltaic modules, inverters, DC cables, and related works; supply of PV mounting structures; piling work; and operation and maintenance services. Founder Group Limited was founded in 2021 and is based in Klang, Malaysia.

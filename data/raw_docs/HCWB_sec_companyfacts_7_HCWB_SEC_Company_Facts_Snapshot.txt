@@ -1,0 +1,11 @@
+Company: HCW Biologics Inc. Common Stock
+Ticker: HCWB
+CIK: 0001828673
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2021-11-12 | period_end=2021-09-30
+NetIncomeLoss: -8678941 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 25445540 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 27552737 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -2107197 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10036100 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1096909 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

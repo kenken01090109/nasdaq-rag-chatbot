@@ -1,0 +1,8 @@
+Company: American Electric Power Company Inc. Common Stock
+Ticker: AEP
+Total Cash: 417000000
+Total Debt: 49692000256
+Debt To Equity: 154.237
+Current Ratio: 0.455
+Quick Ratio: 0.253
+Book Value: 57.571

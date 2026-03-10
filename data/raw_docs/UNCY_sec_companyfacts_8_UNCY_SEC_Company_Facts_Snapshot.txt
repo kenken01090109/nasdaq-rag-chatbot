@@ -1,0 +1,11 @@
+Company: Unicycive Therapeutics Inc. Common Stock
+Ticker: UNCY
+CIK: 0001766140
+Latest SEC XBRL Facts:
+Revenues: 675000 | unit=USD | filed=2024-11-13 | period_end=2023-09-30
+NetIncomeLoss: -11887000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 50611000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 13131000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 37480000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23285000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42695000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Smith & Wesson Brands Inc. Common Stock
+Ticker: SWBI
+CIK: 0001092796
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 345457000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31
+NetIncomeLoss: 2259000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31
+Assets: 538004000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31
+Liabilities: 174586000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31
+StockholdersEquity: 363418000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 39614000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 18421000 | unit=USD | filed=2026-03-05 | period_end=2026-01-31

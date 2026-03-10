@@ -1,0 +1,9 @@
+Company: Starry Sea Acquisition Corp Unit
+Ticker: SSEAU
+CIK: 0002059165
+Latest SEC XBRL Facts:
+NetIncomeLoss: -36715 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 58412197 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 7538854 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -576632 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

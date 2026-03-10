@@ -1,0 +1,25 @@
+Company: Coca-Cola Consolidated Inc. Common Stock
+Ticker: COKE
+Market Cap: 13615230976
+Enterprise Value: 16178479104
+Total Revenue: 7228055040
+Revenue Per Share: 86.352
+EBITDA: 1164797056
+Gross Margins: 0.39738998
+Operating Margins: 0.12542
+Profit Margins: 0.078940004
+Free Cashflow: 479739616
+Operating Cashflow: 931904000
+Return On Assets: 0.12315
+Return On Equity: 1.68341
+Total Cash: 281918016
+Total Debt: 2907240960
+Debt To Equity: 
+Current Ratio: 1.264
+Quick Ratio: 0.87
+Trailing PE: 30.057352
+Forward PE: 5.2488446
+Price To Book: -18.391973
+Beta: 0.574
+52 Week High: 209.24
+52 Week Low: 105.21

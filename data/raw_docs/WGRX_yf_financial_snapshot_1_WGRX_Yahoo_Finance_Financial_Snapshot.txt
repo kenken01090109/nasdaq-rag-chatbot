@@ -1,0 +1,25 @@
+Company: Wellgistics Health Inc. Common Stock
+Ticker: WGRX
+Market Cap: 16888014
+Enterprise Value: 38309868
+Total Revenue: 34077636
+Revenue Per Share: 0.577
+EBITDA: -69088904
+Gross Margins: 0.078590006
+Operating Margins: -10.47107
+Profit Margins: -2.2816498
+Free Cashflow: 12038600
+Operating Cashflow: -7185553
+Return On Assets: -0.8323
+Return On Equity: -9.27672
+Total Cash: 4228666
+Total Debt: 25973132
+Debt To Equity: 383.197
+Current Ratio: 0.392
+Quick Ratio: 0.163
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.1441557
+Beta: 
+52 Week High: 7.04
+52 Week Low: 0.157

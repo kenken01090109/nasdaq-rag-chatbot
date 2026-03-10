@@ -1,0 +1,25 @@
+Company: ZenaTech Inc. Common Stock
+Ticker: ZENA
+Market Cap: 131204352
+Enterprise Value: 153025984
+Total Revenue: 8396023
+Revenue Per Share: 0.242
+EBITDA: -13601560
+Gross Margins: 1.0
+Operating Margins: -1.10487
+Profit Margins: 0.0
+Free Cashflow: -23226480
+Operating Cashflow: -25933192
+Return On Assets: -0.17556
+Return On Equity: -1.00948
+Total Cash: 19531374
+Total Debt: 32111536
+Debt To Equity: 77.923
+Current Ratio: 5.418
+Quick Ratio: 4.125
+Trailing PE: 58.25
+Forward PE: -13.849608
+Price To Book: -11.41724
+Beta: 
+52 Week High: 7.109
+52 Week Low: 1.82

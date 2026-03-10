@@ -1,0 +1,11 @@
+Company: Invivyd Inc. Common Stock
+Ticker: IVVD
+CIK: 0001832038
+Latest SEC XBRL Facts:
+Revenues: 36219000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -41419000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 139158000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 46090000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 93068000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -42680000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 84967000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

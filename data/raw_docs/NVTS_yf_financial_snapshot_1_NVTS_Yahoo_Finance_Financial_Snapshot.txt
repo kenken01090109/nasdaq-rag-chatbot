@@ -1,0 +1,25 @@
+Company: Navitas Semiconductor Corporation Common Stock
+Ticker: NVTS
+Market Cap: 1892500608
+Enterprise Value: 1837518208
+Total Revenue: 45916000
+Revenue Per Share: 0.223
+EBITDA: -61126000
+Gross Margins: 0.31031
+Operating Margins: -2.89378
+Profit Margins: -2.54711
+Free Cashflow: 40336124
+Operating Cashflow: -42891000
+Return On Assets: -0.11724
+Return On Equity: -0.29546
+Total Cash: 236856992
+Total Debt: 6472000
+Debt To Equity: 1.459
+Current Ratio: 4.987
+Quick Ratio: 4.614
+Trailing PE: 
+Forward PE: -58.251045
+Price To Book: 4.2597404
+Beta: 3.211
+52 Week High: 17.79
+52 Week Low: 1.52

@@ -1,0 +1,12 @@
+Company: InterDigital Inc. Common Stock
+Ticker: IDCC
+CIK: 0001405495
+Latest SEC XBRL Facts:
+Revenues: 156999000 | unit=USD | filed=2018-08-02 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 675785000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 363673000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 2139500000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1039524000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1099976000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 481059000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 840270000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: BlackLine Inc. Common Stock
+Ticker: BL
+CIK: 0001666134
+Latest SEC XBRL Facts:
+Revenues: 80162000 | unit=USD | filed=2018-08-08 | period_end=2017-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 517246000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 19632000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1703826000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1337272000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 328300000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 142887000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 419900000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

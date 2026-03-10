@@ -1,0 +1,12 @@
+Company: Astera Labs Inc. Common Stock
+Ticker: ALAB
+Total Revenue: 852524992
+Revenue Per Share: 5.123
+Gross Margins: 0.75688004
+Operating Margins: 0.24746001
+EBITDA: 180252000
+Profit Margins: 0.25704
+Free Cashflow: 206811376
+Operating Cashflow: 319305984
+Return On Assets: 0.08382
+Return On Equity: 0.18822001

@@ -1,0 +1,25 @@
+Company: Amylyx Pharmaceuticals Inc. Common Stock
+Ticker: AMLX
+Market Cap: 1521001088
+Enterprise Value: 1219914624
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -152766000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -66994876
+Operating Cashflow: -123343000
+Return On Assets: -0.36409
+Return On Equity: -0.61586
+Total Cash: 316979008
+Total Debt: 5957000
+Debt To Equity: 1.951
+Current Ratio: 14.266
+Quick Ratio: 13.98
+Trailing PE: 
+Forward PE: -10.305596
+Price To Book: 4.985601
+Beta: -0.302
+52 Week High: 17.49
+52 Week Low: 3.11

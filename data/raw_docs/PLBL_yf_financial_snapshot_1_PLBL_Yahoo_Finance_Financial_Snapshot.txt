@@ -1,0 +1,25 @@
+Company: Polibeli Group Ltd Class A Ordinary Shares
+Ticker: PLBL
+Market Cap: 2982394112
+Enterprise Value: 4067884544
+Total Revenue: 30226940
+Revenue Per Share: 0.06
+EBITDA: -9325144
+Gross Margins: 0.038
+Operating Margins: -0.24701001
+Profit Margins: -0.36321
+Free Cashflow: -3424499
+Operating Cashflow: -5547277
+Return On Assets: -0.2906
+Return On Equity: 
+Total Cash: 3086564
+Total Debt: 971197
+Debt To Equity: 
+Current Ratio: 1.488
+Quick Ratio: 0.721
+Trailing PE: 
+Forward PE: 
+Price To Book: -166.12247
+Beta: 
+52 Week High: 13.48
+52 Week Low: 5.6

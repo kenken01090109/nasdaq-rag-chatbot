@@ -1,0 +1,9 @@
+Company: Industrial Logistics Properties Trust Common Shares of Beneficial Interest
+Ticker: ILPT
+Sector: Real Estate
+Industry: REIT - Industrial
+Country: United States
+City: Newton
+Website: https://www.ilptreit.com
+Employees: 
+Business Summary: Industrial Logistics Properties Trust is a real estate investment trust focused on owning and leasing high quality industrial and logistics properties. As of December 31, 2025, ILPT's portfolio consisted of 409 properties containing approximately 59.6 million rentable square feet located in 39 states. Approximately 76% of ILPT's annualized rental revenues as of December 31, 2025 are derived from investment grade tenants, tenants that are subsidiaries of investment grade rated entities or Hawaii land leases. ILPT is managed by The RMR Group, a leading U.S. alternative asset management company with over $37 billion in assets under management as of December 31, 2025 and 40 years of institutional experience in buying, selling, financing and operating commercial real estate. ILPT is headquartered in Newton, MA.

@@ -1,0 +1,12 @@
+Company: Beasley Broadcast Group Inc. Class A Common Stock
+Ticker: BBGI
+CIK: 0001099160
+Latest SEC XBRL Facts:
+Revenues: 116778923 | unit=USD | filed=2018-08-06 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 152889222 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -6400699 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 534571292 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 393551919 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 141019373 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5312411 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14336639 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

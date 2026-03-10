@@ -1,0 +1,10 @@
+Company: Churchill Capital Corp IX Ordinary Shares
+Ticker: CCIX
+CIK: 0002006291
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5879945 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 305010602 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 10143727 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -9673745 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3233790 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

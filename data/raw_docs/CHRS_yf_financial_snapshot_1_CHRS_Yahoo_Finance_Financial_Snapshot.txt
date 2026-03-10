@@ -1,0 +1,25 @@
+Company: Coherus Oncology Inc. Common Stock
+Ticker: CHRS
+Market Cap: 272037248
+Enterprise Value: 75389984
+Total Revenue: 277728000
+Revenue Per Share: 2.396
+EBITDA: -79791000
+Gross Margins: 0.56308
+Operating Margins: -3.6499
+Profit Margins: 0.55799997
+Free Cashflow: 29647500
+Operating Cashflow: -90189000
+Return On Assets: -0.10261
+Return On Equity: 
+Total Cash: 191663008
+Total Debt: 54320000
+Debt To Equity: 61.886
+Current Ratio: 1.238
+Quick Ratio: 1.188
+Trailing PE: 3.3090909
+Forward PE: -3.7142859
+Price To Book: 2.4105961
+Beta: 1.088
+52 Week High: 2.616
+52 Week Low: 0.71

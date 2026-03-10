@@ -1,0 +1,12 @@
+Company: Gyre Therapeutics Inc. Common Stock
+Ticker: GYRE
+CIK: 0001124105
+Latest SEC XBRL Facts:
+Revenues: 60000 | unit=USD | filed=2015-07-31 | period_end=2015-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 79393000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 11200000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 159384000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 21969000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 101920000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6635000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 40402000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

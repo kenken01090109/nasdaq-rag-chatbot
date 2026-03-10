@@ -1,0 +1,25 @@
+Company: Lixiang Education Holding Co. Ltd. American Depositary Shares
+Ticker: LXEH
+Market Cap: 4216667
+Enterprise Value: 327757888
+Total Revenue: 32852772
+Revenue Per Share: 3.313
+EBITDA: -26756764
+Gross Margins: -0.25452998
+Operating Margins: -0.97833
+Profit Margins: -0.97788
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.04404
+Return On Equity: -0.14827
+Total Cash: 221388208
+Total Debt: 128886984
+Debt To Equity: 49.082
+Current Ratio: 1.436
+Quick Ratio: 1.399
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.11049624
+Beta: -0.057
+52 Week High: 50.08
+52 Week Low: 0.18

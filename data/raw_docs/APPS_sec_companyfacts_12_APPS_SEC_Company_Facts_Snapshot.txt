@@ -1,0 +1,12 @@
+Company: Digital Turbine Inc. Common Stock
+Ticker: APPS
+CIK: 0000317788
+Latest SEC XBRL Facts:
+Revenues: 30553000 | unit=USD | filed=2019-08-05 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 422702000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: -30392000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 858175000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 663573000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 194602000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 37424000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 40180000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

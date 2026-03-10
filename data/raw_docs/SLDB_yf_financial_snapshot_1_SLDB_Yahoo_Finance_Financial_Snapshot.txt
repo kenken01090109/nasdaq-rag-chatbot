@@ -1,0 +1,25 @@
+Company: Solid Biosciences Inc. Common Stock
+Ticker: SLDB
+Market Cap: 525894112
+Enterprise Value: 222871440
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -168042000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -77397752
+Operating Cashflow: -132379000
+Return On Assets: -0.4367
+Return On Equity: -0.8683
+Total Cash: 236142000
+Total Debt: 21937000
+Debt To Equity: 10.065
+Current Ratio: 6.737
+Quick Ratio: 6.498
+Trailing PE: 
+Forward PE: -3.305162
+Price To Book: 2.4124374
+Beta: 2.76
+52 Week High: 7.37
+52 Week Low: 2.41

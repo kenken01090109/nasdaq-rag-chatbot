@@ -1,0 +1,25 @@
+Company: Ideal Power Inc. Common Stock
+Ticker: IPWR
+Market Cap: 40499456
+Enterprise Value: 20799506
+Total Revenue: 43136
+Revenue Per Share: 0.005
+EBITDA: -11377781
+Gross Margins: -0.53779
+Operating Margins: -123.53035
+Profit Margins: 0.0
+Free Cashflow: -5841165
+Operating Cashflow: -9523148
+Return On Assets: -0.42151
+Return On Equity: -0.74445
+Total Cash: 8394113
+Total Debt: 425076
+Debt To Equity: 4.22
+Current Ratio: 9.763
+Quick Ratio: 9.483
+Trailing PE: 
+Forward PE: -2.9130435
+Price To Book: 2.8293917
+Beta: 1.083
+52 Week High: 6.9
+52 Week Low: 2.615

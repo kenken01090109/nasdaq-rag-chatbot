@@ -1,0 +1,12 @@
+Company: ANI Pharmaceuticals Inc.
+Ticker: ANIP
+CIK: 0001023024
+Latest SEC XBRL Facts:
+Revenues: 49774000 | unit=USD | filed=2020-05-07 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 636306000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 50847000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1408152000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 902335000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 505817000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 154858000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 262610000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

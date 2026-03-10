@@ -1,0 +1,25 @@
+Company: Globalstar Inc. Common Stock
+Ticker: GSAT
+Market Cap: 7255607296
+Enterprise Value: 7736278016
+Total Revenue: 272985984
+Revenue Per Share: 2.154
+EBITDA: 98159000
+Gross Margins: 0.63813
+Operating Margins: -0.05831
+Profit Margins: -0.031689998
+Free Cashflow: -388251264
+Operating Cashflow: 621649984
+Return On Assets: 0.00333
+Return On Equity: -0.02421
+Total Cash: 447471008
+Total Debt: 546334976
+Debt To Equity: 153.582
+Current Ratio: 2.417
+Quick Ratio: 2.285
+Trailing PE: 
+Forward PE: 162.98007
+Price To Book: 20.316772
+Beta: 1.521
+52 Week High: 74.88
+52 Week Low: 17.24

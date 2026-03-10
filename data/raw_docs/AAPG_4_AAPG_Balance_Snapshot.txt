@@ -1,0 +1,8 @@
+Company: Ascentage Pharma Group International American Depository Shares
+Ticker: AAPG
+Total Cash: 1661453952
+Total Debt: 1716164992
+Debt To Equity: 253.905
+Current Ratio: 1.54
+Quick Ratio: 1.404
+Book Value: 0.28095186

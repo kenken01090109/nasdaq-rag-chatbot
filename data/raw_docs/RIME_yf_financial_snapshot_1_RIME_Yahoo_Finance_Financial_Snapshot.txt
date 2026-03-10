@@ -1,0 +1,25 @@
+Company: Algorhythm Holdings Inc. Common Stock
+Ticker: RIME
+Market Cap: 9616030
+Enterprise Value: 7406547
+Total Revenue: 26385000
+Revenue Per Share: 9.988
+EBITDA: -11066000
+Gross Margins: 0.15596
+Operating Margins: -0.89736
+Profit Margins: -1.0878501
+Free Cashflow: -7783875
+Operating Cashflow: -14414000
+Return On Assets: -0.46607
+Return On Equity: -22.46566
+Total Cash: 2839000
+Total Debt: 6811000
+Debt To Equity: 6811.0
+Current Ratio: 0.525
+Quick Ratio: 0.444
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.9768271
+Beta: -0.369
+52 Week High: 4.58
+52 Week Low: 0.73

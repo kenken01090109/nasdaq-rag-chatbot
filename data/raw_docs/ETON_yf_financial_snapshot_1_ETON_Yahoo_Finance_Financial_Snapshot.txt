@@ -1,0 +1,25 @@
+Company: Eton Pharmaceuticals Inc. Common Stock
+Ticker: ETON
+Market Cap: 450534592
+Enterprise Value: 455956224
+Total Revenue: 70316000
+Revenue Per Share: 2.633
+EBITDA: 4721000
+Gross Margins: 0.56586
+Operating Margins: -0.00174
+Profit Margins: -0.09503
+Free Cashflow: -162625
+Operating Cashflow: 21310000
+Return On Assets: 0.01255
+Return On Equity: -0.34173
+Total Cash: 37121000
+Total Debt: 30877000
+Debt To Equity: 133.516
+Current Ratio: 1.63
+Quick Ratio: 1.136
+Trailing PE: 
+Forward PE: 17.967913
+Price To Book: 19.48956
+Beta: 1.236
+52 Week High: 23.0
+52 Week Low: 11.09

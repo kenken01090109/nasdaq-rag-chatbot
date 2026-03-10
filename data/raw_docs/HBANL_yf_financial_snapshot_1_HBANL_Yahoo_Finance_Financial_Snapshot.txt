@@ -1,0 +1,25 @@
+Company: Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock
+Ticker: HBANL
+Market Cap: 
+Enterprise Value: 59324215296
+Total Revenue: 7692000256
+Revenue Per Share: 5.201
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.39784
+Profit Margins: 0.28744
+Free Cashflow: 
+Operating Cashflow: 2481999872
+Return On Assets: 0.01038
+Return On Equity: 0.10095
+Total Cash: 14387999744
+Total Debt: 19285999616
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.843308
+Beta: 0.967
+52 Week High: 26.425
+52 Week Low: 24.32

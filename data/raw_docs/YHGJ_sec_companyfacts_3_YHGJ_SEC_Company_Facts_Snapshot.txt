@@ -1,0 +1,10 @@
+Company: Yunhong Green CTI Ltd. Common Stock
+Ticker: YHGJ
+CIK: 0001042187
+Latest SEC XBRL Facts:
+NetIncomeLoss: -1412000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 22171000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11630000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10541000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2300000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 387000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

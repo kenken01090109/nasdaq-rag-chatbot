@@ -1,0 +1,25 @@
+Company: Varex Imaging Corporation Common Stock
+Ticker: VREX
+Market Cap: 483331040
+Enterprise Value: 816702016
+Total Revenue: 854400000
+Revenue Per Share: 20.551
+EBITDA: 97200000
+Gross Margins: 0.34153
+Operating Margins: 0.073470004
+Profit Margins: -0.079239994
+Free Cashflow: -15687500
+Operating Cashflow: 16100000
+Return On Assets: 0.03616
+Return On Equity: -0.129
+Total Cash: 125600000
+Total Debt: 401300000
+Debt To Equity: 81.764
+Current Ratio: 3.887
+Quick Ratio: 1.669
+Trailing PE: 
+Forward PE: 11.303922
+Price To Book: 1.0134481
+Beta: 0.923
+52 Week High: 14.565
+52 Week Low: 6.76

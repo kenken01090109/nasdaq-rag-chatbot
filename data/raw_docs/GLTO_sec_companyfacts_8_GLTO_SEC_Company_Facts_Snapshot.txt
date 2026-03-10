@@ -1,0 +1,10 @@
+Company: Galecto Inc. Common Stock
+Ticker: GLTO
+CIK: 0001800315
+Latest SEC XBRL Facts:
+NetIncomeLoss: -9103000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 10736000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2729000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 8007000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7292000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7606000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

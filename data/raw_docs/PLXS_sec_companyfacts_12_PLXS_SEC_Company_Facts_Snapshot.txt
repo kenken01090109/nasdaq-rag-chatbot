@@ -1,0 +1,12 @@
+Company: Plexus Corp. Common Stock
+Ticker: PLXS
+CIK: 0000785786
+Latest SEC XBRL Facts:
+Revenues: -108372000 | unit=USD | filed=2014-11-17 | period_end=2014-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 1069852 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+NetIncomeLoss: 41182000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+Assets: 3185967000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+Liabilities: 1704904000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+StockholdersEquity: 1481063000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+NetCashProvidedByUsedInOperatingActivities: -15381000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+CashAndCashEquivalentsAtCarryingValue: 248825000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03

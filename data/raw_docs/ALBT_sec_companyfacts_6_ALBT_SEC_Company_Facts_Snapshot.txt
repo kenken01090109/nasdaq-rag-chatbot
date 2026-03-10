@@ -1,0 +1,11 @@
+Company: Avalon GloboCare Corp. Common Stock
+Ticker: ALBT
+CIK: 0001630212
+Latest SEC XBRL Facts:
+Revenues: 1050305 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -16194977 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 9128455 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 13621474 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -4493019 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4388557 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 333931 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

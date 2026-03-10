@@ -1,0 +1,11 @@
+Company: Slide Insurance Holdings Inc. Common Stock
+Ticker: SLDE
+CIK: 0001886428
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 808894000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 273572000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2686855000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1722635000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 964220000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 375702000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 861558000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

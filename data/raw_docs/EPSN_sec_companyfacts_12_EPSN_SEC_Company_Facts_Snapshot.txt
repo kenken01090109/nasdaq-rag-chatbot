@@ -1,0 +1,11 @@
+Company: Epsilon Energy Ltd. Common Share
+Ticker: EPSN
+CIK: 0001726126
+Latest SEC XBRL Facts:
+Revenues: 19928780 | unit=USD | filed=2019-11-13 | period_end=2019-09-30
+NetIncomeLoss: 1072295 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 126293005 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 26074972 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 100218033 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20896700 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12766167 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

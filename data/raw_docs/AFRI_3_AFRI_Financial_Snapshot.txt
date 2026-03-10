@@ -1,0 +1,12 @@
+Company: Forafric Global PLC Ordinary Shares
+Ticker: AFRI
+Total Revenue: 201916000
+Revenue Per Share: 7.507
+Gross Margins: 0.09297
+Operating Margins: -0.0346
+EBITDA: 3023000
+Profit Margins: -0.111190006
+Free Cashflow: -6024250
+Operating Cashflow: -1366000
+Return On Assets: -0.00415
+Return On Equity: -1.5636301

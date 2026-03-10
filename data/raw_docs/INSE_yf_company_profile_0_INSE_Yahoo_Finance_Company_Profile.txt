@@ -1,0 +1,9 @@
+Company: Inspired Entertainment Inc. Common Stock
+Ticker: INSE
+Sector: Consumer Cyclical
+Industry: Gambling
+Country: United States
+City: New York
+Website: https://inseinc.com
+Employees: 1420
+Business Summary: Inspired Entertainment, Inc., a gaming technology company, supplies content, platform, and other products and services to online and land-based regulated lottery, betting, and gaming operators in the United Kingdom, Greece, and internationally. It operates in four segments: Gaming, Virtual Sports, Interactive, and Leisure. The Gaming segment supplies gaming terminals and software to licensed betting offices, casinos, gaming halls, and adult gaming centers; a portfolio of games through its digital terminals under the Gold Cash Free Spins, Big Fishing Fortune, and Reel King names; and a range of traditional casino games, such as roulette, blackjack, and number games. Its Virtual Sports segment designs, develops, markets, and distributes games, including greyhound racing, tennis, motor racing, cycling, cricket, speedway, golf, and darts games under the V-Play Soccer, V-Play Women's Soccer, V-Play Football, V-Play Basketball, and V-Play Baseball brands. The Interactive segment provides a range of random number generated casino content from feature-rich bonus games to European-style casino free spins and table games. Its Leisure segment supplies gaming terminals and amusement machines in pubs, bingo halls, and adult gaming centers, as well as family entertainment centers, bowling centers, and other entertainment venues. Inspired Entertainment, Inc. was founded in 2002 and is headquartered in New York, New York.

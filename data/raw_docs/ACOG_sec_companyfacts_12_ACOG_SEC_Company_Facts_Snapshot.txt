@@ -1,0 +1,11 @@
+Company: Alpha Cognition Inc. Common Stock
+Ticker: ACOG
+CIK: 0001655923
+Latest SEC XBRL Facts:
+Revenues: 7427199 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -13813569 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 46301213 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 12387403 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 33913810 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13473949 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35398899 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

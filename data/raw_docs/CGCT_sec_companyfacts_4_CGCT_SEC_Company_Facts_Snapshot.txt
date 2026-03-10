@@ -1,0 +1,10 @@
+Company: Cartesian Growth Corporation III Class A Ordinary Shares
+Ticker: CGCT
+CIK: 0002049662
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4063344 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 281560439 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 13536183 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -12645461 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -468024 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

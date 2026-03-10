@@ -1,0 +1,11 @@
+Company: AGM Group Holdings Inc. Class A Ordinary Shares
+Ticker: AGMH
+CIK: 0001705402
+Latest SEC XBRL Facts:
+Revenues: 20309043 | unit=USD | filed=2025-10-10 | period_end=2025-06-30
+NetIncomeLoss: -2796993 | unit=USD | filed=2025-10-10 | period_end=2025-06-30
+Assets: 64412652 | unit=USD | filed=2025-10-10 | period_end=2025-06-30
+Liabilities: 28656478 | unit=USD | filed=2025-10-10 | period_end=2025-06-30
+StockholdersEquity: 35756174 | unit=USD | filed=2025-10-10 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5577823 | unit=USD | filed=2025-10-10 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 532848 | unit=USD | filed=2025-10-10 | period_end=2025-06-30

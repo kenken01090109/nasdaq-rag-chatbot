@@ -1,0 +1,12 @@
+Company: Pegasystems Inc. Common Stock
+Ticker: PEGA
+CIK: 0001013857
+Latest SEC XBRL Facts:
+Revenues: 635224000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1241495000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+NetIncomeLoss: 158863000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+Assets: 1292786000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+Liabilities: 695956000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+StockholdersEquity: 596830000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 346796000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 148699000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30

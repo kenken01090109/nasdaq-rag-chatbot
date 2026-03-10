@@ -1,0 +1,9 @@
+Company: OFS Credit Company Inc. 5.25% Series E Term Preferred Stock Due 2026
+Ticker: OCCIN
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Chicago
+Website: https://www.ofscreditcompany.com
+Employees: 
+Business Summary: OFS Credit Company, Inc. is a fund of OFS Advisor.

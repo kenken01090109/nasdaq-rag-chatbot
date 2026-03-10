@@ -1,0 +1,25 @@
+Company: Coya Therapeutics Inc. Common Stock
+Ticker: COYA
+Market Cap: 100228144
+Enterprise Value: 72098280
+Total Revenue: 3987706
+Revenue Per Share: 0.24
+EBITDA: -20061276
+Gross Margins: -2.44346
+Operating Margins: -0.53780997
+Profit Margins: 0.0
+Free Cashflow: -7164662
+Operating Cashflow: -12141941
+Return On Assets: -0.37148997
+Return On Equity: -0.62175
+Total Cash: 28129866
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.733
+Quick Ratio: 7.671
+Trailing PE: 
+Forward PE: -3.0509553
+Price To Book: 2.9386504
+Beta: 0.234
+52 Week High: 7.75
+52 Week Low: 3.94

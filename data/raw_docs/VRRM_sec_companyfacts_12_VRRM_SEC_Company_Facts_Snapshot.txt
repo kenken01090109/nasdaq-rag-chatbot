@@ -1,0 +1,12 @@
+Company: Verra Mobility Corporation Class A Common Stock
+Ticker: VRRM
+CIK: 0001682745
+Latest SEC XBRL Facts:
+Revenues: 100308000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 721217000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 117753000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 1778341000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 1375193000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 403148000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 215828000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 196096000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

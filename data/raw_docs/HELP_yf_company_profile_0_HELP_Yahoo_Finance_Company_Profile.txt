@@ -1,0 +1,9 @@
+Company: Cybin Inc. Common Stock
+Ticker: HELP
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Toronto
+Website: https://cybin.com
+Employees: 50
+Business Summary: Cybin Inc., doing business as Helus Pharma, a clinical-stage neuropsychiatry company, focuses on developing psychedelic-based therapeutics for patients with mental health conditions. It develops CYB003, a deuterated psilocybin analog, which is in phase 3 clinical trial to treat major depressive disorder (MDD); and CYB004, a deuterated N, N-dimethyltryptamine (DMT), which is in phase 2 clinical trial for treating generalized anxiety disorders. The company also develops SPL028 injectable deuterated DMT completed phase 1 clinical intramuscular and intravenous trial; SPL026 for MDD; and CYB005, a phenethylamine derivative, which in preclinical stage to treat central nervous system, as well as has a research pipeline of investigational psychedelic-based compounds. It has a strategic partnership agreement with Segal Trials to support PARADIGM, a multinational pivotal phase 3 program evaluating CYB003 for the adjunctive treatment of major depressive disorder. The company is headquartered in Toronto, Canada.

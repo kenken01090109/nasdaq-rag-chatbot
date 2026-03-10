@@ -1,0 +1,25 @@
+Company: GBank Financial Holdings Inc. Common Stock
+Ticker: GBFH
+Market Cap: 417626080
+Enterprise Value: 263387696
+Total Revenue: 72171000
+Revenue Per Share: 5.049
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.45167
+Profit Margins: 0.28999
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01687
+Return On Equity: 0.13659
+Total Cash: 197864000
+Total Debt: 32291000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 20.17361
+Forward PE: 8.276353
+Price To Book: 2.521045
+Beta: -0.219
+52 Week High: 45.0
+52 Week Low: 27.3

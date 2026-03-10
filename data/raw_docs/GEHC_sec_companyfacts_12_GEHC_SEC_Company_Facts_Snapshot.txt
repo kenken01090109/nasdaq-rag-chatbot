@@ -1,0 +1,11 @@
+Company: GE HealthCare Technologies Inc. Common Stock
+Ticker: GEHC
+CIK: 0001932393
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 14927000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 1495000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 36127000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 25907000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 9993000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 344000000 | unit=USD | filed=2025-07-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 4005000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Purple Innovation Inc. Common Stock
+Ticker: PRPL
+CIK: 0001643953
+Latest SEC XBRL Facts:
+Revenues: 328037000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -48202000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 302121000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 329028000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -26939000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -28030000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32358000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,8 @@
+Company: Air T Inc. Air T Funding Alpha Income Trust Preferred Securities
+Ticker: AIRTP
+Total Cash: 37962000
+Total Debt: 211671008
+Debt To Equity: 3589.469
+Current Ratio: 0.961
+Quick Ratio: 0.484
+Book Value: -0.433

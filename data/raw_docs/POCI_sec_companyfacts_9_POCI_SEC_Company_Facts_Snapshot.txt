@@ -1,0 +1,12 @@
+Company: Precision Optics Corporation Inc. Common stock
+Ticker: POCI
+CIK: 0000867840
+Latest SEC XBRL Facts:
+Revenues: 14048660 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 10884737 | unit=USD | filed=2022-05-16 | period_end=2022-03-31
+NetIncomeLoss: -3417821 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 22895553 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 13565819 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 9329734 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -177852 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 881486 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

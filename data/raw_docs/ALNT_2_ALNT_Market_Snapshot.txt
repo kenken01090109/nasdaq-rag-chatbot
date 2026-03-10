@@ -1,0 +1,10 @@
+Company: Allient Inc. Common Stock
+Ticker: ALNT
+Market Cap: 1051682816
+Enterprise Value: 1225775872
+Trailing PE: 55.419643
+Forward PE: 20.655573
+Price To Book: 3.5734022
+Beta: 1.516
+52 Week High: 70.0
+52 Week Low: 19.25

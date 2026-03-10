@@ -1,0 +1,25 @@
+Company: ARS Pharmaceuticals Inc. Common Stock
+Ticker: SPRY
+Market Cap: 895568448
+Enterprise Value: 1684594688
+Total Revenue: 142772000
+Revenue Per Share: 1.454
+EBITDA: -89807000
+Gross Margins: 0.80459
+Operating Margins: -1.6366299
+Profit Margins: -0.56061
+Free Cashflow: -56190248
+Operating Cashflow: -85377000
+Return On Assets: -0.19221
+Return On Equity: -0.45916
+Total Cash: 288208992
+Total Debt: 169804992
+Debt To Equity: 115.001
+Current Ratio: 6.66
+Quick Ratio: 6.406
+Trailing PE: 
+Forward PE: -6.152802
+Price To Book: 6.0642576
+Beta: 0.784
+52 Week High: 18.9
+52 Week Low: 6.66

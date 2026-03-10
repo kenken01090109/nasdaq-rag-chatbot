@@ -1,0 +1,9 @@
+Company: Rubico Inc. Common Stock
+Ticker: RUBI
+Sector: Industrials
+Industry: Marine Shipping
+Country: Marshall Islands
+City: Majuro
+Website: 
+Employees: 
+Business Summary: Rubico Inc. focuses on tanker vessels transporting business. The company is headquartered in Majuro, Marshall Islands. Rubico Inc. operates independently of Top Ships Inc. as of August 1, 2025.

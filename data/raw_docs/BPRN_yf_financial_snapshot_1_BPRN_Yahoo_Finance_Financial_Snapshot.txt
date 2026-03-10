@@ -1,0 +1,25 @@
+Company: Princeton Bancorp Inc. Common Stock (PA)
+Ticker: BPRN
+Market Cap: 228149536
+Enterprise Value: 92463520
+Total Revenue: 77629000
+Revenue Per Share: 11.369
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4065
+Profit Margins: 0.23974001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00805
+Return On Equity: 0.06987
+Total Cash: 135686000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.442804
+Forward PE: 8.93245
+Price To Book: 0.84276825
+Beta: 0.494
+52 Week High: 37.99
+52 Week Low: 27.25

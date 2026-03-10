@@ -1,0 +1,9 @@
+Company: Plum Acquisition Corp. IV Warrants
+Ticker: PLMKW
+CIK: 0002030482
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4490927 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 180105741 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7348583 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -6736422 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -696547 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

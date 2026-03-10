@@ -1,0 +1,8 @@
+Company: Akari Therapeutics plc ADS
+Ticker: AKTX
+Total Cash: 2484000
+Total Debt: 2217000
+Debt To Equity: 9.772
+Current Ratio: 0.189
+Quick Ratio: 0.16
+Book Value: 0.696

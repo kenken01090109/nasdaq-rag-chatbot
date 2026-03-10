@@ -1,0 +1,10 @@
+Company: Boundless Bio Inc. Common Stock
+Ticker: BOLD
+CIK: 0001782303
+Latest SEC XBRL Facts:
+NetIncomeLoss: -45312000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 168721000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 58552000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 110169000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36554000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14980000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

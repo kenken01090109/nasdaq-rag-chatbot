@@ -1,0 +1,25 @@
+Company: Applied Materials Inc. Common Stock
+Ticker: AMAT
+Market Cap: 257716862976
+Enterprise Value: 273688625152
+Total Revenue: 28213999616
+Revenue Per Share: 35.323
+EBITDA: 8888999936
+Gross Margins: 0.48724
+Operating Margins: 0.29892
+Profit Margins: 0.27784002
+Free Cashflow: 4341749760
+Operating Cashflow: 8718999552
+Return On Assets: 0.14849
+Return On Equity: 0.38863
+Total Cash: 8511000064
+Total Debt: 7190000128
+Debt To Equity: 33.108
+Current Ratio: 2.715
+Quick Ratio: 1.74
+Trailing PE: 33.340862
+Forward PE: 23.474152
+Price To Book: 11.866983
+Beta: 1.634
+52 Week High: 395.95
+52 Week Low: 123.74

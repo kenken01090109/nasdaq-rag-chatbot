@@ -1,0 +1,12 @@
+Company: Aardvark Therapeutics Inc. Common Stock
+Ticker: AARD
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: -53437000
+Profit Margins: 0.0
+Free Cashflow: -25479376
+Operating Cashflow: -45089000
+Return On Assets: -0.30806
+Return On Equity: -0.48061

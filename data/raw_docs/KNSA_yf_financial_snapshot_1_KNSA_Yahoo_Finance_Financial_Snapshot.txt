@@ -1,0 +1,25 @@
+Company: Kiniksa Pharmaceuticals International plc Class A Ordinary Shares
+Ticker: KNSA
+Market Cap: 3532872960
+Enterprise Value: 3117581056
+Total Revenue: 677564032
+Revenue Per Share: 9.131
+EBITDA: 78775000
+Gross Margins: 0.54658
+Operating Margins: 0.097799994
+Profit Margins: 0.08708
+Free Cashflow: 97890128
+Operating Cashflow: 137984992
+Return On Assets: 0.07181
+Return On Equity: 0.1173
+Total Cash: 414073984
+Total Debt: 9497000
+Debt To Equity: 1.673
+Current Ratio: 3.788
+Quick Ratio: 3.087
+Trailing PE: 61.546665
+Forward PE: 26.86845
+Price To Book: 6.204301
+Beta: 0.091
+52 Week High: 49.12
+52 Week Low: 18.255

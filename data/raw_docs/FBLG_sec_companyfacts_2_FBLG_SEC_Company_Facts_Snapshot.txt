@@ -1,0 +1,10 @@
+Company: FibroBiologics Inc. Common Stock
+Ticker: FBLG
+CIK: 0001958777
+Latest SEC XBRL Facts:
+NetIncomeLoss: -15402000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 8744000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 8619000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 125000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13231000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4867000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

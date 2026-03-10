@@ -1,0 +1,25 @@
+Company: E-Home Household Service Holdings Limited Ordinary Shares
+Ticker: EJH
+Market Cap: 72395488
+Enterprise Value: -151867616
+Total Revenue: 49402956
+Revenue Per Share: 41.013
+EBITDA: -7837040
+Gross Margins: 0.22373
+Operating Margins: -0.16738
+Profit Margins: -0.01982
+Free Cashflow: -35661960
+Operating Cashflow: -3535895
+Return On Assets: -0.02263
+Return On Equity: -0.02743
+Total Cash: 173023440
+Total Debt: 1410849
+Debt To Equity: 0.527
+Current Ratio: 24.584
+Quick Ratio: 20.626
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.01362596
+Beta: 0.952
+52 Week High: 64.0
+52 Week Low: 0.506

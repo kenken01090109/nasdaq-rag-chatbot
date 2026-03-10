@@ -1,0 +1,25 @@
+Company: Data I/O Corporation Common Stock
+Ticker: DAIO
+Market Cap: 25733866
+Enterprise Value: 19243866
+Total Revenue: 21500000
+Revenue Per Share: 2.305
+EBITDA: -4624000
+Gross Margins: 0.49284
+Operating Margins: -0.62817
+Profit Margins: -0.23191
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.14165
+Return On Equity: -0.31768
+Total Cash: 7901000
+Total Debt: 1411000
+Debt To Equity: 10.251
+Current Ratio: 3.463
+Quick Ratio: 2.157
+Trailing PE: 
+Forward PE: 45.666668
+Price To Book: 1.8690314
+Beta: 1.092
+52 Week High: 3.57
+52 Week Low: 1.88

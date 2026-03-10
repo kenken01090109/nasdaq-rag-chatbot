@@ -1,0 +1,25 @@
+Company: ZK International Group Co. Ltd Ordinary Share
+Ticker: ZKIN
+Market Cap: 24181230
+Enterprise Value: 48069196
+Total Revenue: 71241680
+Revenue Per Share: 12.549
+EBITDA: -3383987
+Gross Margins: 0.05671
+Operating Margins: -0.12047
+Profit Margins: -0.05594
+Free Cashflow: -173871
+Operating Cashflow: 736397
+Return On Assets: -0.03721
+Return On Equity: -0.15172
+Total Cash: 2306571
+Total Debt: 27457990
+Debt To Equity: 111.552
+Current Ratio: 1.435
+Quick Ratio: 0.809
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.37786776
+Beta: 2.502
+52 Week High: 4.47
+52 Week Low: 0.82

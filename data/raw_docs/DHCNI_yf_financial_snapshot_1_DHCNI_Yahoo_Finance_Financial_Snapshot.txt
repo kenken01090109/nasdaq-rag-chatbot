@@ -1,0 +1,25 @@
+Company: Diversified Healthcare Trust 5.625% Senior Notes due 2042
+Ticker: DHCNI
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 
+52 Week High: 18.29
+52 Week Low: 12.79

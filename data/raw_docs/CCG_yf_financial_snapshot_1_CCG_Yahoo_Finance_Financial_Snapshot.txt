@@ -1,0 +1,25 @@
+Company: Cheche Group Inc. Class A Ordinary Shares
+Ticker: CCG
+Market Cap: 65249992
+Enterprise Value: 30898994
+Total Revenue: 3182804992
+Revenue Per Share: 39.291
+EBITDA: -33440000
+Gross Margins: 0.05104
+Operating Margins: -0.02003
+Profit Margins: -0.0100300005
+Free Cashflow: -54769876
+Operating Cashflow: -78105000
+Return On Assets: -0.01979
+Return On Equity: -0.09207
+Total Cash: 167200992
+Total Debt: 132850000
+Debt To Equity: 38.906
+Current Ratio: 1.308
+Quick Ratio: 1.256
+Trailing PE: 
+Forward PE: 14.160825
+Price To Book: 1.3182541
+Beta: 0.448
+52 Week High: 1.54
+52 Week Low: 0.714

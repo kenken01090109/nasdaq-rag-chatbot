@@ -1,0 +1,12 @@
+Company: Newmark Group Inc. Class A Common Stock
+Ticker: NMRK
+CIK: 0001690680
+Latest SEC XBRL Facts:
+Revenues: 2288066000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1910815000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 58209000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 5460482000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3829055000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1367955000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -446515000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 224091000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

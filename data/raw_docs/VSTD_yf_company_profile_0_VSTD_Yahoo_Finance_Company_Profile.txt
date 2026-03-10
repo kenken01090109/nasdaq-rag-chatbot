@@ -1,0 +1,9 @@
+Company: Vestand Inc. Class A Common Stock
+Ticker: VSTD
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Brea
+Website: https://vestand.com
+Employees: 259
+Business Summary: Vestand Inc. together with its subsidiaries, owns and operates Japanese restaurants in California. It offers bone broth, ramen, rice bowls, appetizers, sushi rolls, bento boxes, and other Japanese cuisines. Vestand Inc. was formerly known as Yoshiharu Global Co. and changed its name to Vestand Inc. in September 2025. The company was founded in 2016 and is based in Brea, California.

@@ -1,0 +1,25 @@
+Company: WW International Inc.  Common Stock
+Ticker: WW
+Market Cap: 224406272
+Enterprise Value: 523207264
+Total Revenue: 732238976
+Revenue Per Share: 11.914
+EBITDA: 155472992
+Gross Margins: 0.70841
+Operating Margins: 0.047399998
+Profit Margins: 1.48444
+Free Cashflow: 7407875
+Operating Cashflow: -21398000
+Return On Assets: 0.08606
+Return On Equity: 
+Total Cash: 170144992
+Total Debt: 468945984
+Debt To Equity: 145.189
+Current Ratio: 1.65
+Quick Ratio: 1.392
+Trailing PE: 1.6583025
+Forward PE: 6.6479287
+Price To Book: 0.6947837
+Beta: 
+52 Week High: 46.949
+52 Week Low: 18.0

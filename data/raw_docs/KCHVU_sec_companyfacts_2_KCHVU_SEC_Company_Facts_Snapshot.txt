@@ -1,0 +1,9 @@
+Company: Kochav Defense Acquisition Corp. Units
+Ticker: KCHVU
+CIK: 0002053799
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3200487 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 257563166 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 7121446 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -6117428 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -368474 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

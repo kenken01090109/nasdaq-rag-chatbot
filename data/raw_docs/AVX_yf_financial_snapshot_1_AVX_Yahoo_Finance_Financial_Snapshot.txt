@@ -1,0 +1,25 @@
+Company: Avax One Technology Ltd. Common Shares
+Ticker: AVX
+Market Cap: 67928720
+Enterprise Value: 69045920
+Total Revenue: 1319011
+Revenue Per Share: 2.456
+EBITDA: -6184259
+Gross Margins: 0.05544
+Operating Margins: -4.44528
+Profit Margins: 0.0
+Free Cashflow: -4488115
+Operating Cashflow: -7276363
+Return On Assets: -0.34037
+Return On Equity: -1.96233
+Total Cash: 894701
+Total Debt: 1689415
+Debt To Equity: 13.904
+Current Ratio: 0.691
+Quick Ratio: 0.251
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.24906556
+Beta: -0.105
+52 Week High: 22.5
+52 Week Low: 0.55

@@ -1,0 +1,12 @@
+Company: The9 Limited American Depository Shares
+Ticker: NCTY
+CIK: 0001296774
+Latest SEC XBRL Facts:
+Revenues: 15305000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 15305000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: -10059000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 87220000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 28651000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 46395000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -6057000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1495000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

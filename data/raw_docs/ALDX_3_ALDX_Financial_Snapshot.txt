@@ -1,0 +1,12 @@
+Company: Aldeyra Therapeutics Inc. Common Stock
+Ticker: ALDX
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: -35013212
+Profit Margins: 0.0
+Free Cashflow: -21461964
+Operating Cashflow: -33345682
+Return On Assets: -0.24952
+Return On Equity: -0.58733004

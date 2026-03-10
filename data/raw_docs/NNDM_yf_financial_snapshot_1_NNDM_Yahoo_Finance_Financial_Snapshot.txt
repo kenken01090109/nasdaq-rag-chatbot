@@ -1,0 +1,25 @@
+Company: Nano Dimension Ltd. American Depositary Shares
+Ticker: NNDM
+Market Cap: 397419328
+Enterprise Value: 10751666
+Total Revenue: 69663000
+Revenue Per Share: 0.325
+EBITDA: -81439000
+Gross Margins: 0.35613
+Operating Margins: -1.2837399
+Profit Margins: 0.0
+Free Cashflow: -66525876
+Operating Cashflow: -74853000
+Return On Assets: -0.06321
+Return On Equity: -0.07334
+Total Cash: 438145984
+Total Debt: 36193000
+Debt To Equity: 5.488
+Current Ratio: 3.481
+Quick Ratio: 2.455
+Trailing PE: 
+Forward PE: 182.00002
+Price To Book: 0.60264903
+Beta: 0.971
+52 Week High: 2.32
+52 Week Low: 1.31

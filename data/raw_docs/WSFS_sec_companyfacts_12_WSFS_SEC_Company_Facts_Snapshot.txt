@@ -1,0 +1,11 @@
+Company: WSFS Financial Corporation Common Stock
+Ticker: WSFS
+CIK: 0000828944
+Latest SEC XBRL Facts:
+Revenues: 672683000 | unit=USD | filed=2023-08-03 | period_end=2023-06-30
+NetIncomeLoss: 214671000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 20840415000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 18097634000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 2753273000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 167454000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1699154000 | unit=USD | filed=2026-03-02 | period_end=2025-12-31

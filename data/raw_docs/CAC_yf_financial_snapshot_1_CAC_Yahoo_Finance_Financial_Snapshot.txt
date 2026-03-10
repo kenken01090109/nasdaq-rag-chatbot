@@ -1,0 +1,25 @@
+Company: Camden National Corporation Common Stock
+Ticker: CAC
+Market Cap: 777164288
+Enterprise Value: 1318220288
+Total Revenue: 233488992
+Revenue Per Share: 13.832
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47519
+Profit Margins: 0.27907
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.010199999
+Return On Equity: 0.10614
+Total Cash: 103239000
+Total Debt: 644294976
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.958333
+Forward PE: 7.78635
+Price To Book: 1.1157275
+Beta: 0.609
+52 Week High: 51.57
+52 Week Low: 34.53

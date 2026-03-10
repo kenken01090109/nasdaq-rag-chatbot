@@ -1,0 +1,25 @@
+Company: BGC Group Inc. Class A Common Stock
+Ticker: BGC
+Market Cap: 4414345728
+Enterprise Value: 5679288832
+Total Revenue: 2816142080
+Revenue Per Share: 5.912
+EBITDA: 
+Gross Margins: 0.91301
+Operating Margins: -0.0764
+Profit Margins: 0.05503
+Free Cashflow: 
+Operating Cashflow: 394352992
+Return On Assets: 0.03662
+Return On Equity: 0.13175
+Total Cash: 1001286976
+Total Debt: 1992742016
+Debt To Equity: 173.987
+Current Ratio: 1.996
+Quick Ratio: 1.951
+Trailing PE: 28.30303
+Forward PE: 5.8742137
+Price To Book: 4.538387
+Beta: 0.999
+52 Week High: 10.96
+52 Week Low: 7.24

@@ -1,0 +1,25 @@
+Company: Intelligent Bio Solutions Inc. Common Stock
+Ticker: INBS
+Market Cap: 6503344
+Enterprise Value: 7845082
+Total Revenue: 3581322
+Revenue Per Share: 4.651
+EBITDA: -9836561
+Gross Margins: 0.46210998
+Operating Margins: -2.90886
+Profit Margins: 0.0
+Free Cashflow: -14541733
+Operating Cashflow: -9379685
+Return On Assets: -0.51168996
+Return On Equity: -1.5019901
+Total Cash: 740371
+Total Debt: 1924583
+Debt To Equity: 17.673
+Current Ratio: 2.375
+Quick Ratio: 2.166
+Trailing PE: 
+Forward PE: 11.585714
+Price To Book: 0.45271853
+Beta: 4.629
+52 Week High: 25.0
+52 Week Low: 3.7

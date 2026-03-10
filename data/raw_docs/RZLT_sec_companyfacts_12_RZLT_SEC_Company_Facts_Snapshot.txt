@@ -1,0 +1,10 @@
+Company: Rezolute Inc. Common Stock (NV)
+Ticker: RZLT
+CIK: 0001509261
+Latest SEC XBRL Facts:
+NetIncomeLoss: -40924000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 138629000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 10631000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 127998000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -37754000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 11944000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

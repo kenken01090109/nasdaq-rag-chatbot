@@ -1,0 +1,25 @@
+Company: Viridian Therapeutics Inc. Common Stock
+Ticker: VRDN
+Market Cap: 2896534272
+Enterprise Value: 2262744832
+Total Revenue: 70849000
+Revenue Per Share: 0.835
+EBITDA: -362935008
+Gross Margins: 0.0
+Operating Margins: -956.4318
+Profit Margins: 0.0
+Free Cashflow: -162068368
+Operating Cashflow: -276391008
+Return On Assets: -0.27667
+Return On Equity: -0.49161
+Total Cash: 874652032
+Total Debt: 52593000
+Debt To Equity: 7.283
+Current Ratio: 12.649
+Quick Ratio: 12.372
+Trailing PE: 
+Forward PE: -13.129002
+Price To Book: 4.890423
+Beta: 1.009
+52 Week High: 34.29
+52 Week Low: 9.9

@@ -1,0 +1,12 @@
+Company: Powell Industries Inc. Common Stock
+Ticker: POWL
+CIK: 0000080420
+Latest SEC XBRL Facts:
+Revenues: 448716000 | unit=USD | filed=2018-12-12 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 251184000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 41390000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 1094368000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 425482000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 668886000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 43638000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 490631000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

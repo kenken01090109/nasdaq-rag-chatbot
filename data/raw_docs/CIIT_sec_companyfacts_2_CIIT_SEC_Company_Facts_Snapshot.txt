@@ -1,0 +1,11 @@
+Company: Tianci International Inc. Common Stock
+Ticker: CIIT
+CIK: 0001557798
+Latest SEC XBRL Facts:
+Revenues: 3818227 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetIncomeLoss: -268098 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Assets: 3155369 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Liabilities: 437326 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+StockholdersEquity: 2716208 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -727403 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 13164 | unit=USD | filed=2023-03-07 | period_end=2023-01-31

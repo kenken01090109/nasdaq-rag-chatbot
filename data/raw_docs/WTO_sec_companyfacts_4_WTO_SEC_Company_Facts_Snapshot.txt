@@ -1,0 +1,11 @@
+Company: UTime Limited Class A Ordinary Shares
+Ticker: WTO
+CIK: 0001789299
+Latest SEC XBRL Facts:
+Revenues: 34588000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31
+NetIncomeLoss: -92341000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31
+Assets: 28392000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31
+Liabilities: 47390000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31
+StockholdersEquity: -18283000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -4374000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 15050000 | unit=USD | filed=2025-08-11 | period_end=2025-03-31

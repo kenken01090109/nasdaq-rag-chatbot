@@ -1,0 +1,10 @@
+Company: Patriot National Bancorp Inc. Common Stock
+Ticker: PNBK
+CIK: 0001098146
+Latest SEC XBRL Facts:
+NetIncomeLoss: -10435000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 950752000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 855729000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 95023000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10128000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 78928000 | unit=USD | filed=2023-11-14 | period_end=2023-09-30

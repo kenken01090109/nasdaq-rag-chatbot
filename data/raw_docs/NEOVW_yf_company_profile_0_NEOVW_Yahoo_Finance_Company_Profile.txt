@@ -1,0 +1,9 @@
+Company: NeoVolta Inc. Warrant
+Ticker: NEOVW
+Sector: 
+Industry: 
+Country: United States
+City: Poway
+Website: https://www.neovolta.com
+Employees: 17
+Business Summary: NeoVolta Inc. designs, manufactures, and sells energy storage systems in the United States. The company provides NV14, NV14-K, and NV 24 energy storage systems, which stores and uses energy through batteries and an inverter at residential or commercial sites; and NV16KAC. It markets and sells its products directly to certified solar installers and solar equipment distributors. The company was founded in 2018 and is headquartered in Poway, California.

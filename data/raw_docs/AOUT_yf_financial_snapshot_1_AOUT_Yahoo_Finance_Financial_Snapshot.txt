@@ -1,0 +1,25 @@
+Company: American Outdoor Brands Inc. Common Stock
+Ticker: AOUT
+Market Cap: 112012464
+Enterprise Value: 141414928
+Total Revenue: 207348000
+Revenue Per Share: 16.309
+EBITDA: 7748000
+Gross Margins: 0.44075
+Operating Margins: 0.03656
+Profit Margins: -0.0269
+Free Cashflow: -2898000
+Operating Cashflow: -1352000
+Return On Assets: -0.01358
+Return On Equity: -0.03194
+Total Cash: 3111000
+Total Debt: 33130000
+Debt To Equity: 19.443
+Current Ratio: 4.404
+Quick Ratio: 1.12
+Trailing PE: 
+Forward PE: 26.818182
+Price To Book: 0.6559443
+Beta: 0.322
+52 Week High: 15.67
+52 Week Low: 6.259

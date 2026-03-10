@@ -1,0 +1,11 @@
+Company: Corcept Therapeutics Incorporated Common Stock
+Ticker: CORT
+CIK: 0001088856
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 559282000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 75364000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 823607000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 191705000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 631902000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 103548000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 125138000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

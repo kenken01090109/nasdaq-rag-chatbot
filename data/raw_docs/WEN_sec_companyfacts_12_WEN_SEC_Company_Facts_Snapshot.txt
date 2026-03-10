@@ -1,0 +1,11 @@
+Company: Wendy's Company (The) Common Stock
+Ticker: WEN
+CIK: 0000030697
+Latest SEC XBRL Facts:
+Revenues: 1633917000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28
+NetIncomeLoss: 138594000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28
+Assets: 4976175000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28
+Liabilities: 4866982000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28
+StockholdersEquity: 109193000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 275263000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 291408000 | unit=USD | filed=2025-11-07 | period_end=2025-09-28

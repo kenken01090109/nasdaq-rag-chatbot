@@ -1,0 +1,9 @@
+Company: Nkarta Inc. Common Stock
+Ticker: NKTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://www.nkartatx.com
+Employees: 105
+Business Summary: Nkarta, Inc., a clinical-stage biopharmaceutical company, develops and commercializes natural killer cell therapies for cancer and autoimmune disease treatment. The company's lead product candidate is NKX019, a chimeric antigen receptor-natural killer (CAR NK) targeting the CD19 antigen, which is in Phase 1 clinical trial for the treatment of lupus nephritis; systemic sclerosis; idiopathic inflammatory myopathy; and antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis, as well as for systemic lupus erythematosus and myasthenia gravis. It has a research collaboration agreement with CRISPR Therapeutics AG. Nkarta, Inc. was incorporated in 2015 and is based in South San Francisco, California.

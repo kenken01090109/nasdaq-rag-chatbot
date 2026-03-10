@@ -1,0 +1,10 @@
+Company: Averin Capital Acquisition Corp. Units
+Ticker: ACAAU
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -1254.9999
+Beta: 
+52 Week High: 10.04
+52 Week Low: 9.98

@@ -1,0 +1,12 @@
+Company: Viewbix Inc. Common Stock
+Ticker: VBIX
+CIK: 0000797542
+Latest SEC XBRL Facts:
+Revenues: 23616000 | unit=USD | filed=2024-11-19 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7731000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -18719000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 16884000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1089146 | unit=USD | filed=2019-08-14 | period_end=2019-06-30
+StockholdersEquity: 5555000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2551000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2165000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

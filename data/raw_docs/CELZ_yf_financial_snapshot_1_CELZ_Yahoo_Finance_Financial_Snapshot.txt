@@ -1,0 +1,25 @@
+Company: Creative Medical Technology Holdings Inc. Common Stock
+Ticker: CELZ
+Market Cap: 6569976
+Enterprise Value: -509916
+Total Revenue: 6000
+Revenue Per Share: 0.003
+EBITDA: -5967749
+Gross Margins: 0.6
+Operating Margins: -1013.7943
+Profit Margins: 0.0
+Free Cashflow: -3708648
+Operating Cashflow: -5868427
+Return On Assets: -0.59677
+Return On Equity: -0.98140997
+Total Cash: 5375511
+Total Debt: 14194
+Debt To Equity: 0.254
+Current Ratio: 20.706
+Quick Ratio: 20.568
+Trailing PE: 
+Forward PE: -1.3428571
+Price To Book: 0.86755884
+Beta: 2.153
+52 Week High: 6.25
+52 Week Low: 1.504

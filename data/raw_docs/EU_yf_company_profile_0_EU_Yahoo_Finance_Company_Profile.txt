@@ -1,0 +1,9 @@
+Company: enCore Energy Corp. Common Shares
+Ticker: EU
+Sector: Energy
+Industry: Uranium
+Country: United States
+City: Dallas
+Website: https://www.encoreuranium.com
+Employees: 
+Business Summary: enCore Energy Corp. engages in the acquisition, exploration, development, and extraction of uranium resource properties in the United States. It holds interest in the Alta Mesa project located in Brooks County, Texas; the Gas Hills project located in the Riverton, Wyoming; the Juniper Ridge project located in the southwest portion of Wyoming; the Dewey Burdock project located in the Edgemont, South Dakota; the Crownpoint and Hosta Butte located in McKinley County, New Mexico; and the Mesteña Grande Uranium project located in Brooks and Jim Hogg Counties, Texas. The company also holds interests in the South Texas Integrated ISR project located in Duval County; and the Alta Mesa Uranium project located in the Brooks County, Texas, as well as other non-material properties covers approximately 360,000 acres of mineral claims, mineral leases, and fee minerals. enCore Energy Corp. is headquartered in Dallas, Texas.

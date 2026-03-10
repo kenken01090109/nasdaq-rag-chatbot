@@ -1,0 +1,12 @@
+Company: Aclaris Therapeutics Inc. Common Stock
+Ticker: ACRS
+Total Revenue: 7826000
+Revenue Per Share: 0.064
+Gross Margins: 0.0
+Operating Margins: -17.24633
+EBITDA: -74035000
+Profit Margins: 0.0
+Free Cashflow: -30631876
+Operating Cashflow: -47113000
+Return On Assets: -0.24316
+Return On Equity: -0.50203997

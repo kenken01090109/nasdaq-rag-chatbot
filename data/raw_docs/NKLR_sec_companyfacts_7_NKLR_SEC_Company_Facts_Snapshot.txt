@@ -1,0 +1,10 @@
+Company: Terra Innovatum Global N.V. Ordinary shares
+Ticker: NKLR
+CIK: 0002067627
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5580000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 3748000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 7978000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: -4230000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3688000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2151000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

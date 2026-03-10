@@ -1,0 +1,12 @@
+Company: Allied Gaming & Entertainment Inc. Common Stock
+Ticker: AGAE
+Total Revenue: 7938232
+Revenue Per Share: 0.193
+Gross Margins: 0.48379
+Operating Margins: -3.9711802
+EBITDA: -21333660
+Profit Margins: -2.80111
+Free Cashflow: -7516788
+Operating Cashflow: -210554
+Return On Assets: -0.12104999
+Return On Equity: -0.39539

@@ -1,0 +1,25 @@
+Company: Pinnacle Food Group Limited Class A Common Shares
+Ticker: PFAI
+Market Cap: 24102000
+Enterprise Value: 23468080
+Total Revenue: 3497672
+Revenue Per Share: 0.341
+EBITDA: 214442
+Gross Margins: 0.52762
+Operating Margins: -1.0343
+Profit Margins: -0.06356
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.01163
+Return On Equity: -0.050479997
+Total Cash: 5079812
+Total Debt: 141696
+Debt To Equity: 1.872
+Current Ratio: 5.798
+Quick Ratio: 5.483
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.4880176
+Beta: 
+52 Week High: 4.93
+52 Week Low: 1.3

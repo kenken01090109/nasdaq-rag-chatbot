@@ -1,0 +1,10 @@
+Company: Nuvalent Inc. Class A Common Stock
+Ticker: NUVL
+CIK: 0001861560
+Latest SEC XBRL Facts:
+NetIncomeLoss: -306672000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 979910000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 134511000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 845399000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -201881000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115752000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

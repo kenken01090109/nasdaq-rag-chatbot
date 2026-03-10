@@ -1,0 +1,25 @@
+Company: OPAL Fuels Inc. Class A Common Stock
+Ticker: OPAL
+Market Cap: 367597824
+Enterprise Value: 861510848
+Total Revenue: 329243008
+Revenue Per Share: 11.761
+EBITDA: 21185000
+Gross Margins: 0.25417998
+Operating Margins: 0.0354
+Profit Margins: 0.03387
+Free Cashflow: -118465872
+Operating Cashflow: 41133000
+Return On Assets: -0.00057
+Return On Equity: 0.0312
+Total Cash: 30012000
+Total Debt: 354444992
+Debt To Equity: 73.415
+Current Ratio: 1.471
+Quick Ratio: 1.183
+Trailing PE: 106.0
+Forward PE: 1.2771084
+Price To Book: 8.217054
+Beta: 1.084
+52 Week High: 4.08
+52 Week Low: 1.26

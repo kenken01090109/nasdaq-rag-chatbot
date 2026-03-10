@@ -1,0 +1,25 @@
+Company: aTyr Pharma Inc. Common Stock
+Ticker: ATYR
+Market Cap: 80740984
+Enterprise Value: 13948199
+Total Revenue: 190000
+Revenue Per Share: 0.002
+EBITDA: -76963000
+Gross Margins: 1.0
+Operating Margins: -408.56317
+Profit Margins: 0.0
+Free Cashflow: -38794876
+Operating Cashflow: -61986000
+Return On Assets: -0.51115
+Return On Equity: -1.08114
+Total Cash: 78687000
+Total Debt: 12033000
+Debt To Equity: 17.883
+Current Ratio: 5.297
+Quick Ratio: 5.252
+Trailing PE: 
+Forward PE: -1.7693413
+Price To Book: 1.1976744
+Beta: 
+52 Week High: 7.29
+52 Week Low: 0.64

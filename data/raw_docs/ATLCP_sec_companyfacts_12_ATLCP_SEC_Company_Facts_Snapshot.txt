@@ -1,0 +1,12 @@
+Company: Atlanticus Holdings Corporation 7.625% Series B Cumulative Perpetual Preferred Stock no par value per share
+Ticker: ATLCP
+CIK: 0001464343
+Latest SEC XBRL Facts:
+Revenues: 1234005000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2551000 | unit=USD | filed=2018-08-14 | period_end=2018-06-30
+NetIncomeLoss: 87070000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 7079732000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 6454923000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 589344000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 371712000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 425023000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

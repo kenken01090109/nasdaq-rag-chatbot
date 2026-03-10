@@ -1,0 +1,25 @@
+Company: TEN Holdings Inc. Common Stock
+Ticker: XHLD
+Market Cap: 5136682
+Enterprise Value: 9479075
+Total Revenue: 3216000
+Revenue Per Share: 1.63
+EBITDA: -9078000
+Gross Margins: 0.80815005
+Operating Margins: -3.5488
+Profit Margins: 0.0
+Free Cashflow: -3832250
+Operating Cashflow: -9757000
+Return On Assets: -0.67824
+Return On Equity: -7.0975
+Total Cash: 310000
+Total Debt: 5092000
+Debt To Equity: 134.567
+Current Ratio: 0.484
+Quick Ratio: 0.13
+Trailing PE: 
+Forward PE: 1.0424243
+Price To Book: 1.1103938
+Beta: 
+52 Week High: 39.3
+52 Week Low: 1.05

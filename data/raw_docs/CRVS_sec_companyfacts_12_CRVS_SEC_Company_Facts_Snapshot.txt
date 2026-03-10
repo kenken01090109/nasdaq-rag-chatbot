@@ -1,0 +1,10 @@
+Company: Corvus Pharmaceuticals Inc. Common Stock
+Ticker: CRVS
+CIK: 0001626971
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2962000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 80474000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 8706000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 71768000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23606000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2867000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Aethlon Medical Inc. Common Stock
+Ticker: AEMD
+Long Business Summary: Aethlon Medical, Inc., a medical therapeutic company, engages in developing novel immunotherapeutic devices to treat cancer and viral infections in the United States. It develops Hemopurifier, a clinical-stage immunotherapeutic device intended for applications in cancer, and life-threatening viral infections, and use in organ transplantation. The company was founded in 1984 and is based in San Diego, California.
+Industry: Medical Devices
+Sector: Healthcare
+Website: https://www.aethlonmedical.com
+Country: United States
+City: San Diego
+Full Time Employees: 9

@@ -1,0 +1,11 @@
+Company: American Resources Corporation Class A Common Stock
+Ticker: AREC
+CIK: 0001590715
+Latest SEC XBRL Facts:
+Revenues: 45349 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetIncomeLoss: -23018745 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 202357184 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 297419289 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: -80674955 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9417099 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2081780 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

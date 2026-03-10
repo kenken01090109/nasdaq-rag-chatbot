@@ -1,0 +1,12 @@
+Company: Senti Biosciences Inc. Common Stock
+Ticker: SNTI
+CIK: 0001854270
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -46971000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 52685000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 44564000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 8121000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36569000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12243000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

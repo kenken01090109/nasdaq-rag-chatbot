@@ -1,0 +1,11 @@
+Company: Preformed Line Products Company Common Stock
+Ticker: PLPC
+CIK: 0000080035
+Latest SEC XBRL Facts:
+Revenues: 14980000 | unit=USD | filed=2013-08-09 | period_end=2013-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 496229000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 26848000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 644623000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 466305000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51523000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 30949000 | unit=USD | filed=2022-11-01 | period_end=2022-09-30

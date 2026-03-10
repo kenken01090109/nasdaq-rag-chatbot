@@ -1,0 +1,25 @@
+Company: Citius Pharmaceuticals Inc. Common Stock
+Ticker: CTXR
+Market Cap: 18686554
+Enterprise Value: 26304616
+Total Revenue: 3944111
+Revenue Per Share: 0.271
+EBITDA: -36357252
+Gross Margins: 0.7999
+Operating Margins: -2.14136
+Profit Margins: 0.0
+Free Cashflow: -40525064
+Operating Cashflow: -34835708
+Return On Assets: -0.17681
+Return On Equity: -0.47852
+Total Cash: 7721393
+Total Debt: 1829646
+Debt To Equity: 1.958
+Current Ratio: 0.993
+Quick Ratio: 0.308
+Trailing PE: 
+Forward PE: 0.299319
+Price To Book: 0.23372516
+Beta: 1.558
+52 Week High: 2.48
+52 Week Low: 0.63

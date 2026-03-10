@@ -1,0 +1,11 @@
+Company: American Outdoor Brands Inc. Common Stock
+Ticker: AOUT
+CIK: 0001808997
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 86901000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: -4754000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 240921000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 70524000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 170397000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -14998000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 3111000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

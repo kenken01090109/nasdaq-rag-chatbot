@@ -1,0 +1,12 @@
+Company: Mama's Creations Inc. Common Stock
+Ticker: MAMA
+CIK: 0001520358
+Latest SEC XBRL Facts:
+Revenues: 72025181 | unit=USD | filed=2022-12-12 | period_end=2022-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 117727000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+NetIncomeLoss: 3054000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+Assets: 84034000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+Liabilities: 34436000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+StockholdersEquity: 49598000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 8200000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 18068000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31

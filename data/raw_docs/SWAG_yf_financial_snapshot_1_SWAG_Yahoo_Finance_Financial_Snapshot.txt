@@ -1,0 +1,25 @@
+Company: Stran & Company Inc. Common Stock
+Ticker: SWAG
+Market Cap: 31173014
+Enterprise Value: 20682224
+Total Revenue: 114242000
+Revenue Per Share: 6.161
+EBITDA: -1797000
+Gross Margins: 0.2994
+Operating Margins: -0.06859
+Profit Margins: -0.0138
+Free Cashflow: -4600375
+Operating Cashflow: -3501000
+Return On Assets: -0.03602
+Return On Equity: -0.050430004
+Total Cash: 12335000
+Total Debt: 2476000
+Debt To Equity: 8.2
+Current Ratio: 2.271
+Quick Ratio: 1.696
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.017565
+Beta: 2.149
+52 Week High: 3.5
+52 Week Low: 0.852

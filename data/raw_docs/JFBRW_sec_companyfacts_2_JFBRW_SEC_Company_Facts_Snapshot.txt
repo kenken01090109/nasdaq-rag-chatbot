@@ -1,0 +1,11 @@
+Company: Jeffs' Brands Ltd Warrant
+Ticker: JFBRW
+CIK: 0001885408
+Latest SEC XBRL Facts:
+Revenues: 6984000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30
+NetIncomeLoss: -2742000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30
+Assets: 22985000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30
+Liabilities: 14824000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30
+StockholdersEquity: 8161000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2409000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6066000 | unit=USD | filed=2025-09-22 | period_end=2025-06-30

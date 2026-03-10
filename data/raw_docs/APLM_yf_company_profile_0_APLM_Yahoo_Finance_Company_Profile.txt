@@ -1,0 +1,9 @@
+Company: Apollomics Inc. Class A Ordinary Shares
+Ticker: APLM
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Foster City
+Website: https://www.apollomicsinc.com
+Employees: 13
+Business Summary: Apollomics, Inc., a clinical-stage biopharmaceutical company, engages in the discovery and development of oncology therapies to harness the immune system and target specific molecular pathways to inhibit cancer. The company's products portfolio includes Vebreltinib (APL-101), an oral active, highly selective c-Met inhibitor, which is in Phase 2 clinical trials for treatment of non-small cell lung cancer and other solid tumors with MET dysregulation; APL-102, an oral active, small molecule multiple tyrosine kinase inhibitor, which is in a in a Phase 1 clinical trial to inhibit various kinases that are aberrantly activated in cancer cells; and APL-122, a tumor inhibitor candidate, targeting ErbB1/2/4 signaling pathways that is in Phase 1 dose escalation clinical trials to treat cancers within the brain. Its immuno-oncology product candidates comprise APL-501, APL-502, and APL-801. The company was founded in 2015 and is based in Foster City, California.

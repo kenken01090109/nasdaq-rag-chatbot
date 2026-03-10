@@ -1,0 +1,9 @@
+Company: Ambarella Inc. Ordinary Shares
+Ticker: AMBA
+Sector: Technology
+Industry: Semiconductor Equipment & Materials
+Country: United States
+City: Santa Clara
+Website: https://www.ambarella.com
+Employees: 
+Business Summary: Ambarella, Inc. develops semiconductor solutions that enable artificial intelligence (AI) processing, advanced image signal processing, and high-definition (HD) and ultra-HD compression. The company's system-on-a-chip (SOC) designs integrated HD video processing, image processing, AI algorithms, audio processing, and system functions onto a single chip for delivering video and image quality, differentiated functionality, and low power consumption. It also offers central domain controllers, CVflow SoCs, AI neural processors, vision processor SoCs, HD radars, and serializer/deserializers, as well as licenses software modules. The company's solutions are used in automotive video recorders, electronic mirrors, front advanced driver assistance system camera, and cabin monitoring system and driver monitoring system cameras in automotive field; central domain controllers for autonomous vehicles in autonomy; enterprise and public class, and home security cameras in the field of IoT; and robotics and industrial applications, including identification/authentication cameras, robotic products, and sensing cameras, as well as cameras for the enterprise, home, public spaces, and consumer leisure comprising wearable body cameras, sports action cameras, social media cameras, drones for capturing aerial video or photographs, video conferencing, and virtual reality applications. It sells its solutions to original design manufacturers and original equipment manufacturers through its direct sales force and distributors. The company operates in Taiwan, rest of the Asia Pacific, Europe, the United States, and rest of North America. Ambarella, Inc. was incorporated in 2004 and is headquartered in Santa Clara, California.

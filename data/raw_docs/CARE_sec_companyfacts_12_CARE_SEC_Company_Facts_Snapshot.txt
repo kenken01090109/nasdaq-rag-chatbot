@@ -1,0 +1,11 @@
+Company: Carter Bankshares Inc. Common Stock
+Ticker: CARE
+CIK: 0001829576
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 20315000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+NetIncomeLoss: 22882000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 4840119000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 4427281000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 412838000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27790000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65708000 | unit=USD | filed=2022-11-04 | period_end=2022-09-30

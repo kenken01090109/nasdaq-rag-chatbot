@@ -1,0 +1,25 @@
+Company: NeOnc Technologies Holdings Inc. Common Stock
+Ticker: NTHI
+Market Cap: 226763696
+Enterprise Value: 187208992
+Total Revenue: 59990
+Revenue Per Share: 0.003
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -777.063
+Profit Margins: 0.0
+Free Cashflow: 785115
+Operating Cashflow: -17727180
+Return On Assets: -8.53558
+Return On Equity: 
+Total Cash: 1513224
+Total Debt: 5079535
+Debt To Equity: 
+Current Ratio: 0.19
+Quick Ratio: 0.106
+Trailing PE: 
+Forward PE: -6.391892
+Price To Book: -15.584844
+Beta: 
+52 Week High: 25.0
+52 Week Low: 3.2

@@ -1,0 +1,11 @@
+Company: BT Brands Inc. Warrant
+Ticker: BTBDW
+CIK: 0001718224
+Latest SEC XBRL Facts:
+Revenues: 10864445 | unit=USD | filed=2025-11-17 | period_end=2025-09-28
+NetIncomeLoss: 640157 | unit=USD | filed=2025-11-17 | period_end=2025-09-28
+Assets: 11938554 | unit=USD | filed=2025-11-17 | period_end=2025-09-28
+Liabilities: 4214101 | unit=USD | filed=2025-11-17 | period_end=2025-09-28
+StockholdersEquity: 7724453 | unit=USD | filed=2025-11-17 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 402800 | unit=USD | filed=2025-11-17 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 7165704 | unit=USD | filed=2022-11-15 | period_end=2022-10-02

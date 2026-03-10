@@ -1,0 +1,11 @@
+Company: ARS Pharmaceuticals Inc. Common Stock
+Ticker: SPRY
+CIK: 0001671858
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 56191000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -129974000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 372803000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 225148000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 147655000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -127381000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 59557000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

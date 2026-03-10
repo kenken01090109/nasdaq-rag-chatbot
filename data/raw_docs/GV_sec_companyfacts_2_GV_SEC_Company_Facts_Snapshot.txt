@@ -1,0 +1,10 @@
+Company: Visionary Holdings Inc. Common Shares
+Ticker: GV
+CIK: 0001892274
+Latest SEC XBRL Facts:
+Revenues: 5044297 | unit=USD | filed=2026-01-28 | period_end=2025-03-31
+NetIncomeLoss: -15842407 | unit=USD | filed=2026-01-28 | period_end=2025-03-31
+Assets: 63626733 | unit=USD | filed=2026-01-28 | period_end=2025-03-31
+Liabilities: 58431387 | unit=USD | filed=2026-01-28 | period_end=2025-03-31
+StockholdersEquity: 5117527 | unit=USD | filed=2026-01-28 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -2968384 | unit=USD | filed=2026-01-28 | period_end=2025-03-31

@@ -1,0 +1,10 @@
+Company: Future Vision II Acquisition Corporation Ordinary shares
+Ticker: FVN
+CIK: 0002010653
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1563409 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 61597591 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 202333 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 3055711 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -208382 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1332505 | unit=USD | filed=2025-05-14 | period_end=2024-12-31

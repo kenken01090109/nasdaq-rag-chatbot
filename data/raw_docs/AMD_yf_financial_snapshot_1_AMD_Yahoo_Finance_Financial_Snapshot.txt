@@ -1,0 +1,25 @@
+Company: Advanced Micro Devices Inc. Common Stock
+Ticker: AMD
+Market Cap: 313739968512
+Enterprise Value: 318639439872
+Total Revenue: 34638999552
+Revenue Per Share: 21.329
+EBITDA: 6744999936
+Gross Margins: 0.52493
+Operating Margins: 0.17059
+Profit Margins: 0.12515001
+Free Cashflow: 4587250176
+Operating Cashflow: 7709000192
+Return On Assets: 0.032
+Return On Equity: 0.07082
+Total Cash: 10552000512
+Total Debt: 4006000128
+Debt To Equity: 6.359
+Current Ratio: 2.85
+Quick Ratio: 1.784
+Trailing PE: 73.72797
+Forward PE: 17.752712
+Price To Book: 4.9787836
+Beta: 2.022
+52 Week High: 267.08
+52 Week Low: 76.48

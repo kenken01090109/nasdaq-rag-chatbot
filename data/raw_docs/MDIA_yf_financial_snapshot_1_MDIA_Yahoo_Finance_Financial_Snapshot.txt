@@ -1,0 +1,25 @@
+Company: Mediaco Holding Inc. Class A Common Stock
+Ticker: MDIA
+Market Cap: 53224236
+Enterprise Value: 164957520
+Total Revenue: 127477000
+Revenue Per Share: 1.643
+EBITDA: -15742000
+Gross Margins: -0.0624
+Operating Margins: -0.19466999
+Profit Margins: -0.29912
+Free Cashflow: 8157625
+Operating Cashflow: 12807000
+Return On Assets: -0.042280003
+Return On Equity: -0.43912998
+Total Cash: 6245000
+Total Debt: 118001000
+Debt To Equity: 136.169
+Current Ratio: 0.509
+Quick Ratio: 0.465
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6143667
+Beta: -0.131
+52 Week High: 1.6
+52 Week Low: 0.538

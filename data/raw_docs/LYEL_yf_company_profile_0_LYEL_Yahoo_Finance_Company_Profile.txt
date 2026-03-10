@@ -1,0 +1,9 @@
+Company: Lyell Immunopharma Inc. Common Stock
+Ticker: LYEL
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://www.lyell.com
+Employees: 300
+Business Summary: Lyell Immunopharma, Inc., a clinical-stage cell therapy company, develops chimeric antigen receptor (CAR) T-cell product candidates for patients with hematologic malignancies and solid tumors. The company develops therapies using various approaches, such as c-Jun overexpression and NR4A3 gene knockout, to endow functional resistance to exhaustion; Epi-R to generate population of stem-like T cells with reduced exhaustion and improved proliferation and antitumor activity; CD62L positive enrichment to generate CAR T cells with enhanced antitumor activity; and Stim-R, a proprietary synthetic-cell mimetic. It is also developing IMPT-314, a dual-targeting CD19/CD20 CAR T-cell product candidate that is in Phase 1/2 clinical development for the treatment of patients with aggressive relapsed/refractory large B-cell non-Hodgkin lymphoma; and solid tumors program which is in preclinical trial targeting solid tumor indications. Lyell Immunopharma, Inc. was incorporated in 2018 and is headquartered in South San Francisco, California.

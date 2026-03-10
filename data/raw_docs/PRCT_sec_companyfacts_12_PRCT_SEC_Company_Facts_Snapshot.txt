@@ -1,0 +1,11 @@
+Company: PROCEPT BioRobotics Corporation Common Stock
+Ticker: PRCT
+CIK: 0001588978
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 231671000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -65727000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 511541000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 131265000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 380276000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -38658000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 294281000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

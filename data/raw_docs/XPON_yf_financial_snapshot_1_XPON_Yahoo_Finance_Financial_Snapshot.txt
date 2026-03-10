@@ -1,0 +1,25 @@
+Company: Expion360 Inc. Common Stock
+Ticker: XPON
+Market Cap: 6817658
+Enterprise Value: 3849252
+Total Revenue: 9417947
+Revenue Per Share: 2.592
+EBITDA: -6554973
+Gross Margins: 0.22353001
+Operating Margins: -1.25447
+Profit Margins: -0.21764
+Free Cashflow: -8815032
+Operating Cashflow: -6638357
+Return On Assets: -0.40113997
+Return On Equity: -0.35472
+Total Cash: 4293797
+Total Debt: 993200
+Debt To Equity: 11.021
+Current Ratio: 9.176
+Quick Ratio: 4.666
+Trailing PE: 9.551667e-05
+Forward PE: -0.05883333
+Price To Book: 0.67689353
+Beta: 0.281
+52 Week High: 5.5
+52 Week Low: 0.6

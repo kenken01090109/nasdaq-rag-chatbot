@@ -1,0 +1,25 @@
+Company: Massimo Group Common Stock
+Ticker: MAMO
+Market Cap: 41107948
+Enterprise Value: 48858112
+Total Revenue: 70861000
+Revenue Per Share: 1.705
+EBITDA: -2124905
+Gross Margins: 0.33396998
+Operating Margins: 0.105270006
+Profit Margins: -0.01165
+Free Cashflow: 8110835
+Operating Cashflow: 4971136
+Return On Assets: -0.028380001
+Return On Equity: -0.0373
+Total Cash: 2595614
+Total Debt: 10129247
+Debt To Equity: 46.638
+Current Ratio: 2.071
+Quick Ratio: 0.502
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.8911878
+Beta: 
+52 Week High: 5.59
+52 Week Low: 0.85

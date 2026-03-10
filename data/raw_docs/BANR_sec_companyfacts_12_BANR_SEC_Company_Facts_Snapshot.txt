@@ -1,0 +1,10 @@
+Company: Banner Corporation Common Stock
+Ticker: BANR
+CIK: 0000946673
+Latest SEC XBRL Facts:
+NetIncomeLoss: 144133000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 16563081000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 14650189000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1912892000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 232516000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 672863000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

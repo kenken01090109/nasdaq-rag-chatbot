@@ -1,0 +1,25 @@
+Company: Relay Therapeutics Inc. Common Stock
+Ticker: RLAY
+Market Cap: 1767598336
+Enterprise Value: 1200856832
+Total Revenue: 15355000
+Revenue Per Share: 0.089
+EBITDA: -299180992
+Gross Margins: 0.0
+Operating Margins: -8.99
+Profit Margins: 0.0
+Free Cashflow: -142714256
+Operating Cashflow: -235455008
+Return On Assets: -0.25353
+Return On Equity: -0.41117
+Total Cash: 554518016
+Total Debt: 32458000
+Debt To Equity: 5.724
+Current Ratio: 22.608
+Quick Ratio: 21.679
+Trailing PE: 
+Forward PE: -6.3913665
+Price To Book: 3.032812
+Beta: 1.618
+52 Week High: 11.425
+52 Week Low: 1.775

@@ -1,0 +1,11 @@
+Company: Domo Inc. Class B Common Stock
+Ticker: DOMO
+CIK: 0001505952
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 239232000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: -51372000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 201605000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 393537000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: -191932000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 10703000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 47180000 | unit=USD | filed=2025-06-06 | period_end=2025-04-30

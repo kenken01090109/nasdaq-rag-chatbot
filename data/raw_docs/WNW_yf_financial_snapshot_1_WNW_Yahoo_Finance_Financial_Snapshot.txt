@@ -1,0 +1,25 @@
+Company: Meiwu Technology Company Limited Ordinary Shares
+Ticker: WNW
+Market Cap: 90657264
+Enterprise Value: -27813136
+Total Revenue: 2550178
+Revenue Per Share: 0.805
+EBITDA: -1917870
+Gross Margins: 0.13363
+Operating Margins: -0.55596
+Profit Margins: 1.60364
+Free Cashflow: -16954018
+Operating Cashflow: 5517193
+Return On Assets: -0.04201
+Return On Equity: 0.12212
+Total Cash: 33363092
+Total Debt: 195811
+Debt To Equity: 0.335
+Current Ratio: 27.981
+Quick Ratio: 21.283
+Trailing PE: 0.14721255
+Forward PE: 
+Price To Book: 0.091643624
+Beta: 0.8
+52 Week High: 3.6
+52 Week Low: 0.95

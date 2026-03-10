@@ -1,0 +1,9 @@
+Company: Gambling.com Group Limited Ordinary Shares
+Ticker: GAMB
+Sector: Consumer Cyclical
+Industry: Gambling
+Country: Jersey
+City: Saint Helier
+Website: https://www.gambling.com/corporate
+Employees: 600
+Business Summary: Gambling.com Group Limited operates as a performance marketing company for the online gambling industry in North America, the United Kingdom, Ireland, rest of Europe, and internationally. The company offers digital marketing, and consumer and enterprise data subscription services for iGaming and social casino products. It also operates various branded websites, including Gambling.com, Bookies.com, Casinos.com, and Freebets.com. Gambling.com Group Limited was incorporated in 2006 and is based in Saint Helier, Jersey.

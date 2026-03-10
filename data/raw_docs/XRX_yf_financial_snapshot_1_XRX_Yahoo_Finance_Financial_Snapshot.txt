@@ -1,0 +1,25 @@
+Company: Xerox Holdings Corporation Common Stock
+Ticker: XRX
+Market Cap: 223760432
+Enterprise Value: 4204722688
+Total Revenue: 7022000128
+Revenue Per Share: 55.522
+EBITDA: 211000000
+Gross Margins: 0.27414
+Operating Margins: 0.013309999
+Profit Margins: -0.14654
+Free Cashflow: 342000000
+Operating Cashflow: 224000000
+Return On Assets: -0.00825
+Return On Equity: -1.04097
+Total Cash: 512000000
+Total Debt: 4247000064
+Debt To Equity: 631.055
+Current Ratio: 1.117
+Quick Ratio: 0.686
+Trailing PE: 
+Forward PE: 1.5042275
+Price To Book: 0.50173014
+Beta: 1.758
+52 Week High: 6.8
+52 Week Low: 1.65

@@ -1,0 +1,25 @@
+Company: BioVie Inc. Class A Common Stock
+Ticker: BIVI
+Market Cap: 10255398
+Enterprise Value: -10121086
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -17968812
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -8277755
+Operating Cashflow: -14322561
+Return On Assets: -0.47197
+Return On Equity: -0.80739
+Total Cash: 20540584
+Total Debt: 314915
+Debt To Equity: 1.635
+Current Ratio: 7.25
+Quick Ratio: 6.899
+Trailing PE: 
+Forward PE: -0.30839005
+Price To Book: 0.5322896
+Beta: 0.616
+52 Week High: 13.2
+52 Week Low: 1.06

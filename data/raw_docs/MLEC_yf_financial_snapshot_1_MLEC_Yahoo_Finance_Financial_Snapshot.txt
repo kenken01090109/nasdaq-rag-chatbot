@@ -1,0 +1,25 @@
+Company: Moolec Science SA Ordinary Shares
+Ticker: MLEC
+Market Cap: 6789203
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: -38.958336
+Price To Book: 13.376252
+Beta: 
+52 Week High: 157.05
+52 Week Low: 3.075

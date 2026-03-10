@@ -1,0 +1,12 @@
+Company: Recon Technology Ltd. Class A Ordinary Shares
+Ticker: RCON
+CIK: 0001442620
+Latest SEC XBRL Facts:
+Revenues: 6374269 | unit=USD | filed=2024-06-28 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5763466 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetIncomeLoss: -2820588 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+Assets: 74214517 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+Liabilities: 8896616 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+StockholdersEquity: 66929276 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1735341 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 19903880 | unit=USD | filed=2025-03-31 | period_end=2024-12-31

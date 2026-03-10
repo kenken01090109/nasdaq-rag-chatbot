@@ -1,0 +1,25 @@
+Company: Rectitude Holdings Ltd Ordinary Shares
+Ticker: RECT
+Market Cap: 21025000
+Enterprise Value: 23501656
+Total Revenue: 43796144
+Revenue Per Share: 3.116
+EBITDA: 2846943
+Gross Margins: 0.32783002
+Operating Margins: 0.04125
+Profit Margins: 0.0511
+Free Cashflow: 1482315
+Operating Cashflow: 200134
+Return On Assets: 0.0359
+Return On Equity: 0.11373
+Total Cash: 6646788
+Total Debt: 8688444
+Debt To Equity: 35.08
+Current Ratio: 2.263
+Quick Ratio: 1.619
+Trailing PE: 11.153847
+Forward PE: 
+Price To Book: 1.0872453
+Beta: 
+52 Week High: 5.21
+52 Week Low: 1.3

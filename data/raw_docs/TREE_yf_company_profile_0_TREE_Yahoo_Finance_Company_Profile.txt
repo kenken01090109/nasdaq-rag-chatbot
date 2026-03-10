@@ -1,0 +1,9 @@
+Company: LendingTree Inc. Common Stock
+Ticker: TREE
+Sector: Financial Services
+Industry: Financial Conglomerates
+Country: United States
+City: Charlotte
+Website: https://www.lendingtree.com
+Employees: 
+Business Summary: LendingTree, Inc., through its subsidiary, operates online consumer platform in the United States. It operates through three segments: Home, Consumer, and Insurance. The Home segment offers purchase mortgage, refinance mortgage, and home equity loans and lines of credit. The Consumer segment provides credit cards; personal, small business, and auto loans; deposit accounts; and other credit products, such as debt settlement services. The Insurance segment includes information, tools, and access to insurance quote products, including automobile, home, life, and health and Medicare through which consumers are matched with insurance lead aggregators to obtain insurance offers and policies. This segment also offers QuoteWizard, a marketplace for insurance comparison; and ValuePenguin, a personal finance website that offers consumers objective analysis on various financial topics. The company was formerly known as Tree.com, Inc. and changed its name to LendingTree, Inc. in January 2015. LendingTree, Inc. was incorporated in 1996 and is based in Charlotte, North Carolina.

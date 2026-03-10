@@ -1,0 +1,9 @@
+Company: NRX Pharmaceuticals Inc. Warrant
+Ticker: NRXPW
+Sector: 
+Industry: 
+Country: United States
+City: Wilmington
+Website: https://www.nrxpharma.com
+Employees: 
+Business Summary: NRx Pharmaceuticals, Inc., a clinical-stage bio-pharmaceutical company, develops novel therapeutics for the treatment of central nervous system disorders comprising suicidal depression, post-traumatic stress disorder, and chronic pain. Its lead drug candidates include NRX-101, an oral, fixed dosed combination of D-cycloserine and lurasidone for suicidal treatment-resistant bipolar depression in patients with sub-acute suicidal ideation and behavior in phase 2 trial; and NRX-100, a preservative-free formulation of ketamine for intravenous infusion and for the treatment of suicidal depression. The company has a license agreement with Alvogen, Inc. and Lotus Pharmaceutical Co. Ltd.; Apkarian Technologies; development and license agreement with Glytech, LLC; and Sarah Herzog Memorial Hospital; and has as a partnership with neurocare Group AG to create a nationwide network of clinics to offer integrated neuroplastic care for the treatment of Depression, PTSD, and other serious mental health disorders. NRx Pharmaceuticals, Inc. was founded in 2015 and is based in Wilmington, Delaware.

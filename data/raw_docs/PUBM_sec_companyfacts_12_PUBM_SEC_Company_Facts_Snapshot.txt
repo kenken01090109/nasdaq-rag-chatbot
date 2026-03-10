@@ -1,0 +1,11 @@
+Company: PubMatic Inc. Class A Common Stock
+Ticker: PUBM
+CIK: 0001422930
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 202880000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -21146000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 676188000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 431128000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 245060000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 62900000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 136548000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

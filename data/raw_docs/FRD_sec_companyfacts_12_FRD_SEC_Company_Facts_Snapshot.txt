@@ -1,0 +1,11 @@
+Company: Friedman Industries Inc. Common Stock
+Ticker: FRD
+CIK: 0000039092
+Latest SEC XBRL Facts:
+Revenues: 121157278 | unit=USD | filed=2018-06-28 | period_end=2018-03-31
+NetIncomeLoss: 10311000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 311859000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 169645000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 142214000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 11175000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3005000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

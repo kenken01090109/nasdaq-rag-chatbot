@@ -1,0 +1,9 @@
+Company: Springview Holdings Ltd Class A Ordinary Shares
+Ticker: SPHL
+Sector: Consumer Cyclical
+Industry: Residential Construction
+Country: Singapore
+City: Singapore
+Website: https://www.springviewggl.com
+Employees: 71
+Business Summary: Springview Holdings Ltd, through its subsidiary, designs and constructs residential and commercial buildings in Singapore. The company undertakes new construction, reconstruction, and additions and alterations works. It also provides a suite of other general contracting services, such as renovation and design consultation, space planning, and bespoke carpentry, as well as project management services. The company was founded in 2002 and is based in Singapore. Springview Holdings Ltd is a subsidiary of AVANTA (BVI) LIMITED.

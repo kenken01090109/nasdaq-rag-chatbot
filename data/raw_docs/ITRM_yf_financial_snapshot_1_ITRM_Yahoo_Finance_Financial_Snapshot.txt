@@ -1,0 +1,25 @@
+Company: Iterum Therapeutics plc Ordinary Share
+Ticker: ITRM
+Market Cap: 8819756
+Enterprise Value: 31564378
+Total Revenue: 390000
+Revenue Per Share: 0.011
+EBITDA: -19324000
+Gross Margins: 0.29744
+Operating Margins: -19.82308
+Profit Margins: 0.0
+Free Cashflow: -13851125
+Operating Cashflow: -19514000
+Return On Assets: -0.53276
+Return On Equity: 
+Total Cash: 11002000
+Total Debt: 33735000
+Debt To Equity: 
+Current Ratio: 2.135
+Quick Ratio: 1.796
+Trailing PE: 
+Forward PE: -0.25075758
+Price To Book: -1.0960265
+Beta: 3.01
+52 Week High: 1.5
+52 Week Low: 0.136

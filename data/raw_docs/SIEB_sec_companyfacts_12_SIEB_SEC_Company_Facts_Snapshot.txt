@@ -1,0 +1,11 @@
+Company: Siebert Financial Corp. Common Stock
+Ticker: SIEB
+CIK: 0000065596
+Latest SEC XBRL Facts:
+Revenues: 70640000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 8660000 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+Assets: 607463000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 515595000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 90898000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9840000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19649000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

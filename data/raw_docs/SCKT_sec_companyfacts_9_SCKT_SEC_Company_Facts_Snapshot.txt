@@ -1,0 +1,11 @@
+Company: Socket Mobile Inc. Common Stock
+Ticker: SCKT
+CIK: 0000944075
+Latest SEC XBRL Facts:
+Revenues: 11114501 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -2984331 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 25645227 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 9984715 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 15660512 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1600226 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2015749 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Saga Communications Inc. Class A Common Stock (FL)
+Ticker: SGA
+CIK: 0000886136
+Latest SEC XBRL Facts:
+Revenues: 60007000 | unit=USD | filed=2019-08-09 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 83704000 | unit=USD | filed=2025-03-31 | period_end=2024-09-30
+NetIncomeLoss: -979000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 218352000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 56295000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 162057000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5482000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17060000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

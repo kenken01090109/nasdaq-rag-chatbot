@@ -1,0 +1,25 @@
+Company: American Coastal Insurance Corporation Common Stock
+Ticker: ACIC
+Market Cap: 567140480
+Enterprise Value: 493661952
+Total Revenue: 335439008
+Revenue Per Share: 6.92
+EBITDA: 157481328
+Gross Margins: 0.57106
+Operating Margins: -0.1003
+Profit Margins: 0.3185
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.08252
+Return On Equity: 0.38608003
+Total Cash: 188275008
+Total Debt: 159190000
+Debt To Equity: 46.73
+Current Ratio: 1.016
+Quick Ratio: 0.452
+Trailing PE: 6.7225432
+Forward PE: 7.5275083
+Price To Book: 1.5682309
+Beta: -0.664
+52 Week High: 13.06
+52 Week Low: 9.97

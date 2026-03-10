@@ -1,0 +1,9 @@
+Company: Uxin Limited ADS
+Ticker: UXIN
+Sector: Consumer Cyclical
+Industry: Auto & Truck Dealerships
+Country: China
+City: Beijing
+Website: https://www.xin.com
+Employees: 1045
+Business Summary: Uxin Limited, an investment holding company, operates as a used car retailer in the People's Republic of China. The company offers used-car acquisition, inspection, reconditioning, warehousing, and pre-sales and after-sales services; and warranty and repair, door-to-door delivery, and title transfers and vehicle registration services, as well as value-added products and services, such as auto financing options and insurance products. It sells used vehicles directly to its customers through its e-commerce platform, as well as to wholesalers through offline dealership. The company was founded in 2011 and is headquartered in Beijing, the People's Republic of China.

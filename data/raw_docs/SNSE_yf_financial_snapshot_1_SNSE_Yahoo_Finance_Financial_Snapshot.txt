@@ -1,0 +1,25 @@
+Company: Sensei Biotherapeutics Inc. Common Stock
+Ticker: SNSE
+Market Cap: 37850552
+Enterprise Value: 15449345
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -23518000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -13303000
+Operating Cashflow: -22381000
+Return On Assets: -0.37037998
+Return On Equity: -0.70182997
+Total Cash: 25041000
+Total Debt: 2021000
+Debt To Equity: 8.784
+Current Ratio: 5.813
+Quick Ratio: 5.645
+Trailing PE: 
+Forward PE: -26.785715
+Price To Book: 1.6446468
+Beta: -0.084
+52 Week High: 36.76
+52 Week Low: 5.0

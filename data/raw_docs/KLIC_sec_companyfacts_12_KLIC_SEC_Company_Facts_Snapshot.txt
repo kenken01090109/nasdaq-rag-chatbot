@@ -1,0 +1,11 @@
+Company: Kulicke and Soffa Industries Inc. Common Stock
+Ticker: KLIC
+CIK: 0000056978
+Latest SEC XBRL Facts:
+Revenues: 199625000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+NetIncomeLoss: 16796000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+Assets: 1114640000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+Liabilities: 289605000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+StockholdersEquity: 825035000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+NetCashProvidedByUsedInOperatingActivities: -8933000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03
+CashAndCashEquivalentsAtCarryingValue: 282128000 | unit=USD | filed=2026-02-05 | period_end=2026-01-03

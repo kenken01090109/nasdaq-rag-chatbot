@@ -1,0 +1,10 @@
+Company: Perimeter Acquisition Corp. I Class A Ordinary Shares
+Ticker: PMTR
+CIK: 0002061473
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3124181 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 246397355 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 9239054 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -8207095 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -497527 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1055120 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

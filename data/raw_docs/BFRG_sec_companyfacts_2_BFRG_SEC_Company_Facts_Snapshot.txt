@@ -1,0 +1,12 @@
+Company: Bullfrog AI Holdings Inc. Common Stock
+Ticker: BFRG
+CIK: 0001829247
+Latest SEC XBRL Facts:
+Revenues: 116670 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 116670 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5017894 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2702356 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 758701 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1943655 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4337270 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1990712 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

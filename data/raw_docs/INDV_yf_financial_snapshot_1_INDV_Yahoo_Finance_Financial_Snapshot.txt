@@ -1,0 +1,25 @@
+Company: Indivior Pharmaceuticals Inc. Common Stock
+Ticker: INDV
+Market Cap: 4034538496
+Enterprise Value: 4164340992
+Total Revenue: 1239000064
+Revenue Per Share: 9.912
+EBITDA: 397000000
+Gross Margins: 0.84019
+Operating Margins: 0.37151
+Profit Margins: 0.16949
+Free Cashflow: 221750000
+Operating Cashflow: -27000000
+Return On Assets: 0.19218999
+Return On Equity: 
+Total Cash: 195000000
+Total Debt: 351000000
+Debt To Equity: 
+Current Ratio: 0.713
+Quick Ratio: 0.492
+Trailing PE: 32.92857
+Forward PE: 9.455413
+Price To Book: -41.160717
+Beta: 1.191
+52 Week High: 38.0
+52 Week Low: 8.64

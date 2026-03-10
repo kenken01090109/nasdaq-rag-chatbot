@@ -1,0 +1,8 @@
+Company: Akamai Technologies Inc. Common Stock
+Ticker: AKAM
+Total Cash: 1186532992
+Total Debt: 5675387904
+Debt To Equity: 114.024
+Current Ratio: 2.363
+Quick Ratio: 2.047
+Book Value: 34.395

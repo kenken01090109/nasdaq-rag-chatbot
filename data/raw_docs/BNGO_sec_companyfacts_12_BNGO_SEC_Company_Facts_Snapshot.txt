@@ -1,0 +1,12 @@
+Company: Bionano Genomics Inc. Common Stock
+Ticker: BNGO
+CIK: 0001411690
+Latest SEC XBRL Facts:
+Revenues: 12000735 | unit=USD | filed=2019-03-14 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 20557000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -18462000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 79062000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 29263000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 49799000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12170000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3065000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

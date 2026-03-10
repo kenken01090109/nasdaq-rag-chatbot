@@ -1,0 +1,10 @@
+Company: Cambium Networks Corporation Ordinary Shares
+Ticker: CMBM
+CIK: 0001738177
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 132009000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetIncomeLoss: -45266000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+Assets: 222609000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+Liabilities: 178979000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+StockholdersEquity: 43630000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -4349000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30

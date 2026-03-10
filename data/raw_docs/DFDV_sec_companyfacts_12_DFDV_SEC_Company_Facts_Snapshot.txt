@@ -1,0 +1,12 @@
+Company: DeFi Development Corp. Common Stock
+Ticker: DFDV
+CIK: 0001805526
+Latest SEC XBRL Facts:
+Revenues: 6898000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6898000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: 70680000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 479954000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 236150000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 243804000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7041000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1800000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31

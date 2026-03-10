@@ -1,0 +1,9 @@
+Company: Aether Holdings Inc. Common Stock
+Ticker: ATHR
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Manhattan
+Website: https://helloaether.com
+Employees: 7
+Business Summary: Aether Holdings, Inc. develops and operates financial technology platform in the United States. The company operates SentimenTrader.com, a cloud-based software platform that provides proprietary research analytics, data, and tools. Its platform offers data and technology products that allow review of market sentiment analyses comprising DataEdge API, Indicators & Charts, and Backtest Engine; research reports consisting of SentimentEdge Report, Kaeppel's Corner, ModelEdge Report, and TradingEdge Weekly; and actionable strategy products, including Smart Stock Scanner and Index Trading Strategies. The company also operates a portfolio of newsletters comprising The Alpha Edge Digest, WhaleTales, Altcoin Investing Picks, The Russell Report, IPO Stream, Stockcastr, and 21Bitcoin.xyz; and events, including Alpha Edge Summit to deliver AI-driven and data-informed insights. In addition, it engages in financial technology tools; and research and development activities. The company serves retail and active traders, technical analysts, investors, financial professionals, educators, researchers, fintech companies, media outlets, and hobbyists. The company has entered into a collaboration with Reliant AI Inc. for the development of an artificial-intelligence-powered data analytics platform designed to support clinical trial execution through data-driven insights. Aether Holdings, Inc. was founded in 2003 and is based in Manhattan, New York.

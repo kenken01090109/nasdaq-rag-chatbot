@@ -1,0 +1,9 @@
+Company: MediWound Ltd. Ordinary Shares
+Ticker: MDWD
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Yavne
+Website: https://www.mediwound.com
+Employees: 
+Business Summary: MediWound Ltd., a biopharmaceutical company, develops, manufactures, and commercializes novel, bio-therapeutic, and non-surgical solutions for tissue repair and regeneration in the United States, Germany, Italy, Spain, and internationally. The company markets NexoBrid, a biopharmaceutical product for the removal of eschar in patients with deep partial- and full-thickness thermal burns to burn centers and hospitals burn units. It also develops EscharEx, a bromelain-based, bioactive enzymatic therapy for the treatment of chronic wounds and other hard-to-heal wounds; and MW005, a topically applied biological product candidate to treat non-melanoma skin cancers. MediWound Ltd. was incorporated in 2000 and is headquartered in Yavne, Israel.

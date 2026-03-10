@@ -1,0 +1,12 @@
+Company: Cerus Corporation Common Stock
+Ticker: CERS
+CIK: 0001020214
+Latest SEC XBRL Facts:
+Revenues: 51326000 | unit=USD | filed=2018-03-08 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 233798000 | unit=USD | filed=2026-03-02 | period_end=2025-12-31
+NetIncomeLoss: -13443000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 215185000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 152981000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 61463000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1363000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15670000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

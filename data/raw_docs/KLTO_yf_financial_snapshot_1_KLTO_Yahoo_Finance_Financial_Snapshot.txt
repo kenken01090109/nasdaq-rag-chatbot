@@ -1,0 +1,25 @@
+Company: Klotho Neurosciences Inc. Common Stock
+Ticker: KLTO
+Market Cap: 33265340
+Enterprise Value: 23124642
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -5885180
+Operating Cashflow: -5554544
+Return On Assets: -0.71634
+Return On Equity: -1.98283
+Total Cash: 7348034
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 83.685
+Quick Ratio: 82.756
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.2524824
+Beta: 2.235
+52 Week High: 3.91
+52 Week Low: 0.114

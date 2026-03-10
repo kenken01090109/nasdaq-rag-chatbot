@@ -1,0 +1,9 @@
+Company: FVCBankcorp Inc. Common Stock
+Ticker: FVCB
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Fairfax
+Website: https://www.fvcbank.com
+Employees: 122
+Business Summary: FVCBankcorp, Inc. operates as the bank holding company for FVCbank provides various banking products and services for small and medium-sized businesses, professionals, non-profit organizations and associations, and investors. It provides various deposit products which includes interest and noninterest-bearing transaction accounts, certificates of deposit, savings, and money market accounts. The company also offers lending products comprising commercial real estate loans; commercial construction loans; commercial loans for a range of business purposes, such as for working capital, equipment purchases, lines of credit, and government contract financing; small business administration lending; asset based lending and accounts receivable financing; home equity loans or home equity lines of credit; and consumer loans for constructive purposes. In addition, it provides business and consumer credit cards; merchant services; business insurance products; and digital banking, remote deposit, and mobile banking services. The company was founded in 2007 and is headquartered in Fairfax, Virginia.

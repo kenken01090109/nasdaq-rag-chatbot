@@ -1,0 +1,12 @@
+Company: Rimini Street Inc. (DE) Common Stock
+Ticker: RMNI
+CIK: 0001635282
+Latest SEC XBRL Facts:
+Revenues: 431496000 | unit=USD | filed=2024-02-28 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 314540000 | unit=USD | filed=2024-10-30 | period_end=2024-09-30
+NetIncomeLoss: 36374000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 352860000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 380143000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: -27283000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 40659000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 108721000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

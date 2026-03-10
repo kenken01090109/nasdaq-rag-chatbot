@@ -1,0 +1,12 @@
+Company: Nano Labs Ltd Class A Ordinary Shares
+Ticker: NA
+CIK: 0001872302
+Latest SEC XBRL Facts:
+Revenues: 1157122 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 141166599 | unit=USD | filed=2023-04-18 | period_end=2022-12-31
+NetIncomeLoss: -985465 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+Assets: 206427090 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+Liabilities: 119946253 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+StockholdersEquity: 86844544 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -7093923 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 50769761 | unit=USD | filed=2025-09-17 | period_end=2025-06-30

@@ -1,0 +1,9 @@
+Company: Caribou Biosciences Inc. Common Stock
+Ticker: CRBU
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Berkeley
+Website: https://cariboubio.com
+Employees: 147
+Business Summary: Caribou Biosciences, Inc., a clinical-stage biopharmaceutical company, engages in the development of genome-edited allogeneic cell therapies for the treatment of hematologic malignancies and autoimmune diseases in the United States and internationally. The company's lead product candidate include CB-010, an allogeneic anti-CD19 CAR-T cell therapy that is in phase 1 clinical trial to treat relapsed or refractory B cell non-Hodgkin lymphoma, refractory systemic lupus erythematosus, lupus nephritis, and extrarenal lupus. It also develops CB-011, an anti-BCMA allogeneic CAR-T cell therapy that is in phase 1 clinical trial for the treatment of relapsed or refractory multiple myeloma; and CB-012, an allogeneic anti-CD371 CAR-T cell therapy that is in phase 1 clinical trial for the treatment of relapsed or refractory acute myeloid leukemia. Caribou Biosciences, Inc. was incorporated in 2011 and is headquartered in Berkeley, California.

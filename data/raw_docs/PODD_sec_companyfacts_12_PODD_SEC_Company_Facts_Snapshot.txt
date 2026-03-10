@@ -1,0 +1,12 @@
+Company: Insulet Corporation Common Stock
+Ticker: PODD
+CIK: 0001145197
+Latest SEC XBRL Facts:
+Revenues: 1924300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 261300000 | unit=USD | filed=2023-05-05 | period_end=2023-03-31
+NetIncomeLoss: 145500000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3029300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1645100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1384100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 386000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 856600000 | unit=USD | filed=2021-11-05 | period_end=2021-09-30

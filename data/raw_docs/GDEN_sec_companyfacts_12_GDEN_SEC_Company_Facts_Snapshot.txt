@@ -1,0 +1,12 @@
+Company: Golden Entertainment Inc. Common Stock
+Ticker: GDEN
+CIK: 0001071255
+Latest SEC XBRL Facts:
+Revenues: 479281000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 502614000 | unit=USD | filed=2024-11-08 | period_end=2024-09-30
+NetIncomeLoss: 2473000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1036043000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 601890000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 434153000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72841000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 58265000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

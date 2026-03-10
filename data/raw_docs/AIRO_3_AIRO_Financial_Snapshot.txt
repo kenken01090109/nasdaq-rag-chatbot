@@ -1,0 +1,12 @@
+Company: AIRO Group Holdings Inc. Common Stock
+Ticker: AIRO
+Total Revenue: 82357984
+Revenue Per Share: 4.136
+Gross Margins: 0.63782
+Operating Margins: -1.9065
+EBITDA: -6461594
+Profit Margins: -0.058509998
+Free Cashflow: -19645162
+Operating Cashflow: -12582179
+Return On Assets: -0.01584
+Return On Equity: -0.00741

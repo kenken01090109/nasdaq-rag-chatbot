@@ -1,0 +1,9 @@
+Company: Inspira Technologies Oxy B.H.N. Ltd. Ordinary Shares
+Ticker: IINN
+Sector: Healthcare
+Industry: Medical Devices
+Country: Israel
+City: Ra'anana
+Website: https://inspira-technologies.com
+Employees: 38
+Business Summary: Inspira Technologies Oxy B.H.N. Ltd., a specialty medical device company, engages in the research, development, manufacturing, and marketing of proprietary life support technologies for the treatment of acute respiratory failure in Israel. It offers INSPIRA ART100, a life support system used in procedures requiring cardiopulmonary bypass for six hours or less. The company was formerly known as Insense Medical Ltd. and changed its name to Inspira Technologies Oxy B.H.N. Ltd. in July 2020. Inspira Technologies Oxy B.H.N. Ltd. was incorporated in 2018 and is headquartered in Ra'anana, Israel.

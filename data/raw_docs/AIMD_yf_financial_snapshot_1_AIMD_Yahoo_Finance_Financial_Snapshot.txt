@@ -1,0 +1,25 @@
+Company: Ainos Inc. Common Stock
+Ticker: AIMD
+Market Cap: 9636091
+Enterprise Value: 16513218
+Total Revenue: 113037
+Revenue Per Share: 0.031
+EBITDA: -9556894
+Gross Margins: 0.82689005
+Operating Margins: -1284.8145
+Profit Margins: 0.0
+Free Cashflow: 2875
+Operating Cashflow: -4623910
+Return On Assets: -0.33133
+Return On Equity: -1.06578
+Total Cash: 1128217
+Total Debt: 11000000
+Debt To Equity: 109.508
+Current Ratio: 2.96
+Quick Ratio: 1.941
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6587112
+Beta: 2.328
+52 Week High: 4.5
+52 Week Low: 1.26

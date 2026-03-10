@@ -1,0 +1,11 @@
+Company: Omega Flex Inc. Common Stock
+Ticker: OFLX
+CIK: 0001317945
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 73089000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 11412000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 103846000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 19740000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 84200000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9668000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49368000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

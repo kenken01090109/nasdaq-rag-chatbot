@@ -1,0 +1,25 @@
+Company: rYojbaba Co. Ltd. Common Shares
+Ticker: RYOJ
+Market Cap: 24975000
+Enterprise Value: 30299672
+Total Revenue: 11523472
+Revenue Per Share: 1.152
+EBITDA: 2611387
+Gross Margins: 0.38391
+Operating Margins: 0.12673001
+Profit Margins: 0.1197
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.07735
+Return On Equity: 0.57368
+Total Cash: 2316988
+Total Debt: 10416659
+Debt To Equity: 324.438
+Current Ratio: 1.857
+Quick Ratio: 1.426
+Trailing PE: 18.5
+Forward PE: 
+Price To Book: 6.915888
+Beta: 
+52 Week High: 11.43
+52 Week Low: 1.813

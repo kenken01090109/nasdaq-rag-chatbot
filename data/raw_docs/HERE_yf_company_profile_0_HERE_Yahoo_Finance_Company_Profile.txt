@@ -1,0 +1,9 @@
+Company: Here Group Limited American Depositary Shares
+Ticker: HERE
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: China
+City: Beijing
+Website: https://www.heregroup.com
+Employees: 714
+Business Summary: Here Group Limited designs and sells pop toys in China. It offers collectible pop toys, such as plush toys and figures under HERE brand. The company was formerly known as QuantaSing Group Limited and change its name to Here Group Limited in November 2025. Here Group Limited was founded in 2019 and is headquartered in Beijing, the People's Republic of China.

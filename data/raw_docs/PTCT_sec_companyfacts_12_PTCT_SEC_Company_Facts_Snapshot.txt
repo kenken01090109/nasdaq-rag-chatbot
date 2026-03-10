@@ -1,0 +1,12 @@
+Company: PTC Therapeutics Inc. Common Stock
+Ticker: PTCT
+CIK: 0001070081
+Latest SEC XBRL Facts:
+Revenues: 264734000 | unit=USD | filed=2019-03-01 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1565978000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 817609000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2643700000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 2799458000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -155758000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 745469000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 672617000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

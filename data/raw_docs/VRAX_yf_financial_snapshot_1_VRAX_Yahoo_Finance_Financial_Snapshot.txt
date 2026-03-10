@@ -1,0 +1,25 @@
+Company: Virax Biolabs Group Limited Ordinary Shares
+Ticker: VRAX
+Market Cap: 1592326
+Enterprise Value: -1734757
+Total Revenue: 2986
+Revenue Per Share: 0.001
+EBITDA: -5556497
+Gross Margins: 0.0
+Operating Margins: -1607.8832
+Profit Margins: 0.0
+Free Cashflow: -3539977
+Operating Cashflow: -5405240
+Return On Assets: -0.48403
+Return On Equity: -0.83822
+Total Cash: 3437848
+Total Debt: 537993
+Debt To Equity: 10.604
+Current Ratio: 11.354
+Quick Ratio: 9.887
+Trailing PE: 
+Forward PE: -0.89375
+Price To Book: 0.26416257
+Beta: 1.708
+52 Week High: 1.58
+52 Week Low: 0.192

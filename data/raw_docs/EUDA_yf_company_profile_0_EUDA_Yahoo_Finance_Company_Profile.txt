@@ -1,0 +1,9 @@
+Company: EUDA Health Holdings Limited Ordinary Shares
+Ticker: EUDA
+Sector: Real Estate
+Industry: Real Estate Services
+Country: Singapore
+City: Singapore
+Website: https://eudahealth.com
+Employees: 117
+Business Summary: EUDA Health Holdings Limited engages in the provision of non-invasive healthcare services primarily in Singapore, Malaysia, and China. It offers bioenergy capsule, stem cell therapy, and CRISPR gene editing treatment services; and supplements. The company also provides property management services. The company is headquartered in Singapore.

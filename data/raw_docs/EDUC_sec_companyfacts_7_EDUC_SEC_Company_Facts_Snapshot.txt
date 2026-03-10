@@ -1,0 +1,11 @@
+Company: Educational Development Corporation Common Stock
+Ticker: EDUC
+CIK: 0000031667
+Latest SEC XBRL Facts:
+Revenues: 18735300 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetIncomeLoss: 5432200 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Assets: 59455600 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Liabilities: 13558100 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+StockholdersEquity: 45897500 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 4004600 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 3108400 | unit=USD | filed=2026-01-13 | period_end=2025-11-30

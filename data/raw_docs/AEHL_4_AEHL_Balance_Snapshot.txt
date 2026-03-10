@@ -1,0 +1,8 @@
+Company: Antelope Enterprise Holdings Limited Class A Ordinary Shares
+Ticker: AEHL
+Total Cash: 1047000
+Total Debt: 6879000
+Debt To Equity: 26.215
+Current Ratio: 2.893
+Quick Ratio: 0.433
+Book Value: 22.413

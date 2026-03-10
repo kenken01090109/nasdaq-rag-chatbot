@@ -1,0 +1,25 @@
+Company: Stock Yards Bancorp Inc. Common Stock
+Ticker: SYBT
+Market Cap: 1905223168
+Enterprise Value: 1492104960
+Total Revenue: 390560000
+Revenue Per Share: 13.301
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.48633
+Profit Margins: 0.35884
+Free Cashflow: 
+Operating Cashflow: 166046000
+Return On Assets: 0.01523
+Return On Equity: 0.13903
+Total Cash: 890876992
+Total Debt: 481591008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.606316
+Forward PE: 11.983319
+Price To Book: 1.770976
+Beta: 0.72
+52 Week High: 83.83
+52 Week Low: 60.75

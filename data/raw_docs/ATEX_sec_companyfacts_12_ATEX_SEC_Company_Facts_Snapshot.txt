@@ -1,0 +1,11 @@
+Company: Anterix Inc. Common Stock
+Ticker: ATEX
+CIK: 0001304492
+Latest SEC XBRL Facts:
+Revenues: 4543000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetIncomeLoss: 72115000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 417003000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 181052000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 235951000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -10008000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 29534000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

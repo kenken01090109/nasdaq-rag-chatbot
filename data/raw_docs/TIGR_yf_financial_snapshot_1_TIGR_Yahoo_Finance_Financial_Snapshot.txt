@@ -1,0 +1,25 @@
+Company: UP Fintech Holding Ltd American Depositary Share representing fifteen Class A Ordinary Shares
+Ticker: TIGR
+Market Cap: 1280622848
+Enterprise Value: 14521537536
+Total Revenue: 489538368
+Revenue Per Share: 2.797
+EBITDA: 
+Gross Margins: 0.86709
+Operating Margins: 0.41627997
+Profit Margins: 0.31401
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0197
+Return On Equity: 0.22698
+Total Cash: 5110692352
+Total Debt: 173454864
+Debt To Equity: 21.269
+Current Ratio: 1.075
+Quick Ratio: 1.072
+Trailing PE: 8.780488
+Forward PE: 7.235381
+Price To Book: 1.5751476
+Beta: 0.505
+52 Week High: 13.55
+52 Week Low: 6.38

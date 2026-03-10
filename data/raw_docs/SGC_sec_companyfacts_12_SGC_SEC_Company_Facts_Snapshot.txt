@@ -1,0 +1,11 @@
+Company: Superior Group of Companies Inc. Common Stock
+Ticker: SGC
+CIK: 0000095574
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 419609000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 3537000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 415272000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 221436000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 193836000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1270000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16651000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

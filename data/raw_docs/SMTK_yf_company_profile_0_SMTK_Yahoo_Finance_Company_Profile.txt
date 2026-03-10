@@ -1,0 +1,9 @@
+Company: SmartKem Inc. Common Stock
+Ticker: SMTK
+Sector: Technology
+Industry: Semiconductor Equipment & Materials
+Country: United Kingdom
+City: Manchester
+Website: https://www.smartkem.com
+Employees: 27
+Business Summary: SmartKem, Inc., together with its subsidiaries, develops and sells transistors using its proprietary semiconductor materials. The company offers TRUFLEX materials used in a range of applications, including MicroLED, LCD, and AMOLED displays, as well as computer and AI chip packaging and sensors. It also provides prototyping services. The company was founded in 2009 and is headquartered in Manchester, the United Kingdom.

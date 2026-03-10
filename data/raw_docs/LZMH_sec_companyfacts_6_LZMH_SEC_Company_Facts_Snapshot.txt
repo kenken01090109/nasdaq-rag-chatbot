@@ -1,0 +1,11 @@
+Company: LZ Technology Holdings Limited Class B Ordinary Shares
+Ticker: LZMH
+CIK: 0001967397
+Latest SEC XBRL Facts:
+Revenues: 57781000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30
+NetIncomeLoss: -6040000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30
+Assets: 71467000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30
+Liabilities: 61678000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30
+StockholdersEquity: 9516000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -6737000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2225000 | unit=USD | filed=2025-11-21 | period_end=2025-06-30

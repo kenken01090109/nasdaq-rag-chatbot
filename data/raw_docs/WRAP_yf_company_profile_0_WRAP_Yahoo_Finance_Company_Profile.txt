@@ -1,0 +1,9 @@
+Company: Wrap Technologies Inc. Common Stock
+Ticker: WRAP
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: Miami
+Website: https://www.wrap.com
+Employees: 19
+Business Summary: Wrap Technologies, Inc., a public safety technology and services company, develops policing solutions for law enforcement and security personnel in the United States, Europe, the Middle East, Africa, Asia Pacific, and internationally. The company offers BolaWrap 150, a handheld remote restraint device that discharges a seven-and-a-half-foot kevlar tether, entangling an individual from a range of 1025 feet; BolaWrap Remote Restraint Device, a hand-held remote restraint device that discharges a seven and half-foot Kevlar tether to entangle an individual at a range of 10-25 feet; and Wrap Intrensic, a body-worn camera and digital evidence management for capturing, storing, and managing digital evidence, such as video and audio recordings for criminal investigations and maintaining transparency in public interactions. It also provides Wrap Reality Virtual Training platfom, a law enforcement 3D training system employing immersive computer graphics VR with proprietary software-enabled content. Wrap Technologies, Inc. was founded in 2016 and is headquartered in Miami, Florida.

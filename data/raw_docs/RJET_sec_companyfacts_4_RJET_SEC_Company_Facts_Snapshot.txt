@@ -1,0 +1,11 @@
+Company: Republic Airways Holdings Inc. Common Stock
+Ticker: RJET
+CIK: 0000810332
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 278206000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+NetIncomeLoss: -51898000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+Assets: 158933000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+Liabilities: 211571000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+StockholdersEquity: -52638000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -34612000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38734000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30

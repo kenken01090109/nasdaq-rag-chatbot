@@ -1,0 +1,10 @@
+Company: Community Trust Bancorp Inc. Common Stock
+Ticker: CTBI
+CIK: 0000350852
+Latest SEC XBRL Facts:
+NetIncomeLoss: 70782000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 6638129000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 5806756000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 831373000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 90051000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 507624000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

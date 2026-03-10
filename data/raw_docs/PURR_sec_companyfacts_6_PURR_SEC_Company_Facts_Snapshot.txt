@@ -1,0 +1,11 @@
+Company: Hyperliquid Strategies Inc Common Stock
+Ticker: PURR
+CIK: 0002078856
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 500000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetIncomeLoss: -317861000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 616639000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 26874000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 589765000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -8315000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 281926000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

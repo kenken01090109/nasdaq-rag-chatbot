@@ -1,0 +1,25 @@
+Company: Cumberland Pharmaceuticals Inc. Common Stock
+Ticker: CPIX
+Market Cap: 52359780
+Enterprise Value: 63223404
+Total Revenue: 41278348
+Revenue Per Share: 2.806
+EBITDA: 1336870
+Gross Margins: 0.84489995
+Operating Margins: -0.237
+Profit Margins: -0.08063
+Free Cashflow: 5698491
+Operating Cashflow: 6834116
+Return On Assets: -0.02859
+Return On Equity: -0.13279
+Total Cash: 15196745
+Total Debt: 10237946
+Debt To Equity: 39.681
+Current Ratio: 1.232
+Quick Ratio: 1.054
+Trailing PE: 
+Forward PE: 25.0
+Price To Book: 2.004582
+Beta: -0.544
+52 Week High: 6.7
+52 Week Low: 1.85

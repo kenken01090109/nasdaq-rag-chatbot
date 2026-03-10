@@ -1,0 +1,10 @@
+Company: CRA International Inc. Common Stock
+Ticker: CRAI
+CIK: 0001053706
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 554620000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+NetIncomeLoss: 41597000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+Assets: 629041000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+StockholdersEquity: 201655000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -37595000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 22496000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27

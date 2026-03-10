@@ -1,0 +1,9 @@
+Company: Red Cat Holdings Inc. Common Stock
+Ticker: RCAT
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: San Juan
+Website: https://redcat.red
+Employees: 115
+Business Summary: Red Cat Holdings, Inc., together with its subsidiaries, provides products, services, and solutions to the drone industry in the United States. It integrates robotic hardware and software solutions for military, government, and commercial operations; and offers short range reconnaissance, med range reconnaissance, unmanned surface vessels, and controllers. The company also provides ARACHNID family of unmanned intelligence, surveillance, and reconnaissance, as well as precision lethal strike systems; Black Widow, a rucksack portable for operation in electronic warfare environments; and Warfighter Electronic Bridge, a ground control station to build and operate systems for military operations. In addition, it offers unmanned aerial vehicle (UAV) technology to government and commercial enterprises; and VTOL drone, sensor and software solutions. Red Cat Holdings, Inc. is based in San Juan, Puerto Rico.

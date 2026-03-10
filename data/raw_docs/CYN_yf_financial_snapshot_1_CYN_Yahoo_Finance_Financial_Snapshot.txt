@@ -1,0 +1,25 @@
+Company: Cyngn Inc. Common Stock
+Ticker: CYN
+Market Cap: 11802084
+Enterprise Value: -16359677
+Total Revenue: 457227
+Revenue Per Share: 0.178
+EBITDA: -23982634
+Gross Margins: 0.27972
+Operating Margins: -120.289246
+Profit Margins: 0.0
+Free Cashflow: -13912914
+Operating Cashflow: -20481612
+Return On Assets: -0.53411
+Return On Equity: -1.49653
+Total Cash: 34874956
+Total Debt: 6713197
+Debt To Equity: 17.356
+Current Ratio: 9.99
+Quick Ratio: 9.285
+Trailing PE: 
+Forward PE: -0.4077135
+Price To Book: 0.26933578
+Beta: 0.084
+52 Week High: 41.54
+52 Week Low: 1.331

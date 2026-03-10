@@ -1,0 +1,25 @@
+Company: Capital City Bank Group Common Stock
+Ticker: CCBG
+Market Cap: 733430592
+Enterprise Value: 319127040
+Total Revenue: 248739008
+Revenue Per Share: 14.584
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.30261
+Profit Margins: 0.24747999
+Free Cashflow: 
+Operating Cashflow: 87614000
+Return On Assets: 0.01413
+Return On Equity: 0.117460005
+Total Cash: 529871008
+Total Debt: 120370000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.877778
+Forward PE: 12.079096
+Price To Book: 1.3213843
+Beta: 0.321
+52 Week High: 46.83
+52 Week Low: 32.38

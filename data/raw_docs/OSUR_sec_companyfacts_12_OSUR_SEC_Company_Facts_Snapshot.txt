@@ -1,0 +1,12 @@
+Company: OraSure Technologies Inc. Common Stock
+Ticker: OSUR
+CIK: 0001116463
+Latest SEC XBRL Facts:
+Revenues: 49668000 | unit=USD | filed=2020-03-02 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 88258000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -49445000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 423098000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 61118000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 361980000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -40027000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 216478000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: American Electric Power Company Inc. Common Stock
+Ticker: AEP
+Total Revenue: 21876000768
+Revenue Per Share: 40.925
+Gross Margins: 0.47522
+Operating Margins: 0.22843
+EBITDA: 8956999680
+Profit Margins: 0.16364999
+Free Cashflow: -5140375040
+Operating Cashflow: 6944000000
+Return On Assets: 0.03174
+Return On Equity: 0.12486

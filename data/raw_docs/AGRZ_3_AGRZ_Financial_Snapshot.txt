@@ -1,0 +1,12 @@
+Company: Agroz Inc. Ordinary Shares
+Ticker: AGRZ
+Total Revenue: 62679872
+Revenue Per Share: 3.134
+Gross Margins: 0.32122
+Operating Margins: 0.15624
+EBITDA: 14156994
+Profit Margins: 0.13293
+Free Cashflow: -613851
+Operating Cashflow: -2853599
+Return On Assets: 0.21909
+Return On Equity: 0.85853994

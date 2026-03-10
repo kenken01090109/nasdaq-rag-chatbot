@@ -1,0 +1,11 @@
+Company: Eledon Pharmaceuticals Inc. Common Stock
+Ticker: ELDN
+CIK: 0001404281
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2017-03-03 | period_end=2016-12-31
+NetIncomeLoss: -35170000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 129857000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 38803000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 35360000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -48250000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3669000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

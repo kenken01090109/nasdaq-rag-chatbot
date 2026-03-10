@@ -1,0 +1,25 @@
+Company: Porch Group Inc. Common Stock
+Ticker: PRCH
+Market Cap: 830090560
+Enterprise Value: 1091481600
+Total Revenue: 482414016
+Revenue Per Share: 4.653
+EBITDA: 60994000
+Gross Margins: 0.70476997
+Operating Margins: 0.11721
+Profit Margins: -0.0069700005
+Free Cashflow: -195318752
+Operating Cashflow: 66419000
+Return On Assets: 0.02833
+Return On Equity: 
+Total Cash: 180328992
+Total Debt: 394715008
+Debt To Equity: 1763.223
+Current Ratio: 2.489
+Quick Ratio: 1.935
+Trailing PE: 
+Forward PE: -10.426667
+Price To Book: -33.562233
+Beta: 3.082
+52 Week High: 19.436
+52 Week Low: 4.645

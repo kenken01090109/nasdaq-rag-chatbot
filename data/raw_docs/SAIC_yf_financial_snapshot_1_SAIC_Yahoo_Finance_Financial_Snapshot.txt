@@ -1,0 +1,25 @@
+Company: Science Applications International Corporation Common Stock
+Ticker: SAIC
+Market Cap: 4390498816
+Enterprise Value: 6816351744
+Total Revenue: 7350000128
+Revenue Per Share: 155.803
+EBITDA: 655000000
+Gross Margins: 0.12014
+Operating Margins: 0.0686
+Profit Margins: 0.050479997
+Free Cashflow: 236875008
+Operating Cashflow: 466000000
+Return On Assets: 0.05959
+Return On Equity: 0.23752001
+Total Cash: 45000000
+Total Debt: 2646000128
+Debt To Equity: 175.0
+Current Ratio: 1.197
+Quick Ratio: 1.038
+Trailing PE: 12.199489
+Forward PE: 9.931262
+Price To Book: 2.8392859
+Beta: 0.321
+52 Week High: 124.11
+52 Week Low: 81.08

@@ -1,0 +1,25 @@
+Company: SU Group Holdings Limited Ordinary Shares
+Ticker: SUGP
+Market Cap: 12163563
+Enterprise Value: -12484390
+Total Revenue: 192386576
+Revenue Per Share: 139.009
+EBITDA: -16269250
+Gross Margins: 0.1598
+Operating Margins: -0.17774999
+Profit Margins: -0.09608
+Free Cashflow: -13327510
+Operating Cashflow: -15456974
+Return On Assets: -0.0794
+Return On Equity: -0.20106001
+Total Cash: 25354528
+Total Debt: 5516983
+Debt To Equity: 6.404
+Current Ratio: 2.818
+Quick Ratio: 1.856
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.68336916
+Beta: 2.758
+52 Week High: 18.4
+52 Week Low: 3.44

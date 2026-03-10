@@ -1,0 +1,25 @@
+Company: Core Scientific Inc. Tranche 2 Warrants
+Ticker: CORZZ
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 319019008
+Revenue Per Share: 1.003
+EBITDA: -107388000
+Gross Margins: 0.16733
+Operating Margins: -0.78493
+Profit Margins: -0.90470004
+Free Cashflow: -539492096
+Operating Cashflow: 278249984
+Return On Assets: -0.05764
+Return On Equity: 
+Total Cash: 311377984
+Total Debt: 1162523008
+Debt To Equity: 
+Current Ratio: 1.146
+Quick Ratio: 0.862
+Trailing PE: 
+Forward PE: 
+Price To Book: -5.172977
+Beta: 6.897
+52 Week High: 15.85
+52 Week Low: 15.57

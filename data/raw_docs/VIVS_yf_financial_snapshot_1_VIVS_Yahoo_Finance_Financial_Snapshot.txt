@@ -1,0 +1,25 @@
+Company: VivoSim Labs Inc. Common Stock
+Ticker: VIVS
+Market Cap: 4772570
+Enterprise Value: 1426968
+Total Revenue: 142000
+Revenue Per Share: 0.061
+EBITDA: -11221000
+Gross Margins: 0.0
+Operating Margins: -105.769226
+Profit Margins: 0.0
+Free Cashflow: -7895875
+Operating Cashflow: -10624000
+Return On Assets: -1.3252001
+Return On Equity: -0.51072
+Total Cash: 4288000
+Total Debt: 812000
+Debt To Equity: 18.284
+Current Ratio: 2.441
+Quick Ratio: 1.746
+Trailing PE: 1.0397727
+Forward PE: 
+Price To Book: 1.0745744
+Beta: 1.32
+52 Week High: 5.64
+52 Week Low: 1.41

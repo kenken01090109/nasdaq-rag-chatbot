@@ -1,0 +1,25 @@
+Company: Jet.AI Inc. Common Stock
+Ticker: JTAI
+Market Cap: 4825242
+Enterprise Value: -2395126
+Total Revenue: 10584279
+Revenue Per Share: 4.768
+EBITDA: -10999099
+Gross Margins: -0.08726
+Operating Margins: -1.19007
+Profit Margins: -1.0319899
+Free Cashflow: -10438623
+Operating Cashflow: -12302263
+Return On Assets: -0.84629995
+Return On Equity: -4.0826097
+Total Cash: 3475410
+Total Debt: 628649
+Debt To Equity: 6.812
+Current Ratio: 1.924
+Quick Ratio: 1.028
+Trailing PE: 0.001207878
+Forward PE: -0.31205884
+Price To Book: 0.04025038
+Beta: -0.161
+52 Week High: 6.35
+52 Week Low: 0.092

@@ -1,0 +1,25 @@
+Company: One Stop Systems Inc. Common Stock
+Ticker: OSS
+Market Cap: 206175280
+Enterprise Value: 207882480
+Total Revenue: 60264016
+Revenue Per Share: 2.798
+EBITDA: -5401422
+Gross Margins: 0.29007998
+Operating Margins: 0.0304
+Profit Margins: -0.114659995
+Free Cashflow: -5024004
+Operating Cashflow: -7177258
+Return On Assets: -0.09086
+Return On Equity: -0.24260001
+Total Cash: 6508020
+Total Debt: 6499140
+Debt To Equity: 24.674
+Current Ratio: 2.798
+Quick Ratio: 1.44
+Trailing PE: 
+Forward PE: -841.0
+Price To Book: 7.025898
+Beta: 0.934
+52 Week High: 12.75
+52 Week Low: 1.85

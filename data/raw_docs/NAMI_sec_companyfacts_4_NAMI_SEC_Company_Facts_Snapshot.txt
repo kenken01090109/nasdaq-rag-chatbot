@@ -1,0 +1,11 @@
+Company: Jinxin Technology Holding Company American Depositary Shares
+Ticker: NAMI
+CIK: 0001967631
+Latest SEC XBRL Facts:
+Revenues: 29106000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+NetIncomeLoss: -2971000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+Assets: 34077000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+Liabilities: 12836000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+StockholdersEquity: 16695000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1985000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 7699000 | unit=USD | filed=2025-12-05 | period_end=2025-06-30

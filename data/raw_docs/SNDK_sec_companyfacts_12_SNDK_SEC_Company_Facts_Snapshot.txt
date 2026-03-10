@@ -1,0 +1,11 @@
+Company: Sandisk Corporation Common Stock
+Ticker: SNDK
+CIK: 0002023554
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5333000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+NetIncomeLoss: 915000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+Assets: 12998000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+Liabilities: 2785000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+StockholdersEquity: 10213000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: 1507000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 1539000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02

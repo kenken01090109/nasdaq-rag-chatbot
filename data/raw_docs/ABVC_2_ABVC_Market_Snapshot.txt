@@ -1,0 +1,10 @@
+Company: ABVC BioPharma Inc. Common Stock
+Ticker: ABVC
+Market Cap: 34264532
+Enterprise Value: 38120072
+Trailing PE: 
+Forward PE: -3.2045455
+Price To Book: 2.7431905
+Beta: 0.27
+52 Week High: 5.48
+52 Week Low: 0.61

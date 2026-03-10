@@ -1,0 +1,10 @@
+Company: ProKidney Corp. Class A Ordinary Shares
+Ticker: PROK
+CIK: 0001850270
+Latest SEC XBRL Facts:
+NetIncomeLoss: -49755000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 351608000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 33270000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -1008020000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -87604000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 95323000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

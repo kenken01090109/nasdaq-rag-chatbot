@@ -1,0 +1,9 @@
+Company: Bilibili Inc. American Depositary Shares
+Ticker: BILI
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: China
+City: Shanghai
+Website: https://www.bilibili.com
+Employees: 
+Business Summary: Bilibili Inc. provides online entertainment services for the young generations in the People's Republic of China. It offers a range of digital content, including professional user generated videos, mobile games, and value-added services, such as live broadcasting, occupationally generated videos, audio drama on Maoer, and comics on Bilibili Comic. The company also provides advertising services; and IP derivatives and other services. In addition, it engages in the business and technology development activities; e-commerce business; and video, comics, and game distribution activities. Bilibili Inc. was founded in 2009 and is headquartered in Shanghai, the People's Republic of China.

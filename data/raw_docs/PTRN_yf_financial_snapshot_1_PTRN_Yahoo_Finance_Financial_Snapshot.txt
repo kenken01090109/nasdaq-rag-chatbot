@@ -1,0 +1,25 @@
+Company: Pattern Group Inc. Series A Common Stock
+Ticker: PTRN
+Market Cap: 2137616384
+Enterprise Value: 1769467136
+Total Revenue: 2293676032
+Revenue Per Share: 24.544
+EBITDA: 38976000
+Gross Margins: 0.43452
+Operating Margins: -0.09408
+Profit Margins: 0.0025
+Free Cashflow: 
+Operating Cashflow: 92373000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 312803008
+Total Debt: 31012000
+Debt To Equity: 5.728
+Current Ratio: 2.574
+Quick Ratio: 1.501
+Trailing PE: 
+Forward PE: 16.667439
+Price To Book: 3.5133379
+Beta: 
+52 Week High: 20.1
+52 Week Low: 8.92

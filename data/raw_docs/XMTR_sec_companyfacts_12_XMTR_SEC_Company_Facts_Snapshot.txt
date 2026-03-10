@@ -1,0 +1,11 @@
+Company: Xometry Inc. Class A Common Stock
+Ticker: XMTR
+CIK: 0001657573
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 494234000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -40512000 | unit=USD | filed=2024-11-05 | period_end=2024-09-30
+Assets: 698877000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 425787000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 271964000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1674000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20845000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

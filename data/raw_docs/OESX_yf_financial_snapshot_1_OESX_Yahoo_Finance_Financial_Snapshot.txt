@@ -1,0 +1,25 @@
+Company: Orion Energy Systems Inc. Common Stock
+Ticker: OESX
+Market Cap: 43851976
+Enterprise Value: 52983664
+Total Revenue: 81452000
+Revenue Per Share: 23.837
+EBITDA: -1172000
+Gross Margins: 0.30012
+Operating Margins: 0.0183
+Profit Margins: -0.05618
+Free Cashflow: -895375
+Operating Cashflow: -292000
+Return On Assets: -0.03959
+Return On Equity: -0.3478
+Total Cash: 4721000
+Total Debt: 12880000
+Debt To Equity: 108.793
+Current Ratio: 1.354
+Quick Ratio: 0.891
+Trailing PE: 
+Forward PE: 11.510638
+Price To Book: 3.2463245
+Beta: 0.648
+52 Week High: 18.64
+52 Week Low: 5.5

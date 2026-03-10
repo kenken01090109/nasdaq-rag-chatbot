@@ -1,0 +1,25 @@
+Company: The Goodyear Tire & Rubber Company Common Stock
+Ticker: GT
+Market Cap: 2146852864
+Enterprise Value: 8852001792
+Total Revenue: 18279999488
+Revenue Per Share: 63.472
+EBITDA: 1246000000
+Gross Margins: 0.18441
+Operating Margins: 0.03539
+Profit Margins: -0.09415
+Free Cashflow: 339500000
+Operating Cashflow: 796000000
+Return On Assets: 0.01153
+Return On Equity: -0.41332
+Total Cash: 801000000
+Total Debt: 7256000000
+Debt To Equity: 213.224
+Current Ratio: 1.064
+Quick Ratio: 0.462
+Trailing PE: 
+Forward PE: 6.2887807
+Price To Book: 0.6640694
+Beta: 1.119
+52 Week High: 12.03
+52 Week Low: 6.51

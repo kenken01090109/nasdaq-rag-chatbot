@@ -1,0 +1,25 @@
+Company: Five Star Bancorp Common Stock
+Ticker: FSBC
+Market Cap: 807163520
+Enterprise Value: 386125536
+Total Revenue: 148740000
+Revenue Per Share: 7.008
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.5787
+Profit Margins: 0.41419
+Free Cashflow: 
+Operating Cashflow: 72612000
+Return On Assets: 0.013990001
+Return On Equity: 0.14625
+Total Cash: 506951008
+Total Debt: 85913000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.020689
+Forward PE: 9.603255
+Price To Book: 1.8097291
+Beta: 0.51
+52 Week High: 42.26
+52 Week Low: 22.22

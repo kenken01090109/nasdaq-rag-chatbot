@@ -1,0 +1,25 @@
+Company: Taylor Devices Inc. Common Stock
+Ticker: TAYD
+Market Cap: 260100704
+Enterprise Value: 232946608
+Total Revenue: 47647808
+Revenue Per Share: 15.164
+EBITDA: 12056150
+Gross Margins: 0.46144
+Operating Margins: 0.19212
+Profit Margins: 0.20753999
+Free Cashflow: 9890860
+Operating Cashflow: 17187820
+Return On Assets: 0.094440006
+Return On Equity: 0.16098
+Total Cash: 40743952
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 10.017
+Quick Ratio: 8.36
+Trailing PE: 27.405315
+Forward PE: 17.366316
+Price To Book: 3.878597
+Beta: 0.948
+52 Week High: 90.37
+52 Week Low: 29.5

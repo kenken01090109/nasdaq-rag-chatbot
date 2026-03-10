@@ -1,0 +1,12 @@
+Company: IREN Limited Ordinary Shares
+Ticker: IREN
+CIK: 0001878848
+Latest SEC XBRL Facts:
+Revenues: 501023000 | unit=USD | filed=2025-08-28 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 424987000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 229204000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 7027577000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 4516384000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 2511193000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 214004000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3260589000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

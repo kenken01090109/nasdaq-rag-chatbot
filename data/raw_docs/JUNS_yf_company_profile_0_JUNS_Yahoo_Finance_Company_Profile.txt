@@ -1,0 +1,9 @@
+Company: Jupiter Neurosciences Inc. Common Stock
+Ticker: JUNS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Jupiter
+Website: https://jupiterneurosciences.com
+Employees: 4
+Business Summary: Jupiter Neurosciences, Inc., a clinical stage research and development pharmaceutical company, develops resveratrol platform products for the treatment of neuroinflammation. The company develops JNS101, which is in Phase II trial for the treatment of Friedreich's Ataxia, a rare inherited disease that causes damage to the nervous system, as well as mobility dysfunctions; and JNS108 that is in Phase II trial for treating mild cognitive impairment/early Alzheimer's disease. It is also involved in the development of JNS102, which is in Phase II trial for the treatment of mucopolysaccharidosis type 1; and JNS107 that is in Phase II trial for treating mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes syndrome. In addition, the company develops JNS115, which is in Phase IIa trial for the treatment of Parkinson's disease. It has a strategic partnership with Zina Biopharmaceuticals, LLC to advance Phase 2a clinical trial to evaluate the safety, tolerability, and pharmacokinetics of Resveratrol (JOTROLTM) in individuals with Parkinson's disease; and with Aquanova AG to develop a series of consumer-focused nutritional products targeting longevity, aging, and healthspan. The company was formerly known as Jupiter Orphan Therapeutics, Inc. and changed its name to Jupiter Neurosciences, Inc. in August 2021. Jupiter Neurosciences, Inc. was incorporated in 2016 and is headquartered in Jupiter, Florida.

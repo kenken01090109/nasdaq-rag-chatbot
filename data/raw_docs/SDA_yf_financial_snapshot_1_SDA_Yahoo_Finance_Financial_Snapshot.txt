@@ -1,0 +1,25 @@
+Company: SunCar Technology Group Inc. Class A Ordinary Shares
+Ticker: SDA
+Market Cap: 236078544
+Enterprise Value: 293777600
+Total Revenue: 467272000
+Revenue Per Share: 4.619
+EBITDA: 6618000
+Gross Margins: 0.10727999
+Operating Margins: 0.025050001
+Profit Margins: -0.024400001
+Free Cashflow: 2367125
+Operating Cashflow: -413000
+Return On Assets: 0.0040599997
+Return On Equity: -0.08545
+Total Cash: 45347000
+Total Debt: 87709000
+Debt To Equity: 98.805
+Current Ratio: 1.276
+Quick Ratio: 0.715
+Trailing PE: 
+Forward PE: 19.166666
+Price To Book: 8.041958
+Beta: 0.05
+52 Week High: 5.093
+52 Week Low: 1.54

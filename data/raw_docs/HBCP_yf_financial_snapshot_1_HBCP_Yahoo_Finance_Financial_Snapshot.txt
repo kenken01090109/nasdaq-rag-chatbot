@@ -1,0 +1,25 @@
+Company: Home Bancorp Inc. Common Stock
+Ticker: HBCP
+Market Cap: 459151584
+Enterprise Value: 385504640
+Total Revenue: 148656000
+Revenue Per Share: 19.124
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.40514
+Profit Margins: 0.30986
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01328
+Return On Equity: 0.11083
+Total Cash: 141604992
+Total Debt: 57699000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.988075
+Forward PE: 9.559245
+Price To Book: 1.0552936
+Beta: 0.566
+52 Week High: 64.17
+52 Week Low: 39.59

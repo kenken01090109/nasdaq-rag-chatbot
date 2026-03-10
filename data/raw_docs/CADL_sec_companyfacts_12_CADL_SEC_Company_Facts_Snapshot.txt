@@ -1,0 +1,11 @@
+Company: Candel Therapeutics Inc. Common Stock
+Ticker: CADL
+CIK: 0001841387
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 94000 | unit=USD | filed=2023-11-09 | period_end=2022-09-30
+NetIncomeLoss: -8686000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 93598000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 13474000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 80124000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -27743000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 86963000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

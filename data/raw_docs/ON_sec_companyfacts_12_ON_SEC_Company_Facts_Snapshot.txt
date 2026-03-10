@@ -1,0 +1,12 @@
+Company: ON Semiconductor Corporation Common Stock
+Ticker: ON
+CIK: 0001097864
+Latest SEC XBRL Facts:
+Revenues: 1446300000 | unit=USD | filed=2021-02-16 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 4465300000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03
+NetIncomeLoss: -60800000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03
+Assets: 13010200000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03
+Liabilities: 5084100000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03
+StockholdersEquity: 7905400000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03
+NetCashProvidedByUsedInOperatingActivities: 1205300000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 2472500000 | unit=USD | filed=2025-11-03 | period_end=2025-10-03

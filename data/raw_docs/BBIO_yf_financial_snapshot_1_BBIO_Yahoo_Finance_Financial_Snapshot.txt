@@ -1,0 +1,25 @@
+Company: BridgeBio Pharma Inc. Common Stock
+Ticker: BBIO
+Market Cap: 12670876672
+Enterprise Value: 14112925696
+Total Revenue: 502076000
+Revenue Per Share: 2.621
+EBITDA: -496630016
+Gross Margins: 0.95825
+Operating Margins: -0.833
+Profit Margins: -1.44387
+Free Cashflow: -325290624
+Operating Cashflow: -445910016
+Return On Assets: -0.33825
+Return On Equity: 
+Total Cash: 587481984
+Total Debt: 1862472960
+Debt To Equity: 
+Current Ratio: 2.77
+Quick Ratio: 2.524
+Trailing PE: 
+Forward PE: 3268.0
+Price To Book: -6.100999
+Beta: 1.18
+52 Week High: 84.94
+52 Week Low: 28.325

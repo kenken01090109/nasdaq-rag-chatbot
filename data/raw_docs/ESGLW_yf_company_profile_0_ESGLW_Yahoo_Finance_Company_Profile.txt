@@ -1,0 +1,9 @@
+Company: ESGL Holdings Limited Warrants
+Ticker: ESGLW
+Sector: 
+Industry: 
+Country: Singapore
+City: Singapore
+Website: https://esgl.asia
+Employees: 79
+Business Summary: ESGL Holdings Limited, through its subsidiary, Environmental Solutions (Asia) Pte. Ltd., operates as a waste management, treatment, and recycling company. It engages in the collection and recycling of hazardous and non-hazardous industrial waste from pharmaceutical, semiconductor, petrochemical, and electroplating companies. The company was founded in 1999 and is headquartered in Singapore.

@@ -1,0 +1,25 @@
+Company: Fermi Inc. Common Stock
+Ticker: FRMI
+Market Cap: 4918343680
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 21.66446
+Price To Book: 15.228137
+Beta: 
+52 Week High: 36.99
+52 Week Low: 7.18

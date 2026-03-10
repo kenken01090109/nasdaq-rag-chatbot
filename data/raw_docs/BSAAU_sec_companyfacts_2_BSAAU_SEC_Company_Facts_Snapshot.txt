@@ -1,0 +1,8 @@
+Company: BEST SPAC I Acquisition Corp. Unit
+Ticker: BSAAU
+CIK: 0002051587
+Latest SEC XBRL Facts:
+NetIncomeLoss: 193905 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 57232448 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3275155 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -514134 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

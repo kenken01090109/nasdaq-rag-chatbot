@@ -1,0 +1,11 @@
+Company: MEDIROM Healthcare Technologies Inc. American Depositary Share
+Ticker: MRM
+CIK: 0001819704
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3243371000 | unit=JPY | filed=2025-10-21 | period_end=2025-06-30
+NetIncomeLoss: -690471000 | unit=JPY | filed=2025-10-21 | period_end=2025-06-30
+Assets: 7995808000 | unit=JPY | filed=2025-10-21 | period_end=2025-06-30
+Liabilities: 7497637000 | unit=JPY | filed=2025-10-21 | period_end=2025-06-30
+StockholdersEquity: 242797000 | unit=JPY | filed=2025-10-21 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -351912000 | unit=JPY | filed=2025-10-21 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2093000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31

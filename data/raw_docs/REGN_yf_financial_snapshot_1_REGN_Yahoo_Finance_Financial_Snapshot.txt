@@ -1,0 +1,25 @@
+Company: Regeneron Pharmaceuticals Inc. Common Stock
+Ticker: REGN
+Market Cap: 80332251136
+Enterprise Value: 72864464896
+Total Revenue: 14342899712
+Revenue Per Share: 137.121
+EBITDA: 4245700096
+Gross Margins: 0.44566002
+Operating Margins: 0.23134
+Profit Margins: 0.31409
+Free Cashflow: 3258374912
+Operating Cashflow: 4978899968
+Return On Assets: 0.05909
+Return On Equity: 0.14864999
+Total Cash: 8605200384
+Total Debt: 2972699904
+Debt To Equity: 9.511
+Current Ratio: 4.126
+Quick Ratio: 3.284
+Trailing PE: 18.327545
+Forward PE: 14.407207
+Price To Book: 2.4942226
+Beta: 0.397
+52 Week High: 821.11
+52 Week Low: 476.49

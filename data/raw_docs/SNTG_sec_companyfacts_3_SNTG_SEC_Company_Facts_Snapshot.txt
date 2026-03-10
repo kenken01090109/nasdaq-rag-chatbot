@@ -1,0 +1,11 @@
+Company: Sentage Holdings Inc. Class A Ordinary Shares
+Ticker: SNTG
+CIK: 0001810467
+Latest SEC XBRL Facts:
+Revenues: 161372 | unit=USD | filed=2023-05-01 | period_end=2022-12-31
+NetIncomeLoss: -2004831 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Assets: 11680419 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Liabilities: 1453917 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+StockholdersEquity: 10226502 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1748375 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1258001 | unit=USD | filed=2025-05-14 | period_end=2024-12-31

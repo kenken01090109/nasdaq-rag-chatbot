@@ -1,0 +1,10 @@
+Company: Artius II Acquisition Inc. Units
+Ticker: AACBU
+Market Cap: 265092736
+Enterprise Value: 291275840
+Trailing PE: 
+Forward PE: 
+Price To Book: -23.4
+Beta: 
+52 Week High: 12.15
+52 Week Low: 10.02

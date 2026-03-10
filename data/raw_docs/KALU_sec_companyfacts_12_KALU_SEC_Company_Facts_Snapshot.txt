@@ -1,0 +1,12 @@
+Company: Kaiser Aluminum Corporation Common Stock
+Ticker: KALU
+CIK: 0000811596
+Latest SEC XBRL Facts:
+Revenues: 900700000 | unit=USD | filed=2020-10-26 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2444000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 84300000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 2592100000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 1786000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 806100000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 132000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17200000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

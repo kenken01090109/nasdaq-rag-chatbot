@@ -1,0 +1,11 @@
+Company: YXT.COM GROUP HOLDING LIMITED American Depository Shares
+Ticker: YXT
+CIK: 0001872090
+Latest SEC XBRL Facts:
+Revenues: 45373000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+NetIncomeLoss: -12570000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+Assets: 112605000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+Liabilities: 81474000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+StockholdersEquity: 31131000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -29007000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 57255000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31

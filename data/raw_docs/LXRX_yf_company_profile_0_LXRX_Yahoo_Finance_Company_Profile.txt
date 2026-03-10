@@ -1,0 +1,9 @@
+Company: Lexicon Pharmaceuticals Inc. Common Stock
+Ticker: LXRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: The Woodlands
+Website: https://www.lexpharma.com
+Employees: 103
+Business Summary: Lexicon Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the discovery, development, and commercialization of pharmaceutical products for the treatment of human disease. The company offers Sotagliflozin, an orally-delivered small molecule drug to reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visits in adults with heart failure or type 2 diabetes mellitus, chronic kidney disease or CKD, and other cardiovascular risk factors. Its orally-delivered small molecule drug candidates under development include sotagliflozin for the treatment of hypertrophic cardiomyopathy or HCM and type 1 diabetes that is in Phase 3 clinical trial; LX9211, which has completed Phase II clinical trials for the treatment of neuropathic pain; and LX9851 for the treatment of obesity and associated cardiometabolic disorders, as well as for weight management. Lexicon Pharmaceuticals, Inc. has strategic collaboration and license agreements with Viatris Inc. and Bristol-Myers Squibb Company. The company was incorporated in 1995 and is headquartered in The Woodlands, Texas.

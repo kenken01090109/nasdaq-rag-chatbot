@@ -1,0 +1,11 @@
+Company: Brighthouse Financial Inc. Depositary Shares 6.6% Non-Cumulative Preferred Stock Series A
+Ticker: BHFAP
+CIK: 0001685040
+Latest SEC XBRL Facts:
+Revenues: 5077000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 296000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 244679000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 238251000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 6363000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 262000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4793000000 | unit=USD | filed=2022-11-08 | period_end=2022-09-30

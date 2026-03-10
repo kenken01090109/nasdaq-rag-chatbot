@@ -1,0 +1,25 @@
+Company: Wintrust Financial Corporation Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred StocK
+Ticker: WTFCN
+Market Cap: 
+Enterprise Value: 3132879616
+Total Revenue: 2628171008
+Revenue Per Share: 39.287
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46548
+Profit Margins: 0.31347
+Free Cashflow: 
+Operating Cashflow: 910348032
+Return On Assets: 0.01211
+Return On Equity: 0.12113
+Total Cash: 3828157952
+Total Debt: 4747987968
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.25952134
+Beta: 0.856
+52 Week High: 27.31
+52 Week Low: 24.9

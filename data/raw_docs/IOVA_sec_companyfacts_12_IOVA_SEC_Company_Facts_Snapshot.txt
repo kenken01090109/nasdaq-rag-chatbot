@@ -1,0 +1,12 @@
+Company: Iovance Biotherapeutics Inc. Common Stock
+Ticker: IOVA
+CIK: 0001425205
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2019-05-07 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 176731000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -319074000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 904948000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 202661000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 702287000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -249843000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 158134000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Anfield Energy Inc. Common Shares
+Ticker: AEC
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: -12377804
+Profit Margins: 0.0
+Free Cashflow: -9708357
+Operating Cashflow: -15053080
+Return On Assets: -0.10604999
+Return On Equity: -0.30734

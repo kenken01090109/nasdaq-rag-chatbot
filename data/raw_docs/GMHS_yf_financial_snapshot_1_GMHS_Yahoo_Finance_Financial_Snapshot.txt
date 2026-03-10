@@ -1,0 +1,25 @@
+Company: Gamehaus Holdings Inc. Class A Ordinary Shares
+Ticker: GMHS
+Market Cap: 52781892
+Enterprise Value: 57722664
+Total Revenue: 115786288
+Revenue Per Share: 2.208
+EBITDA: 4111293
+Gross Margins: 0.5241
+Operating Margins: 0.036059998
+Profit Margins: 0.03723
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.11853
+Total Cash: 18199820
+Total Debt: 361315
+Debt To Equity: 1.03
+Current Ratio: 3.152
+Quick Ratio: 2.114
+Trailing PE: 12.316251
+Forward PE: 
+Price To Book: 2.1189246
+Beta: 0.176
+52 Week High: 2.66
+52 Week Low: 0.862

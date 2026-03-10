@@ -1,0 +1,8 @@
+Company: Almonty Industries Inc. Common Shares
+Ticker: ALM
+Total Cash: 111588000
+Total Debt: 197263008
+Debt To Equity: 115.128
+Current Ratio: 2.378
+Quick Ratio: 2.158
+Book Value: 0.5584317

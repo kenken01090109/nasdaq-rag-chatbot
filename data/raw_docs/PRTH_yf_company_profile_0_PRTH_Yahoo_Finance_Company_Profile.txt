@@ -1,0 +1,9 @@
+Company: Priority Technology Holdings Inc. Common Stock
+Ticker: PRTH
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Alpharetta
+Website: https://prioritycommerce.com
+Employees: 1005
+Business Summary: Priority Technology Holdings, Inc. operates as a payment technology company in the United States. The company operates through three segments: Small and Medium-Sized Businesses (SMB) Payments, Business-To-Business (B2B) Payments, and Enterprise Payments. The company offers SMB payments solutions, such as full-service acquiring and payment-enabled solutions for B2C transactions, leveraging proprietary software platform, distributed through independent sales organizations, direct sales, and vertically focused independent software vendors channels. It also offers MX product suite, which includes MX Connect and MX Merchant products, which provides flexible and customizable set of business applications that helps to manage critical business work functions and revenue performance using core payment processing. In addition, the company offers CPX, a platform that offers accounts payable automation solutions, including virtual card, purchase card, ACH +, dynamic discounting, or check. Further, it provides market-leading accounts payable automation solutions to corporations, software partners and financial institutions, including Citibank, Visa, and Mastercard. Additionally, the company offers embedded finance and BaaS solutions to customers to modernize legacy platforms and accelerate software partners' strategies to monetize payments. It serves SMB and enterprises, as well as distribution partners, including retail and wholesale independent sales organizations, financial institutions, and independent software vendors and value-added resellers. The company was founded in 2005 and is headquartered in Alpharetta, Georgia.

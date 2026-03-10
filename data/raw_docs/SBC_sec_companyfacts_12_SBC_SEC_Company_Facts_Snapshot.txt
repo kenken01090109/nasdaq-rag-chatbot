@@ -1,0 +1,11 @@
+Company: SBC Medical Group Holdings Incorporated Common Stock
+Ticker: SBC
+CIK: 0001930313
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 134040783 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 36785322 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 321363085 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 73303884 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 247988292 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -27295426 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 127431318 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

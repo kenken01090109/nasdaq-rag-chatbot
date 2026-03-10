@@ -1,0 +1,9 @@
+Company: Monster Beverage Corporation
+Ticker: MNST
+CIK: 0000865752
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6163290000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 9611273000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 7745160000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1718762000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2292939000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

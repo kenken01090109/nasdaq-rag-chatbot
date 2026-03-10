@@ -1,0 +1,25 @@
+Company: Manhattan Associates Inc. Common Stock
+Ticker: MANH
+Market Cap: 9186369536
+Enterprise Value: 8557040640
+Total Revenue: 1081392000
+Revenue Per Share: 17.882
+EBITDA: 289054016
+Gross Margins: 0.56321
+Operating Margins: 0.15827
+Profit Margins: 0.20339
+Free Cashflow: 312002624
+Operating Cashflow: 389470016
+Return On Assets: 0.22131
+Return On Equity: 0.71656996
+Total Cash: 263706000
+Total Debt: 23157000
+Debt To Equity: 9.239
+Current Ratio: 1.279
+Quick Ratio: 1.207
+Trailing PE: 42.34722
+Forward PE: 26.111696
+Price To Book: 28.982887
+Beta: 1.069
+52 Week High: 247.22
+52 Week Low: 127.86

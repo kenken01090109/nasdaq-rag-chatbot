@@ -1,0 +1,10 @@
+Company: Perpetua Resources Corp. Common Shares
+Ticker: PPTA
+CIK: 0001526243
+Latest SEC XBRL Facts:
+NetIncomeLoss: -39987052 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 544886946 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12892091 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 531994855 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -44301731 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 445834284 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

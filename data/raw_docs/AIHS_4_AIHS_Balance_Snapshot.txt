@@ -1,0 +1,8 @@
+Company: Senmiao Technology Limited Common Stock
+Ticker: AIHS
+Total Cash: 3508226
+Total Debt: 199504
+Debt To Equity: 5.257
+Current Ratio: 2.237
+Quick Ratio: 1.909
+Book Value: 0.087

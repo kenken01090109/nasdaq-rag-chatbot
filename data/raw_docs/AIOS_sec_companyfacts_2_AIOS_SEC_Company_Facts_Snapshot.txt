@@ -1,0 +1,11 @@
+Company: AIOS Tech Inc. Class A Common Shares
+Ticker: AIOS
+CIK: 0001603993
+Latest SEC XBRL Facts:
+Revenues: 192536893 | unit=USD | filed=2024-10-15 | period_end=2024-06-30
+NetIncomeLoss: 10303530 | unit=USD | filed=2024-10-15 | period_end=2024-06-30
+Assets: 268833505 | unit=USD | filed=2024-10-15 | period_end=2024-06-30
+Liabilities: 60006260 | unit=USD | filed=2024-10-15 | period_end=2024-06-30
+StockholdersEquity: 204549961 | unit=USD | filed=2024-10-15 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -69348251 | unit=USD | filed=2024-10-15 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 47864037 | unit=USD | filed=2024-10-15 | period_end=2024-06-30

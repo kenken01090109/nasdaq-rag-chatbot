@@ -1,0 +1,10 @@
+Company: AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock
+Ticker: AGNCL
+Market Cap: 
+Enterprise Value: 98023022592
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.6774333
+Beta: 1.351
+52 Week High: 26.59
+52 Week Low: 22.84

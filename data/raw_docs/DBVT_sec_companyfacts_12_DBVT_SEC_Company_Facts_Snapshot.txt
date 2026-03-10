@@ -1,0 +1,11 @@
+Company: DBV Technologies S.A. American Depositary Shares
+Ticker: DBVT
+CIK: 0001613780
+Latest SEC XBRL Facts:
+Revenues: 4991000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -102118000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 110495000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 57641000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 52854000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -86008000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 69837000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

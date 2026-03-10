@@ -1,0 +1,9 @@
+Company: Parke Bancorp Inc. Common Stock
+Ticker: PKBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Washington Township
+Website: https://www.parkebank.com
+Employees: 
+Business Summary: Parke Bancorp, Inc. operates as the bank holding company for Parke Bank that provides personal and business financial services to individuals and small to mid-sized businesses. The company accepts various deposit products, including checking, savings, money market, time, and other traditional deposit services, as well as individual retirement accounts and certificates of deposit. Its loan portfolio consists of residential, commercial real estate, construction, commercial and industry, and consumer loans. The company also offers debit cards, internet banking, and online bill payment services. Parke Bancorp, Inc. was founded in 1999 and is headquartered in Washington Township, New Jersey.

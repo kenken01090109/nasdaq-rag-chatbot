@@ -1,0 +1,12 @@
+Company: Mammoth Energy Services Inc. Common Stock
+Ticker: TUSK
+CIK: 0001679268
+Latest SEC XBRL Facts:
+Revenues: 44292000 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 46802000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -4304000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 336753000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 87510000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 249243000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9083000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 98167000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

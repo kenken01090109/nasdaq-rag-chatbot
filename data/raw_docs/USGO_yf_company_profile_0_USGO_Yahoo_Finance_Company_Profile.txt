@@ -1,0 +1,9 @@
+Company: U.S. GoldMining Inc. Common stock
+Ticker: USGO
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Vancouver
+Website: https://www.usgoldmining.us
+Employees: 6
+Business Summary: U.S. GoldMining Inc., an exploration stage company, engages in the exploration and development of mineral properties in the United States. The company's primary asset is the 100%-owned Whistler exploration property, a gold-copper exploration project comprising 377 mining claims covering an area of 217.5 square kilometers located in Yentna Mining District, Alaska. The company was incorporated in 2015 and is based in Vancouver, Canada. U.S. GoldMining Inc. operates as a subsidiary of GoldMining Inc.

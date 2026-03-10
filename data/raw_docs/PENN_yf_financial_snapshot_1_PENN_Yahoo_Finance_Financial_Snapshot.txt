@@ -1,0 +1,25 @@
+Company: PENN Entertainment Inc. Common Stock
+Ticker: PENN
+Market Cap: 2137509120
+Enterprise Value: 12541140992
+Total Revenue: 6960999936
+Revenue Per Share: 48.14
+EBITDA: 722200000
+Gross Margins: 0.33793998
+Operating Margins: 0.04911
+Profit Margins: -0.121120006
+Free Cashflow: -293762496
+Operating Cashflow: 508200000
+Return On Assets: 0.01165
+Return On Equity: -0.36078
+Total Cash: 686600000
+Total Debt: 11272200192
+Debt To Equity: 616.81
+Current Ratio: 0.79
+Quick Ratio: 0.633
+Trailing PE: 
+Forward PE: 8.473007
+Price To Book: 1.0077786
+Beta: 1.364
+52 Week High: 20.61
+52 Week Low: 11.65

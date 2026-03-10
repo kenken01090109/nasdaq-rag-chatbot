@@ -1,0 +1,11 @@
+Company: Sharplink Inc. Common Stock
+Ticker: SBET
+CIK: 0001981535
+Latest SEC XBRL Facts:
+Revenues: 12282589 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1439022 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetIncomeLoss: -127423 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 3072974028 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4572266 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3068401762 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8409724 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

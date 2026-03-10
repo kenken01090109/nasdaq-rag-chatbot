@@ -1,0 +1,25 @@
+Company: Altimmune Inc. Common Stock
+Ticker: ALT
+Market Cap: 443319584
+Enterprise Value: 250294320
+Total Revenue: 20000
+Revenue Per Share: 0.0
+EBITDA: -90343000
+Gross Margins: 0.0
+Operating Margins: -4171.8
+Profit Margins: 0.0
+Free Cashflow: -37671376
+Operating Cashflow: -66352000
+Return On Assets: -0.30868998
+Return On Equity: -0.52615
+Total Cash: 210776000
+Total Debt: 15905000
+Debt To Equity: 8.569
+Current Ratio: 17.183
+Quick Ratio: 16.831
+Trailing PE: 
+Forward PE: -2.6645188
+Price To Book: 1.8238021
+Beta: 0.17
+52 Week High: 7.73
+52 Week Low: 2.9

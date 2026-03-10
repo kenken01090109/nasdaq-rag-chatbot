@@ -1,0 +1,25 @@
+Company: AleAnna Inc. Class A Common Stock
+Ticker: ANNA
+Market Cap: 166298912
+Enterprise Value: 160107728
+Total Revenue: 16671580
+Revenue Per Share: 0.243
+EBITDA: 2360443
+Gross Margins: 0.78407997
+Operating Margins: 0.51035
+Profit Margins: -0.47059
+Free Cashflow: -7705214
+Operating Cashflow: -3566102
+Return On Assets: 0.0076
+Return On Equity: -0.11531
+Total Cash: 31198846
+Total Debt: 1830552
+Debt To Equity: 3.138
+Current Ratio: 2.001
+Quick Ratio: 1.833
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.728324
+Beta: -0.015
+52 Week High: 18.3
+52 Week Low: 2.31

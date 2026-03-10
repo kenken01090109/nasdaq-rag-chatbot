@@ -1,0 +1,12 @@
+Company: ACNB Corporation Common Stock
+Ticker: ACNB
+Total Revenue: 146684000
+Revenue Per Share: 14.298
+Gross Margins: 0.0
+Operating Margins: 0.41877997
+EBITDA: 
+Profit Margins: 0.25259
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01318
+Return On Equity: 0.102460004

@@ -1,0 +1,9 @@
+Company: Vuzix Corporation Common Stock
+Ticker: VUZI
+Sector: Technology
+Industry: Consumer Electronics
+Country: United States
+City: West Henrietta
+Website: https://www.vuzix.com
+Employees: 76
+Business Summary: Vuzix Corporation designs, manufactures, and markets artificial intelligence (AI)-powered smart glasses, waveguides, and augmented reality (AR) technologies in North America, Europe, the Asia Pacific, and internationally. The company offers smart glasses that include M Series, Vuzix Blade, Vuzix Shield, and Vuzix Z100; Mobilium logistics mobility software solution, which supports smart glasses, mobile phones, and industry standard smart barcode data collection terminals; waveguide optics; and display engines. It also provides engineering services and original design manufacturers (ODM)/original equipment manufacturers (OEM) component solutions. The company sells its products through direct sales, value-added resellers, distributors, ODM and OEM partnerships, and online stores, as well as various Vuzix operated web stores in the United States, Europe, and Japan. It serves the enterprise, industrial, medical, defense, security, and consumer markets. The company was formerly known as Icuiti Corporation and changed its name to Vuzix Corporation in September 2007. Vuzix Corporation was incorporated in 1997 and is headquartered in West Henrietta, New York.

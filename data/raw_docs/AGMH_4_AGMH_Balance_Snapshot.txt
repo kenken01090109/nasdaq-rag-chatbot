@@ -1,0 +1,8 @@
+Company: AGM Group Holdings Inc. Class A Ordinary Shares
+Ticker: AGMH
+Total Cash: 6492701
+Total Debt: 2173365
+Debt To Equity: 6.078
+Current Ratio: 1.935
+Quick Ratio: 1.323
+Book Value: 18.112

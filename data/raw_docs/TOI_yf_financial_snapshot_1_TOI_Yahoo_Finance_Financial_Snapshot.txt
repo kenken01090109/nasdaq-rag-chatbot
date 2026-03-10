@@ -1,0 +1,25 @@
+Company: The Oncology Institute Inc. Common Stock
+Ticker: TOI
+Market Cap: 273500128
+Enterprise Value: 356352832
+Total Revenue: 461039008
+Revenue Per Share: 5.366
+EBITDA: -34086000
+Gross Margins: 0.14816
+Operating Margins: -0.05898
+Profit Margins: -0.14376001
+Free Cashflow: -10884625
+Operating Cashflow: -23634000
+Return On Assets: -0.14989
+Return On Equity: -41.3217
+Total Cash: 27658000
+Total Debt: 103624000
+Debt To Equity: 
+Current Ratio: 1.679
+Quick Ratio: 1.336
+Trailing PE: 
+Forward PE: -17.375
+Price To Book: -22.063492
+Beta: 0.21
+52 Week High: 4.88
+52 Week Low: 0.603

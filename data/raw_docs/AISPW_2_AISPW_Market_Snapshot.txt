@@ -1,0 +1,10 @@
+Company: Airship AI Holdings Inc. Warrants
+Ticker: AISPW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -4.7115383
+Beta: 0.369
+52 Week High: 1.0
+52 Week Low: 0.89

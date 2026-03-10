@@ -1,0 +1,10 @@
+Company: AN2 Therapeutics Inc. Common Stock
+Ticker: ANTX
+CIK: 0001880438
+Latest SEC XBRL Facts:
+NetIncomeLoss: -26500000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 67235000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 6858000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 60377000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24598000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18003000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

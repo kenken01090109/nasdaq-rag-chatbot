@@ -1,0 +1,11 @@
+Company: Western Digital Corporation Common Stock
+Ticker: WDC
+CIK: 0000106040
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5835000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+NetIncomeLoss: 3024000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+Assets: 15611000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+Liabilities: 8271000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+StockholdersEquity: 7111000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: 1417000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 1975000000 | unit=USD | filed=2026-01-30 | period_end=2026-01-02

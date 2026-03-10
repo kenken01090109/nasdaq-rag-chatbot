@@ -1,0 +1,25 @@
+Company: Quanterix Corporation Common Stock
+Ticker: QTRX
+Market Cap: 236356624
+Enterprise Value: 168258272
+Total Revenue: 138896992
+Revenue Per Share: 3.258
+EBITDA: -71927000
+Gross Margins: 0.46768
+Operating Margins: -0.48194999
+Profit Margins: -0.77142996
+Free Cashflow: -7033875
+Operating Cashflow: -77236000
+Return On Assets: -0.13112001
+Return On Equity: -0.34245998
+Total Cash: 118232000
+Total Debt: 37239000
+Debt To Equity: 12.592
+Current Ratio: 2.839
+Quick Ratio: 1.982
+Trailing PE: 
+Forward PE: -2.6492147
+Price To Book: 0.7997471
+Beta: 1.121
+52 Week High: 8.77
+52 Week Low: 4.05

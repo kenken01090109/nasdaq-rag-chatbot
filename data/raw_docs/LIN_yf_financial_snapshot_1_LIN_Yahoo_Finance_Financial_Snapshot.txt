@@ -1,0 +1,25 @@
+Company: Linde plc Ordinary Shares
+Ticker: LIN
+Market Cap: 224625672192
+Enterprise Value: 251599945728
+Total Revenue: 33986000896
+Revenue Per Share: 72.389
+EBITDA: 13342999552
+Gross Margins: 0.48835
+Operating Margins: 0.28172
+Profit Margins: 0.20297001
+Free Cashflow: 4786500096
+Operating Cashflow: 10350000128
+Return On Assets: 0.07172
+Return On Equity: 0.17817
+Total Cash: 5056000000
+Total Debt: 28068999168
+Debt To Equity: 70.63
+Current Ratio: 0.877
+Quick Ratio: 0.692
+Trailing PE: 33.201366
+Forward PE: 24.879768
+Price To Book: 5.8769894
+Beta: 0.797
+52 Week High: 510.65
+52 Week Low: 387.78

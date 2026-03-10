@@ -1,0 +1,12 @@
+Company: Acrivon Therapeutics Inc. Common Stock
+Ticker: ACRV
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: -87654000
+Profit Margins: 0.0
+Free Cashflow: -40886000
+Operating Cashflow: -65788000
+Return On Assets: -0.30888
+Return On Equity: -0.50232

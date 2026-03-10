@@ -1,0 +1,11 @@
+Company: HireQuest Inc. Common Stock (DE)
+Ticker: HQI
+CIK: 0001140102
+Latest SEC XBRL Facts:
+Revenues: 23608000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 4727000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 94942000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 27115000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 67827000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5446000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7478045 | unit=USD | filed=2019-05-13 | period_end=2019-03-29

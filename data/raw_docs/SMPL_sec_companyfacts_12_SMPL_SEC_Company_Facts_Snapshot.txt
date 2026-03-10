@@ -1,0 +1,12 @@
+Company: The Simply Good Foods Company Common Stock
+Ticker: SMPL
+CIK: 0001702744
+Latest SEC XBRL Facts:
+Revenues: 222286000 | unit=USD | filed=2021-06-30 | period_end=2020-08-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 340198000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+NetIncomeLoss: 25269000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+Assets: 2450627000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+Liabilities: 716511000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+StockholdersEquity: 1734116000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+NetCashProvidedByUsedInOperatingActivities: 50094000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+CashAndCashEquivalentsAtCarryingValue: 194051000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29

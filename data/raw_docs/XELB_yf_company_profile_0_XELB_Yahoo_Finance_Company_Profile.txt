@@ -1,0 +1,9 @@
+Company: Xcel Brands Inc. Common Stock
+Ticker: XELB
+Sector: Consumer Cyclical
+Industry: Apparel Manufacturing
+Country: United States
+City: New York
+Website: https://www.xcelbrands.com
+Employees: 21
+Business Summary: Xcel Brands, Inc., together with its subsidiaries, operates as a media and consumer products company in the United States. The company engages in designing, licensing, marketing, live streaming, and social commerce sales of apparel, footwear, accessories, jewellery, home goods, and other consumer products. Its brand portfolio includes Halston, Judith Ripka, C Wonder, TowerHill by Christie Brinkley, LB70 by Lloyd Boston, Longaberger, and Isaac Mizrahi brands, as well as TWRHLL, Trust Respect Love, and Gemma Stafford brands. The company promotes and sells its products through interactive television, digital live-stream shopping, social commerce, traditional brick-and-mortar retailers, and e-commerce channels. Xcel Brands, Inc. was founded in 2011 and is based in New York, New York.

@@ -1,0 +1,9 @@
+Company: Greenidge Generation Holdings Inc. Class A Common Stock
+Ticker: GREE
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Dresden
+Website: https://greenidge.com
+Employees: 35
+Business Summary: Greenidge Generation Holdings Inc. operates as an integrated cryptocurrency datacenter and power generation company. The company owns and operates cryptocurrency datacenter in New York, as well as hosts, powers, and provides technical support and other related services to bitcoin mining equipment owned by customers. As of March 6, 2025, the company had 119MW of active self-mining, hosting and power generation across sites in New York, Mississippi, and North Dakota. Greenidge Generation Holdings Inc. was founded in 1937 and is based in Dresden, New York.

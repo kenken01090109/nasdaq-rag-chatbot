@@ -1,0 +1,25 @@
+Company: First Internet Bancorp Common Stock
+Ticker: INBK
+Market Cap: 175688992
+Enterprise Value: 73491536
+Total Revenue: 44158000
+Revenue Per Share: 5.058
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.23777
+Profit Margins: -0.79640996
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.00622
+Return On Equity: -0.094560005
+Total Cash: 456776992
+Total Debt: 354964992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 4.2596307
+Price To Book: 0.48727483
+Beta: 0.822
+52 Week High: 30.0
+52 Week Low: 17.05

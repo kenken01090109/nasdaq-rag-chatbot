@@ -1,0 +1,11 @@
+Company: Capricor Therapeutics Inc. Common Stock
+Ticker: CAPR
+CIK: 0001133869
+Latest SEC XBRL Facts:
+Revenues: 11139956 | unit=USD | filed=2025-11-10 | period_end=2024-09-30
+NetIncomeLoss: -74873032 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 126438207 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 42570952 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 83867255 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -46244518 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19510383 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

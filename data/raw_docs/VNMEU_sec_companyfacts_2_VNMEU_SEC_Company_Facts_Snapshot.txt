@@ -1,0 +1,8 @@
+Company: Vendome Acquisition Corporation I Unit
+Ticker: VNMEU
+CIK: 0002055879
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1820558 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 202785616 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 319078 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -631817 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

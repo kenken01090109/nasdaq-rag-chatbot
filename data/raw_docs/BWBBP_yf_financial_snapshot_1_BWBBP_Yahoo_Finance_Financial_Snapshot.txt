@@ -1,0 +1,25 @@
+Company: Bridgewater Bancshares Inc. Depositary Shares Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: BWBBP
+Market Cap: 
+Enterprise Value: 1001315264
+Total Revenue: 137303008
+Revenue Per Share: 4.985
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.48544
+Profit Margins: 0.33567002
+Free Cashflow: 
+Operating Cashflow: 27812000
+Return On Assets: 0.0088
+Return On Equity: 0.09454001
+Total Cash: 158412000
+Total Debt: 519479008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.21795
+Forward PE: 
+Price To Book: 1.2704085
+Beta: 0.617
+52 Week High: 22.48
+52 Week Low: 18.1

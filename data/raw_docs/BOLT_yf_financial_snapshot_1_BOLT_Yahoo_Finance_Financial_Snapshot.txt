@@ -1,0 +1,25 @@
+Company: Bolt Biotherapeutics Inc. Common Stock
+Ticker: BOLT
+Market Cap: 8253601
+Enterprise Value: 28568
+Total Revenue: 5195000
+Revenue Per Share: 2.71
+EBITDA: -43235000
+Gross Margins: 0.0
+Operating Margins: -3.55141
+Profit Margins: 0.0
+Free Cashflow: -31962624
+Operating Cashflow: -47124000
+Return On Assets: -0.32039002
+Return On Equity: -0.81975
+Total Cash: 31910000
+Total Debt: 23589000
+Debt To Equity: 73.484
+Current Ratio: 3.573
+Quick Ratio: 3.297
+Trailing PE: 
+Forward PE: -0.21245061
+Price To Book: 0.2571155
+Beta: 0.868
+52 Week High: 9.66
+52 Week Low: 4.26

@@ -1,0 +1,25 @@
+Company: TWFG Inc. Class A Common Stock
+Ticker: TWFG
+Market Cap: 312671712
+Enterprise Value: 390119584
+Total Revenue: 247082000
+Revenue Per Share: 16.567
+EBITDA: 51634996
+Gross Margins: 0.84768
+Operating Margins: 0.19510001
+Profit Margins: 0.03105
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.06401
+Return On Equity: 0.1349
+Total Cash: 155926000
+Total Debt: 16399000
+Debt To Equity: 5.201
+Current Ratio: 5.095
+Quick Ratio: 4.531
+Trailing PE: 40.79412
+Forward PE: 19.538881
+Price To Book: 3.7628868
+Beta: 
+52 Week High: 36.85
+52 Week Low: 16.56

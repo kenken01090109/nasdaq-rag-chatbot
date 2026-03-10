@@ -1,0 +1,25 @@
+Company: Unity Bancorp Inc. Common Stock
+Ticker: UNTY
+Market Cap: 512814880
+Enterprise Value: 577027648
+Total Revenue: 127871000
+Revenue Per Share: 12.745
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.6056
+Profit Margins: 0.45319998
+Free Cashflow: 
+Operating Cashflow: 44906000
+Return On Assets: 0.02062
+Return On Equity: 0.18075001
+Total Cash: 216414000
+Total Debt: 271084992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.008819
+Forward PE: 7.8283525
+Price To Book: 1.4751495
+Beta: 0.65
+52 Week High: 57.3
+52 Week Low: 36.65

@@ -1,0 +1,11 @@
+Company: Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock
+Ticker: GOODN
+CIK: 0001234006
+Latest SEC XBRL Facts:
+Revenues: 117875000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 13904000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 1265003000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 910004000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 184826000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72430000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18400000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

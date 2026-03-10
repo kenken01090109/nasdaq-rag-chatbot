@@ -1,0 +1,9 @@
+Company: OMS Energy Technologies Inc. Ordinary Shares
+Ticker: OMSE
+Sector: Energy
+Industry: Oil & Gas Equipment & Services
+Country: Singapore
+City: Singapore
+Website: https://www.omsos.com
+Employees: 589
+Business Summary: OMS Energy Technologies Inc., through its subsidiaries, manufactures and sells specialty connectors and pipes, surface wellhead and Christmas trees, premium threading services, and other ancillary services in Saudi Arabia, Singapore, Malaysia, Thailand, Indonesia and internationally. The company offers specialty connecters, pipe connectors, joints, Christmas tree products, tubes, extensions, and related accessories for use in drilling for oil exploration projects; and threading, inspection, and tubular running services. It also provides machine shop service for tools and equipment; sells tubular accessories; and manufactures and repairs drilling tools, drilling tubular tools, and drilling accessories. OMS Energy Technologies Inc. was founded in 1972 and is headquartered in Singapore.

@@ -1,0 +1,12 @@
+Company: Cartesian Therapeutics Inc. Common Stock
+Ticker: RNAC
+CIK: 0001453687
+Latest SEC XBRL Facts:
+Revenues: 1850000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -37726000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 372675000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 408519000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -35844000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -56229000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 143384000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

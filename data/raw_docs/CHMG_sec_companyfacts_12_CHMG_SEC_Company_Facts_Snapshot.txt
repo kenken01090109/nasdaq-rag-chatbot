@@ -1,0 +1,10 @@
+Company: Chemung Financial Corp Common Stock
+Ticker: CHMG
+CIK: 0000763563
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7363000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2696634000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2451326000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 245308000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 29166000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 107646000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

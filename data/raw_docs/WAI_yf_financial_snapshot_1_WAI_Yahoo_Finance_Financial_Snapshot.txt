@@ -1,0 +1,25 @@
+Company: Top KingWin Ltd Class A Ordinary Shares
+Ticker: WAI
+Market Cap: 5326726
+Enterprise Value: 1677831
+Total Revenue: 5816249
+Revenue Per Share: 23.057
+EBITDA: -3112643
+Gross Margins: 0.23206
+Operating Margins: -0.79877
+Profit Margins: -1.40671
+Free Cashflow: -38200212
+Operating Cashflow: -38340936
+Return On Assets: -0.08007
+Return On Equity: -0.36146
+Total Cash: 2220700
+Total Debt: 2836925
+Debt To Equity: 7.692
+Current Ratio: 7.864
+Quick Ratio: 0.764
+Trailing PE: 0.03585286
+Forward PE: 
+Price To Book: 0.028785763
+Beta: 2.292
+52 Week High: 150.625
+52 Week Low: 1.85

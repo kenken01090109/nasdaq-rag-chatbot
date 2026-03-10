@@ -1,0 +1,25 @@
+Company: BRC Group Holdings Inc. Depositary Shares each representing 1/1000th in a share of 7.375% Series B Cumulative Perpetual Preferred Stock par value $0.0001
+Ticker: RILYL
+Market Cap: 
+Enterprise Value: 1344839680
+Total Revenue: 850342016
+Revenue Per Share: 27.852
+EBITDA: 
+Gross Margins: -0.13774
+Operating Margins: 0.18219
+Profit Margins: 0.2628
+Free Cashflow: 
+Operating Cashflow: -88675000
+Return On Assets: -0.04738
+Return On Equity: 
+Total Cash: 606467968
+Total Debt: 1577468032
+Debt To Equity: 
+Current Ratio: 3.334
+Quick Ratio: 3.053
+Trailing PE: 1.8830196
+Forward PE: 
+Price To Book: -1.3273817
+Beta: 1.303
+52 Week High: 14.799
+52 Week Low: 1.77

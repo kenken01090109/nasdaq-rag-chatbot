@@ -1,0 +1,9 @@
+Company: OceanPal Inc. Common Stock
+Ticker: SVRN
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Athens
+Website: https://www.oceanpal.com
+Employees: 
+Business Summary: OceanPal Inc. provides ocean-going transportation services worldwide. It owns and operates dry bulk carriers that transport major bulks, such as iron ore, coal, and grains, as well as minor bulks, including steel products, cement, and fertilizers. As of December 31, 2023, the company's fleet consists of three Panamax dry bulk carriers with a total cargo carrying capacity of approximately 223,546 dwt; and one MR2 product tanker vessel with a carrying capacity of 49,999 dwt. OceanPal Inc. was incorporated in 2021 and is based in Athens, Greece.

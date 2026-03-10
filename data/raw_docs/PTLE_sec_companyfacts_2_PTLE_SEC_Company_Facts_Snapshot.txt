@@ -1,0 +1,10 @@
+Company: PTL LTD Class A Ordinary Shares
+Ticker: PTLE
+CIK: 0002016337
+Latest SEC XBRL Facts:
+Revenues: 43555675 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+NetIncomeLoss: 1209506 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+Assets: 12751874 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+Liabilities: 4330416 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+StockholdersEquity: 8421458 | unit=USD | filed=2025-11-03 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -8249616 | unit=USD | filed=2025-11-03 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Lipocine Inc. Common Stock
+Ticker: LPCN
+Market Cap: 45137200
+Enterprise Value: 30496444
+Total Revenue: 4322693
+Revenue Per Share: 0.806
+EBITDA: -6248727
+Gross Margins: 1.0
+Operating Margins: -29.3351
+Profit Margins: -1.26663
+Free Cashflow: -3376607
+Operating Cashflow: -5139287
+Return On Assets: -0.21450001
+Return On Equity: -0.32924998
+Total Cash: 15131071
+Total Debt: 157200
+Debt To Equity: 1.112
+Current Ratio: 8.249
+Quick Ratio: 7.895
+Trailing PE: 
+Forward PE: -6.556452
+Price To Book: 3.1161366
+Beta: 1.015
+52 Week High: 12.37
+52 Week Low: 2.52

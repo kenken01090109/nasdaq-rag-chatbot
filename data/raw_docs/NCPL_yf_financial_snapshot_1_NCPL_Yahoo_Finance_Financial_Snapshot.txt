@@ -1,0 +1,25 @@
+Company: Netcapital Inc. Common Stock
+Ticker: NCPL
+Market Cap: 3845471
+Enterprise Value: 3860830
+Total Revenue: 797839
+Revenue Per Share: 0.271
+EBITDA: -9014554
+Gross Margins: 0.97540003
+Operating Margins: -41.66979
+Profit Margins: 0.0
+Free Cashflow: -5539278
+Operating Cashflow: -8680685
+Return On Assets: -0.16790001
+Return On Equity: -0.99671996
+Total Cash: 1684188
+Total Debt: 2420124
+Debt To Equity: 11.29
+Current Ratio: 0.572
+Quick Ratio: 0.487
+Trailing PE: 
+Forward PE: -0.41525427
+Price To Book: 0.1124111
+Beta: 0.683
+52 Week High: 8.75
+52 Week Low: 0.371

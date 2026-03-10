@@ -1,0 +1,12 @@
+Company: Strive Inc. Variable Rate Series A Perpetual Preferred Stock
+Ticker: SATA
+CIK: 0001920406
+Latest SEC XBRL Facts:
+Revenues: 344008 | unit=USD | filed=2025-08-05 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 255000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -192287000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 792576000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 13147000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 779429000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13955000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 109069000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,4 @@
+Company: SMX (Security Matters) Public Limited Company Ordinary Shares
+Ticker: SMX
+CIK: 0001940674
+Latest SEC XBRL Facts:

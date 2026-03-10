@@ -1,0 +1,9 @@
+Company: Pinnacle Food Group Limited Class A Common Shares
+Ticker: PFAI
+Sector: Consumer Defensive
+Industry: Farm Products
+Country: Canada
+City: Vancouver
+Website: https://www.pinnaclefoodinc.com
+Employees: 7
+Business Summary: Pinnacle Food Group Limited provides smart farming solutions for vertical and hydroponic farming. The company manufactures and sells hydroponic growing systems, which includes sensors, growing trays, racks for growing trays, growing baskets, light panels, and water tanks; and consumables, such as agricultural seeds, grow sponges, plastic planting baskets, and nutrient solutions, as well as technical and consultation support services to individual households, community groups and urban farms. It also provides advisory, agricultural data intelligence, controllable data applications that assist users to manage growing conditions, environmental design consulting, equipment installation, and agricultural technical supports. It sells its products through distributors in Canada and New Zealand. Pinnacle Food Group Limited was founded in 2015 and is based in Vancouver, Canada.

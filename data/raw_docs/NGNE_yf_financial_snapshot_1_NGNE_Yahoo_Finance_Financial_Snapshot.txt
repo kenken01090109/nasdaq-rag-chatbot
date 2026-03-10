@@ -1,0 +1,25 @@
+Company: Neurogene Inc. Common Stock
+Ticker: NGNE
+Market Cap: 343408864
+Enterprise Value: 87587272
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -94208000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -47322124
+Operating Cashflow: -77240000
+Return On Assets: -0.26914
+Return On Equity: -0.42253
+Total Cash: 265410000
+Total Debt: 10208000
+Debt To Equity: 3.844
+Current Ratio: 18.39
+Quick Ratio: 18.101
+Trailing PE: 
+Forward PE: -4.4855843
+Price To Book: 1.2335856
+Beta: 1.688
+52 Week High: 37.266
+52 Week Low: 6.875

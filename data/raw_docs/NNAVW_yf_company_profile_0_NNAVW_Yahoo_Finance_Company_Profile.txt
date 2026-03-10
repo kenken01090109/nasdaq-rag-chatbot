@@ -1,0 +1,9 @@
+Company: NextNav Inc. Warrant
+Ticker: NNAVW
+Sector: 
+Industry: 
+Country: United States
+City: Reston
+Website: https://www.nextnav.com
+Employees: 96
+Business Summary: NextNav Inc. provides positioning, navigation, and timing (PNT) solutions in the United States. The company offers Pinnacle, an accurate altitude service for public safety applications, including enhanced 911 for Verizon and national cellular network providers. It also provides TerraPoiNT, a 3D PNT system, provides positioning, navigation, and timing services provided by GPS through a land-based GPS satellite constellation. The company serves Wi-Fi, telecom, public safety, location apps, and critical infrastructure industries. NextNav Inc. was founded in 2007 and is headquartered in Reston, Virginia.

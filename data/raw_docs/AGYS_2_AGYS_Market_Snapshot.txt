@@ -1,0 +1,10 @@
+Company: Agilysys Inc. Common Stock (DE)
+Ticker: AGYS
+Market Cap: 2241632768
+Enterprise Value: 2174395904
+Trailing PE: 74.53271
+Forward PE: 36.678642
+Price To Book: 7.137104
+Beta: 0.422
+52 Week High: 145.25
+52 Week Low: 63.71

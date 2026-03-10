@@ -1,0 +1,12 @@
+Company: MaxLinear Inc. Common Stock
+Ticker: MXL
+CIK: 0001288469
+Latest SEC XBRL Facts:
+Revenues: 829666000 | unit=USD | filed=2022-10-25 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 331205000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: -121784000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 808133000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 343406000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 464727000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9213000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 111859000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

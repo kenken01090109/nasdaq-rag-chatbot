@@ -1,0 +1,9 @@
+Company: Strive Inc. Variable Rate Series A Perpetual Preferred Stock
+Ticker: SATA
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Dallas
+Website: https://www.strive.com
+Employees: 
+Business Summary: Strive Asset Management, LLC is a privately owned investment manager. It primarily provides its services to investment companies. The firm is a large advisory firm, an investment adviser to an investment company which provides portfolio management for investment companies. The firm invests in exchange traded funds. The firm conducts in-house research to make its investments. Strive Asset Management, LLC was founded in 2022 and is based in Dallas, Texas.

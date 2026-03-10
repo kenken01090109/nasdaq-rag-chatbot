@@ -1,0 +1,10 @@
+Company: CalciMedica Inc. Common Stock
+Ticker: CALC
+CIK: 0001534133
+Latest SEC XBRL Facts:
+NetIncomeLoss: -18802000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 14913000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 15181000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -268000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16326000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5470000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

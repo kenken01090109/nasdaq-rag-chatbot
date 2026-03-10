@@ -1,0 +1,25 @@
+Company: Modular Medical Inc. Common Stock
+Ticker: MODD
+Market Cap: 15463005
+Enterprise Value: 13185413
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -25298000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -15671375
+Operating Cashflow: -22248000
+Return On Assets: -1.4980701
+Return On Equity: -3.31772
+Total Cash: 2937000
+Total Debt: 504000
+Debt To Equity: 8.57
+Current Ratio: 1.591
+Quick Ratio: 1.348
+Trailing PE: 
+Forward PE: -0.39019608
+Price To Book: 2.618421
+Beta: -0.138
+52 Week High: 1.29
+52 Week Low: 0.118

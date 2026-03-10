@@ -1,0 +1,8 @@
+Company: Applied Optoelectronics Inc. Common Stock
+Ticker: AAOI
+Total Cash: 206140000
+Total Debt: 248082000
+Debt To Equity: 33.802
+Current Ratio: 2.626
+Quick Ratio: 1.751
+Book Value: 9.786

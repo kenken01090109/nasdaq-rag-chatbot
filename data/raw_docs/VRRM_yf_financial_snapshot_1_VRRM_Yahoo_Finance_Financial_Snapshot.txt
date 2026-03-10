@@ -1,0 +1,25 @@
+Company: Verra Mobility Corporation Class A Common Stock
+Ticker: VRRM
+Market Cap: 2628026368
+Enterprise Value: 3495220224
+Total Revenue: 979078976
+Revenue Per Share: 6.158
+EBITDA: 361846016
+Gross Margins: 0.58432996
+Operating Margins: 0.20312001
+Profit Margins: 0.13955
+Free Cashflow: 82944496
+Operating Cashflow: 255802000
+Return On Assets: 0.095
+Return On Equity: 0.48965
+Total Cash: 68385000
+Total Debt: 1066132992
+Debt To Equity: 363.918
+Current Ratio: 2.095
+Quick Ratio: 1.772
+Trailing PE: 19.376469
+Forward PE: 10.57817
+Price To Book: 8.632075
+Beta: 0.62
+52 Week High: 25.83
+52 Week Low: 15.58

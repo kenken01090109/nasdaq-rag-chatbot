@@ -1,0 +1,9 @@
+Company: BJ's Restaurants Inc. Common Stock
+Ticker: BJRI
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Huntington Beach
+Website: https://www.bjsrestaurants.com
+Employees: 22230
+Business Summary: BJ's Restaurants, Inc. operates full-service restaurants in the United States. Its restaurants offer pizzas, crafts and other beers, appetizers, entrées, wings, pastas, sandwiches, specialty salads, and Pizookie desserts. The company was formerly known as Chicago Pizza & Brewery, Inc. and changed its name to BJ's Restaurants, Inc. in August 2004. BJ's Restaurants, Inc. was founded in 1978 and is based in Huntington Beach, California.

@@ -1,0 +1,11 @@
+Company: AlTi Global Inc. Class A Common Stock
+Ticker: ALTI
+CIK: 0001838615
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 166701000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -106587000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1154424000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 270590000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 607186000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -50118000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 35847000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

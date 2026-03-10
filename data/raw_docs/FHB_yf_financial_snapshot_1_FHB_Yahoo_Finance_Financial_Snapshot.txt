@@ -1,0 +1,25 @@
+Company: First Hawaiian Inc. Common Stock
+Ticker: FHB
+Market Cap: 3028655360
+Enterprise Value: 1582876032
+Total Revenue: 853587968
+Revenue Per Share: 6.84
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.43206
+Profit Margins: 0.32365
+Free Cashflow: 
+Operating Cashflow: 335070016
+Return On Assets: 0.0115600005
+Return On Equity: 0.10257
+Total Cash: 1499273984
+Total Debt: 78717000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.127273
+Forward PE: 10.337271
+Price To Book: 1.0845295
+Beta: 0.716
+52 Week High: 28.35
+52 Week Low: 20.32

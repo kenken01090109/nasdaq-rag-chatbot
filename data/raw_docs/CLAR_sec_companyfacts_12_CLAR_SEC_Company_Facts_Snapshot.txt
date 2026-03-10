@@ -1,0 +1,12 @@
+Company: Clarus Corporation Common Stock
+Ticker: CLAR
+CIK: 0000913277
+Latest SEC XBRL Facts:
+Revenues: 2764000 | unit=USD | filed=2015-08-10 | period_end=2015-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 185027000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -15295000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 283070000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 57265000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 225805000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17234000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29508000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

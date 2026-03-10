@@ -1,0 +1,11 @@
+Company: Silence Therapeutics Plc American Depository Share
+Ticker: SLN
+CIK: 0001479615
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 525000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -76842000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 146790000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 72727000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 74063000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -44984000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 82031000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

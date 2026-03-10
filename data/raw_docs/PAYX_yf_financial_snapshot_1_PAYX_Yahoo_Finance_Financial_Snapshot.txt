@@ -1,0 +1,25 @@
+Company: Paychex Inc. Common Stock
+Ticker: PAYX
+Market Cap: 36201869312
+Enterprise Value: 38828916736
+Total Revenue: 6033900032
+Revenue Per Share: 16.761
+EBITDA: 2867399936
+Gross Margins: 0.73362
+Operating Margins: 0.41667
+Profit Margins: 0.26446
+Free Cashflow: 2057250048
+Operating Cashflow: 2223099904
+Return On Assets: 0.116359994
+Return On Equity: 0.40884998
+Total Cash: 1523200000
+Total Debt: 5036899840
+Debt To Equity: 129.814
+Current Ratio: 1.265
+Quick Ratio: 0.505
+Trailing PE: 22.816742
+Forward PE: 17.066145
+Price To Book: 9.330188
+Beta: 0.889
+52 Week High: 161.24
+52 Week Low: 86.89

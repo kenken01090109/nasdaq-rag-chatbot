@@ -1,0 +1,25 @@
+Company: Oxford Lane Capital Corp. 7.95% Notes due 2032
+Ticker: OXLCG
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 356735392
+Revenue Per Share: 1.058
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.72256
+Profit Margins: 0.51986
+Free Cashflow: 224887376
+Operating Cashflow: -285270016
+Return On Assets: 0.08803
+Return On Equity: 0.14243001
+Total Cash: 206491232
+Total Debt: 522298208
+Debt To Equity: 32.529
+Current Ratio: 2.307
+Quick Ratio: 2.306
+Trailing PE: 
+Forward PE: 
+Price To Book: 5.267801
+Beta: 0.824
+52 Week High: 25.6
+52 Week Low: 24.06

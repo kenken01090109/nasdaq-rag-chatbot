@@ -1,0 +1,9 @@
+Company: Decoy Therapeutics Inc. Common Stock
+Ticker: DCOY
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://decoytx.com
+Employees: 2
+Business Summary: Decoy Therapeutics Inc. focuses on advancing the peptide conjugate therapeutics through its Immediate Peptide/PPMO/P-PROTAC Alpha-helical Conjugate Technology (IMP3ACT) platform that reduces the complexity of drug development and manufacturing. Its IMP3ACT platform leverages machine learning and artificial intelligence tools alongside synthesis techniques to engineer, optimize, and manufacture peptide conjugates targeting various unmet medical needs. The company focuses on building a portfolio of peptide conjugate therapeutics focusing on infectious diseases and oncology. The company was formerly known as Salarius Pharmaceuticals, Inc. and change its name to Decoy Therapeutics Inc. in January 2026. Decoy Therapeutics Inc. is based in Cambridge, Massachusetts.

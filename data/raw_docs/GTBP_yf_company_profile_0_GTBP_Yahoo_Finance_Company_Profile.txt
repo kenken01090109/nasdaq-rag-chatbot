@@ -1,0 +1,9 @@
+Company: GT Biopharma Inc. Common Stock
+Ticker: GTBP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Francisco
+Website: https://www.gtbiopharma.com
+Employees: 1
+Business Summary: GT Biopharma, Inc., a clinical stage biopharmaceutical company, engages in the development and commercialization of immuno-oncology products based on its proprietary Tri-specific Killer Engager (TriKE) and Tetra-specific Killer Engager (Dual Targeting TriKE) fusion protein immune cell engager technology platforms. It develops GTB-3650, which is in preclinical studies that target CD33 on the surface of myeloid leukemias and an agonistic camelid; GTB-5550 that targets B7-H3 on the surface of advanced solid tumors; and GTB-7550, a product candidate in development for the treatment of lupus and other autoimmune disorders. The company was formerly known as OXIS International, Inc. and changed its name to GT Biopharma, Inc. in July 2017. GT Biopharma, Inc. was incorporated in 1965 and is based in San Francisco, California.

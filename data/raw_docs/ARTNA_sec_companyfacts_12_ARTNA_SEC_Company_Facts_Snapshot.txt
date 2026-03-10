@@ -1,0 +1,10 @@
+Company: Artesian Resources Corporation Class A Common Stock
+Ticker: ARTNA
+CIK: 0000863110
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 84926000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 18687000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 833908000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 248843000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 29881000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 705000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

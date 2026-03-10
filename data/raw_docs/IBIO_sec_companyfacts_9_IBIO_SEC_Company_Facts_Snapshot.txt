@@ -1,0 +1,12 @@
+Company: iBio Inc. Common Stock
+Ticker: IBIO
+CIK: 0001420720
+Latest SEC XBRL Facts:
+Revenues: 50000 | unit=USD | filed=2024-05-13 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 100000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetIncomeLoss: -14713000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Assets: 64393000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Liabilities: 7833000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: 56560000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -10906000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 28672000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31

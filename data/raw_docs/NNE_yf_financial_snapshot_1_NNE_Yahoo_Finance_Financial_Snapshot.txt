@@ -1,0 +1,25 @@
+Company: Nano Nuclear Energy Inc. Common Stock
+Ticker: NNE
+Market Cap: 1226038400
+Enterprise Value: 754779584
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -53352960
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -28768392
+Operating Cashflow: -20369276
+Return On Assets: -0.09102
+Return On Equity: -0.119160004
+Total Cash: 579663616
+Total Debt: 2686166
+Debt To Equity: 0.448
+Current Ratio: 134.064
+Quick Ratio: 133.829
+Trailing PE: 
+Forward PE: -21.080534
+Price To Book: 1.9858277
+Beta: 
+52 Week High: 60.87
+52 Week Low: 17.26

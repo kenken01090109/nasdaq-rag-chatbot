@@ -1,0 +1,25 @@
+Company: CID HoldCo Inc. Warrants
+Ticker: DAICW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 1246843
+Revenue Per Share: 0.011
+EBITDA: 
+Gross Margins: 0.27943
+Operating Margins: -5.10394
+Profit Margins: 0.0
+Free Cashflow: -3143044
+Operating Cashflow: -8388609
+Return On Assets: -1.3302901
+Return On Equity: 
+Total Cash: 1418834
+Total Debt: 750102
+Debt To Equity: 
+Current Ratio: 0.396
+Quick Ratio: 0.261
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.39473686
+Beta: 0.431
+52 Week High: 0.0339
+52 Week Low: 0.03

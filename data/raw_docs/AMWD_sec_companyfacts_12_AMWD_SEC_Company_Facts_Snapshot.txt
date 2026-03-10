@@ -1,0 +1,11 @@
+Company: American Woodmark Corporation Common Stock
+Ticker: AMWD
+CIK: 0000794619
+Latest SEC XBRL Facts:
+Revenues: 1709585000 | unit=USD | filed=2025-06-25 | period_end=2025-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1121983000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+NetIncomeLoss: -8023000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+Assets: 1505090000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+StockholdersEquity: 901900000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 31123000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 28261000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31

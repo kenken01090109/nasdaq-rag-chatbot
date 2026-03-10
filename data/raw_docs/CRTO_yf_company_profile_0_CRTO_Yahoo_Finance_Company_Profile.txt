@@ -1,0 +1,9 @@
+Company: Criteo S.A. American Depositary Shares
+Ticker: CRTO
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: France
+City: Paris
+Website: https://www.criteo.com
+Employees: 3649
+Business Summary: Criteo S.A., a technology company, provides value to marketers and media owners through Commerce Intelligence Platform in North and South America, Europe, the Middle East, Africa, and the Asia Pacific. It operates in two segments, Retail Media and Performance Media. The company Criteo Shopper Graph, which derives clients proprietary commerce data, such as transaction activity on their digital properties. It also offers Criteo AI Engine solutions, including  model context protocol server, ai agents, commerce foundation model, recommendation, and predictive bidding models, dynamic creative optimization, and sponsored product placement algorithms. The company technology comprises robust infrastructure; and experimentation platform, an offline and online testing platform. In addition, it provides Retail Media, which assists retailers in generating high margin advertising revenues from brands and agencies helping those same advertisers drive product sales on retailer sites and connects brands to shoppers at the digital point of sale through personalized ads that appear on retailer websites and across the open internet; and Performance Media, which encompasses commerce activation, monetization; and targeting capabilities and supply and AdTech services. It serves retail, travel, and marketplaces industries. The company has a strategic alliance with Mirakl SAS to serve the segment of retail media, third-party sellers, and mid-to-long-tail advertisers. Criteo S.A. was incorporated in 2005 and is headquartered in Paris, France.

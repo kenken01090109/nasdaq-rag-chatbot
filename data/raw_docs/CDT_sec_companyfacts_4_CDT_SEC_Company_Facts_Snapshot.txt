@@ -1,0 +1,10 @@
+Company: CDT Equity Inc. Common Stock
+Ticker: CDT
+CIK: 0001896212
+Latest SEC XBRL Facts:
+NetIncomeLoss: -17899000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 8552000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4274000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4278000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10919000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3838000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

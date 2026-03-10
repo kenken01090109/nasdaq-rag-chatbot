@@ -1,0 +1,8 @@
+Company: Arch Capital Group Ltd. Depositary Shares Each Representing 1/1000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares Series F
+Ticker: ACGLO
+Total Cash: 3681999872
+Total Debt: 2884999936
+Debt To Equity: 11.919
+Current Ratio: 1.077
+Quick Ratio: 0.498
+Book Value: 65.371

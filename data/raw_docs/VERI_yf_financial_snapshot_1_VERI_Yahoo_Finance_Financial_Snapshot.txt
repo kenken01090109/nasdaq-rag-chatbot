@@ -1,0 +1,25 @@
+Company: Veritone Inc. Common Stock
+Ticker: VERI
+Market Cap: 273581952
+Enterprise Value: 359771296
+Total Revenue: 98027000
+Revenue Per Share: 1.941
+EBITDA: -52916000
+Gross Margins: 0.67847
+Operating Margins: -0.54269004
+Profit Margins: -0.42603
+Free Cashflow: -68182128
+Operating Cashflow: -41663000
+Return On Assets: -0.18120001
+Return On Equity: 
+Total Cash: 36233000
+Total Debt: 116914000
+Debt To Equity: 729.891
+Current Ratio: 1.31
+Quick Ratio: 1.112
+Trailing PE: 
+Forward PE: -14.565718
+Price To Book: 13.185841
+Beta: 2.29
+52 Week High: 9.42
+52 Week Low: 1.22

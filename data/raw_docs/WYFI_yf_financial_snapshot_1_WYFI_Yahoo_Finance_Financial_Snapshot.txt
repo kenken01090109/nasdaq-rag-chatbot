@@ -1,0 +1,25 @@
+Company: WhiteFiber Inc. Ordinary Shares
+Ticker: WYFI
+Market Cap: 593029824
+Enterprise Value: 467895328
+Total Revenue: 70202032
+Revenue Per Share: 1.835
+EBITDA: -3167455
+Gross Margins: 0.61059
+Operating Margins: -0.71874
+Profit Margins: -0.34467
+Free Cashflow: 
+Operating Cashflow: -25282604
+Return On Assets: 
+Return On Equity: 
+Total Cash: 166490560
+Total Debt: 41356072
+Debt To Equity: 8.597
+Current Ratio: 6.531
+Quick Ratio: 6.036
+Trailing PE: 
+Forward PE: -38.271606
+Price To Book: 1.2328005
+Beta: 
+52 Week High: 40.75
+52 Week Low: 13.91

@@ -1,0 +1,11 @@
+Company: Jewett-Cameron Trading Company Common Shares
+Ticker: JCTC
+CIK: 0000885307
+Latest SEC XBRL Facts:
+Revenues: 8653467 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetIncomeLoss: -3944139 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Assets: 23245598 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Liabilities: 6408759 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+StockholdersEquity: 16836839 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -1321396 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 1036218 | unit=USD | filed=2026-01-14 | period_end=2025-11-30

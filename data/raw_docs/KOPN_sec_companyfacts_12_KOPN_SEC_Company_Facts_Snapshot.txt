@@ -1,0 +1,12 @@
+Company: Kopin Corporation Common Stock
+Ticker: KOPN
+CIK: 0000771266
+Latest SEC XBRL Facts:
+Revenues: 890171 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 30955800 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+NetIncomeLoss: -4199562 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+Assets: 61216466 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+Liabilities: 39893986 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+StockholdersEquity: 21322480 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -7683203 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 26508140 | unit=USD | filed=2025-11-12 | period_end=2025-09-27

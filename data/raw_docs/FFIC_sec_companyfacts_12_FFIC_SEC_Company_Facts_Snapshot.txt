@@ -1,0 +1,10 @@
+Company: Flushing Financial Corporation Common Stock
+Ticker: FFIC
+CIK: 0000923139
+Latest SEC XBRL Facts:
+NetIncomeLoss: 14854000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 8871991000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 8160765000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 711226000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 52190000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 81700000 | unit=USD | filed=2022-03-07 | period_end=2021-12-31

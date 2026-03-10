@@ -1,0 +1,9 @@
+Company: BioAtla Inc. Common Stock
+Ticker: BCAB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.bioatla.com
+Employees: 61
+Business Summary: BioAtla, Inc., a clinical-stage biopharmaceutical company, develops specific and selective antibody-based therapeutics for the treatment of solid tumor cancer. The company's lead clinical stage product candidates include mecbotamab vedotin (BA3011), a conditionally active biologic (CAB) antibody-drug conjugate (ADC) for treating undifferentiated pleomorphic sarcoma and non-small cell lung cancer (NSCLC); and ozuriftabmab vedotin (BA3021), a CAB ADC to treat melanoma and squamous cell carcinoma of head and neck. It is also developing Evalstotug (BA3071), a CAB anti-cytotoxic T-lymphocyte-associated antigen 4 antibody for treating melanoma, renal cell carcinoma, colorectal cancer, and NSCLC; BA3182, a bispecific candidate to treat adenocarcinomas; BA3361, a CAB-Nectin-4-ADC for treating tumors; BA3142, a dual-CAB T-cell engager targeting B7-H3, a protein expressed on various solid tumors; and preclinical candidate for CAB-Nectin 4 x CAB-CD3. The company was founded in 2007 and is headquartered in San Diego, California.

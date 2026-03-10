@@ -1,0 +1,25 @@
+Company: Eupraxia Pharmaceuticals Inc. Common Stock
+Ticker: EPRX
+Market Cap: 467259264
+Enterprise Value: 343479040
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -29603326
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -14725043
+Operating Cashflow: -24797212
+Return On Assets: -0.36209
+Return On Equity: -0.61017
+Total Cash: 88959280
+Total Debt: 170603
+Debt To Equity: 0.193
+Current Ratio: 23.983
+Quick Ratio: 23.379
+Trailing PE: 
+Forward PE: -12.10606
+Price To Book: 6.9297485
+Beta: 1.378
+52 Week High: 9.32
+52 Week Low: 2.68

@@ -1,0 +1,9 @@
+Company: ChoiceOne Financial Services Inc. Common Stock
+Ticker: COFS
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Sparta
+Website: https://www.choiceone.bank
+Employees: 569
+Business Summary: ChoiceOne Financial Services, Inc. operates as the bank holding company for ChoiceOne Bank that provides banking services in Michigan. The company offers time, savings, and demand deposits, safe deposit, and automated transaction machine services. It also provides commercial lending products, such as business, industry, agricultural, construction, inventory, and real estate loans; and consumer loans comprising direct and indirect loans to consumers and purchasers of residential and real properties. In addition, the company offers sells insurance policies, such as life and health for commercial and consumer clients; and alternative investment products, which include annuities and mutual funds through a registered broker, as well as owns intellectual property for a fintech product. Further, it provides trust and wealth management services. ChoiceOne Financial Services, Inc. was founded in 1898 and is headquartered in Sparta, Michigan.

@@ -1,0 +1,25 @@
+Company: Coeptis Therapeutics Holdings Inc. Common Stock
+Ticker: COEP
+Market Cap: 76003704
+Enterprise Value: 65937456
+Total Revenue: 500996
+Revenue Per Share: 0.097
+EBITDA: -12081319
+Gross Margins: 0.7296
+Operating Margins: -10.43218
+Profit Margins: 0.0
+Free Cashflow: -1354271
+Operating Cashflow: -8351664
+Return On Assets: -0.71406996
+Return On Equity: -1.71909
+Total Cash: 5330185
+Total Debt: 279865
+Debt To Equity: 2.564
+Current Ratio: 2.214
+Quick Ratio: 2.002
+Trailing PE: 
+Forward PE: -77.588234
+Price To Book: 6.562189
+Beta: -0.473
+52 Week High: 21.41
+52 Week Low: 6.26

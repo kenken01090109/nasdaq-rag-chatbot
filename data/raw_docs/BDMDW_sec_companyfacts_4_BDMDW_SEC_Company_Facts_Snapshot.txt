@@ -1,0 +1,9 @@
+Company: Baird Medical Investment Holdings Ltd Warrant
+Ticker: BDMDW
+CIK: 0001982444
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7959494 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+Assets: 76990482 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+Liabilities: 41366411 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+StockholdersEquity: 35587963 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3194035 | unit=USD | filed=2025-12-05 | period_end=2025-06-30

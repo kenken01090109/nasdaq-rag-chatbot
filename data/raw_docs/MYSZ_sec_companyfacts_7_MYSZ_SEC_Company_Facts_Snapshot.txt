@@ -1,0 +1,12 @@
+Company: My Size Inc. Common Stock
+Ticker: MYSZ
+CIK: 0001211805
+Latest SEC XBRL Facts:
+Revenues: 515000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6057000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -2845000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 11654000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4358000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 7296000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2806000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4493000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

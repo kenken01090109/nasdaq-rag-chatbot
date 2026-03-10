@@ -1,0 +1,9 @@
+Company: Polaryx Therapeutics Inc. Common Stock
+Ticker: PLYX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Paramus
+Website: https://polaryx.com
+Employees: 11
+Business Summary: Polaryx Therapeutics, Inc., clinical-stage biotechnology company, develops small molecule and gene therapy treatments for lysosomal storage disorders. Its pipeline includes PLX-100, a preclinical stage orally administrable combination therapy; PLX-200, a repurposed oral small molecule for the treatment of LSDs; PLX-300, a preclinical stage orally administrable combination therapy; and PLX-400, a preclinical stage novel gene therapy candidate. The company was founded in 2014 and is based in Paramus, New Jersey.

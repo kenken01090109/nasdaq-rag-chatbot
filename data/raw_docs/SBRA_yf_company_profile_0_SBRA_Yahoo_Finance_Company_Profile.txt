@@ -1,0 +1,9 @@
+Company: Sabra Health Care REIT Inc. Common Stock
+Ticker: SBRA
+Sector: Real Estate
+Industry: REIT - Healthcare Facilities
+Country: United States
+City: Tustin
+Website: https://www.sabrahealth.com
+Employees: 58
+Business Summary: Sabra Health Care REIT, Inc. operates as a self-administered, self-managed real estate investment trust that, through its subsidiaries, owns and invests in real estate serving the healthcare industry throughout the United States and Canada. Sabra Health Care REIT, Inc. is incorporated in Maryland.

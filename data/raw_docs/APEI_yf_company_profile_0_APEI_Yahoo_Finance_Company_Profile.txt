@@ -1,0 +1,9 @@
+Company: American Public Education Inc. Common Stock
+Ticker: APEI
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: United States
+City: Charles Town
+Website: https://www.apei.com
+Employees: 2493
+Business Summary: American Public Education, Inc., together with its subsidiaries, provides online and campus-based postsecondary education and career learning in the United States. It operates through three segments: American Public University System, Rasmussen University, and Hondros College of Nursing. The company offers 182 degree programs and 136 certificate programs in various fields of study, including nursing, national security, military studies, intelligence, homeland security, business, health science, information technology, justice studies, education, and liberal arts; and career learning opportunities in leadership, finance, human resources, and other fields of study critical to the federal government workforce. It also provides nursing-and health sciences-focused postsecondary education, pre-licensure nursing programs, diploma in practical nursing, and an associate degree in nursing. The company was incorporated in 1991 and is headquartered in Charles Town, West Virginia.

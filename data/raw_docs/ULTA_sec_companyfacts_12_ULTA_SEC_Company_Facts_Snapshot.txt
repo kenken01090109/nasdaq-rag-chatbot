@@ -1,0 +1,11 @@
+Company: Ulta Beauty Inc. Common Stock
+Ticker: ULTA
+CIK: 0001403568
+Latest SEC XBRL Facts:
+Revenues: 8494459000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetIncomeLoss: 796802000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Assets: 7012292000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Liabilities: 4379278000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+StockholdersEquity: 2633014000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 322184000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 204921000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01

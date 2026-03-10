@@ -1,0 +1,25 @@
+Company: QuantumScape Corporation Class A Common Stock
+Ticker: QS
+Market Cap: 4098172928
+Enterprise Value: 3339259904
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -407033984
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -134376880
+Operating Cashflow: -242472992
+Return On Assets: -0.22457
+Return On Equity: -0.37394002
+Total Cash: 970806976
+Total Debt: 71000000
+Debt To Equity: 6.074
+Current Ratio: 15.95
+Quick Ratio: 15.774
+Trailing PE: 
+Forward PE: -11.715261
+Price To Book: 3.477131
+Beta: 2.602
+52 Week High: 19.07
+52 Week Low: 3.4

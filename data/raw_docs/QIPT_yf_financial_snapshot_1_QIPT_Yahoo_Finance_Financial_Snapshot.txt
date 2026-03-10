@@ -1,0 +1,25 @@
+Company: Quipt Home Medical Corp. Common Shares
+Ticker: QIPT
+Market Cap: 161852496
+Enterprise Value: 279421152
+Total Revenue: 264974000
+Revenue Per Share: 6.103
+EBITDA: 43577000
+Gross Margins: 0.72378
+Operating Margins: 0.01538
+Profit Margins: -0.04027
+Free Cashflow: 44539624
+Operating Cashflow: 37333000
+Return On Assets: -0.00827
+Return On Equity: -0.093109995
+Total Cash: 10543000
+Total Debt: 115626000
+Debt To Equity: 102.329
+Current Ratio: 1.038
+Quick Ratio: 0.604
+Trailing PE: 
+Forward PE: 182.00002
+Price To Book: 1.5874401
+Beta: 0.495
+52 Week High: 3.65
+52 Week Low: 1.35

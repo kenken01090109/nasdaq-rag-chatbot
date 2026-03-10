@@ -1,0 +1,12 @@
+Company: SIGA Technologies Inc. Common Stock
+Ticker: SIGA
+CIK: 0001010086
+Latest SEC XBRL Facts:
+Revenues: 4264000 | unit=USD | filed=2020-03-05 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 90780818 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 28709061 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 231603076 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 28124200 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 203478876 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 60332261 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 171955584 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Anbio Biotechnology Class A Ordinary Shares
+Ticker: NNNN
+Market Cap: 1004669568
+Enterprise Value: 943399168
+Total Revenue: 6920153
+Revenue Per Share: 0.161
+EBITDA: 
+Gross Margins: 0.89700997
+Operating Margins: 0.73447
+Profit Margins: 0.37197
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0473
+Return On Equity: 0.111999996
+Total Cash: 13428992
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 211.098
+Quick Ratio: 130.754
+Trailing PE: 381.5
+Forward PE: 
+Price To Book: 36.449043
+Beta: 
+52 Week High: 55.65
+52 Week Low: 5.89

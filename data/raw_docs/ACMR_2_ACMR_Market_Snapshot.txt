@@ -1,0 +1,10 @@
+Company: ACM Research Inc. Class A Common Stock
+Ticker: ACMR
+Market Cap: 3175300096
+Enterprise Value: 2779866112
+Trailing PE: 35.262775
+Forward PE: 21.188597
+Price To Book: 2.1645236
+Beta: 1.558
+52 Week High: 71.65
+52 Week Low: 16.82

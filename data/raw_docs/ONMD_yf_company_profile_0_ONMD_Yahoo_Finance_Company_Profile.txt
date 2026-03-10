@@ -1,0 +1,9 @@
+Company: OneMedNet Corp Class A Common Stock
+Ticker: ONMD
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Eden Prairie
+Website: https://www.onemednet.com
+Employees: 22
+Business Summary: OneMedNet Corporation, a healthcare software company, provides digital medical image management, exchange, and sharing solutions in the Americas, Europe, and the Middle East. The company offers iRWD, which provides regulatory grade imaging and clinical data in the pharmaceutical, device manufacturing, contract research organizations, and artificial intelligence markets markets; and BEAM, a medical imaging exchange platform between hospital/healthcare systems, imaging centers, physicians, and patients. OneMedNet Corporation is headquartered in Eden Prairie, Minnesota.

@@ -1,0 +1,25 @@
+Company: NextDecade Corporation Common Stock
+Ticker: NEXT
+Market Cap: 1488183936
+Enterprise Value: 12296484864
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -224146000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4532355584
+Operating Cashflow: -169396992
+Return On Assets: -0.015
+Return On Equity: -0.2124
+Total Cash: 143782000
+Total Debt: 8742962176
+Debt To Equity: 379.949
+Current Ratio: 0.537
+Quick Ratio: 0.108
+Trailing PE: 
+Forward PE: -5.793814
+Price To Book: 15.61111
+Beta: 1.956
+52 Week High: 12.12
+52 Week Low: 4.75

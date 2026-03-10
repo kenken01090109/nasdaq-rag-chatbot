@@ -1,0 +1,9 @@
+Company: QuantumScape Corporation Class A Common Stock
+Ticker: QS
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: San Jose
+Website: https://www.quantumscape.com
+Employees: 700
+Business Summary: QuantumScape Corporation, together with its subsidiaries, develops solid-state lithium-metal battery technology for electric vehicles and other applications in the United States. The company was founded in 2010 and is headquartered in San Jose, California.

@@ -1,0 +1,8 @@
+Company: Black Titan Corporation Ordinary Shares
+Ticker: BTTC
+CIK: 0002034400
+Latest SEC XBRL Facts:
+NetIncomeLoss: -163173 | unit=USD | filed=2025-11-28 | period_end=2025-07-31
+Liabilities: 167120 | unit=USD | filed=2025-11-28 | period_end=2025-07-31
+StockholdersEquity: -167120 | unit=USD | filed=2025-11-28 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: -143173 | unit=USD | filed=2025-11-28 | period_end=2025-07-31

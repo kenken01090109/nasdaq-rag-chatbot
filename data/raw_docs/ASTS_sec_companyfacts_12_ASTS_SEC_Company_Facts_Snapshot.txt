@@ -1,0 +1,12 @@
+Company: AST SpaceMobile Inc. Class A Common Stock
+Ticker: ASTS
+CIK: 0001780312
+Latest SEC XBRL Facts:
+Revenues: 2500000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 13825000 | unit=USD | filed=2025-03-03 | period_end=2024-12-31
+NetIncomeLoss: -267974000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2550902000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 924884000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 5000001 | unit=USD | filed=2021-05-18 | period_end=2021-03-31
+NetCashProvidedByUsedInOperatingActivities: -136486000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1204282000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

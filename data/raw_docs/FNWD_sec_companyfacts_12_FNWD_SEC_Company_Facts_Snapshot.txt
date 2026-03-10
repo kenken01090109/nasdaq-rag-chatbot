@@ -1,0 +1,10 @@
+Company: Finward Bancorp Common Stock
+Ticker: FNWD
+CIK: 0000919864
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6103000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 2052724000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1887229000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 165495000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2160000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42146000 | unit=USD | filed=2020-05-06 | period_end=2020-03-31

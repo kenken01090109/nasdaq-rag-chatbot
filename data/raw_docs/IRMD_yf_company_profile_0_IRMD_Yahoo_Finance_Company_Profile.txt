@@ -1,0 +1,9 @@
+Company: iRadimed Corporation Common Stock
+Ticker: IRMD
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Orlando
+Website: https://www.iradimed.com
+Employees: 
+Business Summary: IRADIMED CORPORATION develops, manufactures, markets, and distributes magnetic resonance imaging (MRI) compatible medical devices and related accessories, and disposables and services in the United States and internationally. The company offers MRidium MRI compatible intravenous (IV) infusion pump system with associated disposable IV tubing sets; MRI compatible patient vital signs monitoring system; and 3600 FMD1 with remote alarm logging unit ferromagnetic detection device. It also provides non-magnetic IV poles, wireless remote displays/controls, side car pump modules, dose error reduction systems, and SpO2 monitoring with sensors and accessories. The company serves hospitals, acute care facilities, and outpatient imaging centers. It sells its products through direct field sales representatives, regional sales directors, clinical application specialists, and independent distributors. The company was incorporated in 1992 and is headquartered in Orlando, Florida.

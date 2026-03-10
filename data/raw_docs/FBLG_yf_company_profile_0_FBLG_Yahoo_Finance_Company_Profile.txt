@@ -1,0 +1,9 @@
+Company: FibroBiologics Inc. Common Stock
+Ticker: FBLG
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Houston
+Website: https://fibrobiologics.com
+Employees: 15
+Business Summary: FibroBiologics, Inc., a clinical-stage biotechnology company, engages in the development and commercialization of fibroblast-based therapies for patients suffering from chronic diseases. The company's product pipeline includes CYWC628 which has completed pre-clinical trial for the treatment of wound healing; CYMS101 which has completed Phase 1 trial for the treatment of multiple sclerosis; CybroCell for the treatment of degenerative disc disease; and CYPS317 for the treatment of psoriasis. It also develops early-stage research products, including CYTER915 to treat the human longevity; and TCB190 for the treatment of certain cancers. FibroBiologics, Inc. was incorporated in 2021 and is headquartered in Houston, Texas.

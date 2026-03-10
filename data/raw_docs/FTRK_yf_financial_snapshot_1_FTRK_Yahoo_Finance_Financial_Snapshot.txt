@@ -1,0 +1,25 @@
+Company: FAST TRACK GROUP Ordinary shares
+Ticker: FTRK
+Market Cap: 13128943
+Enterprise Value: 5543451
+Total Revenue: 1702653
+Revenue Per Share: 0.087
+EBITDA: -1686756
+Gross Margins: 0.27934
+Operating Margins: -1.6674
+Profit Margins: -0.96708
+Free Cashflow: -7095901
+Operating Cashflow: -8411649
+Return On Assets: -0.14048
+Return On Equity: -0.29455
+Total Cash: 6536790
+Total Debt: 2660
+Debt To Equity: 0.022
+Current Ratio: 6.834
+Quick Ratio: 3.291
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.0786737
+Beta: 
+52 Week High: 9.69
+52 Week Low: 0.292

@@ -1,0 +1,10 @@
+Company: Ceragon Networks Ltd. Ordinary Shares
+Ticker: CRNT
+CIK: 0001119769
+Latest SEC XBRL Facts:
+Revenues: 170914000 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+NetIncomeLoss: -2247000 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+Assets: 328385000 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+StockholdersEquity: 171777000 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 13372000 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 29216000 | unit=USD | filed=2025-08-20 | period_end=2025-06-30

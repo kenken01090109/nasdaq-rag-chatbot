@@ -1,0 +1,9 @@
+Company: ZeroStack Corp. Common Stock
+Ticker: ZSTK
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Fort Lauderdale
+Website: https://zerostack.ai
+Employees: 
+Business Summary: ZeroStack Corp. operates as an AI-powered asset management company focused on providing decentralized AI. In addition, it engages in the distribution of pharmaceutical goods and medical cannabis products to treat a range of health indications, including drugs related to cancer therapies, attention-deficit/hyperactivity disorder, multiple sclerosis, and anti-depressants. The company was formerly known as Flora Growth Corp. and changed its name to ZeroStack Corp. in January 2026. The company was incorporated in 2019 and is headquartered in Fort Lauderdale, Florida.

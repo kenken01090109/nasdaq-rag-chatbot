@@ -1,0 +1,9 @@
+Company: Precision Optics Corporation Inc. Common stock
+Ticker: POCI
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Gardner
+Website: https://www.poci.com
+Employees: 90
+Business Summary: Precision Optics Corporation, Inc. designs, develops, manufactures, and sells specialized optical and illumination systems and related components primarily in the United States. The company offers medical instrumentation products, including endoscopes and endocouplers, as well as other custom imaging and illumination products, such as Microprecision lenses and micro medical cameras, and 3D endoscopes for use in minimally invasive surgical procedures by hospitals and physicians. It also provides components and assemblies for industrial and military use. It markets its products to medical device companies. Precision Optics Corporation, Inc. was incorporated in 1982 and is based in Gardner, Massachusetts.

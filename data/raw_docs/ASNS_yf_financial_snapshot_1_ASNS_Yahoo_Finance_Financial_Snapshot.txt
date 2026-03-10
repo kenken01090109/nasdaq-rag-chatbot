@@ -1,0 +1,25 @@
+Company: Actelis Networks Inc. Common Stock
+Ticker: ASNS
+Market Cap: 2585938
+Enterprise Value: 5206
+Total Revenue: 3367000
+Revenue Per Share: 3.663
+EBITDA: -7190000
+Gross Margins: 0.32759
+Operating Margins: -3.11353
+Profit Margins: -2.2393801
+Free Cashflow: -4496250
+Operating Cashflow: -7405000
+Return On Assets: -0.57542
+Return On Equity: -2.6009
+Total Cash: 1454000
+Total Debt: 771000
+Debt To Equity: 26.003
+Current Ratio: 1.701
+Quick Ratio: 0.597
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.18898705
+Beta: 2.247
+52 Week High: 12.9
+52 Week Low: 0.169

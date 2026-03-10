@@ -1,0 +1,4 @@
+Company: Invest Green Acquisition Corporation Class A Ordinary Shares
+Ticker: IGAC
+CIK: 0002075068
+Latest SEC XBRL Facts:

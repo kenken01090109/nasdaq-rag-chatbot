@@ -1,0 +1,25 @@
+Company: EZCORP Inc. Class A Non Voting Common Stock
+Ticker: EZPW
+Market Cap: 1562790656
+Enterprise Value: 1852662144
+Total Revenue: 1336129024
+Revenue Per Share: 22.619
+EBITDA: 201886000
+Gross Margins: 0.58649
+Operating Margins: 0.15888
+Profit Margins: 0.09198
+Free Cashflow: 17160376
+Operating Cashflow: 162140000
+Return On Assets: 0.060560003
+Return On Equity: 0.12974
+Total Cash: 465911008
+Total Debt: 766888000
+Debt To Equity: 71.625
+Current Ratio: 6.027
+Quick Ratio: 2.786
+Trailing PE: 16.133757
+Forward PE: 12.477833
+Price To Book: 1.4595218
+Beta: 0.497
+52 Week High: 27.3
+52 Week Low: 12.85

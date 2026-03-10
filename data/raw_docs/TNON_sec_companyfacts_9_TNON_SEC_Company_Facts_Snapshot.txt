@@ -1,0 +1,11 @@
+Company: Tenon Medical Inc. Common Stock
+Ticker: TNON
+CIK: 0001560293
+Latest SEC XBRL Facts:
+Revenues: 2463000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -9724000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 10366000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5568000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4798000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8521000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3442000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Escalade Incorporated Common Stock
+Ticker: ESCA
+Market Cap: 207056176
+Enterprise Value: 206204576
+Total Revenue: 240158000
+Revenue Per Share: 17.465
+EBITDA: 23790000
+Gross Margins: 0.26918
+Operating Margins: 0.082370006
+Profit Margins: 0.05705
+Free Cashflow: 22480876
+Operating Cashflow: 31014000
+Return On Assets: 0.052199997
+Return On Equity: 0.08007
+Total Cash: 11878000
+Total Debt: 19760000
+Debt To Equity: 11.408
+Current Ratio: 4.284
+Quick Ratio: 1.909
+Trailing PE: 16.304348
+Forward PE: 7.653061
+Price To Book: 1.186052
+Beta: 0.707
+52 Week High: 16.99
+52 Week Low: 11.41

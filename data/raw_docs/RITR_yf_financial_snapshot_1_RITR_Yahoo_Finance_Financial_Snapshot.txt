@@ -1,0 +1,25 @@
+Company: Reitar Logtech Holdings Limited Ordinary shares
+Ticker: RITR
+Market Cap: 50573192
+Enterprise Value: 95614160
+Total Revenue: 378169760
+Revenue Per Share: 6.153
+EBITDA: 12422946
+Gross Margins: 0.15880999
+Operating Margins: -0.10446
+Profit Margins: 0.02081
+Free Cashflow: -75146560
+Operating Cashflow: -62354616
+Return On Assets: 0.02118
+Return On Equity: 0.01911
+Total Cash: 20396352
+Total Debt: 81502776
+Debt To Equity: 51.786
+Current Ratio: 1.581
+Quick Ratio: 1.416
+Trailing PE: 40.495
+Forward PE: 
+Price To Book: 2.4255204
+Beta: 
+52 Week High: 8.37
+52 Week Low: 0.61

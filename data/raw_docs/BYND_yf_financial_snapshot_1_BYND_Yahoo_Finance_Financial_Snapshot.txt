@@ -1,0 +1,25 @@
+Company: Beyond Meat Inc. Common Stock
+Ticker: BYND
+Market Cap: 359590432
+Enterprise Value: 1546883456
+Total Revenue: 290564992
+Revenue Per Share: 3.89
+EBITDA: -128577000
+Gross Margins: 0.09919
+Operating Margins: -0.47224
+Profit Margins: -0.81808996
+Free Cashflow: -87393752
+Operating Cashflow: -127090000
+Return On Assets: -0.14929
+Return On Equity: 
+Total Cash: 117296000
+Total Debt: 1311574016
+Debt To Equity: 
+Current Ratio: 4.535
+Quick Ratio: 2.282
+Trailing PE: 
+Forward PE: -1.6680343
+Price To Book: -0.077603765
+Beta: 2.659
+52 Week High: 7.69
+52 Week Low: 0.5

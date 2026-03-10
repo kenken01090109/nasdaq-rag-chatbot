@@ -1,0 +1,11 @@
+Company: NeoVolta Inc. Warrant
+Ticker: NEOVW
+CIK: 0001748137
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 11295775 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -6782121 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 10113366 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 5110729 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 5002637 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -4578069 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 242434 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

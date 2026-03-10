@@ -1,0 +1,12 @@
+Company: Flux Power Holdings Inc. Common Stock
+Ticker: FLUX
+CIK: 0001083743
+Latest SEC XBRL Facts:
+Revenues: 1919000 | unit=USD | filed=2019-11-12 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 27296000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -1961000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 30112000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 22576000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 7536000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -4274000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1588000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

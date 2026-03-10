@@ -1,0 +1,9 @@
+Company: Princeton Bancorp Inc. Common Stock (PA)
+Ticker: BPRN
+CIK: 0001913971
+Latest SEC XBRL Facts:
+NetIncomeLoss: 12532000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2229090000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1962483000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 266607000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9284000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

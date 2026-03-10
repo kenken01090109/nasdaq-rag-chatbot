@@ -1,0 +1,12 @@
+Company: Nektar Therapeutics  Common Stock
+Ticker: NKTR
+CIK: 0000906709
+Latest SEC XBRL Facts:
+Revenues: 38018000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 33425000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -127997000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 301347000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 216261000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 85086000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -143552000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 41032000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Viewbix Inc. Common Stock
+Ticker: VBIX
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: Israel
+City: Tel Aviv
+Website: https://view-bix.com
+Employees: 21
+Business Summary: Viewbix Inc. operates as a digital advertising platform company in Israel. It operates in two divisions: Ad-Search and Digital Content. The Ad-Search division develops and markets various technological software solutions that automate, optimize, and monetize online campaigns by acquiring and routing internet user traffic to search engines. The Digital Content division creates, edits, and markets content in various languages to various target audiences to generate revenues from advertisements displayed together with the content, which are posted on digital content, marketing, and advertising platforms, as well as to attract internet user traffic for advertisers. The company is based in Tel Aviv, Israel. Viewbix Inc. operates as a subsidiary of Gix Internet Ltd.

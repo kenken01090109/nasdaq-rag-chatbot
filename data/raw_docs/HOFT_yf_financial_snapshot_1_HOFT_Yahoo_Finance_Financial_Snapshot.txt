@@ -1,0 +1,25 @@
+Company: Hooker Furnishings Corporation Common Stock
+Ticker: HOFT
+Market Cap: 144637008
+Enterprise Value: 173864672
+Total Revenue: 375494016
+Revenue Per Share: 35.472
+EBITDA: -804000
+Gross Margins: 0.22896999
+Operating Margins: -0.00211
+Profit Margins: -0.07946
+Free Cashflow: 22490000
+Operating Cashflow: 13037000
+Return On Assets: -0.01845
+Return On Equity: -0.10715
+Total Cash: 1354000
+Total Debt: 30085000
+Debt To Equity: 17.722
+Current Ratio: 2.667
+Quick Ratio: 0.839
+Trailing PE: 
+Forward PE: 15.25
+Price To Book: 0.8399574
+Beta: 1.355
+52 Week High: 15.99
+52 Week Low: 7.34

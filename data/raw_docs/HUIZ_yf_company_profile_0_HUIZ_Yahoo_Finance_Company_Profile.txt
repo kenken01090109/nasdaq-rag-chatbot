@@ -1,0 +1,9 @@
+Company: Huize Holding Limited American Depositary Shares
+Ticker: HUIZ
+Sector: Financial Services
+Industry: Insurance Brokers
+Country: China
+City: Shenzhen
+Website: https://www.huize.com
+Employees: 1034
+Business Summary: Huize Holding Limited, together with its subsidiaries, offers online insurance product and service platform through various internet channels in Mainland China, Hong Kong, and internationally. The company provides life and health insurance products, such as critical illness, illness and disease, annuity, and term and whole life insurance products; and property and casualty insurance products, including travel, individual casualty, and corporate liability insurance products, as well as commercial property insurance and cargo insurance. It also offers offline insurance intermediary and brokerage services. The company also provides digital and technology development services; investment consulting services; and insurance agency services. Huize Holding Limited was founded in 2006 and is headquartered in Shenzhen, China.

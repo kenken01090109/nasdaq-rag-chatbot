@@ -1,0 +1,9 @@
+Company: A2Z Cust2Mate Solutions Corp. Common Shares
+Ticker: AZ
+Sector: Technology
+Industry: Software - Application
+Country: Canada
+City: Vancouver
+Website: https://cust2mate.com
+Employees: 
+Business Summary: A2Z Cust2Mate Solutions Corp., a technology company, focuses on the development and commercialization of retail smart cart solutions for grocery stores and supermarkets in Israel and internationally. The company operates through three segments: Precision Metal Parts, Advanced Engineering, and Smart Carts. It offers Cust2Mate system, which incorporates a smart cart that automatically calculates the value of the customers purchases in their smart cart without having to unload and reload their purchases at a customer checkout point. The company also manufactures and sells precision metal parts; provides retail automation solutions; and develops Fuel Tank Inertia Capsule System technology (FTICS), a vehicle device cover for the military and civilian automotive industry. In addition, it provides maintenance services utilizing the application of advanced engineering capabilities to the military and security markets, as well as develops related products for the civilian and retail markets; container leasing services; and maintenance services for complex electronic systems and products. It serves its products to grocery stores, hardware stores, household essentials, do it yourself (DIY) retailers, discount stores, warehouse stores, convenience stores, drug stores, duty free shops, and similar outlets. A2Z Cust2Mate Solutions Corp. was formerly known as A2Z Smart Technologies Corp. and changed its name to A2Z Cust2Mate Solutions Corp. in August 2024. The company is headquartered in Vancouver, Canada.

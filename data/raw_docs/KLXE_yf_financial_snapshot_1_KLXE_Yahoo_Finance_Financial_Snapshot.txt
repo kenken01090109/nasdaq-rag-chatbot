@@ -1,0 +1,25 @@
+Company: KLX Energy Services Holdings Inc. Common Stock
+Ticker: KLXE
+Market Cap: 44779544
+Enterprise Value: 353035872
+Total Revenue: 645200000
+Revenue Per Share: 35.994
+EBITDA: 63600000
+Gross Margins: 0.21372999
+Operating Margins: -0.018
+Profit Margins: -0.118879996
+Free Cashflow: -12012500
+Operating Cashflow: 21000000
+Return On Assets: -0.04896
+Return On Equity: 
+Total Cash: 8300000
+Total Debt: 314600000
+Debt To Equity: 
+Current Ratio: 1.197
+Quick Ratio: 0.867
+Trailing PE: 
+Forward PE: -0.8044872
+Price To Book: -0.7341328
+Beta: 0.381
+52 Week High: 5.29
+52 Week Low: 1.46

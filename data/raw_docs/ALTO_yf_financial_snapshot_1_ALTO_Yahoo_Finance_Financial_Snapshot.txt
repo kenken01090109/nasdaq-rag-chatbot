@@ -1,0 +1,25 @@
+Company: Alto Ingredients Inc. Common Stock
+Ticker: ALTO
+Market Cap: 339775904
+Enterprise Value: 288270784
+Total Revenue: 922308992
+Revenue Per Share: 12.418
+EBITDA: 16102000
+Gross Margins: 0.01991
+Operating Margins: 0.07046
+Profit Margins: -0.05441
+Free Cashflow: 2583500
+Operating Cashflow: -6085000
+Return On Assets: -0.014479999
+Return On Equity: -0.20636
+Total Cash: 32516000
+Total Debt: 119693000
+Debt To Equity: 53.818
+Current Ratio: 3.558
+Quick Ratio: 2.057
+Trailing PE: 
+Forward PE: 12.542857
+Price To Book: 1.5264256
+Beta: 0.666
+52 Week High: 4.53
+52 Week Low: 0.76

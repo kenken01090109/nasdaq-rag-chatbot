@@ -1,0 +1,25 @@
+Company: Cytek Biosciences Inc. Common Stock
+Ticker: CTKB
+Market Cap: 542481536
+Enterprise Value: 325263584
+Total Revenue: 201492992
+Revenue Per Share: 1.577
+EBITDA: -32805000
+Gross Margins: 0.51843
+Operating Margins: -0.09002
+Profit Margins: -0.33023
+Free Cashflow: 4330750
+Operating Cashflow: -4686000
+Return On Assets: -0.052529998
+Return On Equity: -0.18045
+Total Cash: 261528992
+Total Debt: 23743000
+Debt To Equity: 6.948
+Current Ratio: 5.038
+Quick Ratio: 4.288
+Trailing PE: 
+Forward PE: 93.77777
+Price To Book: 1.5876598
+Beta: 1.314
+52 Week High: 6.18
+52 Week Low: 2.37

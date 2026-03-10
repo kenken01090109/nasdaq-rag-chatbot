@@ -1,0 +1,9 @@
+Company: OSI Systems Inc. Common Stock (DE)
+Ticker: OSIS
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Hawthorne
+Website: https://www.osi-systems.com
+Employees: 7337
+Business Summary: OSI Systems, Inc. designs and manufactures electronic systems and components in the United States and internationally. It operates in three segments: Security, Healthcare, and Optoelectronics and Manufacturing. The company offers baggage and parcel inspection, cargo and vehicle inspection, hold baggage and people screening, radiation monitoring, explosive and narcotics trace detection systems, and optical inspection systems, and radio frequency (RF) equipment under the Rapiscan name. It also provides site design, installation, training, and technical support services; and turnkey security screening solutions under the S2 name. In addition, the company offers patient monitoring, cardiology and remote monitoring, and connected care systems and accessories under the Spacelabs name for use in critical care, emergency, and perioperative areas within hospitals, physicians' offices, medical clinics, and ambulatory surgery centers. Further, it provides optoelectronic devices and flex circuits under the OSI Optoelectronics, OSI LaserDiode, and Advanced Photonix names for the aerospace and defense, avionics, medical imaging and diagnostics, biochemistry analysis, pharmaceutical, nanotechnology, telecommunications, construction, and homeland security markets. Additionally, the company offers electronics manufacturing services to original equipment manufacturers and end users for medical, automotive, defense, aerospace, industrial, and consumer applications under the OSI Electronics, APlus Products, Altaflex, and PFC Flexible Circuits names; and LCD displays for medical, industrial, and consumer electronics applications. The company was incorporated in 1987 and is headquartered in Hawthorne, California.

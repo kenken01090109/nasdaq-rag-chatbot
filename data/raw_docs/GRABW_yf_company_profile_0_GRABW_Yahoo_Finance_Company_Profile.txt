@@ -1,0 +1,9 @@
+Company: Grab Holdings Limited Warrant
+Ticker: GRABW
+Sector: 
+Industry: 
+Country: Singapore
+City: Singapore
+Website: https://www.grab.com/sg
+Employees: 
+Business Summary: Grab Holdings Limited engages in the provision of superapps in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. It operates through four segments: Deliveries, Mobility, Financial services, and Others. The company offers its Grab ecosystem, a single platform with superapps for driver- and merchant-partners and consumers, that allows access to mobility, delivery, and digital financial services. It also provides digital banking services. Grab Holdings Limited was founded in 2012 and is headquartered in Singapore.

@@ -1,0 +1,25 @@
+Company: EchoStar  Corporation Common Stock
+Ticker: SATS
+Market Cap: 30583980032
+Enterprise Value: 58714886144
+Total Revenue: 15004989440
+Revenue Per Share: 52.175
+EBITDA: 1494413952
+Gross Margins: 0.25823
+Operating Margins: 0.097679995
+Profit Margins: -0.96616
+Free Cashflow: -791787008
+Operating Cashflow: -99374000
+Return On Assets: -0.0011
+Return On Equity: -1.11347
+Total Cash: 2983964928
+Total Debt: 30962466816
+Debt To Equity: 532.734
+Current Ratio: 0.415
+Quick Ratio: 0.344
+Trailing PE: 
+Forward PE: -48.6692
+Price To Book: 5.3218455
+Beta: 1.02
+52 Week High: 132.25
+52 Week Low: 14.9

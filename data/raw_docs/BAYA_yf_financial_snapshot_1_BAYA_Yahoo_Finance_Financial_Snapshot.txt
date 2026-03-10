@@ -1,0 +1,25 @@
+Company: Bayview Acquisition Corp Ordinary Shares
+Ticker: BAYA
+Market Cap: 41317844
+Enterprise Value: 42804500
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 410588
+Operating Cashflow: -187130
+Return On Assets: -0.0218
+Return On Equity: 
+Total Cash: 38342
+Total Debt: 1525000
+Debt To Equity: 
+Current Ratio: 0.021
+Quick Ratio: 0.013
+Trailing PE: 56.761906
+Forward PE: 
+Price To Book: -8.186813
+Beta: -0.068
+52 Week High: 12.24
+52 Week Low: 10.81

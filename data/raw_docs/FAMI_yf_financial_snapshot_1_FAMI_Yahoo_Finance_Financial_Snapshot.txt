@@ -1,0 +1,25 @@
+Company: Farmmi Inc. Class A Ordinary Shares
+Ticker: FAMI
+Market Cap: 18236076
+Enterprise Value: 37941612
+Total Revenue: 27971360
+Revenue Per Share: 15.235
+EBITDA: -47020984
+Gross Margins: 0.02866
+Operating Margins: -3.93835
+Profit Margins: -1.89832
+Free Cashflow: 43904324
+Operating Cashflow: 52461824
+Return On Assets: -0.17695
+Return On Equity: -0.36333
+Total Cash: 803477
+Total Debt: 20769444
+Debt To Equity: 16.769
+Current Ratio: 9.353
+Quick Ratio: 4.51
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.058298737
+Beta: 1.715
+52 Week High: 3.48
+52 Week Low: 1.11

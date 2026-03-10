@@ -1,0 +1,12 @@
+Company: Cellebrite DI Ltd. Ordinary Shares
+Ticker: CLBT
+CIK: 0001854587
+Latest SEC XBRL Facts:
+Revenues: 220825000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 475675000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+NetIncomeLoss: 36876000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Assets: 787425000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Liabilities: 379012000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+StockholdersEquity: 408413000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 53461000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 179223000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

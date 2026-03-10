@@ -1,0 +1,25 @@
+Company: Capricor Therapeutics Inc. Common Stock
+Ticker: CAPR
+Market Cap: 1517740032
+Enterprise Value: 1191522304
+Total Revenue: 11130509
+Revenue Per Share: 0.245
+EBITDA: -84921808
+Gross Margins: 0.0
+Operating Margins: -7.78796
+Profit Margins: 0.0
+Free Cashflow: -37294576
+Operating Cashflow: -61040848
+Return On Assets: -0.49389
+Return On Equity: -1.07787
+Total Cash: 98565968
+Total Debt: 14542789
+Debt To Equity: 17.34
+Current Ratio: 3.586
+Quick Ratio: 3.504
+Trailing PE: 
+Forward PE: 184.24355
+Price To Book: 15.212649
+Beta: 0.477
+52 Week High: 40.37
+52 Week Low: 4.3

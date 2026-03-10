@@ -1,0 +1,12 @@
+Company: Blackbaud Inc. Common Stock
+Ticker: BLKB
+CIK: 0001280058
+Latest SEC XBRL Facts:
+Revenues: 242606000 | unit=USD | filed=2021-02-23 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 833109000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 78281000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 2104441000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 1996252000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 108189000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 207540000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38255000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

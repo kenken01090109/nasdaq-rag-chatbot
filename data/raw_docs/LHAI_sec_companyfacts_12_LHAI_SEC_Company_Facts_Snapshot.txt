@@ -1,0 +1,11 @@
+Company: Linkhome Holdings Inc. Common stock
+Ticker: LHAI
+CIK: 0002017758
+Latest SEC XBRL Facts:
+Revenues: 15819099 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 94742 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 8624302 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1421319 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 7202983 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2298995 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3662388 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

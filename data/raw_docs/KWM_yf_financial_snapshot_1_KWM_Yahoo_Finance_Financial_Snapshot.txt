@@ -1,0 +1,25 @@
+Company: K Wave Media Ltd. Ordinary Shares
+Ticker: KWM
+Market Cap: 46150940
+Enterprise Value: 17052442624
+Total Revenue: 12276887552
+Revenue Per Share: 476.906
+EBITDA: -52887535616
+Gross Margins: 0.02767
+Operating Margins: -1.18582
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -9494872064
+Return On Assets: 
+Return On Equity: 
+Total Cash: 9610853376
+Total Debt: 25468975104
+Debt To Equity: 19.063
+Current Ratio: 0.289
+Quick Ratio: 0.199
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.44540942
+Beta: 0.635
+52 Week High: 8.48
+52 Week Low: 0.384

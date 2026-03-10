@@ -1,0 +1,9 @@
+Company: Iterum Therapeutics plc Ordinary Share
+Ticker: ITRM
+Sector: Healthcare
+Industry: Biotechnology
+Country: Ireland
+City: Dublin
+Website: https://www.iterumtx.com
+Employees: 9
+Business Summary: Iterum Therapeutics plc, a pharmaceutical company, develops and commercializes treatments for drug resistant bacterial infections in Ireland, Bermuda, and the United States. The company offers ORLYNVAH, an oral penem antibiotic for the treatment of uncomplicated urinary tract infections caused by Escherichia coli, Klebsiella pneumoniae, and Proteus mirabilis microorganisms in adult women with limited or no alternative oral antibacterial treatment options. It is also developing sulopenem, a novel anti-infective compound with oral and intravenous formulations to treat uncomplicated urinatry tract infections, complicated urinary tract infections, and complicated intra-abdominal infections, as well as community-acquired bacterial pneumonia, acute bacterial prostatitis, gonococcal urethritis, and pelvic inflammatory diseases. Iterum Therapeutics plc was incorporated in 2015 and is headquartered in Dublin, Ireland.

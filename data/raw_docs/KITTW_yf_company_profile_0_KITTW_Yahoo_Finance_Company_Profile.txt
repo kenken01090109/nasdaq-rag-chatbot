@@ -1,0 +1,9 @@
+Company: Nauticus Robotics Inc. Warrant
+Ticker: KITTW
+Sector: 
+Industry: 
+Country: United States
+City: Webster
+Website: https://nauticusrobotics.com
+Employees: 47
+Business Summary: Nauticus Robotics, Inc. develops ocean robots, cloud software, and services to the ocean industry. The company offers Aquanaut, an autonomous underwater vehicle with sensor suite, which provides capability to observe and inspect subsea assets or other subsea features; Olympic Arm, an all-electric manipulator designed for a variety of intervention tasks on work class remotely operated vehicles; and ToolKITT, a software platform, which consists of interrelated products for ocean sensing, manipulation, autonomous behaviors, survey, search and recovery, and manual intervention. The company has strategic alliance with Leidos Holdings, Inc. to develop next-generation autonomous underwater systems for tackling complex missions. The company was founded in 2014 and is headquartered in Webster, Texas.

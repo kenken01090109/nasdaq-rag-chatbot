@@ -1,0 +1,9 @@
+Company: Masonglory Limited Ordinary Shares
+Ticker: MSGY
+Sector: Industrials
+Industry: Engineering & Construction
+Country: Hong Kong
+City: Kowloon
+Website: https://www.masontech.com.hk
+Employees: 11
+Business Summary: Masonglory Limited, through its subsidiaries, provides wet trades and other ancillary services in Hong Kong. The company offers plastering on floors, ceilings, and walls; tile laying on internal and external walls and floors; brick laying; floor screeding; and marble works. Its project portfolio includes private sector projects, such as private residential and commercial development; and public sector projects, including infrastructure and public facilities developments. The company was founded in 2018 and is based in Kowloon, Hong Kong. Masonglory Limited is a subsidiary of Fung & Tun Limited.

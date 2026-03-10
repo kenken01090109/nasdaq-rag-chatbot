@@ -1,0 +1,25 @@
+Company: Celldex Therapeutics Inc.
+Ticker: CLDX
+Market Cap: 1959047552
+Enterprise Value: 1442810624
+Total Revenue: 1545000
+Revenue Per Share: 0.023
+EBITDA: -283987008
+Gross Margins: 0.0
+Operating Margins: -720.2727
+Profit Margins: 0.0
+Free Cashflow: -125544376
+Operating Cashflow: -210944992
+Return On Assets: -0.26118
+Return On Equity: -0.40616
+Total Cash: 518572992
+Total Debt: 2336000
+Debt To Equity: 0.443
+Current Ratio: 10.485
+Quick Ratio: 10.209
+Trailing PE: 
+Forward PE: -6.2155223
+Price To Book: 3.71544
+Beta: 1.256
+52 Week High: 31.31
+52 Week Low: 14.4

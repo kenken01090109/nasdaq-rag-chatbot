@@ -1,0 +1,25 @@
+Company: Cheetah Net Supply Chain Service Inc Class A Common Stock
+Ticker: CTNT
+Market Cap: 5298809
+Enterprise Value: 7090069
+Total Revenue: 1420060
+Revenue Per Share: 0.46
+EBITDA: -3288255
+Gross Margins: 0.14202
+Operating Margins: -2.30199
+Profit Margins: 0.0
+Free Cashflow: -3705576
+Operating Cashflow: 374477
+Return On Assets: -0.14473
+Return On Equity: -0.34057
+Total Cash: 153692
+Total Debt: 2168151
+Debt To Equity: 21.384
+Current Ratio: 7.509
+Quick Ratio: 0.793
+Trailing PE: 
+Forward PE: -1.6145834
+Price To Book: 0.500646
+Beta: 1.446
+52 Week High: 2.31
+52 Week Low: 1.03

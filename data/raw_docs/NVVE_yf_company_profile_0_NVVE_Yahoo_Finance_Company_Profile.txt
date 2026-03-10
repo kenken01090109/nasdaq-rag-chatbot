@@ -1,0 +1,9 @@
+Company: Nuvve Holding Corp. Common Stock
+Ticker: NVVE
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: United States
+City: San Diego
+Website: https://www.nuvve.com
+Employees: 36
+Business Summary: Nuvve Holding Corp., a green energy technology company, provides commercial vehicle-to-grid (V2G) technology platform in the United States, France, Japan, and Denmark. The company offers Grid Integrated Vehicle platform which enables electric vehicle (EV) batteries to store and resell unused energy back to the local electric grid and provide other grid services; and allows EV owners to meet the energy demands of individual vehicles and entire fleets. Its V2G technology also links EV batteries into a virtual power plant that sells excess power to utility companies or utilizes saved power to reduce building energy peak consumption. In addition, the company offers networked charging stations, infrastructure, software, professional services, support, monitoring, and parts and labor warranties required to run electric vehicle fleets. It serves its products to owner/operators of light duty fleets, heavy duty fleets, automotive manufacturers, charge point operators, and strategic partners. The company was founded in 2010 and is headquartered in San Diego, California.

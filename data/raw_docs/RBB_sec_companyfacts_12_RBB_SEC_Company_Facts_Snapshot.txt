@@ -1,0 +1,11 @@
+Company: RBB Bancorp Common Stock
+Ticker: RBB
+CIK: 0001499422
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3818000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 21781000 | unit=USD | filed=2020-11-09 | period_end=2020-09-30
+Assets: 4208455000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3694120000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 294998000 | unit=USD | filed=2018-11-13 | period_end=2018-09-30
+NetCashProvidedByUsedInOperatingActivities: 31546000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 234930000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

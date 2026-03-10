@@ -1,0 +1,9 @@
+Company: Mineralys Therapeutics Inc. Common Stock
+Ticker: MLYS
+CIK: 0001933414
+Latest SEC XBRL Facts:
+NetIncomeLoss: -122417000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 599947000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 576427000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -104528000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 217597000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

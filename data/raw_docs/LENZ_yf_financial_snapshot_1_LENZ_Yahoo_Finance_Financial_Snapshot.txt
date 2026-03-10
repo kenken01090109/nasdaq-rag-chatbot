@@ -1,0 +1,25 @@
+Company: LENZ Therapeutics Inc. Common Stock
+Ticker: LENZ
+Market Cap: 365153920
+Enterprise Value: 176139024
+Total Revenue: 17500000
+Revenue Per Share: 0.627
+EBITDA: -67695000
+Gross Margins: 1.0
+Operating Margins: -1.51096
+Profit Margins: 0.0
+Free Cashflow: -25161500
+Operating Cashflow: -45223000
+Return On Assets: -0.19524
+Return On Equity: -0.28779
+Total Cash: 202172000
+Total Debt: 954000
+Debt To Equity: 0.492
+Current Ratio: 12.687
+Quick Ratio: 12.458
+Trailing PE: 
+Forward PE: -3.8523498
+Price To Book: 1.7204777
+Beta: 
+52 Week High: 50.4
+52 Week Low: 11.48

@@ -1,0 +1,10 @@
+Company: Above Food Ingredients Inc. Common Stock
+Ticker: ABVE
+Market Cap: 60406376
+Enterprise Value: 166844032
+Trailing PE: 
+Forward PE: 
+Price To Book: -2.7152648
+Beta: 0.013
+52 Week High: 6.56
+52 Week Low: 0.3

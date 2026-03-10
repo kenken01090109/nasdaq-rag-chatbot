@@ -1,0 +1,12 @@
+Company: Pacific Biosciences of California Inc. Common Stock
+Ticker: PACB
+CIK: 0001299130
+Latest SEC XBRL Facts:
+Revenues: 68533000 | unit=USD | filed=2017-11-02 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 115360000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -506005000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 803158000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 767068000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 36090000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -92140000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 56467000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Biote Corp. Class A Common Stock
+Ticker: BTMD
+Market Cap: 89721192
+Enterprise Value: 146145360
+Total Revenue: 195644992
+Revenue Per Share: 5.937
+EBITDA: 38985000
+Gross Margins: 0.72366995
+Operating Margins: 0.18119
+Profit Margins: 0.14717
+Free Cashflow: 36117624
+Operating Cashflow: 39993000
+Return On Assets: 0.2195
+Return On Equity: 
+Total Cash: 28048000
+Total Debt: 106406000
+Debt To Equity: 
+Current Ratio: 1.014
+Quick Ratio: 0.647
+Trailing PE: 2.3734176
+Forward PE: 2.2590363
+Price To Book: -0.7908056
+Beta: 1.143
+52 Week High: 4.75
+52 Week Low: 1.86

@@ -1,0 +1,25 @@
+Company: WesBanco Inc. Common Stock
+Ticker: WSBC
+Market Cap: 3235555328
+Enterprise Value: 4295541248
+Total Revenue: 903812992
+Revenue Per Share: 9.943
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49800998
+Profit Margins: 0.24685
+Free Cashflow: 
+Operating Cashflow: 290412000
+Return On Assets: 0.00962
+Return On Equity: 0.065409996
+Total Cash: 1019945024
+Total Debt: 1761943040
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 15.103139
+Forward PE: 8.182204
+Price To Book: 0.8497325
+Beta: 0.777
+52 Week High: 38.1
+52 Week Low: 26.42

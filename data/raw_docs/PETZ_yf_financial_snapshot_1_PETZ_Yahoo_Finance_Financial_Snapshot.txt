@@ -1,0 +1,25 @@
+Company: TDH Holdings Inc. Common Shares
+Ticker: PETZ
+Market Cap: 11562061
+Enterprise Value: -16898262
+Total Revenue: 1046006
+Revenue Per Share: 0.101
+EBITDA: -1203563
+Gross Margins: 0.34272
+Operating Margins: -0.97598
+Profit Margins: 2.62444
+Free Cashflow: 2110135
+Operating Cashflow: 2392849
+Return On Assets: -0.02477
+Return On Equity: 0.05963
+Total Cash: 31527044
+Total Debt: 3453179
+Debt To Equity: 11.51
+Current Ratio: 6.24
+Quick Ratio: 6.163
+Trailing PE: 6.5882354
+Forward PE: 
+Price To Book: 0.38303694
+Beta: 1.542
+52 Week High: 1.68
+52 Week Low: 0.65

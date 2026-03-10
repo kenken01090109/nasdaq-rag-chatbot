@@ -1,0 +1,10 @@
+Company: NexMetals Mining Corp. Common Shares
+Ticker: NEXM
+CIK: 0000795800
+Latest SEC XBRL Facts:
+NetIncomeLoss: -46321544 | unit=CAD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 34038505 | unit=CAD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 12403271 | unit=CAD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 21635234 | unit=CAD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -35106741 | unit=CAD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14117843 | unit=CAD | filed=2025-11-13 | period_end=2025-09-30

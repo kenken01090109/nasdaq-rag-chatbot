@@ -1,0 +1,12 @@
+Company: Acco Group Holdings Limited Class A Ordinary Shares
+Ticker: ACCL
+Total Revenue: 4888824
+Revenue Per Share: 0.391
+Gross Margins: 0.43768
+Operating Margins: 0.21962999
+EBITDA: 1090223
+Profit Margins: 0.20899001
+Free Cashflow: 1864911
+Operating Cashflow: 1538145
+Return On Assets: 0.20497
+Return On Equity: 0.61266

@@ -1,0 +1,11 @@
+Company: Maxeon Solar Technologies Ltd. Ordinary Shares
+Ticker: MAXN
+CIK: 0001796898
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 509048000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -614300000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 376272000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 664637000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: -293842000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -270156000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 28895000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

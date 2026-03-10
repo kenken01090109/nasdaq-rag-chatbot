@@ -1,0 +1,25 @@
+Company: Inflection Point Acquisition Corp. IV Right
+Ticker: BACQR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -932948
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1049403
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.144
+Quick Ratio: 1.954
+Trailing PE: 
+Forward PE: 
+Price To Book: -2.6602564
+Beta: 
+52 Week High: 0.83
+52 Week Low: 0.77

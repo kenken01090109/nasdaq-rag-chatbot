@@ -1,0 +1,11 @@
+Company: Entrada Therapeutics Inc. Common Stock
+Ticker: TRDA
+CIK: 0001689375
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 24122000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -104586000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 412898000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 72182000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 340716000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -96309000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 93286000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Relmada Therapeutics Inc. Common Stock
+Ticker: RLMD
+Market Cap: 326334624
+Enterprise Value: 312448096
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -20166900
+Operating Cashflow: -39990400
+Return On Assets: -1.02412
+Return On Equity: -1.9678999
+Total Cash: 13886524
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.862
+Quick Ratio: 2.676
+Trailing PE: 
+Forward PE: -12.36111
+Price To Book: 15.614035
+Beta: 0.727
+52 Week High: 5.12
+52 Week Low: 0.243

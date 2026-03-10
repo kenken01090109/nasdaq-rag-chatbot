@@ -1,0 +1,12 @@
+Company: Enveric Biosciences Inc. Common Stock
+Ticker: ENVB
+CIK: 0000890821
+Latest SEC XBRL Facts:
+Revenues: 9602528 | unit=USD | filed=2020-05-15 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 26340499 | unit=USD | filed=2020-11-16 | period_end=2020-09-30
+NetIncomeLoss: -6577816 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 4362061 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7253690 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+StockholdersEquity: 3456176 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6356680 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2840097 | unit=USD | filed=2020-11-16 | period_end=2020-09-30

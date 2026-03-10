@@ -1,0 +1,10 @@
+Company: Structure Therapeutics Inc. American Depositary Shares
+Ticker: GPCR
+CIK: 0001888886
+Latest SEC XBRL Facts:
+NetIncomeLoss: -174206000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 832159000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 62140000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 770019000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -157783000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 102912000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: AirJoule Technologies Corporation Warrant
+Ticker: AIRJW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15801269
+Beta: 0.447
+52 Week High: 0.7474
+52 Week Low: 0.6863

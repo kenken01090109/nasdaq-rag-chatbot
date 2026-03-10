@@ -1,0 +1,10 @@
+Company: Fastly Inc. Class A Common Stock
+Ticker: FSLY
+CIK: 0001517413
+Latest SEC XBRL Facts:
+NetIncomeLoss: -106172000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1470602000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 533637000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 936965000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72010000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 113131000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

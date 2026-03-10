@@ -1,0 +1,25 @@
+Company: International Bancshares Corporation Common Stock
+Ticker: IBOC
+Market Cap: 4136683520
+Enterprise Value: 4332298752
+Total Revenue: 827080000
+Revenue Per Share: 13.303
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.65084
+Profit Margins: 0.49848998
+Free Cashflow: 
+Operating Cashflow: 491056992
+Return On Assets: 0.02552
+Return On Equity: 0.13633001
+Total Cash: 536487008
+Total Debt: 704744000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.049849
+Forward PE: 
+Price To Book: 1.2720112
+Beta: 0.726
+52 Week High: 75.44
+52 Week Low: 54.11

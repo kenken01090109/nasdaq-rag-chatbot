@@ -1,0 +1,25 @@
+Company: Immutep Limited American Depositary Shares
+Ticker: IMMP
+Market Cap: 406250016
+Enterprise Value: 3969550848
+Total Revenue: 7922731
+Revenue Per Share: 0.05
+EBITDA: -82390280
+Gross Margins: 0.0
+Operating Margins: -7.63705
+Profit Margins: 0.0
+Free Cashflow: -35678096
+Operating Cashflow: -62152988
+Return On Assets: -0.32099
+Return On Equity: -0.61846
+Total Cash: 99129496
+Total Debt: 1209606
+Debt To Equity: 1.223
+Current Ratio: 2.973
+Quick Ratio: 2.907
+Trailing PE: 
+Forward PE: -11.269906
+Price To Book: 58.757957
+Beta: 1.638
+52 Week High: 3.53
+52 Week Low: 1.32

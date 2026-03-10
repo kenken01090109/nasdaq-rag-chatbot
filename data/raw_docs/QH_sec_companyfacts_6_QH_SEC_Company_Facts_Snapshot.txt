@@ -1,0 +1,12 @@
+Company: Quhuo Limited American Depository Shares
+Ticker: QH
+CIK: 0001781193
+Latest SEC XBRL Facts:
+Revenues: 456872000 | unit=USD | filed=2021-12-21 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 157937000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetIncomeLoss: -7411000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Assets: 118424000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Liabilities: 61539000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+StockholdersEquity: 57443000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5770000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 4311000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30

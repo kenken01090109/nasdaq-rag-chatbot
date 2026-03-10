@@ -1,0 +1,9 @@
+Company: Talon Capital Corp. Class A Ordinary Shares
+Ticker: TLNC
+CIK: 0002073340
+Latest SEC XBRL Facts:
+NetIncomeLoss: 346682 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 252862213 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10368532 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7092503 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -263849 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: InspireMD Inc. Common Stock
+Ticker: NSPR
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Miami
+Website: https://www.inspiremd.com
+Employees: 66
+Business Summary: InspireMD, Inc., a medical device company, focuses on the development and commercialization of products for the treatment of carotid artery and other vascular diseases in Europe, Latin America, the Middle East, and the Asia Pacific. The company offers CGuard carotid embolic prevention system (EPS) for use in carotid artery applications; CGuard Prime Stent System, a mesh-covered self-expanding carotid stent; and SwitchGuard neuroprotection system for transcarotid access and neuro protection, as well as treating acute stroke with tandem lesions. It has a strategic agreement with Jacobs Institute to execute an early feasibility study of CGuard Prime for the treatment of acute stroke patients with tandem lesions. The company sells its products through local distribution partners. InspireMD, Inc. was founded in 2005 and is headquartered in Miami, Florida.

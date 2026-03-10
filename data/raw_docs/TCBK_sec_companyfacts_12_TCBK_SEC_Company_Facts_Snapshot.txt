@@ -1,0 +1,11 @@
+Company: TriCo Bancshares Common Stock
+Ticker: TCBK
+CIK: 0000356171
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 40079000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 87924000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 9878836000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 8574531000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1304305000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 98833000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 298820000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

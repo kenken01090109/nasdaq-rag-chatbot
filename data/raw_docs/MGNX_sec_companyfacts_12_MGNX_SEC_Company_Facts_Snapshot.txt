@@ -1,0 +1,11 @@
+Company: MacroGenics Inc. Common Stock
+Ticker: MGNX
+CIK: 0001125345
+Latest SEC XBRL Facts:
+Revenues: 108273000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -60465000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 270763000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 203762000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 67001000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -124061000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 80129000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

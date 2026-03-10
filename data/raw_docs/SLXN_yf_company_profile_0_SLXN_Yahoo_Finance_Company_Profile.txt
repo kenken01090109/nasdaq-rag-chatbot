@@ -1,0 +1,9 @@
+Company: Silexion Therapeutics Corp Ordinary Shares
+Ticker: SLXN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Jerusalem
+Website: https://silexion.com
+Employees: 11
+Business Summary: Silexion Therapeutics Corp, a biopharmaceutical company, discovers and develops RNA interference (RNAi)-based cancer drugs and delivery systems to treat malignant solid tumors. The company engages in the treatment of solid tumors through its proprietary LODER delivery platform. Its products comprise SiG12D-LODER that has completed pre-clinical studies and an open label Phase I clinical trial for the treatment of pancreatic cancer; Prostate-LODER, which is in pre-clinical studies for the treatment of prostate cancer; and GBM-LODER that is in pre-clinical studies to target Glioblastoma Multiform, a malignant primary brain tumor. Silexion Therapeutics Corp has collaboration with Evonik Corporation for the development of an advanced siRNA formulation to enhance cancer treatment. The company was founded in 2008 and is headquartered in Jerusalem, Israel.

@@ -1,0 +1,25 @@
+Company: Wingstop Inc. Common Stock
+Ticker: WING
+Market Cap: 6367913472
+Enterprise Value: 7372472832
+Total Revenue: 696852992
+Revenue Per Share: 24.911
+EBITDA: 217230000
+Gross Margins: 0.48683
+Operating Margins: 0.27186
+Profit Margins: 0.25008
+Free Cashflow: 104511248
+Operating Cashflow: 153064992
+Return On Assets: 0.17040001
+Return On Equity: 
+Total Cash: 196572000
+Total Debt: 1270406016
+Debt To Equity: 
+Current Ratio: 3.263
+Quick Ratio: 2.652
+Trailing PE: 38.004974
+Forward PE: 38.535656
+Price To Book: -8.549206
+Beta: 1.861
+52 Week High: 388.14
+52 Week Low: 204.0

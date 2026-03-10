@@ -1,0 +1,11 @@
+Company: GT Biopharma Inc. Common Stock
+Ticker: GTBP
+CIK: 0000109657
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2021-11-10 | period_end=2021-09-30
+NetIncomeLoss: -22646000 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+Assets: 4321000 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+Liabilities: 1321000 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+StockholdersEquity: 3000000 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8893000 | unit=USD | filed=2026-03-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2528000 | unit=USD | filed=2026-03-06 | period_end=2025-09-30

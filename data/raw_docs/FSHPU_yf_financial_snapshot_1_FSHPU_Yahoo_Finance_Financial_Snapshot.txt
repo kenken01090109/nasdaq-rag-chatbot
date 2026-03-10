@@ -1,0 +1,25 @@
+Company: Flag Ship Acquisition Corp. Unit
+Ticker: FSHPU
+Market Cap: 68233400
+Enterprise Value: 56181012
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -644249
+Return On Assets: 
+Return On Equity: 
+Total Cash: 18751
+Total Debt: 1170351
+Debt To Equity: 
+Current Ratio: 0.045
+Quick Ratio: 0.016
+Trailing PE: 
+Forward PE: 
+Price To Book: -19.178322
+Beta: 
+52 Week High: 12.0
+52 Week Low: 10.41

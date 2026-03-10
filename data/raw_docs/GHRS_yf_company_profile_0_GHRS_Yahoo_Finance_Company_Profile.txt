@@ -1,0 +1,9 @@
+Company: GH Research PLC Ordinary Shares
+Ticker: GHRS
+Sector: Healthcare
+Industry: Biotechnology
+Country: Ireland
+City: Dublin
+Website: https://www.ghres.com
+Employees: 
+Business Summary: GH Research PLC, together with its subsidiary, a clinical-stage biopharmaceutical company, engages in developing treatments for depression in the United States. Its lead product candidate is GH001, an inhalable mebufotenin product candidate, which is in phase 2b clinical trial for treating patients with treatment-resistant depression; and in phase 2a clinical trial for treating bipolar II disorder and a current major depressive episode, as well as female patients with postpartum depression. The company also develops GH002, an intravenous mebufotenin product candidate, which is in phase 1 clinical pharmacology trial in healthy volunteers focusing on psychiatric and neurological disorders. The company was founded in 2018 and is based in Dublin, Ireland.

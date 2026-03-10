@@ -1,0 +1,10 @@
+Company: 36Kr Holdings Inc. American Depositary Shares
+Ticker: KRKR
+CIK: 0001779476
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 59274000 | unit=USD | filed=2021-04-29 | period_end=2020-12-31
+Assets: 88664000 | unit=USD | filed=2021-04-29 | period_end=2020-12-31
+Liabilities: 29052000 | unit=USD | filed=2021-04-29 | period_end=2020-12-31
+StockholdersEquity: 58363000 | unit=USD | filed=2021-04-29 | period_end=2020-12-31
+NetCashProvidedByUsedInOperatingActivities: -2625000 | unit=USD | filed=2021-04-29 | period_end=2020-12-31
+CashAndCashEquivalentsAtCarryingValue: 9325000 | unit=USD | filed=2021-04-29 | period_end=2020-12-31

@@ -1,0 +1,10 @@
+Company: Regencell Bioscience Holdings Limited Ordinary Shares
+Ticker: RGC
+CIK: 0001829667
+Latest SEC XBRL Facts:
+NetIncomeLoss: -3584213 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 5755582 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 895308 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 4860274 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3113576 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6416998 | unit=USD | filed=2022-10-31 | period_end=2022-06-30

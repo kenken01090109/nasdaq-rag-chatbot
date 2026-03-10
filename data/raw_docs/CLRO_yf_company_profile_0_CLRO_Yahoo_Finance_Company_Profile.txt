@@ -1,0 +1,9 @@
+Company: ClearOne Inc. (DE) Common Stock
+Ticker: CLRO
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: Salt Lake City
+Website: https://www.clearone.com
+Employees: 80
+Business Summary: ClearOne, Inc., together with its subsidiaries, designs, develops, and sells conferencing, collaboration, and network streaming solutions for voice and visual communications in the United States and internationally. The company offers audio conferencing products, including professional audio conferencing and sound-reinforcement products for use in enterprise, healthcare, education and distance learning, government, legal, and finance organizations; mid-tier premium conferencing products for smaller rooms, and small and medium businesses, which interface with video and web conferencing systems; and USB-based personal and group speakerphones that could be used with PCs, laptops, tablets, smartphones, and other portable devices. It provides professional microphones consisting of beamforming microphones, ceiling microphones, and wireless microphones. In addition, the company offers video products, such as video conferencing and collaboration solutions using cloud-based service; professional-grade cameras; and AV networking, which deliver the IP A/V experience by streaming audio and video, and control over IP networks. It sells its commercial products to distributors and resellers through a network of independent professional audiovisual, information technology, and telecommunications distributors, as well as systems integrators, dealers, value-added resellers, and end-users. ClearOne, Inc. was incorporated in 1983 and is headquartered in Salt Lake City, Utah.

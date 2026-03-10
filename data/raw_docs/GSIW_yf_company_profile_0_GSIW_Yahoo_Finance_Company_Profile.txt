@@ -1,0 +1,9 @@
+Company: Garden Stage Limited Class A Ordinary Shares
+Ticker: GSIW
+Sector: Financial Services
+Industry: Capital Markets
+Country: Hong Kong
+City: Central
+Website: https://www.gardenstage-ky.com
+Employees: 
+Business Summary: Garden Stage Limited, through its subsidiaries, provides financial services in Hong Kong. It offers securities dealing and brokerage services; underwriting and placing services; investment advisory services; due diligence services; introduction and referral services; and asset management services, such as account and fund management services. The company was incorporated in 2022 and is headquartered in Central, Hong Kong. Garden Stage Limited is a subsidiary of Oriental Moon Tree Limited.

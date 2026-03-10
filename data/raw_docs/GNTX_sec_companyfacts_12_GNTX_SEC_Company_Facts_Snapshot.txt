@@ -1,0 +1,11 @@
+Company: Gentex Corporation Common Stock
+Ticker: GNTX
+CIK: 0000355811
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1889867355 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 291881539 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2938754652 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 441220168 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 2495214826 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 461627573 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 178589422 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

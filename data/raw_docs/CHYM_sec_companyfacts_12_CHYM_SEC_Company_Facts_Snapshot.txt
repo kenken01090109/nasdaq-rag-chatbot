@@ -1,0 +1,11 @@
+Company: Chime Financial Inc. Class A Common Stock
+Ticker: CHYM
+CIK: 0001795586
+Latest SEC XBRL Facts:
+Revenues: 1590412000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -965159000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1962311000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 519037000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1443274000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20227000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 445026000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Adobe Inc. Common Stock
+Ticker: ADBE
+Market Cap: 118723330048
+Enterprise Value: 115713269760
+Total Revenue: 23768999936
+Revenue Per Share: 55.77
+EBITDA: 9242000384
+Gross Margins: 0.89268
+Operating Margins: 0.36503
+Profit Margins: 0.29997
+Free Cashflow: 8805874688
+Operating Cashflow: 10030999552
+Return On Assets: 0.18221001
+Return On Equity: 0.55426
+Total Cash: 6597000192
+Total Debt: 6656000000
+Debt To Equity: 57.266
+Current Ratio: 0.996
+Quick Ratio: 0.877
+Trailing PE: 16.97307
+Forward PE: 10.756158
+Price To Book: 10.077817
+Beta: 1.532
+52 Week High: 452.51
+52 Week Low: 244.28

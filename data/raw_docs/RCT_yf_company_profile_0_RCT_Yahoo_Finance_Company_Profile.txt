@@ -1,0 +1,9 @@
+Company: RedCloud Holdings plc Ordinary Shares
+Ticker: RCT
+Sector: Technology
+Industry: Software - Application
+Country: United Kingdom
+City: London
+Website: https://redcloudtechnology.com
+Employees: 1098
+Business Summary: RedCloud Holdings plc operates a cloud based business-to-business open commerce platform primarily in Argentina, the United Kingdom, Brazil, Nigeria, South Africa, and internationally. The company develops and operates the RedCloud Platform that facilitates the trading of consumer supplies of fast-moving consumer goods across business supply chains. Its platform enables retailers in markets to use data driven insights backed by AI to help make business-to-business purchases and inventory decisions from brands and distributors by purchasing behaviors of product inventory catalogues. It also provides digital financial solutions under the RedPay, including e-wallet services and access to localized payment networks. RedCloud Holdings plc was incorporated in 2024 and is based in London, the United Kingdom.

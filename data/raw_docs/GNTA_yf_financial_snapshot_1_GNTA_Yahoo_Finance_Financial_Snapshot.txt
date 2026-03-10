@@ -1,0 +1,25 @@
+Company: Genenta Science S.p.A. American Depositary Shares
+Ticker: GNTA
+Market Cap: 20154020
+Enterprise Value: 7250545
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -8592703
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6383307
+Operating Cashflow: -9697084
+Return On Assets: -0.26586
+Return On Equity: -0.60147
+Total Cash: 17668388
+Total Debt: 7555000
+Debt To Equity: 62.365
+Current Ratio: 13.196
+Quick Ratio: 12.641
+Trailing PE: 
+Forward PE: -1.3232307
+Price To Book: 1.1706249
+Beta: 0.562
+52 Week High: 10.0
+52 Week Low: 0.705

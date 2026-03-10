@@ -1,0 +1,25 @@
+Company: Urban One Inc. Class A Common Stock
+Ticker: UONE
+Market Cap: 45044380
+Enterprise Value: 493779520
+Total Revenue: 393670016
+Revenue Per Share: 88.633
+EBITDA: 63347000
+Gross Margins: 0.67891
+Operating Margins: 0.060300004
+Profit Margins: -0.32548
+Free Cashflow: 76871752
+Operating Cashflow: 43747000
+Return On Assets: 0.03399
+Return On Equity: -0.86213
+Total Cash: 79325000
+Total Debt: 522092992
+Debt To Equity: 641.25
+Current Ratio: 2.586
+Quick Ratio: 1.954
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.56015205
+Beta: 0.398
+52 Week High: 19.0
+52 Week Low: 8.6

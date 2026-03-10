@@ -1,0 +1,9 @@
+Company: Immuneering Corporation Class A Common Stock
+Ticker: IMRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://immuneering.com
+Employees: 54
+Business Summary: Immuneering Corporation, a clinical-stage oncology company, engages in the development of medicines for broad populations of cancer patients. Its lead product candidates include IMM-1-104, a dual-MEK inhibitor currently under Phase 1/2a clinical trial to treat patients with cancer, including pancreatic, melanoma, and non-small cell lung cancer caused by mutations of RAS and/or RAF; and IMM-6-415 that is in Phase 1/2a clinical trial for the treatment of patients with solid tumors. Immuneering Corporation was incorporated in 2008 and is based in Cambridge, Massachusetts.

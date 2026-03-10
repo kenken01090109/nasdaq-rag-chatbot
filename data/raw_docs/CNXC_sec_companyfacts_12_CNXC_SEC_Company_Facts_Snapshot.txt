@@ -1,0 +1,11 @@
+Company: Concentrix Corporation Common Stock
+Ticker: CNXC
+CIK: 0001803599
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7272846000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31
+NetIncomeLoss: 200460000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31
+Assets: 12410099000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31
+Liabilities: 8065970000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31
+StockholdersEquity: 4344129000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: 462747000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 350259000 | unit=USD | filed=2025-10-03 | period_end=2025-08-31

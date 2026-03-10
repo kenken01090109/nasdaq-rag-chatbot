@@ -1,0 +1,25 @@
+Company: Alpha and Omega Semiconductor Limited Common Shares
+Ticker: AOSL
+Market Cap: 591049984
+Enterprise Value: 733318976
+Total Revenue: 685883008
+Revenue Per Share: 22.996
+EBITDA: 21253000
+Gross Margins: 0.22473
+Operating Margins: 0.12612
+Profit Margins: -0.15057999
+Free Cashflow: -42815624
+Operating Cashflow: 6604000
+Return On Assets: -0.02365
+Return On Equity: -0.12
+Total Cash: 202412000
+Total Debt: 201560992
+Debt To Equity: 39.038
+Current Ratio: 3.44
+Quick Ratio: 1.959
+Trailing PE: 
+Forward PE: -41.958042
+Price To Book: 0.7175374
+Beta: 2.031
+52 Week High: 33.01
+52 Week Low: 15.9

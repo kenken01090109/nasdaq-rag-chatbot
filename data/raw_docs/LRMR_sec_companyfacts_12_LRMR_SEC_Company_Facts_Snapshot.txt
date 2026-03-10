@@ -1,0 +1,11 @@
+Company: Larimar Therapeutics Inc. Common Stock
+Ticker: LRMR
+CIK: 0001374690
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2020-05-07 | period_end=2020-03-31
+NetIncomeLoss: -103175000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 187350000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 48312000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 139038000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -45921000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 90140000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

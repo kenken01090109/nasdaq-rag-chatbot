@@ -1,0 +1,25 @@
+Company: WD-40 Company Common Stock
+Ticker: WDFC
+Market Cap: 3196898304
+Enterprise Value: 3233538048
+Total Revenue: 620913024
+Revenue Per Share: 45.864
+EBITDA: 110148000
+Gross Margins: 0.55416
+Operating Margins: 0.15061
+Profit Margins: 0.14417
+Free Cashflow: 61732624
+Operating Cashflow: 82980000
+Return On Assets: 0.14048
+Return On Equity: 0.36512002
+Total Cash: 48583000
+Total Debt: 101107000
+Debt To Equity: 38.289
+Current Ratio: 2.965
+Quick Ratio: 1.803
+Trailing PE: 35.914894
+Forward PE: 36.02439
+Price To Book: 12.084889
+Beta: 0.173
+52 Week High: 253.48
+52 Week Low: 175.38

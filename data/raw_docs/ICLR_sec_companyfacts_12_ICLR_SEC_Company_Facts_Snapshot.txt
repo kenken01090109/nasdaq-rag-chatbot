@@ -1,0 +1,12 @@
+Company: ICON plc Ordinary Shares
+Ticker: ICLR
+CIK: 0001060955
+Latest SEC XBRL Facts:
+Revenues: 990818000 | unit=USD | filed=2013-11-07 | period_end=2013-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6061501000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 2355000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 16507490000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 7172644000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 9334846000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 802043000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 468888000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

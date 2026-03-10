@@ -1,0 +1,12 @@
+Company: Montauk Renewables Inc. Common Stock
+Ticker: MNTK
+CIK: 0001826600
+Latest SEC XBRL Facts:
+Revenues: 132988000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 132988000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -746000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 383307000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 122580000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 260727000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 29997000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6766000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

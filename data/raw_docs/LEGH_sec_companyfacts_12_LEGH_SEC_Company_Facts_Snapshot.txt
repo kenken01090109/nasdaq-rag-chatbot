@@ -1,0 +1,12 @@
+Company: Legacy Housing Corporation Common Stock (TX)
+Ticker: LEGH
+CIK: 0001436208
+Latest SEC XBRL Facts:
+Revenues: 126310000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 91464000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 33616000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 557927000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 36329000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 521598000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18123000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13551000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

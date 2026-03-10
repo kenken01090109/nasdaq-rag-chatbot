@@ -1,0 +1,12 @@
+Company: Patterson-UTI Energy Inc. Common Stock
+Ticker: PTEN
+CIK: 0000889900
+Latest SEC XBRL Facts:
+Revenues: 3675811000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3647485000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -84541000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 5533110000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 2278025000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 3248805000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 563693000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 184783000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

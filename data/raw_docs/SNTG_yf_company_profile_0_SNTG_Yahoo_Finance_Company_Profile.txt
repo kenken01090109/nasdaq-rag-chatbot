@@ -1,0 +1,9 @@
+Company: Sentage Holdings Inc. Class A Ordinary Shares
+Ticker: SNTG
+Sector: Financial Services
+Industry: Credit Services
+Country: China
+City: Shanghai
+Website: https://www.sentageholdings.com
+Employees: 9
+Business Summary: Sentage Holdings Inc. provides a range of financial services in the People's Republic of China. It offers prepaid payment network, and technology consulting and support services. The company was incorporated in 2019 and is headquartered in Shanghai, the People's Republic of China.

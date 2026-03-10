@@ -1,0 +1,9 @@
+Company: Classover Holdings Inc. Warrants
+Ticker: KIDZW
+Sector: 
+Industry: 
+Country: United States
+City: New York
+Website: https://classover.com
+Employees: 
+Business Summary: Classover Holdings, Inc., a technology-driven education company, operates an online enrichment class platform for children aged 4 to 17. Its platform offers various enrichment programs, including language, science, technology, engineering, arts, mathematics, music, and others. The company was founded in 2020 and is headquartered in New York, New York.

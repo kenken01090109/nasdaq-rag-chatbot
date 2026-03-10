@@ -1,0 +1,9 @@
+Company: SIMPPLE LTD. Ordinary Shares
+Ticker: SPPL
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: Singapore
+City: Singapore
+Website: https://www.simpple.ai
+Employees: 35
+Business Summary: Simpple Ltd. provides advanced technology solutions to facility owners and managers to manage their facilities autonomously in Singapore. The company engages in the sale, warranty, and maintenance of autonomous robotic cleaning equipment. It also offers SIMPPLE Ecosystem platform includes SIMPPLE Software, a software platform that helps facilities owners, managers and contractors better manage their facility and workforce through field service management and reporting modules; SIMPPLE PLUS, which offers complimentary peripherals, such as IoT sensors and robotic solutions; and SIMPPLE.AI, a next generation facilities management autonomic intelligence engine that automates robotic and human workforce deployments. In addition, the company provides consultancy services. It serves property developers or building owners, facilities management companies, and service contractors. The company was founded in 2016 and is headquartered in Singapore. Simpple Ltd. is a subsidiary of Ifsc Founders Pte. Ltd.

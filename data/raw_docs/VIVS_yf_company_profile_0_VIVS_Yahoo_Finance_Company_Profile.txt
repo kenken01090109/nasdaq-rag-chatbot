@@ -1,0 +1,9 @@
+Company: VivoSim Labs Inc. Common Stock
+Ticker: VIVS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://vivosim.ai
+Employees: 14
+Business Summary: VivoSim Labs, Inc., a pharmaceutical and biotechnology services company, provides testing of drugs and drug candidates in three-dimensional (3D) human tissue models of liver and intestine. It offers partners liver and intestinal toxicology insights through its new approach methodologies (NAM) models; and bespoke services in the areas of investigational toxicology, mechanism of drug action elucidation, and other applications of complex human tissue models. The company also provides liver toxicology predictive screening and research services, as well as works on predicting and studying the intestinal side effect profiles of drugs that are therapeutic candidates of pharmaceutical and biotech companies at various stages of drug development; and uses its proprietary technologies to build functional 3D human tissues that mimic key aspects of native human tissue composition, architecture, function, and disease. In addition, it offers 3D human tissue platform that develops novel human normal and disease models using high throughput systems, bioprinted, and flow/stretch capable 3D systems. The company was formerly known as Organovo Holdings, Inc. and changed its name to VivoSim Labs, Inc. in April 2025. VivoSim Labs, Inc. was incorporated in 2007 and is headquartered in San Diego, California.

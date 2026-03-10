@@ -1,0 +1,11 @@
+Company: Remitly Global Inc. Common Stock
+Ticker: RELY
+CIK: 0001782170
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1192970000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 26717000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1213684000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 416517000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 797167000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 175464000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 476896000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

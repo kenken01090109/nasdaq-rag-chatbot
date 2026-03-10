@@ -1,0 +1,8 @@
+Company: AirSculpt Technologies Inc. Common Stock
+Ticker: AIRS
+Total Cash: 5405000
+Total Debt: 84212000
+Debt To Equity: 102.566
+Current Ratio: 0.506
+Quick Ratio: 0.367
+Book Value: 1.315

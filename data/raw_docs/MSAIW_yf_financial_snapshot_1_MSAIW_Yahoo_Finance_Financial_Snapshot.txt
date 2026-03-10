@@ -1,0 +1,25 @@
+Company: MultiSensor AI Holdings Inc. Warrant
+Ticker: MSAIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 5563000
+Revenue Per Share: 0.17
+EBITDA: -11262000
+Gross Margins: 0.55635
+Operating Margins: -1.08196
+Profit Margins: -2.23261
+Free Cashflow: -7001500
+Operating Cashflow: -8840000
+Return On Assets: -0.50694
+Return On Equity: -1.03968
+Total Cash: 1064000
+Total Debt: 28000
+Debt To Equity: 0.338
+Current Ratio: 2.015
+Quick Ratio: 0.619
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.19665273
+Beta: -0.115
+52 Week High: 0.047
+52 Week Low: 0.047

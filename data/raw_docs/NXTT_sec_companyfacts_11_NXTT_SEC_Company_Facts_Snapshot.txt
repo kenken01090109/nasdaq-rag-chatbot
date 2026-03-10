@@ -1,0 +1,11 @@
+Company: Next Technology Holding Inc. Ordinary Shares
+Ticker: NXTT
+CIK: 0001784970
+Latest SEC XBRL Facts:
+Revenues: 1788205 | unit=USD | filed=2025-10-08 | period_end=2025-09-30
+NetIncomeLoss: 295122702 | unit=USD | filed=2025-10-08 | period_end=2025-09-30
+Assets: 679538464 | unit=USD | filed=2025-10-08 | period_end=2025-09-30
+Liabilities: 104431874 | unit=USD | filed=2025-10-08 | period_end=2025-09-30
+StockholdersEquity: 575106590 | unit=USD | filed=2025-10-08 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3658931 | unit=USD | filed=2025-10-08 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12357568 | unit=USD | filed=2025-10-08 | period_end=2025-09-30

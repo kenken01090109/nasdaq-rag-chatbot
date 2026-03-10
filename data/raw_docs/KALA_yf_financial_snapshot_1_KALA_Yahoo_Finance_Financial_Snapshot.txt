@@ -1,0 +1,25 @@
+Company: KALA BIO Inc. Common Stock
+Ticker: KALA
+Market Cap: 253440960
+Enterprise Value: 11104674
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -41311000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -22026250
+Operating Cashflow: -32033000
+Return On Assets: -0.65808
+Return On Equity: 
+Total Cash: 21096000
+Total Debt: 29943000
+Debt To Equity: 
+Current Ratio: 0.745
+Quick Ratio: 0.648
+Trailing PE: 
+Forward PE: -0.041694153
+Price To Book: -0.23850773
+Beta: -2.371
+52 Week High: 20.6
+52 Week Low: 0.2552

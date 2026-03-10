@@ -1,0 +1,10 @@
+Company: M3-Brigade Acquisition V Corp. Class A Ordinary shares
+Ticker: MBAV
+CIK: 0002016072
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4606168 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 305872062 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 19584063 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -17660782 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -457400 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 934287 | unit=USD | filed=2024-11-13 | period_end=2024-09-30

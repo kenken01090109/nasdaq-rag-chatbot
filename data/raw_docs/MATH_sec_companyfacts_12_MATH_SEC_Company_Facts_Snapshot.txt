@@ -1,0 +1,11 @@
+Company: Metalpha Technology Holding Limited Ordinary Shares
+Ticker: MATH
+CIK: 0001682241
+Latest SEC XBRL Facts:
+Revenues: 1230919 | unit=USD | filed=2022-03-11 | period_end=2021-09-30
+NetIncomeLoss: -7355329 | unit=USD | filed=2022-03-11 | period_end=2021-09-30
+Assets: 12655160 | unit=USD | filed=2022-03-11 | period_end=2021-09-30
+Liabilities: 3699300 | unit=USD | filed=2022-03-11 | period_end=2021-09-30
+StockholdersEquity: 9535528 | unit=USD | filed=2022-03-11 | period_end=2021-09-30
+NetCashProvidedByUsedInOperatingActivities: -4863795 | unit=USD | filed=2022-03-11 | period_end=2021-09-30
+CashAndCashEquivalentsAtCarryingValue: 1775673 | unit=USD | filed=2022-03-11 | period_end=2021-09-30

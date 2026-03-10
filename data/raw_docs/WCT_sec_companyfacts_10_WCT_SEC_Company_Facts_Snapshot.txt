@@ -1,0 +1,11 @@
+Company: Wellchange Holdings Company Limited Class A Ordinary shares
+Ticker: WCT
+CIK: 0001990251
+Latest SEC XBRL Facts:
+Revenues: 2309218 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+NetIncomeLoss: -2965109 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Assets: 13273867 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Liabilities: 988381 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+StockholdersEquity: 12285486 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -8855965 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 71538 | unit=USD | filed=2025-10-17 | period_end=2025-06-30

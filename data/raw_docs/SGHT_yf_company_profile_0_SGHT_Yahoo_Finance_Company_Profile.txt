@@ -1,0 +1,9 @@
+Company: Sight Sciences Inc. Common Stock
+Ticker: SGHT
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Menlo Park
+Website: https://www.sightsciences.com
+Employees: 
+Business Summary: Sight Sciences, Inc., an ophthalmic medical device company, focuses on the development and commercialization of surgical and nonsurgical technologies for the treatment of eye prevalent diseases. The company operates in two segments, Surgical Glaucoma and Dry Eye. Its products include OMNI surgical system, an implant-free, handheld, single-use, therapeutic technology that enables ophthalmic surgeons to perform a comprehensive procedure indicated to reduce intraocular pressure in adult patients with primary open-angle glaucoma, as well as for the catheterization and transluminal viscodilation of Schlemm's canal and cutting of the trabecular meshwork to reduce intraocular pressure in adult patients with open-angle glaucoma; and SION surgical instrument, a bladeless manually operated device used in ophthalmic surgical procedures to excise trabecular meshwork. The company also provides TearCare system, a dry eye device designed to melt and facilitate the removal of meibomian gland obstructions and restore gland functionality. It offers its products through sales representatives and distributors to hospitals, medical centers, and eyecare professionals in the United States. The company was incorporated in 2010 and is headquartered in Menlo Park, California.

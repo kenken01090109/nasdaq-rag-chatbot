@@ -1,0 +1,9 @@
+Company: Anbio Biotechnology Class A Ordinary Shares
+Ticker: NNNN
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: Germany
+City: Frankfurt am Main
+Website: https://www.anbio.com
+Employees: 27
+Business Summary: Anbio Biotechnology provides in vitro diagnostics (IVD) products in the European Union, the Asia Pacific, North America, South America, Africa, and internationally. It offers SARS-CoV-2 antigen rapid and SARS-CoV-2/influenza A/B antigen rapid tests; and lateral flow immunoassay, fluorescence immunoassay, loop-mediated isothermal amplification, chemiluminescence immunoassay, and reverse-transcription polymerase chain reaction products. It serves over-the-counter, point-of-care testing, and laboratory markets. The company was incorporated in 2021 and is based in Frankfurt am Main, Germany.

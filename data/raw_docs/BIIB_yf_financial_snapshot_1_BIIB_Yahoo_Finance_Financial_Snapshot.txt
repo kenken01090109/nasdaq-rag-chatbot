@@ -1,0 +1,25 @@
+Company: Biogen Inc. Common Stock
+Ticker: BIIB
+Market Cap: 27131248640
+Enterprise Value: 30444242944
+Total Revenue: 9890599936
+Revenue Per Share: 67.513
+EBITDA: 3603699968
+Gross Margins: 0.78946
+Operating Margins: 0.19641
+Profit Margins: 0.13071999
+Free Cashflow: 1981887488
+Operating Cashflow: 2204600064
+Return On Assets: 0.0614
+Return On Equity: 0.07394
+Total Cash: 3815699968
+Total Debt: 6657600000
+Debt To Equity: 36.466
+Current Ratio: 2.679
+Quick Ratio: 1.697
+Trailing PE: 21.055809
+Forward PE: 11.383515
+Price To Book: 1.4865115
+Beta: 0.145
+52 Week High: 202.41
+52 Week Low: 110.04

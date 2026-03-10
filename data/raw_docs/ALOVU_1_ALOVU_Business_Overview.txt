@@ -1,0 +1,7 @@
+Company: Aldabra 4 Liquidity Opportunity Vehicle Inc. Units
+Ticker: ALOVU
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

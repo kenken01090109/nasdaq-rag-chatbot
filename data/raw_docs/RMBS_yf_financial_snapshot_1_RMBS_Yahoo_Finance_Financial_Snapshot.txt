@@ -1,0 +1,25 @@
+Company: Rambus Inc. Common Stock
+Ticker: RMBS
+Market Cap: 9498519552
+Enterprise Value: 9170196480
+Total Revenue: 707630016
+Revenue Per Share: 6.58
+EBITDA: 302207008
+Gross Margins: 0.80564004
+Operating Margins: 0.37229002
+Profit Margins: 0.32567
+Free Cashflow: 250735120
+Operating Cashflow: 360019008
+Return On Assets: 0.11323
+Return On Equity: 0.18547001
+Total Cash: 761830976
+Total Debt: 24981000
+Debt To Equity: 1.831
+Current Ratio: 8.201
+Quick Ratio: 7.668
+Trailing PE: 41.763035
+Forward PE: 25.08162
+Price To Book: 6.9610553
+Beta: 1.589
+52 Week High: 135.75
+52 Week Low: 40.12

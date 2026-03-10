@@ -1,0 +1,11 @@
+Company: ADTRAN Holdings Inc. Common Stock
+Ticker: ADTN
+CIK: 0000926282
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 792247000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -42060000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1208908000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 665237000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 348537000 | unit=USD | filed=2022-08-05 | period_end=2022-06-30
+NetCashProvidedByUsedInOperatingActivities: 87529000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 93682000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

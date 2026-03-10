@@ -1,0 +1,11 @@
+Company: BitFuFu Inc. Warrant
+Ticker: FUFUW
+CIK: 0001921158
+Latest SEC XBRL Facts:
+Revenues: 193439000 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+NetIncomeLoss: 36639000 | unit=USD | filed=2024-09-24 | period_end=2024-06-30
+Assets: 467605000 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+Liabilities: 265247000 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+StockholdersEquity: 117770000 | unit=USD | filed=2024-09-24 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -54299000 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 40086000 | unit=USD | filed=2025-09-05 | period_end=2025-06-30

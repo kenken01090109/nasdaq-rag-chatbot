@@ -1,0 +1,12 @@
+Company: Autolus Therapeutics plc American Depositary Share
+Ticker: AUTL
+CIK: 0001730463
+Latest SEC XBRL Facts:
+Revenues: 8982000 | unit=USD | filed=2025-05-08 | period_end=2025-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 51099000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -197196000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 661947000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 396495000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 265452000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -216245000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 86124000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

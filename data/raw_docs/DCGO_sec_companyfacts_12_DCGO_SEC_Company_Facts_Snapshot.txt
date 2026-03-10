@@ -1,0 +1,11 @@
+Company: DocGo Inc. Common Stock
+Ticker: DCGO
+CIK: 0001822359
+Latest SEC XBRL Facts:
+Revenues: 247260312 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -48328947 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 353782879 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 93120992 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 270532470 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 44918954 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73355638 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

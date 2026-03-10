@@ -1,0 +1,12 @@
+Company: Astec Industries Inc. Common Stock
+Ticker: ASTE
+CIK: 0000792987
+Latest SEC XBRL Facts:
+Revenues: 27570000 | unit=USD | filed=2015-08-06 | period_end=2015-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1009800000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 26800000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1349000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 680000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 668900000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 25300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 69300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Intellia Therapeutics Inc. Common Stock
+Ticker: NTLA
+CIK: 0001652130
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 44654000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -316908000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 925275000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 176853000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 748422000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -325451000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 193389000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

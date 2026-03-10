@@ -1,0 +1,12 @@
+Company: CVD Equipment Corporation Common Stock
+Ticker: CVV
+CIK: 0000766792
+Latest SEC XBRL Facts:
+Revenues: 31312055 | unit=USD | filed=2017-11-14 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20836000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -317000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 29775000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 4000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 25775000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4075000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8358000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

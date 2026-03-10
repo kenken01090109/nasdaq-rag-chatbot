@@ -1,0 +1,11 @@
+Company: Viemed Healthcare Inc. Common Shares
+Ticker: VMD
+CIK: 0001729149
+Latest SEC XBRL Facts:
+Revenues: 194099000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 9295000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 202360000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 66865000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 133608000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 33475000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11123000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

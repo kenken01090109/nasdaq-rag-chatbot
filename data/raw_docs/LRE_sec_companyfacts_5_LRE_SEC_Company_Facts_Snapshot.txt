@@ -1,0 +1,10 @@
+Company: Lead Real Estate Co. Ltd American Depositary Shares
+Ticker: LRE
+CIK: 0001888980
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 18842663000 | unit=JPY | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: 846784000 | unit=JPY | filed=2025-10-30 | period_end=2025-06-30
+Assets: 20479834000 | unit=JPY | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 15449121000 | unit=JPY | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 3313098000 | unit=JPY | filed=2025-10-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2656860000 | unit=JPY | filed=2025-10-30 | period_end=2025-06-30

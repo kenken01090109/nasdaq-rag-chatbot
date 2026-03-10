@@ -1,0 +1,10 @@
+Company: BayFirst Financial Corp. Common Stock
+Ticker: BAFN
+CIK: 0001649739
+Latest SEC XBRL Facts:
+NetIncomeLoss: -20474000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 1345978000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1256250000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 89728000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 184764000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 118550000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

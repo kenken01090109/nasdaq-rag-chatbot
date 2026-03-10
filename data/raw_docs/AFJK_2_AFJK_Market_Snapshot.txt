@@ -1,0 +1,10 @@
+Company: Aimei Health Technology Co. Ltd Ordinary Share
+Ticker: AFJK
+Market Cap: 188182064
+Enterprise Value: 189834496
+Trailing PE: 153.7
+Forward PE: 
+Price To Book: -54.69751
+Beta: -2.983
+52 Week High: 130.37
+52 Week Low: 6.75

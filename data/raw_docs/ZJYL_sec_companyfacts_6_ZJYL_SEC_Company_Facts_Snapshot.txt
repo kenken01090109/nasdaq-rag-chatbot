@@ -1,0 +1,11 @@
+Company: JIN MEDICAL INTERNATIONAL LTD. Ordinary Shares
+Ticker: ZJYL
+CIK: 0001837821
+Latest SEC XBRL Facts:
+Revenues: 9881505 | unit=USD | filed=2025-08-20 | period_end=2025-03-31
+NetIncomeLoss: -89008 | unit=USD | filed=2025-08-20 | period_end=2025-03-31
+Assets: 48523494 | unit=USD | filed=2025-08-20 | period_end=2025-03-31
+Liabilities: 20767173 | unit=USD | filed=2025-08-20 | period_end=2025-03-31
+StockholdersEquity: 27912550 | unit=USD | filed=2025-08-20 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 2562029 | unit=USD | filed=2025-08-20 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 2400000 | unit=USD | filed=2023-08-23 | period_end=2023-03-31

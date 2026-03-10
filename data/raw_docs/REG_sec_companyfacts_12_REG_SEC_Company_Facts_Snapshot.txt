@@ -1,0 +1,11 @@
+Company: Regency Centers Corporation Common Stock
+Ticker: REG
+CIK: 0000910606
+Latest SEC XBRL Facts:
+Revenues: 1149330000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 324981000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 13058979000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 5998923000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 6797034000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 623744000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36855000 | unit=USD | filed=2017-05-10 | period_end=2017-03-31

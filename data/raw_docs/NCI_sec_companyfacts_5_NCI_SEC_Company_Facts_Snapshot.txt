@@ -1,0 +1,11 @@
+Company: Neo-Concept International Group Holdings Limited Class A Ordinary Shares
+Ticker: NCI
+CIK: 0001916331
+Latest SEC XBRL Facts:
+Revenues: 30339448 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetIncomeLoss: 1038059 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Assets: 17463045 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Liabilities: 10147305 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+StockholdersEquity: 7315740 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 55131 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1180017 | unit=USD | filed=2025-05-15 | period_end=2024-12-31

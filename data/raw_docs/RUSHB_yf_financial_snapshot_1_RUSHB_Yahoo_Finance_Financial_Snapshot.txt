@@ -1,0 +1,25 @@
+Company: Rush Enterprises Inc. Class B
+Ticker: RUSHB
+Market Cap: 5027923968
+Enterprise Value: 6028238848
+Total Revenue: 7434194944
+Revenue Per Share: 94.848
+EBITDA: 646187008
+Gross Margins: 0.19754
+Operating Margins: 0.051570002
+Profit Margins: 0.03548
+Free Cashflow: 389203616
+Operating Cashflow: 861838976
+Return On Assets: 0.05434
+Return On Equity: 0.12126
+Total Cash: 212644992
+Total Debt: 1442530944
+Debt To Equity: 64.808
+Current Ratio: 1.401
+Quick Ratio: 0.329
+Trailing PE: 18.370031
+Forward PE: 
+Price To Book: 2.0872133
+Beta: 0.873
+52 Week High: 67.27
+52 Week Low: 47.71

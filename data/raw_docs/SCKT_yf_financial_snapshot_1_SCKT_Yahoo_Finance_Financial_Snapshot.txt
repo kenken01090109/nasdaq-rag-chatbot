@@ -1,0 +1,25 @@
+Company: Socket Mobile Inc. Common Stock
+Ticker: SCKT
+Market Cap: 7800979
+Enterprise Value: 12874842
+Total Revenue: 15078000
+Revenue Per Share: 1.903
+EBITDA: -1863650
+Gross Margins: 0.49662
+Operating Margins: -0.14887999
+Profit Margins: -0.95357
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.0963
+Return On Equity: -1.2815499
+Total Cash: 2032000
+Total Debt: 7772000
+Debt To Equity: 181.674
+Current Ratio: 1.101
+Quick Ratio: 0.477
+Trailing PE: 
+Forward PE: 19.56
+Price To Book: 1.821229
+Beta: 1.181
+52 Week High: 1.36
+52 Week Low: 0.82

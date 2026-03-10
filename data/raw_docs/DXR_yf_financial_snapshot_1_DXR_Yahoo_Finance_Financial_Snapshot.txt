@@ -1,0 +1,25 @@
+Company: Daxor Corporation Common Stock
+Ticker: DXR
+Market Cap: 66284696
+Enterprise Value: 
+Total Revenue: 26688
+Revenue Per Share: 0.005
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -96.605515
+Profit Margins: 343.59164
+Free Cashflow: 100248
+Operating Cashflow: 570936
+Return On Assets: -0.01638
+Return On Equity: 0.22453
+Total Cash: 
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.08
+Quick Ratio: 
+Trailing PE: 71.09375
+Forward PE: 
+Price To Book: 1.2542728
+Beta: 
+52 Week High: 14.76
+52 Week Low: 7.1

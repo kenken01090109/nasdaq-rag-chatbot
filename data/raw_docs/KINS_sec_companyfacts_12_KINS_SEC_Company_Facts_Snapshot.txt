@@ -1,0 +1,11 @@
+Company: Kingstone Companies Inc. Common Stock
+Ticker: KINS
+CIK: 0000033992
+Latest SEC XBRL Facts:
+Revenues: 158446044 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 26007467 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 428590242 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 320937200 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 107653042 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 53061543 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15132969 | unit=USD | filed=2023-11-20 | period_end=2023-09-30

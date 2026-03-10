@@ -1,0 +1,12 @@
+Company: Rave Restaurant Group Inc. Common Stock
+Ticker: RAVE
+CIK: 0000718332
+Latest SEC XBRL Facts:
+Revenues: 12294000 | unit=USD | filed=2018-05-09 | period_end=2018-03-25
+RevenueFromContractWithCustomerExcludingAssessedTax: 6255000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+NetIncomeLoss: 1282000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+Assets: 17547000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+Liabilities: 2011000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+StockholdersEquity: 15536000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 914000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 624000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28

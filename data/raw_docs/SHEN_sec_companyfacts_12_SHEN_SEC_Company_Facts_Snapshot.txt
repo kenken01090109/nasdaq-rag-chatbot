@@ -1,0 +1,10 @@
+Company: Shenandoah Telecommunications Co Common Stock
+Ticker: SHEN
+CIK: 0000354963
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 266262000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -27570000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 1850424000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 892678000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72208000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22621000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

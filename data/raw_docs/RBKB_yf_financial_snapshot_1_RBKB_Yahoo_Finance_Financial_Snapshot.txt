@@ -1,0 +1,25 @@
+Company: Rhinebeck Bancorp Inc. Common Stock
+Ticker: RBKB
+Market Cap: 177439264
+Enterprise Value: 102419000
+Total Revenue: 51705000
+Revenue Per Share: 4.785
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.23913999
+Profit Margins: 0.19428
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00786
+Return On Equity: 0.077659994
+Total Cash: 101986000
+Total Debt: 30308000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.304348
+Forward PE: 
+Price To Book: 1.2618897
+Beta: 0.114
+52 Week High: 16.495
+52 Week Low: 9.31

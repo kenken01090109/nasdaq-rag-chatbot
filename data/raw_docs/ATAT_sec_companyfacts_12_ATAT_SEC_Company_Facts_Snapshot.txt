@@ -1,0 +1,11 @@
+Company: Atour Lifestyle Holdings Limited American Depositary Shares
+Ticker: ATAT
+CIK: 0001853717
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 203356000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31
+NetIncomeLoss: 35615000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31
+Assets: 936325000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31
+Liabilities: 613839000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31
+StockholdersEquity: 323515000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31
+NetCashProvidedByUsedInOperatingActivities: 19838000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31
+CashAndCashEquivalentsAtCarryingValue: 422200000 | unit=USD | filed=2024-06-10 | period_end=2024-03-31

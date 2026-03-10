@@ -1,0 +1,11 @@
+Company: Winmark Corporation Common Stock
+Ticker: WINA
+CIK: 0000908315
+Latest SEC XBRL Facts:
+Revenues: 64969400 | unit=USD | filed=2025-10-15 | period_end=2025-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 1300000 | unit=USD | filed=2023-03-10 | period_end=2021-12-25
+NetIncomeLoss: 31694200 | unit=USD | filed=2025-10-15 | period_end=2025-09-27
+Assets: 53747200 | unit=USD | filed=2025-10-15 | period_end=2025-09-27
+StockholdersEquity: -26341200 | unit=USD | filed=2025-10-15 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 36373800 | unit=USD | filed=2025-10-15 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 39734800 | unit=USD | filed=2025-10-15 | period_end=2025-09-27

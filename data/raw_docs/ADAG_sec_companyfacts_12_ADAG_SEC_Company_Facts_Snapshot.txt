@@ -1,0 +1,11 @@
+Company: Adagene Inc. American Depositary Shares
+Ticker: ADAG
+CIK: 0001818838
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 17295745 | unit=USD | filed=2024-07-25 | period_end=2023-06-30
+NetIncomeLoss: -13477240 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+Assets: 66516743 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+Liabilities: 28604954 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+StockholdersEquity: 37911789 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -11129273 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 62828156 | unit=USD | filed=2025-08-12 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Pool Corporation Common Stock
+Ticker: POOL
+Market Cap: 7973365760
+Enterprise Value: 9446870016
+Total Revenue: 5289396224
+Revenue Per Share: 142.383
+EBITDA: 631166976
+Gross Margins: 0.29728
+Operating Margins: 0.053239997
+Profit Margins: 0.07683
+Free Cashflow: 203107872
+Operating Cashflow: 365849984
+Return On Assets: 0.10374
+Return On Equity: 0.33058998
+Total Cash: 104963000
+Total Debt: 1535031040
+Debt To Equity: 129.513
+Current Ratio: 2.238
+Quick Ratio: 0.514
+Trailing PE: 19.692165
+Forward PE: 17.960508
+Price To Book: 6.593834
+Beta: 1.247
+52 Week High: 374.74
+52 Week Low: 210.67

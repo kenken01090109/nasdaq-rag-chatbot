@@ -1,0 +1,11 @@
+Company: Arbutus Biopharma Corporation Common Stock
+Ticker: ABUS
+CIK: 0001447028
+Latest SEC XBRL Facts:
+Revenues: 13032000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -29745000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 97710000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 20311000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 77399000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -34957000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22408000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

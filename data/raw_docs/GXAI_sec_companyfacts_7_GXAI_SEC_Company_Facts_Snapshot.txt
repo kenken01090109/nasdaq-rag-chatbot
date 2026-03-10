@@ -1,0 +1,11 @@
+Company: Gaxos.ai Inc. Common Stock
+Ticker: GXAI
+CIK: 0001895618
+Latest SEC XBRL Facts:
+Revenues: 692974 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -2942662 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 14286024 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 451871 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 14095084 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3120632 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2371933 | unit=USD | filed=2024-08-13 | period_end=2024-06-30

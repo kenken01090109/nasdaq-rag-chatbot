@@ -1,0 +1,9 @@
+Company: VanEck Avalanche ETF Common Shares of Beneficial Interest
+Ticker: VAVX
+Sector: 
+Industry: 
+Country: 
+City: 
+Website: 
+Employees: 
+Business Summary: In seeking to achieve its investment objective, the Trust will hold AVAX and will value its shares daily based on the reported MarketVectorTM Avalanche Benchmark Rate.

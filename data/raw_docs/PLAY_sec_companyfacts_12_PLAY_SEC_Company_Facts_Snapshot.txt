@@ -1,0 +1,11 @@
+Company: Dave & Buster's Entertainment Inc. Common Stock
+Ticker: PLAY
+CIK: 0001525769
+Latest SEC XBRL Facts:
+Revenues: 116821000 | unit=USD | filed=2021-03-31 | period_end=2021-01-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1573200000 | unit=USD | filed=2025-12-09 | period_end=2025-11-04
+NetIncomeLoss: -9000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-04
+Assets: 4130700000 | unit=USD | filed=2025-12-09 | period_end=2025-11-04
+StockholdersEquity: 130800000 | unit=USD | filed=2025-12-09 | period_end=2025-11-04
+NetCashProvidedByUsedInOperatingActivities: 187800000 | unit=USD | filed=2025-12-09 | period_end=2025-11-04
+CashAndCashEquivalentsAtCarryingValue: 13600000 | unit=USD | filed=2025-12-09 | period_end=2025-11-04

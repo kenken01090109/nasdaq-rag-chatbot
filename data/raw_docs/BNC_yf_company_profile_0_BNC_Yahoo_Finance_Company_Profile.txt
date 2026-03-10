@@ -1,0 +1,9 @@
+Company: CEA Industries Inc. Common Stock
+Ticker: BNC
+Sector: Industrials
+Industry: Farm & Heavy Construction Machinery
+Country: United States
+City: Louisville
+Website: https://ceaindustries.com
+Employees: 29
+Business Summary: CEA Industries Inc., through its subsidiary, Surna Cultivation Technologies LLC, focuses on the sale of environmental control and other technologies and services to the controlled environment agriculture (CEA) industry in the United States and Canada. It offers architectural design and licensed engineering of commercial scale thermodynamic systems specific to cultivation facilities; liquid-based process cooling systems and other climate control systems; air handling equipment and systems; and air sanitation products. The company also provides LED lighting; benching and racking solutions for indoor cultivation; proprietary and third-party controls systems and technologies for environmental, lighting, and climate control; and preventative maintenance services for CEA facilities. In addition, it offers a range of service solutions that include facility design and budgeting, equipment selection and specification, equipment installation advisory, and preventative maintenance services. Further, the company retails and manufactures e-cigarettes, vape devices, and e-liquids. It serves commercial, state- and provincial-regulated CEA growers. CEA Industries Inc. is headquartered in Louisville, Colorado.

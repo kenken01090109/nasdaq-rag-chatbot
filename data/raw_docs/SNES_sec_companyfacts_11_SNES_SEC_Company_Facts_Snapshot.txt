@@ -1,0 +1,12 @@
+Company: SenesTech Inc. Common Stock
+Ticker: SNES
+CIK: 0001680378
+Latest SEC XBRL Facts:
+Revenues: 722000 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1800000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -4579000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 14624000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3276000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 11348000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4086000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7278000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

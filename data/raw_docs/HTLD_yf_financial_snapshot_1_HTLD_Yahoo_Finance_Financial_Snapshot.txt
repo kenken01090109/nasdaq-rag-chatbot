@@ -1,0 +1,25 @@
+Company: Heartland Express Inc. Common Stock
+Ticker: HTLD
+Market Cap: 786092480
+Enterprise Value: 980232704
+Total Revenue: 805708992
+Revenue Per Share: 10.346
+EBITDA: 97331000
+Gross Margins: 0.2708
+Operating Margins: -0.089449994
+Profit Margins: -0.0651
+Free Cashflow: -21434124
+Operating Cashflow: 89314000
+Return On Assets: -0.030620001
+Return On Equity: -0.066479996
+Total Cash: 18475000
+Total Debt: 161420000
+Debt To Equity: 21.371
+Current Ratio: 1.04
+Quick Ratio: 0.851
+Trailing PE: 
+Forward PE: 25.31993
+Price To Book: 1.0407053
+Beta: 1.112
+52 Week High: 12.13
+52 Week Low: 7.0

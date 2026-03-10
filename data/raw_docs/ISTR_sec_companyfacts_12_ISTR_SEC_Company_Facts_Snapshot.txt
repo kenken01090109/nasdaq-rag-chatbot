@@ -1,0 +1,10 @@
+Company: Investar Holding Corporation Common Stock
+Ticker: ISTR
+CIK: 0001602658
+Latest SEC XBRL Facts:
+NetIncomeLoss: 16966000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2800628000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2505333000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 295295000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14595000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45983000 | unit=USD | filed=2016-11-04 | period_end=2016-09-30

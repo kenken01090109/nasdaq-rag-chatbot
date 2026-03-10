@@ -1,0 +1,11 @@
+Company: ATA Creativity Global American Depositary Shares
+Ticker: AACG
+CIK: 0001420529
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 25141976 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetIncomeLoss: -3054311 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 64971515 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 56709014 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 8271531 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2777242 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13598435 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

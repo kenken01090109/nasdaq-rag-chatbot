@@ -1,0 +1,9 @@
+Company: Cenntro Inc. Common Stock
+Ticker: CENN
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: United States
+City: Freehold
+Website: https://cenntroauto.com
+Employees: 260
+Business Summary: Cenntro Inc. engages in the design, development, and manufacture of electric light and medium-duty commercial vehicles in Europe, Asia, and the United States. Its purpose-built electric commercial vehicles are designed to serve various fleet and municipal organizations in support of city services, last-mile delivery, and other commercial applications. The company sells its products under the Metro, Logistar, Logimax, Avantier, Teemak, and Antric One names. Cenntro Inc. was founded in 2013 and is based in Freehold, New Jersey. Cenntro Inc. is a subsidiary of Cenntro Electric Group Limited.

@@ -1,0 +1,25 @@
+Company: Playtika Holding Corp. Common Stock
+Ticker: PLTK
+Market Cap: 1054549376
+Enterprise Value: 2816056064
+Total Revenue: 2755399936
+Revenue Per Share: 7.332
+EBITDA: 636400000
+Gross Margins: 0.72472
+Operating Margins: 0.23144
+Profit Margins: -0.07491
+Free Cashflow: 878049984
+Operating Cashflow: 567699968
+Return On Assets: 0.07388
+Return On Equity: 
+Total Cash: 825100032
+Total Debt: 2533499904
+Debt To Equity: 
+Current Ratio: 1.099
+Quick Ratio: 1.025
+Trailing PE: 
+Forward PE: 2.822335
+Price To Book: -2.548121
+Beta: 0.874
+52 Week High: 5.59
+52 Week Low: 2.675

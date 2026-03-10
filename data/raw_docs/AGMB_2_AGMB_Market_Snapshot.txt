@@ -1,0 +1,10 @@
+Company: AgomAb Therapeutics NV American Depositary Shares
+Ticker: AGMB
+Market Cap: 692549632
+Enterprise Value: 130122248
+Trailing PE: 
+Forward PE: -7.607066
+Price To Book: -0.0019990336
+Beta: 
+52 Week High: 17.45
+52 Week Low: 12.66

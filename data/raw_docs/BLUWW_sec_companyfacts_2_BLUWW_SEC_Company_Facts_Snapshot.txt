@@ -1,0 +1,10 @@
+Company: Blue Water Acquisition Corp. III Warrant.
+Ticker: BLUWW
+CIK: 0002050501
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2660637 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 257193812 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 9146805 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -8225452 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -367921 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 759229 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

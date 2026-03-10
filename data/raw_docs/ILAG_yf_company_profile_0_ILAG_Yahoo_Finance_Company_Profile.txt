@@ -1,0 +1,9 @@
+Company: Intelligent Living Application Group Inc. Ordinary Shares
+Ticker: ILAG
+Sector: Industrials
+Industry: Building Products & Equipment
+Country: Hong Kong
+City: Kwai Chung
+Website: https://www.i-l-a-g.com
+Employees: 238
+Business Summary: Intelligent Living Application Group Inc., through its subsidiaries, manufactures and sells mechanical locksets to customers mainly in the United States and Canada. It offers locksets functions, deadbolts, entry locksets, privacy locksets, passage locksets, and storeroom locks under the Bamberg and Kambo brand names. The company offers locksets for outdoor uses, such as main entrances and gates, and indoor uses. Intelligent Living Application Group Inc. was founded in 1981 and is headquartered in Kwai Chung, Hong Kong.

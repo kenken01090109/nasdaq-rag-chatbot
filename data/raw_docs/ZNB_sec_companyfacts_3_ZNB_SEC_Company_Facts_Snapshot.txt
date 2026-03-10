@@ -1,0 +1,12 @@
+Company: Zeta Network Group Class A Ordinary Shares
+Ticker: ZNB
+CIK: 0001747661
+Latest SEC XBRL Facts:
+Revenues: 1060442 | unit=USD | filed=2025-06-25 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1262674 | unit=USD | filed=2022-06-29 | period_end=2021-12-31
+NetIncomeLoss: -22818878 | unit=USD | filed=2025-06-25 | period_end=2024-12-31
+Assets: 15342089 | unit=USD | filed=2025-06-25 | period_end=2024-12-31
+Liabilities: 9478079 | unit=USD | filed=2025-06-25 | period_end=2024-12-31
+StockholdersEquity: 5864010 | unit=USD | filed=2025-06-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1765940 | unit=USD | filed=2025-06-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 381319 | unit=USD | filed=2021-05-07 | period_end=2020-12-31

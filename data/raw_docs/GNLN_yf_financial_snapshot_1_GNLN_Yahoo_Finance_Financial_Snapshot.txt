@@ -1,0 +1,25 @@
+Company: Greenlane Holdings Inc. Class A Common Stock
+Ticker: GNLN
+Market Cap: 6324895
+Enterprise Value: -498572
+Total Revenue: 4653000
+Revenue Per Share: 7.689
+EBITDA: -18260000
+Gross Margins: -0.78401
+Operating Margins: -11.67978
+Profit Margins: 0.0
+Free Cashflow: -7508875
+Operating Cashflow: -13320000
+Return On Assets: -0.45715
+Return On Equity: -2.4384
+Total Cash: 1810000
+Total Debt: 320000
+Debt To Equity: 2.906
+Current Ratio: 2.165
+Quick Ratio: 0.906
+Trailing PE: 
+Forward PE: -0.14410163
+Price To Book: 0.09863354
+Beta: 1.215
+52 Week High: 431.25
+52 Week Low: 0.6

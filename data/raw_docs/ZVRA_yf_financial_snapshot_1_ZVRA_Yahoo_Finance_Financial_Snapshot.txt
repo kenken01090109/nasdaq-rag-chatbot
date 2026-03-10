@@ -1,0 +1,25 @@
+Company: Zevra Therapeutics Inc. Common Stock
+Ticker: ZVRA
+Market Cap: 505551840
+Enterprise Value: 368759872
+Total Revenue: 84388000
+Revenue Per Share: 1.546
+EBITDA: -23624000
+Gross Margins: 0.80651003
+Operating Margins: 0.15896
+Profit Margins: 0.4186
+Free Cashflow: -30059876
+Operating Cashflow: -23364000
+Return On Assets: -0.07842
+Return On Equity: 0.34814
+Total Cash: 199508992
+Total Debt: 62717000
+Debt To Equity: 47.097
+Current Ratio: 8.621
+Quick Ratio: 8.285
+Trailing PE: 19.106382
+Forward PE: 14.4838705
+Price To Book: 3.790629
+Beta: 0.938
+52 Week High: 13.16
+52 Week Low: 6.19

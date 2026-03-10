@@ -1,0 +1,25 @@
+Company: Genelux Corporation Common Stock
+Ticker: GNLX
+Market Cap: 121186976
+Enterprise Value: 81902600
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -33309000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -12388750
+Operating Cashflow: -23371000
+Return On Assets: -0.64265
+Return On Equity: -1.23347
+Total Cash: 20915000
+Total Debt: 1624000
+Debt To Equity: 8.735
+Current Ratio: 4.204
+Quick Ratio: 4.08
+Trailing PE: 
+Forward PE: -2.967164
+Price To Book: 5.4858303
+Beta: 0.133
+52 Week High: 8.535
+52 Week Low: 1.988

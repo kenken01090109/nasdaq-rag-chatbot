@@ -1,0 +1,25 @@
+Company: SOBR Safe Inc. Common Stock
+Ticker: SOBR
+Market Cap: 1367523
+Enterprise Value: -3299863
+Total Revenue: 364164
+Revenue Per Share: 0.322
+EBITDA: -8101875
+Gross Margins: 0.27873
+Operating Margins: -20.43406
+Profit Margins: 0.0
+Free Cashflow: -4290149
+Operating Cashflow: -6941082
+Return On Assets: -1.00681
+Return On Equity: -2.06113
+Total Cash: 4727400
+Total Debt: 344058
+Debt To Equity: 5.765
+Current Ratio: 4.269
+Quick Ratio: 3.893
+Trailing PE: 0.0021720245
+Forward PE: -2.1969697
+Price To Book: 0.18257366
+Beta: 0.172
+52 Week High: 8.11
+52 Week Low: 0.663

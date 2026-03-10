@@ -1,0 +1,12 @@
+Company: Greenpro Capital Corp. Common Stock
+Ticker: GRNQ
+CIK: 0001597846
+Latest SEC XBRL Facts:
+Revenues: 637735 | unit=USD | filed=2023-05-11 | period_end=2023-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1173075 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -1722930 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 6124159 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1793849 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4292935 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1180574 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 775388 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

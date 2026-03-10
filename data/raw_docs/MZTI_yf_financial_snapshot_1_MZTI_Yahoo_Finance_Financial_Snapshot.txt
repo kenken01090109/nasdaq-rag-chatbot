@@ -1,0 +1,25 @@
+Company: The Marzetti Company Common Stock
+Ticker: MZTI
+Market Cap: 4462352384
+Enterprise Value: 
+Total Revenue: 1944688000
+Revenue Per Share: 70.847
+EBITDA: 300318016
+Gross Margins: 0.24072
+Operating Margins: 0.106120005
+Profit Margins: 0.09252
+Free Cashflow: 160966368
+Operating Cashflow: 292112992
+Return On Assets: 0.113529995
+Return On Equity: 0.17878
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 2.72
+Quick Ratio: 1.69
+Trailing PE: 24.862175
+Forward PE: 21.974825
+Price To Book: 4.310597
+Beta: 0.415
+52 Week High: 195.62
+52 Week Low: 152.17

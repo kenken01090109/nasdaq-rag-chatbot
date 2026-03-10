@@ -1,0 +1,11 @@
+Company: OP Bancorp Common Stock
+Ticker: OPBK
+CIK: 0001722010
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2742000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 18596000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2614214000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2392715000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 221499000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22606000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 166748000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Flushing Financial Corporation Common Stock
+Ticker: FFIC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Uniondale
+Website: https://www.flushingbank.com
+Employees: 
+Business Summary: Flushing Financial Corporation operates as the bank holding company for Flushing Bank that provides banking products and services primarily to consumers, businesses, and governmental units. It offers various deposit products, including checking and savings accounts, money market accounts, non-interest bearing demand accounts, NOW accounts, and certificates of deposit. The company provides mortgage loans secured by multi-family residential, commercial real estate, one-to-four family mixed-use property, one-to-four family residential property, and commercial business loans; construction loans; small business administration loans and other small business loans; mortgage loan surrogates, such as mortgage-backed securities; and consumer loans, including overdraft lines of credit, as well as the United States government securities, corporate fixed-income securities, and other marketable securities. It operates full-service banking offices in Queens, Nassau, Suffolk, Kings, and New York counties, New York; and an internet branch under the iGObanking and BankPurely brands. The company was founded in 1929 and is based in Uniondale, New York.

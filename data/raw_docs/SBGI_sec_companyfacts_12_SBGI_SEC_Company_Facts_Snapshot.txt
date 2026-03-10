@@ -1,0 +1,11 @@
+Company: Sinclair Inc. Class A Common Stock
+Ticker: SBGI
+CIK: 0001971213
+Latest SEC XBRL Facts:
+Revenues: 2333000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -221000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 5567000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 5291000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 347000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 91000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 526000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

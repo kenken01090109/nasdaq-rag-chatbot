@@ -1,0 +1,9 @@
+Company: K-Tech Solutions Company Limited Class A Ordinary Shares
+Ticker: KMRK
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: Hong Kong
+City: Kwai Chung
+Website: https://www.k-mark.tech
+Employees: 19
+Business Summary: K-TECH Solutions Company Limited, through its subsidiary, designs, develops, tests, and sells various toy products in Hong Kong, the United Kingdom, Europe, and the United States. The company offers infant, pre-school educational, plastic, and electromechanical toys. It also provides learning kits. The company was founded in 2016 and is based in Kwai Chung, Hong Kong.

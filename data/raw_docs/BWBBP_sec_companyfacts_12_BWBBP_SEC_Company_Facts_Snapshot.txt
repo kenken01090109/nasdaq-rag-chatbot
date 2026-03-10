@@ -1,0 +1,10 @@
+Company: Bridgewater Bancshares Inc. Depositary Shares Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: BWBBP
+CIK: 0001341317
+Latest SEC XBRL Facts:
+NetIncomeLoss: 32754000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 5359994000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 4862531000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 497463000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20835000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 131818000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

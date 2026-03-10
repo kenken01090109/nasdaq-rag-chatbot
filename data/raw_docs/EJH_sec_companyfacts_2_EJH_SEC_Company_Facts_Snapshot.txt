@@ -1,0 +1,11 @@
+Company: E-Home Household Service Holdings Limited Ordinary Shares
+Ticker: EJH
+CIK: 0001769768
+Latest SEC XBRL Facts:
+Revenues: 49402956 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: -3141905 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Assets: 278063374 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 10235113 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+StockholdersEquity: 265894713 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3535895 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 173023447 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

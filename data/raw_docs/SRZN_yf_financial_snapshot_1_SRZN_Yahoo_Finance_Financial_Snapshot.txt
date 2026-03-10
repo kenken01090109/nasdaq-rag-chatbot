@@ -1,0 +1,25 @@
+Company: Surrozen Inc. Common Stock
+Ticker: SRZN
+Market Cap: 231771232
+Enterprise Value: 170803920
+Total Revenue: 3604000
+Revenue Per Share: 0.599
+EBITDA: -37231000
+Gross Margins: 0.0
+Operating Margins: -11.07325
+Profit Margins: 0.0
+Free Cashflow: -8879125
+Operating Cashflow: -20951000
+Return On Assets: -0.3348
+Return On Equity: 
+Total Cash: 81335000
+Total Debt: 7082000
+Debt To Equity: 
+Current Ratio: 13.153
+Quick Ratio: 12.853
+Trailing PE: 
+Forward PE: -5.627472
+Price To Book: -9.854228
+Beta: 0.557
+52 Week High: 29.595
+52 Week Low: 5.9

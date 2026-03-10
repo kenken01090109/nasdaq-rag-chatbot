@@ -1,0 +1,10 @@
+Company: Amalgamated Financial Corp. Common Stock (DE)
+Ticker: AMAL
+CIK: 0001823608
+Latest SEC XBRL Facts:
+NetIncomeLoss: 77807000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 8682974000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 7907401000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 698199000 | unit=USD | filed=2024-11-05 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 98638000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115544000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

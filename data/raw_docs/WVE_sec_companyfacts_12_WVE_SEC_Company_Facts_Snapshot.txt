@@ -1,0 +1,12 @@
+Company: Wave Life Sciences Ltd. Ordinary Shares
+Ticker: WVE
+CIK: 0001631574
+Latest SEC XBRL Facts:
+Revenues: 1422000 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 17874000 | unit=USD | filed=2025-07-30 | period_end=2025-06-30
+NetIncomeLoss: -151199000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 241378000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 108955000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 124549000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -153717000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 196218000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

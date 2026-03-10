@@ -1,0 +1,9 @@
+Company: Kingsoft Cloud Holdings Limited American Depositary Shares
+Ticker: KC
+Sector: Technology
+Industry: Software - Application
+Country: China
+City: Beijing
+Website: https://www.ksyun.com
+Employees: 12335
+Business Summary: Kingsoft Cloud Holdings Limited provides cloud services to businesses and organizations primarily in China. The company's product portfolio includes cloud products, such as infrastructure as a service (IaaS) infrastructure, platform as a service (PaaS) middleware, and software as a service (SaaS) applications that primarily consist of cloud computing, network, containers, database, big data, security, storage, and delivery solutions. It offers research and development services, as well as enterprise digital solutions and related services. The company also provides public cloud services to customers in various verticals, including video, e-commerce, intelligent mobility, artificial intelligence, and mobile internet; and enterprise cloud services to customers in financial services, public service, and healthcare businesses. Kingsoft Cloud Holdings Limited was incorporated in 2012 and is headquartered in Beijing, China.

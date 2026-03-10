@@ -1,0 +1,25 @@
+Company: Lam Research Corporation Common Stock
+Ticker: LRCX
+Market Cap: 250364444672
+Enterprise Value: 266389471232
+Total Revenue: 20560531456
+Revenue Per Share: 16.198
+EBITDA: 7343528960
+Gross Margins: 0.49800998
+Operating Margins: 0.33868998
+Profit Margins: 0.3022
+Free Cashflow: 4816949760
+Operating Cashflow: 7121860096
+Return On Assets: 0.21047
+Return On Equity: 0.65565
+Total Cash: 6180440064
+Total Debt: 4483747840
+Debt To Equity: 44.195
+Current Ratio: 2.256
+Quick Ratio: 1.557
+Trailing PE: 40.930187
+Forward PE: 28.924917
+Price To Book: 24.58133
+Beta: 1.787
+52 Week High: 256.68
+52 Week Low: 56.32

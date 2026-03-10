@@ -1,0 +1,11 @@
+Company: SailPoint Inc. Common Stock
+Ticker: SAIL
+CIK: 0002030781
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 776769000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetIncomeLoss: -233839000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Assets: 7474805000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Liabilities: 645215000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+StockholdersEquity: 6829590000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 6716000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 298114000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31

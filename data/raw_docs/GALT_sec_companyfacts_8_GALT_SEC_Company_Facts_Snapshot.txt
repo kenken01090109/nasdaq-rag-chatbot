@@ -1,0 +1,10 @@
+Company: Galectin Therapeutics Inc. Common Stock
+Ticker: GALT
+CIK: 0001133416
+Latest SEC XBRL Facts:
+NetIncomeLoss: -25336000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 12865000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 136445000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -125303000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17833000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11525000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

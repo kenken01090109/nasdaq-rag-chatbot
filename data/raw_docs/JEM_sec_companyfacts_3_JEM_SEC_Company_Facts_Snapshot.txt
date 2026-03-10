@@ -1,0 +1,11 @@
+Company: 707 Cayman Holdings Limited Ordinary Shares
+Ticker: JEM
+CIK: 0002018222
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13739958 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+NetIncomeLoss: -5262566 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+Assets: 9886569 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+Liabilities: 3334740 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+StockholdersEquity: 6551829 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1334155 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5156627 | unit=USD | filed=2026-01-16 | period_end=2025-09-30

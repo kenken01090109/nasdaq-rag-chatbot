@@ -1,0 +1,25 @@
+Company: Rail Vision Ltd. Warrant
+Ticker: RVSNW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 776000
+Revenue Per Share: 0.652
+EBITDA: -10554000
+Gross Margins: 0.14046
+Operating Margins: -24.071732
+Profit Margins: 0.0
+Free Cashflow: -6072500
+Operating Cashflow: -9748000
+Return On Assets: -0.35284
+Return On Equity: -0.74029
+Total Cash: 22431000
+Total Debt: 405000
+Debt To Equity: 1.785
+Current Ratio: 9.436
+Quick Ratio: 8.611
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0027825679
+Beta: -0.151
+52 Week High: 0.04
+52 Week Low: 0.0355

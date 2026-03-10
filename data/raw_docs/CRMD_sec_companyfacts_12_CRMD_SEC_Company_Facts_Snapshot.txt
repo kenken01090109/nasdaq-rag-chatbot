@@ -1,0 +1,11 @@
+Company: CorMedix Inc. Common Stock
+Ticker: CRMD
+CIK: 0001410098
+Latest SEC XBRL Facts:
+Revenues: 183093736 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 149034859 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 750861478 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 376732072 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 374129406 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 80584819 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 48493076 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

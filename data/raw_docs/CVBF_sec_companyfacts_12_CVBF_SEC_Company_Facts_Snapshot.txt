@@ -1,0 +1,10 @@
+Company: CVB Financial Corporation Common Stock
+Ticker: CVBF
+CIK: 0000354647
+Latest SEC XBRL Facts:
+NetIncomeLoss: 154254000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 15666206000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 13384139000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 2282067000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 176528000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 783920000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Where Food Comes From Inc. Common Stock
+Ticker: WFCF
+CIK: 0001360565
+Latest SEC XBRL Facts:
+Revenues: 8842799 | unit=USD | filed=2019-08-14 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 18850000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 1739000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 16854000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 6555000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10299000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2314000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4759000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

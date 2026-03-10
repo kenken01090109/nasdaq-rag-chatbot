@@ -1,0 +1,25 @@
+Company: CME Group Inc. Class A Common Stock
+Ticker: CME
+Market Cap: 114001387520
+Enterprise Value: 112831438848
+Total Revenue: 6506800128
+Revenue Per Share: 18.092
+EBITDA: 4590000128
+Gross Margins: 1.0
+Operating Margins: 0.63808
+Profit Margins: 0.62584
+Free Cashflow: 837262528
+Operating Cashflow: 4277100032
+Return On Assets: 0.01585
+Return On Equity: 0.1475
+Total Cash: 4541899776
+Total Debt: 3757199872
+Debt To Equity: 13.078
+Current Ratio: 1.032
+Quick Ratio: 0.032
+Trailing PE: 28.439463
+Forward PE: 24.98562
+Price To Book: 3.9621158
+Beta: 0.26
+52 Week High: 329.16
+52 Week Low: 248.53

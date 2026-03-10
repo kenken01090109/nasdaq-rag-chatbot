@@ -1,0 +1,10 @@
+Company: Allot Ltd. Ordinary Shares
+Ticker: ALLT
+Market Cap: 337042304
+Enterprise Value: 262628944
+Trailing PE: 87.0
+Forward PE: 16.771084
+Price To Book: 2.9794521
+Beta: 1.611
+52 Week High: 11.92
+52 Week Low: 4.37

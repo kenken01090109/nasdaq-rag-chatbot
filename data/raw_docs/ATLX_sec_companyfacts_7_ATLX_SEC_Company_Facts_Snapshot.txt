@@ -1,0 +1,12 @@
+Company: Atlas Lithium Corporation Common Stock
+Ticker: ATLX
+CIK: 0001540684
+Latest SEC XBRL Facts:
+Revenues: 56980 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 79415 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -21529466 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 72169028 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 36596401 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 34288132 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15365255 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20977191 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

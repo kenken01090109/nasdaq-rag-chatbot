@@ -1,0 +1,12 @@
+Company: Streamex Corp. Common Stock
+Ticker: STEX
+CIK: 0001530766
+Latest SEC XBRL Facts:
+Revenues: 27000 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 27000 | unit=USD | filed=2025-11-14 | period_end=2024-09-30
+NetIncomeLoss: -38767000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 130514000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 137335000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -6959000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7416000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 400000 | unit=USD | filed=2023-11-14 | period_end=2023-09-30

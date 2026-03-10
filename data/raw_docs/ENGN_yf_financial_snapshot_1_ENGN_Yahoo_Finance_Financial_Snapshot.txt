@@ -1,0 +1,25 @@
+Company: enGene Holdings Inc. Common Stock
+Ticker: ENGN
+Market Cap: 581468544
+Enterprise Value: 421495392
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -122656000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -60380376
+Operating Cashflow: -99239000
+Return On Assets: -0.28904
+Return On Equity: -0.53279996
+Total Cash: 193736000
+Total Debt: 31795000
+Debt To Equity: 18.958
+Current Ratio: 6.298
+Quick Ratio: 6.128
+Trailing PE: 
+Forward PE: -4.0241823
+Price To Book: 2.6923077
+Beta: -0.282
+52 Week High: 12.25
+52 Week Low: 2.65

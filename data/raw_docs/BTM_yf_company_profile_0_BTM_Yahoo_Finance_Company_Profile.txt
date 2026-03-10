@@ -1,0 +1,9 @@
+Company: Bitcoin Depot Inc. Class A Common Stock
+Ticker: BTM
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Atlanta
+Website: https://bitcoindepot.com
+Employees: 126
+Business Summary: Bitcoin Depot Inc. owns and operates a network of bitcoin ATMs in North America and Hong Kong. Its customers can buy and sell bitcoin through its kiosks in various retail locations, such as convenience stores and gas station chains; pharmacies and grocers; and mall operators. The company also sells cryptocurrency to consumers at a network of retail locations through its BDCheckout product offering, as well as its website. The company was founded in 2016 and is headquartered in Atlanta, Georgia.

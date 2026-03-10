@@ -1,0 +1,12 @@
+Company: T Stamp Inc. Class A Common Stock
+Ticker: IDAI
+CIK: 0001718939
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2022-04-07 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2230629 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5781297 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 11189715 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4966655 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 6061621 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4014699 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5372021 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

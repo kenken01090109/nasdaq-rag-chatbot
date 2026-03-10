@@ -1,0 +1,25 @@
+Company: First Bank Common Stock
+Ticker: FRBA
+Market Cap: 385803584
+Enterprise Value: 364432896
+Total Revenue: 135310000
+Revenue Per Share: 5.424
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.45413
+Profit Margins: 0.32266
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01128
+Return On Equity: 0.10241
+Total Cash: 302187008
+Total Debt: 271056000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.424243
+Forward PE: 7.5730643
+Price To Book: 0.8695409
+Beta: 0.667
+52 Week High: 18.11
+52 Week Low: 12.74

@@ -1,0 +1,25 @@
+Company: Kratos Defense & Security Solutions Inc. Common Stock
+Ticker: KTOS
+Market Cap: 16247922688
+Enterprise Value: 14155156480
+Total Revenue: 1346800000
+Revenue Per Share: 8.278
+EBITDA: 74800000
+Gross Margins: 0.22862
+Operating Margins: 0.02927
+Profit Margins: 0.016339999
+Free Cashflow: -126887504
+Operating Cashflow: -42100000
+Return On Assets: 0.00784
+Return On Equity: 0.01314
+Total Cash: 560600000
+Total Debt: 145800000
+Debt To Equity: 7.304
+Current Ratio: 4.061
+Quick Ratio: 3.273
+Trailing PE: 669.2308
+Forward PE: 81.21505
+Price To Book: 7.359783
+Beta: 1.146
+52 Week High: 134.0
+52 Week Low: 25.78

@@ -1,0 +1,25 @@
+Company: Chime Financial Inc. Class A Common Stock
+Ticker: CHYM
+Market Cap: 8445918720
+Enterprise Value: 7443542016
+Total Revenue: 2186769920
+Revenue Per Share: 9.255
+EBITDA: -602656000
+Gross Margins: 0.87971
+Operating Margins: 0.08234999
+Profit Margins: -0.46183997
+Free Cashflow: 555923008
+Operating Cashflow: 52780000
+Return On Assets: -0.23085
+Return On Equity: -0.85543
+Total Cash: 1125661056
+Total Debt: 123284000
+Debt To Equity: 8.795
+Current Ratio: 4.527
+Quick Ratio: 3.567
+Trailing PE: 
+Forward PE: 19.330435
+Price To Book: 6.0260234
+Beta: 
+52 Week High: 44.94
+52 Week Low: 16.17

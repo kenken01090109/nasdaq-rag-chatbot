@@ -1,0 +1,9 @@
+Company: California BanCorp Common Stock
+Ticker: BCAL
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: San Diego
+Website: https://www.californiabankofcommerce.com
+Employees: 
+Business Summary: California BanCorp operates as the bank holding company for California Bank of Commerce, N.A. that provides various financial products to individuals, professionals, and small- to medium-sized businesses in the United States. The company offers checking, savings, and money market accounts; and certificates of deposit. It also provides business loans; lines of credit; construction and land development loans; commercial real estate loans; commercial and industrial loans; small business administration loans; consumer loans; home equity lines of credit; and letters of credit. In addition, the company offers treasury management; cash vault, sweep accounts, and remote deposit capture services; online and mobile banking services; and ACH origination, courier, and lockbox services. It serves businesses, business owners and their trusts, limited liability corporations, business partnerships, associations, organizations, and governmental authorities. The company was formerly known as Southern California Bancorp and changed its name to California BanCorp in August 2024. California BanCorp was founded in 2001 and is headquartered in San Diego, California.

@@ -1,0 +1,9 @@
+Company: ProQR Therapeutics N.V. Ordinary Shares
+Ticker: PRQR
+Sector: Healthcare
+Industry: Biotechnology
+Country: Netherlands
+City: Leiden
+Website: https://www.proqr.com
+Employees: 166
+Business Summary: ProQR Therapeutics N.V., a biotechnology company, focuses on the discovery and development of novel therapeutic medicines. The company's products pipeline includes AX-0810 for cholestatic diseases targeting Na-taurocholate cotransporting polypeptide (NTCP); and AX-1412 for cardiovascular diseases (CVDs) targeting Beta-1,4-galactosyltransferase 1 (B4GALT1). It also develops various other early-stage research programs, including AX-1005 for undisclosed targets in CVDs; AX-2402, which focuses on Rett syndrome; AX-2911 for metabolic dysfunction-associated steatohepatitis (MASH) targeting patatin-like phospholipase domain-containing protein 3 (PNPLA3); AX-0601 for obesity and Type 2 diabetes; and AX-9115 for rare metabolic condition, as well as additional programs in Rett Syndrome, additional CNS programs, and multiple other unnamed targets and programs. In addition, the company develops Axiomer RNA base-editing platform technology. It has a license agreement with Radboud University Medical Center; Inserm Transfert SA; Ionis Pharmaceuticals, Inc.; Vico Therapeutics B.V.; University of Rochester; and Leiden University Medical Center, as well as license and research collaboration with Eli Lilly and Company for the discovery, development, and commercialization of potential new medicines for genetic disorders in the liver and nervous system. The company was incorporated in 2012 and is headquartered in Leiden, the Netherlands.

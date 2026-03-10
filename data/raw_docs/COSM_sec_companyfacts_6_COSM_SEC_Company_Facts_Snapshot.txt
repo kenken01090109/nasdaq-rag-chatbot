@@ -1,0 +1,11 @@
+Company: Cosmos Health Inc. Common Stock
+Ticker: COSM
+CIK: 0001474167
+Latest SEC XBRL Facts:
+Revenues: 45568655 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -8999055 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 69492758 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 46357874 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 23134884 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3851273 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 889441 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

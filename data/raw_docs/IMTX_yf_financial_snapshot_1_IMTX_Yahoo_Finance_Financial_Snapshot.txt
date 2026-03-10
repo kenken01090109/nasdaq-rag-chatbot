@@ -1,0 +1,25 @@
+Company: Immatics N.V. Ordinary Shares
+Ticker: IMTX
+Market Cap: 1321869312
+Enterprise Value: 886449216
+Total Revenue: 48266000
+Revenue Per Share: 0.396
+EBITDA: -169616000
+Gross Margins: 1.0
+Operating Margins: -1.9675599
+Profit Margins: 0.0
+Free Cashflow: -288949248
+Operating Cashflow: -176626000
+Return On Assets: -0.18079
+Return On Equity: -0.37103
+Total Cash: 345918016
+Total Debt: 15635000
+Debt To Equity: 3.23
+Current Ratio: 11.718
+Quick Ratio: 8.184
+Trailing PE: 
+Forward PE: -5.550239
+Price To Book: 2.1653652
+Beta: 
+52 Week High: 12.41
+52 Week Low: 3.3

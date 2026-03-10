@@ -1,0 +1,25 @@
+Company: Blue Foundry Bancorp Common Stock
+Ticker: BLFY
+Market Cap: 270103552
+Enterprise Value: 528898016
+Total Revenue: 44731000
+Revenue Per Share: 2.223
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -0.13555
+Profit Margins: -0.20576
+Free Cashflow: 
+Operating Cashflow: -2552000
+Return On Assets: -0.00437
+Return On Equity: -0.02816
+Total Cash: 48281000
+Total Debt: 326547008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: -86.73333
+Price To Book: 0.77978903
+Beta: 0.552
+52 Week High: 14.74
+52 Week Low: 7.612

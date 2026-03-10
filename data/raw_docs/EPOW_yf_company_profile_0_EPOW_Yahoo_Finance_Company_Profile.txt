@@ -1,0 +1,9 @@
+Company: E-Power Inc. Class A Ordinary Shares
+Ticker: EPOW
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: China
+City: Zibo
+Website: https://www.sunrisenewenergy.com
+Employees: 48
+Business Summary: E-Power Inc. engages in the manufacture and sale of graphite anode material for use in EVs and other lithium-ion batteries. The company operates a peer-to-peer knowledge sharing and enterprise service platform business. It also offers education consulting, training, tailored, information technology, business incubation, enterprise information technology integration, health, and agricultural technology services, as well as cultural and artistic exchanges and planning, and conference services. E-Power Inc. was formerly known as Sunrise New Energy Co., Ltd. and changed its name to E-Power Inc. in February 2026. The company was founded in 2014 and is headquartered in Zibo, the People's Republic of China.

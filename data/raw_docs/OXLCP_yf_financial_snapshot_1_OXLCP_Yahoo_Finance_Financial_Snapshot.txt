@@ -1,0 +1,25 @@
+Company: Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares
+Ticker: OXLCP
+Market Cap: 
+Enterprise Value: 3088451584
+Total Revenue: 487993984
+Revenue Per Share: 5.025
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.72747004
+Profit Margins: 0.00769
+Free Cashflow: 171912720
+Operating Cashflow: -620003200
+Return On Assets: 0.09087
+Return On Equity: 0.0021600001
+Total Cash: 19102016
+Total Debt: 704106304
+Debt To Equity: 37.778
+Current Ratio: 0.607
+Quick Ratio: 0.606
+Trailing PE: 28.415615
+Forward PE: 
+Price To Book: 1.2895325
+Beta: 0.771
+52 Week High: 24.97
+52 Week Low: 23.752

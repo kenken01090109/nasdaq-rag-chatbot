@@ -1,0 +1,9 @@
+Company: Terra Innovatum Global N.V. Ordinary shares
+Ticker: NKLR
+Sector: Utilities
+Industry: Utilities - Regulated Electric
+Country: Italy
+City: Lucca
+Website: https://www.terrainnovatum.com
+Employees: 1
+Business Summary: Terra Innovatum Global N.V., a nuclear energy technology company, develops micro-modular nuclear reactors to deliver power solutions. The company offers SOLO, a micro-modular nuclear reactor which generates 1 MWe of electricity baseload to cover carbon-free energy needs ranging from MW to GW. It serves various industries including cement production, food processing, paper mills, chemical plants, pharmaceutical facilities, ceramic industries, glass industries, and mining operations. The company was founded in 2018 and is headquartered in Lucca, Italy.

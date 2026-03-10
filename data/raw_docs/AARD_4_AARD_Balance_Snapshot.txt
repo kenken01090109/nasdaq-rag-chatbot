@@ -1,0 +1,8 @@
+Company: Aardvark Therapeutics Inc. Common Stock
+Ticker: AARD
+Total Cash: 126350000
+Total Debt: 545000
+Debt To Equity: 0.445
+Current Ratio: 12.035
+Quick Ratio: 11.769
+Book Value: 5.628

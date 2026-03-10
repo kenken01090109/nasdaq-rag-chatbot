@@ -1,0 +1,12 @@
+Company: Biomerica Inc. Common Stock
+Ticker: BMRA
+CIK: 0000073290
+Latest SEC XBRL Facts:
+Revenues: 2590000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2590000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetIncomeLoss: -1318000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Assets: 6034000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Liabilities: 1599000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+StockholdersEquity: 4435000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -1259000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 2543000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30

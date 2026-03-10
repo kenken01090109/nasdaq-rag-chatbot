@@ -1,0 +1,12 @@
+Company: Akanda Corp. Common Shares
+Ticker: AKAN
+Total Revenue: 836664
+Revenue Per Share: 6.916
+Gross Margins: 0.24906
+Operating Margins: -4.4384203
+EBITDA: -3678018
+Profit Margins: -2.66312
+Free Cashflow: -4874154
+Operating Cashflow: -1763989
+Return On Assets: -0.28688
+Return On Equity: -0.60863996

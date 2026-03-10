@@ -1,0 +1,10 @@
+Company: MetaVia Inc. Common Stock
+Ticker: MTVA
+CIK: 0001638287
+Latest SEC XBRL Facts:
+NetIncomeLoss: -11043000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 14765000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 8434000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 6331000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10841000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14277000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

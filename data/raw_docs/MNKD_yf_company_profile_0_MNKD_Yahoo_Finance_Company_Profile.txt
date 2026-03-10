@@ -1,0 +1,9 @@
+Company: MannKind Corporation Common Stock
+Ticker: MNKD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Danbury
+Website: https://mannkindcorp.com
+Employees: 591
+Business Summary: MannKind Corporation, a biopharmaceutical company, focuses on the provision of various solutions for transforming chronic disease care. It develops and commercializes treatments that address serious unmet medical needs, including diabetes, pulmonary hypertension, and fluid overload in heart failure and chronic kidney disease. It offers Afrezza inhalation powder, an inhaled insulin used to improve glycemic control in adults with diabetes; Furoscix, an furosemide injection for the treatment of edema in pediatric patients with chronic heart failure or chronic kidney disease; and the V-Go wearable insulin delivery device, which provides continuous subcutaneous infusion of insulin in adults. Its products also include Tyvaso DPI for the treatment of pulmonary arterial hypertension and pulmonary hypertension associated with interstitial lung disease. The company's pipeline of treatments for orphan lung diseases include MNKD-201, a dry-powder formulation of nintedanib for the treatment of idiopathic pulmonary fibrosis and MNKD-701. It has collaboration and license agreement with United Therapeutics Corporation for development, regulatory, and commercial activities of Tyvaso DPI; and collaboration agreement with Thirona to evaluate the therapeutic for the treatment of pulmonary fibrosis. The company was incorporated in 1991 and is headquartered in Danbury, Connecticut.

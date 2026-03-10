@@ -1,0 +1,11 @@
+Company: BUUU Group Limited Class A Ordinary Share
+Ticker: BUUU
+CIK: 0002047273
+Latest SEC XBRL Facts:
+Revenues: 6328425 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetIncomeLoss: 793420 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 2539241 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 1495694 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 1008715 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 336061 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 101535 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

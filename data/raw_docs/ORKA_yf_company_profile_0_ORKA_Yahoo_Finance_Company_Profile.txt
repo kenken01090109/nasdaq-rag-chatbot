@@ -1,0 +1,9 @@
+Company: Oruka Therapeutics Inc. Common Stock
+Ticker: ORKA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Menlo Park
+Website: https://orukatx.com
+Employees: 28
+Business Summary: Oruka Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing novel monoclonal antibody therapeutics for psoriasis (PsO), and other inflammatory and immunology (I&I) indications. Its lead products include ORKA-001 that targets p19 subunit of interleukin-23, which is in phase 1 trial for the treatment of PsO; and ORKA-002 that targets interleukin-17A and interleukin-17F for the treatment of PsO, psoriatic arthritis, and other conditions. The company also develops ORKA-003 for targeting an undisclosed pathway; and ORKA-021, a sequential combination regimen of ORKA-002 and ORKA-001. Oruka Therapeutics, Inc. is headquartered in Menlo Park, California.

@@ -1,0 +1,25 @@
+Company: Cross Country Healthcare Inc. Common Stock $0.0001 Par Value
+Ticker: CCRN
+Market Cap: 321702720
+Enterprise Value: 204874000
+Total Revenue: 1054292992
+Revenue Per Share: 32.531
+EBITDA: 13332000
+Gross Margins: 0.20257
+Operating Margins: -0.031489998
+Profit Margins: -0.08997
+Free Cashflow: 44112248
+Operating Cashflow: 48251000
+Return On Assets: -0.00417
+Return On Equity: -0.25574
+Total Cash: 108738000
+Total Debt: 2318000
+Debt To Equity: 0.718
+Current Ratio: 3.776
+Quick Ratio: 3.661
+Trailing PE: 
+Forward PE: 37.76923
+Price To Book: 0.9642576
+Beta: 0.395
+52 Week High: 16.18
+52 Week Low: 7.43

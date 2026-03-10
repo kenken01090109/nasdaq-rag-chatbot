@@ -1,0 +1,9 @@
+Company: American Woodmark Corporation Common Stock
+Ticker: AMWD
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Winchester
+Website: https://www.americanwoodmark.com
+Employees: 7800
+Business Summary: American Woodmark Corporation manufactures and distributes kitchen, bath, and home organization products for the remodeling and new home construction markets in the United States. The company offers kitchen cabinetry, bath cabinetry, office cabinetry, home organization, and hardware products. It also provides turnkey installation services to its direct builder customers through a network of service centers. The company sells its products under the American Woodmark, Timberlake, Shenandoah Cabinetry, waypoint Living Spaces, 1951 Cabinetry, Professional Cabinet Solutions, SageHouse, allen + roth, Hampton Bay, ESTATE, Glacier Bay, Home Decorators Collection, Project Source, Stor-It-All, and Style Selections brands to home centers, builders, and independent dealers and distributors. The company was founded in 1951 and is based in Winchester, Virginia.

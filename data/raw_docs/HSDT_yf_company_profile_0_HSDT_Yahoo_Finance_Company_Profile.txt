@@ -1,0 +1,9 @@
+Company: Solana Company Class A Common Stock (DE)
+Ticker: HSDT
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Newtown
+Website: https://www.solanacompany.co
+Employees: 21
+Business Summary: Solana Company operates as a listed digital asset treasury. It enhances SOL per share on the commercially viable blockchain for decentralized finance and consumer applications. The company is headquartered in Newtown, Pennsylvania.

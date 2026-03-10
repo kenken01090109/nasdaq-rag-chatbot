@@ -1,0 +1,9 @@
+Company: Heartcore Enterprises Inc. Common Stock
+Ticker: HTCR
+Sector: Technology
+Industry: Software - Application
+Country: Japan
+City: Tokyo
+Website: https://www.heartcore.co.jp
+Employees: 91
+Business Summary: HeartCore Enterprises, Inc., a software development company, provides software as a service solutions to enterprise customers in Japan, the United States, and internationally. Its customer experience management platform includes marketing, sales, service, and content management systems, as well as other tools and integrations that enable companies to attract and engage customers throughout the customer experience. The company also operates a digital transformation business that provides customers with robotics process automation, process mining, and task mining to accelerate the digital transformation of enterprises. In addition, it offers education, services, and support solutions; Go IPO consulting services; and Robot Automation portal, a web portal that allows customers to monitor and manage automation with RPA over a TCP/IP network. The company serves customers in various industries, such as consumer and retail, energy, financial services, healthcare/pharmaceuticals, insurance, manufacturing, technology, telecommunications, and others. HeartCore Enterprises, Inc. was founded in 2009 and is headquartered in Tokyo, Japan.

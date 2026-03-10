@@ -1,0 +1,9 @@
+Company: My Size Inc. Common Stock
+Ticker: MYSZ
+Sector: Technology
+Industry: Software - Application
+Country: Israel
+City: Airport City
+Website: https://mysizeid.com
+Employees: 13
+Business Summary: My Size, Inc., an omnichannel e-commerce platform, provides AI-driven software as a service measurement solution for fashion ecommerce companies in Israel and Spain. It operates through Fashion and Equipment E-Commerce Platform, and SaaS Based Innovative Artificial Intelligence Driven Measurement Solutions segments. The company offers Size Form, which generates accurate measurements to find proper fitting clothes and accessories; First Look Smart Mirror and Bring Your Own Device, a solution for brick and mortar stores that allows customers to filter the whole physical store by their size and fit; Smart Catalogue, a solution that suggests the launch of new sizes, detects new product niches, and allows brands to adapt their assortment to their customer base; and True Feedback solution, a Go-To-market solution to fine-tune the customer experience offered to fashion buyers, both online and offline. It also provides Naiz Fit, which offers SaaS technology solutions that solve size and fit issues, and AI solutions for smarter design through data driven decisions; and Orgad, an online retailer. The company was formerly known as Knowledgetree Ventures, Inc. and changed its name to My Size, Inc. in January 2014. My Size, Inc. was incorporated in 1999 and is headquartered in Airport City, Israel.

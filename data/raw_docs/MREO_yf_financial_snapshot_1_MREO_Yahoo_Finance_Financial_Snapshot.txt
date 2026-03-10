@@ -1,0 +1,25 @@
+Company: Mereo BioPharma Group plc American Depositary Shares
+Ticker: MREO
+Market Cap: 62713804
+Enterprise Value: 262801472
+Total Revenue: 500000
+Revenue Per Share: 0.003
+EBITDA: -45029000
+Gross Margins: 0.734
+Operating Margins: -90.678
+Profit Margins: 0.0
+Free Cashflow: -20145250
+Operating Cashflow: -32709000
+Return On Assets: -0.39813998
+Return On Equity: -0.69792
+Total Cash: 48698000
+Total Debt: 397000
+Debt To Equity: 0.852
+Current Ratio: 8.711
+Quick Ratio: 8.35
+Trailing PE: 
+Forward PE: -12.609879
+Price To Book: 1.3450512
+Beta: 0.327
+52 Week High: 3.05
+52 Week Low: 0.2

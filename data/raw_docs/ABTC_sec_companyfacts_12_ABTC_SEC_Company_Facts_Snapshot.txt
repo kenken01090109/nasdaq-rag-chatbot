@@ -1,0 +1,12 @@
+Company: American Bitcoin Corp. Class A Common Stock
+Ticker: ABTC
+CIK: 0001755953
+Latest SEC XBRL Facts:
+Revenues: 106843000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6973109 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+NetIncomeLoss: -93717000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1162821000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 587368000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 575453000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43066000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 678000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

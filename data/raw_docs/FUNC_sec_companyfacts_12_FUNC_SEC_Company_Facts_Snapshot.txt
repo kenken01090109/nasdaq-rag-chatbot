@@ -1,0 +1,11 @@
+Company: First United Corporation Common Stock
+Ticker: FUNC
+CIK: 0000763907
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 17715000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+NetIncomeLoss: 18738000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2023974000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1824875000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 199099000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9477000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 95175000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

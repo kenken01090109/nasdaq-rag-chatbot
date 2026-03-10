@@ -1,0 +1,10 @@
+Company: Solarius Capital Acquisition Corp. Class A Ordinary Share
+Ticker: SOCA
+CIK: 0002065948
+Latest SEC XBRL Facts:
+NetIncomeLoss: 553295 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 175679249 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7494096 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -6074848 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -300065 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1266950 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

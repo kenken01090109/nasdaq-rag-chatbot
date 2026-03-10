@@ -1,0 +1,9 @@
+Company: First United Corporation Common Stock
+Ticker: FUNC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Oakland
+Website: https://mybank.com
+Employees: 
+Business Summary: First United Corporation operates as the bank holding company for First United Bank & Trust that provides various retail and commercial banking services to businesses and individuals in the United States. It operates through Community Banking and Wealth Management segments. The company offers various deposit products, such as checking, savings, money market, individual retirement (IRA), employee benefit, and health savings accounts; regular and IRA certificates of deposit; demand deposits; business and personal loans; lines of credit; commercial loans secured by real estate, commercial equipment, vehicles or other assets of the borrower; residential mortgages; real estate construction loans to builders and individuals for single family dwellings; and indirect and direct auto loans, student loans, and other secured and unsecured lines of credit and term loans. It also provides brokerage; treasury management, cash sweep, and various checking opportunities; trust services, including personal trust, investment agency accounts, charitable trusts, and estate administration and estate planning, as well as retirement accounts including IRA roll-overs, 401(k) accounts, and defined benefit plans; and safe deposit and night depository facilities, and insurance products. First United Corporation was founded in 1900 and is headquartered in Oakland, Maryland.

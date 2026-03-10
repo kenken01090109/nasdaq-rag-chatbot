@@ -1,0 +1,9 @@
+Company: Rezolute Inc. Common Stock (NV)
+Ticker: RZLT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://www.rezolutebio.com
+Employees: 75
+Business Summary: Rezolute, Inc., a late-stage rare disease company, focused on improving outcomes for individuals with hypoglycemia caused by hyperinsulinism in the United States. Its lead clinical asset is ersodetug, an intravenously administered human monoclonal antibody that is in Phase 3 clinical trial for the treatment of congenital hyperinsulinism, an ultra-rare pediatric genetic disorder, as well as for the treatment of hypoglycemia; and clinical trials of ersodetug for tumor hyperinsulinism. The company was formerly known as AntriaBio, Inc. and changed its name to Rezolute, Inc. in December 2017. Rezolute, Inc. was founded in 2010 and is headquartered in Redwood City, California.

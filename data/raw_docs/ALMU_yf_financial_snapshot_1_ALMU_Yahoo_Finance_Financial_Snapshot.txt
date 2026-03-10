@@ -1,0 +1,25 @@
+Company: Aeluma Inc. Common Stock
+Ticker: ALMU
+Market Cap: 271100576
+Enterprise Value: 233662576
+Total Revenue: 5229000
+Revenue Per Share: 0.336
+EBITDA: -5066000
+Gross Margins: 0.50181997
+Operating Margins: -1.6360099
+Profit Margins: -0.52457
+Free Cashflow: 487764
+Operating Cashflow: -882000
+Return On Assets: -0.13909
+Return On Equity: -0.13793999
+Total Cash: 38572000
+Total Debt: 1134000
+Debt To Equity: 2.779
+Current Ratio: 48.804
+Quick Ratio: 47.966
+Trailing PE: 
+Forward PE: -68.27273
+Price To Book: 6.6284204
+Beta: -1.753
+52 Week High: 25.883
+52 Week Low: 5.79

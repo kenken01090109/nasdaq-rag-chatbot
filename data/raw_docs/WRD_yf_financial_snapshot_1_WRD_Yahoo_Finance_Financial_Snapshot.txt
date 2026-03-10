@@ -1,0 +1,25 @@
+Company: WeRide Inc. American Depositary Shares
+Ticker: WRD
+Market Cap: 2181348096
+Enterprise Value: 1414498048
+Total Revenue: 511419008
+Revenue Per Share: 1.779
+EBITDA: -1766489984
+Gross Margins: 0.32991
+Operating Margins: -2.21961
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.19909
+Return On Equity: -1.84438
+Total Cash: 5422142976
+Total Debt: 297095008
+Debt To Equity: 4.779
+Current Ratio: 8.394
+Quick Ratio: 7.418
+Trailing PE: 
+Forward PE: -16.143715
+Price To Book: 2.418811
+Beta: 
+52 Week High: 20.5
+52 Week Low: 6.03

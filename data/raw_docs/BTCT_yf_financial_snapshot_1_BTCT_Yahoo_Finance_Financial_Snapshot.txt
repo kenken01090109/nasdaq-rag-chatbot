@@ -1,0 +1,25 @@
+Company: BTC Digital Ltd. Ordinary Shares
+Ticker: BTCT
+Market Cap: 13038256
+Enterprise Value: 3047255
+Total Revenue: 12427000
+Revenue Per Share: 2.354
+EBITDA: -2153000
+Gross Margins: -0.068959996
+Operating Margins: -0.87716
+Profit Margins: -0.43438
+Free Cashflow: -7822375
+Operating Cashflow: -5596000
+Return On Assets: -0.120900005
+Return On Equity: -0.19111
+Total Cash: 7579000
+Total Debt: 328000
+Debt To Equity: 0.889
+Current Ratio: 75.209
+Quick Ratio: 46.076
+Trailing PE: 
+Forward PE: -0.17125
+Price To Book: 0.27907926
+Beta: 5.788
+52 Week High: 4.82
+52 Week Low: 1.07

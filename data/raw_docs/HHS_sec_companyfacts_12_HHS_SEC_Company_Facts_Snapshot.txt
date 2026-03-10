@@ -1,0 +1,12 @@
+Company: Harte Hanks Inc. Common Stock
+Ticker: HHS
+CIK: 0000045919
+Latest SEC XBRL Facts:
+Revenues: 119712000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 119712000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -3013000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 92707000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 72827000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 19880000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2472000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6510000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

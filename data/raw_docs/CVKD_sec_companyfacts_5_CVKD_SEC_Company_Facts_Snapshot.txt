@@ -1,0 +1,10 @@
+Company: Cadrenal Therapeutics Inc. Common Stock
+Ticker: CVKD
+CIK: 0001937993
+Latest SEC XBRL Facts:
+NetIncomeLoss: -10198372 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 4087622 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1352675 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 2734947 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10031707 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3860082 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

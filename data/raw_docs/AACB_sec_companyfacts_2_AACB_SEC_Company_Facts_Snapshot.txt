@@ -1,0 +1,10 @@
+Company: Artius II Acquisition Inc. Class A Ordinary Shares
+Ticker: AACB
+CIK: 0002034334
+Latest SEC XBRL Facts:
+NetIncomeLoss: -750481 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 226232501 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 12830516 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -12449446 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -732420 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 141921 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

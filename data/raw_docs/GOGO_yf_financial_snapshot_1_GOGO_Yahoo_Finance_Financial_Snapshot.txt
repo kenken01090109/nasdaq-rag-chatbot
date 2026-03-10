@@ -1,0 +1,25 @@
+Company: Gogo Inc. Common Stock
+Ticker: GOGO
+Market Cap: 700058240
+Enterprise Value: 1497782144
+Total Revenue: 910491008
+Revenue Per Share: 6.81
+EBITDA: 188811008
+Gross Margins: 0.44271
+Operating Margins: 0.06003
+Profit Margins: 0.0141900005
+Free Cashflow: 108564872
+Operating Cashflow: 124490000
+Return On Assets: 0.06343
+Return On Equity: 0.15163
+Total Cash: 128571000
+Total Debt: 905804992
+Debt To Equity: 895.693
+Current Ratio: 1.604
+Quick Ratio: 1.039
+Trailing PE: 
+Forward PE: 6.5375
+Price To Book: 6.9547877
+Beta: 1.131
+52 Week High: 16.82
+52 Week Low: 3.845

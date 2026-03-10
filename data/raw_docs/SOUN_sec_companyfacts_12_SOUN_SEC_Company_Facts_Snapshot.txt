@@ -1,0 +1,12 @@
+Company: SoundHound AI Inc Class A Common Stock
+Ticker: SOUN
+CIK: 0001840856
+Latest SEC XBRL Facts:
+Revenues: 10442000 | unit=USD | filed=2022-08-15 | period_end=2022-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 21628000 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+NetIncomeLoss: -54063000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 702217000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 302981000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 399236000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -76336000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 268936000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

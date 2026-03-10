@@ -1,0 +1,9 @@
+Company: The Honest Company Inc. Common Stock
+Ticker: HNST
+Sector: Consumer Defensive
+Industry: Household & Personal Products
+Country: United States
+City: Los Angeles
+Website: https://www.honest.com
+Employees: 174
+Business Summary: The Honest Company, Inc. a personal care company, provides personal care products for babies and adults. It offers wipes, personal care, diapers, and beauty products. In addition, it sells its products through retailers and websites, and third-party ecommerce sites. The Honest Company, Inc. was incorporated in 2011 and is headquartered in Los Angeles, California.

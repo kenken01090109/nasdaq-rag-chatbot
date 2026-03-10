@@ -1,0 +1,25 @@
+Company: CrowdStrike Holdings Inc. Class A Common Stock
+Ticker: CRWD
+Market Cap: 108147703808
+Enterprise Value: 103714349056
+Total Revenue: 4812004864
+Revenue Per Share: 19.204
+EBITDA: -46664000
+Gross Margins: 0.74808997
+Operating Margins: 0.0100300005
+Profit Margins: -0.033770002
+Free Cashflow: 1604615040
+Operating Cashflow: 1612349056
+Return On Assets: -0.015700001
+Return On Equity: -0.04137
+Total Cash: 5230125056
+Total Debt: 820076992
+Debt To Equity: 18.336
+Current Ratio: 1.773
+Quick Ratio: 1.592
+Trailing PE: 
+Forward PE: 69.48681
+Price To Book: 24.544569
+Beta: 1.124
+52 Week High: 566.9
+52 Week Low: 298.0

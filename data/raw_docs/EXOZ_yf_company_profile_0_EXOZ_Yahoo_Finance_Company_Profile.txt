@@ -1,0 +1,9 @@
+Company: eXoZymes Inc. Common Stock
+Ticker: EXOZ
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Monrovia
+Website: https://www.exozymes.com
+Employees: 31
+Business Summary: eXoZymes, Inc. operates as a development stage biotechnology company. The company focuses on the development of enzyme modules and cell-free exozyme biosolutions for synthetic biology manufacturing. The company was formerly known as Invizyne Technologies, Inc. and changed its name to eXoZymes, Inc. in February 2025. eXoZymes, Inc. was incorporated in 2014 and is headquartered in Monrovia, California.

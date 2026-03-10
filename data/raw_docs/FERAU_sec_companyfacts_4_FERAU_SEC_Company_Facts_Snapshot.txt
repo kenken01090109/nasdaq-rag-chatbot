@@ -1,0 +1,10 @@
+Company: Fifth Era Acquisition Corp I Units
+Ticker: FERAU
+CIK: 0002025401
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2446378 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 236505801 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 13669201 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -12745697 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -766613 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 667204 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Pliant Therapeutics Inc. Common Stock
+Ticker: PLRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://pliantrx.com
+Employees: 171
+Business Summary: Pliant Therapeutics, Inc., a biopharmaceutical company, discovers, develops, and commercializes novel therapies for the treatment of fibrosis and related diseases. The company's lead candidate includes bexotegrast, an oral, small-molecule, dual selective inhibitor of avß6 and avß1 integrins, which has completed phase 2a trial for primary sclerosing cholangitis. It also develops PLN-1474, an oral, small-molecule selective inhibitor of avß1 for the treatment of liver fibrosis associated with nonalcoholic steatohepatitis; PLN-101095, a dual inhibitor of integrins avß8 and avß1 for the treatment of solid tumors; and PLN-101325, a phase 1-ready program for treatment of the muscular dystrophies, including duchenne muscular dystrophy. Pliant Therapeutics, Inc. was incorporated in 2015 and is headquartered in South San Francisco, California.

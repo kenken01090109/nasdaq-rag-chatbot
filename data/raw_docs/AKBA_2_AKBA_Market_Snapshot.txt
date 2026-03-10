@@ -1,0 +1,10 @@
+Company: Akebia Therapeutics Inc. Common Stock
+Ticker: AKBA
+Market Cap: 318776288
+Enterprise Value: 332714304
+Trailing PE: 
+Forward PE: -12.526317
+Price To Book: 9.674797
+Beta: 0.404
+52 Week High: 4.079
+52 Week Low: 1.14

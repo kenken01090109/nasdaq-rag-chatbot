@@ -1,0 +1,11 @@
+Company: Talphera Inc. Common Stock
+Ticker: TLPH
+CIK: 0001427925
+Latest SEC XBRL Facts:
+Revenues: 475000 | unit=USD | filed=2020-03-16 | period_end=2019-12-31
+NetIncomeLoss: -10518000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 30742000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 11565000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 19177000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8928000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3457000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

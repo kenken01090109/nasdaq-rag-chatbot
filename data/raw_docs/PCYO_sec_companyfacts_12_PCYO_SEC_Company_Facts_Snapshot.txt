@@ -1,0 +1,12 @@
+Company: Pure Cycle Corporation Common Stock
+Ticker: PCYO
+CIK: 0000276720
+Latest SEC XBRL Facts:
+Revenues: 1854793 | unit=USD | filed=2018-04-06 | period_end=2018-02-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 9135000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetIncomeLoss: 4565000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+Assets: 168069000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+Liabilities: 20583000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+StockholdersEquity: 147486000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -979000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 17135000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30

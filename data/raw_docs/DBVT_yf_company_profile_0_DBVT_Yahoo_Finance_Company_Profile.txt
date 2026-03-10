@@ -1,0 +1,9 @@
+Company: DBV Technologies S.A. American Depositary Shares
+Ticker: DBVT
+Sector: Healthcare
+Industry: Biotechnology
+Country: France
+City: Châtillon
+Website: https://www.dbv-technologies.com
+Employees: 117
+Business Summary: DBV Technologies S.A., a clinical-stage biopharmaceutical company, engages in the research and development of epicutaneous immunotherapy products in France. The company's product pipeline comprising Viaskin Peanut, an immunotherapy product, which has completed Phase 3 clinical trial for the treatment of peanut allergies; and Viaskin Milk which is in Phase 1/2 clinical trial for the treatment of immunoglobulin E (IgE) mediated or cow's milk protein allergy and eosinophilic esophagitis. Its earlier stage research programs include vaccine for the respiratory syncytial virus, potential treatments for inflammatory bowel disease, celiac disease, and type I diabetes. In addition, the company develops Viaskin technology platform, a platform to potentially treat food allergy. It has a collaboration with Nestlé Health Science to develop MAG1C, a ready-to-use atopy patch test for the diagnosis of non-IgE mediated CMPA in infants and toddlers. DBV Technologies S.A. was incorporated in 2002 and is headquartered in Châtillon, France.

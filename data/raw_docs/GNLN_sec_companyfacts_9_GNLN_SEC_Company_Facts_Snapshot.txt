@@ -1,0 +1,12 @@
+Company: Greenlane Holdings Inc. Class A Common Stock
+Ticker: GNLN
+CIK: 0001743745
+Latest SEC XBRL Facts:
+Revenues: 2994000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2994000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -16015000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 17638000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6625000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 11162000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11802000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1810000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

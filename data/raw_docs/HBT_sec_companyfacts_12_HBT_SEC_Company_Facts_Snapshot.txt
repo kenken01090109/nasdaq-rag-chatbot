@@ -1,0 +1,10 @@
+Company: HBT Financial Inc. Common Stock
+Ticker: HBT
+CIK: 0000775215
+Latest SEC XBRL Facts:
+NetIncomeLoss: 58070000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 5035027000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 4435898000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 599129000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 61167000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 155133000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

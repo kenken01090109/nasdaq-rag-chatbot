@@ -1,0 +1,25 @@
+Company: ZeroStack Corp. Common Stock
+Ticker: ZSTK
+Market Cap: 16139030
+Enterprise Value: 64595324
+Total Revenue: 35676000
+Revenue Per Share: 12.959
+EBITDA: -11027000
+Gross Margins: 0.04622
+Operating Margins: -0.54785
+Profit Margins: 0.0
+Free Cashflow: -5176000
+Operating Cashflow: -8676000
+Return On Assets: -0.09275
+Return On Equity: -3.0750601
+Total Cash: 5596000
+Total Debt: 53931000
+Debt To Equity: 76.441
+Current Ratio: 1.01
+Quick Ratio: 0.741
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.09916105
+Beta: 1.964
+52 Week High: 47.0
+52 Week Low: 5.86

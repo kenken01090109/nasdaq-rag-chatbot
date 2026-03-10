@@ -1,0 +1,25 @@
+Company: Camtek Ltd. Ordinary Shares
+Ticker: CAMT
+Market Cap: 6750942208
+Enterprise Value: 6602615296
+Total Revenue: 496072000
+Revenue Per Share: 10.854
+EBITDA: 139368992
+Gross Margins: 0.50561
+Operating Margins: 0.24729
+Profit Margins: 0.10225
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.07476
+Return On Equity: 0.08698
+Total Cash: 668160000
+Total Debt: 519832992
+Debt To Equity: 84.251
+Current Ratio: 8.35
+Quick Ratio: 7.065
+Trailing PE: 141.64423
+Forward PE: 34.002487
+Price To Book: 10.94184
+Beta: 1.555
+52 Week High: 174.61
+52 Week Low: 47.41

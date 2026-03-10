@@ -1,0 +1,25 @@
+Company: Mechanics Bancorp Class A Common Stock
+Ticker: MCHB
+Market Cap: 3275314176
+Enterprise Value: 2503390720
+Total Revenue: 642659968
+Revenue Per Share: 2.895
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49096
+Profit Margins: 0.41349998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01368
+Return On Equity: 0.102910005
+Total Cash: 1079501056
+Total Debt: 278808000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.131147
+Forward PE: 10.802919
+Price To Book: 1.1442709
+Beta: 0.224
+52 Week High: 16.02
+52 Week Low: 8.41

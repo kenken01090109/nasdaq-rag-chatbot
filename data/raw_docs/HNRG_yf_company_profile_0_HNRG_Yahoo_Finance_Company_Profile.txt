@@ -1,0 +1,9 @@
+Company: Hallador Energy Company Common Stock
+Ticker: HNRG
+Sector: Energy
+Industry: Thermal Coal
+Country: United States
+City: Terre Haute
+Website: https://www.halladorenergy.com
+Employees: 615
+Business Summary: Hallador Energy Company, through its subsidiaries, engages in the production of steam coal for the electric power generation industry in Indiana. The company owns the Oaktown Fuels Mine 1 and Oaktown Fuels Mine 2 which is located near Oaktown in Knox County, Indiana; the Freelandville surface mine located near Freelandville in Knox County, Indiana; and the Prosperity surface mine in the Illinois Basin located near Petersburg in Pike County, Indiana. Hallador Energy Company was founded in 1949 and is headquartered in Terre Haute, Indiana.

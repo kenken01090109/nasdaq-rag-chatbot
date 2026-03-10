@@ -1,0 +1,8 @@
+Company: Ascent Industries Co. Common Stock
+Ticker: ACNT
+Total Cash: 57606000
+Total Debt: 13780000
+Debt To Equity: 15.841
+Current Ratio: 6.72
+Quick Ratio: 5.475
+Book Value: 9.254

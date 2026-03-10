@@ -1,0 +1,25 @@
+Company: CytoMed Therapeutics Limited Ordinary Shares
+Ticker: GDTC
+Market Cap: 12320397
+Enterprise Value: 9711927
+Total Revenue: 729875
+Revenue Per Share: 0.063
+EBITDA: -3180003
+Gross Margins: 0.92516
+Operating Margins: -4.52169
+Profit Margins: 0.0
+Free Cashflow: -2369023
+Operating Cashflow: -3153215
+Return On Assets: -0.22851999
+Return On Equity: -0.42330003
+Total Cash: 2854958
+Total Debt: 489604
+Debt To Equity: 6.779
+Current Ratio: 5.807
+Quick Ratio: 4.305
+Trailing PE: 
+Forward PE: -6.9999995
+Price To Book: 2.1724312
+Beta: -0.348
+52 Week High: 3.68
+52 Week Low: 0.728

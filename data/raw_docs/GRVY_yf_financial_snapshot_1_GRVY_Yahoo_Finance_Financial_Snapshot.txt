@@ -1,0 +1,25 @@
+Company: GRAVITY Co. Ltd. American Depository Shares
+Ticker: GRVY
+Market Cap: 438684064
+Enterprise Value: -609360609280
+Total Revenue: 561213079552
+Revenue Per Share: 80762.87
+EBITDA: 72358166528
+Gross Margins: 0.33890998
+Operating Margins: 0.13222
+Profit Margins: 0.13943
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.06164
+Return On Equity: 0.13554
+Total Cash: 614084968448
+Total Debt: 3655000064
+Debt To Equity: 0.588
+Current Ratio: 6.874
+Quick Ratio: 6.672
+Trailing PE: 8.198702
+Forward PE: 
+Price To Book: 1.0465904
+Beta: 1.047
+52 Week High: 74.75
+52 Week Low: 53.12

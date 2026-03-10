@@ -1,0 +1,11 @@
+Company: KALA BIO Inc. Common Stock
+Ticker: KALA
+CIK: 0001479419
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2018-04-02 | period_end=2017-12-31
+NetIncomeLoss: -27666000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 25021000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 33686000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -8665000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -27435000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 21096000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

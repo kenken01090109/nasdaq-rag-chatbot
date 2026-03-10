@@ -1,0 +1,11 @@
+Company: Arch Capital Group Ltd. Depositary Shares Each Representing 1/1000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares Series F
+Ticker: ACGLO
+CIK: 0000947484
+Latest SEC XBRL Facts:
+Revenues: 14995000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 3161000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 79185000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 55466000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 23719000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4768000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1063000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

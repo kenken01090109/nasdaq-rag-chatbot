@@ -1,0 +1,8 @@
+Company: Acumen Pharmaceuticals Inc. Common Stock
+Ticker: ABOS
+Total Cash: 126609000
+Total Debt: 30836000
+Debt To Equity: 33.095
+Current Ratio: 6.019
+Quick Ratio: 5.799
+Book Value: 1.538

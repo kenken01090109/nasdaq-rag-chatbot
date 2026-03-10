@@ -1,0 +1,11 @@
+Company: Atea Pharmaceuticals Inc. Common Stock
+Ticker: AVIR
+CIK: 0001593899
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 159187000 | unit=USD | filed=2022-11-07 | period_end=2021-09-30
+NetIncomeLoss: -113482000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 342963000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 27183000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 315780000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -103808000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 77344000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

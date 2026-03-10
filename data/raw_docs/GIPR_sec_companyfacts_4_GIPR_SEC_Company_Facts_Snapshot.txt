@@ -1,0 +1,11 @@
+Company: Generation Income Properties Inc. Common Stock
+Ticker: GIPR
+CIK: 0001651721
+Latest SEC XBRL Facts:
+Revenues: 7283974 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -9981447 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 103446020 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 74519974 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -3926764 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 415553 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 247288 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

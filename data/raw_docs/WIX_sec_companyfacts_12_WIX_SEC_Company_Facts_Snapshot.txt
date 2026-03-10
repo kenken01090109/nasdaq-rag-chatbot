@@ -1,0 +1,11 @@
+Company: Wix.com Ltd. Ordinary Shares
+Ticker: WIX
+CIK: 0001576789
+Latest SEC XBRL Facts:
+Revenues: 1993044000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+NetIncomeLoss: 50646000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+Assets: 2610974000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+Liabilities: 2976976000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+StockholdersEquity: -366002000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 582858000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 311356000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31

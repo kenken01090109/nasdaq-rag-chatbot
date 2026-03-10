@@ -1,0 +1,9 @@
+Company: IZEA Worldwide Inc. Common Stock
+Ticker: IZEA
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Orlando
+Website: https://izea.com
+Employees: 110
+Business Summary: IZEA Worldwide, Inc., together with its subsidiaries, provides software and professional services to connect brands and content creators in North America, the Asia Pacific, and internationally. The company offers IZEA Flex, its flagship platform for managing enterprise influencer marketing. It also operates marketplace that connects marketers with creators. In addition, the company offers management of content workflow, creator search and targeting, bidding, analytics, and payment processing services. It primarily sells influencer marketing and custom content campaigns through client development team and platforms. The company was formerly known as IZEA, Inc. and changed its name to IZEA Worldwide, Inc. in August 2018. IZEA Worldwide, Inc. was founded in 2006 and is headquartered in Orlando, Florida.

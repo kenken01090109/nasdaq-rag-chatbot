@@ -1,0 +1,10 @@
+Company: MapLight Therapeutics Inc. Common Stock
+Ticker: MPLT
+CIK: 0001770069
+Latest SEC XBRL Facts:
+NetIncomeLoss: -81604000 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+Assets: 257222000 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+Liabilities: 23706000 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+StockholdersEquity: -274177000 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -91308000 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64146000 | unit=USD | filed=2025-12-04 | period_end=2025-09-30

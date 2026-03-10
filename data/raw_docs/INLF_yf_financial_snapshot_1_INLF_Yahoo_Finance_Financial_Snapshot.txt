@@ -1,0 +1,25 @@
+Company: INLIF LIMITED Class A Ordinary Shares
+Ticker: INLF
+Market Cap: 79546088
+Enterprise Value: 8564452
+Total Revenue: 19332282
+Revenue Per Share: 1.417
+EBITDA: -629579
+Gross Margins: 0.23990999
+Operating Margins: -0.20128
+Profit Margins: -0.03926
+Free Cashflow: -6058442
+Operating Cashflow: -1070107
+Return On Assets: -0.02999
+Return On Equity: -0.060760003
+Total Cash: 1715784
+Total Debt: 4850386
+Debt To Equity: 30.599
+Current Ratio: 2.43
+Quick Ratio: 1.273
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.36118355
+Beta: 
+52 Week High: 2.58
+52 Week Low: 0.3

@@ -1,0 +1,10 @@
+Company: SUNation Energy Inc. Common Stock
+Ticker: SUNE
+CIK: 0000022701
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 44694528 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -13496822 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 49607352 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 21727966 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1146338 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5414591 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,8 @@
+Company: AGNC Investment Corp. Common Stock
+Ticker: AGNC
+Total Cash: 17233999872
+Total Debt: 85347999744
+Debt To Equity: 688.679
+Current Ratio: 0.183
+Quick Ratio: 0.17
+Book Value: 9.412

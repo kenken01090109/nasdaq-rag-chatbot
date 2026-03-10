@@ -1,0 +1,12 @@
+Company: Tantech Holdings Ltd. Class A Common Shares
+Ticker: TANH
+CIK: 0001588084
+Latest SEC XBRL Facts:
+Revenues: 21526587 | unit=USD | filed=2025-01-02 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20633188 | unit=USD | filed=2021-10-22 | period_end=2021-06-30
+NetIncomeLoss: 1108040 | unit=USD | filed=2025-01-02 | period_end=2024-06-30
+Assets: 142168973 | unit=USD | filed=2025-01-02 | period_end=2024-06-30
+Liabilities: 19087122 | unit=USD | filed=2025-01-02 | period_end=2024-06-30
+StockholdersEquity: 125991913 | unit=USD | filed=2025-01-02 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: 4445522 | unit=USD | filed=2025-01-02 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 34196461 | unit=USD | filed=2025-01-02 | period_end=2024-06-30

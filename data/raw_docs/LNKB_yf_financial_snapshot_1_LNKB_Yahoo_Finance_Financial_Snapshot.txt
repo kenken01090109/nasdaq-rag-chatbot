@@ -1,0 +1,25 @@
+Company: LINKBANCORP Inc. Common Stock
+Ticker: LNKB
+Market Cap: 317643104
+Enterprise Value: 461940896
+Total Revenue: 118036000
+Revenue Per Share: 3.175
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.27109
+Profit Margins: 0.2839
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01127
+Return On Equity: 0.11424
+Total Cash: 52293000
+Total Debt: 192844992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.422222
+Forward PE: 7.454944
+Price To Book: 1.036548
+Beta: 0.573
+52 Week High: 9.59
+52 Week Low: 6.09

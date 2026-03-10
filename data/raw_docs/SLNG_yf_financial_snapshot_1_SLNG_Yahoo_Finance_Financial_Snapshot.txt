@@ -1,0 +1,25 @@
+Company: Stabilis Solutions Inc. Common Stock
+Ticker: SLNG
+Market Cap: 69922096
+Enterprise Value: 77397424
+Total Revenue: 72270000
+Revenue Per Share: 3.887
+EBITDA: 6874000
+Gross Margins: 0.27215
+Operating Margins: 0.04713
+Profit Margins: 0.01403
+Free Cashflow: -7296625
+Operating Cashflow: 10105000
+Return On Assets: -0.00352
+Return On Equity: 0.015360001
+Total Cash: 10404000
+Total Debt: 9511000
+Debt To Equity: 14.26
+Current Ratio: 1.422
+Quick Ratio: 1.285
+Trailing PE: 62.666668
+Forward PE: -62.666668
+Price To Book: 1.048522
+Beta: -0.239
+52 Week High: 6.36
+52 Week Low: 3.29

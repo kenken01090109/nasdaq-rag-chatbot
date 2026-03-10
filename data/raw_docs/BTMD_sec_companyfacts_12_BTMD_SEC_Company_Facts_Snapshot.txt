@@ -1,0 +1,11 @@
+Company: Biote Corp. Class A Common Stock
+Ticker: BTMD
+CIK: 0001819253
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 145811000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 25091000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 111324000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 176791000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -72751000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27625000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28048000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Moleculin Biotech Inc. Common Stock
+Ticker: MBRX
+CIK: 0001659617
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -49112000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 20353000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 47273000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -26920000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17369000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6703000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Xometry Inc. Class A Common Stock
+Ticker: XMTR
+Market Cap: 2248661760
+Enterprise Value: 2427603968
+Total Revenue: 686630976
+Revenue Per Share: 13.513
+EBITDA: -25455000
+Gross Margins: 0.39144
+Operating Margins: -0.04666
+Profit Margins: -0.08992
+Free Cashflow: -12945000
+Operating Cashflow: 6086000
+Return On Assets: -0.03993
+Return On Equity: -0.20849001
+Total Cash: 219140992
+Total Debt: 339422016
+Debt To Equity: 122.651
+Current Ratio: 3.763
+Quick Ratio: 3.559
+Trailing PE: 
+Forward PE: 37.326015
+Price To Book: 8.07857
+Beta: 0.901
+52 Week High: 73.867
+52 Week Low: 18.59

@@ -1,0 +1,9 @@
+Company: QuickLogic Corporation Common Stock
+Ticker: QUIK
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: San Jose
+Website: https://www.quicklogic.com
+Employees: 59
+Business Summary: QuickLogic Corporation operates as a fabless semiconductor company. The company offers embedded FPGA intellectual property, low power, multicore semiconductor system-on-chips, discrete FPGAs, and AI software; and end-to-end artificial intelligence/machine learning solution with accurate sensor algorithms using AI technology. It also provides various products, such as software tools, and eFPGA IP enables the practical and efficient field programmability for aerospace and defense, consumer/industrial IoT, and consumer electronics markets. In addition, the company engages in the eFPGA IP Licensing business and associated professional services, consisting of development and integration of eFPGA technology into custom semiconductor solutions. Further, the company offers silicon products, such as EOS, QuickAI, ArcticLink III, PolarPro 3, PolarPro II, PolarPro, and Eclipse II products; Software as a Service (SaaS) subscriptions; and PASIC 3 and QuickRAM, as well as programming hardware and design software services. The company markets and sells its products to defense industrial base contractors, the U.S. government entities, system OEMs, and fabless semiconductor companies through a network of sales managers and distributors in North America, Europe, and the Asia Pacific. QuickLogic Corporation was founded in 1988 and is headquartered in San Jose, California.

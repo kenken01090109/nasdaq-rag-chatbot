@@ -1,0 +1,12 @@
+Company: Gain Therapeutics Inc. Common Stock
+Ticker: GANX
+CIK: 0001819411
+Latest SEC XBRL Facts:
+Revenues: 55180 | unit=USD | filed=2024-11-14 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 55180 | unit=USD | filed=2024-11-14 | period_end=2023-09-30
+NetIncomeLoss: -15623518 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 10971680 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 5062250 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 5909430 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13846945 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8807353 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

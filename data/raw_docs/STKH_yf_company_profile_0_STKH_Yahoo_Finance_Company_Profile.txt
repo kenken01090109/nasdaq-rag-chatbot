@@ -1,0 +1,9 @@
+Company: Steakholder Foods Ltd. American Depositary Shares
+Ticker: STKH
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: Israel
+City: Rehovot
+Website: https://steakholderfoods.com
+Employees: 24
+Business Summary: Steakholder Foods Ltd., a deep-tech food company, develops cultivated meat production technologies in Israel. The company develops alternative protein manufacturing machines, including three-dimensional printers to produce meat, fish, and seafood analogs; and hybrid cultivated meat products, as well as hybrid meat blends, cell lines, growth media, and bioreactors. It also offers premix blends as a plant-based alternative for meat and seafood under the SHMeat and SHFish brand names. In addition, the company provides brokering services in the supply of materials needed in the manufacturing process; and consulting, and implementation services. It serves food processing and retail companies; and cultivated meat producers. Steakholder Foods Ltd. was founded in 2019 and is headquartered in Rehovot, Israel.

@@ -1,0 +1,12 @@
+Company: 22nd Century Group Inc. Common Stock
+Ticker: XXII
+CIK: 0001347858
+Latest SEC XBRL Facts:
+Revenues: 7058000 | unit=USD | filed=2020-05-07 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 20361000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetIncomeLoss: -2246000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 32367000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 11263000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 18370000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10472000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4846000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

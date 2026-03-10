@@ -1,0 +1,25 @@
+Company: Helen of Troy Limited Common Stock
+Ticker: HELE
+Market Cap: 379997536
+Enterprise Value: 1308156928
+Total Revenue: 1802156032
+Revenue Per Share: 78.531
+EBITDA: 200076000
+Gross Margins: 0.4672
+Operating Margins: 0.11414
+Profit Margins: -0.43975
+Free Cashflow: 90932752
+Operating Cashflow: 94790000
+Return On Assets: 0.03437
+Return On Equity: -0.639
+Total Cash: 30066000
+Total Debt: 946920000
+Debt To Equity: 111.107
+Current Ratio: 1.812
+Quick Ratio: 0.856
+Trailing PE: 
+Forward PE: 4.8699284
+Price To Book: 0.44536382
+Beta: 0.804
+52 Week High: 57.68
+52 Week Low: 16.22

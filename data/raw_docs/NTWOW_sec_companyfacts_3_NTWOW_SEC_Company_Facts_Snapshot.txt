@@ -1,0 +1,9 @@
+Company: Newbury Street II Acquisition Corp Warrant
+Ticker: NTWOW
+CIK: 0002028027
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5102832 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 181205585 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6164908 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5069216 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -287600 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

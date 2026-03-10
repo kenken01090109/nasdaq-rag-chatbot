@@ -1,0 +1,25 @@
+Company: Alpha Tau Medical Ltd. Ordinary Shares
+Ticker: DRTS
+Market Cap: 546543168
+Enterprise Value: 548371712
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -38837000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.2556
+Return On Equity: -0.54384
+Total Cash: 72211000
+Total Debt: 13502000
+Debt To Equity: 17.403
+Current Ratio: 8.433
+Quick Ratio: 7.898
+Trailing PE: 
+Forward PE: -13.202067
+Price To Book: 7.043956
+Beta: 1.029
+52 Week High: 8.6
+52 Week Low: 2.3

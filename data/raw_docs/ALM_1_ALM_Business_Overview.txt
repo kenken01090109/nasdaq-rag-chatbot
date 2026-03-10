@@ -1,0 +1,7 @@
+Company: Almonty Industries Inc. Common Shares
+Ticker: ALM
+Business Summary: Almonty Industries Inc. engages in mining, processing, and shipping of tungsten concentrate. The company explores for tin and tungsten deposits. It holds a portfolio of projects and mines located in Spain, Portugal, and Republic of Korea. Almonty Industries Inc. is headquartered in Toronto, Canada.
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Exchange: NCM
+Quote Type: EQUITY

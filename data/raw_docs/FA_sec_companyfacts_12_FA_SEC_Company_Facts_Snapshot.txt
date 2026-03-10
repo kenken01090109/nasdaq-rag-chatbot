@@ -1,0 +1,11 @@
+Company: First Advantage Corporation Common Stock
+Ticker: FA
+CIK: 0001210677
+Latest SEC XBRL Facts:
+Revenues: 1154372000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -38293000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3856488000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2554865000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1301623000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 129185000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 216848000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: OneSpan Inc. Common Stock
+Ticker: OSPN
+CIK: 0001044777
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 180265000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 29361000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 343523000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 105200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 238323000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 46885000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 85554000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

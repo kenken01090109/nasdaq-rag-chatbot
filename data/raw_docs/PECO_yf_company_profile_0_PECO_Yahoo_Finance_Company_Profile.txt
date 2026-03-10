@@ -1,0 +1,9 @@
+Company: Phillips Edison & Company Inc. Common Stock
+Ticker: PECO
+Sector: Real Estate
+Industry: REIT - Retail
+Country: United States
+City: Cincinnati
+Website: https://www.phillipsedison.com
+Employees: 320
+Business Summary: Phillips Edison & Company, Inc. is one of the nation's largest owners and operators of high-quality, grocery-anchored neighborhood shopping centers. PECO has generated strong results through its vertically integrated operating platform and national footprint of well-occupied shopping centers. PECO's centers feature a mix of national and regional retailers providing necessity-based goods and services in fundamentally strong markets throughout the United States. PECO's top grocery anchors include Kroger, Publix, Albertsons and Ahold Delhaize. As of December 31, 2025, PECO managed 324 shopping centers, including 297 wholly owned centers comprising 33.5 million square feet across 31 states and 27 shopping centers owned in three institutional joint ventures. PECO is focused on creating great omni-channel, grocery-anchored shopping experiences and improving communities, one neighborhood shopping center at a time.

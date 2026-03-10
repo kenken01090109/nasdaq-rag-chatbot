@@ -1,0 +1,10 @@
+Company: New Horizon Aircraft Ltd. Warrant
+Ticker: HOVRW
+CIK: 0001930021
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6463000 | unit=USD | filed=2024-04-22 | period_end=2024-02-29
+Assets: 6818000 | unit=USD | filed=2024-04-22 | period_end=2024-02-29
+Liabilities: 22960000 | unit=USD | filed=2024-04-22 | period_end=2024-02-29
+StockholdersEquity: -16142000 | unit=USD | filed=2024-04-22 | period_end=2024-02-29
+NetCashProvidedByUsedInOperatingActivities: -760000 | unit=USD | filed=2024-04-22 | period_end=2024-02-29
+CashAndCashEquivalentsAtCarryingValue: 68282 | unit=USD | filed=2023-11-16 | period_end=2023-09-30

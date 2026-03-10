@@ -1,0 +1,25 @@
+Company: Beneficient Class A Common Stock
+Ticker: BENF
+Market Cap: 54012172
+Enterprise Value: 292580416
+Total Revenue: -27685000
+Revenue Per Share: -23.849
+EBITDA: -71480000
+Gross Margins: 0.0
+Operating Margins: 0.52244
+Profit Margins: 0.0
+Free Cashflow: -16069000
+Operating Cashflow: -43182000
+Return On Assets: -0.12002
+Return On Equity: -4.47222
+Total Cash: 7867000
+Total Debt: 100337000
+Debt To Equity: 
+Current Ratio: 0.265
+Quick Ratio: 0.033
+Trailing PE: 
+Forward PE: 0.6312292
+Price To Book: -0.2986013
+Beta: 1.095
+52 Week High: 12.48
+52 Week Low: 1.752

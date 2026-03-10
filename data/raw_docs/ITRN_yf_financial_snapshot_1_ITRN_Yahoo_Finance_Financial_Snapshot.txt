@@ -1,0 +1,25 @@
+Company: Ituran Location and Control Ltd. Ordinary Shares
+Ticker: ITRN
+Market Cap: 985329024
+Enterprise Value: 922088832
+Total Revenue: 348408992
+Revenue Per Share: 17.515
+EBITDA: 93388000
+Gross Margins: 0.49505
+Operating Margins: 0.21268
+Profit Margins: 0.16225
+Free Cashflow: 43472376
+Operating Cashflow: 81920000
+Return On Assets: 0.13393
+Return On Equity: 0.29035
+Total Cash: 93074000
+Total Debt: 4852000
+Debt To Equity: 2.22
+Current Ratio: 2.248
+Quick Ratio: 1.515
+Trailing PE: 17.378948
+Forward PE: 14.071022
+Price To Book: 4.646777
+Beta: 0.698
+52 Week High: 51.335
+52 Week Low: 30.06

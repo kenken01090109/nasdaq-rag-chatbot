@@ -1,0 +1,25 @@
+Company: Metagenomi Therapeutics Inc. Common Stock
+Ticker: MGX
+Market Cap: 55569192
+Enterprise Value: -82000728
+Total Revenue: 30913000
+Revenue Per Share: 0.831
+EBITDA: -86791000
+Gross Margins: -2.1086
+Operating Margins: -2.6376002
+Profit Margins: -2.8705702
+Free Cashflow: -55426124
+Operating Cashflow: -91622000
+Return On Assets: -0.19023001
+Return On Equity: -0.40872002
+Total Cash: 184114000
+Total Debt: 41663000
+Debt To Equity: 23.348
+Current Ratio: 6.417
+Quick Ratio: 6.3
+Trailing PE: 
+Forward PE: -0.86297375
+Price To Book: 0.3113823
+Beta: 0.47
+52 Week High: 3.95
+52 Week Low: 1.23

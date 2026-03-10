@@ -1,0 +1,9 @@
+Company: Health In Tech Inc. Class A Common Stock
+Ticker: HIT
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Stuart
+Website: https://healthintech.com
+Employees: 73
+Business Summary: Health In Tech, Inc. operates as an insurance technology platform company. The company offers reference-based pricing, group insurance captives, community health plans, and association health programs for small businesses; and enhance do it yourself benefit system (eDIYBS), a web-based SaaS quoting platform to quote health insurance for small and medium sized employers. It also provides health intelligence (HI) card to streamline the management of medical records and claims; and HI performance network, which offers a series of hospital facilities, as well as delivers medicare-based reimbursement pricing. Health In Tech, Inc. was founded in 2014 and is headquartered in Stuart, Florida.

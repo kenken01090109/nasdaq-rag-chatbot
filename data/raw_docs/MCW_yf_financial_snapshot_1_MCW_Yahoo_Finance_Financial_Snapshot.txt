@@ -1,0 +1,25 @@
+Company: Mister Car Wash Inc. Common Stock
+Ticker: MCW
+Market Cap: 2296068608
+Enterprise Value: 4067579904
+Total Revenue: 1051731008
+Revenue Per Share: 3.224
+EBITDA: 303268992
+Gross Margins: 0.32491
+Operating Margins: 0.20115
+Profit Margins: 0.098009996
+Free Cashflow: -41361876
+Operating Cashflow: 285704000
+Return On Assets: 0.04284
+Return On Equity: 0.09672
+Total Cash: 28450000
+Total Debt: 1770397952
+Debt To Equity: 156.256
+Current Ratio: 0.323
+Quick Ratio: 0.241
+Trailing PE: 22.548386
+Forward PE: 12.873877
+Price To Book: 2.0254998
+Beta: 1.412
+52 Week High: 8.6
+52 Week Low: 4.61

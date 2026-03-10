@@ -1,0 +1,25 @@
+Company: Lisata Therapeutics Inc. Common Stock
+Ticker: LSTA
+Market Cap: 36870668
+Enterprise Value: 18059700
+Total Revenue: 1070000
+Revenue Per Share: 0.125
+EBITDA: -19907000
+Gross Margins: 1.0
+Operating Margins: -18.765419
+Profit Margins: 0.0
+Free Cashflow: -11452375
+Operating Cashflow: -17228000
+Return On Assets: -0.41861
+Return On Equity: -0.72167
+Total Cash: 18998000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.723
+Quick Ratio: 4.422
+Trailing PE: 
+Forward PE: -4.0780487
+Price To Book: 2.1068547
+Beta: 1.274
+52 Week High: 4.89
+52 Week Low: 1.81

@@ -1,0 +1,25 @@
+Company: Establishment Labs Holdings Inc. Common Shares
+Ticker: ESTA
+Market Cap: 2064480896
+Enterprise Value: 2255428352
+Total Revenue: 211076000
+Revenue Per Share: 7.126
+EBITDA: -29445000
+Gross Margins: 0.69315004
+Operating Margins: -0.06082
+Profit Margins: -0.24192
+Free Cashflow: -41574000
+Operating Cashflow: -50890000
+Return On Assets: -0.06926
+Return On Equity: -1.33253
+Total Cash: 75572000
+Total Debt: 264467008
+Debt To Equity: 1123.145
+Current Ratio: 3.043
+Quick Ratio: 1.863
+Trailing PE: 
+Forward PE: 343.46344
+Price To Book: 87.57463
+Beta: 0.957
+52 Week High: 83.31
+52 Week Low: 26.56

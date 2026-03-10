@@ -1,0 +1,9 @@
+Company: Fonar Corporation Common Stock
+Ticker: FONR
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: Melville
+Website: https://www.fonar.com
+Employees: 535
+Business Summary: FONAR Corporation, together with its subsidiaries, engages in the designing, manufacturing, selling, and servicing of magnetic resonance imaging (MRI) scanners for the detection and diagnosis of human diseases, abnormalities, other medical conditions, and injuries in the United States. It operates in two segments: Medical Equipment, and Physician Management and Diagnostic Services. The company offers an Upright MRI scanner, which allows patients to be scanned in weight-bearing conditions, such as standing, sitting, bending, or lying down. It also provides non-medical management, including administrative services, billing and collection services, credentialing services, contract negotiations, compliance consulting, purchasing IT services, hiring, conducting interviews, training, supervision and management of non-medical personnel, storage of medical records, office space, equipment, repair maintenance services, accounting, assistance with legal and regulatory matters, and development and implementation of practice growth and marketing strategies. In addition, the company owns and operates diagnostic imaging facilities. The company markets its scanners to private diagnostic imaging centers and hospital outpatient imaging facilities. FONAR Corporation was founded in 1978 and is based in Melville, New York.

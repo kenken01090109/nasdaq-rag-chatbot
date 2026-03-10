@@ -1,0 +1,25 @@
+Company: Bitcoin Depot Inc. Class A Common Stock
+Ticker: BTM
+Market Cap: 53092676
+Enterprise Value: 66473992
+Total Revenue: 635643008
+Revenue Per Share: 131.536
+EBITDA: 63716000
+Gross Margins: 0.25201
+Operating Margins: 0.07251
+Profit Margins: 0.01441
+Free Cashflow: 16521375
+Operating Cashflow: 38324000
+Return On Assets: 0.33001998
+Return On Equity: 5.38028
+Total Cash: 59266000
+Total Debt: 72154000
+Debt To Equity: 343.329
+Current Ratio: 1.879
+Quick Ratio: 1.442
+Trailing PE: 4.3839283
+Forward PE: 81.833336
+Price To Book: 2.5937665
+Beta: 0.955
+52 Week High: 48.16
+52 Week Low: 4.261

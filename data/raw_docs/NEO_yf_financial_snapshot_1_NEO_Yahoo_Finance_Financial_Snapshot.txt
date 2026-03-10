@@ -1,0 +1,25 @@
+Company: NeoGenomics Inc. Common Stock
+Ticker: NEO
+Market Cap: 1163117440
+Enterprise Value: 1435023488
+Total Revenue: 727331968
+Revenue Per Share: 5.678
+EBITDA: -1821000
+Gross Margins: 0.43157002
+Operating Margins: -0.06564
+Profit Margins: -0.14852001
+Free Cashflow: 17203250
+Operating Cashflow: 5230000
+Return On Assets: -0.029040001
+Return On Equity: -0.12425
+Total Cash: 159618000
+Total Debt: 409456000
+Debt To Equity: 48.945
+Current Ratio: 4.261
+Quick Ratio: 3.611
+Trailing PE: 
+Forward PE: 28.079851
+Price To Book: 1.381437
+Beta: 1.639
+52 Week High: 13.74
+52 Week Low: 4.72

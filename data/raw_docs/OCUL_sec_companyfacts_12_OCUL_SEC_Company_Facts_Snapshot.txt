@@ -1,0 +1,12 @@
+Company: Ocular Therapeutix Inc. Common Stock
+Ticker: OCUL
+CIK: 0001393434
+Latest SEC XBRL Facts:
+Revenues: 1486000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 38701000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -201285000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 410882000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 152653000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 258229000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -150634000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 344772000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

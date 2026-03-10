@@ -1,0 +1,9 @@
+Company: New Era Energy & Digital Inc. Common Stock
+Ticker: NUAI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Midland
+Website: https://www.newerainfra.ai
+Employees: 7
+Business Summary: New Era Energy & Digital, Inc., operates as an exploration and production platform, engages in the exploration, development, and production of helium, oil and natural gas, and natural gas liquids in the United States. The company owns and operates a portfolio of approximately 137,000 acres in Southeast New Mexico. Its flagship Pecos Slope Field covering an area of 1893 square kilometers located 20 miles north of Roswell, New Mexico. It serves Tier 2 gas companies and balloon gas distributors. The company was formerly known as New Era Helium, Inc. and changed its name to New Era Energy & Digital, Inc. in August 2025. New Era Energy & Digital, Inc. is based in Midland, Texas.

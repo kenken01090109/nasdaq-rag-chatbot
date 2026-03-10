@@ -1,0 +1,25 @@
+Company: Orange County Bancorp Inc. Common Stock
+Ticker: OBT
+Market Cap: 420517632
+Enterprise Value: 257311200
+Total Revenue: 119456000
+Revenue Per Share: 9.55
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.44684
+Profit Margins: 0.34835997
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0161
+Return On Equity: 0.17712
+Total Cash: 204232000
+Total Debt: 34555000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.447448
+Forward PE: 8.221247
+Price To Book: 1.4790089
+Beta: 0.419
+52 Week High: 37.99
+52 Week Low: 20.97

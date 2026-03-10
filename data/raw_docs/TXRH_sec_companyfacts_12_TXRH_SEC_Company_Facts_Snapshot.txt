@@ -1,0 +1,12 @@
+Company: Texas Roadhouse Inc. Common Stock
+Ticker: TXRH
+CIK: 0001289460
+Latest SEC XBRL Facts:
+Revenues: 1256942000 | unit=USD | filed=2018-08-03 | period_end=2018-06-26
+RevenueFromContractWithCustomerExcludingAssessedTax: 4396044000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 168658000 | unit=USD | filed=2023-08-04 | period_end=2023-06-27
+Assets: 3266613000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1791004000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1460467000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 509602000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 108172000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Aardvark Therapeutics Inc. Common Stock
+Ticker: AARD
+CIK: 0001774857
+Latest SEC XBRL Facts:
+NetIncomeLoss: -39993000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 133229000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 10852000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 122377000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -37362000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 39285000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

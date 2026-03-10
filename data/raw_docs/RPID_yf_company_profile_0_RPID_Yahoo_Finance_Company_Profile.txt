@@ -1,0 +1,9 @@
+Company: Rapid Micro Biosystems Inc. Class A Common Stock
+Ticker: RPID
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Lexington
+Website: https://www.rapidmicrobio.com
+Employees: 163
+Business Summary: Rapid Micro Biosystems, Inc., a life sciences technology company, provides products for the detection of microbial contamination in the manufacture of pharmaceutical, medical devices, and personal care products in the United States, Germany, Switzerland, Japan, and internationally. The company offers Growth Direct platform, which includes growth direct system, proprietary consumables, lab information management system connection software, and customer support and validation services. Its platform automates and modernizes the manual microbial quality control (MQC) testing workflows for therapeutic modalities, such as biologics, vaccines, cell and gene therapies, and sterile injectables. The company also provides onsite technical training services. Its solutions are used in environmental monitoring, water, bioburden, and sterility release testing applications. In addition, the company offers RMBNucleus Mold Alarm software; and Growth Direct LIMS connection software. Rapid Micro Biosystems, Inc. was formerly known as Genomic Profiling Systems, Inc. and changed its name to Rapid Micro Biosystems, Inc. The company was incorporated in 2006 and is headquartered in Lexington, Massachusetts.

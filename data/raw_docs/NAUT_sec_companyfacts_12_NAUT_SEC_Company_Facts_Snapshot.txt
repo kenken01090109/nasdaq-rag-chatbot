@@ -1,0 +1,10 @@
+Company: Nautilus Biotechnology Inc. Common Stock
+Ticker: NAUT
+CIK: 0001808805
+Latest SEC XBRL Facts:
+NetIncomeLoss: -45220000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 200915000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 31776000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 169139000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -38321000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23875000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

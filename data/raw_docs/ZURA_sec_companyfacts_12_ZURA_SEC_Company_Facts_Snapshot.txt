@@ -1,0 +1,10 @@
+Company: Zura Bio Limited Class A Ordinary Shares
+Ticker: ZURA
+CIK: 0001855644
+Latest SEC XBRL Facts:
+NetIncomeLoss: -51475000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 143935000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 25491000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 108243000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -42537000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 139017000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

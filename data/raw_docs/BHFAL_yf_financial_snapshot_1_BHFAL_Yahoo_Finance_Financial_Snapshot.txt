@@ -1,0 +1,25 @@
+Company: Brighthouse Financial Inc. 6.25% Junior Subordinated Debentures due 2058
+Ticker: BHFAL
+Market Cap: 3548404992
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15467595
+Beta: 
+52 Week High: 22.18
+52 Week Low: 16.15

@@ -1,0 +1,9 @@
+Company: Drilling Tools International Corporation Common Stock
+Ticker: DTI
+Sector: Energy
+Industry: Oil & Gas Equipment & Services
+Country: United States
+City: Houston
+Website: https://www.drillingtools.com
+Employees: 447
+Business Summary: Drilling Tools International Corporation provides oilfield equipment and services to oil and natural gas sectors in North America, Europe, and the Middle East. It offers downhole tool rentals, machining, and inspection services to support the global drilling and wellbore construction industry. The company provides downhole tools to directional drilling and upstream energy customers; rents drill pipe, drill collars, kellys, pup joints, work strings, blowout preventers, and production tubing to drilling; and maintains a fleet of rental equipment consisting of drill collars, stabilizers, crossover subs, wellbore conditioning tools, drill pipe, hevi-wate drill pipe. The company was founded in 1984 and is headquartered in Houston, Texas.

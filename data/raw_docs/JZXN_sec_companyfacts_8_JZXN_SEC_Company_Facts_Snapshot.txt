@@ -1,0 +1,11 @@
+Company: Jiuzi Holdings Inc. Ordinary Shares
+Ticker: JZXN
+CIK: 0001816172
+Latest SEC XBRL Facts:
+Revenues: 978564 | unit=USD | filed=2025-07-31 | period_end=2025-04-30
+NetIncomeLoss: -675742 | unit=USD | filed=2025-07-31 | period_end=2025-04-30
+Assets: 9912814 | unit=USD | filed=2025-07-31 | period_end=2025-04-30
+Liabilities: 2359216 | unit=USD | filed=2025-07-31 | period_end=2025-04-30
+StockholdersEquity: 14053950 | unit=USD | filed=2026-02-24 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -791220 | unit=USD | filed=2025-07-31 | period_end=2025-04-30
+CashAndCashEquivalentsAtCarryingValue: 344235 | unit=USD | filed=2025-07-31 | period_end=2025-04-30

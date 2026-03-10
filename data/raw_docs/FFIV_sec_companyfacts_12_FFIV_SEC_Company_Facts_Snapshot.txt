@@ -1,0 +1,10 @@
+Company: F5 Inc. Common Stock
+Ticker: FFIV
+CIK: 0001048695
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 822465000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 180054000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 6291682000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 1553493000 | unit=USD | filed=2019-08-02 | period_end=2019-06-30
+NetCashProvidedByUsedInOperatingActivities: 159211000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1199734000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: X4 Pharmaceuticals Inc. Common Stock
+Ticker: XFOR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.x4pharma.com
+Employees: 143
+Business Summary: X4 Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the research, development, and commercialization of novel therapeutics for the treatment of rare diseases of the immune system. It offers XOLREMDI, an orally bioavailable selective antagonist of chemokine receptor C-X-C chemokine receptor type 4 (CXCR4) for the treatment of patients with warts, hypogammaglobulinemia, infections, and myelokathexis syndrome. The company also develops mavorixafor that is in Phase 3 4WARD clinical trial to evaluate the efficacy, safety, and tolerability of oral, once-daily mavorixafor with or without stable doses of G-CSF in people with congenital, acquired primary autoimmune, or idiopathic CN who are experiencing recurrent and/or serious infections. It has a license agreement with Abbisko Therapeutics Co Ltd. to develop, manufacture, and commercialize mavorixafor in combination with checkpoint inhibitors or other agents in oncology indications; and with Norgine to develop, manufacture, and commercialize mavorixafor in Europe, Australia, and New Zealand. The company is headquartered in Boston, Massachusetts.

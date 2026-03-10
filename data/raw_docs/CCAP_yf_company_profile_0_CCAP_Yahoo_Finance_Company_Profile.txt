@@ -1,0 +1,9 @@
+Company: Crescent Capital BDC Inc. Common stock
+Ticker: CCAP
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Los Angeles
+Website: https://www.crescentbdc.com
+Employees: 
+Business Summary: Crescent Capital BDC, Inc. is as a business development company is a private equity / buyouts and loan fund. It specializes in directly investing. It specializes in middle market. The fund seeks to invest in United States.

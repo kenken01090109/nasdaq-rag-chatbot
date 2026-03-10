@@ -1,0 +1,12 @@
+Company: Alpha and Omega Semiconductor Limited Common Shares
+Ticker: AOSL
+CIK: 0001387467
+Latest SEC XBRL Facts:
+Revenues: 84121000 | unit=USD | filed=2013-11-06 | period_end=2013-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 344764000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -15415000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 1002293000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 183525000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 818768000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 2062000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 196340000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

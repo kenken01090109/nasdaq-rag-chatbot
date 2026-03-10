@@ -1,0 +1,25 @@
+Company: Talen Energy Corporation Common Stock
+Ticker: TLN
+Market Cap: 14647991296
+Enterprise Value: 20791992320
+Total Revenue: 2625999872
+Revenue Per Share: 57.472
+EBITDA: 321000000
+Gross Margins: 0.38119
+Operating Margins: -0.36056998
+Profit Margins: -0.0834
+Free Cashflow: 1092875008
+Operating Cashflow: 704000000
+Return On Assets: -0.00404
+Return On Equity: -0.17661
+Total Cash: 689000000
+Total Debt: 6832999936
+Debt To Equity: 625.16
+Current Ratio: 1.285
+Quick Ratio: 0.843
+Trailing PE: 
+Forward PE: 10.517996
+Price To Book: 13.399657
+Beta: 1.615
+52 Week High: 451.28
+52 Week Low: 158.08

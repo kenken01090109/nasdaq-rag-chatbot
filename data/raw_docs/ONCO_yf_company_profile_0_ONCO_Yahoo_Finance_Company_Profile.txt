@@ -1,0 +1,9 @@
+Company: Onconetix Inc. Common Stock
+Ticker: ONCO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cincinnati
+Website: https://www.onconetix.com
+Employees: 5
+Business Summary: Onconetix, Inc., a biotechnology company, focuses on the research, development, and commercialization of solutions for men's health and oncology in the United States, European Union, and Non-European Union. The company offers Proclarix, an in vitro protein-based blood diagnostic test for prostate cancer. It has a license agreement with LabCorp to develop and commercialize Proclarix and other products. The company was formerly known as Blue Water Biotech, Inc. and changed its name to Onconetix, Inc. in December 2023. Onconetix, Inc. was founded in 2018 and is headquartered in Cincinnati, Ohio.

@@ -1,0 +1,12 @@
+Company: Viatris Inc. Common Stock
+Ticker: VTRS
+CIK: 0001792044
+Latest SEC XBRL Facts:
+Revenues: 10596300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10559700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -170000000 | unit=USD | filed=2020-11-10 | period_end=2020-09-27
+Assets: 37920400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 22702800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -201000000 | unit=USD | filed=2020-11-10 | period_end=2020-09-27
+NetCashProvidedByUsedInOperatingActivities: 1500100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 975300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

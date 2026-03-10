@@ -1,0 +1,12 @@
+Company: Able View Global Inc. Warrant
+Ticker: ABLVW
+Total Revenue: 114319872
+Revenue Per Share: 2.465
+Gross Margins: 0.091730006
+Operating Margins: 0.03203
+EBITDA: -7916623
+Profit Margins: 0.02044
+Free Cashflow: 3602341
+Operating Cashflow: 1918397
+Return On Assets: -0.11314999
+Return On Equity: -1.20857

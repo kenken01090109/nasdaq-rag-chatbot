@@ -1,0 +1,25 @@
+Company: LPL Financial Holdings Inc. Common Stock
+Ticker: LPLA
+Market Cap: 25109942272
+Enterprise Value: 29815111680
+Total Revenue: 16586073088
+Revenue Per Share: 210.802
+EBITDA: 
+Gross Margins: 0.30858
+Operating Margins: 0.10067
+Profit Margins: 0.05203
+Free Cashflow: 
+Operating Cashflow: -411404000
+Return On Assets: 0.05426
+Return On Equity: 0.20858
+Total Cash: 2865550080
+Total Debt: 7571097088
+Debt To Equity: 141.662
+Current Ratio: 2.378
+Quick Ratio: 2.307
+Trailing PE: 28.740604
+Forward PE: 10.75786
+Price To Book: 4.697106
+Beta: 0.577
+52 Week High: 403.58
+52 Week Low: 262.83

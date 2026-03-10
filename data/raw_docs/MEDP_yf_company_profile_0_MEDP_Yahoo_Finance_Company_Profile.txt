@@ -1,0 +1,9 @@
+Company: Medpace Holdings Inc. Common Stock
+Ticker: MEDP
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: Cincinnati
+Website: https://www.medpace.com
+Employees: 6200
+Business Summary: Medpace Holdings, Inc. provides clinical research-based drug and medical device development services in North America, Europe, Asia, South America, Africa, and Australia. The company offers a suite of services supporting the clinical development process from Phase I to Phase IV in various therapeutic areas. It provides clinical development services to the pharmaceutical, biotechnology, and medical device industries; and development plan design, coordinated central laboratory, project management, regulatory affairs, clinical monitoring, data management and analysis, pharmacovigilance new drug application submissions, and post-marketing clinical support services. In addition, the company offers bio-analytical laboratory services, clinical human pharmacology, imaging services, and electrocardiography reading support for clinical trials. Medpace Holdings, Inc. was founded in 1992 and is based in Cincinnati, Ohio.

@@ -1,0 +1,9 @@
+Company: Quince Therapeutics Inc. Common Stock
+Ticker: QNCX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://www.quincetx.com
+Employees: 36
+Business Summary: Quince Therapeutics, Inc., a biopharmaceutical company, focuses on acquiring, developing, and commercializing therapeutics for patients with debilitating and rare diseases. The company's lead asset candidature comprises EryDex for the treatment of rare pediatric neurodegenerative disease, including A-T, an inherited autosomal recessive neurodegenerative and immunodeficiency disorder caused by mutations in ATM gene. Its AIDE technology platform, a drug/device combination platform that uses an automated process to encapsulate a drug into a patient's own red blood cells, as well as consists of an automated equipment the RCL, a sterile single-use consumable treatment kit comprising kit medical devices, syringe kit, and process solutions. The company was formerly known as Cortexyme, Inc. and changed its name to Quince Therapeutics, Inc. in August 2022. The company was incorporated in 2012 and is headquartered in South San Francisco, California.

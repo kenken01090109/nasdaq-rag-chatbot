@@ -1,0 +1,9 @@
+Company: Datacentrex Inc. Common Stock
+Ticker: DTCX
+Sector: Financial Services
+Industry: Financial Data & Stock Exchanges
+Country: United States
+City: Los Angeles
+Website: 
+Employees: 
+Business Summary: Datacentrex, Inc. operates as an industrial-scale blockchain infrastructure company that focuses on Dogecoin and Litecoin mining. The company is based in Los Angeles, California.

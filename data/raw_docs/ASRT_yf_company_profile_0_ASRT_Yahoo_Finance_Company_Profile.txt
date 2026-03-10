@@ -1,0 +1,9 @@
+Company: Assertio Holdings Inc. Common Stock
+Ticker: ASRT
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Lake Forest
+Website: https://www.assertiotx.com
+Employees: 58
+Business Summary: Assertio Holdings, Inc., a pharmaceutical company, provides various products to patients in the United States. Its pharmaceutical products include INDOCIN, an oral and suppository solution for the treatment of moderate to severe rheumatoid arthritis, including acute flares of chronic disease; ankylosing spondylitis and osteoarthritis; and acute painful shoulder and gouty arthritis. It also provides Sympazan, a benzodiazepine for the adjunctive treatment of seizures related with lennox-gastaut syndrome in patients aged two years of age or older; CAMBIA, a non steroidal anti inflammatory drug (NSAID) for the treatment of migraine pain, nausea, photophobia, and phonophobia; SPRIX, a NSAID for the short term management of moderate to moderately severe pain that requires analgesia at the opioid level; Otrexup, a single-dose auto-injector containing a prescription medicine and methotrexate that is used to treat patients with severe, active rheumatoid arthritis, and active polyarticular juvenile idiopathic arthritis, as well as treat adult with severe, recalcitrant, and disabling psoriasis; and ROLVEDON, a long-acting granulocyte colony-stimulating factor that is indicated to decrease the incidence of infection caused by febrile neutropenia. The company was formerly known as Assertio Therapeutics, Inc. and changed its name to Assertio Holdings, Inc. in May 2020. Assertio Holdings, Inc. was incorporated in 2020 and is headquartered in Lake Forest, Illinois.

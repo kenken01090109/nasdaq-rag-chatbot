@@ -1,0 +1,9 @@
+Company: Emmis Acquisition Corp. Rights
+Ticker: EMISR
+CIK: 0002075816
+Latest SEC XBRL Facts:
+NetIncomeLoss: -92348 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 116490959 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 199719 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 1265828 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-04 | period_end=2025-06-30

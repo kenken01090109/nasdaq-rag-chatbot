@@ -1,0 +1,10 @@
+Company: Fossil Group Inc. Common Stock
+Ticker: FOSL
+CIK: 0000883569
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 723882000 | unit=USD | filed=2025-11-13 | period_end=2025-10-04
+NetIncomeLoss: -12242000 | unit=USD | filed=2019-05-09 | period_end=2019-03-30
+Assets: 701027000 | unit=USD | filed=2025-11-13 | period_end=2025-10-04
+StockholdersEquity: 112606000 | unit=USD | filed=2025-11-13 | period_end=2025-10-04
+NetCashProvidedByUsedInOperatingActivities: -73098000 | unit=USD | filed=2025-11-13 | period_end=2025-10-04
+CashAndCashEquivalentsAtCarryingValue: 79216000 | unit=USD | filed=2025-11-13 | period_end=2025-10-04

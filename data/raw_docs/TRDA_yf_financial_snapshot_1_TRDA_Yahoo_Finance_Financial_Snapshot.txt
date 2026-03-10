@@ -1,0 +1,25 @@
+Company: Entrada Therapeutics Inc. Common Stock
+Ticker: TRDA
+Market Cap: 481616640
+Enterprise Value: 173554416
+Total Revenue: 25421000
+Revenue Per Share: 0.614
+EBITDA: -151902000
+Gross Margins: 0.0
+Operating Margins: -31.03002
+Profit Margins: 0.0
+Free Cashflow: -76957752
+Operating Cashflow: -128512000
+Return On Assets: -0.21577999
+Return On Equity: -0.39126
+Total Cash: 295697984
+Total Debt: 50932000
+Debt To Equity: 16.637
+Current Ratio: 12.525
+Quick Ratio: 12.199
+Trailing PE: 
+Forward PE: -3.5925717
+Price To Book: 1.479304
+Beta: -0.124
+52 Week High: 12.93
+52 Week Low: 4.93

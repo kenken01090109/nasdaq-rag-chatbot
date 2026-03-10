@@ -1,0 +1,11 @@
+Company: UP Fintech Holding Ltd American Depositary Share representing fifteen Class A Ordinary Shares
+Ticker: TIGR
+CIK: 0001756699
+Latest SEC XBRL Facts:
+Revenues: 391541429 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetIncomeLoss: -6589431 | unit=USD | filed=2020-04-29 | period_end=2019-12-31
+Assets: 6391312469 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Liabilities: 5729188720 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+StockholdersEquity: 655234014 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 827978252 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 393576874 | unit=USD | filed=2025-04-23 | period_end=2024-12-31

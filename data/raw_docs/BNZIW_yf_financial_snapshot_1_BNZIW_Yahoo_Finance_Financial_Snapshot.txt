@@ -1,0 +1,25 @@
+Company: Banzai International Inc. Warrant
+Ticker: BNZIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 10650176
+Revenue Per Share: 5.536
+EBITDA: -17237084
+Gross Margins: 0.80723
+Operating Margins: -1.5574601
+Profit Margins: -2.37687
+Free Cashflow: -16556128
+Operating Cashflow: -17628830
+Return On Assets: -0.56141
+Return On Equity: 
+Total Cash: 851356
+Total Debt: 14484466
+Debt To Equity: 266.247
+Current Ratio: 0.087
+Quick Ratio: 0.068
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.012727273
+Beta: -0.6
+52 Week High: 0.0143
+52 Week Low: 0.0132

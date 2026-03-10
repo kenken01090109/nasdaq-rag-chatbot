@@ -1,0 +1,25 @@
+Company: Bright Minds Biosciences Inc. Common Stock
+Ticker: DRUG
+Market Cap: 752339072
+Enterprise Value: 672498176
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -7701105
+Operating Cashflow: -13013126
+Return On Assets: -0.15718001
+Return On Equity: -0.26979
+Total Cash: 89047864
+Total Debt: 104900
+Debt To Equity: 0.117
+Current Ratio: 57.368
+Quick Ratio: 56.586
+Trailing PE: 
+Forward PE: -11.581573
+Price To Book: 9.166263
+Beta: -0.752
+52 Week High: 123.75
+52 Week Low: 23.175

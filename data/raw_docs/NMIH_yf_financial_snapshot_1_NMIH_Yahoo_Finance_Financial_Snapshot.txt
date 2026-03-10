@@ -1,0 +1,25 @@
+Company: NMI Holdings Inc. Common Stock
+Ticker: NMIH
+Market Cap: 2943272960
+Enterprise Value: 3237444608
+Total Revenue: 706440000
+Revenue Per Share: 9.101
+EBITDA: 539542016
+Gross Margins: 0.78021
+Operating Margins: 0.70978
+Profit Margins: 0.55054003
+Free Cashflow: 267058496
+Operating Cashflow: 419299008
+Return On Assets: 0.09182999
+Return On Equity: 0.16174
+Total Cash: 130556000
+Total Debt: 425537984
+Debt To Equity: 16.417
+Current Ratio: 1.969
+Quick Ratio: 0.625
+Trailing PE: 7.7825203
+Forward PE: 6.958997
+Price To Book: 1.1269057
+Beta: 0.634
+52 Week High: 43.2
+52 Week Low: 31.9

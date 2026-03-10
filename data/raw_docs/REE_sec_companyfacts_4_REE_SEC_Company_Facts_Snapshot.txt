@@ -1,0 +1,11 @@
+Company: REE Automotive Ltd. Class A Ordinary Shares
+Ticker: REE
+CIK: 0001843588
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 183000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetIncomeLoss: -111754000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Assets: 130280000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Liabilities: 107152000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+StockholdersEquity: 23128000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -68985000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 72262000 | unit=USD | filed=2025-05-15 | period_end=2024-12-31

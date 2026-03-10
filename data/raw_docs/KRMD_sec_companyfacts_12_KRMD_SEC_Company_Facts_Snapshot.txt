@@ -1,0 +1,11 @@
+Company: KORU Medical Systems Inc. Common Stock (DE)
+Ticker: KRMD
+CIK: 0000704440
+Latest SEC XBRL Facts:
+Revenues: 30232038 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -2151070 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 27103526 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 10638701 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 16464825 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -632351 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8464019 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

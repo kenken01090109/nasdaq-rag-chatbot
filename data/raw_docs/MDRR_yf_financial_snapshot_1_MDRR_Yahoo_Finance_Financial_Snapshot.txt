@@ -1,0 +1,25 @@
+Company: Medalist Diversified Inc. Common Stock
+Ticker: MDRR
+Market Cap: 12698103
+Enterprise Value: 63342544
+Total Revenue: 10098461
+Revenue Per Share: 7.947
+EBITDA: 4027448
+Gross Margins: 0.7383
+Operating Margins: 0.20153
+Profit Margins: -0.21811001
+Free Cashflow: -2243513
+Operating Cashflow: 2657065
+Return On Assets: 0.0059100003
+Return On Equity: -0.08484
+Total Cash: 1935130
+Total Debt: 37728592
+Debt To Equity: 150.944
+Current Ratio: 1.247
+Quick Ratio: 0.114
+Trailing PE: 
+Forward PE: -32.614285
+Price To Book: 1.2236037
+Beta: 0.507
+52 Week High: 14.52
+52 Week Low: 9.55

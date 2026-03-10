@@ -1,0 +1,25 @@
+Company: Caris Life Sciences Inc. Common Stock
+Ticker: CAI
+Market Cap: 5245111296
+Enterprise Value: 4882277888
+Total Revenue: 812033024
+Revenue Per Share: 4.856
+EBITDA: 67728000
+Gross Margins: 0.66628
+Operating Margins: 0.30186
+Profit Margins: -0.083850004
+Free Cashflow: 53502500
+Operating Cashflow: 83155000
+Return On Assets: 0.03838
+Return On Equity: -0.45374
+Total Cash: 798569024
+Total Debt: 427686016
+Debt To Equity: 74.083
+Current Ratio: 7.848
+Quick Ratio: 7.163
+Trailing PE: 
+Forward PE: 48.64073
+Price To Book: 9.099364
+Beta: 
+52 Week High: 42.5
+52 Week Low: 17.15

@@ -1,0 +1,25 @@
+Company: IAC Inc. Common Stock
+Ticker: IAC
+Market Cap: 2932389376
+Enterprise Value: 3702583040
+Total Revenue: 2393189120
+Revenue Per Share: 29.886
+EBITDA: 237540000
+Gross Margins: 0.66164
+Operating Margins: 0.14468001
+Profit Margins: -0.043470003
+Free Cashflow: 334502496
+Operating Cashflow: 61277000
+Return On Assets: 0.00813
+Return On Equity: -0.02105
+Total Cash: 960211008
+Total Debt: 1627799040
+Debt To Equity: 33.99
+Current Ratio: 2.754
+Quick Ratio: 2.512
+Trailing PE: 
+Forward PE: 16.299458
+Price To Book: 0.6187504
+Beta: 1.173
+52 Week High: 41.86
+52 Week Low: 29.56

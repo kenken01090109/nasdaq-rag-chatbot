@@ -1,0 +1,25 @@
+Company: Castor Maritime Inc. Common Shares
+Ticker: CTRM
+Market Cap: 21160556
+Enterprise Value: 57890428
+Total Revenue: 75412576
+Revenue Per Share: 7.805
+EBITDA: 5437006
+Gross Margins: 0.45005
+Operating Margins: 0.062080003
+Profit Margins: -0.37418997
+Free Cashflow: -71288992
+Operating Cashflow: 7936803
+Return On Assets: -0.00709
+Return On Equity: -0.04532
+Total Cash: 181118288
+Total Debt: 18961854
+Debt To Equity: 2.663
+Current Ratio: 5.606
+Quick Ratio: 4.283
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.04124294
+Beta: 1.068
+52 Week High: 2.84
+52 Week Low: 1.84

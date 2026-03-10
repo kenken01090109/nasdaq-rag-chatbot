@@ -1,0 +1,25 @@
+Company: BV Financial Inc. Common Stock
+Ticker: BVFL
+Market Cap: 169441760
+Enterprise Value: 140187936
+Total Revenue: 42050000
+Revenue Per Share: 4.483
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.57777
+Profit Margins: 0.32092997
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0148
+Return On Equity: 0.07116
+Total Cash: 55705000
+Total Debt: 35000000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.3076935
+Forward PE: 
+Price To Book: 0.87534505
+Beta: 0.105
+52 Week High: 19.88
+52 Week Low: 13.53

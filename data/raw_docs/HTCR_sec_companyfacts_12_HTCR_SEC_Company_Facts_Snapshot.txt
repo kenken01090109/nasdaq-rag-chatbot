@@ -1,0 +1,12 @@
+Company: Heartcore Enterprises Inc. Common Stock
+Ticker: HTCR
+CIK: 0001892322
+Latest SEC XBRL Facts:
+Revenues: 8331272 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7052799 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetIncomeLoss: -1553018 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 13337171 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 9512553 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: 5191453 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2674892 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1451019 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

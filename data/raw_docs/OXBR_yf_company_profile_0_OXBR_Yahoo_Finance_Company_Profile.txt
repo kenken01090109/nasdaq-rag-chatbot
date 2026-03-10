@@ -1,0 +1,9 @@
+Company: Oxbridge Re Holdings Limited Ordinary Shares
+Ticker: OXBR
+Sector: Financial Services
+Industry: Insurance - Reinsurance
+Country: Cayman Islands
+City: George Town
+Website: https://oxbridgere.com
+Employees: 3
+Business Summary: Oxbridge Re Holdings Limited, through its subsidiaries, provides specialty property and casualty reinsurance solutions. The company underwrites collateralized reinsurance contracts primarily for property and casualty insurance companies in the Gulf Coast region of the United States. It also issues reinsurance contracts through digital securities by blockchain technology. In addition, the company offers fractional aircraft ownership, jet card, aircraft brokerage, and charter service through its fleet of private aircraft. It distributes its products and solutions through reinsurance brokers. Oxbridge Re Holdings Limited was incorporated in 2013 and is headquartered in George Town, the Cayman Islands.

@@ -1,0 +1,25 @@
+Company: Dianthus Therapeutics Inc. Common Stock
+Ticker: DNTH
+Market Cap: 2818145280
+Enterprise Value: 2232545536
+Total Revenue: 3078000
+Revenue Per Share: 0.085
+EBITDA: -140198000
+Gross Margins: 1.0
+Operating Margins: -101.73737
+Profit Margins: 0.0
+Free Cashflow: -63263500
+Operating Cashflow: -109521000
+Return On Assets: -0.18823999
+Return On Equity: -0.28573
+Total Cash: 402612992
+Total Debt: 1285000
+Debt To Equity: 0.235
+Current Ratio: 17.348
+Quick Ratio: 17.087
+Trailing PE: 
+Forward PE: -16.964455
+Price To Book: 5.113324
+Beta: 1.237
+52 Week High: 65.43
+52 Week Low: 13.37

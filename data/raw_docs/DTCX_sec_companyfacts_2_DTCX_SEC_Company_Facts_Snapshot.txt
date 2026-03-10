@@ -1,0 +1,12 @@
+Company: Datacentrex Inc. Common Stock
+Ticker: DTCX
+CIK: 0001853825
+Latest SEC XBRL Facts:
+Revenues: 4892 | unit=USD | filed=2022-08-03 | period_end=2022-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 551 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -13780021 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 51660244 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 882704 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 50777540 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4959872 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44080451 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

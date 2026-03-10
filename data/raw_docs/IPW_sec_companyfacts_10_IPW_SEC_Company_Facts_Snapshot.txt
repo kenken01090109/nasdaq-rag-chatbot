@@ -1,0 +1,12 @@
+Company: iPower Inc. Common Stock
+Ticker: IPW
+CIK: 0001830072
+Latest SEC XBRL Facts:
+Revenues: 19151069 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 66617004 | unit=USD | filed=2024-05-14 | period_end=2024-03-31
+NetIncomeLoss: -1810462 | unit=USD | filed=2025-02-14 | period_end=2024-12-31
+Assets: 33997288 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Liabilities: 16012946 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+StockholdersEquity: 26828663 | unit=USD | filed=2022-02-14 | period_end=2021-12-31
+NetCashProvidedByUsedInOperatingActivities: 763906 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2011738 | unit=USD | filed=2026-02-20 | period_end=2025-12-31

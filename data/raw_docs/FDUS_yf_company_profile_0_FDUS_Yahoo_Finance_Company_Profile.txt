@@ -1,0 +1,9 @@
+Company: Fidus Investment Corporation Common Stock
+Ticker: FDUS
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Evanston
+Website: https://www.fdus.com
+Employees: 
+Business Summary: Fidus Investment Corporation is a business development company. It specializing in leveraged buyouts, refinancings, change of ownership transactions, recapitalizations, strategic acquisitions, mezzanine, growth capital, business expansion, lower middle market investments, debt investments, subordinated and second lien loans, senior secured and unitranche debt, preferred equity, warrants, subordinated debt, senior subordinated notes, junior secured loans, and unitranche loans. It does not invest in turnarounds or distressed situations. The fund prefers to invest in aerospace and defense, business services, consumer products and services including retail, food, and beverage, healthcare products and services, industrial products and services, information technology services, niche manufacturing, transportation and logistics, and value-added distribution sectors. It seeks to invest in companies based in United States. The fund typically invests between $5 million and $30 million per transaction in companies with annual revenues between $10 million and $150 million and an annual EBITDA between $5 million and $30 million, but it can occasionally invest in larger or smaller companies. The fund typically invests between $5 million and $15 million in debt investment. It seeks to acquire minority equity stakes and board observation rights in conjunction with its investments.

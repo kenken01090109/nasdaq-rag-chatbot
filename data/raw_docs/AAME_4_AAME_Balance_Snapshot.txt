@@ -1,0 +1,8 @@
+Company: Atlantic American Corporation Common Stock
+Ticker: AAME
+Total Cash: 34444000
+Total Debt: 42664000
+Debt To Equity: 38.967
+Current Ratio: 1.501
+Quick Ratio: 1.159
+Book Value: 5.365

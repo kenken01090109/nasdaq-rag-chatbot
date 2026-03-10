@@ -1,0 +1,9 @@
+Company: TH International Limited Ordinary shares
+Ticker: THCH
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: China
+City: Shanghai
+Website: https://www.timschina.com
+Employees: 1568
+Business Summary: TH International Limited operates Tim Hortons coffee shops in mainland China, Hong Kong, and Macau. It offers brewed tea, coffee, milk tea, lemonade, hot chocolate, and coffee drinks. It is also involved in franchise related business. The company is based in Shanghai, the People's Republic of China.

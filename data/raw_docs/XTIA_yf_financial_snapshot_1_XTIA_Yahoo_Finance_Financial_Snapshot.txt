@@ -1,0 +1,25 @@
+Company: XTI Aerospace Inc. Common Stock
+Ticker: XTIA
+Market Cap: 91103224
+Enterprise Value: 52955852
+Total Revenue: 4601000
+Revenue Per Share: 0.551
+EBITDA: -38582000
+Gross Margins: 0.53467
+Operating Margins: -5.96176
+Profit Margins: 0.0
+Free Cashflow: 4828250
+Operating Cashflow: -38358000
+Return On Assets: -0.63321
+Return On Equity: -7.04798
+Total Cash: 32215000
+Total Debt: 253000
+Debt To Equity: 2.42
+Current Ratio: 1.031
+Quick Ratio: 0.965
+Trailing PE: 0.008905982
+Forward PE: -4.1250005
+Price To Book: 7.787611
+Beta: 
+52 Week High: 7.43
+52 Week Low: 0.96

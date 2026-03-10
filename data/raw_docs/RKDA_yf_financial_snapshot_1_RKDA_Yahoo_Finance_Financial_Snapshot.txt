@@ -1,0 +1,25 @@
+Company: Arcadia Biosciences Inc. Common Stock
+Ticker: RKDA
+Market Cap: 4297978
+Enterprise Value: -3413384
+Total Revenue: 5173000
+Revenue Per Share: 3.786
+EBITDA: -5949000
+Gross Margins: 0.40402
+Operating Margins: -0.88478994
+Profit Margins: -0.97950995
+Free Cashflow: -399000
+Operating Cashflow: -6087000
+Return On Assets: -0.3148
+Return On Equity: -0.64649004
+Total Cash: 5885000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.67
+Quick Ratio: 2.939
+Trailing PE: 
+Forward PE: -1.5390625
+Price To Book: 0.49497488
+Beta: 0.607
+52 Week High: 6.71
+52 Week Low: 1.54

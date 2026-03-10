@@ -1,0 +1,11 @@
+Company: Repay Holdings Corporation Class A Common Stock
+Ticker: RPAY
+CIK: 0001720592
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 230676000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -116612000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1333489000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 711075000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 616904000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 67795000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 95691000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

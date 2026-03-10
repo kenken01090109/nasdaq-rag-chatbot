@@ -1,0 +1,12 @@
+Company: Madrigal Pharmaceuticals Inc. Common Stock
+Ticker: MDGL
+CIK: 0001157601
+Latest SEC XBRL Facts:
+Revenues: 137250000 | unit=USD | filed=2025-05-01 | period_end=2025-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 637320000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -229709000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1362457000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 736725000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 625732000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -56093000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 295694000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

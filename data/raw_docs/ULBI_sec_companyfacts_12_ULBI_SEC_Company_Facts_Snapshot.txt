@@ -1,0 +1,11 @@
+Company: Ultralife Corporation Common Stock
+Ticker: ULBI
+CIK: 0000875657
+Latest SEC XBRL Facts:
+Revenues: 142678000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetIncomeLoss: 1524000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 222246000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 84813000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 137263000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9501000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6774000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30

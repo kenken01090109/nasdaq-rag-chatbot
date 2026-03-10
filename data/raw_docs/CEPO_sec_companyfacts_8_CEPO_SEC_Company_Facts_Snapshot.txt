@@ -1,0 +1,10 @@
+Company: Cantor Equity Partners I Inc. Class A Ordinary Shares
+Ticker: CEPO
+CIK: 0002027708
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4140104 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 205749080 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1220531 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -3936462 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 52578 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 275381 | unit=USD | filed=2025-05-15 | period_end=2025-03-31

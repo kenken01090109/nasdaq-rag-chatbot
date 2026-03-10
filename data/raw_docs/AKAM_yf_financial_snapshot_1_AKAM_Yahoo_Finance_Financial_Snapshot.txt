@@ -1,0 +1,25 @@
+Company: Akamai Technologies Inc. Common Stock
+Ticker: AKAM
+Market Cap: 14472872960
+Enterprise Value: 19122554880
+Total Revenue: 4208175104
+Revenue Per Share: 28.942
+EBITDA: 1180878976
+Gross Margins: 0.58949
+Operating Margins: 0.13822
+Profit Margins: 0.10742
+Free Cashflow: 578661888
+Operating Cashflow: 1518765056
+Return On Assets: 0.035940003
+Return On Equity: 0.091730006
+Total Cash: 1186532992
+Total Debt: 5675387904
+Debt To Equity: 114.024
+Current Ratio: 2.363
+Quick Ratio: 2.047
+Trailing PE: 32.53746
+Forward PE: 13.1459465
+Price To Book: 2.904201
+Beta: 0.704
+52 Week High: 113.5
+52 Week Low: 67.51

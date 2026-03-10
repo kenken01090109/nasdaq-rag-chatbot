@@ -1,0 +1,8 @@
+Company: Aeva Technologies Inc. Common Stock
+Ticker: AEVA
+Total Cash: 121899000
+Total Debt: 102394000
+Debt To Equity: 774.832
+Current Ratio: 4.28
+Quick Ratio: 3.492
+Book Value: 0.219

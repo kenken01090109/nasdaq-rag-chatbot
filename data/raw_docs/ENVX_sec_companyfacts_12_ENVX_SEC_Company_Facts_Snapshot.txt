@@ -1,0 +1,12 @@
+Company: Enovix Corporation Common Stock
+Ticker: ENVX
+CIK: 0001828318
+Latest SEC XBRL Facts:
+Revenues: 31821000 | unit=USD | filed=2026-02-25 | period_end=2025-12-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 20556000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+NetIncomeLoss: -121751000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+Assets: 913709000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+Liabilities: 616606000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+StockholdersEquity: 294256000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: -68292000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 335502000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28

@@ -1,0 +1,25 @@
+Company: Dogness (International) Corporation Class A Common Stock
+Ticker: DOGZ
+Market Cap: 22201306
+Enterprise Value: 23514330
+Total Revenue: 20707708
+Revenue Per Share: 1.544
+EBITDA: -3784997
+Gross Margins: 0.24269
+Operating Margins: -0.50825
+Profit Margins: -0.24634
+Free Cashflow: 430997
+Operating Cashflow: 567088
+Return On Assets: -0.038
+Return On Equity: -0.058579996
+Total Cash: 12831485
+Total Debt: 15239999
+Debt To Equity: 15.59
+Current Ratio: 3.353
+Quick Ratio: 2.334
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.22273985
+Beta: 2.6
+52 Week High: 34.53
+52 Week Low: 1.02

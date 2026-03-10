@@ -1,0 +1,25 @@
+Company: CareCloud Inc. Common Stock
+Ticker: CCLD
+Market Cap: 116167888
+Enterprise Value: 121577888
+Total Revenue: 114315000
+Revenue Per Share: 3.659
+EBITDA: 15671000
+Gross Margins: 0.46488997
+Operating Margins: 0.103870004
+Profit Margins: 0.09803
+Free Cashflow: 13334625
+Operating Cashflow: 25115000
+Return On Assets: 0.09244
+Return On Equity: 0.21486
+Total Cash: 4258000
+Total Debt: 9666000
+Debt To Equity: 16.722
+Current Ratio: 1.261
+Quick Ratio: 1.014
+Trailing PE: 39.142857
+Forward PE: 7.472659
+Price To Book: 2.0102713
+Beta: 2.154
+52 Week High: 4.01
+52 Week Low: 1.142

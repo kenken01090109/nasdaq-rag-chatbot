@@ -1,0 +1,25 @@
+Company: Marchex Inc. Class B Common Stock
+Ticker: MCHX
+Market Cap: 62346892
+Enterprise Value: 52742432
+Total Revenue: 46494000
+Revenue Per Share: 1.064
+EBITDA: -2183000
+Gross Margins: 0.63686
+Operating Margins: -0.08173
+Profit Margins: -0.10384
+Free Cashflow: 579125
+Operating Cashflow: -654000
+Return On Assets: -0.07236
+Return On Equity: -0.14618
+Total Cash: 10321000
+Total Debt: 877000
+Debt To Equity: 2.746
+Current Ratio: 2.53
+Quick Ratio: 2.222
+Trailing PE: 
+Forward PE: 142.0
+Price To Book: 1.9478738
+Beta: 2.086
+52 Week High: 2.31
+52 Week Low: 1.26

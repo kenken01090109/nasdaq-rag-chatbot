@@ -1,0 +1,9 @@
+Company: Algorhythm Holdings Inc. Common Stock
+Ticker: RIME
+Sector: Technology
+Industry: Consumer Electronics
+Country: United States
+City: Fort Lauderdale
+Website: https://www.algoholdings.com
+Employees: 25
+Business Summary: Algorhythm Holdings, Inc., together with its subsidiaries, operates as an AI technology and consumer electronics holding company. It operates SemiCab, an artificial intelligence (AI) enabled software logistics business. SemiCab uses real-time data from API-based load tendering and pre-built integrations with TMS and ELD partners to orchestrate collaboration across manufacturers, retailers, distributors, and their carriers. It uses AI/ML predictions and advanced predictive optimization models to enable fully loaded round trips. The company was formerly known as The Singing Machine Company, Inc. and changed its name to Algorhythm Holdings, Inc. in September 2024. Algorhythm Holdings, Inc. was incorporated in 1982 and is headquartered in Fort Lauderdale, Florida.

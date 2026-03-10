@@ -1,0 +1,25 @@
+Company: Kyivstar Group Ltd. Warrant
+Ticker: KYIVW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 1086000000
+Revenue Per Share: 4.952
+EBITDA: 546000000
+Gross Margins: 0.90147
+Operating Margins: 0.39394
+Profit Margins: 0.11694
+Free Cashflow: 
+Operating Cashflow: 512000000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 472000000
+Total Debt: 502000000
+Debt To Equity: 40.615
+Current Ratio: 1.401
+Quick Ratio: 1.037
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6884315
+Beta: 
+52 Week High: 4.42
+52 Week Low: 3.85

@@ -1,0 +1,11 @@
+Company: SIMPPLE LTD. Ordinary Shares
+Ticker: SPPL
+CIK: 0001948697
+Latest SEC XBRL Facts:
+Revenues: 1041682 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+NetIncomeLoss: -1662659 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+Assets: 4427005 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+Liabilities: 3476025 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+StockholdersEquity: 950980 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: 902051 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 1081502 | unit=USD | filed=2024-12-30 | period_end=2024-06-30

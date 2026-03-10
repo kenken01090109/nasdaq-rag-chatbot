@@ -1,0 +1,25 @@
+Company: Littelfuse Inc. Common Stock
+Ticker: LFUS
+Market Cap: 7589547008
+Enterprise Value: 8445327872
+Total Revenue: 2386294016
+Revenue Per Share: 96.156
+EBITDA: 495942016
+Gross Margins: 0.38015
+Operating Margins: 0.15004
+Profit Margins: -0.030050002
+Free Cashflow: 325821760
+Operating Cashflow: 433764000
+Return On Assets: 0.057540003
+Return On Equity: -0.02963
+Total Cash: 564840000
+Total Debt: 885827008
+Debt To Equity: 36.513
+Current Ratio: 2.694
+Quick Ratio: 1.742
+Trailing PE: 
+Forward PE: 20.165443
+Price To Book: 3.1057546
+Beta: 1.415
+52 Week High: 380.0
+52 Week Low: 142.1

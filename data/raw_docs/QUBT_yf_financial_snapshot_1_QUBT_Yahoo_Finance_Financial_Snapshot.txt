@@ -1,0 +1,25 @@
+Company: Quantum Computing Inc. Common Stock
+Ticker: QUBT
+Market Cap: 1703337088
+Enterprise Value: 618711296
+Total Revenue: 682000
+Revenue Per Share: 0.004
+EBITDA: -46674000
+Gross Margins: 0.09824
+Operating Margins: -112.20202
+Profit Margins: 0.0
+Free Cashflow: -35500752
+Operating Cashflow: -30294000
+Return On Assets: -0.03602
+Return On Equity: -0.0219
+Total Cash: 1117300992
+Total Debt: 2577000
+Debt To Equity: 0.161
+Current Ratio: 102.377
+Quick Ratio: 101.269
+Trailing PE: 
+Forward PE: -18.536585
+Price To Book: 1.0659186
+Beta: 3.631
+52 Week High: 25.84
+52 Week Low: 4.373

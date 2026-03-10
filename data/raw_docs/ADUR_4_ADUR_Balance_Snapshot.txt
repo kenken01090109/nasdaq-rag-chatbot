@@ -1,0 +1,8 @@
+Company: Aduro Clean Technologies Inc. Common Stock
+Ticker: ADUR
+Total Cash: 13093296
+Total Debt: 141868
+Debt To Equity: 0.823
+Current Ratio: 21.454
+Quick Ratio: 20.852
+Book Value: 0.40233466

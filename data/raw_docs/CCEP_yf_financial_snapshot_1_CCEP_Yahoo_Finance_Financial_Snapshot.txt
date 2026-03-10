@@ -1,0 +1,25 @@
+Company: Coca-Cola Europacific Partners plc Ordinary Shares
+Ticker: CCEP
+Market Cap: 45088116736
+Enterprise Value: 55823323136
+Total Revenue: 20900999168
+Revenue Per Share: 45.836
+EBITDA: 3608000000
+Gross Margins: 0.35577
+Operating Margins: 0.12751001
+Profit Margins: 0.09291001
+Free Cashflow: 1668875008
+Operating Cashflow: 2952999936
+Return On Assets: 0.05505
+Return On Equity: 0.22894
+Total Cash: 957000000
+Total Debt: 10693999616
+Debt To Equity: 128.797
+Current Ratio: 0.801
+Quick Ratio: 0.495
+Trailing PE: 20.205645
+Forward PE: 17.656975
+Price To Book: 4.944054
+Beta: 0.394
+52 Week High: 110.9
+52 Week Low: 80.7

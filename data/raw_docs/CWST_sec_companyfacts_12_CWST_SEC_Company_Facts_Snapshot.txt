@@ -1,0 +1,11 @@
+Company: Casella Waste Systems Inc. Class A Common Stock
+Ticker: CWST
+CIK: 0000911177
+Latest SEC XBRL Facts:
+Revenues: 1367786000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1367786000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 10382000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 3285292000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 1567364000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 233213000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 192653000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

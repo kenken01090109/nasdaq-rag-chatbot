@@ -1,0 +1,25 @@
+Company: Outset Medical Inc. Common Stock
+Ticker: OM
+Market Cap: 58230972
+Enterprise Value: -4798564
+Total Revenue: 119476000
+Revenue Per Share: 7.855
+EBITDA: -62373000
+Gross Margins: 0.39133
+Operating Margins: -0.61055
+Profit Margins: -0.68343
+Free Cashflow: -21346250
+Operating Cashflow: -46327000
+Return On Assets: -0.15435
+Return On Equity: -1.0620099
+Total Cash: 168946000
+Total Debt: 101247000
+Debt To Equity: 79.752
+Current Ratio: 6.667
+Quick Ratio: 5.242
+Trailing PE: 
+Forward PE: -1.3560767
+Price To Book: 0.45513096
+Beta: 2.103
+52 Week High: 21.98
+52 Week Low: 3.095

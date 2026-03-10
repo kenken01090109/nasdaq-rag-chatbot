@@ -1,0 +1,9 @@
+Company: WEBTOON Entertainment Inc. Common stock
+Ticker: WBTN
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Los Angeles
+Website: https://about.webtoon.com
+Employees: 
+Business Summary: WEBTOON Entertainment Inc. operates a storytelling platform in the United States, Korea, Japan, and internationally. Its platform allows a community of creators and users to discover, create, and share new content. The company's platform offers stories primarily in two ways, including web-comics, a graphical comic-like medium; and web-novels, which are text-based stories. It also provides hosting services for web-comics through web and mobile applications. The company was founded in 2005 and is headquartered in Los Angeles, California. WEBTOON Entertainment Inc. is a subsidiary of NAVER Corporation.

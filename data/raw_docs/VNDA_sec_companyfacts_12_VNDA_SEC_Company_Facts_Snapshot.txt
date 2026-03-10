@@ -1,0 +1,12 @@
+Company: Vanda Pharmaceuticals Inc. Common Stock
+Ticker: VNDA
+CIK: 0001347178
+Latest SEC XBRL Facts:
+Revenues: 158889000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 158889000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -79287000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 601140000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 135141000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 465999000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -80025000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 70022000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

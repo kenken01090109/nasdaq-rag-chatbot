@@ -1,0 +1,12 @@
+Company: The Joint Corp. Common Stock
+Ticker: JYNT
+CIK: 0001612630
+Latest SEC XBRL Facts:
+Revenues: 90181217 | unit=USD | filed=2024-11-08 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 36661660 | unit=USD | filed=2020-03-06 | period_end=2018-12-31
+NetIncomeLoss: -5814558 | unit=USD | filed=2024-11-08 | period_end=2024-09-30
+Assets: 69385481 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 46663932 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 22696549 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1058973 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29699953 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

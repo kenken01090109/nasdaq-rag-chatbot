@@ -1,0 +1,25 @@
+Company: Sadot Group Inc. Common Stock
+Ticker: SDOT
+Market Cap: 3624196
+Enterprise Value: 16859972
+Total Revenue: 467078016
+Revenue Per Share: 752.978
+EBITDA: -25326000
+Gross Margins: -0.01388
+Operating Margins: -49.60208
+Profit Margins: -0.02813
+Free Cashflow: -3687250
+Operating Cashflow: -11243000
+Return On Assets: -0.13027
+Return On Equity: -0.48993
+Total Cash: 581000
+Total Debt: 11705000
+Debt To Equity: 49.422
+Current Ratio: 0.97
+Quick Ratio: 0.603
+Trailing PE: 
+Forward PE: 0.81666666
+Price To Book: 0.09847268
+Beta: 0.835
+52 Week High: 33.0
+52 Week Low: 1.17

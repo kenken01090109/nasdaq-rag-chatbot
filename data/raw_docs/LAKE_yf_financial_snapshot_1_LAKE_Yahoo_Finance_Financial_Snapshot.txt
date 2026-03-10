@@ -1,0 +1,25 @@
+Company: Lakeland Industries Inc. Common Stock
+Ticker: LAKE
+Market Cap: 84332704
+Enterprise Value: 121802232
+Total Revenue: 193456000
+Revenue Per Share: 21.338
+EBITDA: -1390000
+Gross Margins: 0.34782
+Operating Margins: -0.12514
+Profit Margins: -0.19405001
+Free Cashflow: -8532250
+Operating Cashflow: -20977000
+Return On Assets: -0.01573
+Return On Equity: -0.28969
+Total Cash: 17194000
+Total Debt: 52212000
+Debt To Equity: 38.824
+Current Ratio: 3.827
+Quick Ratio: 1.397
+Trailing PE: 
+Forward PE: 17.373737
+Price To Book: 0.6265938
+Beta: 1.328
+52 Week High: 21.23
+52 Week Low: 7.77

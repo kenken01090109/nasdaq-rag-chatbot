@@ -1,0 +1,25 @@
+Company: FBS Global Limited Ordinary Shares
+Ticker: FBGL
+Market Cap: 5131350
+Enterprise Value: -455952
+Total Revenue: 13359101
+Revenue Per Share: 1.1
+EBITDA: -566843
+Gross Margins: 0.10647
+Operating Margins: 0.03359
+Profit Margins: -0.04454
+Free Cashflow: -1846512
+Operating Cashflow: -2691429
+Return On Assets: -0.023459999
+Return On Equity: -0.0797
+Total Cash: 6968031
+Total Debt: 773229
+Debt To Equity: 7.88
+Current Ratio: 1.484
+Quick Ratio: 1.471
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.669593
+Beta: 
+52 Week High: 1.9
+52 Week Low: 0.34

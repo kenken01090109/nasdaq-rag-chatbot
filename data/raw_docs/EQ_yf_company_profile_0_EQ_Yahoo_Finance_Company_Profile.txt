@@ -1,0 +1,9 @@
+Company: Equillium Inc. Common Stock
+Ticker: EQ
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: La Jolla
+Website: https://www.equilliumbio.com
+Employees: 35
+Business Summary: Equillium, Inc., a clinical-stage biotechnology company, develops therapeutics to treat severe autoimmune and inflammatory, or immuno-inflammatory disorders with unmet medical need in the United States. Its lead product candidate is Itolizumab (EQ001), a first-in-class anti-CD6 immune-modifying monoclonal antibody, which is in phase 3 clinical trial to treat acute graft-versus-host disease, as well as completed Phase 1b clinical trial to treat systemic lupus erythematosus and lupus nephritis and in phase 2 clinical trial for the treatment of ulcerative colitis. The company also develops EQ101, first-in-class, selective, tri-specific inhibitor of IL-2, IL-9 and IL-15, which completed Phase 1/2 to treat cutaneous T cell lymphoma. It serves its products to gastroenterology, dermatology, hematology, transplant science, rheumatology, pulmonology, and oncology areas. The company has a collaboration and license agreement with Biocon SA to develop, make, have made, use, sell, have sold, offer for sale, import and otherwise exploit itolizumab (EQ001) and any pharmaceutical composition or preparation containing or comprising itolizumab (EQ001) that uses Biocon technology or Biocon know-how, or collectively, a Biocon Product. The company was formerly known as Attenuate Biopharmaceuticals, Inc. and changed its name to Equillium, Inc. in May 2017. Equillium, Inc. was incorporated in 2017 and is headquartered in La Jolla, California.

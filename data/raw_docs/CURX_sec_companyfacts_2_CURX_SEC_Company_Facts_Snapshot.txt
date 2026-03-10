@@ -1,0 +1,10 @@
+Company: Curanex Pharmaceuticals Inc Common Stock
+Ticker: CURX
+CIK: 0002025942
+Latest SEC XBRL Facts:
+NetIncomeLoss: -1151988 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 14478157 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 185955 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 14292202 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9627048 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5800000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

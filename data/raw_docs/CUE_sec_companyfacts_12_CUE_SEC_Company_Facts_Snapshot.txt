@@ -1,0 +1,11 @@
+Company: Cue Biopharma Inc. Common Stock
+Ticker: CUE
+CIK: 0001645460
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5524000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -28187000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 31644000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 18398000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 13246000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20611000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11701000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Black Hawk Acquisition Corporation Rights
+Ticker: BKHAR
+CIK: 0002000775
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1333322 | unit=USD | filed=2025-10-21 | period_end=2025-08-31
+Assets: 23341102 | unit=USD | filed=2025-10-21 | period_end=2025-08-31
+Liabilities: 3361168 | unit=USD | filed=2025-10-21 | period_end=2025-08-31
+StockholdersEquity: -3316638 | unit=USD | filed=2025-10-21 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -549842 | unit=USD | filed=2025-10-21 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-10-21 | period_end=2025-08-31

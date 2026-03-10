@@ -1,0 +1,25 @@
+Company: Fathom Holdings Inc. Common Stock
+Ticker: FTHM
+Market Cap: 28180136
+Enterprise Value: 38369436
+Total Revenue: 421612000
+Revenue Per Share: 16.512
+EBITDA: -12704000
+Gross Margins: 0.07926
+Operating Margins: -0.01767
+Profit Margins: -0.047030002
+Free Cashflow: -1556375
+Operating Cashflow: -8950000
+Return On Assets: -0.113120005
+Return On Equity: -0.43824002
+Total Cash: 9756000
+Total Debt: 19589000
+Debt To Equity: 45.156
+Current Ratio: 1.408
+Quick Ratio: 0.784
+Trailing PE: 
+Forward PE: -5.117647
+Price To Book: 0.64349115
+Beta: 1.81
+52 Week High: 3.37
+52 Week Low: 0.65

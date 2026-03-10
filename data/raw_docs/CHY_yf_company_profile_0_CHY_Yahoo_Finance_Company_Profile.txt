@@ -1,0 +1,9 @@
+Company: Calamos Convertible and High Income Fund Common Stock
+Ticker: CHY
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Naperville
+Website: https://fundinvestor.calamos.com/ClosedEndFunds/CEFund.aspx?name=CHY
+Employees: 
+Business Summary: Calamos Convertible and High Income Fund is a closed ended fixed income mutual fund launched by Calamos Investments LLC. It is managed by Calamos Advisors LLC. The fund invests in the fixed income markets of the United States. It primarily invests in a diversified portfolio of convertible securities and high yield corporate bonds rated Ba or lower by Moody's or BB or lower by Standard & Poor's. The fund employs both fundamental and quantitative analysis to create its portfolio. Calamos Convertible and High Income Fund was formed on March 12, 2003 and is domiciled in the United States.

@@ -1,0 +1,10 @@
+Company: HCM III Acquisition Corp. Class A Ordinary Share
+Ticker: HCMA
+CIK: 0002069856
+Latest SEC XBRL Facts:
+NetIncomeLoss: 342819 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 256025351 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 13364442 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -12066251 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1430212 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 141792 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

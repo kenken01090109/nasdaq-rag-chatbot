@@ -1,0 +1,25 @@
+Company: urban-gro Inc. Common Stock
+Ticker: UGRO
+Market Cap: 1826441
+Enterprise Value: 5924912
+Total Revenue: 21093352
+Revenue Per Share: 36.182
+EBITDA: -26077632
+Gross Margins: -0.04328
+Operating Margins: -0.93794996
+Profit Margins: -2.00493
+Free Cashflow: 12322135
+Operating Cashflow: -1631176
+Return On Assets: -0.6418
+Return On Equity: 
+Total Cash: 62875
+Total Debt: 4228992
+Debt To Equity: 
+Current Ratio: 0.053
+Quick Ratio: 0.016
+Trailing PE: 
+Forward PE: -10.125001
+Price To Book: -0.033077877
+Beta: 1.892
+52 Week High: 21.25
+52 Week Low: 2.02

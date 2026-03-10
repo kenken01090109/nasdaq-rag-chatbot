@@ -1,0 +1,9 @@
+Company: Bit Origin Limited Class A Ordinary Shares
+Ticker: BTOG
+Sector: Financial Services
+Industry: Financial Data & Stock Exchanges
+Country: Singapore
+City: Singapore
+Website: https://bitorigin.io
+Employees: 5
+Business Summary: Bit Origin Ltd engages in the cryptocurrency mining business. It deploys crypto asset mining and blockchain technologies. The company was formerly known as China Xiangtai Food Co., Ltd. and changed its name to Bit Origin Ltd in April 2022. Bit Origin Ltd was incorporated in 2018 and is based in Singapore, Singapore.

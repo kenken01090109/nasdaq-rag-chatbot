@@ -1,0 +1,9 @@
+Company: Twin Disc Incorporated Common Stock
+Ticker: TWIN
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: United States
+City: Milwaukee
+Website: https://www.twindisc.com
+Employees: 980
+Business Summary: Twin Disc, Incorporated engages in the design, manufacture, and sale of marine and heavy duty off-highway power transmission equipment in the United States, the Netherlands, China, Australia, Finland, Italy, and internationally. The company operates in two segments, Manufacturing and Distribution. It offers marine transmissions, azimuth drives, surface drives, propellers, and boat management systems, as well as power-shift transmissions, hydraulic torque converters, power take-offs, industrial clutches, and controls and braking systems. The company also provides third-party manufactured products. It sells its products through a direct sales force and distributor network to customers primarily in the pleasure craft, commercial marine, patrol, and military marine markets, as well as in the energy and natural resources, government, agriculture, recycling, construction, oil and gas, and industrial markets. The company was incorporated in 1918 and is headquartered in Milwaukee, Wisconsin.

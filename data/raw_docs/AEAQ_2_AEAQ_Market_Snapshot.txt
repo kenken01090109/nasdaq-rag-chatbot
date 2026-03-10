@@ -1,0 +1,10 @@
+Company: Activate Energy Acquisition Corp. Class A Ordinary Share
+Ticker: AEAQ
+Market Cap: 309672416
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -3296.6667
+Beta: 
+52 Week High: 10.03
+52 Week Low: 9.78

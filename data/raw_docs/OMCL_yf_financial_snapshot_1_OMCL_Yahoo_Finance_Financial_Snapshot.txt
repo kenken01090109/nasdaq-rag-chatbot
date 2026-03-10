@@ -1,0 +1,25 @@
+Company: Omnicell Inc. Common Stock ($0.001 par value)
+Ticker: OMCL
+Market Cap: 1876503424
+Enterprise Value: 1927492480
+Total Revenue: 1184845056
+Revenue Per Share: 25.777
+EBITDA: 68660000
+Gross Margins: 0.42878
+Operating Margins: 0.02204
+Profit Margins: 0.0017299999
+Free Cashflow: 94530872
+Operating Cashflow: 127300000
+Return On Assets: 0.00356
+Return On Equity: 0.00166
+Total Cash: 196520000
+Total Debt: 204344992
+Debt To Equity: 16.589
+Current Ratio: 1.427
+Quick Ratio: 0.898
+Trailing PE: 1032.5
+Forward PE: 19.680067
+Price To Book: 1.5096685
+Beta: 0.79
+52 Week High: 55.0
+52 Week Low: 22.66

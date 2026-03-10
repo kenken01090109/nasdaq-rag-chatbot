@@ -1,0 +1,11 @@
+Company: Lyell Immunopharma Inc. Common Stock
+Ticker: LYEL
+CIK: 0001806952
+Latest SEC XBRL Facts:
+Revenues: 30000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -133725000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 407965000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 78844000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 329121000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -117773000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 123575000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: BioCryst Pharmaceuticals Inc. Common Stock
+Ticker: BCRX
+CIK: 0000882796
+Latest SEC XBRL Facts:
+Revenues: 21296000 | unit=USD | filed=2017-11-08 | period_end=2017-09-30
+NetIncomeLoss: 18016000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 446424000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 834313000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -387889000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 55409000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 84078000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

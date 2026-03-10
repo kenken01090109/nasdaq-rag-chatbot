@@ -1,0 +1,9 @@
+Company: Backblaze Inc. Class A Common Stock
+Ticker: BLZE
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: San Mateo
+Website: https://www.backblaze.com
+Employees: 
+Business Summary: Backblaze, Inc., a storage cloud platform, provides businesses and consumers cloud services to store, use, and protect data in the United States and internationally. The company offers cloud services through a web-scale software infrastructure built on commodity hardware. It also provides Backblaze B2 Cloud Storage, which enables customers to store data, developers to build applications, and partners to expand their use cases. In addition, the company offers cloud storage solutions for a range of cases, such as public, hybrid, and multi-cloud data storage; application development and DevOps; content delivery and edge computing; security and ransomware protection; media management; backup, archive, and tape replacement; and Internet of Things. In addition, it provides Backblaze Computer Backup that automatically backs up data from laptops and desktops for businesses and individuals, which offers a subscription-based software-as-a-service and serves use cases, including computer backup, ransomware protection, theft and loss protection, and remote access. The company serves consumers, organizations, and businesses. The company was incorporated in 2007 and is headquartered in San Mateo, California.

@@ -1,0 +1,10 @@
+Company: USCB Financial Holdings Inc. Class A Common Stock
+Ticker: USCB
+CIK: 0001901637
+Latest SEC XBRL Facts:
+NetIncomeLoss: 24737000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2767945000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2558850000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 209095000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 52816000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 56811000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

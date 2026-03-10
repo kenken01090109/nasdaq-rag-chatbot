@@ -1,0 +1,9 @@
+Company: Apellis Pharmaceuticals Inc. Common Stock
+Ticker: APLS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Waltham
+Website: https://apellis.com
+Employees: 733
+Business Summary: Apellis Pharmaceuticals, Inc., a commercial-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of novel therapeutic compounds to treat diseases with high unmet needs. It offers EMPAVELI for the treatment of paroxysmal nocturnal hemoglobinuria; and SYFOVRE for treating geographic atrophy secondary to age-related macular degeneration and geographic atrophy (GA). The company also develops EMPAVELI to treat C3 glomerulopathy and immune complex membranoproliferative glomerulonephritis, focal segmental glomerulosclerosis, and delayed graft function; and APL-3007, a small interfering RNA, or siRNA for the treatment of GA. In addition, it conducts preclinical studies for APL-9099, a treatment targeting the neonatal Fc receptor, or FcRn, which has the potential to be a first-in-class gene editing treatment for future target indications with one-time dosing; and developing other programs with its proprietary in-house capabilities and under its Beam collaboration. It has a collaboration and license agreement with Swedish Orphan Biovitrum AB (publ) for development and commercialization of pegcetacoplan; and a collaboration with Beam Therapeutics, Inc. focused on the use of Beam's base editing technology to discover new treatments for complement-driven diseases. Apellis Pharmaceuticals, Inc. was incorporated in 2009 and is headquartered in Waltham, Massachusetts.

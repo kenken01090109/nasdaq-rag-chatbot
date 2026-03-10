@@ -1,0 +1,10 @@
+Company: Ribbon Acquisition Corp Class A Ordinary Shares
+Ticker: RIBB
+CIK: 0002035016
+Latest SEC XBRL Facts:
+NetIncomeLoss: 569295 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 51580219 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2309001 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1066682 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -637983 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 59909 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

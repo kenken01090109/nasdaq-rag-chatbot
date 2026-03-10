@@ -1,0 +1,12 @@
+Company: Broadcom Inc. Common Stock
+Ticker: AVGO
+CIK: 0001730168
+Latest SEC XBRL Facts:
+Revenues: 15404000000 | unit=USD | filed=2018-09-13 | period_end=2018-08-05
+RevenueFromContractWithCustomerExcludingAssessedTax: 45872000000 | unit=USD | filed=2025-09-10 | period_end=2025-08-03
+NetIncomeLoss: 5895000000 | unit=USD | filed=2024-12-20 | period_end=2024-11-03
+Assets: 165621000000 | unit=USD | filed=2025-09-10 | period_end=2025-08-03
+Liabilities: 92344000000 | unit=USD | filed=2025-09-10 | period_end=2025-08-03
+StockholdersEquity: 21503000000 | unit=USD | filed=2019-09-13 | period_end=2019-08-04
+NetCashProvidedByUsedInOperatingActivities: 19834000000 | unit=USD | filed=2025-09-10 | period_end=2025-08-03
+CashAndCashEquivalentsAtCarryingValue: 10718000000 | unit=USD | filed=2025-09-10 | period_end=2025-08-03

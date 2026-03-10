@@ -1,0 +1,12 @@
+Company: Nurix Therapeutics Inc. Common stock
+Ticker: NRIX
+CIK: 0001549595
+Latest SEC XBRL Facts:
+Revenues: 16585000 | unit=USD | filed=2024-04-10 | period_end=2024-02-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 70403000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+NetIncomeLoss: -186236000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+Assets: 522472000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+Liabilities: 150220000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+StockholdersEquity: 372252000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -181633000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 78438000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31

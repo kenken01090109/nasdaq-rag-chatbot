@@ -1,0 +1,9 @@
+Company: New Fortress Energy Inc. Class A Common Stock
+Ticker: NFE
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: United States
+City: New York
+Website: https://www.newfortressenergy.com
+Employees: 722
+Business Summary: New Fortress Energy Inc. operates as an integrated gas-to-power energy infrastructure company that provides energy and development services to end-users worldwide. The company operates in two segments, Terminals and Infrastructure, and Ships. The Terminals and Infrastructure segment engages in the natural gas procurement and liquefaction; and logistics, shipping, facilities and conversion, or development of natural gas-fired power generation. The Ships segment offers floating storage and regasification units (FRSU) and liquefied natural gas (LNG) carriers which are leased to customers under long-term or spot arrangements. The company operates LNG storage and regasification facility at the Port of Montego Bay, Jamaica; marine LNG storage and regasification facility in Old Harbour, Jamaica; Dual-fired combined heat and power facility in Clarendon, Jamaica; landed micro-fuel handling facility in San Juan, Puerto Rico; LNG receiving facility and gas-fired power plant in Baja California Sur, Mexico; and LNG receiving facility in southern coast of Brazil, as well as a Miami facility. New Fortress Energy Inc. was founded in 1998 and is based in New York, New York.

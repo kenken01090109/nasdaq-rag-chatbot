@@ -1,0 +1,25 @@
+Company: Spring Valley Acquisition Corp. III Unit
+Ticker: SVACU
+Market Cap: 282667040
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -40.000004
+Beta: 
+52 Week High: 13.5
+52 Week Low: 10.0

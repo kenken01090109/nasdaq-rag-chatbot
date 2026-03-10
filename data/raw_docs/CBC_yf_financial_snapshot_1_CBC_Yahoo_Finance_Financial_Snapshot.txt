@@ -1,0 +1,25 @@
+Company: Central Bancompany Inc. Class A Common Stock
+Ticker: CBC
+Market Cap: 5801010176
+Enterprise Value: 6269427200
+Total Revenue: 1012048000
+Revenue Per Share: 4.552
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.51893
+Profit Margins: 0.38619998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.019550001
+Return On Equity: 0.11338
+Total Cash: 258588000
+Total Debt: 1011851008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.309353
+Forward PE: 12.370179
+Price To Book: 1.4577401
+Beta: -0.022
+52 Week High: 25.5
+52 Week Low: 22.5

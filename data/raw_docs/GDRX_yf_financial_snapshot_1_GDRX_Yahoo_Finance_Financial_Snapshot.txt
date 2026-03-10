@@ -1,0 +1,25 @@
+Company: GoodRx Holdings Inc. Class A Common Stock
+Ticker: GDRX
+Market Cap: 781069824
+Enterprise Value: 1065481600
+Total Revenue: 796852992
+Revenue Per Share: 2.236
+EBITDA: 122313000
+Gross Margins: 0.92772
+Operating Margins: 0.18983
+Profit Margins: 0.0382
+Free Cashflow: 81944752
+Operating Cashflow: 167904000
+Return On Assets: 0.04754
+Return On Equity: 0.0454
+Total Cash: 261820000
+Total Debt: 542806016
+Debt To Equity: 88.08
+Current Ratio: 2.614
+Quick Ratio: 2.1
+Trailing PE: 25.333332
+Forward PE: 6.13629
+Price To Book: 1.2617598
+Beta: 1.564
+52 Week High: 5.81
+52 Week Low: 1.77

@@ -1,0 +1,12 @@
+Company: CISO Global Inc. Common Stock
+Ticker: CISO
+CIK: 0001777319
+Latest SEC XBRL Facts:
+Revenues: 9329410 | unit=USD | filed=2022-05-16 | period_end=2022-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 20337707 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -5857097 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 25086325 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 8744278 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 16342047 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6180042 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1111729 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

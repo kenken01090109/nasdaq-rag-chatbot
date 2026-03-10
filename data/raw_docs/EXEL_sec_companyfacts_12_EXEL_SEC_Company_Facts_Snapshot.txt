@@ -1,0 +1,12 @@
+Company: Exelixis Inc. Common Stock
+Ticker: EXEL
+CIK: 0000939767
+Latest SEC XBRL Facts:
+Revenues: 717486000 | unit=USD | filed=2020-11-05 | period_end=2020-10-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 1721463000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03
+NetIncomeLoss: 538042000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03
+Assets: 2823547000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03
+Liabilities: 662847000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03
+StockholdersEquity: 2160700000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03
+NetCashProvidedByUsedInOperatingActivities: 550752000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 376300000 | unit=USD | filed=2025-11-04 | period_end=2025-10-03

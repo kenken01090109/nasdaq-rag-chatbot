@@ -1,0 +1,9 @@
+Company: Euroholdings Ltd. Common Stock
+Ticker: EHLD
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Marousi
+Website: https://www.euroholdings.gr
+Employees: 
+Business Summary: Euroholdings Ltd. provides ocean-going transportation services. It has a fleet of two containership vessels with a cargo capacity of 40,882 dwt, or 3,171 teu. The company was incorporated in 2024 and is based in Marousi, Greece.

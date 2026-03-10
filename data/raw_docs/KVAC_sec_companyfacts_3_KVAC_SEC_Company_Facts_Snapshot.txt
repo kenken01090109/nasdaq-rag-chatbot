@@ -1,0 +1,10 @@
+Company: Keen Vision Acquisition Corporation Ordinary Shares
+Ticker: KVAC
+CIK: 0001889983
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1499692 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 56045539 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 6463637 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -6444975 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -664463 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15964 | unit=USD | filed=2025-05-14 | period_end=2025-03-31

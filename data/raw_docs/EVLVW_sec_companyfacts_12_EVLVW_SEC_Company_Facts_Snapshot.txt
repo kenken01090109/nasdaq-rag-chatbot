@@ -1,0 +1,12 @@
+Company: Evolv Technologies Holdings Inc. Warrant
+Ticker: EVLVW
+CIK: 0001805385
+Latest SEC XBRL Facts:
+Revenues: 107401000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2021-08-16 | period_end=2021-06-30
+NetIncomeLoss: -44020000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 304289000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 202053000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 102236000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3098000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 31504000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

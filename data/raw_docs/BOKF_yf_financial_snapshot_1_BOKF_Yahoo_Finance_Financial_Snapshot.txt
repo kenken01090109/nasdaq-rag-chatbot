@@ -1,0 +1,25 @@
+Company: BOK Financial Corporation Common Stock
+Ticker: BOKF
+Market Cap: 7621684224
+Enterprise Value: 5698949120
+Total Revenue: 2174429952
+Revenue Per Share: 34.723
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38633
+Profit Margins: 0.26580998
+Free Cashflow: 
+Operating Cashflow: 739619968
+Return On Assets: 0.01134
+Return On Equity: 0.10077
+Total Cash: 7351622144
+Total Debt: 5259936768
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.693565
+Forward PE: 12.2981
+Price To Book: 1.2861298
+Beta: 0.877
+52 Week High: 138.42
+52 Week Low: 85.08

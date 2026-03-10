@@ -1,0 +1,12 @@
+Company: Eshallgo Inc. Class A Ordinary Shares
+Ticker: EHGO
+CIK: 0001879754
+Latest SEC XBRL Facts:
+Revenues: 13472112 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 11020511 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+NetIncomeLoss: -10798318 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+Assets: 24809293 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+Liabilities: 8252176 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+StockholdersEquity: 10470098 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1283432 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 7600300 | unit=USD | filed=2025-08-14 | period_end=2025-03-31

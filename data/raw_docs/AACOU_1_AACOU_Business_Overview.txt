@@ -1,0 +1,7 @@
+Company: Abony Acquisition Corp. I Units
+Ticker: AACOU
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

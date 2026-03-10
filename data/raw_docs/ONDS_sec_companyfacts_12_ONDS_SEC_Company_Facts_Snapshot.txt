@@ -1,0 +1,11 @@
+Company: Ondas Inc. Common Stock
+Ticker: ONDS
+CIK: 0001646188
+Latest SEC XBRL Facts:
+Revenues: 20619880 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -32367356 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 550150569 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 39775843 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 486077869 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -26017625 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 432816982 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

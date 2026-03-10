@@ -1,0 +1,12 @@
+Company: Digi International Inc. Common Stock
+Ticker: DGII
+CIK: 0000854775
+Latest SEC XBRL Facts:
+Revenues: 122462000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 430221000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+NetIncomeLoss: 11711000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 918437000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 269233000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 649204000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 35626000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 30932000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: Evolution Metals & Technologies Corp. Common Stock
+Ticker: EMAT
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: United States
+City: West Palm Beach
+Website: https://evolution-metals.com
+Employees: 
+Business Summary: Evolution Metals & Technologies Corp. critical materials and advanced manufacturing company. It focuses on non-China-dependent supply chain for rare earth permanent magnets, battery materials, and related critical technologies. The company is based in West Palm Beach, Florida.

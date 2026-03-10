@@ -1,0 +1,25 @@
+Company: Whitehawk Therapeutics Inc. Common Stock
+Ticker: WHWK
+Market Cap: 176731344
+Enterprise Value: 14134358
+Total Revenue: 14384000
+Revenue Per Share: 0.28
+EBITDA: -108337000
+Gross Margins: 0.0
+Operating Margins: -7.54046
+Profit Margins: -1.08579
+Free Cashflow: -52447752
+Operating Cashflow: -95252000
+Return On Assets: -0.53648
+Return On Equity: -0.13819
+Total Cash: 162596992
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 16.757
+Quick Ratio: 16.509
+Trailing PE: 
+Forward PE: -3.2467532
+Price To Book: 1.1244378
+Beta: 0.64
+52 Week High: 3.93
+52 Week Low: 1.39

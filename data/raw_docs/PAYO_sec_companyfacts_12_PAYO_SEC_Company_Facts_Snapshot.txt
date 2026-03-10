@@ -1,0 +1,12 @@
+Company: Payoneer Global Inc. Common Stock
+Ticker: PAYO
+CIK: 0001845815
+Latest SEC XBRL Facts:
+Revenues: 778081000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 596445000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 54180000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 8205456000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 7454969000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 750487000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 178577000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 479448000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

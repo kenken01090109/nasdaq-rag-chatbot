@@ -1,0 +1,11 @@
+Company: Zumiez Inc. Common Stock
+Ticker: ZUMZ
+CIK: 0001318008
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 637749000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetIncomeLoss: -6173000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Assets: 633110000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Liabilities: 334568000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+StockholdersEquity: 298542000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: -4195000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 80140000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01

@@ -1,0 +1,11 @@
+Company: BingEx Limited American Depositary Shares
+Ticker: FLX
+CIK: 0001858724
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 612136000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetIncomeLoss: -20066000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Assets: 169253000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Liabilities: 66906000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+StockholdersEquity: 102347000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 300000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 81153000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31

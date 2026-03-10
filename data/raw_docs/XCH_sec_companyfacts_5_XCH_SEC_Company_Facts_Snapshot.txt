@@ -1,0 +1,11 @@
+Company: XCHG Limited American Depositary Share
+Ticker: XCH
+CIK: 0001979887
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 42203660 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetIncomeLoss: -11940536 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Assets: 57137798 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Liabilities: 27628914 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+StockholdersEquity: 29508884 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -7201568 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 26773902 | unit=USD | filed=2025-04-23 | period_end=2024-12-31

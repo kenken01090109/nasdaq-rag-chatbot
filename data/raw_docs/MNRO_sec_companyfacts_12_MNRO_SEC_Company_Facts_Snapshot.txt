@@ -1,0 +1,10 @@
+Company: Monro Inc. Common Stock
+Ticker: MNRO
+CIK: 0000876427
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 883337000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+NetIncomeLoss: 8754000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+Assets: 1569974000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+Liabilities: 965030000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 48220000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 4912000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27

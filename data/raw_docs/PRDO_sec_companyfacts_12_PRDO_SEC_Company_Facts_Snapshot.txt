@@ -1,0 +1,11 @@
+Company: Perdoceo Education Corporation Common Stock
+Ticker: PRDO
+CIK: 0001046568
+Latest SEC XBRL Facts:
+Revenues: 148065000 | unit=USD | filed=2018-05-02 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 634457000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 124566000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1299384000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 997851000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 185130000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 159470000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

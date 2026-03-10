@@ -1,0 +1,9 @@
+Company: Solesence Inc. Common Stock
+Ticker: SLSN
+Sector: Consumer Defensive
+Industry: Household & Personal Products
+Country: United States
+City: Romeoville
+Website: https://solesence.com
+Employees: 98
+Business Summary: Solesence, Inc., a science-driven company, develops, manufactures, and sells integrated family of technologies in the United States. The company engages in engineered materials, formulation development, and commercial manufacturing. It also provides skin care formulations with mineral-based UV protection enabled by proprietary active pharmaceutical ingredients under the Solésence brand; skin health products, such as sunscreens and daily care products; and advanced material products, including architectural coatings, industrial coatings, abrasion-resistant additives, plastics additives, and medical diagnostics applications. The company was formerly known as Nanophase Technologies Corporation and changed its name to Solesence, Inc. in March 2025. Solesence, Inc. was incorporated in 1989 and is headquartered in Romeoville, Illinois.

@@ -1,0 +1,25 @@
+Company: Apogee Therapeutics Inc. Common Stock
+Ticker: APGE
+Market Cap: 4990793216
+Enterprise Value: 4307978240
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -284176992
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -138978880
+Operating Cashflow: -227450000
+Return On Assets: -0.21110001
+Return On Equity: -0.31572
+Total Cash: 730192000
+Total Debt: 8849000
+Debt To Equity: 0.979
+Current Ratio: 26.566
+Quick Ratio: 26.38
+Trailing PE: 
+Forward PE: -13.452172
+Price To Book: 5.528228
+Beta: 1.399
+52 Week High: 84.56
+52 Week Low: 26.2

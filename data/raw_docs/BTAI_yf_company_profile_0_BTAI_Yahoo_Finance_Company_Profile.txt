@@ -1,0 +1,9 @@
+Company: BioXcel Therapeutics Inc. Common Stock
+Ticker: BTAI
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: New Haven
+Website: https://www.bioxceltherapeutics.com
+Employees: 37
+Business Summary: BioXcel Therapeutics, Inc., together with its subsidiary, OnkosXcel Therapeutics LLC, operates as a biopharmaceutical company that utilizes artificial intelligence approaches to develop medicines in neuroscience and immuno-oncology in the United States. The company IGALMI, a sublingual film for the acute treatment of agitation associated with schizophrenia or bipolar I or II disorder in adults. It also develops its neuroscience candidate, BXCL501, which is an investigational, proprietary, orally dissolving film formulation of dexmedetomidine in Phase 3 trial for the treatment of agitation associated with bipolar disorders, schizophrenia, and Alzheimer's disease, as well as opioid use disorder, alcohol use disorder with comorbid post-traumatic stress disorder, and acute stress disorder; and its immune-oncology candidate, BXCL701, which is an investigational oral innate immune activator that has completed Phase 1b/2a trial for the treatment of aggressive forms of prostate cancer, pancreatic cancer, and other solid and liquid tumors. In addition, the company engages in the development of BXCL502 for the treatment of stress-related neuropsychiatric symptoms in dementia and other stress-related disorders; BXCL503, a drug candidate to target apathy in dementia; and BXCL504, which has the potential to address apathy and aggression in dementia. The company has collaborations with Columbia University, Yale University Medical School, and University of North Carolina for the development of BXCL501. BioXcel Therapeutics, Inc. was incorporated in 2017 and is headquartered in New Haven, Connecticut.

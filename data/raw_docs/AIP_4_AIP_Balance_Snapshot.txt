@@ -1,0 +1,8 @@
+Company: Arteris Inc. Common Stock
+Ticker: AIP
+Total Cash: 54599000
+Total Debt: 5967000
+Debt To Equity: 
+Current Ratio: 1.126
+Quick Ratio: 1.034
+Book Value: -0.331

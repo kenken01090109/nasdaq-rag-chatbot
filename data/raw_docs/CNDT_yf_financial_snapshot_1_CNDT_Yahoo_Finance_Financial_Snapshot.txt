@@ -1,0 +1,25 @@
+Company: Conduent Incorporated Common Stock
+Ticker: CNDT
+Market Cap: 215045744
+Enterprise Value: 965045760
+Total Revenue: 3041999872
+Revenue Per Share: 19.202
+EBITDA: 54000000
+Gross Margins: 0.18146
+Operating Margins: -0.0039
+Profit Margins: -0.05588
+Free Cashflow: 49375000
+Operating Cashflow: -73000000
+Return On Assets: -0.01826
+Return On Equity: -0.18764
+Total Cash: 233000000
+Total Debt: 841000000
+Debt To Equity: 101.693
+Current Ratio: 1.57
+Quick Ratio: 1.288
+Trailing PE: 
+Forward PE: Infinity
+Price To Book: 0.31391147
+Beta: 1.227
+52 Week High: 3.331
+52 Week Low: 1.175

@@ -1,0 +1,12 @@
+Company: FatPipe Inc. Common Stock
+Ticker: FATN
+CIK: 0001993400
+Latest SEC XBRL Facts:
+Revenues: 5653386 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 11982940 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+NetIncomeLoss: 697808 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 32378402 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+Liabilities: 11218224 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+StockholdersEquity: 21160178 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 132132 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2920550 | unit=USD | filed=2025-06-30 | period_end=2025-03-31

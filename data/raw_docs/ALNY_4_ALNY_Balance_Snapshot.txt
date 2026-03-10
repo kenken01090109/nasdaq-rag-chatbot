@@ -1,0 +1,8 @@
+Company: Alnylam Pharmaceuticals Inc. Common Stock
+Ticker: ALNY
+Total Cash: 2908484096
+Total Debt: 2968797952
+Debt To Equity: 376.19
+Current Ratio: 2.762
+Quick Ratio: 2.514
+Book Value: 5.962

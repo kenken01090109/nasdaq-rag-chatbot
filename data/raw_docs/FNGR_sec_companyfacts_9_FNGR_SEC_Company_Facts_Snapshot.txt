@@ -1,0 +1,11 @@
+Company: FingerMotion Inc. Common Stock
+Ticker: FNGR
+CIK: 0001602409
+Latest SEC XBRL Facts:
+Revenues: 22902695 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetIncomeLoss: -5219763 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Assets: 60055042 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Liabilities: 43713994 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+StockholdersEquity: 16369692 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -3634695 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 24214 | unit=USD | filed=2026-01-14 | period_end=2025-11-30

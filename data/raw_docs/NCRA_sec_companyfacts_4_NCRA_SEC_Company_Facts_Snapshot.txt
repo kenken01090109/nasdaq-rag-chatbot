@@ -1,0 +1,12 @@
+Company: Nocera Inc. Common Stock
+Ticker: NCRA
+CIK: 0001756180
+Latest SEC XBRL Facts:
+Revenues: 10109236 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4534128 | unit=USD | filed=2025-05-15 | period_end=2025-03-31
+NetIncomeLoss: -2240514 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 5928669 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1044210 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 4873496 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1123115 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2034205 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

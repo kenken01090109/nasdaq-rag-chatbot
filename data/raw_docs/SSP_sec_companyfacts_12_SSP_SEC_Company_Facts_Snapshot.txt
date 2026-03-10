@@ -1,0 +1,10 @@
+Company: E.W. Scripps Company (The) Class A Common Stock
+Ticker: SSP
+CIK: 0000832428
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1590327000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -72376000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 5089588000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1260448000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7969000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 54665000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Energy Services of America Corporation Common Stock
+Ticker: ESOA
+CIK: 0001357971
+Latest SEC XBRL Facts:
+Revenues: 122465826 | unit=USD | filed=2021-12-29 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 411001373 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+NetIncomeLoss: 297192 | unit=USD | filed=2018-08-14 | period_end=2018-06-30
+Assets: 200988200 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 140392180 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 60596020 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 18790087 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 16680033 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

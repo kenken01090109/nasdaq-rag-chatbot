@@ -1,0 +1,11 @@
+Company: CADIZ Inc. Common Stock
+Ticker: CDZI
+CIK: 0000727273
+Latest SEC XBRL Facts:
+Revenues: 11229000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -24395000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 128006000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 100273000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 27733000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12010000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4430000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

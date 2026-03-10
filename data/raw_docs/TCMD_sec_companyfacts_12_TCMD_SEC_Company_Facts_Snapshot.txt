@@ -1,0 +1,12 @@
+Company: Tactile Systems Technology Inc. Common Stock
+Ticker: TCMD
+CIK: 0001027838
+Latest SEC XBRL Facts:
+Revenues: 97303000 | unit=USD | filed=2018-11-05 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 225928000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 8452000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 259177000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 54228000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 204949000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 25515000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65965000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

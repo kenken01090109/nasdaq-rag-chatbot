@@ -1,0 +1,11 @@
+Company: Ainos Inc. Common Stock
+Ticker: AIMD
+CIK: 0001014763
+Latest SEC XBRL Facts:
+Revenues: 113037 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -10302714 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 22679340 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 12634391 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10044949 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3759679 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1128217 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

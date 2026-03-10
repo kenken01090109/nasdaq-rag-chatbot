@@ -1,0 +1,10 @@
+Company: BCP Investment Corporation Common Stock
+Ticker: BCIC
+CIK: 0001372807
+Latest SEC XBRL Facts:
+NetIncomeLoss: 19030000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 567844000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 336540000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 231304000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 41326000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2844000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

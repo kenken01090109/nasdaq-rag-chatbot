@@ -1,0 +1,12 @@
+Company: Design Therapeutics Inc. Common Stock
+Ticker: DSGN
+CIK: 0001807120
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 193000 | unit=USD | filed=2021-11-09 | period_end=2020-09-30
+NetIncomeLoss: -53795000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 211770000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 12050000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 199720000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -42392000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15088000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

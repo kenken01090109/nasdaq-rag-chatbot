@@ -1,0 +1,9 @@
+Company: ThredUp Inc. Class A Common Stock
+Ticker: TDUP
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: United States
+City: Oakland
+Website: https://www.thredup.com
+Employees: 2132
+Business Summary: ThredUp Inc., together with its subsidiaries, operates an online resale platform in the United States. The company's platform enables consumers to buy and sell primarily secondhand apparel, shoes, and accessories. ThredUp Inc. was incorporated in 2009 and is headquartered in Oakland, California.

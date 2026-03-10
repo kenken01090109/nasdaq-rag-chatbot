@@ -1,0 +1,25 @@
+Company: Phillips Edison & Company Inc. Common Stock
+Ticker: PECO
+Market Cap: 5361837568
+Enterprise Value: 7549232128
+Total Revenue: 726593984
+Revenue Per Share: 5.788
+EBITDA: 448096992
+Gross Margins: 0.71134
+Operating Margins: 0.2874
+Profit Margins: 0.15318
+Free Cashflow: 131486128
+Operating Cashflow: 348148992
+Return On Assets: 0.02406
+Return On Equity: 0.047080003
+Total Cash: 3544000
+Total Debt: 2380249088
+Debt To Equity: 91.924
+Current Ratio: 1.216
+Quick Ratio: 0.912
+Trailing PE: 43.49438
+Forward PE: 53.925663
+Price To Book: 2.1294973
+Beta: 0.564
+52 Week High: 40.06
+52 Week Low: 32.4

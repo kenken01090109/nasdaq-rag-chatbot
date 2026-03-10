@@ -1,0 +1,9 @@
+Company: ICON plc Ordinary Shares
+Ticker: ICLR
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: Ireland
+City: Dublin
+Website: https://www.iconplc.com
+Employees: 39800
+Business Summary: ICON Public Limited Company, a clinical research organization, provides outsourced development and commercialization services in Ireland, rest of Europe, the United States, and internationally. The company specializes in the strategic development, management, and analysis of programs that support various stages of the clinical development process from compound selection to Phase I-IV clinical studies. It also provides clinical development services, including all phases of development, peri and post approval, data solutions, and site and patient access services; clinical trial management, consulting, and contract staffing services; and commercial services comprising clinical development strategy, planning and trial design, full study execution, and post-market commercialization. In addition, the company offers laboratory services, including bionanalytical, biomarker, vaccine, good manufacturing practice, and central laboratory services, as well as full-service and functional service partnerships to customers. Further, the company provides adaptive trials, cardiac safety solutions, clinical and scientific operations, consulting and advisory, commercial positioning, decentralized and hybrid clinical trials, early clinical, laboratories, language services, medical imaging, real world intelligence, site and patient, and strategic solutions. It serves pharmaceutical, biotechnology, and medical device industries, as well as government and public health organizations. ICON Public Limited Company was incorporated in 1989 and is headquartered in Dublin, Ireland.

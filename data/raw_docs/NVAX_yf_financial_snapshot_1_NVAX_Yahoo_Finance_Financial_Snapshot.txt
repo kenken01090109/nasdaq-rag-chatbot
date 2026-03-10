@@ -1,0 +1,25 @@
+Company: Novavax Inc. Common Stock
+Ticker: NVAX
+Market Cap: 1626100736
+Enterprise Value: 1170694144
+Total Revenue: 1123479040
+Revenue Per Share: 6.935
+EBITDA: 590852992
+Gross Margins: 0.64771
+Operating Margins: 0.14229
+Profit Margins: 0.39191002
+Free Cashflow: -331942880
+Operating Cashflow: -244635008
+Return On Assets: 0.25724
+Return On Equity: 
+Total Cash: 735084032
+Total Debt: 278048000
+Debt To Equity: 
+Current Ratio: 2.127
+Quick Ratio: 1.83
+Trailing PE: 3.868217
+Forward PE: -17.542316
+Price To Book: -12.6972
+Beta: 2.632
+52 Week High: 11.97
+52 Week Low: 5.01

@@ -1,0 +1,11 @@
+Company: Webus International Limited Ordinary Shares
+Ticker: WETO
+CIK: 0001941158
+Latest SEC XBRL Facts:
+Revenues: 4968599 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: -1742567 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Assets: 13065490 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 5133363 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+StockholdersEquity: 7932127 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -8198584 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1584671 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

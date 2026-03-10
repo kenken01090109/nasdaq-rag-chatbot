@@ -1,0 +1,10 @@
+Company: Ross Stores Inc. Common Stock
+Ticker: ROST
+CIK: 0000745732
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 16115069000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+NetIncomeLoss: 1499179000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+Assets: 15414966000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+StockholdersEquity: 5884002000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 1905165000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 4061173000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01

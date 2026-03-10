@@ -1,0 +1,8 @@
+Company: American Airlines Group Inc. Common Stock
+Ticker: AAL
+Total Cash: 6469000192
+Total Debt: 36884000768
+Debt To Equity: 
+Current Ratio: 0.498
+Quick Ratio: 0.349
+Book Value: -5.644

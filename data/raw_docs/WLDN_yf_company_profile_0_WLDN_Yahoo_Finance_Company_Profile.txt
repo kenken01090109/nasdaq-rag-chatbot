@@ -1,0 +1,9 @@
+Company: Willdan Group Inc. Common Stock
+Ticker: WLDN
+Sector: Industrials
+Industry: Engineering & Construction
+Country: United States
+City: Anaheim
+Website: https://www.willdan.com
+Employees: 1814
+Business Summary: Willdan Group, Inc., together with its subsidiaries, provides professional, technical, and consulting services primarily in the United States. The company operates in two segments: Energy, and Engineering and Consulting. The Energy segment offers comprehensive audit and surveys, program design and implementation, master planning, demand reduction, grid optimization, benchmarking analyses, design engineering, AI data center power solutions, construction management, performance contracting, installation, alternative financing, measurement and verification services, and software and data analytics, as well as energy consulting and engineering, turnkey facility and infrastructure projects, and customer support services. The Engineering and Consulting segment provides building and safety, city engineering and code enforcement, development review, disaster recovery, geotechnical, earthquake, planning and surveying, contract staff support, program and construction management, structures, transportation and traffic engineering, and water resources services. This segment also offers district administration, financial consulting, and federal compliance services. It serves investor and municipal owned energy utilities, public and governmental agencies, including cities, counties, redevelopment agencies, water districts, school districts, and universities; state and federal agencies; and commercial and industrial firms, as well as various other special districts and agencies. Willdan Group, Inc. was founded in 1964 and is headquartered in Anaheim, California.

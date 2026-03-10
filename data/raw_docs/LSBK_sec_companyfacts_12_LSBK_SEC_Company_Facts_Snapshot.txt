@@ -1,0 +1,10 @@
+Company: Lake Shore Bancorp Inc. Common Stock
+Ticker: LSBK
+CIK: 0002059653
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5335000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 742802000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 603496000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 139306000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5849000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 83638000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

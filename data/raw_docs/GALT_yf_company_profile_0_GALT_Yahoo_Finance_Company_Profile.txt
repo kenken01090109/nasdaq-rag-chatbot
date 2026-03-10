@@ -1,0 +1,9 @@
+Company: Galectin Therapeutics Inc. Common Stock
+Ticker: GALT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Norcross
+Website: https://galectintherapeutics.com
+Employees: 15
+Business Summary: Galectin Therapeutics Inc., a clinical stage biopharmaceutical company, engages in the drug research and development to create new therapies for fibrotic, cancer, and other diseases. Its lead product candidate is belapectin (GR-MD-02), a galectin-3 inhibitor, which is in Phase 2b/3 clinical trial to prevent esophageal varices in patient with non-alcoholic steatohepatitis cirrhosis; and Phase 2 clinical trial for the treatment of liver fibrosis, as well as severe skin disease, and melanoma and head and neck squamous cell carcinoma. Galectin Therapeutics Inc. has a collaborative joint venture co-owned by SBH Sciences, Inc. with Galectin Sciences, LLC for the research and development of small organic molecule inhibitors of galectin-3 for oral administration. The company was formerly known as Pro-Pharmaceuticals, Inc. and changed its name to Galectin Therapeutics Inc. in May 2011. Galectin Therapeutics Inc. was founded in 2000 and is based in Norcross, Georgia.

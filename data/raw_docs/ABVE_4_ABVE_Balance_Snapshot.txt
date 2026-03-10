@@ -1,0 +1,8 @@
+Company: Above Food Ingredients Inc. Common Stock
+Ticker: ABVE
+Total Cash: 664430
+Total Debt: 133839864
+Debt To Equity: 
+Current Ratio: 0.232
+Quick Ratio: 0.071
+Book Value: -0.43458006

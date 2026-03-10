@@ -1,0 +1,12 @@
+Company: TON Strategy Company Common Stock
+Ticker: TONX
+CIK: 0001566610
+Latest SEC XBRL Facts:
+Revenues: 3814000 | unit=USD | filed=2023-08-14 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7037000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 79396000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 661876000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 22420000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 639104000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12777000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 53925000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: CuriosityStream Inc. Class A Common Stock
+Ticker: CURI
+CIK: 0001776909
+Latest SEC XBRL Facts:
+Revenues: 26484000 | unit=USD | filed=2023-08-14 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 52461000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -2641000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 74705000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 27511000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 47194000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9088000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14108000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

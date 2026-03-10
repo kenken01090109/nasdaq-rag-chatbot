@@ -1,0 +1,25 @@
+Company: MainStreet Bancshares Inc. Depositary Shares
+Ticker: MNSBP
+Market Cap: 
+Enterprise Value: 114805456
+Total Revenue: 73642000
+Revenue Per Share: 9.623
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.276
+Profit Margins: 0.21201
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00703
+Return On Equity: 0.0732
+Total Cash: 162756000
+Total Debt: 69936000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.4910755
+Forward PE: 
+Price To Book: 0.9470573
+Beta: 0.57
+52 Week High: 28.25
+52 Week Low: 22.81

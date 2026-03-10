@@ -1,0 +1,25 @@
+Company: Brag House Holdings Inc. Common Stock
+Ticker: TBH
+Market Cap: 5030422
+Enterprise Value: -4643823
+Total Revenue: 50
+Revenue Per Share: 0.0
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -84424.3
+Profit Margins: 0.0
+Free Cashflow: -3750235
+Operating Cashflow: -4259138
+Return On Assets: -0.27485
+Return On Equity: -0.12393
+Total Cash: 9595577
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.054
+Quick Ratio: 5.986
+Trailing PE: 
+Forward PE: -0.21437499
+Price To Book: 0.15869133
+Beta: 
+52 Week High: 6.96
+52 Week Low: 0.22

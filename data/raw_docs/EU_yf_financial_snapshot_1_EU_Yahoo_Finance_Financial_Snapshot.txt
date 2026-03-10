@@ -1,0 +1,25 @@
+Company: enCore Energy Corp. Common Shares
+Ticker: EU
+Market Cap: 359582272
+Enterprise Value: 399142560
+Total Revenue: 44142000
+Revenue Per Share: 0.237
+EBITDA: -62758000
+Gross Margins: -0.52703
+Operating Margins: -1.58179
+Profit Margins: -1.16837
+Free Cashflow: -38479432
+Operating Cashflow: -37540000
+Return On Assets: -0.09947
+Return On Equity: -0.17896
+Total Cash: 116221000
+Total Debt: 109805000
+Debt To Equity: 39.533
+Current Ratio: 13.642
+Quick Ratio: 12.278
+Trailing PE: 
+Forward PE: -10.253466
+Price To Book: 1.4446952
+Beta: 1.147
+52 Week High: 4.18
+52 Week Low: 1.01

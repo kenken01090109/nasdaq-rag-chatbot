@@ -1,0 +1,25 @@
+Company: Kestrel Group Ltd.
+Ticker: KG
+Market Cap: 117987224
+Enterprise Value: 285779552
+Total Revenue: 26676136
+Revenue Per Share: 3.446
+EBITDA: 
+Gross Margins: 0.7542
+Operating Margins: -0.20417999
+Profit Margins: 2.48002
+Free Cashflow: 
+Operating Cashflow: -30650840
+Return On Assets: 
+Return On Equity: 
+Total Cash: 12890000
+Total Debt: 176192000
+Debt To Equity: 122.548
+Current Ratio: 4.792
+Quick Ratio: 0.12
+Trailing PE: 1.7457045
+Forward PE: 
+Price To Book: 0.82063437
+Beta: 
+52 Week High: 36.8
+52 Week Low: 8.07

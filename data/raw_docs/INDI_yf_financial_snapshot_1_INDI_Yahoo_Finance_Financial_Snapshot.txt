@@ -1,0 +1,25 @@
+Company: indie Semiconductor Inc. Class A Common Stock
+Ticker: INDI
+Market Cap: 577569984
+Enterprise Value: 787742720
+Total Revenue: 217394000
+Revenue Per Share: 1.102
+EBITDA: -104736000
+Gross Margins: -0.31031
+Operating Margins: -0.57259
+Profit Margins: -0.65809995
+Free Cashflow: -20345376
+Operating Cashflow: -57130000
+Return On Assets: -0.10181
+Return On Equity: -0.36341998
+Total Cash: 145456000
+Total Debt: 369673984
+Debt To Equity: 96.266
+Current Ratio: 3.733
+Quick Ratio: 2.714
+Trailing PE: 
+Forward PE: 16.259651
+Price To Book: 1.4766248
+Beta: 2.579
+52 Week High: 6.05
+52 Week Low: 1.53

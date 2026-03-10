@@ -1,0 +1,12 @@
+Company: Abeona Therapeutics Inc. Common Stock
+Ticker: ABEO
+Total Revenue: 400000
+Revenue Per Share: 0.008
+Gross Margins: 0.0
+Operating Margins: -208.0225
+EBITDA: -80984000
+Profit Margins: 205.875
+Free Cashflow: -54261876
+Operating Cashflow: -74932000
+Return On Assets: -0.29575002
+Return On Equity: 0.75897

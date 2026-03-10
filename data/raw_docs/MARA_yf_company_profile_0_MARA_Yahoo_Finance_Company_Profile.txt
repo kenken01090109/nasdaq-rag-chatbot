@@ -1,0 +1,9 @@
+Company: MARA Holdings Inc. Common Stock
+Ticker: MARA
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Hallandale Beach
+Website: https://www.mara.com
+Employees: 266
+Business Summary: MARA Holdings, Inc. operates as an energy and digital infrastructure company in the United States and Europe. The company leverages Bitcoin Mining and Artificial Intelligence compute to monetize excess energy and underutilized power, optimize power management across operations and support AI inference applications. The company was formerly known as Marathon Digital Holdings, Inc. and changed its name to MARA Holdings, Inc. in August 2024. MARA Holdings, Inc. was incorporated in 2010 and is based in Hallandale Beach, Florida.

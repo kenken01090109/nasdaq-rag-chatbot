@@ -1,0 +1,9 @@
+Company: Datavault AI Inc. Common Stock
+Ticker: DVLT
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Beaverton
+Website: https://datavaultsite.com
+Employees: 63
+Business Summary: Datavault AI Inc., a data sciences technology company, owns and operates data management platforms with supercomputing capabilities in North America, Asia Pacific, Europe, and internationally. The company also offers data technology and software solutions that enable customers to thrive in the evolving landscape of data ownership, privacy, and security through high performance computing (HPC) infrastructure and proprietary software. In addition, it provides registration, data analytics, and lead management services for live events, offering cutting-edge solutions, and unparalleled customer support to clients in the trade, association, corporate, and government event markets. The company was formerly known as WiSA Technologies, Inc. and changed its name to Datavault AI Inc. in February 2025. Datavault AI Inc. was incorporated in 2010 and is headquartered in Beaverton, Oregon.

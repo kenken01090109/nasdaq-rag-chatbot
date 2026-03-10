@@ -1,0 +1,11 @@
+Company: Colliers International Group Inc. Subordinate Voting Shares
+Ticker: CIGI
+CIK: 0000913353
+Latest SEC XBRL Facts:
+Revenues: 2275362000 | unit=USD | filed=2018-02-28 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5558462000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetIncomeLoss: 49313000 | unit=USD | filed=2018-02-28 | period_end=2017-12-31
+Assets: 6788467000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+StockholdersEquity: 1533319000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 330140000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 207902000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31

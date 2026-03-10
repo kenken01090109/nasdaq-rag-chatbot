@@ -1,0 +1,25 @@
+Company: OneMedNet Corp Class A Common Stock
+Ticker: ONMD
+Market Cap: 34786808
+Enterprise Value: 33341378
+Total Revenue: 494000
+Revenue Per Share: 0.013
+EBITDA: -9219000
+Gross Margins: -1.4048599
+Operating Margins: -12.62712
+Profit Margins: 0.0
+Free Cashflow: 4864875
+Operating Cashflow: -7817000
+Return On Assets: -1.9725599
+Return On Equity: 
+Total Cash: 149000
+Total Debt: 388000
+Debt To Equity: 
+Current Ratio: 0.289
+Quick Ratio: 0.146
+Trailing PE: 
+Forward PE: 
+Price To Book: -8.6075945
+Beta: 1.086
+52 Week High: 4.22
+52 Week Low: 0.3

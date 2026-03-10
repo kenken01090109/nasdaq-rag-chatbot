@@ -1,0 +1,25 @@
+Company: Ponce Financial Group Inc. Common Stock
+Ticker: PDLB
+Market Cap: 375662944
+Enterprise Value: 1098120832
+Total Revenue: 105440000
+Revenue Per Share: 4.635
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.45485002
+Profit Margins: 0.27222002
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00916
+Return On Equity: 0.05483
+Total Cash: 126403000
+Total Debt: 625452992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.649999
+Forward PE: 11.535211
+Price To Book: 1.1817329
+Beta: 0.539
+52 Week High: 18.01
+52 Week Low: 10.88

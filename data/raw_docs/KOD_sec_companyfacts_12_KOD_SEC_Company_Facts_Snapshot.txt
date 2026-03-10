@@ -1,0 +1,10 @@
+Company: Kodiak Sciences Inc Common Stock
+Ticker: KOD
+CIK: 0001468748
+Latest SEC XBRL Facts:
+NetIncomeLoss: -173231000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 218069000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 194377000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 23692000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -96630000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72038000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

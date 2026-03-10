@@ -1,0 +1,25 @@
+Company: Classover Holdings Inc. Warrants
+Ticker: KIDZW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 3700076
+Revenue Per Share: 0.792
+EBITDA: -2715176
+Gross Margins: 0.57799
+Operating Margins: -0.46977
+Profit Margins: -0.53213
+Free Cashflow: -2898580
+Operating Cashflow: -3379938
+Return On Assets: -0.14747
+Return On Equity: -3.2614002
+Total Cash: 3428824
+Total Debt: 12832844
+Debt To Equity: 237.644
+Current Ratio: 1.371
+Quick Ratio: 1.37
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.06621005
+Beta: -0.291
+52 Week High: 0.0145
+52 Week Low: 0.0121

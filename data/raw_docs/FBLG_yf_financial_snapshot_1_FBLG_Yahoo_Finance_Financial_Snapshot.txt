@@ -1,0 +1,25 @@
+Company: FibroBiologics Inc. Common Stock
+Ticker: FBLG
+Market Cap: 29403704
+Enterprise Value: 25851708
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -16405000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -9968125
+Operating Cashflow: -16394000
+Return On Assets: -0.79847
+Return On Equity: -4.19435
+Total Cash: 4894000
+Total Debt: 2410000
+Debt To Equity: 39.149
+Current Ratio: 3.609
+Quick Ratio: 2.782
+Trailing PE: 
+Forward PE: -1.611111
+Price To Book: 4.677419
+Beta: -0.669
+52 Week High: 1.53
+52 Week Low: 0.22

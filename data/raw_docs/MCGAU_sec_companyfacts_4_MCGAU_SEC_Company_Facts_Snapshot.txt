@@ -1,0 +1,9 @@
+Company: Yorkville Acquisition Corp. Unit
+Ticker: MCGAU
+CIK: 0002064658
+Latest SEC XBRL Facts:
+NetIncomeLoss: -487506 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 175241087 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6633805 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5992286 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -563093 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

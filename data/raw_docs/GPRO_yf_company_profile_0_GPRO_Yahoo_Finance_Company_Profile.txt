@@ -1,0 +1,9 @@
+Company: GoPro Inc. Class A Common Stock
+Ticker: GPRO
+Sector: Technology
+Industry: Consumer Electronics
+Country: United States
+City: San Mateo
+Website: https://www.gopro.com
+Employees: 
+Business Summary: GoPro, Inc. provides cameras, mountable and wearable accessories, and subscription and services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company provides HERO13 Black, HERO12 Black, HERO11 Black, HERO10 Black, HERO, and MAX cameras; Premium and Premium+ subscription, which are subscription services that include cloud storage for its content; and Quik subscription, a subscription service in total addressable market to those who value organizing the visual moments of their lives with footage from any phone or camera. It also offers mobile and web applications, and desktop plugins that provide a media workflow for archiving, editing, multi-clip story creation, and sharing content on the fly; and a lifestyle gear lineup that melds its signature design and versatility across a line of bags, backpacks, and cases, as well as a line of t-shirts, hats, and other soft goods. In addition, the company provides mounts and accessories; equipment-based mounts comprising helmet, handlebar, roll bar, and tripod mounts that enable consumers to wear mounts on their bodies with the use of its magnetic swivel clip, chest harness, and head strap; and spare batteries, dive filters and charging accessories, and cables to connect its cameras to computers, laptops, and television monitors. Further, it offers mobile, desktop, and web applications that provide media workflow for archiving, editing, multi-clip story creation, and sharing content on the fly. The company sells its products through retailers, distributors, and on GoPro.com. The company was formerly known as Woodman Labs, Inc. and changed its name to GoPro, Inc. in February 2014. GoPro, Inc. was founded in 2002 and is headquartered in San Mateo, California.

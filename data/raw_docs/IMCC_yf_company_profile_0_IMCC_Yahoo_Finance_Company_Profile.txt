@@ -1,0 +1,9 @@
+Company: IM Cannabis Corp. Common Shares
+Ticker: IMCC
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Israel
+City: Tel Aviv
+Website: https://imcannabis.com
+Employees: 
+Business Summary: IM Cannabis Corp. engages in breeding, growing, and supply of medical cannabis products in Israel and Germany. It provides medical cannabis dried flowers; and cannabis extracts under the IMC, BLKMT, WAGNERS, and LOT420 brands. The company serves medical patients. IM Cannabis Corp. was founded in 2008 and is headquartered in Tel Aviv, Israel.

@@ -1,0 +1,9 @@
+Company: Mission Produce Inc. Common Stock
+Ticker: AVO
+Sector: Consumer Defensive
+Industry: Food Distribution
+Country: United States
+City: Oxnard
+Website: https://missionproduce.com
+Employees: 3800
+Business Summary: Mission Produce, Inc. engages in the sourcing, farming, packaging, marketing, and distribution of avocados, mangoes, and blueberries to food retailers, wholesalers, and foodservice customers in the United States and internationally. The company operates through three segments, Marketing and Distribution; International Farming; and Blueberries. It also provides ripening, bagging, custom packing, logistical management, and quality assurance services. In addition, the company offers merchandising and promotional support, and insights on market trends, and training services. Mission Produce, Inc. was founded in 1983 and is headquartered in Oxnard, California.

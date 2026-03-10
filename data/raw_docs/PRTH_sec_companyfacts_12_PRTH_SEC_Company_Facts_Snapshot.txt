@@ -1,0 +1,12 @@
+Company: Priority Technology Holdings Inc. Common Stock
+Ticker: PRTH
+CIK: 0001653558
+Latest SEC XBRL Facts:
+Revenues: 317356000 | unit=USD | filed=2019-11-14 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 371854000 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+NetIncomeLoss: -33589000 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+Assets: 464505000 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+Liabilities: 585194000 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+StockholdersEquity: -126343000 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+NetCashProvidedByUsedInOperatingActivities: 39364000 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+CashAndCashEquivalentsAtCarryingValue: 56978000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

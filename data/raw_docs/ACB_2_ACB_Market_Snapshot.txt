@@ -1,0 +1,10 @@
+Company: Aurora Cannabis Inc. Common Shares
+Ticker: ACB
+Market Cap: 198482976
+Enterprise Value: 222493984
+Trailing PE: 
+Forward PE: -31.818182
+Price To Book: 0.5049561
+Beta: 1.305
+52 Week High: 6.665
+52 Week Low: 3.28

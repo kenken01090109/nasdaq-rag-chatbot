@@ -1,0 +1,25 @@
+Company: Match Group Inc. Common Stock
+Ticker: MTCH
+Market Cap: 7193058816
+Enterprise Value: 10343898112
+Total Revenue: 3487196928
+Revenue Per Share: 14.37
+EBITDA: 1052698880
+Gross Margins: 0.7288
+Operating Margins: 0.30021998
+Profit Margins: 0.17591
+Free Cashflow: 873889920
+Operating Cashflow: 1080380032
+Return On Assets: 0.13261
+Return On Equity: 
+Total Cash: 1031299008
+Total Debt: 4090991104
+Debt To Equity: 
+Current Ratio: 1.418
+Quick Ratio: 1.326
+Trailing PE: 12.80252
+Forward PE: 7.560099
+Price To Book: -27.954126
+Beta: 1.341
+52 Week High: 39.2
+52 Week Low: 26.39

@@ -1,0 +1,9 @@
+Company: Nixxy Inc. Common Stock
+Ticker: NIXX
+Sector: Industrials
+Industry: Staffing & Employment Services
+Country: United States
+City: Bristol
+Website: https://www.nixxy.com
+Employees: 3
+Business Summary: Nixxy, Inc. engages in telecommunications and software development in the United States and internationally. It offers billing systems, AI integration, wholesale long distance interconnections, and sales; intellectual property; and marketplace solutions. The company also provides Mexedia SMS services through its integrated cloud-based platform; and billing, and AI software assets. In addition, it offers telecommunications and wholesale voice/data; fintech and mobile commerce. Further, the company provides platform, such as CreateApp Platform as a Service (PasS); Paylogiq platform; and Gologiq a PaaS platform. The company was formerly known as Recruiter.com Group, Inc. and changed its name to Nixxy, Inc. in October 2024. The company is based in Bristol, Connecticut.

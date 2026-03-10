@@ -1,0 +1,10 @@
+Company: Medicus Pharma Ltd. Warrant
+Ticker: MDCXW
+CIK: 0001997296
+Latest SEC XBRL Facts:
+NetIncomeLoss: -32214245 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 9977661 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10782551 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -910126 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16167654 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8662091 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

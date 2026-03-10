@@ -1,0 +1,25 @@
+Company: InMed Pharmaceuticals Inc. Common Shares
+Ticker: INM
+Market Cap: 2685651
+Enterprise Value: -3896384
+Total Revenue: 4506597
+Revenue Per Share: 1.718
+EBITDA: -7630413
+Gross Margins: 0.29726
+Operating Margins: -2.5856698
+Profit Margins: -1.7007
+Free Cashflow: -4306249
+Operating Cashflow: -7421862
+Return On Assets: -0.49773997
+Return On Equity: -0.97203004
+Total Cash: 6997509
+Total Debt: 531949
+Debt To Equity: 5.548
+Current Ratio: 5.938
+Quick Ratio: 4.852
+Trailing PE: 
+Forward PE: -0.1472
+Price To Book: 0.26908454
+Beta: 0.456
+52 Week High: 7.98
+52 Week Low: 0.732

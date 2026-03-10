@@ -1,0 +1,11 @@
+Company: Currenc Group Inc. Ordinary Shares
+Ticker: CURR
+CIK: 0001862935
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 10055569 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+NetIncomeLoss: -4674358 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+Assets: 110757729 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+Liabilities: 154685332 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+StockholdersEquity: -68387147 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1487912 | unit=USD | filed=2025-05-20 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 62300298 | unit=USD | filed=2025-05-20 | period_end=2025-03-31

@@ -1,0 +1,12 @@
+Company: Intelligent Living Application Group Inc. Ordinary Shares
+Ticker: ILAG
+CIK: 0001814963
+Latest SEC XBRL Facts:
+Revenues: 6400000 | unit=USD | filed=2024-04-30 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 7506551 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: -3690287 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 14440221 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 1802155 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 12638066 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3042081 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1280911 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

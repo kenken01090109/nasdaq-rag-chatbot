@@ -1,0 +1,25 @@
+Company: Inflection Point Acquisition Corp. III Class A Ordinary Shares
+Ticker: IPCX
+Market Cap: 350938560
+Enterprise Value: 350073312
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -1027255
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1270446
+Total Debt: 60494
+Debt To Equity: 
+Current Ratio: 3.504
+Quick Ratio: 2.991
+Trailing PE: 
+Forward PE: 
+Price To Book: -26.93122
+Beta: 
+52 Week High: 10.35
+52 Week Low: 10.05

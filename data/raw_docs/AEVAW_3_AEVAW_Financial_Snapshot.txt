@@ -1,0 +1,12 @@
+Company: Aeva Technologies Inc. Warrants
+Ticker: AEVAW
+Total Revenue: 18079000
+Revenue Per Share: 0.317
+Gross Margins: -0.036510002
+Operating Margins: -5.17613
+EBITDA: -122216000
+Profit Margins: 0.0
+Free Cashflow: -76099128
+Operating Cashflow: -115077000
+Return On Assets: -0.48747003
+Return On Equity: -2.5838501

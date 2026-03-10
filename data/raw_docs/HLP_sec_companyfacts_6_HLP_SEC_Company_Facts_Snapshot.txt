@@ -1,0 +1,11 @@
+Company: Hongli Group Inc. Ordinary Shares
+Ticker: HLP
+CIK: 0001855557
+Latest SEC XBRL Facts:
+Revenues: 9587978 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: 990049 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 67843780 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 12335018 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 55508762 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -276206 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 923333 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Root Inc. Class A Common Stock
+Ticker: ROOT
+Market Cap: 746311808
+Enterprise Value: 393922912
+Total Revenue: 1517100032
+Revenue Per Share: 98.513
+EBITDA: 65100000
+Gross Margins: 0.39081
+Operating Margins: 0.02645
+Profit Margins: 0.02525
+Free Cashflow: 83062496
+Operating Cashflow: 206500000
+Return On Assets: 0.02441
+Return On Equity: 0.113199994
+Total Cash: 669299968
+Total Debt: 204600000
+Debt To Equity: 51.628
+Current Ratio: 2.452
+Quick Ratio: 2.12
+Trailing PE: 20.33051
+Forward PE: 15.151563
+Price To Book: 2.6158545
+Beta: 2.895
+52 Week High: 181.14
+52 Week Low: 46.42

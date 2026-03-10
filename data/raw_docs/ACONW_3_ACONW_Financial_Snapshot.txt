@@ -1,0 +1,12 @@
+Company: Aclarion Inc. Warrant
+Ticker: ACONW
+Total Revenue: 67483
+Revenue Per Share: 0.116
+Gross Margins: -0.07835
+Operating Margins: -96.6616
+EBITDA: -6647278
+Profit Margins: 0.0
+Free Cashflow: -4137211
+Operating Cashflow: -6459628
+Return On Assets: -0.52367
+Return On Equity: -0.97720003

@@ -1,0 +1,9 @@
+Company: Monroe Capital Corporation Common Stock
+Ticker: MRCC
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Chicago
+Website: https://www.monroebdc.com
+Employees: 
+Business Summary: Monroe Capital Corporation is a business development company specializing in customized financing solutions in senior, unitranche and junior secured debt, subordinated debt financing and to a lesser extent, unsecured debt and equity, including equity co-investments in preferred and common stock and warrants. It also provides financing primarily to leveraged buyouts in lower middle-market companies. It focuses to invest in the United States and Canada. The fund prefers to invest in companies with EBITDA between $3 million and $35 million. Its makes minority equity investments.

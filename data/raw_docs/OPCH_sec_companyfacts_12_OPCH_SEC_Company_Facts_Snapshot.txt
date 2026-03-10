@@ -1,0 +1,12 @@
+Company: Option Care Health Inc. Common Stock
+Ticker: OPCH
+CIK: 0001014739
+Latest SEC XBRL Facts:
+Revenues: 1332972000 | unit=USD | filed=2025-04-29 | period_end=2025-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 4184073000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 149081000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 3479845000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 2121186000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1358659000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 222556000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 309822000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

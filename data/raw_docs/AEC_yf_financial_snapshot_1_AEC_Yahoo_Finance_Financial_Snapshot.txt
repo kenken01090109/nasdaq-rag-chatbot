@@ -1,0 +1,25 @@
+Company: Anfield Energy Inc. Common Shares
+Ticker: AEC
+Market Cap: 105284632
+Enterprise Value: 105785120
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -12377804
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -9708357
+Operating Cashflow: -15053080
+Return On Assets: -0.10604999
+Return On Equity: -0.30734
+Total Cash: 7242004
+Total Debt: 11409442
+Debt To Equity: 22.375
+Current Ratio: 6.687
+Quick Ratio: 4.788
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.5562832
+Beta: 1.84
+52 Week High: 12.49
+52 Week Low: 2.25

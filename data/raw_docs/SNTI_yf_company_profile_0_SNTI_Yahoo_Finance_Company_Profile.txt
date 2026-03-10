@@ -1,0 +1,9 @@
+Company: Senti Biosciences Inc. Common Stock
+Ticker: SNTI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://www.sentibio.com
+Employees: 34
+Business Summary: Senti Biosciences, Inc., a clinical stage biotechnology company, develops cell and gene therapies engineered with its gene circuit platform technologies for patients living with incurable diseases. Its lead product candidates utilize off-the-shelf healthy adult donor derived natural killer (NK) cells to create CAR-NK cells outfitted with gene circuit technologies in various oncology indications with unmet need. The company's product candidates also include SENTI-202, a logic gated off-the-shelf CAR-NK cell therapy for the treatment of blood cancers and relapsed/refractory hematological malignancies, including acute myeloid leukemia; and SENTI-301A, an off-the-shelf CAR-NK cell therapy for the treatment of solid tumors and hepatocellular carcinoma. In addition, it develops the tumor-associated antigen and protective antigen paired discovery platform to select and validate NOT GATE antigen candidates and identify tumor-associated antigens in cancer cells. Further, its pipeline includes preclinical programs, which comprise a solid tumor cell therapy program; and partnered programs related to gene therapies for tissue-directed targets, as well as partnered programs related to cell therapies for regenerative medicines. The company has a strategic collaboration with Celest Therapeutics (Shanghai) Co. Ltd for the clinical development of SENTI-301A to treat solid tumors. Senti Biosciences, Inc. was incorporated in 2016 and is headquartered in South San Francisco, California.

@@ -1,0 +1,12 @@
+Company: Delcath Systems Inc. Common Stock
+Ticker: DCTH
+CIK: 0000872912
+Latest SEC XBRL Facts:
+Revenues: 10905000 | unit=USD | filed=2024-08-05 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 64503000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 4596000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 124295000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 9448000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 114847000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14268000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 41813000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

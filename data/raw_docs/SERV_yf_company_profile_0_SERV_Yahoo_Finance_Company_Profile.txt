@@ -1,0 +1,9 @@
+Company: Serve Robotics Inc. Common Stock
+Ticker: SERV
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: United States
+City: Redwood City
+Website: https://www.serverobotics.com
+Employees: 120
+Business Summary: Serve Robotics Inc. designs, develops, and operates low-emission robots that serve people in public spaces for food delivery activity in the United States. It builds self-driving delivery robots. Serve Robotics Inc. was founded in 2017 and is headquartered in Redwood City, California.

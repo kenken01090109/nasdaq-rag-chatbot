@@ -1,0 +1,25 @@
+Company: Turtle Beach Corporation Common Stock
+Ticker: TBCH
+Market Cap: 256495936
+Enterprise Value: 331026656
+Total Revenue: 347212000
+Revenue Per Share: 17.109
+EBITDA: 38697000
+Gross Margins: 0.37173998
+Operating Margins: 0.072620004
+Profit Margins: 0.052589998
+Free Cashflow: 18331124
+Operating Cashflow: 36435000
+Return On Assets: 0.055159997
+Return On Equity: 0.17188999
+Total Cash: 12257000
+Total Debt: 96682000
+Debt To Equity: 87.376
+Current Ratio: 1.599
+Quick Ratio: 0.619
+Trailing PE: 14.550562
+Forward PE: 11.59698
+Price To Book: 2.2596405
+Beta: 2.272
+52 Week High: 17.387
+52 Week Low: 8.78

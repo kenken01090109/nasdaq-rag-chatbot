@@ -1,0 +1,10 @@
+Company: Reviva Pharmaceuticals Holdings Inc. Common Stock
+Ticker: RVPH
+CIK: 0001742927
+Latest SEC XBRL Facts:
+NetIncomeLoss: -16497223 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 14332649 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9782914 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4549735 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18796432 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13183259 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

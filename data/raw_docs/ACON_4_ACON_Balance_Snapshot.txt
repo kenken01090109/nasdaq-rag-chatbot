@@ -1,0 +1,8 @@
+Company: Aclarion Inc. Common Stock
+Ticker: ACON
+Total Cash: 11380339
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 17.013
+Quick Ratio: 16.309
+Book Value: 21.465

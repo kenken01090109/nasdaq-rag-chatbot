@@ -1,0 +1,9 @@
+Company: WhiteFiber Inc. Ordinary Shares
+Ticker: WYFI
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New York
+Website: https://www.whitefiber.com
+Employees: 
+Business Summary: WhiteFiber, Inc. designs, develops, and operates data centers and provides artificial intelligence (AI) infrastructure solutions. The company offers hosting, colocation, and cloud-based HPC graphics processing unit (GPU) services. In addition, it offers storage, networking, observability, and security services. The company was formerly known as Celer, Inc. and changed its name to WhiteFiber, Inc. in October 2024. The company was incorporated in 2024 and is based in New York, New York. WhiteFiber, Inc. is a subsidiary of Bit Digital, Inc.

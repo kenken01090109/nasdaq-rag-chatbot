@@ -1,0 +1,25 @@
+Company: Corsair Gaming Inc. Common Stock
+Ticker: CRSR
+Market Cap: 634640896
+Enterprise Value: 771113984
+Total Revenue: 1472480000
+Revenue Per Share: 13.891
+EBITDA: 57066000
+Gross Margins: 0.2897
+Operating Margins: 0.063379996
+Profit Margins: -0.01097
+Free Cashflow: 56164752
+Operating Cashflow: 50121000
+Return On Assets: 0.0014399999
+Return On Equity: -0.023659999
+Total Cash: 97183000
+Total Debt: 190527008
+Debt To Equity: 29.505
+Current Ratio: 1.544
+Quick Ratio: 0.768
+Trailing PE: 
+Forward PE: 7.8572745
+Price To Book: 1.0015149
+Beta: 1.556
+52 Week High: 11.42
+52 Week Low: 4.48

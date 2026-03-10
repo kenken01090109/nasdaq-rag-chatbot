@@ -1,0 +1,25 @@
+Company: Peraso Inc. Common Stock
+Ticker: PRSO
+Market Cap: 19110440
+Enterprise Value: 5611197
+Total Revenue: 13001000
+Revenue Per Share: 2.221
+EBITDA: -6490000
+Gross Margins: 0.58757
+Operating Margins: -0.36797002
+Profit Margins: -0.38997
+Free Cashflow: -3336375
+Operating Cashflow: -5242000
+Return On Assets: -0.49626
+Return On Equity: -1.8020301
+Total Cash: 1865000
+Total Debt: 192000
+Debt To Equity: 5.332
+Current Ratio: 2.254
+Quick Ratio: 1.476
+Trailing PE: 
+Forward PE: -12.363636
+Price To Book: 4.322034
+Beta: 0.855
+52 Week High: 2.37
+52 Week Low: 0.52

@@ -1,0 +1,25 @@
+Company: FingerMotion Inc. Common Stock
+Ticker: FNGR
+Market Cap: 71699128
+Enterprise Value: 72682576
+Total Revenue: 33143484
+Revenue Per Share: 0.55
+EBITDA: -5995058
+Gross Margins: 0.05406
+Operating Margins: -0.29358998
+Profit Margins: -0.16073999
+Free Cashflow: 198110
+Operating Cashflow: -7227133
+Return On Assets: -0.08369
+Return On Equity: -0.41306
+Total Cash: 24214
+Total Debt: 423487
+Debt To Equity: 2.592
+Current Ratio: 1.166
+Quick Ratio: 1.018
+Trailing PE: 
+Forward PE: 39.0
+Price To Book: 4.3820224
+Beta: -0.714
+52 Week High: 5.2
+52 Week Low: 1.05

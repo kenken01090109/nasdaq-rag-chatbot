@@ -1,0 +1,11 @@
+Company: Focus Universal Inc. Common Stock
+Ticker: FCUV
+CIK: 0001590418
+Latest SEC XBRL Facts:
+Revenues: 254274 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -3923401 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 880445 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 705638 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 174807 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3709104 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5368273 | unit=USD | filed=2024-11-07 | period_end=2024-09-30

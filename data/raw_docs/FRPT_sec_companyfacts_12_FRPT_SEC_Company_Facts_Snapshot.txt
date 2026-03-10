@@ -1,0 +1,11 @@
+Company: Freshpet Inc. Common Stock
+Ticker: FRPT
+CIK: 0001611647
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 816786000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 105322000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 1745542000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 567137000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1178405000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 105455000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 274591000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

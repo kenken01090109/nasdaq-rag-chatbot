@@ -1,0 +1,10 @@
+Company: Oak Valley Bancorp (CA) Common Stock
+Ticker: OVLY
+CIK: 0001431567
+Latest SEC XBRL Facts:
+NetIncomeLoss: 17578000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1995416000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1797136000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 198280000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20690000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 247155000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

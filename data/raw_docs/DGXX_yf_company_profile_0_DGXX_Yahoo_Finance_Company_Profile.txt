@@ -1,0 +1,9 @@
+Company: Digi Power X Inc. Subordinate Voting Shares
+Ticker: DGXX
+Sector: Utilities
+Industry: Utilities - Independent Power Producers
+Country: United States
+City: Miami
+Website: https://www.digipowerx.com
+Employees: 
+Business Summary: Digi Power X Inc., an energy infrastructure company, develops data centers to drive the expansion of energy assets in the United States. The company operates in three segments: Cryptocurrency Mining, Sales of Energy, and Colocation Services. It also mines for cryptocurrency. In addition, the company is involved in power provision and space rental to customers; and sale of electricity. It serves industrial clients and energy markets. The company was formerly known as Digihost Technology Inc. and changed its name to Digi Power X Inc. in March 2025. Digi Power X Inc. is headquartered in Miami, Florida.

@@ -1,0 +1,9 @@
+Company: OFS Credit Company Inc. 7.875% Series F Term Preferred Stock
+Ticker: OCCIM
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Chicago
+Website: https://www.ofscreditcompany.com
+Employees: 
+Business Summary: OFS Credit Company, Inc. is a fund of OFS Advisor.

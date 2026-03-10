@@ -1,0 +1,11 @@
+Company: Royal Gold Inc. Common Stock
+Ticker: RGLD
+CIK: 0000085535
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 655148000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 372670000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4465100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1048533000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 3406467000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 463141000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 172849000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

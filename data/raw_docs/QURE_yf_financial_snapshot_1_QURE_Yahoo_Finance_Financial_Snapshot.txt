@@ -1,0 +1,25 @@
+Company: uniQure N.V. Ordinary Shares
+Ticker: QURE
+Market Cap: 888902080
+Enterprise Value: 578262912
+Total Revenue: 16098000
+Revenue Per Share: 0.28
+EBITDA: -169630336
+Gross Margins: 0.0
+Operating Margins: -10.13129
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.16771
+Return On Equity: -2.0710099
+Total Cash: 622540992
+Total Debt: 536592000
+Debt To Equity: 269.778
+Current Ratio: 10.426
+Quick Ratio: 9.988
+Trailing PE: 
+Forward PE: -5.6156645
+Price To Book: 4.474757
+Beta: 0.773
+52 Week High: 71.5
+52 Week Low: 7.76

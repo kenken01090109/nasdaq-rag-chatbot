@@ -1,0 +1,10 @@
+Company: Data I/O Corporation Common Stock
+Ticker: DAIO
+CIK: 0000351998
+Latest SEC XBRL Facts:
+Revenues: 17516000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -2486000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 22694000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 16010000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -576000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11867000 | unit=USD | filed=2023-11-13 | period_end=2023-09-30

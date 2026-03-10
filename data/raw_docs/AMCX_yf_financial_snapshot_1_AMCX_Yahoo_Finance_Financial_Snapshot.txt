@@ -1,0 +1,25 @@
+Company: AMC Networks Inc. Class A Common Stock
+Ticker: AMCX
+Market Cap: 361272192
+Enterprise Value: 1736224896
+Total Revenue: 2311801088
+Revenue Per Share: 52.044
+EBITDA: 352067008
+Gross Margins: 0.50628
+Operating Margins: 0.10199001
+Profit Margins: 0.03867
+Free Cashflow: 1199790592
+Operating Cashflow: 305670016
+Return On Assets: 0.03881
+Return On Equity: 0.104169995
+Total Cash: 502379008
+Total Debt: 1852199040
+Debt To Equity: 182.708
+Current Ratio: 1.667
+Quick Ratio: 1.566
+Trailing PE: 5.0
+Forward PE: 5.229137
+Price To Book: 0.36094803
+Beta: 1.116
+52 Week High: 10.28
+52 Week Low: 5.41

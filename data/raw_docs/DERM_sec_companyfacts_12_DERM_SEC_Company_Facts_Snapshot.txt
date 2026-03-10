@@ -1,0 +1,12 @@
+Company: Journey Medical Corporation Common Stock
+Ticker: DERM
+CIK: 0001867066
+Latest SEC XBRL Facts:
+Revenues: 45779000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 45173000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -10184000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 85191000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 59293000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 25898000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6157000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24948000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

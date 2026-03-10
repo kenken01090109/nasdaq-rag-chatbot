@@ -1,0 +1,12 @@
+Company: Cineverse Corp. Class A Common Stock
+Ticker: CNVS
+CIK: 0001173204
+Latest SEC XBRL Facts:
+Revenues: 39762000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 39762000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -875000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 68574000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 30830000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 38567000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -23308000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2461000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

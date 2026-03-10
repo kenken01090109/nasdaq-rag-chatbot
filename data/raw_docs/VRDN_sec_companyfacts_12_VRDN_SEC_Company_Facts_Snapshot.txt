@@ -1,0 +1,11 @@
+Company: Viridian Therapeutics Inc. Common Stock
+Ticker: VRDN
+CIK: 0001590750
+Latest SEC XBRL Facts:
+Revenues: 4159000 | unit=USD | filed=2016-08-15 | period_end=2016-06-30
+NetIncomeLoss: -222246000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 577138000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 74168000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 502970000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -252637000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24857000 | unit=USD | filed=2019-11-08 | period_end=2019-09-30

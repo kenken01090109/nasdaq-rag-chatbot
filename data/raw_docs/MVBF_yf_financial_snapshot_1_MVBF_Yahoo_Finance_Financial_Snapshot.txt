@@ -1,0 +1,25 @@
+Company: MVB Financial Corp. Common Stock
+Ticker: MVBF
+Market Cap: 322375328
+Enterprise Value: 153141728
+Total Revenue: 158936992
+Revenue Per Share: 12.441
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.14758
+Profit Margins: 0.16950001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00836
+Return On Equity: 0.08416
+Total Cash: 244124992
+Total Debt: 74026000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.300971
+Forward PE: 8.8990345
+Price To Book: 0.9648188
+Beta: 0.874
+52 Week High: 29.59
+52 Week Low: 15.585

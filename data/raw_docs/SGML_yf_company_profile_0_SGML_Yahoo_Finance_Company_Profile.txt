@@ -1,0 +1,9 @@
+Company: Sigma Lithium Corporation Common Shares
+Ticker: SGML
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Brazil
+City: São Paulo
+Website: https://www.sigmalithiumresources.com
+Employees: 589
+Business Summary: Sigma Lithium Corporation engages in the exploration and development of lithium deposits in Brazil. It holds a 100% interest in the Grota do Cirilo, Genipapo, Santa Clara, and São José properties comprising 29 mineral rights covering an area of approximately 185 square kilometers located in the Araçuaí and Itinga regions of the state of Minas Gerais, Brazil. It serves lithium-ion battery supply chain for electric vehicle industries. The company was formerly known as Sigma Lithium Resources Corporation and changed its name to Sigma Lithium Corporation in July 2021. Sigma Lithium Corporation is headquartered in São Paulo, Brazil.

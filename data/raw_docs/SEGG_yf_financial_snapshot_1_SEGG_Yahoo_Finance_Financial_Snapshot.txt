@@ -1,0 +1,25 @@
+Company: Sports Entertainment Gaming Global Corporation Common Stock
+Ticker: SEGG
+Market Cap: 13610091
+Enterprise Value: 20742002
+Total Revenue: 902108
+Revenue Per Share: 0.34
+EBITDA: -10516169
+Gross Margins: 0.2958
+Operating Margins: -33.08925
+Profit Margins: 0.0
+Free Cashflow: 533158
+Operating Cashflow: -8864080
+Return On Assets: -0.14222999
+Return On Equity: -0.58467
+Total Cash: 320636
+Total Debt: 5740882
+Debt To Equity: 13.202
+Current Ratio: 0.625
+Quick Ratio: 0.036
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.12028308
+Beta: 1.314
+52 Week High: 26.45
+52 Week Low: 0.46

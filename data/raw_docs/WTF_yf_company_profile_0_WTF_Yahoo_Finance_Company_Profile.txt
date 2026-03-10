@@ -1,0 +1,9 @@
+Company: Waton Financial Limited Ordinary Shares
+Ticker: WTF
+Sector: Financial Services
+Industry: Asset Management
+Country: Hong Kong
+City: Kowloon City
+Website: https://www.waton.com
+Employees: 47
+Business Summary: Waton Financial Limited provides securities brokerage and financial technology services in Hong Kong. The company offers securities brokerage services for securities listed on the Hong Kong Stock Exchange, including shares under the Shanghai-Hong Kong Stock Connect and Shenzhen-Hong Kong Stock Connect, the New York Stock Exchange, and the Nasdaq Stock Market; margin financing services; and other ancillary services through an electronic trading platform to its corporate and individual brokerage customers, as well as bond distribution services. It also provides software licensing and related support services comprising the licensing of the trading platform APP, upgrades and enhancements, maintenance, and other related services to financial institutions; and integrated and customizable software solutions to develop the trading platform APP that cover the front, middle, and back-office operations of securities brokerage businesses, such as electronic trade order placing, customer relationship management and operational data management, and securities order clearing and settlement services that enable the securities broker customers to digitalize and streamline their business operations and interact with the financial market. The company was formerly known as IAM Group Inc. and changed its name to Waton Financial Limited in July 2023. Waton Financial Limited was founded in 1989 and is based in Kowloon City, Hong Kong. Waton Financial Limited is a subsidiary of Waton Corporation Limited.

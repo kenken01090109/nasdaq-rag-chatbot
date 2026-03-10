@@ -1,0 +1,10 @@
+Company: Seacoast Banking Corporation of Florida Common Stock
+Ticker: SBCF
+CIK: 0000730708
+Latest SEC XBRL Facts:
+NetIncomeLoss: 110618000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 16676904000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 14298772000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 2378132000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 133548000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 305994000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

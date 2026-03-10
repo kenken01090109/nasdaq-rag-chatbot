@@ -1,0 +1,11 @@
+Company: Commerce.com Inc. Series 1 Common Stock
+Ticker: CMRC
+CIK: 0001626450
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 252832000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -10978000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 309465000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 266630000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 42835000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 24511000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49912000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: VivoPower International PLC Ordinary Shares
+Ticker: VVPR
+Sector: Technology
+Industry: Solar
+Country: United Kingdom
+City: London
+Website: https://vivopower.com
+Employees: 41
+Business Summary: VivoPower International PLC, together with its subsidiaries, provides energy solutions for customized and ruggedized fleet applications, battery and microgrids, and solar and critical power technology and services. It operates through Electric Vehicles, Sustainable Energy Solutions, Solar Development, and Digital Assets segments. The Electric Vehicles segment offers ruggedized battery-powered Electric Vehicle (EV) solutions, including conversion kits for fleet owners in the mining, agriculture, energy utility, defense, police, government, public transport, humanitarian, and game safari industries. It also offers ruggedized or customized on-road applications; public utility vehicle electric powertrain conversion kits for the jeepneys; and OEM light utility pickup trucks under the Tembo Tuskers brand name, as well as EV charging solutions for home and commercial applications. The Sustainable Energy Solutions segment engages in the design, evaluation, sale, and implementation of renewable energy infrastructure. The Solar Development segment develops solar projects. The Digital Assets segment engages in digital asset mining activities. It operates in Australia, Canada, the Netherlands, the United Kingdom, the United States, the United Arab Emirates, and the Philippines. VivoPower International PLC was founded in 2014 and is headquartered in London, the United Kingdom.

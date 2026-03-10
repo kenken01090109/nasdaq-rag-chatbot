@@ -1,0 +1,12 @@
+Company: Tiptree Inc. Common Stock
+Ticker: TIPT
+CIK: 0001393726
+Latest SEC XBRL Facts:
+Revenues: 1566478000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 243391000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 31016000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 6416269000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 5674851000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 505174000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 123366000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 366087000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

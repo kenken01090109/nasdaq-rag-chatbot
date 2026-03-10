@@ -1,0 +1,25 @@
+Company: Molecular Partners AG American Depositary Shares
+Ticker: MOLN
+Market Cap: 187175264
+Enterprise Value: 81388816
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -56742000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -27220124
+Operating Cashflow: -53301000
+Return On Assets: -0.27014
+Return On Equity: -0.51415
+Total Cash: 104521000
+Total Debt: 1532000
+Debt To Equity: 1.604
+Current Ratio: 9.28
+Quick Ratio: 9.081
+Trailing PE: 
+Forward PE: -3.746421
+Price To Book: 1.5302385
+Beta: 0.634
+52 Week High: 5.36
+52 Week Low: 3.36

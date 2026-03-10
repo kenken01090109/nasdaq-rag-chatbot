@@ -1,0 +1,25 @@
+Company: Andersons Inc. (The) Common Stock
+Ticker: ANDE
+Market Cap: 2170022400
+Enterprise Value: 3064653568
+Total Revenue: 11008927744
+Revenue Per Share: 323.45
+EBITDA: 266240000
+Gross Margins: 0.0647
+Operating Margins: 0.03724
+Profit Margins: 0.0086900005
+Free Cashflow: -177196256
+Operating Cashflow: 176998000
+Return On Assets: 0.02121
+Return On Equity: 0.082559995
+Total Cash: 103119000
+Total Debt: 972534016
+Debt To Equity: 75.377
+Current Ratio: 1.409
+Quick Ratio: 0.448
+Trailing PE: 22.956991
+Forward PE: 11.403554
+Price To Book: 1.7250203
+Beta: 0.753
+52 Week High: 70.06
+52 Week Low: 31.03

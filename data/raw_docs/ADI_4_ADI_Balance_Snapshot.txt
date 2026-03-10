@@ -1,0 +1,8 @@
+Company: Analog Devices Inc. Common Stock
+Ticker: ADI
+Total Cash: 4048847104
+Total Debt: 8701080576
+Debt To Equity: 25.753
+Current Ratio: 1.756
+Quick Ratio: 1.249
+Book Value: 69.207

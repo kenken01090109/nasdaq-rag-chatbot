@@ -1,0 +1,25 @@
+Company: Strategic Education Inc. Common Stock
+Ticker: STRA
+Market Cap: 1936706560
+Enterprise Value: 1853440128
+Total Revenue: 1268220032
+Revenue Per Share: 55.748
+EBITDA: 241667008
+Gross Margins: 0.48975
+Operating Margins: 0.16892
+Profit Margins: 0.09984
+Free Cashflow: 145533504
+Operating Cashflow: 198198000
+Return On Assets: 0.059970003
+Return On Equity: 0.07653
+Total Cash: 148054000
+Total Debt: 109121000
+Debt To Equity: 6.628
+Current Ratio: 1.275
+Quick Ratio: 1.05
+Trailing PE: 15.242145
+Forward PE: 10.247717
+Price To Book: 1.1381171
+Beta: 0.562
+52 Week High: 93.45
+52 Week Low: 72.17

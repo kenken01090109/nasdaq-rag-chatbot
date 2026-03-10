@@ -1,0 +1,11 @@
+Company: Kaixin Holdings Ordinary Shares
+Ticker: KXIN
+CIK: 0001713539
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 31535000 | unit=USD | filed=2025-03-31 | period_end=2023-12-31
+NetIncomeLoss: -40972000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+Assets: 24645000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+Liabilities: 11471000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+StockholdersEquity: 13173000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3020000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 2388000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31

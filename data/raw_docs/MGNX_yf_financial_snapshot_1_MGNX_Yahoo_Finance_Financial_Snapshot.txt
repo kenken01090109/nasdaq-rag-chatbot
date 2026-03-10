@@ -1,0 +1,25 @@
+Company: MacroGenics Inc. Common Stock
+Ticker: MGNX
+Market Cap: 141066528
+Enterprise Value: 25985258
+Total Revenue: 127626000
+Revenue Per Share: 2.025
+EBITDA: -106061000
+Gross Margins: -0.43758
+Operating Margins: 0.25585
+Profit Margins: -0.59459996
+Free Cashflow: -124597624
+Operating Cashflow: -162468000
+Return On Assets: -0.26525
+Return On Equity: -0.81132007
+Total Cash: 146396992
+Total Debt: 37009000
+Debt To Equity: 55.236
+Current Ratio: 5.219
+Quick Ratio: 4.849
+Trailing PE: 
+Forward PE: -1.2990266
+Price To Book: 2.10576
+Beta: 1.389
+52 Week High: 2.485
+52 Week Low: 0.99

@@ -1,0 +1,9 @@
+Company: Aardvark Therapeutics Inc. Common Stock
+Ticker: AARD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://aardvarktherapeutics.com
+Employees: 33
+Business Summary: Aardvark Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing small-molecule therapeutics to activate innate homeostatic pathways for the treatment of metabolic diseases. Its lead product candidate is ARD-101, an oral gut-restricted small-molecule agonist of certain targeting bitter taste receptors expressed in the gut lumen, which is in the Phase 3 clinical trial for hyperphagia associated with Prader-Willi Syndrome, as well as in the Phase 2 clinical trial for hyperphagia associated with acquired hypothalamic obesity resultant from the treatment of craniopharyngioma, including surgery or radiation. The company is also developing ARD-201, which is in the Phase 1 clinical trial for the treatment of obesity. Aardvark Therapeutics, Inc. was incorporated in 2017 and is headquartered in San Diego, California.

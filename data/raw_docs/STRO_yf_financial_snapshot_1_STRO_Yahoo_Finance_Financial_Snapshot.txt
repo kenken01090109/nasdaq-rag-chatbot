@@ -1,0 +1,25 @@
+Company: Sutro Biopharma Inc. Common Stock
+Ticker: STRO
+Market Cap: 414446880
+Enterprise Value: 41621404
+Total Revenue: 105646000
+Revenue Per Share: 12.611
+EBITDA: -128985000
+Gross Margins: 1.36658
+Operating Margins: -4.01331
+Profit Margins: -2.05182
+Free Cashflow: -141903120
+Operating Cashflow: -222534000
+Return On Assets: -0.25804
+Return On Equity: -18.10012
+Total Cash: 167594000
+Total Debt: 17661000
+Debt To Equity: 
+Current Ratio: 2.533
+Quick Ratio: 2.386
+Trailing PE: 
+Forward PE: -2.3395004
+Price To Book: -2.466114
+Beta: 1.483
+52 Week High: 25.555
+52 Week Low: 5.2

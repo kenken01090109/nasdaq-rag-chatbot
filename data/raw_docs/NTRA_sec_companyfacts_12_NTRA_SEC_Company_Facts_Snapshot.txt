@@ -1,0 +1,12 @@
+Company: Natera Inc. Common Stock
+Ticker: NTRA
+CIK: 0001604821
+Latest SEC XBRL Facts:
+Revenues: 157174000 | unit=USD | filed=2017-11-09 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1640615000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -255418000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1821482000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 569294000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1252188000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 141413000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 57042000 | unit=USD | filed=2022-11-09 | period_end=2022-09-30

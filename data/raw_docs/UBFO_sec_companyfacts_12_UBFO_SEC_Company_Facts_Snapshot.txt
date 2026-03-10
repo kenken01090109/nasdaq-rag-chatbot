@@ -1,0 +1,10 @@
+Company: United Security Bancshares Common Stock
+Ticker: UBFO
+CIK: 0001137547
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8874000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1235620000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1098238000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 137382000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18687000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 66767000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

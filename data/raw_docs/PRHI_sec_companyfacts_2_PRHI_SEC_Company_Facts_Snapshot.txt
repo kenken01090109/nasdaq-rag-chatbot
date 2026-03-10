@@ -1,0 +1,11 @@
+Company: Presurance Holdings Inc. Common Stock
+Ticker: PRHI
+CIK: 0001502292
+Latest SEC XBRL Facts:
+Revenues: 38688000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 48912000 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+Assets: 284995000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 259692000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 25303000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1952000 | unit=USD | filed=2024-08-13 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 7414000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

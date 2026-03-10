@@ -1,0 +1,25 @@
+Company: China Natural Resources Inc. Common Stock
+Ticker: CHNR
+Market Cap: 4221463
+Enterprise Value: 3448463
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -6340000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -156415376
+Operating Cashflow: 263000
+Return On Assets: -0.01538
+Return On Equity: -0.04717
+Total Cash: 773000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.147
+Quick Ratio: 0.057
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.33666763
+Beta: 0.158
+52 Week High: 8.2
+52 Week Low: 3.16

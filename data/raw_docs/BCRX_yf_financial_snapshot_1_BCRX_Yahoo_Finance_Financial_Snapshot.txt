@@ -1,0 +1,25 @@
+Company: BioCryst Pharmaceuticals Inc. Common Stock
+Ticker: BCRX
+Market Cap: 2126789120
+Enterprise Value: 2334387200
+Total Revenue: 874836992
+Revenue Per Share: 4.168
+EBITDA: 350791008
+Gross Margins: 0.79319
+Operating Margins: 0.65599996
+Profit Margins: 0.30161
+Free Cashflow: 256420368
+Operating Cashflow: 347368992
+Return On Assets: 0.43215
+Return On Equity: 
+Total Cash: 274747008
+Total Debt: 477328992
+Debt To Equity: 
+Current Ratio: 2.062
+Quick Ratio: 1.946
+Trailing PE: 7.008264
+Forward PE: 10.5735655
+Price To Book: -15.169945
+Beta: 0.759
+52 Week High: 11.31
+52 Week Low: 6.0

@@ -1,0 +1,25 @@
+Company: Raytech Holding Limited Ordinary Shares
+Ticker: RAY
+Market Cap: 13688763
+Enterprise Value: -108655584
+Total Revenue: 73069592
+Revenue Per Share: 48.422
+EBITDA: 
+Gross Margins: 0.25359
+Operating Margins: 0.12489
+Profit Margins: 0.1145
+Free Cashflow: 2154436
+Operating Cashflow: 5146803
+Return On Assets: 0.04348
+Return On Equity: 0.08762
+Total Cash: 121544272
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.065
+Quick Ratio: 4.335
+Trailing PE: 6.133333
+Forward PE: 
+Price To Book: 0.8333484
+Beta: 
+52 Week High: 58.88
+52 Week Low: 1.403

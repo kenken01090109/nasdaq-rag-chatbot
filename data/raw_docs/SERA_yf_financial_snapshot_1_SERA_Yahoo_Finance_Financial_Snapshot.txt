@@ -1,0 +1,25 @@
+Company: Sera Prognostics Inc. Class A Common Stock
+Ticker: SERA
+Market Cap: 75259848
+Enterprise Value: 36331584
+Total Revenue: 95000
+Revenue Per Share: 0.002
+EBITDA: -36172000
+Gross Margins: -0.62105
+Operating Margins: -561.25
+Profit Margins: 0.0
+Free Cashflow: -16543875
+Operating Cashflow: -25763000
+Return On Assets: -0.24698
+Return On Equity: -0.47687
+Total Cash: 43304000
+Total Debt: 2446000
+Debt To Equity: 2.976
+Current Ratio: 1.893
+Quick Ratio: 1.843
+Trailing PE: 
+Forward PE: -2.7857144
+Price To Book: 0.9150634
+Beta: 1.016
+52 Week High: 4.35
+52 Week Low: 1.37

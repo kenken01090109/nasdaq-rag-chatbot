@@ -1,0 +1,25 @@
+Company: PowerBank Corporation Common Stock
+Ticker: SUUN
+Market Cap: 31398836
+Enterprise Value: 92864688
+Total Revenue: 44603000
+Revenue Per Share: 1.266
+EBITDA: -10257000
+Gross Margins: 0.25646
+Operating Margins: -2.91299
+Profit Margins: -0.21892999
+Free Cashflow: -12269518
+Operating Cashflow: -11169000
+Return On Assets: -0.05531
+Return On Equity: -0.2202
+Total Cash: 13643000
+Total Debt: 71725000
+Debt To Equity: 288.469
+Current Ratio: 1.14
+Quick Ratio: 0.588
+Trailing PE: 
+Forward PE: 17.721518
+Price To Book: 1.5896846
+Beta: -0.814
+52 Week High: 4.99
+52 Week Low: 0.6879

@@ -1,0 +1,25 @@
+Company: CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock Series 3
+Ticker: CHSCM
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 35032600576
+Revenue Per Share: 
+EBITDA: 645544000
+Gross Margins: 0.03213
+Operating Margins: 0.01365
+Profit Margins: 0.01752
+Free Cashflow: -1641851904
+Operating Cashflow: 591953024
+Return On Assets: 0.00204
+Return On Equity: 0.05565
+Total Cash: 374694016
+Total Debt: 3689241088
+Debt To Equity: 32.92
+Current Ratio: 1.421
+Quick Ratio: 0.485
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 
+52 Week High: 25.434
+52 Week Low: 23.72

@@ -1,0 +1,7 @@
+Company: Adagio Medical Holdings Inc Common Stock
+Ticker: ADGM
+Business Summary: Adagio Medical Holdings, Inc., a developmental stage medical device company, focuses on the development and commercialization of ablation technologies for the treatment of cardiac arrhythmias. It offers treatment for cardiac arrhythmias, including atrial fibrillation, atrial flutter, and ventricular tachycardia. The company's product portfolio includes iCLAS atrial ultra-low temperature cryoablation (ULTC) catheter and accessories; vCLAS ventricular ULTC catheter; and Cryopulse atrial pulsed-field cryoablation catheter and accessories. Adagio Medical Holdings, Inc. was founded in 2011 and is headquartered in Laguna Hills, California.
+Sector: Healthcare
+Industry: Medical Devices
+Exchange: NCM
+Quote Type: EQUITY

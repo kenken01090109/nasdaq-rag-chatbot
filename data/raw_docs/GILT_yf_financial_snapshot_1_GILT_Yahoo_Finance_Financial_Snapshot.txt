@@ -1,0 +1,25 @@
+Company: Gilat Satellite Networks Ltd. Ordinary Shares
+Ticker: GILT
+Market Cap: 1180796032
+Enterprise Value: 910780864
+Total Revenue: 451656992
+Revenue Per Share: 7.6
+EBITDA: 47091000
+Gross Margins: 0.29523
+Operating Margins: 0.0946
+Profit Margins: 0.045879997
+Free Cashflow: 74450248
+Operating Cashflow: 20675000
+Return On Assets: 0.025039999
+Return On Equity: 0.0515
+Total Cash: 185340000
+Total Debt: 8059000
+Debt To Equity: 1.611
+Current Ratio: 1.837
+Quick Ratio: 1.438
+Trailing PE: 47.470585
+Forward PE: 20.870779
+Price To Book: 2.0993755
+Beta: 0.91
+52 Week High: 20.38
+52 Week Low: 5.3

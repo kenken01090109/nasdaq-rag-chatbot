@@ -1,0 +1,9 @@
+Company: BingEx Limited American Depositary Shares
+Ticker: FLX
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: China
+City: Beijing
+Website: https://www.ishansong.com
+Employees: 1046
+Business Summary: BingEx Limited, through its subsidiaries, engages in the provision of on-demand dedicated courier services under the FlashEx brand name in the People's Republic of China. The company offers Flash-Riders as service who provides the courier services. It serves individual and business customers, including local retailers, restaurants, and logistics players through its mobile platform and website. The company was incorporated in 2014 and is headquartered in Beijing, the People's Republic of China.

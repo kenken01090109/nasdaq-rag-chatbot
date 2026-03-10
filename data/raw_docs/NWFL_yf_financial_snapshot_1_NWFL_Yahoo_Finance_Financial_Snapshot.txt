@@ -1,0 +1,25 @@
+Company: Norwood Financial Corp. Common Stock
+Ticker: NWFL
+Market Cap: 270358336
+Enterprise Value: 298383680
+Total Revenue: 86168000
+Revenue Per Share: 9.345
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.42641
+Profit Margins: 0.32209998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01171
+Return On Equity: 0.12182
+Total Cash: 44436000
+Total Debt: 74133000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.664452
+Forward PE: 7.9156466
+Price To Book: 1.1106869
+Beta: 0.594
+52 Week High: 32.23
+52 Week Low: 21.25

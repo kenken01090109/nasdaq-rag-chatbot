@@ -1,0 +1,25 @@
+Company: FIGX Capital Acquisition Corp. Class A Ordinary Share
+Ticker: FIGX
+Market Cap: 196763712
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -36.51079
+Beta: 
+52 Week High: 10.16
+52 Week Low: 9.95

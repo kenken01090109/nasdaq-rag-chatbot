@@ -1,0 +1,7 @@
+Company: Aurora Cannabis Inc. Common Shares
+Ticker: ACB
+Business Summary: Aurora Cannabis Inc., together with its subsidiaries, engages in the production, distribution, and sale of cannabis and cannabis-derivative products in Canada and internationally. It operates through two segments, Canadian Cannabis and Plant Propagation. The company offers pharmaceutical-grade cannabis products; medical and consumer cannabis products; and engages in the propagation of vegetables and floral plants. It also provides dried and fresh cannabis, cannabis oils, trims, concentrates, ingestibles, capsules, vaporizers, edible cannabis, cannabis extracts, and cannabis topicals; and patient counseling and outreach services. Its brand portfolio includes San Rafael '71, Greybeard, Drift, Daily Special, Being, CanniMed, MedReleaf, Aurora, and WMMC, as well as international brands include Pedanios, Bidiol, IndiMed, and CraftPlant. The company was founded in 2013 and is headquartered in Edmonton, Canada.
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Exchange: NCM
+Quote Type: EQUITY

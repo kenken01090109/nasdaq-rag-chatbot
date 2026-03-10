@@ -1,0 +1,9 @@
+Company: Euroseas Ltd. Common Stock (Marshall Islands)
+Ticker: ESEA
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Marousi
+Website: https://www.euroseas.gr
+Employees: 
+Business Summary: Euroseas Ltd. provides ocean-going transportation services worldwide. The company owns and operates containerships that transport dry and refrigerated containerized cargoes, including manufactured products and perishables. As of April 30, 2025, it had a fleet of 22 containerships with a cargo carrying capacity of approximately 849,404 dwt. Euroseas Ltd. is based in Marousi, Greece.

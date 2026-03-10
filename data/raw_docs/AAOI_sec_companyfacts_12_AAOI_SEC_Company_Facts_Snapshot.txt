@@ -1,0 +1,12 @@
+Company: Applied Optoelectronics Inc. Common Stock
+Ticker: AAOI
+CIK: 0001158114
+Latest SEC XBRL Facts:
+Revenues: 153061000 | unit=USD | filed=2018-08-08 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 321441000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -36206000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 978528000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 419443000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 559085000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -144851000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 136961000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

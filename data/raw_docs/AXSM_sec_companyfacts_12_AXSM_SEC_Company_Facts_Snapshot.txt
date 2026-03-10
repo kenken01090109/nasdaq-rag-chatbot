@@ -1,0 +1,12 @@
+Company: Axsome Therapeutics Inc. Common Stock
+Ticker: AXSM
+CIK: 0001579428
+Latest SEC XBRL Facts:
+Revenues: 31300000 | unit=USD | filed=2023-08-07 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 442497000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -154615000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 669250000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 595523000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 73727000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -74752000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 325272000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

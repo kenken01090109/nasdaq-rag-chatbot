@@ -1,0 +1,25 @@
+Company: TruGolf Holdings Inc. Class A Common Stock
+Ticker: TRUG
+Market Cap: 3590279
+Enterprise Value: -5124613
+Total Revenue: 20542944
+Revenue Per Share: 9.808
+EBITDA: -4747070
+Gross Margins: 0.61646
+Operating Margins: -0.27119
+Profit Margins: -0.93141997
+Free Cashflow: -8706234
+Operating Cashflow: -9045798
+Return On Assets: -0.17066
+Return On Equity: 
+Total Cash: 11435121
+Total Debt: 4369412
+Debt To Equity: 69.831
+Current Ratio: 1.277
+Quick Ratio: 0.912
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.23758368
+Beta: -1.021
+52 Week High: 21.5
+52 Week Low: 0.52

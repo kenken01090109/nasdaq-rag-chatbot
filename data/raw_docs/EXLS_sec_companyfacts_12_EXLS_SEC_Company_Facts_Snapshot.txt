@@ -1,0 +1,11 @@
+Company: ExlService Holdings Inc. Common Stock
+Ticker: EXLS
+CIK: 0001297989
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1545064000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 190773000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 1733632000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 781243000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 952389000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 233336000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 160309000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

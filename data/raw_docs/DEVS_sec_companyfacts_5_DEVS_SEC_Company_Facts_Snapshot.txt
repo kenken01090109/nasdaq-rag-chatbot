@@ -1,0 +1,11 @@
+Company: DevvStream Corp. Common Stock
+Ticker: DEVS
+CIK: 0001854480
+Latest SEC XBRL Facts:
+Revenues: 1100 | unit=USD | filed=2025-12-16 | period_end=2025-10-31
+NetIncomeLoss: -521546 | unit=USD | filed=2025-12-16 | period_end=2025-10-31
+Assets: 8837561 | unit=USD | filed=2025-12-16 | period_end=2025-10-31
+Liabilities: 28170589 | unit=USD | filed=2025-12-16 | period_end=2025-10-31
+StockholdersEquity: -19333028 | unit=USD | filed=2025-12-16 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -3037822 | unit=USD | filed=2025-12-16 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-06 | period_end=2025-07-31

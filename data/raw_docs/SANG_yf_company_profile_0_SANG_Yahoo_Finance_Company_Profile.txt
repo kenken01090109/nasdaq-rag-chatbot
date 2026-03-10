@@ -1,0 +1,9 @@
+Company: Sangoma Technologies Corporation Common Shares
+Ticker: SANG
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Canada
+City: Markham
+Website: https://sangoma.com
+Employees: 645
+Business Summary: Sangoma Technologies Corporation, together with its subsidiaries, develops, manufactures, distributes, and supports voice and data connectivity components for software-based communication applications in the United States of America and internationally. The company offers communications platforms comprising pure cloud and hybrid unified communications as a service, and on-premises systems; retail and wholesale SIP trunking, as well as fax as a service; Sangoma TeamHub, a unified communications and collaboration platform for business productivity; Sangoma Meet, a multi-party video conferencing platform; and Sangoma CX, a cloud-native contact center suite that enables businesses to manage inbound interactions across multiple channels. It also provides productivity apps comprising appointment suite, call flow, curbside, phone monitor, send, and urgent notify; managed security services, such as antispam, web filtering, antivirus, botnet and domain reputation, app control and intrusion prevention system services, and managed firewall device; and network management solutions, including managed internet, VPN, and SD-WAN, as well as secure Wi-Fi access points. In addition, the company offers open-source software products, such as Asterisk, an open-source framework for building real-time and multi-protocol communications applications; FreePBX, a web-based open-source GUI for controlling and managing Asterisk; and PBXact, a commercial UC system. Further, it provides desktop and wireless phones, network connectivity hardware, wireless and wired headsets, accessories, analog and digital telephony cards, session border controllers, VoIP gateways, and interface boards. Sangoma Technologies Corporation is headquartered in Markham, Canada.

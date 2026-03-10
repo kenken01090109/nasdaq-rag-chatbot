@@ -1,0 +1,25 @@
+Company: CoreWeave Inc. Class A Common Stock
+Ticker: CRWV
+Market Cap: 38369976320
+Enterprise Value: 65993986048
+Total Revenue: 5130999808
+Revenue Per Share: 11.795
+EBITDA: 2436999936
+Gross Margins: 0.71682
+Operating Margins: -0.056989998
+Profit Margins: -0.22744
+Free Cashflow: -4622750208
+Operating Cashflow: 3057999872
+Return On Assets: -0.00032000002
+Return On Equity: -0.50269
+Total Cash: 3160999936
+Total Debt: 29823000576
+Debt To Equity: 894.243
+Current Ratio: 0.455
+Quick Ratio: 0.385
+Trailing PE: 
+Forward PE: -195.75186
+Price To Book: 10.987505
+Beta: 
+52 Week High: 187.0
+52 Week Low: 33.515

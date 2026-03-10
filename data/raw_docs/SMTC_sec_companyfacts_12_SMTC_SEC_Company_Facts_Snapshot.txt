@@ -1,0 +1,10 @@
+Company: Semtech Corporation Common Stock
+Ticker: SMTC
+CIK: 0000088941
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 775620000 | unit=USD | filed=2025-11-25 | period_end=2025-10-26
+NetIncomeLoss: -10581000 | unit=USD | filed=2025-11-25 | period_end=2025-10-26
+Assets: 1405873000 | unit=USD | filed=2025-11-25 | period_end=2025-10-26
+StockholdersEquity: 568815000 | unit=USD | filed=2025-05-29 | period_end=2025-04-27
+NetCashProvidedByUsedInOperatingActivities: 119681000 | unit=USD | filed=2025-11-25 | period_end=2025-10-26
+CashAndCashEquivalentsAtCarryingValue: 164670000 | unit=USD | filed=2025-11-25 | period_end=2025-10-26

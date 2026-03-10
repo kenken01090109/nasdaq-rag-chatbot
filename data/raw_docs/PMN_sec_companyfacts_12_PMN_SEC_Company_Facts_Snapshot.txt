@@ -1,0 +1,10 @@
+Company: ProMIS Neurosciences Inc. Common Shares (ON)
+Ticker: PMN
+CIK: 0001374339
+Latest SEC XBRL Facts:
+NetIncomeLoss: -29045059 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 21458147 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 12270792 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 9187355 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18836673 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15399165 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

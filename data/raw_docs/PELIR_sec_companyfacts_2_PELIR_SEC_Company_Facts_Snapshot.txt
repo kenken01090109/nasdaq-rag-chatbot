@@ -1,0 +1,9 @@
+Company: Pelican Acquisition Corporation Right
+Ticker: PELIR
+CIK: 0002037431
+Latest SEC XBRL Facts:
+NetIncomeLoss: 514636 | unit=USD | filed=2025-12-19 | period_end=2025-10-31
+Assets: 88054474 | unit=USD | filed=2025-12-19 | period_end=2025-10-31
+Liabilities: 311250 | unit=USD | filed=2025-12-19 | period_end=2025-10-31
+StockholdersEquity: -31246 | unit=USD | filed=2025-12-19 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -827919 | unit=USD | filed=2025-12-19 | period_end=2025-10-31

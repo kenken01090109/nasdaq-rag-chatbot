@@ -1,0 +1,25 @@
+Company: ScanSource Inc. Common Stock
+Ticker: SCSC
+Market Cap: 794099200
+Enterprise Value: 839580096
+Total Revenue: 3023895040
+Revenue Per Share: 134.845
+EBITDA: 123311000
+Gross Margins: 0.13746999
+Operating Margins: 0.025729999
+Profit Margins: 0.02444
+Free Cashflow: 99033872
+Operating Cashflow: 127759000
+Return On Assets: 0.03505
+Return On Equity: 0.08158
+Total Cash: 83466000
+Total Debt: 113880000
+Debt To Equity: 12.502
+Current Ratio: 1.962
+Quick Ratio: 1.037
+Trailing PE: 11.169753
+Forward PE: 7.84607
+Price To Book: 0.8599876
+Beta: 1.284
+52 Week High: 46.25
+52 Week Low: 28.75

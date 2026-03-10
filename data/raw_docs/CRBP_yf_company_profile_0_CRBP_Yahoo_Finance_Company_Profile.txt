@@ -1,0 +1,9 @@
+Company: Corbus Pharmaceuticals Holdings Inc. Common Stock
+Ticker: CRBP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Norwood
+Website: https://www.corbuspharma.com
+Employees: 28
+Business Summary: Corbus Pharmaceuticals Holdings, Inc., a biopharmaceutical company, develops products to defeat serious illness. It develops CRB-701, an antibody drug conjugate (ADC) that targets the expression of Nectin-4 on cancer cells to release a cytotoxic payload of monomethyl auristatin E (MMAE), which is in Phase I clinical trial; CRB-601, an anti-integrin monoclonal antibody that blocks the activation of TGFß expressed on cancer cells for the treatment of solid tumors; CRB-913, a highly peripherally restricted cannabinoid type-1 (CB1) receptor inverse agonist for the treatment of obesity. It has a licensing agreement with Jenrin Discovery, LLC to develop and commercialize the licensed products, including the Jenrin library of approximately 600 compounds, and multiple issued and pending patent filings. The company was incorporated in 2009 and is based in Norwood, Massachusetts.

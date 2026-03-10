@@ -1,0 +1,10 @@
+Company: Aclaris Therapeutics Inc. Common Stock
+Ticker: ACRS
+Market Cap: 338037152
+Enterprise Value: 287621984
+Trailing PE: 
+Forward PE: -3.8999999
+Price To Book: 3.6491225
+Beta: 0.868
+52 Week High: 4.89
+52 Week Low: 1.05

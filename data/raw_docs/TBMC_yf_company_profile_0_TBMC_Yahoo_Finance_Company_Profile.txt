@@ -1,0 +1,9 @@
+Company: Trailblazer Merger Corporation I Class A Common Stock
+Ticker: TBMC
+Sector: Financial Services
+Industry: Shell Companies
+Country: United States
+City: New York
+Website: 
+Employees: 
+Business Summary: Trailblazer Holdings, Inc. focuses on combating disinformation by leveraging artificial intelligence (AI) and machine learning (ML) technologies to monitor and analyse online conversations in real-time. Its platform collects publicly available data from social media and news sites and applies its proprietary algorithms to assess authenticity and sentiment, enabling to identify fake accounts, uncover harmful narratives, detect GenAI text and images, and filter between real and fake profiles, helping customers protect brand reputation and ensure the authenticity of online discourse. Trailblazer Holdings, Inc. was founded in 2017 and is based in New York, New York.

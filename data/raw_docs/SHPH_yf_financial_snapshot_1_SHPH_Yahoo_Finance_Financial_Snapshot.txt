@@ -1,0 +1,25 @@
+Company: Shuttle Pharmaceuticals Holdings Inc. Common Stock
+Ticker: SHPH
+Market Cap: 2984306
+Enterprise Value: -34858
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -10902884
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6896274
+Operating Cashflow: -11198795
+Return On Assets: -3.2330499
+Return On Equity: -271.76184
+Total Cash: 2094643
+Total Debt: 667331
+Debt To Equity: 47.866
+Current Ratio: 1.662
+Quick Ratio: 1.066
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.8129432
+Beta: 0.59
+52 Week High: 13.625
+52 Week Low: 0.8

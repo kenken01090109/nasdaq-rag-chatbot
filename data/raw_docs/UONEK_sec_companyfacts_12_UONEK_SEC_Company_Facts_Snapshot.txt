@@ -1,0 +1,11 @@
+Company: Urban One Inc. Class D Common Stock
+Ticker: UONEK
+CIK: 0001041657
+Latest SEC XBRL Facts:
+Revenues: 220020000 | unit=USD | filed=2019-11-12 | period_end=2019-06-30
+NetIncomeLoss: -92474000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 723476000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 642058000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 78832000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8129000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 79325000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

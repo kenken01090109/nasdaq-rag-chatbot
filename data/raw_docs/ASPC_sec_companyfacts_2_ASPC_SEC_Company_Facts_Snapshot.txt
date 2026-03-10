@@ -1,0 +1,10 @@
+Company: A SPAC III Acquisition Corp. Class A Ordinary Shares
+Ticker: ASPC
+CIK: 0001890361
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1273493 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 63360882 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 529565 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 975004 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -260037 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1062632 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

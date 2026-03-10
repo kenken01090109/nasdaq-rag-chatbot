@@ -1,0 +1,12 @@
+Company: Talen Energy Corporation Common Stock
+Ticker: TLN
+CIK: 0001622536
+Latest SEC XBRL Facts:
+Revenues: 1832000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1760000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 144000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 6097000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 4628000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1469000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 424000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 497000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

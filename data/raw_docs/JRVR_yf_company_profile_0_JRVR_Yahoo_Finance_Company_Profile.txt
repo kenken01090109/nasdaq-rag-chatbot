@@ -1,0 +1,9 @@
+Company: James River Group Holdings Inc. Common Stock
+Ticker: JRVR
+Sector: Financial Services
+Industry: Insurance - Specialty
+Country: United States
+City: Chapel Hill
+Website: https://jrvrgroup.com
+Employees: 
+Business Summary: James River Group Holdings, Inc. provides specialty insurance services. It operates in Excess and Surplus Lines, and Specialty Admitted Insurance segments. The Excess and Surplus Lines segment offers commercial excess and surplus lines liability and excess property insurance products in the United States, Puerto Rico, and the United States Virgin Islands. This segment distributes its insurance policies primarily through wholesale insurance brokers. The Specialty Admitted Insurance segment provides insurance for fronting, program administrators, and managing general agents. The company was founded in 2002 and is based in Chapel Hill, North Carolina.

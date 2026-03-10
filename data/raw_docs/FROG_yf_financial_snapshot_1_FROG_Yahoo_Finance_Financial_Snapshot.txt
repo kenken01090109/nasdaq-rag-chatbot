@@ -1,0 +1,25 @@
+Company: JFrog Ltd. Ordinary Shares
+Ticker: FROG
+Market Cap: 4855738368
+Enterprise Value: 4224791040
+Total Revenue: 531840000
+Revenue Per Share: 4.577
+EBITDA: -61012000
+Gross Margins: 0.76788
+Operating Margins: -0.13675
+Profit Margins: -0.13504
+Free Cashflow: 174897120
+Operating Cashflow: 145728992
+Return On Assets: -0.04325
+Return On Equity: -0.08648
+Total Cash: 704414016
+Total Debt: 12456000
+Debt To Equity: 1.404
+Current Ratio: 2.142
+Quick Ratio: 2.023
+Trailing PE: 
+Forward PE: 37.08712
+Price To Book: 5.4710875
+Beta: 1.263
+52 Week High: 70.43
+52 Week Low: 27.0

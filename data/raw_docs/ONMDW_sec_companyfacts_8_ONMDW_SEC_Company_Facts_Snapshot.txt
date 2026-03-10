@@ -1,0 +1,12 @@
+Company: OneMedNet Corp Warrant
+Ticker: ONMDW
+CIK: 0001849380
+Latest SEC XBRL Facts:
+Revenues: 468000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 468000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 339000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1506000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5445000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -3939000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5790000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 149000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

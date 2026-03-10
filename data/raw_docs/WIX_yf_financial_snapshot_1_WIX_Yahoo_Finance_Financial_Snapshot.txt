@@ -1,0 +1,25 @@
+Company: Wix.com Ltd. Ordinary Shares
+Ticker: WIX
+Market Cap: 5228380160
+Enterprise Value: 5512697344
+Total Revenue: 1993043968
+Revenue Per Share: 35.878
+EBITDA: 33410000
+Gross Margins: 0.68082
+Operating Margins: -0.13841
+Profit Margins: 0.025409998
+Free Cashflow: 446126752
+Operating Cashflow: 582857984
+Return On Assets: 0.00054000004
+Return On Equity: 
+Total Cash: 1180494976
+Total Debt: 1586609024
+Debt To Equity: 
+Current Ratio: 1.19
+Quick Ratio: 1.098
+Trailing PE: 39.7839
+Forward PE: 11.523554
+Price To Book: -14.095482
+Beta: 1.46
+52 Week High: 191.24
+52 Week Low: 60.22

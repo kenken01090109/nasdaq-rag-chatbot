@@ -1,0 +1,25 @@
+Company: Kaltura Inc. Common Stock
+Ticker: KLTR
+Market Cap: 234827056
+Enterprise Value: 211637584
+Total Revenue: 180920992
+Revenue Per Share: 1.181
+EBITDA: -1570000
+Gross Margins: 0.70176005
+Operating Margins: -0.022820001
+Profit Margins: -0.10005
+Free Cashflow: 20273624
+Operating Cashflow: 15206000
+Return On Assets: -0.02201
+Return On Equity: -0.86455
+Total Cash: 72201000
+Total Debt: 47774000
+Debt To Equity: 269.377
+Current Ratio: 1.117
+Quick Ratio: 0.918
+Trailing PE: 
+Forward PE: 27.636364
+Price To Book: 13.333333
+Beta: 1.064
+52 Week High: 2.325
+52 Week Low: 1.21

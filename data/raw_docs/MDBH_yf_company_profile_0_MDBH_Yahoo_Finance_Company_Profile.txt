@@ -1,0 +1,9 @@
+Company: MDB Capital Holdings LLC Class A common
+Ticker: MDBH
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Addison
+Website: https://www.mdb.com
+Employees: 16
+Business Summary: MDB Capital Holdings, LLC, through its subsidiaries, primarily operates as a broker-dealer. The company operates in two segments, Broker Dealer & Intellectual Property Service, and Technology Development. The Broker Dealer & Intellectual Property Service segment operates as a full-service broker dealer firm that focuses on conducting private and public securities offerings, as well as providing research services for investment banking due diligence. The Technology Development segment develops a small molecule senescence platform. The company was founded in 1997 and is based in Addison, Texas.

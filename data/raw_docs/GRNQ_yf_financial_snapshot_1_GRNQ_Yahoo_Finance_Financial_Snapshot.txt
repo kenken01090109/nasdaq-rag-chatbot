@@ -1,0 +1,25 @@
+Company: Greenpro Capital Corp. Common Stock
+Ticker: GRNQ
+Market Cap: 16226915
+Enterprise Value: 13891816
+Total Revenue: 3110208
+Revenue Per Share: 0.399
+EBITDA: -1087070
+Gross Margins: 0.85055
+Operating Margins: -1.3237801
+Profit Margins: -0.41147998
+Free Cashflow: -866779
+Operating Cashflow: -1349154
+Return On Assets: -0.119729996
+Return On Equity: -0.27833
+Total Cash: 775388
+Total Debt: 55914
+Debt To Equity: 1.291
+Current Ratio: 1.406
+Quick Ratio: 1.001
+Trailing PE: 
+Forward PE: -24.857143
+Price To Book: 3.3526013
+Beta: 1.533
+52 Week High: 2.5
+52 Week Low: 0.835

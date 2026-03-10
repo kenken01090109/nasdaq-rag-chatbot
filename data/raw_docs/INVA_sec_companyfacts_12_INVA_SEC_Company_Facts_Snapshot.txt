@@ -1,0 +1,11 @@
+Company: Innoviva Inc. Common Stock
+Ticker: INVA
+CIK: 0001080014
+Latest SEC XBRL Facts:
+Revenues: 119466000 | unit=USD | filed=2018-07-26 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 296715000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 4435000 | unit=USD | filed=2016-05-05 | period_end=2016-03-31
+Assets: 1429106000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1172841000 | unit=USD | filed=2026-02-25 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 142417000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 476513000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

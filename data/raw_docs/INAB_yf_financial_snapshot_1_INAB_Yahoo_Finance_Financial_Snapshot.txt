@@ -1,0 +1,25 @@
+Company: IN8bio Inc. Common Stock
+Ticker: INAB
+Market Cap: 16797748
+Enterprise Value: 331849
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -19160000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -7396500
+Operating Cashflow: -14601000
+Return On Assets: -0.8039
+Return On Equity: -1.89723
+Total Cash: 10689000
+Total Debt: 2957000
+Debt To Equity: 22.42
+Current Ratio: 6.91
+Quick Ratio: 6.277
+Trailing PE: 
+Forward PE: -1.0
+Price To Book: 0.598469
+Beta: 0.004
+52 Week High: 7.86
+52 Week Low: 1.17

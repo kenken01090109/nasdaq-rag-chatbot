@@ -1,0 +1,25 @@
+Company: Veea Inc. Warrant
+Ticker: VEEAW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 265590
+Revenue Per Share: 0.007
+EBITDA: -27776388
+Gross Margins: 0.68463
+Operating Margins: -23.73164
+Profit Margins: 0.0
+Free Cashflow: 12867481
+Operating Cashflow: -17280172
+Return On Assets: -0.47449002
+Return On Equity: 
+Total Cash: 1071151
+Total Debt: 17312816
+Debt To Equity: 
+Current Ratio: 0.575
+Quick Ratio: 0.043
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.63058823
+Beta: 0.222
+52 Week High: 0.0999
+52 Week Low: 0.0534

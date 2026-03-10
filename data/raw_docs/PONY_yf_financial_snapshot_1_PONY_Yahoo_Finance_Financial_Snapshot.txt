@@ -1,0 +1,25 @@
+Company: Pony AI Inc. American Depositary Shares
+Ticker: PONY
+Market Cap: 5443147776
+Enterprise Value: 4817373696
+Total Revenue: 96392000
+Revenue Per Share: 0.3
+EBITDA: -356206752
+Gross Margins: 0.18574
+Operating Margins: -2.23933
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -167362000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 444660000
+Total Debt: 15131000
+Debt To Equity: 1.863
+Current Ratio: 7.041
+Quick Ratio: 6.268
+Trailing PE: 
+Forward PE: -23.172476
+Price To Book: 6.002886
+Beta: 
+52 Week High: 24.92
+52 Week Low: 4.11

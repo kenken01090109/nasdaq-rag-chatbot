@@ -1,0 +1,10 @@
+Company: Cognition Therapeutics Inc. Common Stock
+Ticker: CGTX
+CIK: 0001455365
+Latest SEC XBRL Facts:
+NetIncomeLoss: -20144000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 43395000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6866000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 36529000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -21151000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 39334000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

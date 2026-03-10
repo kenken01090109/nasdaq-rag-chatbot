@@ -1,0 +1,12 @@
+Company: Geron Corporation Common Stock
+Ticker: GERN
+CIK: 0000886744
+Latest SEC XBRL Facts:
+Revenues: 1065000 | unit=USD | filed=2018-03-16 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 135866000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -54638000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 567382000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 344668000 | unit=USD | filed=2026-03-02 | period_end=2025-12-31
+StockholdersEquity: 248707000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -88970000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 78117000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

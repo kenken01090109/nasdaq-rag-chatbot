@@ -1,0 +1,10 @@
+Company: Autodesk Inc. Common Stock
+Ticker: ADSK
+Market Cap: 55993438208
+Enterprise Value: 55866318848
+Trailing PE: 50.500954
+Forward PE: 18.754406
+Price To Book: 18.388916
+Beta: 1.467
+52 Week High: 329.09
+52 Week Low: 215.01

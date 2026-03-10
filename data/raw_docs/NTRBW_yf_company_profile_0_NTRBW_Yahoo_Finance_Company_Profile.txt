@@ -1,0 +1,9 @@
+Company: Nutriband Inc. Warrant
+Ticker: NTRBW
+Sector: 
+Industry: 
+Country: United States
+City: Orlando
+Website: https://www.nutriband.com
+Employees: 
+Business Summary: Nutriband Inc. develops a portfolio of transdermal pharmaceutical products in the United States. The company's lead product in development is AVERSA fentanyl, an abuse deterrent fentanyl transdermal system that provides clinicians and patients with an extended-release transdermal fentanyl product for use in managing chronic pain requiring around the clock opioid therapy. It also develops AVERSA buprenorphine and AVERSA methylphenidate, and other transdermal pharmaceutical products. The company has commercial development and clinical supply agreement with Kindeva Drug Delivery. The company was incorporated in 2016 and is headquartered in Orlando, Florida.

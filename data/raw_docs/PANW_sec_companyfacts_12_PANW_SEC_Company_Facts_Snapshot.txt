@@ -1,0 +1,12 @@
+Company: Palo Alto Networks Inc. Common Stock
+Ticker: PANW
+CIK: 0001327567
+Latest SEC XBRL Facts:
+Revenues: 2273100000 | unit=USD | filed=2018-09-13 | period_end=2018-07-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5068000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+NetIncomeLoss: 766000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+Assets: 24979000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+Liabilities: 15586000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+StockholdersEquity: 9393000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 2325000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 4158000000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31

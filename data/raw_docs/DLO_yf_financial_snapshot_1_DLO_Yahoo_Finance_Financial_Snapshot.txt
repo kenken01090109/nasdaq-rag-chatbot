@@ -1,0 +1,25 @@
+Company: DLocal Limited Class A Common Shares
+Ticker: DLO
+Market Cap: 3421786880
+Enterprise Value: 2819138048
+Total Revenue: 960190976
+Revenue Per Share: 3.327
+EBITDA: 203136000
+Gross Margins: 0.38603002
+Operating Margins: 0.19679001
+Profit Margins: 0.17803
+Free Cashflow: 115538376
+Operating Cashflow: 173912992
+Return On Assets: 0.09664
+Return On Equity: 0.35556
+Total Cash: 725176000
+Total Debt: 66792000
+Debt To Equity: 13.235
+Current Ratio: 1.456
+Quick Ratio: 1.372
+Trailing PE: 20.732141
+Forward PE: 13.208641
+Price To Book: 6.769679
+Beta: 1.109
+52 Week High: 16.78
+52 Week Low: 7.61

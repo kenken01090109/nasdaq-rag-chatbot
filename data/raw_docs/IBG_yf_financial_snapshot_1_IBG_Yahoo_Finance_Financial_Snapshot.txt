@@ -1,0 +1,25 @@
+Company: Innovation Beverage Group Limited Ordinary Shares
+Ticker: IBG
+Market Cap: 3838185
+Enterprise Value: 9988296
+Total Revenue: 2931243
+Revenue Per Share: 8.827
+EBITDA: -2502186
+Gross Margins: 0.76142
+Operating Margins: -1.21971
+Profit Margins: -0.87722
+Free Cashflow: -1018082
+Operating Cashflow: -1575298
+Return On Assets: -0.32681
+Return On Equity: -1.59335
+Total Cash: 188393
+Total Debt: 719058
+Debt To Equity: 26.872
+Current Ratio: 1.136
+Quick Ratio: 0.279
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.5439606
+Beta: 
+52 Week High: 49.25
+52 Week Low: 3.265

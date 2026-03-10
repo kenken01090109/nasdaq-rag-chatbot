@@ -1,0 +1,9 @@
+Company: Wellgistics Health Inc. Common Stock
+Ticker: WGRX
+Sector: Healthcare
+Industry: Pharmaceutical Retailers
+Country: United States
+City: Tampa
+Website: https://www.wellgisticshealth.com
+Employees: 
+Business Summary: Wellgistics Health, Inc. engages in the wholesale and distribution of pharmaceutical products to pharmaceutical manufacturers and independent retail pharmacies in the United States. The company distributes generic and branded pharmaceuticals, as well as over-the-counter healthcare and consumer products. It also offers third-party logistics services that include warehousing, inventory management, pick and pack, and shipping to small and mid-size pharmaceutical manufacturers. It also operates DelivMeds platform that serves as a pharmaceutical hub to facilitate the transfer of prescriptions and provide backend clinical concierge services to a network of independent pharmacies; and operates a retail community specialty. The company was formerly known as Danam Health, Inc. and changed its name to Wellgistics Health, Inc. in October 2024. Wellgistics Health, Inc. was incorporated in 2022 and is based in Tampa, Florida.

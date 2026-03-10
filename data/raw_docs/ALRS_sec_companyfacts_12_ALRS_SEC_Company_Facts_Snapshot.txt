@@ -1,0 +1,10 @@
+Company: Alerus Financial Corporation Common Stock
+Ticker: ALRS
+CIK: 0000903419
+Latest SEC XBRL Facts:
+NetIncomeLoss: 50491000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 5330573000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 4779885000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 550688000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51190000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 92043000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

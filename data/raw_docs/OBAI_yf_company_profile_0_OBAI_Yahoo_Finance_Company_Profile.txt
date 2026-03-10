@@ -1,0 +1,9 @@
+Company: Our Bond Inc. Common Stock
+Ticker: OBAI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: New York
+Website: https://www.ourbond.com
+Employees: 52
+Business Summary: Our Bond, Inc., doing business as Bond, designs, develops, and provides artificial intelligence (AI) and machine learning (ML)-based data processing software in the United States and internationally. The company's platform uses AI and ML for native language processing (NLP) and also offers real-time processing of large amounts of data. Bond provides technology, services, and personal security agents; they offer preventative personal security, executive protection and guarding, and air guardian services, as well as consulting services. The company was formerly known as TG-17, Inc. and change its name to TG-17, Inc. in February 2026. Our Bond, Inc. was incorporated in 2017 and is based in New York, New York.

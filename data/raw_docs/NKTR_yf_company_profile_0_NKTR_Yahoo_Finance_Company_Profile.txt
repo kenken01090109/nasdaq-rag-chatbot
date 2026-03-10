@@ -1,0 +1,9 @@
+Company: Nektar Therapeutics  Common Stock
+Ticker: NKTR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Francisco
+Website: https://www.nektar.com
+Employees: 61
+Business Summary: Nektar Therapeutics, a biopharmaceutical company, focuses on discovering and developing therapies that selectively modulate the immune system to treat autoimmune disorders in the United States and internationally. It develops NKTR-358, a regulatory T (Treg) cell stimulator designed to address the imbalance in the immune system underlying autoimmune disorders and chronic inflammatory conditions; PEG-CSF1, a polyethylene glycol (PEG) modified hematopoietic colony stimulating factor protein that is engineered to selectively modulate resolution processes of inflammation and has applications in a number of therapeutic indications, including acute and chronic inflammation; Tumor necrosis factor (TNF) receptor type II (TNFR2) agonist asset is a bivalent antibody molecule used to selectively stimulate TNFR2 receptor activity, without modulation of the TNFR1 signaling; and NKTR-255, an IL-15 receptor agonist designed to boost the immune system's natural ability to fight cancer. It has collaboration agreements with Takeda Pharmaceutical Company Ltd.; AstraZeneca AB; UCB Pharma; F. Hoffmann-La Roche Ltd; Bausch Health Companies Inc.; Pfizer Inc.; UCB Pharma (Biogen); Bristol-Myers Squibb Company; Merck KGaA; and SFJ Pharmaceuticals, Inc. The company was incorporated in 1990 and is headquartered in San Francisco, California.

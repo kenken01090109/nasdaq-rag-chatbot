@@ -1,0 +1,25 @@
+Company: Surgery Partners Inc. Common Stock
+Ticker: SGRY
+Market Cap: 1728006144
+Enterprise Value: 7325506560
+Total Revenue: 3308699904
+Revenue Per Share: 26.01
+EBITDA: 655500032
+Gross Margins: 0.23121001
+Operating Margins: 0.15085
+Profit Margins: -0.023540001
+Free Cashflow: 164712496
+Operating Cashflow: 274300000
+Return On Assets: 0.03744
+Return On Equity: 0.02762
+Total Cash: 239900000
+Total Debt: 4038599936
+Debt To Equity: 114.512
+Current Ratio: 1.87
+Quick Ratio: 1.368
+Trailing PE: 
+Forward PE: 28.176737
+Price To Book: 0.999252
+Beta: 1.939
+52 Week High: 24.6
+52 Week Low: 12.25

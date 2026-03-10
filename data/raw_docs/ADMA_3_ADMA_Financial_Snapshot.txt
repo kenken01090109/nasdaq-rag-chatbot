@@ -1,0 +1,12 @@
+Company: ADMA Biologics Inc Common Stock
+Ticker: ADMA
+Total Revenue: 510172992
+Revenue Per Share: 2.141
+Gross Margins: 0.57385
+Operating Margins: 0.45092
+EBITDA: 199539008
+Profit Margins: 0.288
+Free Cashflow: -18154876
+Operating Cashflow: 50396000
+Return On Assets: 0.21502
+Return On Equity: 0.35562

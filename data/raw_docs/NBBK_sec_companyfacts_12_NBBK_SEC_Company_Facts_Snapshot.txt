@@ -1,0 +1,9 @@
+Company: NB Bancorp Inc. Common Stock
+Ticker: NBBK
+CIK: 0001979330
+Latest SEC XBRL Facts:
+NetIncomeLoss: 42596000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 5442390000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 4705356000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 737034000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 61232000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

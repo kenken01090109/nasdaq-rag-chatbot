@@ -1,0 +1,12 @@
+Company: The Cooper Companies Inc. Common Stock
+Ticker: COO
+CIK: 0000711404
+Latest SEC XBRL Facts:
+Revenues: 1282400000 | unit=USD | filed=2019-05-31 | period_end=2019-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1024100000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+NetIncomeLoss: 130800000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+Assets: 12424200000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+Liabilities: 4060200000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+StockholdersEquity: 8363800000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 260900000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 124900000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31

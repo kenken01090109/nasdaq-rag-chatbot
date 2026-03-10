@@ -1,0 +1,10 @@
+Company: Alchemy Investments Acquisition Corp 1 Class A Ordinary Shares
+Ticker: ALCY
+Market Cap: 49612840
+Enterprise Value: 51003568
+Trailing PE: 
+Forward PE: 
+Price To Book: -6.1056447
+Beta: -0.045
+52 Week High: 15.9
+52 Week Low: 10.25

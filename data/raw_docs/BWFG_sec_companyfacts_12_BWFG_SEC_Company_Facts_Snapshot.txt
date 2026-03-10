@@ -1,0 +1,11 @@
+Company: Bankwell Financial Group Inc. Common Stock
+Ticker: BWFG
+CIK: 0001505732
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2055000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 26054000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3243963000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2951172000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 292791000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20726000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 85987000 | unit=USD | filed=2017-08-09 | period_end=2017-06-30

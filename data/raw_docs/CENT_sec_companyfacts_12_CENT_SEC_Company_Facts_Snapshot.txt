@@ -1,0 +1,11 @@
+Company: Central Garden & Pet Company Common Stock
+Ticker: CENT
+CIK: 0000887733
+Latest SEC XBRL Facts:
+Revenues: 3129100000 | unit=USD | filed=2025-11-26 | period_end=2025-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 617373000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+NetIncomeLoss: 6841000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+Assets: 3643427000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+StockholdersEquity: 1575416000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: -70222000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 721150000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27

@@ -1,0 +1,10 @@
+Company: First Bancorp Inc  (ME) Common Stock
+Ticker: FNLC
+CIK: 0000765207
+Latest SEC XBRL Facts:
+NetIncomeLoss: 24222000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3198478000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2923912000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 274566000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22448000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14433000 | unit=USD | filed=2020-03-06 | period_end=2019-12-31

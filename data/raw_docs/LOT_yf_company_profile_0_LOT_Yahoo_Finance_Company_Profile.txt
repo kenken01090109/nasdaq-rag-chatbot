@@ -1,0 +1,9 @@
+Company: Lotus Technology Inc. American Depositary Shares
+Ticker: LOT
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: China
+City: Shanghai
+Website: https://ir.group-lotus.com
+Employees: 1996
+Business Summary: Lotus Technology Inc. engages in the design, development, and sale of battery electric lifestyle vehicles worldwide. It distributes sports cars. The company sells its products under the Lotus brand. Lotus Technology Inc. is based in Shanghai, China.

@@ -1,0 +1,9 @@
+Company: Lianhe Sowell International Group Ltd Class A Ordinary Shares
+Ticker: LHSW
+Sector: Technology
+Industry: Software - Infrastructure
+Country: China
+City: Shenzhen
+Website: 
+Employees: 50
+Business Summary: Lianhe Sowell International Group Ltd, through its subsidiaries, engages in the provision of machine vision products and solutions in China. It offers industrial machine vision products; artificial intelligence products, such as face recognition and AI behavior analysis; intelligent weak current products, including building intelligence and intelligent transportation; and electronic customs clearance systems to manufacturing, transportation, security, and building management industries. The company also provides nine-axis linkage spray painting robots for vehicle repair and maintenance industries. In addition, it offers enterprise management services; develops software; and trades in electronic products. Lianhe Sowell International Group Ltd was founded in 2007 and is based in Shenzhen, China.

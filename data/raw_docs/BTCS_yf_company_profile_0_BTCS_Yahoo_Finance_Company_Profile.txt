@@ -1,0 +1,9 @@
+Company: BTCS Inc. Common Stock
+Ticker: BTCS
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Silver Spring
+Website: https://www.btcs.com
+Employees: 7
+Business Summary: BTCS Inc., a blockchain technology company, provides blockchain infrastructure services in the United States. The company operates a network of cloud-based validator nodes that perform essential roles in proof-of-stake and delegated proof-of-stake blockchain ecosystems. It also offers Builder+, an Ethereum block-building operation that leverages algorithms to construct high-value blocks; NodeOps, a staking-as-a-service; ChainQ, an AI-powered blockchain data and analytics platform; and custody and key storage products. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. was founded in 2013 and is based in Silver Spring, Maryland.

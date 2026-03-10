@@ -1,0 +1,9 @@
+Company: Datasea Inc. Common Stock
+Ticker: DTSS
+Sector: Technology
+Industry: Software - Infrastructure
+Country: China
+City: Beijing
+Website: https://www.dataseainc.com
+Employees: 39
+Business Summary: Datasea Inc., together with its subsidiaries, provides advanced acoustic products and solutions to businesses and individual users worldwide. It operates through Acoustic High-Tech and AI Multimodal Digitalization segment. The company offers smart city solutions for residential communities, schools, and commercial enterprises; and 5G messaging services, including 5G SMS, 5G MMCP, and 5G multi-media video messaging. It also provides its smart security solutions primarily to schools, tourist or scenic attractions, and public communities. In addition, the company offers acoustics health products, which include ultrasonic air sterilizers, ultrasonic cleaning devices, non-contact sleep aid devices, and medical beauty devices; ultrasonic disinfectors and purifiers for restrooms, bedrooms, living rooms, kitchens, and pets; and non-contact ultrasonic skin repair devices. Further, it provides digital rural, new media marketing, and AI multimodal services for small and medium enterprises. It sells its products through multi-channels. The company was formerly known as Rose Rock, Inc. and changed its name to Datasea Inc. in October 2015. Datasea Inc. was incorporated in 2014 and is headquartered in Beijing, the People's Republic of China.

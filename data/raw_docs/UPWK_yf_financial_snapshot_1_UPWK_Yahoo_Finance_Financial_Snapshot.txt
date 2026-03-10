@@ -1,0 +1,25 @@
+Company: Upwork Inc. Common Stock
+Ticker: UPWK
+Market Cap: 1731177216
+Enterprise Value: 1425905792
+Total Revenue: 787784000
+Revenue Per Share: 5.946
+EBITDA: 145416992
+Gross Margins: 0.77817
+Operating Margins: 0.1426
+Profit Margins: 0.14652
+Free Cashflow: 182958880
+Operating Cashflow: 248259008
+Return On Assets: 0.06656
+Return On Equity: 0.19147
+Total Cash: 672780992
+Total Debt: 371148992
+Debt To Equity: 58.883
+Current Ratio: 1.462
+Quick Ratio: 1.152
+Trailing PE: 15.77381
+Forward PE: 7.640234
+Price To Book: 2.7444077
+Beta: 1.129
+52 Week High: 22.84
+52 Week Low: 11.13

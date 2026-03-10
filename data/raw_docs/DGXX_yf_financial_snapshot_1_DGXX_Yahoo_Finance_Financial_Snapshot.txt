@@ -1,0 +1,25 @@
+Company: Digi Power X Inc. Subordinate Voting Shares
+Ticker: DGXX
+Market Cap: 177658960
+Enterprise Value: 172229632
+Total Revenue: 31170888
+Revenue Per Share: 0.841
+EBITDA: -9718783
+Gross Margins: 0.042150002
+Operating Margins: -0.35924
+Profit Margins: -0.39253
+Free Cashflow: -13117233
+Operating Cashflow: -31830648
+Return On Assets: -0.26222
+Return On Equity: -0.34344003
+Total Cash: 6214078
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.572
+Quick Ratio: 1.398
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.7954779
+Beta: 7.006
+52 Week High: 6.78
+52 Week Low: 0.85

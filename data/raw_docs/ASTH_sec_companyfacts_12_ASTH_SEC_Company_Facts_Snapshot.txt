@@ -1,0 +1,12 @@
+Company: Astrana Health Inc. Common Stock
+Ticker: ASTH
+CIK: 0001083446
+Latest SEC XBRL Facts:
+Revenues: 95757171 | unit=USD | filed=2019-05-10 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2231243000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 16488000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2237186000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1682462000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 775543000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 117483000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 462227000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

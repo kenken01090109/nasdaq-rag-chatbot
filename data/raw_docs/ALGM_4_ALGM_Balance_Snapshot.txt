@@ -1,0 +1,8 @@
+Company: Allegro MicroSystems Inc. Common Stock
+Ticker: ALGM
+Total Cash: 155187008
+Total Debt: 308191008
+Debt To Equity: 31.956
+Current Ratio: 3.652
+Quick Ratio: 1.806
+Book Value: 5.198

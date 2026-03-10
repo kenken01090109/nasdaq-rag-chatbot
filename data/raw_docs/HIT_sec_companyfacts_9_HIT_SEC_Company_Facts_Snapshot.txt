@@ -1,0 +1,11 @@
+Company: Health In Tech Inc. Class A Common Stock
+Ticker: HIT
+CIK: 0002019505
+Latest SEC XBRL Facts:
+Revenues: 25818926 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 1581399 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 22755844 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 5596881 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 17158963 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2682602 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8023613 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

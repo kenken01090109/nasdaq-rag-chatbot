@@ -1,0 +1,25 @@
+Company: Bridger Aerospace Group Holdings Inc. Common Stock
+Ticker: BAER
+Market Cap: 122472544
+Enterprise Value: 684176832
+Total Revenue: 129868000
+Revenue Per Share: 2.41
+EBITDA: 41384000
+Gross Margins: 0.4422
+Operating Margins: 0.57443
+Profit Margins: 0.04962
+Free Cashflow: 23027250
+Operating Cashflow: 36950000
+Return On Assets: 0.04952
+Return On Equity: 0.087510005
+Total Cash: 57659000
+Total Debt: 211550000
+Debt To Equity: 271.489
+Current Ratio: 3.946
+Quick Ratio: 3.373
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.3799104
+Beta: 0.187
+52 Week High: 3.44
+52 Week Low: 1.022

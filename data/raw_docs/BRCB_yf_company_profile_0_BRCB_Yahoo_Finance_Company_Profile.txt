@@ -1,0 +1,9 @@
+Company: Black Rock Coffee Bar Inc. Class A Common Stock
+Ticker: BRCB
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Scottsdale
+Website: https://www.br.coffee
+Employees: 
+Business Summary: Black Rock Coffee Bar, Inc. owns and operates a chain of drive-thru coffee bars in the United States. It offers classic espresso-based drinks, energy drinks, and savory and sweet items under the all-day breakfast brand. The company was founded in 2008 and is based in Scottsdale, Arizona.

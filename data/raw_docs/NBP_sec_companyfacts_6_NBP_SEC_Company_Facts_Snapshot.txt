@@ -1,0 +1,12 @@
+Company: NovaBridge Biosciences American Depositary Shares
+Ticker: NBP
+CIK: 0001778016
+Latest SEC XBRL Facts:
+Revenues: 632000 | unit=USD | filed=2025-04-03 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 7742000 | unit=USD | filed=2022-11-10 | period_end=2022-06-30
+NetIncomeLoss: -8654000 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+Assets: 206708000 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+Liabilities: 9975000 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+StockholdersEquity: 196733000 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -183798000 | unit=USD | filed=2024-04-30 | period_end=2023-12-31
+CashAndCashEquivalentsAtCarryingValue: 165404000 | unit=USD | filed=2025-10-06 | period_end=2025-06-30

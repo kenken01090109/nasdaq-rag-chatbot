@@ -1,0 +1,10 @@
+Company: Abeona Therapeutics Inc. Common Stock
+Ticker: ABEO
+Market Cap: 263911920
+Enterprise Value: 80901928
+Trailing PE: 4.024793
+Forward PE: -69.57143
+Price To Book: 1.4902081
+Beta: 1.194
+52 Week High: 7.54
+52 Week Low: 3.93

@@ -1,0 +1,9 @@
+Company: Ascent Solar Technologies Inc. Common Stock
+Ticker: ASTI
+Sector: Technology
+Industry: Solar
+Country: United States
+City: Thornton
+Website: https://ascentsolar.com
+Employees: 16
+Business Summary: Ascent Solar Technologies, Inc., a solar technology company, engages in the manufacture and sale of photovoltaic solar modules in the United States. The company's technology provides renewable power solutions to high-value production and specialty solar markets, including space power beaming, aerospace, satellites, near earth orbiting vehicles, fixed wing unmanned aerial vehicles, and agrivoltaics. It markets and sells its products through direct customers, distributors, retailers, OEMs, system integrators and value-added resellers. Ascent Solar Technologies, Inc. was incorporated in 2005 and is based in Thornton, Colorado.

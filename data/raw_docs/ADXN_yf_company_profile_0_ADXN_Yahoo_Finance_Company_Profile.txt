@@ -1,0 +1,9 @@
+Company: Addex Therapeutics Ltd American Depositary Shares
+Ticker: ADXN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Switzerland
+City: Geneva
+Website: https://www.addextherapeutics.com
+Employees: 2
+Business Summary: Addex Therapeutics Ltd discovers, develops, and commercializes small-molecule pharmaceutical products for neurological disorders in Switzerland. The company focuses on the discovery of G-protein coupled receptors and enzymes. Its lead programs include Dipraglurant, which is in phase 1 clinical trial for the treatment of post-stroke/TBI recovery, as well as to treat Parkinson's disease levodopa-induced dyskinesia. The company also develops ADX71149, a novel orally active metabotropic glutamate receptor subtype 2 positive allosteric modulator (mGlu2 PAM); and GABAB PAM for the treatment pain, anxiety, addiction, cough, and overactive bladder. It has license and collaboration agreement with Janssen Pharmaceuticals Inc. for the develop mGlu2 PAM compounds for the treatment of human health; and license and research agreement with Indivior PLC discovery, development, and commercialization of novel GABAB PAM compounds for the treatment of addiction and other CNS diseases. The company was formerly known as Addex Pharmaceuticals Ltd. Addex Therapeutics Ltd was founded in 2002 and is based in Geneva, Switzerland.

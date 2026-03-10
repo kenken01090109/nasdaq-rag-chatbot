@@ -1,0 +1,25 @@
+Company: Affirm Holdings Inc. Class A Common Stock
+Ticker: AFRM
+Market Cap: 17221820416
+Enterprise Value: 25105721344
+Total Revenue: 3715908096
+Revenue Per Share: 11.3
+EBITDA: 527048992
+Gross Margins: 0.47777
+Operating Margins: 0.10474
+Profit Margins: 0.07598
+Free Cashflow: 457454752
+Operating Cashflow: 833334976
+Return On Assets: 0.01232
+Return On Equity: 0.08917
+Total Cash: 1564432000
+Total Debt: 9181845504
+Debt To Equity: 258.872
+Current Ratio: 13.846
+Quick Ratio: 10.207
+Trailing PE: 63.82716
+Forward PE: 13.636951
+Price To Book: 4.842184
+Beta: 3.727
+52 Week High: 100.0
+52 Week Low: 30.901

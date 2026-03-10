@@ -1,0 +1,11 @@
+Company: Consensus Cloud Solutions Inc. Common Stock
+Ticker: CCSI
+CIK: 0001866633
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 262626000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 64024000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 674974000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 677607000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -2633000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 120868000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 97649000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

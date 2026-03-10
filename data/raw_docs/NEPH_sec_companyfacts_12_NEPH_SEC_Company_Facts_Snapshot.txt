@@ -1,0 +1,11 @@
+Company: Nephros Inc. Common Stock
+Ticker: NEPH
+CIK: 0001196298
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 14060000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 1132000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 13247000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3241000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 8622000 | unit=USD | filed=2023-11-08 | period_end=2023-09-30
+NetCashProvidedByUsedInOperatingActivities: 1415000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5171000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

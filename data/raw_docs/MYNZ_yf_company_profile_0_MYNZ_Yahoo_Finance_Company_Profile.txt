@@ -1,0 +1,9 @@
+Company: Mainz Biomed N.V. Ordinary Shares
+Ticker: MYNZ
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: Germany
+City: Mainz
+Website: https://mainzbiomed.com
+Employees: 19
+Business Summary: Mainz Biomed N.V. develops and sells in-vitro diagnostic (IVD) tests for the early detection of cancer in the United States and Europe. It offers ColoAlert, a colorectal cancer diagnostic molecular genetic stool test. The company also develops PancAlert, a stool-based screening test for the detection of pancreatic cancer. In addition, it operates a clinical diagnostic laboratory; and distributes its IVD kits to third-party laboratories. The company has a collaboration agreement with Thermo Fisher Scientific Inc. for the development and commercialization of colorectal cancer screening product. Mainz Biomed N.V. was founded in 2008 and is based in Mainz, Germany.

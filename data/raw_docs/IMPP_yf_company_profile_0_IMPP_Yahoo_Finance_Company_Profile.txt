@@ -1,0 +1,9 @@
+Company: Imperial Petroleum Inc. Common Shares
+Ticker: IMPP
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: Greece
+City: Athens
+Website: https://www.imperialpetro.com
+Employees: 
+Business Summary: Imperial Petroleum Inc., together with its subsidiaries, provides seaborne transportation services worldwide. The company owns and operates a fleet of medium range refined petroleum product tankers that carry refined petroleum products, such as gasoline, diesel, fuel oil, and jet fuel, as well as edible oils and chemicals; suezmax tankers that carry crude oil; and handysize drybulk carriers that transport bulks, such as iron ore, coal, grains, bauxite, phosphate, and fertilizers. It serves oil producers, refineries, commodities traders and producers, and industrial users of drybulk cargoes. Imperial Petroleum Inc. was incorporated in 2021 and is based in Athens, Greece.

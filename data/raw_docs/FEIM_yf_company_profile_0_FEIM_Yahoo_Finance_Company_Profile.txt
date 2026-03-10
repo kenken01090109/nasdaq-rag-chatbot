@@ -1,0 +1,9 @@
+Company: Frequency Electronics Inc. Common Stock
+Ticker: FEIM
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: Mitchel Field
+Website: https://freqelec.com
+Employees: 216
+Business Summary: Frequency Electronics, Inc., together with its subsidiaries, engages in the design, development, manufacture, marketing, and sale of precision time and frequency control products and components for microwave integrated circuit applications. The company operates through two segments, FEI-NY and FEI-Zyfer. The FEI-NY segment offers precision time and frequency control products for communication satellites, terrestrial cellular telephone or other ground-based telecommunication stations; and other components and systems for the U.S. military. This segment also provides design and technical support for the satellite business. The FEI-Zyfer segment provides global positioning system technologies for systems and subsystems for secure communications, government and commercial, and other locator applications; and engages in the sale and support of wireline telecommunications products, including US5G. It operates in the United States, Europe, and Asia. Frequency Electronics, Inc. was founded in 1961 and is headquartered in Mitchel Field, New York.

@@ -1,0 +1,9 @@
+Company: TELA Bio Inc. Common Stock
+Ticker: TELA
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Malvern
+Website: https://www.telabio.com
+Employees: 209
+Business Summary: TELA Bio, Inc., a commercial-stage medical technology company, focuses on providing soft-tissue reconstruction solutions that optimize clinical outcomes by prioritizing the preservation and restoration of the patient's anatomy. The company provides a portfolio of OviTex Reinforced Tissue Matrix (OviTex) products for hernia repair and abdominal wall reconstruction; and OviTex PRS Reinforced Tissue Matrix products to address the unmet needs in plastic and reconstructive surgery, as well as OviTex for Laparoscopic and Robotic Procedures, a sterile reinforced tissue matrix derived from ovine rumen with polypropylene fiber intended to be used in laparoscopic and robotic-assisted hernia surgical repairs. It markets its products through a single direct sales force, principally in the United States. The company was incorporated in 2012 and is headquartered in Malvern, Pennsylvania.

@@ -1,0 +1,9 @@
+Company: Lifeway Foods Inc. Common Stock
+Ticker: LWAY
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Morton Grove
+Website: https://lifewaykefir.com
+Employees: 291
+Business Summary: Lifeway Foods, Inc. produces and markets probiotic-based products in the United States and internationally. The company's primary product is drinkable kefir, a cultured dairy product in various organic and non-organic sizes, flavors, and types. It offers European-style soft cheeses, including farmer and white cheeses, and sweet kiss; cream and other products; drinkable yogurt; ProBugs, a kefir products designed for children; and butter and sour cream. The company sells its products under the Lifeway, Fresh Made, and GlenOaks Farms brand names, as well as under private labels on behalf of customers primarily through direct sales force, brokers, and distributors. Lifeway Foods, Inc. was incorporated in 1986 and is based in Morton Grove, Illinois.

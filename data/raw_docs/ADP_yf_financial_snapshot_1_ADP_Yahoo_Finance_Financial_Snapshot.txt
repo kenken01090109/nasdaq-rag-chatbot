@@ -1,0 +1,25 @@
+Company: Automatic Data Processing Inc. Common Stock
+Ticker: ADP
+Market Cap: 91502485504
+Enterprise Value: 91722096640
+Total Revenue: 21214300160
+Revenue Per Share: 52.323
+EBITDA: 6188499968
+Gross Margins: 0.48351002
+Operating Margins: 0.26283002
+Profit Margins: 0.19964
+Free Cashflow: 3457787392
+Operating Cashflow: 4740199936
+Return On Assets: 0.04709
+Return On Equity: 0.73843
+Total Cash: 2424699904
+Total Debt: 4477899776
+Debt To Equity: 70.044
+Current Ratio: 1.032
+Quick Ratio: 0.081
+Trailing PE: 21.753847
+Forward PE: 18.909494
+Price To Book: 14.26122
+Beta: 0.854
+52 Week High: 329.93
+52 Week Low: 203.26

@@ -1,0 +1,25 @@
+Company: Atlantic American Corporation Common Stock
+Ticker: AAME
+Market Cap: 53440736
+Enterprise Value: 61715736
+Total Revenue: 208218000
+Revenue Per Share: 10.208
+EBITDA: 10065000
+Gross Margins: 0.12512
+Operating Margins: 0.028789999
+Profit Margins: 0.024530001
+Free Cashflow: 22098124
+Operating Cashflow: 24811000
+Return On Assets: 0.01485
+Return On Equity: 0.04745
+Total Cash: 34444000
+Total Debt: 42664000
+Debt To Equity: 38.967
+Current Ratio: 1.501
+Quick Ratio: 1.159
+Trailing PE: 11.391304
+Forward PE: 
+Price To Book: 0.48835042
+Beta: 0.761
+52 Week High: 3.71
+52 Week Low: 1.25

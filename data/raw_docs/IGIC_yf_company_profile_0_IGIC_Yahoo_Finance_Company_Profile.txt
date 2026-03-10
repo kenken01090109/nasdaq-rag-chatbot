@@ -1,0 +1,9 @@
+Company: International General Insurance Holdings Ltd. Ordinary Share
+Ticker: IGIC
+Sector: Financial Services
+Industry: Insurance - Diversified
+Country: Jordan
+City: Amman
+Website: https://www.iginsure.com
+Employees: 
+Business Summary: International General Insurance Holdings Ltd. engages in the provision of specialty insurance and reinsurance solutions worldwide. The company operates through three segments: Specialty Long-tail, Specialty Short-tail, and Reinsurance. It is involved in underwriting a portfolio of specialty risks, including energy, property, construction and engineering, ports and terminals, general aviation, political violence, professional lines, financial institutions, marine, and treaty reinsurance. The company was founded in 2001 and is based in Amman, Jordan.

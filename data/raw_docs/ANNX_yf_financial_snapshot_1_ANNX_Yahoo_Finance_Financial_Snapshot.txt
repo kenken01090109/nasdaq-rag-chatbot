@@ -1,0 +1,25 @@
+Company: Annexon Inc. Common Stock
+Ticker: ANNX
+Market Cap: 769128256
+Enterprise Value: 455522272
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -216468000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -93057504
+Operating Cashflow: -176444992
+Return On Assets: -0.44954
+Return On Equity: -0.83985
+Total Cash: 188720992
+Total Debt: 26938000
+Debt To Equity: 16.686
+Current Ratio: 4.425
+Quick Ratio: 4.33
+Trailing PE: 
+Forward PE: -4.3404384
+Price To Book: 3.6804564
+Beta: 1.178
+52 Week High: 7.18
+52 Week Low: 1.285

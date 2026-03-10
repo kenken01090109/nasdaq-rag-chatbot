@@ -1,0 +1,9 @@
+Company: XChange TEC.INC American Depositary Shares
+Ticker: XHG
+Sector: Financial Services
+Industry: Insurance Brokers
+Country: China
+City: Shanghai
+Website: https://ir.xhghk.com
+Employees: 30
+Business Summary: XChange TEC.INC, together with its subsidiaries, engages in the insurance agency and insurance technology businesses primarily to individual end consumers in the People's Republic of China. The company provides a various insurance products underwritten by insurance companies, including industry state-owned property and casualty insurance companies, as well as certain regional property and casualty insurance companies. It offers automobile, life, health, group accident, and other property related insurance products. In addition, the company operates a SaaS platform to offers comprehensive services to offline and online customers. It sells insurance primarily through a network of external referral sources that include external registered sales representatives, distribution channel partners, and through its in-house sales force. The company was formerly known as FLJ Group Limited and changed its name to XChange TEC.INC in May 2024. XChange TEC.INC was founded in 2007 and is based in Shanghai, the People's Republic of China.

@@ -1,0 +1,9 @@
+Company: Rand Capital Corporation Common Stock
+Ticker: RAND
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Buffalo
+Website: https://www.randcapital.com
+Employees: 
+Business Summary: Rand Capital Corporation is a business development company specializing in subordinated debt with warrants or preferred equity and venture capital investments. Within private equity, the firm specializing in capital growth and lower middle market investments. Within venture capital, it specializing in early to late-stage private businesses. It does not prefer to invest in real estate sector. It prefers to invest in software, professional services, manufacturing, consumer, healthcare, automotive and public d stocks. It prefers to invest in East or Midwest U.S. operations sectors. It typically invests between $0.75 million and $5 million with initial target size of $1.5 million. It seeks to invest in companies having more than $10 million in revenue or having excess of $1.5 million and up to $5 million in EBITDA. It prefers to be a minority stake and seeks to take a Board seat in its portfolio companies. It typically holds its investments for a period up to five years.

@@ -1,0 +1,10 @@
+Company: Sono Group N.V. Ordinary Shares
+Ticker: SSM
+CIK: 0001840416
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6632000 | unit=EUR | filed=2025-11-20 | period_end=2025-09-30
+Assets: 3955000 | unit=EUR | filed=2025-11-20 | period_end=2025-09-30
+Liabilities: 1446000 | unit=EUR | filed=2025-11-20 | period_end=2025-09-30
+StockholdersEquity: 2509000 | unit=EUR | filed=2025-11-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5182000 | unit=EUR | filed=2025-11-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2250000 | unit=EUR | filed=2025-11-20 | period_end=2025-09-30

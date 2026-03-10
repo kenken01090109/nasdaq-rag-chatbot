@@ -1,0 +1,11 @@
+Company: Greene County Bancorp Inc. Common Stock
+Ticker: GCBC
+CIK: 0001070524
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4117000 | unit=USD | filed=2019-09-12 | period_end=2019-06-30
+NetIncomeLoss: 19162000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 3146995000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 2888727000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 258268000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 13378000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 155483000 | unit=USD | filed=2025-05-09 | period_end=2025-03-31

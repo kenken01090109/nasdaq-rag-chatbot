@@ -1,0 +1,25 @@
+Company: MicroVision Inc. Common Stock
+Ticker: MVIS
+Market Cap: 174748320
+Enterprise Value: 131350024
+Total Revenue: 1208000
+Revenue Per Share: 0.004
+EBITDA: -67271000
+Gross Margins: 0.0
+Operating Margins: -125.41704
+Profit Margins: 0.0
+Free Cashflow: -51736500
+Operating Cashflow: -58720000
+Return On Assets: -0.38671002
+Return On Equity: -1.82101
+Total Cash: 74834000
+Total Debt: 36768000
+Debt To Equity: 66.191
+Current Ratio: 2.69
+Quick Ratio: 2.484
+Trailing PE: 
+Forward PE: -3.011579
+Price To Book: 3.1613262
+Beta: 1.13
+52 Week High: 1.73
+52 Week Low: 0.51

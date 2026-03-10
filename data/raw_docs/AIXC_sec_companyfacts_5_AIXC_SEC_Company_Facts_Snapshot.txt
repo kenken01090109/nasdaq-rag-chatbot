@@ -1,0 +1,11 @@
+Company: AIxCrypto Holdings Inc. Common Stock
+Ticker: AIXC
+CIK: 0001460702
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3234201 | unit=USD | filed=2023-08-14 | period_end=2023-06-30
+NetIncomeLoss: -6369407 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 43470364 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5956612 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+StockholdersEquity: 38547078 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4828985 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38777166 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

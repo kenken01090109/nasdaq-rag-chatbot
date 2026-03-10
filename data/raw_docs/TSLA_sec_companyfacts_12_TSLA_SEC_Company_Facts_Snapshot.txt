@@ -1,0 +1,12 @@
+Company: Tesla Inc. Common Stock
+Ticker: TSLA
+CIK: 0001318605
+Latest SEC XBRL Facts:
+Revenues: 69926000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 69926000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 2954000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 133735000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 53019000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 79970000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 10934000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18289000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

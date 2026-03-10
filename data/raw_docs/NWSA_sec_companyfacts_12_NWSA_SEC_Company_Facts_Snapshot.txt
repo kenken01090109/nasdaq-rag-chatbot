@@ -1,0 +1,11 @@
+Company: News Corporation Class A Common Stock
+Ticker: NWSA
+CIK: 0001564708
+Latest SEC XBRL Facts:
+Revenues: 4506000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 4506000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: 305000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 15510000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 8792000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 64000000 | unit=USD | filed=2024-11-08 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 2051000000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

@@ -1,0 +1,12 @@
+Company: Magnite Inc. Common Stock
+Ticker: MGNI
+CIK: 0001595974
+Latest SEC XBRL Facts:
+Revenues: 70286000 | unit=USD | filed=2019-07-31 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 508597000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 21563000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2920693000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2112739000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 807954000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 107711000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 482127000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

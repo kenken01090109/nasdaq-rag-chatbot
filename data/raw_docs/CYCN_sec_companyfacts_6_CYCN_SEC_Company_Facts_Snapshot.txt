@@ -1,0 +1,11 @@
+Company: Cyclerion Therapeutics Inc. Common Stock
+Ticker: CYCN
+CIK: 0001755237
+Latest SEC XBRL Facts:
+Revenues: 1049000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2163000 | unit=USD | filed=2020-11-05 | period_end=2020-09-30
+NetIncomeLoss: -2729000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 10415000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 9538000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1735000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4568000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

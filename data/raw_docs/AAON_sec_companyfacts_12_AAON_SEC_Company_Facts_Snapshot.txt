@@ -1,0 +1,8 @@
+Company: AAON Inc. Common Stock
+Ticker: AAON
+CIK: 0000824142
+Latest SEC XBRL Facts:
+NetIncomeLoss: 75561000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1534071000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18784000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1041000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

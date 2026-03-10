@@ -1,0 +1,12 @@
+Company: AerSale Corporation Common Stock
+Ticker: ASLE
+CIK: 0001754170
+Latest SEC XBRL Facts:
+Revenues: 244349000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 244349000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 3178000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 646276000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 229195000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 385560000 | unit=USD | filed=2021-11-09 | period_end=2021-09-30
+NetCashProvidedByUsedInOperatingActivities: -34333000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5267000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

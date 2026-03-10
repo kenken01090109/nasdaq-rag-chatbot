@@ -1,0 +1,12 @@
+Company: Cuprina Holdings (Cayman) Limited Class A Ordinary Shares
+Ticker: CUPR
+CIK: 0001995704
+Latest SEC XBRL Facts:
+Revenues: 35522 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 35522 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetIncomeLoss: -1147199 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Assets: 1282831 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Liabilities: 4561315 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+StockholdersEquity: -3278484 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -908609 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 85622 | unit=USD | filed=2025-05-14 | period_end=2024-12-31

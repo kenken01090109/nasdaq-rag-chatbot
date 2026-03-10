@@ -1,0 +1,25 @@
+Company: Abivax SA American Depositary Shares
+Ticker: ABVX
+Market Cap: 8645010432
+Enterprise Value: 8255733760
+Total Revenue: 5311000
+Revenue Per Share: 0.081
+EBITDA: -217952992
+Gross Margins: 1.0
+Operating Margins: -126.30829
+Profit Margins: 0.0
+Free Cashflow: -180175376
+Operating Cashflow: -171415008
+Return On Assets: -0.31671
+Return On Equity: -1.06382
+Total Cash: 589702976
+Total Debt: 73988000
+Debt To Equity: 14.472
+Current Ratio: 7.863
+Quick Ratio: 7.737
+Trailing PE: 
+Forward PE: -33.17655
+Price To Book: 14.338794
+Beta: -0.381
+52 Week High: 148.83
+52 Week Low: 4.77

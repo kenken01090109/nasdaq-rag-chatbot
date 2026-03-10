@@ -1,0 +1,25 @@
+Company: CryoPort Inc. Common Stock
+Ticker: CYRX
+Market Cap: 405057440
+Enterprise Value: 235497440
+Total Revenue: 176176992
+Revenue Per Share: 3.518
+EBITDA: -11742006
+Gross Margins: 0.47142
+Operating Margins: -0.2207
+Profit Margins: 0.44445
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.03133
+Return On Equity: -0.07511
+Total Cash: 411208000
+Total Debt: 230718000
+Debt To Equity: 45.901
+Current Ratio: 2.174
+Quick Ratio: 2.03
+Trailing PE: 
+Forward PE: -12.446155
+Price To Book: 0.80091083
+Beta: 1.742
+52 Week High: 11.45
+52 Week Low: 4.63

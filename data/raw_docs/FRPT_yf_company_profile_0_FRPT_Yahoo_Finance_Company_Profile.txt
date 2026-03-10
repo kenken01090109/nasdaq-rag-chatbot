@@ -1,0 +1,9 @@
+Company: Freshpet Inc. Common Stock
+Ticker: FRPT
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Bedminster
+Website: https://www.freshpet.com
+Employees: 1288
+Business Summary: Freshpet, Inc., together with its subsidiaries, manufactures, distributes, and markets natural fresh meals and treats for dogs and cats in the United States, Canada, and Europe. It offers dog food, cat food, and dog treats under the Freshpet brand name; and fresh treats under the Dognation and Dog Joy brand names. The company sells its products through a network of company-owned branded refrigerators, the Freshpet Fridges, as well as through various classes of retail, including grocery, mass, club, pet specialty, and international, as well as digital. The company was incorporated in 2004 and is headquartered in Bedminster, New Jersey.

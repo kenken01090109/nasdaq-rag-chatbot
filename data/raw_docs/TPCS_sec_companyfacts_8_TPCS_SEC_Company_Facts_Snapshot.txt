@@ -1,0 +1,12 @@
+Company: TechPrecision Corporation Common stock
+Ticker: TPCS
+CIK: 0001328792
+Latest SEC XBRL Facts:
+Revenues: 23559000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 23559000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -1473000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 32796000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 24817000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 7979000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -253000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 50000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

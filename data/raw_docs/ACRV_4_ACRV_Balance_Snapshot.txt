@@ -1,0 +1,8 @@
+Company: Acrivon Therapeutics Inc. Common Stock
+Ticker: ACRV
+Total Cash: 129254000
+Total Debt: 2989000
+Debt To Equity: 2.324
+Current Ratio: 8.754
+Quick Ratio: 8.68
+Book Value: 4.076

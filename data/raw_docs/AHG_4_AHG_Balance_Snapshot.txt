@@ -1,0 +1,8 @@
+Company: Akso Health Group ADS
+Ticker: AHG
+Total Cash: 11128627
+Total Debt: 2063053
+Debt To Equity: 1.04
+Current Ratio: 1.53
+Quick Ratio: 1.19
+Book Value: 0.231

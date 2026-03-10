@@ -1,0 +1,10 @@
+Company: Aeva Technologies Inc. Common Stock
+Ticker: AEVA
+Market Cap: 906004992
+Enterprise Value: 888732416
+Trailing PE: 
+Forward PE: -9.904761
+Price To Book: 68.85845
+Beta: 2.16
+52 Week High: 38.8
+52 Week Low: 2.52

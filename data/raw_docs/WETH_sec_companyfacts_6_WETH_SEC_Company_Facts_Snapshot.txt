@@ -1,0 +1,12 @@
+Company: Wetouch Technology Inc. Common Stock
+Ticker: WETH
+CIK: 0001826660
+Latest SEC XBRL Facts:
+Revenues: 39888835 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12800858 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 7331742 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 139907907 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4741190 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 135166717 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8487319 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 113194898 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

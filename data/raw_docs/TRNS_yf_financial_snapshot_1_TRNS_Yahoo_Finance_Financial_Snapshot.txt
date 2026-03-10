@@ -1,0 +1,25 @@
+Company: Transcat Inc. Common Stock
+Ticker: TRNS
+Market Cap: 659505728
+Enterprise Value: 829137600
+Total Revenue: 319686016
+Revenue Per Share: 34.315
+EBITDA: 41332000
+Gross Margins: 0.32453
+Operating Margins: 0.010240001
+Profit Margins: 0.02469
+Free Cashflow: 25089750
+Operating Cashflow: 39277000
+Return On Assets: 0.02399
+Return On Equity: 0.027320001
+Total Cash: 3471000
+Total Debt: 134001000
+Debt To Equity: 45.153
+Current Ratio: 2.207
+Quick Ratio: 1.728
+Trailing PE: 83.141174
+Forward PE: 32.454647
+Price To Book: 2.2220473
+Beta: 0.689
+52 Week High: 97.08
+52 Week Low: 50.23

@@ -1,0 +1,8 @@
+Company: Alignment Healthcare Inc. Common Stock
+Ticker: ALHC
+Total Cash: 604230016
+Total Debt: 331600992
+Debt To Equity: 184.966
+Current Ratio: 1.709
+Quick Ratio: 1.663
+Book Value: 0.878

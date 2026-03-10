@@ -1,0 +1,25 @@
+Company: First Advantage Corporation Common Stock
+Ticker: FA
+Market Cap: 2102288640
+Enterprise Value: 3975365376
+Total Revenue: 1574388992
+Revenue Per Share: 9.09
+EBITDA: 381051008
+Gross Margins: 0.45674
+Operating Margins: 0.088970006
+Profit Margins: -0.022119999
+Free Cashflow: 183215120
+Operating Cashflow: 195126000
+Return On Assets: 0.02135
+Return On Equity: -0.02658
+Total Cash: 239998000
+Total Debt: 2095643008
+Debt To Equity: 159.54
+Current Ratio: 2.437
+Quick Ratio: 2.37
+Trailing PE: 
+Forward PE: 8.5502205
+Price To Book: 1.5992575
+Beta: 1.219
+52 Week High: 19.01
+52 Week Low: 8.82

@@ -1,0 +1,10 @@
+Company: Bank First Corporation Common Stock
+Ticker: BFC
+CIK: 0001746109
+Latest SEC XBRL Facts:
+NetIncomeLoss: 53106000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4420411000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3792286000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 628125000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 33473000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 126184000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

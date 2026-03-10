@@ -1,0 +1,12 @@
+Company: Digimarc Corporation Common Stock
+Ticker: DMRC
+CIK: 0001438231
+Latest SEC XBRL Facts:
+Revenues: 11051000 | unit=USD | filed=2018-08-02 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 25005000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -28102000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 55435000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 14048000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 41387000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12770000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9101000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

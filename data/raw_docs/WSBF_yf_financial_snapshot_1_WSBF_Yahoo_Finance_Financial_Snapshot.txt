@@ -1,0 +1,25 @@
+Company: Waterstone Financial Inc. Common Stock (MD)
+Ticker: WSBF
+Market Cap: 322257792
+Enterprise Value: 646597184
+Total Revenue: 143315008
+Revenue Per Share: 8.035
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.25851
+Profit Margins: 0.18422002
+Free Cashflow: 
+Operating Cashflow: 24183000
+Return On Assets: 0.011820001
+Return On Equity: 0.07669
+Total Cash: 79417000
+Total Debt: 420168992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.797297
+Forward PE: 17.287128
+Price To Book: 0.87536347
+Beta: 0.801
+52 Week High: 18.88
+52 Week Low: 11.61

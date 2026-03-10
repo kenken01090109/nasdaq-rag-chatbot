@@ -1,0 +1,10 @@
+Company: ATA Creativity Global American Depositary Shares
+Ticker: AACG
+Market Cap: 32407908
+Enterprise Value: 33441044
+Trailing PE: 
+Forward PE: -1.030303
+Price To Book: 3.7746449
+Beta: 0.758
+52 Week High: 2.58
+52 Week Low: 0.74

@@ -1,0 +1,25 @@
+Company: Capital Clean Energy Carriers Corp. Common Share
+Ticker: CCEC
+Market Cap: 1297447680
+Enterprise Value: 3389884928
+Total Revenue: 392705984
+Revenue Per Share: 6.665
+EBITDA: 323734016
+Gross Margins: 0.80657
+Operating Margins: 0.54417
+Profit Margins: 0.43483
+Free Cashflow: -113860624
+Operating Cashflow: 242062000
+Return On Assets: 0.03258
+Return On Equity: 0.07979
+Total Cash: 273843008
+Total Debt: 2354337024
+Debt To Equity: 157.022
+Current Ratio: 0.865
+Quick Ratio: 0.585
+Trailing PE: 15.913043
+Forward PE: 7.1391416
+Price To Book: 0.86853343
+Beta: 
+52 Week High: 24.83
+52 Week Low: 14.09

@@ -1,0 +1,11 @@
+Company: Ultragenyx Pharmaceutical Inc. Common Stock
+Ticker: RARE
+CIK: 0001515673
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 465721000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -446444000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1190445000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1174286000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 9159000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -366171000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 202510000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

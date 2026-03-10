@@ -1,0 +1,10 @@
+Company: First US Bancshares Inc. Common Stock
+Ticker: FUSB
+CIK: 0000717806
+Latest SEC XBRL Facts:
+Revenues: 800000 | unit=USD | filed=2019-05-10 | period_end=2018-12-31
+NetIncomeLoss: 3863000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1147175000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1042937000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9880000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 54690000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Orangekloud Technology Inc. Class A Ordinary Shares
+Ticker: ORKT
+CIK: 0001979407
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2959138 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+NetIncomeLoss: -6329672 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+Assets: 11724941 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+Liabilities: 1802477 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+StockholdersEquity: 9922464 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -7257560 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 5976937 | unit=USD | filed=2025-05-02 | period_end=2024-12-31

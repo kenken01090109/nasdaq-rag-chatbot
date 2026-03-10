@@ -1,0 +1,9 @@
+Company: Hycroft Mining Holding Corporation Class A Common Stock
+Ticker: HYMC
+Sector: Basic Materials
+Industry: Gold
+Country: United States
+City: Winnemucca
+Website: https://www.hycroftmining.com
+Employees: 56
+Business Summary: Hycroft Mining Holding Corporation, together with its subsidiaries, operates as a gold and silver exploration and development company in the United States. The company holds interests in the Hycroft mine that consists of 30 private parcels with patented claims comprising approximately 1,787 acres, and 3,247 unpatented mining claims that encompass approximately 62,298 acres located in the state of Nevada. Hycroft Mining Holding Corporation is based in Winnemucca, Nevada.

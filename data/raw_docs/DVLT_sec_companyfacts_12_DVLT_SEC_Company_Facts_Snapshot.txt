@@ -1,0 +1,12 @@
+Company: Datavault AI Inc. Common Stock
+Ticker: DVLT
+CIK: 0001682149
+Latest SEC XBRL Facts:
+Revenues: 5268000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5268000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -79655000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 138658000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 39150000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 99508000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23204000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1683000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

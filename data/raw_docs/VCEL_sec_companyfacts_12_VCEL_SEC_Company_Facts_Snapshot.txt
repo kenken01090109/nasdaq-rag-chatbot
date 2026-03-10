@@ -1,0 +1,12 @@
+Company: Vericel Corporation Common Stock
+Ticker: VCEL
+CIK: 0000887359
+Latest SEC XBRL Facts:
+Revenues: 183341000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 183341000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -6725000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 453274000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 131416000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 321858000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 36896000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 100403000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

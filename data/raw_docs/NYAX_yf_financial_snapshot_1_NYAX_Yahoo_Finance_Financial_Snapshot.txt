@@ -1,0 +1,25 @@
+Company: Nayax Ltd. Ordinary Shares
+Ticker: NYAX
+Market Cap: 2111677696
+Enterprise Value: 2119678336
+Total Revenue: 369937984
+Revenue Per Share: 10.042
+EBITDA: 43154000
+Gross Margins: 0.48231
+Operating Margins: 0.07524
+Profit Margins: 0.06485
+Free Cashflow: 4498250
+Operating Cashflow: 41705000
+Return On Assets: 0.033889998
+Return On Equity: 0.12919
+Total Cash: 172808992
+Total Debt: 176146000
+Debt To Equity: 84.639
+Current Ratio: 1.71
+Quick Ratio: 1.172
+Trailing PE: 89.28571
+Forward PE: 58.17501
+Price To Book: 10.028525
+Beta: -0.282
+52 Week High: 60.765
+52 Week Low: 32.379

@@ -1,0 +1,11 @@
+Company: Enact Holdings Inc. Common Stock
+Ticker: ACT
+CIK: 0001823529
+Latest SEC XBRL Facts:
+Revenues: 923121000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 674244000 | unit=USD | filed=2026-02-27 | period_end=2025-12-31
+Assets: 6876443000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1559157000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 5317286000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 538253000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 543577000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

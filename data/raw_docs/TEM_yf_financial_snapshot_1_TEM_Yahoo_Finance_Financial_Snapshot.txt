@@ -1,0 +1,25 @@
+Company: Tempus AI Inc. Class A Common Stock
+Ticker: TEM
+Market Cap: 9342712832
+Enterprise Value: 9914845184
+Total Revenue: 1271789056
+Revenue Per Share: 7.298
+EBITDA: -149648000
+Gross Margins: 0.62738
+Operating Margins: -0.18133
+Profit Margins: -0.19266
+Free Cashflow: -115436376
+Operating Cashflow: -218090000
+Return On Assets: -0.098400004
+Return On Equity: -0.89481
+Total Cash: 754998016
+Total Debt: 1327129984
+Debt To Equity: 270.112
+Current Ratio: 3.134
+Quick Ratio: 2.876
+Trailing PE: 
+Forward PE: -836.82947
+Price To Book: 18.941645
+Beta: 
+52 Week High: 104.32
+52 Week Low: 36.22

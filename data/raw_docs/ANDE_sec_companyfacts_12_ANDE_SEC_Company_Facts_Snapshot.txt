@@ -1,0 +1,12 @@
+Company: Andersons Inc. (The) Common Stock
+Ticker: ANDE
+CIK: 0000821026
+Latest SEC XBRL Facts:
+Revenues: 8472679000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1201554000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 28279000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3296959000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2073942000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1181108000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 183183000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 98283000 | unit=USD | filed=2026-02-18 | period_end=2025-12-31

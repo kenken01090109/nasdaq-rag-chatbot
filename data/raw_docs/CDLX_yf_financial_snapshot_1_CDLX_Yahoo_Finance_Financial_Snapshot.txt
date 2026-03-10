@@ -1,0 +1,25 @@
+Company: Cardlytics Inc. Common Stock
+Ticker: CDLX
+Market Cap: 42164104
+Enterprise Value: 211508272
+Total Revenue: 233272992
+Revenue Per Share: 4.392
+EBITDA: -21897000
+Gross Margins: 0.44846
+Operating Margins: -0.09865
+Profit Margins: -0.44362998
+Free Cashflow: -21718500
+Operating Cashflow: 9290000
+Return On Assets: -0.08687
+Return On Equity: -3.26023
+Total Cash: 48719000
+Total Debt: 215314000
+Debt To Equity: 
+Current Ratio: 1.751
+Quick Ratio: 1.709
+Trailing PE: 
+Forward PE: -2.0526316
+Price To Book: -6.554621
+Beta: 
+52 Week High: 3.28
+52 Week Low: 0.751

@@ -1,0 +1,12 @@
+Company: CAMP4 Therapeutics Corporation Common Stock
+Ticker: CAMP
+CIK: 0001736730
+Latest SEC XBRL Facts:
+Revenues: 3498000 | unit=USD | filed=2026-03-05 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3150000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -40119000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 86395000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 27728000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 58667000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -35846000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 75255000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

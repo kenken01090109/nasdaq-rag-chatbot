@@ -1,0 +1,10 @@
+Company: J & J Snack Foods Corp. Common Stock
+Ticker: JJSF
+CIK: 0000785956
+Latest SEC XBRL Facts:
+Revenues: 1022038000 | unit=USD | filed=2020-11-25 | period_end=2020-09-26
+NetIncomeLoss: 883000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+Assets: 1313274000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+StockholdersEquity: 912858000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 35963000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 66761000 | unit=USD | filed=2026-02-05 | period_end=2025-12-27

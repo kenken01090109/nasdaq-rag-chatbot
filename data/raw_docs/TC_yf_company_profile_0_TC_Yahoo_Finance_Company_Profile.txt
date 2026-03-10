@@ -1,0 +1,9 @@
+Company: Token Cat Limited American Depositary Shares
+Ticker: TC
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: China
+City: Beijing
+Website: https://www.tuanche.com
+Employees: 116
+Business Summary: Token Cat Limited, through its subsidiaries, operates as an omni-channel automotive marketplace in the People's Republic of China. The company organizes auto shows and special promotion events; and provides integrated marketing solutions to industry customers, including automakers, franchised dealerships, secondary dealers, and automotive service providers, as well as enable interactions between participants on both sides of a potential transaction. It also offers business and technical support, and consulting services; subscription and support services; online marketing services through various online platforms, including tuanche.com website, WeChat account, WeChat mini-program, mobile applications, and Cheshangtong, a software as a service product; and referral services for commercial bank to enhance its auto loan business. The company was formerly known as TuanChe Limited and changed its name to Token Cat Limited in February 2025. Token Cat Limited was founded in 2010 and is headquartered in Beijing, China.

@@ -1,0 +1,11 @@
+Company: Jazz Pharmaceuticals plc Common Stock (Ireland)
+Ticker: JAZZ
+CIK: 0001232524
+Latest SEC XBRL Facts:
+Revenues: 444613000 | unit=USD | filed=2018-05-08 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3069660000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -559599000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 11356485000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 3959030000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 993255000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1326070000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

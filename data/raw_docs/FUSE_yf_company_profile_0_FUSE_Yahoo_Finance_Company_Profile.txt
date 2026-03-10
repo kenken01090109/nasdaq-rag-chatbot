@@ -1,0 +1,9 @@
+Company: Fusemachines Inc. Common stock
+Ticker: FUSE
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New York
+Website: https://fusemachines.com
+Employees: 317
+Business Summary: Fusemachines Inc. develops and delivers artificial intelligence (AI) as a service and machine learning software solutions. The company offers Fuse Anna which is an AI assistant for follow ups through daily reminders; and Fuse Prospector which is an artificial intelligence sales platform. Further, the company offers managed outbound services and AI as a service for big data processing, data management, and cloud analytics. Additionally, it offers Fusemachines AI fellowship program, which provides selected scholars from underserved communities with mentorship and resources to develop advanced skills in artificial intelligence and machine learning, as well as Fusemachines Academy, a learning platform to build and enhance skills. The company serves governments, financial institutions, and e-commerce companies. The company is based in New York, New York with an additional offices in Kathmandu, Nepal; Toronto, Canada; Kochi, India; Santo Domingo, Cuba.

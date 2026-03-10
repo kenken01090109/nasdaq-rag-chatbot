@@ -1,0 +1,25 @@
+Company: Elite Express Holding Inc. Class A Common Stock
+Ticker: ETS
+Market Cap: 7656236
+Enterprise Value: 6335593
+Total Revenue: 2665948
+Revenue Per Share: 0.191
+EBITDA: -2249539
+Gross Margins: 0.10222
+Operating Margins: -2.70439
+Profit Margins: -0.81997
+Free Cashflow: -12178141
+Operating Cashflow: -2819786
+Return On Assets: -0.20145
+Return On Equity: -0.30010998
+Total Cash: 1308529
+Total Debt: 71470
+Debt To Equity: 0.542
+Current Ratio: 24.128
+Quick Ratio: 2.691
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.58048165
+Beta: 
+52 Week High: 4.23
+52 Week Low: 0.45

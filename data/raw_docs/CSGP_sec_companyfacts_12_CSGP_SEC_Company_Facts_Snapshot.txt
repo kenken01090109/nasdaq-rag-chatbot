@@ -1,0 +1,12 @@
+Company: CoStar Group Inc. Common Stock
+Ticker: CSGP
+CIK: 0001057352
+Latest SEC XBRL Facts:
+Revenues: 273718000 | unit=USD | filed=2018-04-25 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2347100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -39500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 10819900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 2196000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 8615800000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 267900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1935300000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

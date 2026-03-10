@@ -1,0 +1,11 @@
+Company: National Healthcare Properties Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock
+Ticker: NHPBP
+CIK: 0001561032
+Latest SEC XBRL Facts:
+Revenues: 257801000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -24744000 | unit=USD | filed=2020-05-15 | period_end=2020-03-31
+Assets: 1739057000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1106409000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 627219000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3008000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47059000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

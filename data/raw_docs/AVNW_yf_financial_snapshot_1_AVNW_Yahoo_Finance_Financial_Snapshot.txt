@@ -1,0 +1,25 @@
+Company: Aviat Networks Inc. Common Stock
+Ticker: AVNW
+Market Cap: 321912640
+Enterprise Value: 353483360
+Total Revenue: 446772000
+Revenue Per Share: 35.037
+EBITDA: 39628000
+Gross Margins: 0.33692002
+Operating Margins: 0.065560006
+Profit Margins: 0.03269
+Free Cashflow: -1451125
+Operating Cashflow: 24310000
+Return On Assets: 0.032780003
+Return On Equity: 0.05604
+Total Cash: 86466000
+Total Debt: 108360000
+Debt To Equity: 39.895
+Current Ratio: 1.849
+Quick Ratio: 1.462
+Trailing PE: 22.079647
+Forward PE: 7.8624034
+Price To Book: 1.1843168
+Beta: 0.796
+52 Week High: 27.02
+52 Week Low: 15.8

@@ -1,0 +1,25 @@
+Company: Addentax Group Corp. Common Stock
+Ticker: ATXG
+Market Cap: 3104567
+Enterprise Value: -13673342
+Total Revenue: 4252899
+Revenue Per Share: 0.491
+EBITDA: -1286443
+Gross Margins: 0.09852
+Operating Margins: -0.0705
+Profit Margins: -1.5888801
+Free Cashflow: -1809419
+Operating Cashflow: -1068751
+Return On Assets: -0.03534
+Return On Equity: -0.34245998
+Total Cash: 17770844
+Total Debt: 934357
+Debt To Equity: 4.32
+Current Ratio: 21.666
+Quick Ratio: 19.342
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.14355363
+Beta: -40.064
+52 Week High: 1.86
+52 Week Low: 0.26

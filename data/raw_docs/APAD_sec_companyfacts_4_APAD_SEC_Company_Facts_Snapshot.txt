@@ -1,0 +1,10 @@
+Company: A Paradise Acquisition Corp. Class A Ordinary Shares
+Ticker: APAD
+CIK: 0001956439
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1426617 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 203009771 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 8469231 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -6834989 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -317755 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1454749 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

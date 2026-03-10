@@ -1,0 +1,9 @@
+Company: Inhibikase Therapeutics Inc. Common Stock
+Ticker: IKT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Atlanta
+Website: https://www.inhibikase.com
+Employees: 15
+Business Summary: Inhibikase Therapeutics, Inc. operates as a clinical-stage pharmaceutical company that develops therapeutics for Parkinson's disease and related disorders. Its lead product candidate is IkT-148009, a non-receptor Abelson tyrosine kinase inhibitor, which is in Phase 2a clinical trials to the treatment of Parkinson's disease and gastrointestinal tract. The company is also developing IkT-001Pro, a prodrug of the anticancer agent imatinib mesylate to treat stable phase chronic myelogenous leukemia. Inhibikase Therapeutics, Inc. has research and development collaborations with Johns Hopkins University, Arizona State University, and Michigan State University; and a collaborative research and development agreement with Sphaera Pharma Pte. Ltd. The company was founded in 2008 and is based in Atlanta, Georgia.

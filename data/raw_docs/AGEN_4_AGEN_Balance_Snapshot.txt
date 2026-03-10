@@ -1,0 +1,8 @@
+Company: Agenus Inc. Common Stock
+Ticker: AGEN
+Total Cash: 3458000
+Total Debt: 46146000
+Debt To Equity: 
+Current Ratio: 0.467
+Quick Ratio: 0.034
+Book Value: -8.354

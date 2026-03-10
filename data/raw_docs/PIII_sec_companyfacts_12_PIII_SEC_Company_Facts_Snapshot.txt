@@ -1,0 +1,11 @@
+Company: P3 Health Partners Inc. Class A Common Stock
+Ticker: PIII
+CIK: 0001832511
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1074266000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -72429000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 683564000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 664636000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -18686000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -65511000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37714000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

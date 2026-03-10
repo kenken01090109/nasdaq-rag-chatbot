@@ -1,0 +1,12 @@
+Company: Lam Research Corporation Common Stock
+Ticker: LRCX
+CIK: 0000707549
+Latest SEC XBRL Facts:
+Revenues: 1923378000 | unit=USD | filed=2012-05-03 | period_end=2012-03-25
+RevenueFromContractWithCustomerExcludingAssessedTax: 10668964000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+NetIncomeLoss: 3162654000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+Assets: 21391171000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+Liabilities: 11245745000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+StockholdersEquity: 10145426000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 3259009000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 6180440000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28

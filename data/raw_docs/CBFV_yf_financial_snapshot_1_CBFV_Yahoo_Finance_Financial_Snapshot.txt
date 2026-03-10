@@ -1,0 +1,25 @@
+Company: CB Financial Services Inc. Common Stock
+Ticker: CBFV
+Market Cap: 172701904
+Enterprise Value: 174888176
+Total Revenue: 40244000
+Revenue Per Share: 7.946
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.36183998
+Profit Margins: 0.06692
+Free Cashflow: 
+Operating Cashflow: 14369000
+Return On Assets: 0.0017299999
+Return On Equity: 0.017860001
+Total Cash: 31693000
+Total Debt: 34758000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 37.27174
+Forward PE: 10.134985
+Price To Book: 1.1241517
+Beta: 0.256
+52 Week High: 37.75
+52 Week Low: 26.01

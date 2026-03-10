@@ -1,0 +1,25 @@
+Company: Vicor Corporation Common Stock
+Ticker: VICR
+Market Cap: 7307016704
+Enterprise Value: 7858912256
+Total Revenue: 407700992
+Revenue Per Share: 9.052
+EBITDA: 62889000
+Gross Margins: 0.52595
+Operating Margins: 0.15100001
+Profit Margins: 0.29079
+Free Cashflow: 49275752
+Operating Cashflow: 139548000
+Return On Assets: 0.03808
+Return On Equity: 0.185
+Total Cash: 402804992
+Total Debt: 7176000
+Debt To Equity: 1.008
+Current Ratio: 8.992
+Quick Ratio: 7.152
+Trailing PE: 62.087788
+Forward PE: 38.761684
+Price To Book: 10.346648
+Beta: 1.916
+52 Week High: 209.53
+52 Week Low: 38.92

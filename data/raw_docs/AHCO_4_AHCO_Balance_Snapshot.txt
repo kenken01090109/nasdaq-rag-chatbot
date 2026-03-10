@@ -1,0 +1,8 @@
+Company: AdaptHealth Corp. Common Stock
+Ticker: AHCO
+Total Cash: 106240000
+Total Debt: 1902800000
+Debt To Equity: 124.666
+Current Ratio: 1.023
+Quick Ratio: 0.711
+Book Value: 11.46

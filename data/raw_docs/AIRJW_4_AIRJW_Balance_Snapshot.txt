@@ -1,0 +1,8 @@
+Company: AirJoule Technologies Corporation Warrant
+Ticker: AIRJW
+Total Cash: 26007724
+Total Debt: 132047
+Debt To Equity: 0.046
+Current Ratio: 14.147
+Quick Ratio: 13.729
+Book Value: 4.73

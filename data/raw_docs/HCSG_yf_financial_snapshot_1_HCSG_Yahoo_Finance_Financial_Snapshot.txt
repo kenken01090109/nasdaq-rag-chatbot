@@ -1,0 +1,25 @@
+Company: Healthcare Services Group Inc. Common Stock
+Ticker: HCSG
+Market Cap: 1454906240
+Enterprise Value: 1321266816
+Total Revenue: 1837172992
+Revenue Per Share: 25.382
+EBITDA: 57017000
+Gross Margins: 0.13031
+Operating Margins: 0.05544
+Profit Margins: 0.03215
+Free Cashflow: 74724376
+Operating Cashflow: 144968000
+Return On Assets: 0.03799
+Return On Equity: 0.11693
+Total Cash: 167963008
+Total Debt: 15016000
+Debt To Equity: 2.943
+Current Ratio: 3.383
+Quick Ratio: 2.951
+Trailing PE: 25.493826
+Forward PE: 18.607458
+Price To Book: 2.8168054
+Beta: 0.752
+52 Week High: 22.98
+52 Week Low: 9.13

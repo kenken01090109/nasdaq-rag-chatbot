@@ -1,0 +1,11 @@
+Company: Biogen Inc. Common Stock
+Ticker: BIIB
+CIK: 0000875045
+Latest SEC XBRL Facts:
+Revenues: 7611200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1341800000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 29207500000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 11000000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 14483800000 | unit=USD | filed=2023-11-08 | period_end=2023-09-30
+NetCashProvidedByUsedInOperatingActivities: 1692700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2343900000 | unit=USD | filed=2019-10-22 | period_end=2019-09-30

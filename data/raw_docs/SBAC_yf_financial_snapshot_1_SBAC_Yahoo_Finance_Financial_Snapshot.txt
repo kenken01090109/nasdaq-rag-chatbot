@@ -1,0 +1,25 @@
+Company: SBA Communications Corporation Class A Common Stock
+Ticker: SBAC
+Market Cap: 20948154368
+Enterprise Value: 35846856704
+Total Revenue: 2815139072
+Revenue Per Share: 26.259
+EBITDA: 1810643968
+Gross Margins: 0.74485
+Operating Margins: 0.52439
+Profit Margins: 0.37427
+Free Cashflow: 918478720
+Operating Cashflow: 1291328000
+Return On Assets: 0.082550004
+Return On Equity: 
+Total Cash: 264568000
+Total Debt: 15331394560
+Debt To Equity: 
+Current Ratio: 0.286
+Quick Ratio: 0.173
+Trailing PE: 24.727045
+Forward PE: 24.221203
+Price To Book: -4.2797117
+Beta: 0.833
+52 Week High: 245.16
+52 Week Low: 177.49

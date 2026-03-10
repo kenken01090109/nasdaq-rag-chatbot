@@ -1,0 +1,11 @@
+Company: NANO-X IMAGING LTD Ordinary Shares
+Ticker: NNOX
+CIK: 0001795251
+Latest SEC XBRL Facts:
+Revenues: 11283000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31
+NetIncomeLoss: -53516000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31
+Assets: 210002000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31
+Liabilities: 20883000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31
+StockholdersEquity: 189119000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -36598000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 39304000 | unit=USD | filed=2025-04-09 | period_end=2024-12-31

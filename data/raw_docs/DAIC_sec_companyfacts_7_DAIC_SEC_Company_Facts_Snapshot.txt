@@ -1,0 +1,10 @@
+Company: CID HoldCo Inc. Common Stock
+Ticker: DAIC
+CIK: 0002033770
+Latest SEC XBRL Facts:
+Revenues: 1257813 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -34360316 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 7446106 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9564290 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -2118184 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8197830 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

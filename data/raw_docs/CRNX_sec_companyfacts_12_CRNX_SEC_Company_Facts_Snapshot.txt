@@ -1,0 +1,12 @@
+Company: Crinetics Pharmaceuticals Inc. Common Stock
+Ticker: CRNX
+CIK: 0001658247
+Latest SEC XBRL Facts:
+Revenues: 1392000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1535000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -342502000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1196031000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 123862000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1072169000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -285021000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 110901000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

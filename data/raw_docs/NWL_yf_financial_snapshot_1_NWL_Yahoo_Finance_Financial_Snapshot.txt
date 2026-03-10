@@ -1,0 +1,25 @@
+Company: Newell Brands Inc. Common Stock
+Ticker: NWL
+Market Cap: 1777407872
+Enterprise Value: 7014559744
+Total Revenue: 7203999744
+Revenue Per Share: 17.226
+EBITDA: 799000000
+Gross Margins: 0.33815
+Operating Margins: 0.06958
+Profit Margins: -0.03956
+Free Cashflow: 350375008
+Operating Cashflow: 264000000
+Return On Assets: 0.02809
+Return On Equity: -0.11085
+Total Cash: 203000000
+Total Debt: 5415000064
+Debt To Equity: 226.474
+Current Ratio: 1.072
+Quick Ratio: 0.471
+Trailing PE: 
+Forward PE: 6.2692213
+Price To Book: 0.743338
+Beta: 0.87
+52 Week High: 7.02
+52 Week Low: 3.07

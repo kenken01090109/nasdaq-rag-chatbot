@@ -1,0 +1,10 @@
+Company: Jade Biosciences Inc. Common Stock
+Ticker: JBIO
+CIK: 0001798749
+Latest SEC XBRL Facts:
+NetIncomeLoss: -95478000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 202450000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 23104000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 179346000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -61040000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 50106000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

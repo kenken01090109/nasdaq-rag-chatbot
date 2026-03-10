@@ -1,0 +1,9 @@
+Company: Elong Power Holding Limited Class A Ordinary Shares
+Ticker: ELPW
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: China
+City: Beijing
+Website: https://www.elongpower.com
+Employees: 38
+Business Summary: Elong Power Holding Limited, through its subsidiaries, is engaged in the research and development, production, and market application of high-power lithium-ion battery packs, cells, and parts for electric vehicles and construction machinery. It also offers lithium-ion batteries for energy storage systems. In addition, the company provides battery cells, modules, system integration, and battery management systems. Further, it is involved in research, development, manufacture, and sale of backup power supplies, energy storage systems, accessories, and battery spare parts. The company also provides a product portfolio including lithium manganese oxide and lithium iron phosphate batteries, designed to meet the demands of high-power and energy storage applications across various scenarios. The company was founded in 2014 and is based in Beijing, China.

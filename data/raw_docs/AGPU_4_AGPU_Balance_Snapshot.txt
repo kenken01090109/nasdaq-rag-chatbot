@@ -1,0 +1,8 @@
+Company: Axe Compute Inc. Common Stock
+Ticker: AGPU
+Total Cash: 181667
+Total Debt: 1891827
+Debt To Equity: 
+Current Ratio: 0.014
+Quick Ratio: 0.003
+Book Value: -100.942

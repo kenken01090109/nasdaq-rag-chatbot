@@ -1,0 +1,25 @@
+Company: Anterix Inc. Common Stock
+Ticker: ATEX
+Market Cap: 741822336
+Enterprise Value: 716932416
+Total Revenue: 5932000
+Revenue Per Share: 0.318
+EBITDA: -41291000
+Gross Margins: 1.0
+Operating Margins: -6.18563
+Profit Margins: 13.709201
+Free Cashflow: -36365000
+Operating Cashflow: -26563000
+Return On Assets: -0.07014
+Return On Equity: 0.42723
+Total Cash: 29534000
+Total Debt: 4644000
+Debt To Equity: 1.968
+Current Ratio: 1.39
+Quick Ratio: 1.062
+Trailing PE: 9.103448
+Forward PE: -53.51351
+Price To Book: 3.1237674
+Beta: 0.737
+52 Week High: 40.25
+52 Week Low: 17.58

@@ -1,0 +1,9 @@
+Company: Funko Inc. Class A Common Stock
+Ticker: FNKO
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: United States
+City: Everett
+Website: https://www.funko.com
+Employees: 1085
+Business Summary: Funko, Inc., a pop culture consumer products company, designs, manufactures, and markets licensed pop culture products in the United States, Europe, and internationally. It offers media and entertainment content, including movies, television (TV) shows, video games, music, and sports; figures, handbags, backpacks, wallets, apparel, accessories, plush products, homewares, and digital non-fungible tokens; and art prints and vinyl records, posters, soundtracks, toys, apparel, books, games, and other collectibles. The company markets its products under the Pop!, Loungefly, Funko, Mystery Minis, Bitty Pop!, Funko action figures, Funko Plush, and Funko Soda brands; and licenses its properties under the classic evergreen, movie release, current TV, and current video game categories. The company sells its products through specialty retailers, mass-market retailers, e-commerce sites, and distributors; and at specialty licensing and comic book shows, conventions, and exhibitions, as well as through its e-commerce business. Funko, Inc. was incorporated in 2017 and is headquartered in Everett, Washington.

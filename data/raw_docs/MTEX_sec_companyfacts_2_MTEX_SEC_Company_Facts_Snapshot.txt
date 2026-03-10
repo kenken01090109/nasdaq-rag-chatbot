@@ -1,0 +1,11 @@
+Company: Mannatech Incorporated Common Stock
+Ticker: MTEX
+CIK: 0001056358
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 81403000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -3918000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 33920000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 26970000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6950000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2674000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7141000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

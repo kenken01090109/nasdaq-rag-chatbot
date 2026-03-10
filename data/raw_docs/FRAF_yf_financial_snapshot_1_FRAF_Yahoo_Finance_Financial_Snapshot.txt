@@ -1,0 +1,25 @@
+Company: Franklin Financial Services Corporation Common Stock
+Ticker: FRAF
+Market Cap: 224371632
+Enterprise Value: 414558976
+Total Revenue: 85923000
+Revenue Per Share: 19.188
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.32489
+Profit Margins: 0.24704
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.13648
+Total Cash: 26943000
+Total Debt: 215238000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.563292
+Forward PE: 
+Price To Book: 1.3479244
+Beta: -0.116
+52 Week High: 59.95
+52 Week Low: 32.39

@@ -1,0 +1,25 @@
+Company: CVRx Inc. Common Stock
+Ticker: CVRX
+Market Cap: 217070768
+Enterprise Value: 191866752
+Total Revenue: 56651000
+Revenue Per Share: 2.172
+EBITDA: -50509000
+Gross Margins: 0.85329
+Operating Margins: -0.69795
+Profit Margins: -0.94095004
+Free Cashflow: -23787500
+Operating Cashflow: -40170000
+Return On Assets: -0.26900998
+Return On Equity: -0.96586996
+Total Cash: 75708000
+Total Debt: 50504000
+Debt To Equity: 128.43
+Current Ratio: 7.633
+Quick Ratio: 6.486
+Trailing PE: 
+Forward PE: -4.6418724
+Price To Book: 5.5183945
+Beta: 1.243
+52 Week High: 13.34
+52 Week Low: 4.299

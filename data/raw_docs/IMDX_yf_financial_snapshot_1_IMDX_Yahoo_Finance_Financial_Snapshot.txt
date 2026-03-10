@@ -1,0 +1,25 @@
+Company: Insight Molecular Diagnostics Inc. Common Stock
+Ticker: IMDX
+Market Cap: 156328128
+Enterprise Value: 141516112
+Total Revenue: 4402000
+Revenue Per Share: 0.164
+EBITDA: -23771000
+Gross Margins: 0.55111
+Operating Margins: -29.5
+Profit Margins: 0.0
+Free Cashflow: -16862624
+Operating Cashflow: -22014000
+Return On Assets: -0.28436002
+Return On Equity: -236.03107
+Total Cash: 18692000
+Total Debt: 3127000
+Debt To Equity: 
+Current Ratio: 2.792
+Quick Ratio: 2.474
+Trailing PE: 
+Forward PE: -6.4880953
+Price To Book: -16.978191
+Beta: 1.348
+52 Week High: 8.51
+52 Week Low: 2.33

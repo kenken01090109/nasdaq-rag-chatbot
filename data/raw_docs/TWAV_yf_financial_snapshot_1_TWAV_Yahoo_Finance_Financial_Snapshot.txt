@@ -1,0 +1,25 @@
+Company: TaoWeave Inc. Common Stock
+Ticker: TWAV
+Market Cap: 3335499
+Enterprise Value: -465645
+Total Revenue: 2378000
+Revenue Per Share: 1.307
+EBITDA: 
+Gross Margins: 0.35955003
+Operating Margins: -1.33444
+Profit Margins: -1.87174
+Free Cashflow: -8893625
+Operating Cashflow: -3156000
+Return On Assets: -0.22984
+Return On Equity: -0.61414003
+Total Cash: 3737000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 10.178
+Quick Ratio: 3.504
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.3395364
+Beta: 3.248
+52 Week High: 5.5
+52 Week Low: 0.58

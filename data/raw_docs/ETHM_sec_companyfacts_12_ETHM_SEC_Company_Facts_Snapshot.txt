@@ -1,0 +1,10 @@
+Company: Dynamix Corporation Class A Ordinary Shares
+Ticker: ETHM
+CIK: 0002028699
+Latest SEC XBRL Facts:
+NetIncomeLoss: -14649991 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 172498210 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 27583152 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -26988960 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1607589 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1229430 | unit=USD | filed=2025-05-14 | period_end=2025-03-31

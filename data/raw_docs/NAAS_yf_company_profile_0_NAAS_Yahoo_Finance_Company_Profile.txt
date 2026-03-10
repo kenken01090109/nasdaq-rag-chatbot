@@ -1,0 +1,9 @@
+Company: NaaS Technology Inc. American Depositary Shares
+Ticker: NAAS
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: China
+City: Beijing
+Website: https://www.enaas.com/en/
+Employees: 225
+Business Summary: NaaS Technology Inc. provides electric vehicle (EV) charging services in China. The company offers online EV charging solutions to charging stations, including mobility connectivity services through Kuaidian; SaaS products, such as traffic support and management, marketing, payment, chargers management, order management, load management, and membership management; and operates full station. It also provides energy solutions comprising site selection; hardware procurement; engineering, procurement, and construction for charging station; and integrates smart photovoltaics energy storage and power charging for station upgrade, as well as offline operational and management services. In addition, the company offers electricity procurement services to charging stations; cloud-based virtual power plant platform to facilitate the establishment of a modern energy system for charging stations; and other amenities and ancillary services, such as vending machines, massage chairs, and car wash tunnels, as well as design and decoration, furniture, ands fixture procurement. NaaS Technology Inc. is headquartered in Beijing, China.

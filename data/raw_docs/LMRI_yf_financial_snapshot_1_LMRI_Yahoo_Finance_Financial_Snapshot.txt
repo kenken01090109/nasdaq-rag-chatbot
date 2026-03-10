@@ -1,0 +1,25 @@
+Company: Lumexa Imaging Holdings Inc. Common Stock
+Ticker: LMRI
+Market Cap: 1399571712
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 20.139343
+Price To Book: 55.430714
+Beta: 
+52 Week High: 19.45
+52 Week Low: 9.965

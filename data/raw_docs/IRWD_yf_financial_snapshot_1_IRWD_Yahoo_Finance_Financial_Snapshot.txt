@@ -1,0 +1,25 @@
+Company: Ironwood Pharmaceuticals Inc. Class A Common Stock
+Ticker: IRWD
+Market Cap: 570704128
+Enterprise Value: 972617088
+Total Revenue: 296151008
+Revenue Per Share: 1.83
+EBITDA: 120640000
+Gross Margins: 0.67876
+Operating Margins: 0.13735
+Profit Margins: 0.081099994
+Free Cashflow: 111571128
+Operating Cashflow: 127044000
+Return On Assets: 0.19850999
+Return On Equity: 
+Total Cash: 215456000
+Total Debt: 597801984
+Debt To Equity: 
+Current Ratio: 1.132
+Quick Ratio: 1.083
+Trailing PE: 23.333332
+Forward PE: 2.4027405
+Price To Book: -2.1793275
+Beta: 0.189
+52 Week High: 5.78
+52 Week Low: 0.53

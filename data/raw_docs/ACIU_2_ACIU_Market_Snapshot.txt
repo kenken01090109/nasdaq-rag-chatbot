@@ -1,0 +1,10 @@
+Company: AC Immune SA Common Stock
+Ticker: ACIU
+Market Cap: 274638016
+Enterprise Value: 171632848
+Trailing PE: 
+Forward PE: -3.7236404
+Price To Book: 3.4368782
+Beta: 1.65
+52 Week High: 4.0
+52 Week Low: 1.43

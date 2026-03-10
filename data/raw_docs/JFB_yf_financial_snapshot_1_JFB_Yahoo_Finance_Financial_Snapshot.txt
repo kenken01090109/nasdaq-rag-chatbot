@@ -1,0 +1,25 @@
+Company: JFB Construction Holdings Class A Common Stock
+Ticker: JFB
+Market Cap: 114842016
+Enterprise Value: 167249632
+Total Revenue: 21701820
+Revenue Per Share: 2.43
+EBITDA: -3067063
+Gross Margins: 0.19728
+Operating Margins: -0.22649999
+Profit Margins: -0.14066
+Free Cashflow: -2650817
+Operating Cashflow: -3495407
+Return On Assets: -0.17095
+Return On Equity: -0.34637
+Total Cash: 6597799
+Total Debt: 725858
+Debt To Equity: 6.234
+Current Ratio: 4.903
+Quick Ratio: 4.846
+Trailing PE: 
+Forward PE: 
+Price To Book: 14.075343
+Beta: 
+52 Week High: 35.1
+52 Week Low: 3.42

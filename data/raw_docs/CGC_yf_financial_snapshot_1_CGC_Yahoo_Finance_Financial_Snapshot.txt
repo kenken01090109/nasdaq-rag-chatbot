@@ -1,0 +1,25 @@
+Company: Canopy Growth Corporation Common Shares
+Ticker: CGC
+Market Cap: 445152256
+Enterprise Value: 276617152
+Total Revenue: 278388992
+Revenue Per Share: 1.157
+EBITDA: -8742000
+Gross Margins: 0.26561
+Operating Margins: -0.17576
+Profit Margins: -1.17311
+Free Cashflow: -25979250
+Operating Cashflow: -78704000
+Return On Assets: -0.02644
+Return On Equity: -0.48501
+Total Cash: 371484992
+Total Debt: 255124992
+Debt To Equity: 33.65
+Current Ratio: 5.338
+Quick Ratio: 4.11
+Trailing PE: 
+Forward PE: -14.628279
+Price To Book: 0.7104555
+Beta: 2.344
+52 Week High: 2.38
+52 Week Low: 0.77

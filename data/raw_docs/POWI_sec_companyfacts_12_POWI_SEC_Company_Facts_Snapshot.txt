@@ -1,0 +1,11 @@
+Company: Power Integrations Inc. Common Stock
+Ticker: POWI
+CIK: 0000833640
+Latest SEC XBRL Facts:
+Revenues: 340300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 8803000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 772530000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 100554000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 671976000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 85312000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 48646000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

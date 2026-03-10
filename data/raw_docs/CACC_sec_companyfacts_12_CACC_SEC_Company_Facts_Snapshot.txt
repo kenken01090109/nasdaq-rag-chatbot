@@ -1,0 +1,11 @@
+Company: Credit Acceptance Corporation Common Stock
+Ticker: CACC
+CIK: 0000885550
+Latest SEC XBRL Facts:
+Revenues: 1737300000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 301900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 8640600000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 7062000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1578600000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 785300000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

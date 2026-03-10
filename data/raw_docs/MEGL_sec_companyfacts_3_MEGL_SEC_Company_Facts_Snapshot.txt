@@ -1,0 +1,10 @@
+Company: Magic Empire Global Limited Class A Ordinary Shares
+Ticker: MEGL
+CIK: 0001881472
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1645819 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+NetIncomeLoss: -608912 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+Assets: 17526832 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+Liabilities: 850338 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+StockholdersEquity: 16676494 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -598615 | unit=USD | filed=2025-04-14 | period_end=2024-12-31

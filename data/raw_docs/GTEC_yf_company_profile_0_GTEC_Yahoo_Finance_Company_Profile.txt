@@ -1,0 +1,9 @@
+Company: Greenland Technologies Holding Corporation Class A Ordinary Shares
+Ticker: GTEC
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: East Windsor
+Website: https://ir.gtec-tech.com
+Employees: 345
+Business Summary: Greenland Technologies Holding Corporation designs, develops, manufactures, and sells components and products for material handling industries worldwide. The company offers transmission products, such as transmission systems and integrated powertrain primarily for electric forklift trucks; electric industrial heavy equipment, including electric wheeled front loader, electric excavator, and electric lithium forklifts; and provides charging solutions. Its products are used in manufacturing and logistic applications, such as factories, workshops, warehouses, fulfilment centers, shipyards, and seaports. Greenland Technologies Holding Corporation was and is headquartered in East Windsor, New Jersey.

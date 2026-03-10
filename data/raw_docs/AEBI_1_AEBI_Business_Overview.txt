@@ -1,0 +1,7 @@
+Company: Aebi Schmidt Holding AG Common Stock
+Ticker: AEBI
+Business Summary: Aebi Schmidt Holding AG develops and manufactures special-purpose vehicles and attachments. It offers winter maintenance technology products, including snow clearance and de-icing equipment, as well as attachments for tractors and Mercedes-Benz Unimog; airport technology products, such as snow clearance and de-icing equipment, sweepers, and control systems; and agricultural engineering solutions, such as implement carriers for steep slopes, multipurpose transporters, and motor mowers/single-axle machines. The company also provides such as on-demand, remote diagnostics warranty extension, service checks and contracts, vProtect maintenance and services, as well as digital solutions. In addition, it offers spreaders, sprayers, snow ploughs snow removal machines, and truck equipment and trailers. Aebi Schmidt Holding AG was founded in 1883 and is based in Frauenfeld, Switzerland with production facilities in Burgdorf, Switzerland; St. Blasien, Germany; Holten, the Netherlands; and Kielce, Poland; Jyväskylä, Finland; Indiana, Michigan, Wisconsin, Pennsylvania, Illinois, Minnesota, USA; and Quebec, Canada.
+Sector: Industrials
+Industry: Farm & Heavy Construction Machinery
+Exchange: NMS
+Quote Type: EQUITY

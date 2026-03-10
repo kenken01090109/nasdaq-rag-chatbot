@@ -1,0 +1,25 @@
+Company: LB Pharmaceuticals Inc Common Stock
+Ticker: LBRX
+Market Cap: 601612672
+Enterprise Value: 284980864
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -21757000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -22770000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 314479008
+Total Debt: 3666000
+Debt To Equity: 1.182
+Current Ratio: 47.601
+Quick Ratio: 47.311
+Trailing PE: 
+Forward PE: -6.415462
+Price To Book: 1.9393247
+Beta: 
+52 Week High: 25.6
+52 Week Low: 13.36

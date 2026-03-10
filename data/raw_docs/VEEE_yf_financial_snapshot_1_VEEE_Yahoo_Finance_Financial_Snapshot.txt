@@ -1,0 +1,25 @@
+Company: Twin Vee PowerCats Co. Common Stock
+Ticker: VEEE
+Market Cap: 3422258
+Enterprise Value: 2532223
+Total Revenue: 14819130
+Revenue Per Share: 7.53
+EBITDA: -6437735
+Gross Margins: 0.08483
+Operating Margins: -0.85831
+Profit Margins: -0.58082
+Free Cashflow: -6289333
+Operating Cashflow: -6878557
+Return On Assets: -0.24250999
+Return On Equity: -0.52669
+Total Cash: 1431578
+Total Debt: 541543
+Debt To Equity: 4.021
+Current Ratio: 2.182
+Quick Ratio: 0.861
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.06594685
+Beta: 1.158
+52 Week High: 9.3
+52 Week Low: 0.265

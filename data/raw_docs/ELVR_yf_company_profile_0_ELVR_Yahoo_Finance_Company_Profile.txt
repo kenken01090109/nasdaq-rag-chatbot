@@ -1,0 +1,9 @@
+Company: Elevra Lithium Limited American Depository Shares
+Ticker: ELVR
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Australia
+City: Brisbane
+Website: https://www.elevra.com
+Employees: 230
+Business Summary: Elevra Lithium Limited, together with its subsidiaries, engages in the identification, acquisition, exploration, and development of mineral assets in Australia and Canada. The company explores for lithium, graphite, and gold deposits. Its flagship property includes the North American Lithium project that consists of 41 claims and one mining lease covering an area of approximately 1,493 hectares located in Quebec, Canada. The company was formerly known as Sayona Mining Limited and changed its name to Elevra Lithium Limited in August 2025. Elevra Lithium Limited was incorporated in 2000 and is headquartered in Brisbane, Australia.

@@ -1,0 +1,25 @@
+Company: Corbus Pharmaceuticals Holdings Inc. Common Stock
+Ticker: CRBP
+Market Cap: 140599824
+Enterprise Value: 38842356
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -75631000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -37465124
+Operating Cashflow: -59512000
+Return On Assets: -0.34688
+Return On Equity: -0.55647
+Total Cash: 103982000
+Total Debt: 2049000
+Debt To Equity: 2.224
+Current Ratio: 6.305
+Quick Ratio: 6.095
+Trailing PE: 
+Forward PE: -1.5540001
+Price To Book: 1.0896478
+Beta: 2.912
+52 Week High: 20.56
+52 Week Low: 4.64

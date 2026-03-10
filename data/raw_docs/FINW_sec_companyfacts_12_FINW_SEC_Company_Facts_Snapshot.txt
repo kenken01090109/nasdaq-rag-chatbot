@@ -1,0 +1,10 @@
+Company: FinWise Bancorp Common Stock
+Ticker: FINW
+CIK: 0001856365
+Latest SEC XBRL Facts:
+NetIncomeLoss: 12176000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 899929000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 712164000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 187765000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36501000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 105627000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

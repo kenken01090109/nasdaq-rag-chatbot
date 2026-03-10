@@ -1,0 +1,9 @@
+Company: StoneCo Ltd. Class A Common Shares
+Ticker: STNE
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Cayman Islands
+City: George Town
+Website: https://www.stoneco.com.br
+Employees: 
+Business Summary: StoneCo Ltd. provides financial technology and software solutions to merchants and integrated partners to conduct electronic commerce across in-store, online, and mobile channels in Brazil. The company offers financial services, including payment, prepayment, digital banking, and credit solutions. It distributes its solutions, principally through proprietary and franchised Stone Hubs, which offer hyper-local sales and services; and sells solutions to brick-and-mortar and digital merchants through sales team. The company served small-and-medium-sized businesses; and marketplaces, e-commerce platforms, and integrated software vendors. StoneCo Ltd. was founded in 2012 and is based in George Town, the Cayman Islands.

@@ -1,0 +1,12 @@
+Company: Microvast Holdings Inc. Warrants
+Ticker: MVSTW
+CIK: 0001760689
+Latest SEC XBRL Facts:
+Revenues: 331117000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 331117000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -45757000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1013607000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 655495000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 358112000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 59486000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 90748000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Avis Budget Group Inc. Common Stock
+Ticker: CAR
+CIK: 0000723612
+Latest SEC XBRL Facts:
+Revenues: 8988000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -142000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 32518000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: -2399000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2859000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 564000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: E.W. Scripps Company (The) Class A Common Stock
+Ticker: SSP
+Market Cap: 406861824
+Enterprise Value: 3514562304
+Total Revenue: 2150585088
+Revenue Per Share: 24.432
+EBITDA: 311783008
+Gross Margins: 0.40736
+Operating Margins: 0.0798
+Profit Margins: -0.04691
+Free Cashflow: -50106624
+Operating Cashflow: 53100000
+Return On Assets: 0.019709999
+Return On Equity: -0.07868
+Total Cash: 27923000
+Total Debt: 2730708992
+Debt To Equity: 219.142
+Current Ratio: 1.648
+Quick Ratio: 1.317
+Trailing PE: 
+Forward PE: -5.78481
+Price To Book: 0.49192682
+Beta: 0.543
+52 Week High: 4.98
+52 Week Low: 1.022556

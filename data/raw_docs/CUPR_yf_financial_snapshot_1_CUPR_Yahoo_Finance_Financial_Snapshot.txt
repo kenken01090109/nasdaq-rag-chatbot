@@ -1,0 +1,25 @@
+Company: Cuprina Holdings (Cayman) Limited Class A Ordinary Shares
+Ticker: CUPR
+Market Cap: 8221785
+Enterprise Value: 7184781
+Total Revenue: 30331
+Revenue Per Share: 0.002
+EBITDA: -2810243
+Gross Margins: -0.69242996
+Operating Margins: -86.42987
+Profit Margins: 0.0
+Free Cashflow: -7248589
+Operating Cashflow: -8604676
+Return On Assets: -0.28440002
+Return On Equity: -1.39102
+Total Cash: 4172464
+Total Debt: 3135460
+Debt To Equity: 40.86
+Current Ratio: 3.584
+Quick Ratio: 1.393
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.3712076
+Beta: 
+52 Week High: 9.5
+52 Week Low: 0.28

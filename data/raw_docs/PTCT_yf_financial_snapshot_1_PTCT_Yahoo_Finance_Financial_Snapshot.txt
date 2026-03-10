@@ -1,0 +1,25 @@
+Company: PTC Therapeutics Inc. Common Stock
+Ticker: PTCT
+Market Cap: 5199908352
+Enterprise Value: 6003816448
+Total Revenue: 1730654976
+Revenue Per Share: 21.76
+EBITDA: 895323008
+Gross Margins: 0.70979
+Operating Margins: -0.49566
+Profit Margins: 0.39444
+Free Cashflow: 211756752
+Operating Cashflow: 711196032
+Return On Assets: 0.23256001
+Return On Equity: 
+Total Cash: 1945371008
+Total Debt: 2707064064
+Debt To Equity: 
+Current Ratio: 2.348
+Quick Ratio: 2.196
+Trailing PE: 7.321678
+Forward PE: 25.85185
+Price To Book: -24.928572
+Beta: 0.564
+52 Week High: 87.5
+52 Week Low: 35.95

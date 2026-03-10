@@ -1,0 +1,11 @@
+Company: Cullinan Therapeutics Inc. Common Stock
+Ticker: CGEM
+CIK: 0001789972
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+NetIncomeLoss: -169166000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 484126000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 32757000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 451369000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -137641000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 103335000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

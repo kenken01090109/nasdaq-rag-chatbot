@@ -1,0 +1,11 @@
+Company: MVB Financial Corp. Common Stock
+Ticker: MVBF
+CIK: 0001277902
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5204000 | unit=USD | filed=2020-11-02 | period_end=2020-09-30
+NetIncomeLoss: 9440000 | unit=USD | filed=2025-03-13 | period_end=2024-12-31
+Assets: 3232953000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2905201000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 327752000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19003000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 300042000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

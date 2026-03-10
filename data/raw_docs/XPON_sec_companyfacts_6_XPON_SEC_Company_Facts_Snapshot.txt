@@ -1,0 +1,11 @@
+Company: Expion360 Inc. Common Stock
+Ticker: XPON
+CIK: 0001894954
+Latest SEC XBRL Facts:
+Revenues: 7432470 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -1798066 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 10689001 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1676936 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9012065 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3725143 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4293797 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

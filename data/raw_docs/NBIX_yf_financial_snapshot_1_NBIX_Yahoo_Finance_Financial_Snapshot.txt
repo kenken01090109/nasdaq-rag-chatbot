@@ -1,0 +1,25 @@
+Company: Neurocrine Biosciences Inc. Common Stock
+Ticker: NBIX
+Market Cap: 12859571200
+Enterprise Value: 12002019328
+Total Revenue: 2860499968
+Revenue Per Share: 28.749
+EBITDA: 666600000
+Gross Margins: 0.62671
+Operating Margins: 0.28206
+Profit Margins: 0.16731001
+Free Cashflow: 397812512
+Operating Cashflow: 782700032
+Return On Assets: 0.09528
+Return On Equity: 0.16383
+Total Cash: 1480400000
+Total Debt: 471300000
+Debt To Equity: 14.488
+Current Ratio: 3.393
+Quick Ratio: 2.915
+Trailing PE: 27.43683
+Forward PE: 13.371083
+Price To Book: 3.9425828
+Beta: 0.356
+52 Week High: 160.18
+52 Week Low: 84.23

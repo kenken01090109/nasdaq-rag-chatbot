@@ -1,0 +1,11 @@
+Company: ZeroStack Corp. Common Stock
+Ticker: ZSTK
+CIK: 0001790169
+Latest SEC XBRL Facts:
+Revenues: 26323000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -9829000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 74016000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 9096000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 64920000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5516000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13100000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

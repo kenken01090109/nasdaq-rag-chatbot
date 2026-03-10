@@ -1,0 +1,12 @@
+Company: Bridgeline Digital Inc. Common Stock
+Ticker: BLIN
+CIK: 0001378590
+Latest SEC XBRL Facts:
+Revenues: 10765000 | unit=USD | filed=2018-08-14 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3913000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -86000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 15736000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 6182000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 9554000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -39000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1481000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

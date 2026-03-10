@@ -1,0 +1,25 @@
+Company: BitVentures Limited Ordinary Shares
+Ticker: BVC
+Market Cap: 1261763968
+Enterprise Value: 1377795968
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -3682000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -12411125
+Operating Cashflow: -6482000
+Return On Assets: -0.17297001
+Return On Equity: -0.942
+Total Cash: 9884000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 62.557
+Quick Ratio: 62.557
+Trailing PE: 
+Forward PE: 
+Price To Book: 129.49138
+Beta: -1.025
+52 Week High: 15.003
+52 Week Low: 0.444

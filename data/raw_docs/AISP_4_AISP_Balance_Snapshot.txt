@@ -1,0 +1,8 @@
+Company: Airship AI Holdings Inc. Class A Common Stock
+Ticker: AISP
+Total Cash: 11750021
+Total Debt: 863744
+Debt To Equity: 
+Current Ratio: 2.945
+Quick Ratio: 2.898
+Book Value: -0.208

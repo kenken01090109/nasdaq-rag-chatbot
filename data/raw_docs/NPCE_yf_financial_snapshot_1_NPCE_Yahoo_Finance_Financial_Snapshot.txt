@@ -1,0 +1,25 @@
+Company: Neuropace Inc. Common Stock
+Ticker: NPCE
+Market Cap: 467307488
+Enterprise Value: 467649504
+Total Revenue: 99986000
+Revenue Per Share: 3.056
+EBITDA: -16100000
+Gross Margins: 0.77231
+Operating Margins: -0.06646
+Profit Margins: -0.21468
+Free Cashflow: -3959875
+Operating Cashflow: -11006000
+Return On Assets: -0.102
+Return On Equity: -1.58741
+Total Cash: 61058000
+Total Debt: 70837000
+Debt To Equity: 372.219
+Current Ratio: 5.281
+Quick Ratio: 4.252
+Trailing PE: 
+Forward PE: -43.3922
+Price To Book: 24.744268
+Beta: 1.865
+52 Week High: 18.975
+52 Week Low: 7.563

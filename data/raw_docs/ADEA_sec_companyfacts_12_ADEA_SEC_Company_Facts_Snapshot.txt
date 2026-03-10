@@ -1,0 +1,12 @@
+Company: Adeia Inc. Common Stock
+Ticker: ADEA
+CIK: 0001803696
+Latest SEC XBRL Facts:
+Revenues: 260744000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 260744000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 37364000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1068668000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 654946000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 413722000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 98088000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 56090000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

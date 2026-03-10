@@ -1,0 +1,10 @@
+Company: SIM Acquisition Corp. I Warrant
+Ticker: SIMAW
+CIK: 0002014982
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6772463 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 243110438 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 10993487 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -10559342 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -527940 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 860086 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

@@ -1,0 +1,25 @@
+Company: AIxCrypto Holdings Inc. Common Stock
+Ticker: AIXC
+Market Cap: 5676422
+Enterprise Value: 6133224
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -8767542
+Operating Cashflow: -7098508
+Return On Assets: -0.18867001
+Return On Equity: -0.39692003
+Total Cash: 38777168
+Total Debt: 3236843
+Debt To Equity: 8.397
+Current Ratio: 8.829
+Quick Ratio: 7.876
+Trailing PE: 0.38596493
+Forward PE: 
+Price To Book: 1.375
+Beta: 0.415
+52 Week High: 8.81
+52 Week Low: 0.92

@@ -1,0 +1,25 @@
+Company: DocGo Inc. Common Stock
+Ticker: DCGO
+Market Cap: 65720804
+Enterprise Value: 11958561
+Total Revenue: 368093376
+Revenue Per Share: 3.68
+EBITDA: -49151880
+Gross Margins: 0.31213
+Operating Margins: -0.35641
+Profit Margins: -0.14016
+Free Cashflow: 59089716
+Operating Cashflow: 57859208
+Return On Assets: -0.09465
+Return On Equity: -0.21065001
+Total Cash: 73355640
+Total Debt: 29463976
+Debt To Equity: 11.304
+Current Ratio: 2.585
+Quick Ratio: 2.451
+Trailing PE: 
+Forward PE: -3.8178256
+Price To Book: 0.24291395
+Beta: 0.959
+52 Week High: 3.18
+52 Week Low: 0.656

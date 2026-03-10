@@ -1,0 +1,25 @@
+Company: National Research Corporation Common Stock (Delaware)
+Ticker: NRC
+Market Cap: 330571776
+Enterprise Value: 394219008
+Total Revenue: 137390000
+Revenue Per Share: 6.138
+EBITDA: 30214000
+Gross Margins: 0.61882
+Operating Margins: 0.13264
+Profit Margins: 0.08443
+Free Cashflow: 11372500
+Operating Cashflow: 26450000
+Return On Assets: 0.10559
+Return On Equity: 0.51243997
+Total Cash: 4139000
+Total Debt: 80531000
+Debt To Equity: 575.633
+Current Ratio: 0.552
+Quick Ratio: 0.416
+Trailing PE: 29.18
+Forward PE: 12.577587
+Price To Book: 23.608416
+Beta: 0.58
+52 Week High: 22.79
+52 Week Low: 9.755

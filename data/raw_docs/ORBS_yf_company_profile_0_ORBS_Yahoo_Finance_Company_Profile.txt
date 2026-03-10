@@ -1,0 +1,9 @@
+Company: Eightco Holdings Inc. Common Stock
+Ticker: ORBS
+Sector: Consumer Cyclical
+Industry: Packaging & Containers
+Country: United States
+City: Easton
+Website: https://www.8co.holdings
+Employees: 23
+Business Summary: Eightco Holdings Inc. provides inventory management and corrugated custom packaging solutions in North America and Europe. It operates in two segments, Inventory Management Solutions and Corrugated Packaging. The company provides funding solutions for e-commerce businesses. It also manufactures and sells custom packaging for various products. The company was formerly known as Cryptyde, Inc. and changed its name to Eightco Holdings Inc. in April 2023. Eightco Holdings Inc. was incorporated in 1966 and is headquartered in Easton, Pennsylvania.

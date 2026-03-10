@@ -1,0 +1,9 @@
+Company: Sow Good Inc. Common Stock
+Ticker: SOWG
+Sector: Consumer Defensive
+Industry: Confectioners
+Country: United States
+City: Irving
+Website: https://www.thisissowgood.com
+Employees: 86
+Business Summary: Sow Good Inc. manufactures and sells freeze-dried candy and snack products in the United States. It markets its products through direct-to-consumer websites and other social media presence, as well as through business-to-business sales channels. The company offers its products under the Sow Good brand name. The company was formerly known as Black Ridge Oil & Gas, Inc. and changed its name to Sow Good Inc. in January 2021. Sow Good Inc. was incorporated in 2010 and is based in Irving, Texas.

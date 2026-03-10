@@ -1,0 +1,11 @@
+Company: QCR Holdings Inc. Common Stock
+Ticker: QCRH
+CIK: 0000906465
+Latest SEC XBRL Facts:
+Revenues: 48087745 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+NetIncomeLoss: 91530000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 9568302000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 8481387000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1086915000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 86133000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 61845988 | unit=USD | filed=2018-05-09 | period_end=2018-03-31

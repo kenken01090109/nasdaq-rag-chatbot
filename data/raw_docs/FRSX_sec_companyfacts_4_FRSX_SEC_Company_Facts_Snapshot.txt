@@ -1,0 +1,12 @@
+Company: Foresight Autonomous Holdings Ltd. American Depositary Shares
+Ticker: FRSX
+CIK: 0001691221
+Latest SEC XBRL Facts:
+Revenues: 248000 | unit=USD | filed=2022-08-19 | period_end=2022-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 240000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+NetIncomeLoss: -6025000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+Assets: 8549000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+Liabilities: 2924000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+StockholdersEquity: 5931000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5373000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6342000 | unit=USD | filed=2025-08-19 | period_end=2025-06-30

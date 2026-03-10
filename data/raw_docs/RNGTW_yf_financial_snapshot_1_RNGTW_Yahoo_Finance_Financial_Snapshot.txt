@@ -1,0 +1,25 @@
+Company: Range Capital Acquisition Corp II Warrants
+Ticker: RNGTW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -87.475
+Beta: 
+52 Week High: 0.4
+52 Week Low: 0.281

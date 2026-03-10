@@ -1,0 +1,25 @@
+Company: eXp World Holdings Inc. Common Stock
+Ticker: EXPI
+Market Cap: 1045214336
+Enterprise Value: 920969344
+Total Revenue: 4772311040
+Revenue Per Share: 30.42
+EBITDA: -11904000
+Gross Margins: 0.0699
+Operating Margins: -0.010679999
+Profit Margins: -0.00476
+Free Cashflow: 116488752
+Operating Cashflow: 118611000
+Return On Assets: -0.0322
+Return On Equity: -0.10148
+Total Cash: 124245000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.527
+Quick Ratio: 1.167
+Trailing PE: 
+Forward PE: 19.088234
+Price To Book: 4.306569
+Beta: 2.216
+52 Week High: 12.226
+52 Week Low: 6.45

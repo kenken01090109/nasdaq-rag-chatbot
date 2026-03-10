@@ -1,0 +1,9 @@
+Company: Masimo Corporation Common Stock
+Ticker: MASI
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Irvine
+Website: https://www.masimo.com
+Employees: 2200
+Business Summary: Masimo Corporation engages in the development, manufacture, and marketing of various patient monitoring technologies, and automation and connectivity solutions worldwide. It offers Masimo Signal Extraction Technology (SET) pulse oximetry with measure-through motion and low perfusion pulse oximetry monitoring to address the primary limitations of conventional pulse oximetry; Masimo Rainbow SET platform, including rainbow SET Pulse CO-Oximetry products that allows noninvasive monitoring of oxygen, carboxyhemoglobin, and methemoglobin. It also provides brain function and hemodynamic monitoring solutions; patient position and activity tracking, and neuromodulation technology solutions; and Masimo Hospital Automation platform, including hospital automation solutions, including Patient SafetyNet, Iris, iSirona, Replica, and UniView; and brain function monitoring, hemodynamic monitoring, regional oximetry, acoustic respiration rate monitoring, capnography and gas monitoring, and telehealth solutions. In addition, the company provides its products through direct sales force, distributors, and original equipment manufacturers partners to hospitals, emergency medical service and home care providers, long-term care facilities, physician offices, veterinarians, and consumers. Masimo Corporation was incorporated in 1989 and is headquartered in Irvine, California.

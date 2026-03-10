@@ -1,0 +1,25 @@
+Company: XOMA Royalty Corporation 8.625% Series A Cumulative Perpetual Preferred Stock
+Ticker: XOMAP
+Market Cap: 
+Enterprise Value: 426862304
+Total Revenue: 47106000
+Revenue Per Share: 3.927
+EBITDA: 7842000
+Gross Margins: 0.95128
+Operating Margins: -0.14222999
+Profit Margins: 0.45941
+Free Cashflow: -63384624
+Operating Cashflow: 5469000
+Return On Assets: 0.01426
+Return On Equity: 0.22453
+Total Cash: 46710000
+Total Debt: 133889000
+Debt To Equity: 124.021
+Current Ratio: 3.911
+Quick Ratio: 2.277
+Trailing PE: 25.744255
+Forward PE: 
+Price To Book: 3.6097493
+Beta: 0.831
+52 Week High: 30.0
+52 Week Low: 24.96

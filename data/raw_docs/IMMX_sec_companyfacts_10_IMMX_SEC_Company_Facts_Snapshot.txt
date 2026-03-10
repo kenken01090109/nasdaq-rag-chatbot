@@ -1,0 +1,11 @@
+Company: Immix Biopharma Inc. Common Stock
+Ticker: IMMX
+CIK: 0001873835
+Latest SEC XBRL Facts:
+Revenues: 20000000 | unit=USD | filed=2025-11-07 | period_end=2022-12-08
+NetIncomeLoss: -18750783 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 20080604 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 11815634 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 17550711 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -12900697 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15947308 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

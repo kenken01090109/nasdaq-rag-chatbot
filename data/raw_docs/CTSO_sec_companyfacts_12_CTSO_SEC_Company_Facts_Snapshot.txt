@@ -1,0 +1,11 @@
+Company: Cytosorbents Corporation Common Stock
+Ticker: CTSO
+CIK: 0001175151
+Latest SEC XBRL Facts:
+Revenues: 11424155 | unit=USD | filed=2019-08-06 | period_end=2019-06-30
+NetIncomeLoss: -2701000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 45750000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 36730000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9020000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7552000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7536000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

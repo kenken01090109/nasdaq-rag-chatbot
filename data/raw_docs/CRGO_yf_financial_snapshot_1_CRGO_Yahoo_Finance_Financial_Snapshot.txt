@@ -1,0 +1,25 @@
+Company: Freightos Limited Ordinary shares
+Ticker: CRGO
+Market Cap: 66671600
+Enterprise Value: 41057968
+Total Revenue: 29460000
+Revenue Per Share: 0.583
+EBITDA: -15707000
+Gross Margins: 0.66813004
+Operating Margins: -0.75935
+Profit Margins: -0.59457
+Free Cashflow: -4475000
+Operating Cashflow: -8868000
+Return On Assets: -0.17545
+Return On Equity: -0.35816002
+Total Cash: 27893000
+Total Debt: 2372000
+Debt To Equity: 5.526
+Current Ratio: 2.155
+Quick Ratio: 1.983
+Trailing PE: 
+Forward PE: -10.833333
+Price To Book: 1.5513126
+Beta: 1.21
+52 Week High: 4.24
+52 Week Low: 1.21

@@ -1,0 +1,9 @@
+Company: WW International Inc.  Common Stock
+Ticker: WW
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: United States
+City: New York
+Website: https://corporate.ww.com
+Employees: 3700
+Business Summary: WW International, Inc. provides weight management products and services in the United States, Germany, and internationally. It offers various nutritional, activity, behavioral, and lifestyle tools and approaches for individual weight goals, as well as for people taking GLP-1 medications or living with diabetes. The company also provides various digital subscription products to weight loss and weight management business, which provide interactive and personalized resources that allow users to follow its weight management program through its app and web-based platform, as well as allows members to inspire and support each other by sharing their experiences with other people on weight health journeys. In addition, it licenses its trademarks and other intellectual property in food, beverages, and other weight management-relevant consumer products and services, as well as provides publishing services. The company was formerly known as Weight Watchers International, Inc. and changed its name to WW International, Inc. in September 2019. WW International, Inc. was founded in 1963 and is headquartered in New York, New York.

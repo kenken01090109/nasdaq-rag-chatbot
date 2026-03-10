@@ -1,0 +1,25 @@
+Company: Youlife Group Inc. American Depositary Shares
+Ticker: YOUL
+Market Cap: 82132376
+Enterprise Value: 1039021824
+Total Revenue: 1712904960
+Revenue Per Share: 7.724
+EBITDA: 76039000
+Gross Margins: 0.14464
+Operating Margins: 0.05016
+Profit Margins: -0.00914
+Free Cashflow: 28382376
+Operating Cashflow: 12350000
+Return On Assets: 0.03864
+Return On Equity: -0.025559999
+Total Cash: 159028000
+Total Debt: 127044000
+Debt To Equity: 20.278
+Current Ratio: 1.818
+Quick Ratio: 1.208
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.8461855
+Beta: 
+52 Week High: 5.5
+52 Week Low: 0.782

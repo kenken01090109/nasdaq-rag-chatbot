@@ -1,0 +1,25 @@
+Company: Sanara MedTech Inc. Common Stock
+Ticker: SMTI
+Market Cap: 168615856
+Enterprise Value: 204008800
+Total Revenue: 101877536
+Revenue Per Share: 11.859
+EBITDA: 5753843
+Gross Margins: 0.9225
+Operating Margins: 0.11169
+Profit Margins: -0.368
+Free Cashflow: 4408083
+Operating Cashflow: 3773615
+Return On Assets: 0.01126
+Return On Equity: -0.27746
+Total Cash: 14939646
+Total Debt: 47392252
+Debt To Equity: 771.794
+Current Ratio: 1.799
+Quick Ratio: 1.557
+Trailing PE: 
+Forward PE: -16.128206
+Price To Book: 27.38752
+Beta: 1.05
+52 Week High: 35.95
+52 Week Low: 18.29

@@ -1,0 +1,7 @@
+Company: Atlantic American Corporation Common Stock
+Ticker: AAME
+Business Summary: Atlantic American Corporation, through its subsidiaries, provides life and health, and property and casualty insurance products in the United States. It operates through American Southern and Bankers Fidelity segments. The company offers property and casualty insurance products, including commercial automobile insurance coverage for state governments, local municipalities, and other motor pools and fleets; general liability insurance; and inland marine insurance products. It also provides surety bond coverage for subdivision construction; school bus contracts; and performance and payment bonds. In addition, the company offers individual and group whole life insurance products; Medicare supplement insurance products; other accident and health insurance products comprising various individual and group policies for the payment of standard benefits for the treatment of cancer and other critical illnesses; Vantage Flex Plus, a hospital indemnity plan; and Vantage Recovery short-term care product and a group whole life product. It markets its products through independent agents and brokers. The company was founded in 1937 and is based in Atlanta, Georgia. Atlantic American Corporation operates as a subsidiary of Atlantic American / Delta Group.
+Sector: Financial Services
+Industry: Insurance - Life
+Exchange: NGM
+Quote Type: EQUITY

@@ -1,0 +1,12 @@
+Company: Senmiao Technology Limited Common Stock
+Ticker: AIHS
+Total Revenue: 3132462
+Revenue Per Share: 1.738
+Gross Margins: 0.19746
+Operating Margins: -3.05725
+EBITDA: -3974467
+Profit Margins: -1.15739
+Free Cashflow: -4550194
+Operating Cashflow: -1306332
+Return On Assets: -0.44551998
+Return On Equity: -1.3566499

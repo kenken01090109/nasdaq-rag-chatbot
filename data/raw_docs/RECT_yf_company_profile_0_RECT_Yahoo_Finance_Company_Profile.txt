@@ -1,0 +1,9 @@
+Company: Rectitude Holdings Ltd Ordinary Shares
+Ticker: RECT
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: Singapore
+City: Singapore
+Website: https://www.rectitude.com.sg
+Employees: 110
+Business Summary: Rectitude Holdings Ltd, an investment holding company, engages in the wholesale and supply of safety equipment in Singapore. The company offers personal protective clothing; hand gloves; step platform ladders; safety footwear; travel restraint and personal fall arrest equipment; portable fire extinguishers, firefighting equipment, and fire related safety products; traffic products; and industrial hardware tools, electrical products, and accessories. It sells its products under the D&D, SkyHawk, Super Sun, STRIKERS, Osprey, HORNET, and DADE brands. It serves wholesalers, distributors, and end users. Rectitude Holdings Ltd was founded in 1997 and is based in Singapore.

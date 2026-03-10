@@ -1,0 +1,25 @@
+Company: Sangoma Technologies Corporation Common Shares
+Ticker: SANG
+Market Cap: 154458960
+Enterprise Value: 183576560
+Total Revenue: 219696992
+Revenue Per Share: 6.584
+EBITDA: 7364000
+Gross Margins: 0.70611
+Operating Margins: -0.03337
+Profit Margins: -0.02527
+Free Cashflow: 34726500
+Operating Cashflow: 32815000
+Return On Assets: -0.00529
+Return On Equity: -0.02189
+Total Cash: 17252000
+Total Debt: 45207000
+Debt To Equity: 18.08
+Current Ratio: 0.871
+Quick Ratio: 0.62
+Trailing PE: 
+Forward PE: 35.769234
+Price To Book: 0.6174479
+Beta: 1.019
+52 Week High: 6.49
+52 Week Low: 4.08

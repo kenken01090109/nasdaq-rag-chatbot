@@ -1,0 +1,11 @@
+Company: ChoiceOne Financial Services Inc. Common Stock
+Ticker: COFS
+CIK: 0000803164
+Latest SEC XBRL Facts:
+Revenues: 167151000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 14309000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 4296902000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3847287000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 449615000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 17780000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 98978000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

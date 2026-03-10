@@ -1,0 +1,12 @@
+Company: Diodes Incorporated Common Stock
+Ticker: DIOD
+CIK: 0000029002
+Latest SEC XBRL Facts:
+Revenues: 554340000 | unit=USD | filed=2014-08-08 | period_end=2014-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1090495000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 55939000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2469791000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 522370000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1889154000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 177397000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 376587000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

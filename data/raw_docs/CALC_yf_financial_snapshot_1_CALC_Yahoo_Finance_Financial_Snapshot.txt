@@ -1,0 +1,25 @@
+Company: CalciMedica Inc. Common Stock
+Ticker: CALC
+Market Cap: 10475656
+Enterprise Value: 8129827
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -23075000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -13020375
+Operating Cashflow: -21178000
+Return On Assets: -0.8657
+Return On Equity: -7.6102505
+Total Cash: 13016000
+Total Debt: 9700000
+Debt To Equity: 
+Current Ratio: 3.577
+Quick Ratio: 3.442
+Trailing PE: 
+Forward PE: -0.44601226
+Price To Book: -1.6906977
+Beta: 1.242
+52 Week High: 7.2
+52 Week Low: 0.461

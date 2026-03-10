@@ -1,0 +1,9 @@
+Company: Elauwit Connection Inc. Common Stock
+Ticker: ELWT
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Cheyenne
+Website: https://www.elauwit.com
+Employees: 20
+Business Summary: Elauwit Connection, Inc. provides broadband internet network for the multifamily and student housing property sectors in the United States. The company designs, installs, operates, and maintains fiber optics and WiFi networks throughout each contracted property, as well as offers bandwidth, 24/7 network monitoring, network maintenance, and resident support services. It provides its services to wholesale, REITs, property ownership groups, and property management companies. The company was founded in 2019 and is headquartered in Cheyenne, Wyoming.

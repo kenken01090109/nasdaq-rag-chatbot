@@ -1,0 +1,25 @@
+Company: Xeris Biopharma Holdings Inc. Common Stock
+Ticker: XERS
+Market Cap: 964020096
+Enterprise Value: 1188540928
+Total Revenue: 291844992
+Revenue Per Share: 1.819
+EBITDA: 37052000
+Gross Margins: 0.85414004
+Operating Margins: 0.19547
+Profit Margins: 0.0019
+Free Cashflow: 25969500
+Operating Cashflow: 28626000
+Return On Assets: 0.04404
+Return On Equity: 
+Total Cash: 111042000
+Total Debt: 258098000
+Debt To Equity: 1885.441
+Current Ratio: 2.193
+Quick Ratio: 1.479
+Trailing PE: Infinity
+Forward PE: 15.7027025
+Price To Book: 70.85365
+Beta: 0.968
+52 Week High: 10.08
+52 Week Low: 3.81

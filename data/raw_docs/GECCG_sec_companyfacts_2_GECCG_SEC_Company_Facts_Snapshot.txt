@@ -1,0 +1,9 @@
+Company: Great Elm Capital Corp. 7.75% Notes Due 2030
+Ticker: GECCG
+CIK: 0001675033
+Latest SEC XBRL Facts:
+Assets: 420049000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 279951000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 140098000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -21408000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 960000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30

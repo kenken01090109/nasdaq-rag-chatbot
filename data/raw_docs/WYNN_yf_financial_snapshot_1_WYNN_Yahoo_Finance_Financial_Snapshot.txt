@@ -1,0 +1,25 @@
+Company: Wynn Resorts Limited Common stock
+Ticker: WYNN
+Market Cap: 10565055488
+Enterprise Value: 20300107776
+Total Revenue: 7137924096
+Revenue Per Share: 68.834
+EBITDA: 1749601024
+Gross Margins: 0.68184996
+Operating Margins: 0.1567
+Profit Margins: 0.04586
+Free Cashflow: 414476992
+Operating Cashflow: 1352653056
+Return On Assets: 0.054759998
+Return On Equity: 
+Total Cash: 2065298048
+Total Debt: 12292253696
+Debt To Equity: 
+Current Ratio: 1.633
+Quick Ratio: 1.502
+Trailing PE: 32.35987
+Forward PE: 16.985987
+Price To Book: -37.80134
+Beta: 1.034
+52 Week High: 134.72
+52 Week Low: 65.25

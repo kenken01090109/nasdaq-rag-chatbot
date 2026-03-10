@@ -1,0 +1,25 @@
+Company: Sound Group Inc. American Depositary Shares
+Ticker: SOGP
+Market Cap: 57241600
+Enterprise Value: 11899042816
+Total Revenue: 2465500928
+Revenue Per Share: 480.083
+EBITDA: 27690500
+Gross Margins: 0.28496
+Operating Margins: 0.04652
+Profit Margins: 0.00834
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01964
+Return On Equity: 0.087790005
+Total Cash: 504876992
+Total Debt: 27860000
+Debt To Equity: 10.176
+Current Ratio: 1.8
+Quick Ratio: 1.661
+Trailing PE: 15.8160925
+Forward PE: 
+Price To Book: 1.4365134
+Beta: 2.664
+52 Week High: 37.0
+52 Week Low: 1.18

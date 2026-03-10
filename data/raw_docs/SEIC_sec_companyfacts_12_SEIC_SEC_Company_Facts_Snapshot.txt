@@ -1,0 +1,12 @@
+Company: SEI Investments Company Common Stock
+Ticker: SEIC
+CIK: 0000350894
+Latest SEC XBRL Facts:
+Revenues: 1689456000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1684058000 | unit=USD | filed=2021-02-22 | period_end=2020-12-31
+NetIncomeLoss: 542804000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Assets: 2626266000 | unit=USD | filed=2025-07-28 | period_end=2025-06-30
+Liabilities: 287827000 | unit=USD | filed=2025-07-28 | period_end=2025-06-30
+StockholdersEquity: 2400557000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 481264000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 710685000 | unit=USD | filed=2025-04-28 | period_end=2025-03-31

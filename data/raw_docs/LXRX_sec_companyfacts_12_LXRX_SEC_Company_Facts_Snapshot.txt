@@ -1,0 +1,12 @@
+Company: Lexicon Pharmaceuticals Inc. Common Stock
+Ticker: LXRX
+CIK: 0001062822
+Latest SEC XBRL Facts:
+Revenues: 44310000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1262000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+NetIncomeLoss: -34811000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 205927000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 85768000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 120159000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -50618000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49656000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

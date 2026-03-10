@@ -1,0 +1,9 @@
+Company: Gyrodyne LLC Common Stock
+Ticker: GYRO
+Sector: Real Estate
+Industry: Real Estate Services
+Country: United States
+City: Saint James
+Website: https://www.gyrodyne.com
+Employees: 6
+Business Summary: Gyrodyne, LLC (the Company) owns and manages a diversified portfolio of real estate properties comprising office, industrial and service-oriented properties in the New York metropolitan area. The Company owns a 63-acre site approximately 50 miles east of New York City on the north shore of Long Island, which includes industrial and office buildings and undeveloped property, and a medical office park in Cortlandt Manor, New York, both of which are the subject of plans to seek value-enhancing entitlements. The Company's common shares are traded on the NASDAQ Capital Market under the symbol GYRO.

@@ -1,0 +1,9 @@
+Company: Global Interactive Technologies Inc. Common Stock
+Ticker: GITS
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: South Korea
+City: Seoul
+Website: https://www.gitechnologies.com
+Employees: 12
+Business Summary: Global Interactive Technologies, Inc., through its subsidiary, operates as a technology-driven platform company in South Korea. The company operates Faning, an interactive platform designed to facilitate content discovery, monetization, user-generated content, and deep community engagement among global fandom communities; and Koreavibe.net, a digital media property providing original news content and features dedicated to global K-culture fandoms, attracting substantial viewership through its website and social media channels. The company was formerly known as Hanryu Holdings, Inc. and changed its name to Global Interactive Technologies, Inc. in December 2024. Global Interactive Technologies, Inc. was founded in 2018 and is based in Seoul, South Korea.

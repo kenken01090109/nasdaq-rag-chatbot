@@ -1,0 +1,11 @@
+Company: Kelly Services Inc. Class B Common Stock
+Ticker: KELYB
+CIK: 0000055135
+Latest SEC XBRL Facts:
+Revenues: 3201700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 3201700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetIncomeLoss: -125300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Assets: 2393100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+StockholdersEquity: 1115100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 94000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 30100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28

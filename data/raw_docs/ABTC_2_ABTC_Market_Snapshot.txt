@@ -1,0 +1,10 @@
+Company: American Bitcoin Corp. Class A Common Stock
+Ticker: ABTC
+Market Cap: 1085297792
+Enterprise Value: 1262935808
+Trailing PE: 6.4999995
+Forward PE: 58.5
+Price To Book: 1.872
+Beta: 
+52 Week High: 14.65
+52 Week Low: 0.63

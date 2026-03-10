@@ -1,0 +1,11 @@
+Company: High-Trend International Group Class A Ordinary Shares
+Ticker: HTCO
+CIK: 0001928948
+Latest SEC XBRL Facts:
+Revenues: 99415959 | unit=USD | filed=2025-08-08 | period_end=2025-04-30
+NetIncomeLoss: -13303196 | unit=USD | filed=2025-08-08 | period_end=2025-04-30
+Assets: 41682698 | unit=USD | filed=2025-08-08 | period_end=2025-04-30
+Liabilities: 16233054 | unit=USD | filed=2025-08-08 | period_end=2025-04-30
+StockholdersEquity: 21179961 | unit=USD | filed=2025-08-08 | period_end=2025-04-30
+NetCashProvidedByUsedInOperatingActivities: 6521953 | unit=USD | filed=2025-08-08 | period_end=2025-04-30
+CashAndCashEquivalentsAtCarryingValue: 13248829 | unit=USD | filed=2025-08-08 | period_end=2025-04-30

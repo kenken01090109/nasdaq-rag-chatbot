@@ -1,0 +1,11 @@
+Company: Columbia Financial Inc. Common Stock
+Ticker: CLBK
+CIK: 0001723596
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3063000 | unit=USD | filed=2019-05-13 | period_end=2019-03-31
+NetIncomeLoss: 36073000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 10855834000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 9714874000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1140960000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 44016000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 253402000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

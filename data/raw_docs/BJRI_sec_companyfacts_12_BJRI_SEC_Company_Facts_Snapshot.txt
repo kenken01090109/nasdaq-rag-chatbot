@@ -1,0 +1,12 @@
+Company: BJ's Restaurants Inc. Common Stock
+Ticker: BJRI
+CIK: 0001013488
+Latest SEC XBRL Facts:
+Revenues: 449173000 | unit=USD | filed=2011-11-01 | period_end=2011-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 1043727000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 36165000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1022045000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 665847000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 356198000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 91960000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25431000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

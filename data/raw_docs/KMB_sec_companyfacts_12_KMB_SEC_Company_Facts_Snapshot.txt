@@ -1,0 +1,10 @@
+Company: Kimberly-Clark Corporation Common Stock
+Ticker: KMB
+CIK: 0000055785
+Latest SEC XBRL Facts:
+Revenues: 12367000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1522000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 16888000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1332000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1805000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 617000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

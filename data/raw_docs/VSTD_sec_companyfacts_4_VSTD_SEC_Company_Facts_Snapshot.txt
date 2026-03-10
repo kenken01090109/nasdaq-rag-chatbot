@@ -1,0 +1,11 @@
+Company: Vestand Inc. Class A Common Stock
+Ticker: VSTD
+CIK: 0001898604
+Latest SEC XBRL Facts:
+Revenues: 7200729 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7200729 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+NetIncomeLoss: -2628857 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+Assets: 19067410 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+Liabilities: 14379793 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+StockholdersEquity: 4687617 | unit=USD | filed=2025-08-20 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1762011 | unit=USD | filed=2025-08-20 | period_end=2025-06-30

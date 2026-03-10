@@ -1,0 +1,11 @@
+Company: Fifth District Bancorp Inc. Common Stock
+Ticker: FDSB
+CIK: 0002012726
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 619000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31
+NetIncomeLoss: 3547000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 539500000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 408202000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 131298000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1370000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34380000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

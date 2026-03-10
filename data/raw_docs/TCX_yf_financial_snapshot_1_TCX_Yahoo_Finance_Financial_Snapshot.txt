@@ -1,0 +1,25 @@
+Company: Tucows Inc. Class A Common Stock
+Ticker: TCX
+Market Cap: 196983520
+Enterprise Value: 831203264
+Total Revenue: 390300000
+Revenue Per Share: 35.271
+EBITDA: 27606000
+Gross Margins: 0.35018003
+Operating Margins: -0.09246001
+Profit Margins: -0.19426
+Free Cashflow: -20332876
+Operating Cashflow: -5758000
+Return On Assets: -0.01564
+Return On Equity: 
+Total Cash: 46759000
+Total Debt: 681734016
+Debt To Equity: 
+Current Ratio: 0.615
+Quick Ratio: 0.216
+Trailing PE: 
+Forward PE: 9.144329
+Price To Book: -1.200433
+Beta: 1.04
+52 Week High: 25.17
+52 Week Low: 13.27

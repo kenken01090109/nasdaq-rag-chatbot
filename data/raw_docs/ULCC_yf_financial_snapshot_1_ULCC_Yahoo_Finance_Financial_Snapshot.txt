@@ -1,0 +1,25 @@
+Company: Frontier Group Holdings Inc. Common Stock
+Ticker: ULCC
+Market Cap: 831187136
+Enterprise Value: 5641555968
+Total Revenue: 3724000000
+Revenue Per Share: 16.35
+EBITDA: -360000000
+Gross Margins: 0.028199999
+Operating Margins: -0.09629
+Profit Margins: -0.03679
+Free Cashflow: -216750000
+Operating Cashflow: -525000000
+Return On Assets: -0.04216
+Return On Equity: -0.25023
+Total Cash: 671000000
+Total Debt: 5463000064
+Debt To Equity: 1112.627
+Current Ratio: 0.456
+Quick Ratio: 0.394
+Trailing PE: 
+Forward PE: 5.3086185
+Price To Book: 1.6884327
+Beta: 2.552
+52 Week High: 6.66
+52 Week Low: 2.891

@@ -1,0 +1,12 @@
+Company: Verisk Analytics Inc. Common Stock
+Ticker: VRSK
+CIK: 0001442145
+Latest SEC XBRL Facts:
+Revenues: 1781200000 | unit=USD | filed=2018-10-30 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2293900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 711100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 6241900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 5864400000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 376700000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1092700000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2107900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

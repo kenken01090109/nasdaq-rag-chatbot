@@ -1,0 +1,12 @@
+Company: OneSpaWorld Holdings Limited Common Shares
+Ticker: OSW
+CIK: 0001758488
+Latest SEC XBRL Facts:
+Revenues: 718874000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 718874000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 59556000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 732595000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 179804000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 552791000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 63564000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29556000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

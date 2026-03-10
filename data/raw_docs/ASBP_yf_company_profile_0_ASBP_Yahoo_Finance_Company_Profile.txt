@@ -1,0 +1,9 @@
+Company: Aspire Biopharma Holdings Inc. Common Stock
+Ticker: ASBP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Estero
+Website: https://aspirebiolabs.com
+Employees: 
+Business Summary: Aspire Biopharma Holdings, Inc., an early-stage biopharmaceutical company, develops and markets disruptive technology for novel sublingual delivery mechanisms in the United States. It offers Instaprin, a sublingual aspirin product that is a soluble, PH neutral, and fast acting aspirin, which addresses cardiology emergencies and pain management. The company is also developing formulations for sublingually administered products, including a melatonin sleep-aid product; vitamins D, E, and K; testosterone; and semaglutide product. In addition, it is developing formulations for anti-nausea products, anti-psychotic products, ED drugs, seizure medication, and other classes of drugs through sublingual administration; and caffeine products, such as a formula for a single dose sublingual pre-workout supplement. The company was founded in 2021 and is headquartered in Estero, Florida.

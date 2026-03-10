@@ -1,0 +1,25 @@
+Company: Euroseas Ltd. Common Stock (Marshall Islands)
+Ticker: ESEA
+Market Cap: 453748224
+Enterprise Value: 497290176
+Total Revenue: 227873568
+Revenue Per Share: 32.817
+EBITDA: 156055632
+Gross Margins: 0.76077
+Operating Margins: 0.59128
+Profit Margins: 0.60107
+Free Cashflow: 19757002
+Operating Cashflow: 141133488
+Return On Assets: 0.12587
+Return On Equity: 0.33148
+Total Cash: 176460048
+Total Debt: 216811376
+Debt To Equity: 46.783
+Current Ratio: 4.888
+Quick Ratio: 4.777
+Trailing PE: 3.7261224
+Forward PE: 4.84368
+Price To Book: 0.9859627
+Beta: 0.864
+52 Week High: 72.87
+52 Week Low: 25.834011

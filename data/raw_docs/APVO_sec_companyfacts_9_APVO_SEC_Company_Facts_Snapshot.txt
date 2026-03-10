@@ -1,0 +1,11 @@
+Company: Aptevo Therapeutics Inc. Common Stock
+Ticker: APVO
+CIK: 0001671584
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3114000 | unit=USD | filed=2023-11-14 | period_end=2022-09-30
+NetIncomeLoss: -20161000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 26996000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 9604000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 17392000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20356000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 21061000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

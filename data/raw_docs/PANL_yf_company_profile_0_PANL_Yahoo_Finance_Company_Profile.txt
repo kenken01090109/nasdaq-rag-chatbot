@@ -1,0 +1,9 @@
+Company: Pangaea Logistics Solutions Ltd. Common Shares
+Ticker: PANL
+Sector: Industrials
+Industry: Marine Shipping
+Country: United States
+City: Newport
+Website: https://www.pangaeals.com
+Employees: 170
+Business Summary: Pangaea Logistics Solutions Ltd., together with its subsidiaries, provides seaborne dry bulk logistics and transportation services to industrial customers worldwide. It offers transportation services for various dry bulk cargoes, such as grains, coal, iron ore, pig iron, hot briquetted iron, bauxite, alumina, cement clinker, dolomite, and limestone; and terminal and stevedoring services. The company also provides cargo loading, cargo discharge, port and terminal operations, vessel chartering, voyage planning, and technical vessel management. It owns and operates a fleet of 41 vessels. The company was founded in 1996 and is headquartered in Newport, Rhode Island.

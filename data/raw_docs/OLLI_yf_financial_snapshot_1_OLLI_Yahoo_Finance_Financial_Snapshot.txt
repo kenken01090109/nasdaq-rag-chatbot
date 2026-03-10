@@ -1,0 +1,25 @@
+Company: Ollie's Bargain Outlet Holdings Inc. Common Stock
+Ticker: OLLI
+Market Cap: 6680340992
+Enterprise Value: 7184051200
+Total Revenue: 2537026048
+Revenue Per Share: 41.36
+EBITDA: 334799008
+Gross Margins: 0.40742
+Operating Margins: 0.09031
+Profit Margins: 0.08813
+Free Cashflow: 83840376
+Operating Cashflow: 261932000
+Return On Assets: 0.066139996
+Return On Equity: 0.12964
+Total Cash: 186014000
+Total Debt: 670710976
+Debt To Equity: 36.599
+Current Ratio: 2.5
+Quick Ratio: 0.521
+Trailing PE: 30.171745
+Forward PE: 24.029402
+Price To Book: 3.647689
+Beta: 0.529
+52 Week High: 141.74
+52 Week Low: 97.04

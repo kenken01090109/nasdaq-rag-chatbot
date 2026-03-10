@@ -1,0 +1,12 @@
+Company: Construction Partners Inc. Class A Common Stock
+Ticker: ROAD
+CIK: 0001718227
+Latest SEC XBRL Facts:
+Revenues: 785679000 | unit=USD | filed=2020-12-11 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 809469000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: 17205000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 3358587000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 2389440000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 969147000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 82567000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 104093000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

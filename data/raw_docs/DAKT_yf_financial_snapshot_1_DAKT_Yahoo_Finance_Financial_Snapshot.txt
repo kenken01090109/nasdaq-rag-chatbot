@@ -1,0 +1,25 @@
+Company: Daktronics Inc. Common Stock
+Ticker: DAKT
+Market Cap: 1070014592
+Enterprise Value: 977001536
+Total Revenue: 802646976
+Revenue Per Share: 16.414
+EBITDA: 79481000
+Gross Margins: 0.26621
+Operating Margins: 0.010570001
+Profit Margins: 0.03431
+Free Cashflow: 55307752
+Operating Cashflow: 77196000
+Return On Assets: 0.071830004
+Return On Equity: 0.09729999
+Total Cash: 144424000
+Total Debt: 11052000
+Debt To Equity: 3.763
+Current Ratio: 2.223
+Quick Ratio: 1.625
+Trailing PE: 182.91667
+Forward PE: 18.065844
+Price To Book: 3.6090105
+Beta: 1.683
+52 Week High: 28.27
+52 Week Low: 10.92

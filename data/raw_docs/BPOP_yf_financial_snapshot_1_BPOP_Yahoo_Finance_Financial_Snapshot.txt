@@ -1,0 +1,25 @@
+Company: Popular Inc. Common Stock
+Ticker: BPOP
+Market Cap: 8719737856
+Enterprise Value: 5049220608
+Total Revenue: 2939058944
+Revenue Per Share: 43.486
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.35981998
+Profit Margins: 0.28348
+Free Cashflow: 
+Operating Cashflow: 878446976
+Return On Assets: 0.01123
+Return On Equity: 0.14047
+Total Cash: 5076921856
+Total Debt: 1589659008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.63252
+Forward PE: 8.148287
+Price To Book: 1.3802638
+Beta: 0.623
+52 Week High: 149.31
+52 Week Low: 78.23

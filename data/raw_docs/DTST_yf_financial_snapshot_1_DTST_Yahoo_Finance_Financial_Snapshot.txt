@@ -1,0 +1,25 @@
+Company: Data Storage Corporation Common Stock
+Ticker: DTST
+Market Cap: 29918448
+Enterprise Value: -16307560
+Total Revenue: 25529820
+Revenue Per Share: 3.583
+EBITDA: 1137888
+Gross Margins: 0.43817002
+Operating Margins: -2.6345098
+Profit Margins: 0.64071
+Free Cashflow: 7328416
+Operating Cashflow: 631676
+Return On Assets: -0.0037
+Return On Equity: 0.04061
+Total Cash: 45756692
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.64
+Quick Ratio: 5.625
+Trailing PE: 22.166666
+Forward PE: -10.230769
+Price To Book: 0.7539683
+Beta: 1.19
+52 Week High: 5.44
+52 Week Low: 2.93

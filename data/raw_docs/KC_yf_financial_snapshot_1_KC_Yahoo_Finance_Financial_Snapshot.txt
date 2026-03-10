@@ -1,0 +1,25 @@
+Company: Kingsoft Cloud Holdings Limited American Depositary Shares
+Ticker: KC
+Market Cap: 3546864384
+Enterprise Value: 58565435392
+Total Revenue: 9029373952
+Revenue Per Share: 34.75
+EBITDA: 1812020992
+Gross Margins: 0.16214001
+Operating Margins: -0.05863
+Profit Margins: -0.10776
+Free Cashflow: -2813116416
+Operating Cashflow: 3328624128
+Return On Assets: -0.02214
+Return On Equity: -0.15522
+Total Cash: 3954528000
+Total Debt: 12579439616
+Debt To Equity: 177.804
+Current Ratio: 0.935
+Quick Ratio: 0.678
+Trailing PE: 
+Forward PE: -46.76609
+Price To Book: 3.3835201
+Beta: 2.161
+52 Week High: 19.57
+52 Week Low: 10.29

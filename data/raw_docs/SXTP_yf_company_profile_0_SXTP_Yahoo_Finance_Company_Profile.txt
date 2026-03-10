@@ -1,0 +1,9 @@
+Company: 60 Degrees Pharmaceuticals Inc. Common Stock
+Ticker: SXTP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Washington
+Website: https://www.60degreespharma.com
+Employees: 3
+Business Summary: 60 Degrees Pharmaceuticals, Inc., a specialty pharmaceutical company, engages in the development and commercialization of therapies for the prevention and treatment of infectious diseases in the United States. It offers Arakoda for malaria preventative treatment. The company also engages in the development of Tafenoquine (Arakoda regimen) that is in Phase IIb clinical trial for COVID-19 indications; Tafenoquine, which is in phase IIA clinical trials for babesiosis, fungal pneumonias, and candidiasis disease; and Celgosivir for Zika, respiratory viruses, and dengue. It also has patent license agreement with Tufts Medical Center to jointly advance the development and commercialization of tafenoquine for the treatment and prevention of babesiosis. The company was founded in 2010 and is headquartered in Washington, District Of Columbia.

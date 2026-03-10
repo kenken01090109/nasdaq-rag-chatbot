@@ -1,0 +1,25 @@
+Company: Cloudastructure Inc. Class A Common Stock
+Ticker: CSAI
+Market Cap: 15925200
+Enterprise Value: 6373284
+Total Revenue: 3718000
+Revenue Per Share: 0.203
+EBITDA: -7019000
+Gross Margins: 0.44944
+Operating Margins: -1.36828
+Profit Margins: -2.11754
+Free Cashflow: -2340000
+Operating Cashflow: -5621000
+Return On Assets: -0.91651
+Return On Equity: -2.17366
+Total Cash: 6403000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.445
+Quick Ratio: 4.118
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.8804034
+Beta: 
+52 Week High: 11.46
+52 Week Low: 0.518

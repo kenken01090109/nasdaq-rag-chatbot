@@ -1,0 +1,25 @@
+Company: Intensity Therapeutics Inc. Common stock
+Ticker: INTS
+Market Cap: 20144218
+Enterprise Value: 11599064
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -5259875
+Operating Cashflow: -9500000
+Return On Assets: -1.01661
+Return On Equity: -2.34697
+Total Cash: 7067000
+Total Debt: 118000
+Debt To Equity: 1.634
+Current Ratio: 3.597
+Quick Ratio: 3.105
+Trailing PE: 
+Forward PE: -1.4454545
+Price To Book: 2.160326
+Beta: 4.276
+52 Week High: 62.5
+52 Week Low: 4.625

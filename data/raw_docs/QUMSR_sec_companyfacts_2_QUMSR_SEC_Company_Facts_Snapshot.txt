@@ -1,0 +1,10 @@
+Company: Quantumsphere Acquisition Corp. Rights
+Ticker: QUMSR
+CIK: 0002070900
+Latest SEC XBRL Facts:
+NetIncomeLoss: 415822 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Assets: 84503361 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Liabilities: 3451127 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+StockholdersEquity: -3054348 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -854177 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2026-02-20 | period_end=2025-12-31

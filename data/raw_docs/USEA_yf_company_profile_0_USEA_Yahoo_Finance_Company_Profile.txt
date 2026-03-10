@@ -1,0 +1,9 @@
+Company: United Maritime Corporation Common Stock
+Ticker: USEA
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Glyfada
+Website: https://www.unitedmaritime.gr
+Employees: 6
+Business Summary: United Maritime Corporation, a shipping company, offers seaborne transportation services worldwide. The company operates a fleet of six dry bulk vessels comprising one Capesize, two Kamsarmax and three Panamax vessels with an aggregate cargo-carrying capacity of approximately 577,750 dwt. United Maritime Corporation was incorporated in 2022 and is based in Glyfada, Greece.

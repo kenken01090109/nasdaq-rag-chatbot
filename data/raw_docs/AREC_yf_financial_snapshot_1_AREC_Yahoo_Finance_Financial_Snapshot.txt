@@ -1,0 +1,25 @@
+Company: American Resources Corporation Class A Common Stock
+Ticker: AREC
+Market Cap: 323693152
+Enterprise Value: 530582336
+Total Revenue: 95026
+Revenue Per Share: 0.001
+EBITDA: -19825292
+Gross Margins: 0.0
+Operating Margins: -26200.805
+Profit Margins: 0.0
+Free Cashflow: 4866719
+Operating Cashflow: -13110443
+Return On Assets: -0.072670005
+Return On Equity: 
+Total Cash: 2081780
+Total Debt: 228676288
+Debt To Equity: 
+Current Ratio: 0.099
+Quick Ratio: 0.026
+Trailing PE: 
+Forward PE: -28.545456
+Price To Book: -3.347548
+Beta: 1.128
+52 Week High: 7.11
+52 Week Low: 0.38

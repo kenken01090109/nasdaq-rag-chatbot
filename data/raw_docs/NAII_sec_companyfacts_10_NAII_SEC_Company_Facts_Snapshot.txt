@@ -1,0 +1,11 @@
+Company: Natural Alternatives International Inc. Common Stock
+Ticker: NAII
+CIK: 0000787253
+Latest SEC XBRL Facts:
+Revenues: 72575000 | unit=USD | filed=2019-02-12 | period_end=2018-12-31
+NetIncomeLoss: -2844000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 153301000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 86255000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 67046000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -10353000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3753000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

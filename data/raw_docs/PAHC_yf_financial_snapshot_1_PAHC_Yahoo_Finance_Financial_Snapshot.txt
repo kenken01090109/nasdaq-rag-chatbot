@@ -1,0 +1,25 @@
+Company: Phibro Animal Health Corporation Class A Common Stock
+Ticker: PAHC
+Market Cap: 1942423552
+Enterprise Value: 2709831680
+Total Revenue: 1464324992
+Revenue Per Share: 36.129
+EBITDA: 228839008
+Gross Margins: 0.32303002
+Operating Margins: 0.14708
+Profit Margins: 0.06289
+Free Cashflow: 21786376
+Operating Cashflow: 93080000
+Return On Assets: 0.083380006
+Return On Equity: 0.31801
+Total Cash: 74821000
+Total Debt: 774536000
+Debt To Equity: 233.041
+Current Ratio: 3.053
+Quick Ratio: 1.029
+Trailing PE: 21.203539
+Forward PE: 14.24592
+Price To Book: 5.8439026
+Beta: 0.708
+52 Week High: 56.3
+52 Week Low: 16.16

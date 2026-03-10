@@ -1,0 +1,9 @@
+Company: Diginex Limited Ordinary Shares
+Ticker: DGNX
+Sector: Industrials
+Industry: Consulting Services
+Country: United Kingdom
+City: London
+Website: https://www.diginex.com
+Employees: 27
+Business Summary: Diginex Limited, an investment holding company, engages in the provision of environmental, social, and governance (ESG) reporting solution services, advisory, and developing customization solutions in Hong Kong, the United Kingdom, and the United States. Its suite of products include diginexESG, a cloud based ESG platform that offers end to end reporting from topic discovery, data collection, and collaborative report publishing services; diginexLUMEN that allows companies to execute supply chain risk assessments, and monitoring; diginexAPPRISE, a multilingual application that collects standardized and actionable data related to working conditions directly from workers in supply chains; diginexCLIMATE, a carbon footprint calculator based on the GHG protocols; diginexADVISORY that provides clients strategy and advisory support for credible reporting; and diginexPARTNERS that develops white label versions of diginexESG and diginexLUMEN. The company has a strategic alliance with Sustainability RegTech solutions to deliver technology-driven solutions for sustainable finance, empowering organizations to navigate the evolving landscape of environmental, social, and governance (ESG) requirements. The company has a strategic alliance with EVIDENT Group to enable Diginex's advanced sustainability data capabilities to be embedded directly within EVIDENT's platform for asset managers and investment partner community, addressing the escalating need for verifiable ESG metrics in the rapidly expanding sector of tokenized real-world assets. Diginex Limited was founded in 2020 and is headquartered in London, United Kingdom.

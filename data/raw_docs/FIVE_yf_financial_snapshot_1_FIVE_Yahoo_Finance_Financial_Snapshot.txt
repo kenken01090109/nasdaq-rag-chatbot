@@ -1,0 +1,25 @@
+Company: Five Below Inc. Common Stock
+Ticker: FIVE
+Market Cap: 11874216960
+Enterprise Value: 13715262464
+Total Revenue: 4426551808
+Revenue Per Share: 80.378
+EBITDA: 581926016
+Gross Margins: 0.35626
+Operating Margins: 0.04171
+Profit Margins: 0.06955
+Free Cashflow: 276364640
+Operating Cashflow: 509068000
+Return On Assets: 0.054780003
+Return On Equity: 0.17267
+Total Cash: 524497984
+Total Debt: 2014193024
+Debt To Equity: 103.279
+Current Ratio: 1.605
+Quick Ratio: 0.478
+Trailing PE: 38.719425
+Forward PE: 30.94126
+Price To Book: 6.0887523
+Beta: 1.108
+52 Week High: 229.33
+52 Week Low: 52.38

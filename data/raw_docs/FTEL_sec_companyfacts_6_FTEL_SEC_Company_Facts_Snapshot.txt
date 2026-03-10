@@ -1,0 +1,11 @@
+Company: Fitell Corporation Class A Ordinary Shares
+Ticker: FTEL
+CIK: 0001928581
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5200138 | unit=USD | filed=2025-11-14 | period_end=2025-06-30
+NetIncomeLoss: -682724 | unit=USD | filed=2025-11-14 | period_end=2025-06-30
+Assets: 11395509 | unit=USD | filed=2025-11-14 | period_end=2025-06-30
+Liabilities: 2205551 | unit=USD | filed=2025-11-14 | period_end=2025-06-30
+StockholdersEquity: 9189958 | unit=USD | filed=2025-11-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1016390 | unit=USD | filed=2025-11-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2890822 | unit=USD | filed=2025-11-14 | period_end=2025-06-30

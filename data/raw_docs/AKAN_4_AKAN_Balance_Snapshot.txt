@@ -1,0 +1,8 @@
+Company: Akanda Corp. Common Shares
+Ticker: AKAN
+Total Cash: 2523719
+Total Debt: 391241
+Debt To Equity: 11.851
+Current Ratio: 1.255
+Quick Ratio: 0.889
+Book Value: 22.666

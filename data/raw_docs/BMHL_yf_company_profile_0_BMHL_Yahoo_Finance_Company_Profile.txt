@@ -1,0 +1,9 @@
+Company: Bluemount Holdings Limited Class B Ordinary Shares
+Ticker: BMHL
+Sector: Financial Services
+Industry: Capital Markets
+Country: Hong Kong
+City: Wan Chai
+Website: https://www.bluemount.com
+Employees: 9
+Business Summary: Bluemount Holdings Limited, through its subsidiaries, provides financial consulting services. It operates in two segments, Security Related Service and Asset Management, and Trading of Timepieces. The company provides securities cash and margin trading, margin financing, discretionary account, private equity fund management and investment advisory, and asset management services. It also engages in the trading of luxury branded timepieces. The company was founded in 2016 and is headquartered in Wan Chai, Hong Kong.

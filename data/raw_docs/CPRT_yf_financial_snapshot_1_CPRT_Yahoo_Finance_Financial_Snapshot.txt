@@ -1,0 +1,25 @@
+Company: Copart Inc. (DE) Common Stock
+Ticker: CPRT
+Market Cap: 36532989952
+Enterprise Value: 31637489664
+Total Revenue: 4613516800
+Revenue Per Share: 4.771
+EBITDA: 1943943040
+Gross Margins: 0.47344002
+Operating Margins: 0.34654
+Profit Margins: 0.33758
+Free Cashflow: 1035371520
+Operating Cashflow: 1802102016
+Return On Assets: 0.109919995
+Return On Equity: 0.17129
+Total Cash: 5101820928
+Total Debt: 96136000
+Debt To Equity: 0.98
+Current Ratio: 10.061
+Quick Ratio: 9.716
+Trailing PE: 23.73585
+Forward PE: 22.464153
+Price To Book: 3.7138362
+Beta: 1.106
+52 Week High: 63.85
+52 Week Low: 33.81

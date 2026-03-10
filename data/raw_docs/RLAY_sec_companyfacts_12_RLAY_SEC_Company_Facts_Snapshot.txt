@@ -1,0 +1,12 @@
+Company: Relay Therapeutics Inc. Common Stock
+Ticker: RLAY
+CIK: 0001812364
+Latest SEC XBRL Facts:
+Revenues: 8355000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 8355000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -221589000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 670000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 62291000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 607709000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -190590000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 91564000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

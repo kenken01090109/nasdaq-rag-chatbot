@@ -1,0 +1,12 @@
+Company: Absci Corporation Common Stock
+Ticker: ABSI
+Total Revenue: 2815000
+Revenue Per Share: 0.022
+Gross Margins: 0.0
+Operating Margins: -79.77249
+EBITDA: -105502000
+Profit Margins: 0.0
+Free Cashflow: -38133876
+Operating Cashflow: -80707000
+Return On Assets: -0.30624
+Return On Equity: -0.55676997

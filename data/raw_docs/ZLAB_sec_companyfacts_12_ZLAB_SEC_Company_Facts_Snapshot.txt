@@ -1,0 +1,12 @@
+Company: Zai Lab Limited American Depositary Shares
+Ticker: ZLAB
+CIK: 0001704292
+Latest SEC XBRL Facts:
+Revenues: 332559000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 330095000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -125128000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1158940000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 398995000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 759945000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -124767000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 717155000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Tenon Medical Inc. Common Stock
+Ticker: TNON
+Market Cap: 8486434
+Enterprise Value: 6446021
+Total Revenue: 3233000
+Revenue Per Share: 0.565
+EBITDA: -12036000
+Gross Margins: 0.52397
+Operating Margins: -2.22762
+Profit Margins: 0.0
+Free Cashflow: -6868000
+Operating Cashflow: -11298000
+Return On Assets: -0.65797997
+Return On Equity: -1.97259
+Total Cash: 3442000
+Total Debt: 216000
+Debt To Equity: 4.502
+Current Ratio: 2.152
+Quick Ratio: 1.563
+Trailing PE: 0.13039249
+Forward PE: -0.7836923
+Price To Book: 3.8205001
+Beta: 1.254
+52 Week High: 5.85
+52 Week Low: 0.641

@@ -1,0 +1,12 @@
+Company: Yueda Digital Holding Class A Ordinary Share
+Ticker: YDKG
+CIK: 0001413745
+Latest SEC XBRL Facts:
+Revenues: 343000 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 12764000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30
+NetIncomeLoss: -1998000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30
+Assets: 66341000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30
+Liabilities: 83928000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30
+StockholdersEquity: 15343000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -6446000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 208000 | unit=USD | filed=2025-09-18 | period_end=2025-06-30

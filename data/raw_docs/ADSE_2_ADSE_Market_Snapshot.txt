@@ -1,0 +1,10 @@
+Company: ADS-TEC ENERGY PLC Ordinary Shares
+Ticker: ADSE
+Market Cap: 689004288
+Enterprise Value: 638767936
+Trailing PE: 
+Forward PE: 13.903549
+Price To Book: -36.89271
+Beta: 0.354
+52 Week High: 15.18
+52 Week Low: 7.89

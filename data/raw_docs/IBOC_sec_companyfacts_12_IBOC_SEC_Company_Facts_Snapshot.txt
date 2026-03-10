@@ -1,0 +1,10 @@
+Company: International Bancshares Corporation Common Stock
+Ticker: IBOC
+CIK: 0000315709
+Latest SEC XBRL Facts:
+NetIncomeLoss: 305409000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 16551421000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 13423613000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 3127808000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 351113000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 589321000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

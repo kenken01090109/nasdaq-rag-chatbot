@@ -1,0 +1,11 @@
+Company: Sanmina Corporation Common Stock
+Ticker: SANM
+CIK: 0000897723
+Latest SEC XBRL Facts:
+Revenues: 7919622000 | unit=USD | filed=2023-05-22 | period_end=2022-10-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 3189693000 | unit=USD | filed=2026-01-26 | period_end=2025-12-27
+NetIncomeLoss: 49286000 | unit=USD | filed=2026-01-26 | period_end=2025-12-27
+Assets: 9801028000 | unit=USD | filed=2026-01-26 | period_end=2025-12-27
+StockholdersEquity: 1803933000 | unit=USD | filed=2022-08-03 | period_end=2022-07-02
+NetCashProvidedByUsedInOperatingActivities: 178728000 | unit=USD | filed=2026-01-26 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 1415541000 | unit=USD | filed=2026-01-26 | period_end=2025-12-27

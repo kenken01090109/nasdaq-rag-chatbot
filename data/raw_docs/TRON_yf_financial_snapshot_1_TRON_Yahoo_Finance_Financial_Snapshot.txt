@@ -1,0 +1,25 @@
+Company: Tron Inc. Common Stock
+Ticker: TRON
+Market Cap: 400597856
+Enterprise Value: 357617248
+Total Revenue: 4457562
+Revenue Per Share: 0.11
+EBITDA: -2568492
+Gross Margins: 0.23042999
+Operating Margins: -0.42451
+Profit Margins: 2.69565
+Free Cashflow: -2576159
+Operating Cashflow: -2190963
+Return On Assets: -0.01411
+Return On Equity: 0.09887999
+Total Cash: 10794181
+Total Debt: 736411
+Debt To Equity: 0.307
+Current Ratio: 15.037
+Quick Ratio: 13.328
+Trailing PE: Infinity
+Forward PE: 
+Price To Book: 1.5648446
+Beta: 13.929
+52 Week High: 12.8
+52 Week Low: 0.261

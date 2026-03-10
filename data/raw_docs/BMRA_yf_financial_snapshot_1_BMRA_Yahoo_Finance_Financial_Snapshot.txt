@@ -1,0 +1,25 @@
+Company: Biomerica Inc. Common Stock
+Ticker: BMRA
+Market Cap: 5798530
+Enterprise Value: 3539528
+Total Revenue: 4457000
+Revenue Per Share: 1.699
+EBITDA: -5179000
+Gross Margins: 0.05632
+Operating Margins: -1.13471
+Profit Margins: -0.90307
+Free Cashflow: -1701375
+Operating Cashflow: -2965000
+Return On Assets: -0.49435002
+Return On Equity: -0.84302
+Total Cash: 2543000
+Total Debt: 284000
+Debt To Equity: 6.404
+Current Ratio: 3.246
+Quick Ratio: 2.183
+Trailing PE: 
+Forward PE: 4.923077
+Price To Book: 1.2765957
+Beta: 0.235
+52 Week High: 5.92
+52 Week Low: 1.8664

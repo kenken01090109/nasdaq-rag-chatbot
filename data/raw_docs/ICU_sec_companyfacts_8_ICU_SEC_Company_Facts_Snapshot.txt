@@ -1,0 +1,11 @@
+Company: SeaStar Medical Holding Corporation Common Stock
+Ticker: ICU
+CIK: 0001831868
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 814000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -9246000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 15530000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4066000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 11464000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9505000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 165840 | unit=USD | filed=2021-11-17 | period_end=2021-09-30

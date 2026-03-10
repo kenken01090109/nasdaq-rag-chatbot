@@ -1,0 +1,12 @@
+Company: ACI Worldwide Inc. Common Stock
+Ticker: ACIW
+CIK: 0000935036
+Latest SEC XBRL Facts:
+Revenues: 907278000 | unit=USD | filed=2020-11-05 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1278182000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 162322000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3160903000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1681721000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1479182000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 201056000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 199268000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

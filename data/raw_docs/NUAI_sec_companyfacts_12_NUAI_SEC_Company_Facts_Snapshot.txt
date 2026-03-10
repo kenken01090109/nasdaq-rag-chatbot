@@ -1,0 +1,12 @@
+Company: New Era Energy & Digital Inc. Common Stock
+Ticker: NUAI
+CIK: 0002028336
+Latest SEC XBRL Facts:
+Revenues: 694980 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 326455 | unit=USD | filed=2025-05-15 | period_end=2025-03-31
+NetIncomeLoss: -12709433 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 23427891 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 10486922 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 12940969 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7181185 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14164499 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: VeriSign Inc. Common Stock
+Ticker: VRSN
+CIK: 0001014473
+Latest SEC XBRL Facts:
+Revenues: 1231300000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 619500000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 1403700000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 3454200000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: -2050500000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 801500000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 235400000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

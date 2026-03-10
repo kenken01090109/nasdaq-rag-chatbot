@@ -1,0 +1,11 @@
+Company: Haoxin Holdings Limited Class A Ordinary Shares
+Ticker: HXHX
+CIK: 0001936817
+Latest SEC XBRL Facts:
+Revenues: 25571810 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 3173703 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 32379245 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 14006704 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 18372541 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3957879 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 170431 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

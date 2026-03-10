@@ -1,0 +1,9 @@
+Company: GoHealth Inc. Class A Common Stock
+Ticker: GOCO
+CIK: 0001808220
+Latest SEC XBRL Facts:
+NetIncomeLoss: -224531000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1030486000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 68170000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -82873000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32076000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

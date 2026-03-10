@@ -1,0 +1,9 @@
+Company: MDxHealth SA Ordinary Shares
+Ticker: MDXH
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: Belgium
+City: Herstal
+Website: https://mdxhealth.com
+Employees: 
+Business Summary: MDxHealth SA, a commercial-stage precision diagnostics company, provides urologic solutions in the United States, Europe, and internationally. The company's testing solutions include Select mdx, a non-invasive urine test for prostate cancer that measures the expression of two mRNA cancer-related biomarkers; Confirm mdx for prostate cancer tissue test that validates epigenetic test that guides the detection of occult prostate cancer on a patient's previously biopsied negative tissue; and Resolve mdx for urinary tract infection that identifies personalized effective antibiotic options against the patient's infection. It also offers genomic prostate score, which provides personalized genomic insights to physicians and patients navigating the complexities of prostate cancer diagnosis and treatment. The company sells its products through urology sales force consisting of direct sales representatives, strategic account managers, and regional sales managers. The company has a collaboration with the University of Oxford: the initiation of Genomic Prostate Score (GPS) testing in the landmark UK ProtecT trial (Prostate Testing for Cancer and Treatment). The company was formerly known as OncoMethylome Sciences SA and changed its name to MDxHealth SA in October 2010. MDxHealth SA was incorporated in 2003 and is headquartered in Herstal, Belgium.

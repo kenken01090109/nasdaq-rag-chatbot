@@ -1,0 +1,25 @@
+Company: Elbit Systems Ltd. Ordinary Shares
+Ticker: ESLT
+Market Cap: 43495776256
+Enterprise Value: 41500798976
+Total Revenue: 7720284160
+Revenue Per Share: 170.655
+EBITDA: 811332992
+Gross Margins: 0.24229999
+Operating Margins: 0.089209996
+Profit Margins: 0.05909
+Free Cashflow: 483950624
+Operating Cashflow: 913118976
+Return On Assets: 0.03466
+Return On Equity: 0.12897
+Total Cash: 735630016
+Total Debt: 1069313024
+Debt To Equity: 26.611
+Current Ratio: 1.32
+Quick Ratio: 0.762
+Trailing PE: 94.94321
+Forward PE: 67.533066
+Price To Book: 10.809931
+Beta: -0.179
+52 Week High: 960.0
+52 Week Low: 343.0

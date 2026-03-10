@@ -1,0 +1,25 @@
+Company: Taboola.com Ltd. Ordinary Shares
+Ticker: TBLA
+Market Cap: 951137088
+Enterprise Value: 989299840
+Total Revenue: 1912039936
+Revenue Per Share: 6.135
+EBITDA: 141112000
+Gross Margins: 0.29785
+Operating Margins: 0.0838
+Profit Margins: 0.02211
+Free Cashflow: 156364368
+Operating Cashflow: 208364000
+Return On Assets: 0.016549999
+Return On Equity: 0.043169998
+Total Cash: 120865000
+Total Debt: 194090000
+Debt To Equity: 21.395
+Current Ratio: 1.071
+Quick Ratio: 0.991
+Trailing PE: 25.384617
+Forward PE: 5.108359
+Price To Book: 1.0051782
+Beta: 1.375
+52 Week High: 4.646
+52 Week Low: 2.5

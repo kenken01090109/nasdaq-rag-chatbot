@@ -1,0 +1,11 @@
+Company: 908 Devices Inc. Common Stock
+Ticker: MASS
+CIK: 0001555279
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 38817000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 15315000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 190873000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 54574000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 136299000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25007000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 62802000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

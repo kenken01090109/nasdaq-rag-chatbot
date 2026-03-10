@@ -1,0 +1,12 @@
+Company: Intergroup Corporation (The) Common Stock
+Ticker: INTG
+CIK: 0000069422
+Latest SEC XBRL Facts:
+Revenues: 56451000 | unit=USD | filed=2019-05-03 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 35214000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: 980000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 101137000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 215683000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: -85180000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -319000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 6576000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

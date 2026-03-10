@@ -1,0 +1,12 @@
+Company: Amkor Technology Inc. Common Stock
+Ticker: AMKR
+CIK: 0001047127
+Latest SEC XBRL Facts:
+Revenues: 4413685000 | unit=USD | filed=2021-10-29 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4819935000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 202134000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 8187482000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 3844538000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 4308366000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 451126000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1495656000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

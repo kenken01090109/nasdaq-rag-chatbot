@@ -1,0 +1,11 @@
+Company: Mission Produce Inc. Common Stock
+Ticker: AVO
+CIK: 0001802974
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1072200000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31
+NetIncomeLoss: 21700000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31
+Assets: 1002400000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31
+Liabilities: 401900000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31
+StockholdersEquity: 568700000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: 21400000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 43700000 | unit=USD | filed=2025-09-08 | period_end=2025-07-31

@@ -1,0 +1,10 @@
+Company: Cadence Design Systems Inc. Common Stock
+Ticker: CDNS
+CIK: 0000813672
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3856645000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 720752000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 9599271000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 5199002000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1175286000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2753246000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

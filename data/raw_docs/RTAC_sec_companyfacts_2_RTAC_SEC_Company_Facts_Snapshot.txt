@@ -1,0 +1,9 @@
+Company: Renatus Tactical Acquisition Corp I Class A Ordinary Shares
+Ticker: RTAC
+CIK: 0002035173
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2971498 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 246508254 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 10403908 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -9752479 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1133595 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

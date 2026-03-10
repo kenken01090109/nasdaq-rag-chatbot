@@ -1,0 +1,25 @@
+Company: China SXT Pharmaceuticals Inc. Ordinary Shares
+Ticker: SXTC
+Market Cap: 1741174
+Enterprise Value: -18525756
+Total Revenue: 1537987
+Revenue Per Share: 3.895
+EBITDA: -8335278
+Gross Margins: 0.21742001
+Operating Margins: -10.116859
+Profit Margins: 0.0
+Free Cashflow: -1948357
+Operating Cashflow: -2740720
+Return On Assets: -0.18267
+Return On Equity: -0.50299
+Total Cash: 21306964
+Total Debt: 1203223
+Debt To Equity: 5.947
+Current Ratio: 4.368
+Quick Ratio: 4.038
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.07798761
+Beta: 1.736
+52 Week High: 1047.0
+52 Week Low: 1.88

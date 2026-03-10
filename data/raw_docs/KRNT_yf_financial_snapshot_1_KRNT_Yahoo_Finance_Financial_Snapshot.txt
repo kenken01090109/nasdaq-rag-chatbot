@@ -1,0 +1,25 @@
+Company: Kornit Digital Ltd. Ordinary Shares
+Ticker: KRNT
+Market Cap: 668443200
+Enterprise Value: 267995584
+Total Revenue: 208200000
+Revenue Per Share: 4.602
+EBITDA: -20440000
+Gross Margins: 0.44823003
+Operating Margins: -0.05012
+Profit Margins: -0.06493
+Free Cashflow: 3289375
+Operating Cashflow: 24449000
+Return On Assets: -0.025940001
+Return On Equity: -0.01878
+Total Cash: 457848000
+Total Debt: 18613000
+Debt To Equity: 2.612
+Current Ratio: 14.181
+Quick Ratio: 13.057
+Trailing PE: 
+Forward PE: 39.54203
+Price To Book: 0.9203696
+Beta: 1.842
+52 Week High: 23.48
+52 Week Low: 11.93

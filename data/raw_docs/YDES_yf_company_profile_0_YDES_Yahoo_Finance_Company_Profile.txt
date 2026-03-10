@@ -1,0 +1,9 @@
+Company: YD Bio Limited Ordinary Shares
+Ticker: YDES
+Sector: Healthcare
+Industry: Biotechnology
+Country: Taiwan
+City: Taipei
+Website: https://www.ydesgroup.com
+Employees: 
+Business Summary: YD Bio Limited a biopharmaceutical company focuses on blood-based cancer detection and develops stem cell- and exosome-based therapeutics to transform the treatment of spectrum of diseases with unmet medical needs. The company is based in Taipei, Taiwan.

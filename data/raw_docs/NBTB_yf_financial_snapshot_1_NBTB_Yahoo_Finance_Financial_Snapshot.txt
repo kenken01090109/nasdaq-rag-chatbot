@@ -1,0 +1,25 @@
+Company: NBT Bancorp Inc. Common Stock
+Ticker: NBTB
+Market Cap: 2181165824
+Enterprise Value: 2088423168
+Total Revenue: 664785024
+Revenue Per Share: 13.125
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.41872
+Profit Margins: 0.25457
+Free Cashflow: 
+Operating Cashflow: 235218000
+Return On Assets: 0.011360001
+Return On Equity: 0.098900005
+Total Cash: 555230016
+Total Debt: 428620000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.501502
+Forward PE: 9.086683
+Price To Book: 1.1460742
+Beta: 0.482
+52 Week High: 46.92
+52 Week Low: 37.31

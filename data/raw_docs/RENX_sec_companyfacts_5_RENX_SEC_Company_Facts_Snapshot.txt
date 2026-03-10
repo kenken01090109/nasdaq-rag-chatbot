@@ -1,0 +1,11 @@
+Company: RenX Enterprises Corp. Common Stock
+Ticker: RENX
+CIK: 0001959023
+Latest SEC XBRL Facts:
+Revenues: 4936388 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -12254272 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 38380739 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 36397687 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2018163 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -551874 | unit=USD | filed=2025-05-15 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 13707 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

@@ -1,0 +1,25 @@
+Company: Phoenix Asia Holdings Limited Ordinary Shares
+Ticker: PHOE
+Market Cap: 352079968
+Enterprise Value: 342151904
+Total Revenue: 7370545
+Revenue Per Share: 0.407
+EBITDA: 1328445
+Gross Margins: 0.29521
+Operating Margins: 0.15312
+Profit Margins: 0.13925
+Free Cashflow: 1050580
+Operating Cashflow: 1180444
+Return On Assets: 0.17875999
+Return On Equity: 0.42598
+Total Cash: 2393144
+Total Debt: 25054
+Debt To Equity: 0.806
+Current Ratio: 2.242
+Quick Ratio: 1.819
+Trailing PE: 325.99997
+Forward PE: 
+Price To Book: 104.487175
+Beta: 
+52 Week High: 133.12
+52 Week Low: 2.308

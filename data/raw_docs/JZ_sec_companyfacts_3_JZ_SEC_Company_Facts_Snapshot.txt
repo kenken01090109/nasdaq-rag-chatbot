@@ -1,0 +1,11 @@
+Company: Jianzhi Education Technology Group Company Limited American Depositary Shs
+Ticker: JZ
+CIK: 0001852440
+Latest SEC XBRL Facts:
+Revenues: 1071249 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+NetIncomeLoss: -1190549 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+Assets: 8022132 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+Liabilities: 5117842 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+StockholdersEquity: 2063460 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1836135 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 348153 | unit=USD | filed=2025-12-01 | period_end=2025-06-30

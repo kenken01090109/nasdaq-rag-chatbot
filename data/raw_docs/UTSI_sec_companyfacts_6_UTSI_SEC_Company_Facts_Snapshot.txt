@@ -1,0 +1,10 @@
+Company: UTStarcom Holdings Corp. Ordinary Shares
+Ticker: UTSI
+CIK: 0001030471
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 10878000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Assets: 68200000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Liabilities: 22974000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+StockholdersEquity: 45226000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -4457000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 43913000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31

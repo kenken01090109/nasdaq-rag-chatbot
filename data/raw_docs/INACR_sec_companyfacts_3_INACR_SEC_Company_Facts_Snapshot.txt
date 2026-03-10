@@ -1,0 +1,9 @@
+Company: Indigo Acquisition Corp. Right
+Ticker: INACR
+CIK: 0002063816
+Latest SEC XBRL Facts:
+NetIncomeLoss: 815689 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 117068727 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4100330 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -3196815 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -425844 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

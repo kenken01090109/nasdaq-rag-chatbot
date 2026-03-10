@@ -1,0 +1,11 @@
+Company: Mediaco Holding Inc. Class A Common Stock
+Ticker: MDIA
+CIK: 0001784254
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 94673000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: 54926000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+Assets: 319391000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 232733000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 86658000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1938000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6245000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

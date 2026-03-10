@@ -1,0 +1,9 @@
+Company: Tavia Acquisition Corp. Ordinary Shares
+Ticker: TAVI
+CIK: 0002020385
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2632737 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 120090006 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1361746 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -872273 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -545562 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

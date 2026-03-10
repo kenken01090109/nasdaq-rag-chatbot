@@ -1,0 +1,9 @@
+Company: Wen Acquisition Corp Warrant
+Ticker: WENNW
+CIK: 0002057043
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4131674 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 305777810 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 14447878 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -13482881 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -564099 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

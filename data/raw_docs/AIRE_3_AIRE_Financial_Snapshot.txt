@@ -1,0 +1,12 @@
+Company: reAlpha Tech Corp. Common Stock
+Ticker: AIRE
+Total Revenue: 4149567
+Revenue Per Share: 0.075
+Gross Margins: 0.54279
+Operating Margins: -3.4244502
+EBITDA: -13589925
+Profit Margins: 0.0
+Free Cashflow: -11015510
+Operating Cashflow: -11083310
+Return On Assets: -0.32653
+Return On Equity: -0.93458

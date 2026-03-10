@@ -1,0 +1,25 @@
+Company: The Bancorp Inc Common Stock
+Ticker: TBBK
+Market Cap: 2312702208
+Enterprise Value: 2725705984
+Total Revenue: 526151008
+Revenue Per Share: 11.495
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.59745
+Profit Margins: 0.43374002
+Free Cashflow: 
+Operating Cashflow: 265008992
+Return On Assets: 0.025239998
+Return On Equity: 0.30848
+Total Cash: 8038000
+Total Debt: 422366016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.703252
+Forward PE: 6.5660844
+Price To Book: 3.233452
+Beta: 1.326
+52 Week High: 81.65
+52 Week Low: 40.51

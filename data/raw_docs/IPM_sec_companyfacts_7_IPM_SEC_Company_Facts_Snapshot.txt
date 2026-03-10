@@ -1,0 +1,12 @@
+Company: Intelligent Protection Management Corp. Common Stock
+Ticker: IPM
+CIK: 0001355839
+Latest SEC XBRL Facts:
+Revenues: 17478656 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4822355 | unit=USD | filed=2024-08-13 | period_end=2024-06-30
+NetIncomeLoss: -1324568 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 27237067 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 8473716 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 18763351 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 989142 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7321303 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

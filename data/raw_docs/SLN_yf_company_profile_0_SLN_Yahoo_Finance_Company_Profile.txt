@@ -1,0 +1,9 @@
+Company: Silence Therapeutics Plc American Depository Share
+Ticker: SLN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: London
+Website: https://www.silence-therapeutics.com
+Employees: 
+Business Summary: Silence Therapeutics plc, a biotechnology company, engages in the discovery and development of novel molecules incorporating short interfering ribonucleic acid (siRNA) to inhibit the expression of specific target genes in hematology, cardiovascular, and rare diseases. The company develops Zerlasiran (SLN360), which is in Phase II clinical trial for cardiovascular disease associated with elevated lipoprotein(a); Divesiran (SLN124), an siRNA molecule that is in Phase I clinical trial for the treatment of genetic hematological conditions, including polycythemia vera; and SLN548 for complement-mediated disease. Silence Therapeutics plc has collaboration agreements with AstraZeneca PLC to discover, develop, and commercialize siRNA therapeutics for the treatment of cardiovascular, renal, metabolic, and respiratory diseases; and Hansoh Pharmaceutical Group Company Limited to develop siRNAs. The company was formerly known as SR Pharma plc and changed its name to Silence Therapeutics plc in May 2007. Silence Therapeutics plc was incorporated in 1994 and is headquartered in London, the United Kingdom.

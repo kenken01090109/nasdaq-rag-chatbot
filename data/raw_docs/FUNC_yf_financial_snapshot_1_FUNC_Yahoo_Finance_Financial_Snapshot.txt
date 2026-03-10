@@ -1,0 +1,25 @@
+Company: First United Corporation Common Stock
+Ticker: FUNC
+Market Cap: 234631072
+Enterprise Value: 217139136
+Total Revenue: 85938000
+Revenue Per Share: 13.242
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4343
+Profit Margins: 0.28526
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01207
+Return On Equity: 0.12804
+Total Cash: 131612000
+Total Debt: 114770000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.575597
+Forward PE: 7.680851
+Price To Book: 1.1522135
+Beta: 0.551
+52 Week High: 41.95
+52 Week Low: 24.66

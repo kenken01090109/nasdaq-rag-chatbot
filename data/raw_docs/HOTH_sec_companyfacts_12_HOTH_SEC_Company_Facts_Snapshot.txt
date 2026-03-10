@@ -1,0 +1,11 @@
+Company: Hoth Therapeutics Inc. Common Stock
+Ticker: HOTH
+CIK: 0001711786
+Latest SEC XBRL Facts:
+Revenues: 1235000000 | unit=USD | filed=2024-05-14 | period_end=2024-03-31
+NetIncomeLoss: -9781113 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 9244530 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1012684 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 8231846 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7653533 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7847911 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

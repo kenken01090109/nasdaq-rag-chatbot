@@ -1,0 +1,25 @@
+Company: Visionary Holdings Inc. Common Shares
+Ticker: GV
+Market Cap: 3967198
+Enterprise Value: 52479032
+Total Revenue: 5044297
+Revenue Per Share: 1.164
+EBITDA: -1346134
+Gross Margins: 0.28006
+Operating Margins: -1.94445
+Profit Margins: 0.0
+Free Cashflow: -520235
+Operating Cashflow: -2968384
+Return On Assets: -0.02863
+Return On Equity: -1.3727499
+Total Cash: 334910
+Total Debt: 48575468
+Debt To Equity: 934.98
+Current Ratio: 0.066
+Quick Ratio: 0.032
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.77491784
+Beta: 0.271
+52 Week High: 9.6
+52 Week Low: 0.7075

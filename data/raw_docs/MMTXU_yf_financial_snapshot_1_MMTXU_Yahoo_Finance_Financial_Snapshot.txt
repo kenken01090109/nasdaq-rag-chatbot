@@ -1,0 +1,25 @@
+Company: Miluna Acquisition Corp Units
+Ticker: MMTXU
+Market Cap: 77479584
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -240206
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 288850
+Debt To Equity: 
+Current Ratio: 14.818
+Quick Ratio: 13.636
+Trailing PE: 
+Forward PE: 
+Price To Book: 10069.999
+Beta: 
+52 Week High: 10.435
+52 Week Low: 9.97

@@ -1,0 +1,25 @@
+Company: Mission Produce Inc. Common Stock
+Ticker: AVO
+Market Cap: 976964800
+Enterprise Value: 1141853696
+Total Revenue: 1391200000
+Revenue Per Share: 19.66
+EBITDA: 100000000
+Gross Margins: 0.11566
+Operating Margins: 0.08777001
+Profit Margins: 0.0271
+Free Cashflow: 34400000
+Operating Cashflow: 88600000
+Return On Assets: 0.04183
+Return On Equity: 0.06767
+Total Cash: 64800000
+Total Debt: 200900000
+Debt To Equity: 32.408
+Current Ratio: 1.949
+Quick Ratio: 1.254
+Trailing PE: 26.01887
+Forward PE: 18.386667
+Price To Book: 1.6570537
+Beta: 0.634
+52 Week High: 15.02
+52 Week Low: 9.56

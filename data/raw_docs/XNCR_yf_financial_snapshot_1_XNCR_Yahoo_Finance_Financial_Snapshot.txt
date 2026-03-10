@@ -1,0 +1,25 @@
+Company: Xencor Inc. Common Stock
+Ticker: XNCR
+Market Cap: 830193408
+Enterprise Value: 458473248
+Total Revenue: 125576000
+Revenue Per Share: 1.692
+EBITDA: -166990000
+Gross Margins: -0.90669
+Operating Margins: -1.8992101
+Profit Margins: -0.73200995
+Free Cashflow: -39165124
+Operating Cashflow: -135116992
+Return On Assets: -0.12141
+Return On Equity: -0.14071
+Total Cash: 547732992
+Total Debt: 187747008
+Debt To Equity: 29.539
+Current Ratio: 6.254
+Quick Ratio: 6.017
+Trailing PE: 
+Forward PE: -3.7922947
+Price To Book: 1.2801085
+Beta: 0.999
+52 Week High: 18.69
+52 Week Low: 6.92

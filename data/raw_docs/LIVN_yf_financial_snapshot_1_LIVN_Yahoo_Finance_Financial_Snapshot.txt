@@ -1,0 +1,25 @@
+Company: LivaNova PLC Ordinary Shares
+Ticker: LIVN
+Market Cap: 3491401728
+Enterprise Value: 3336655104
+Total Revenue: 1388052992
+Revenue Per Share: 25.446
+EBITDA: 257655008
+Gross Margins: 0.68014
+Operating Margins: 0.12968001
+Profit Margins: -0.17468001
+Free Cashflow: 834246656
+Operating Cashflow: 254340000
+Return On Assets: 0.05169
+Return On Equity: -0.19242
+Total Cash: 635552000
+Total Debt: 433772000
+Debt To Equity: 36.148
+Current Ratio: 1.363
+Quick Ratio: 1.054
+Trailing PE: 
+Forward PE: 13.953488
+Price To Book: 2.9073687
+Beta: 0.948
+52 Week High: 71.92
+52 Week Low: 32.48

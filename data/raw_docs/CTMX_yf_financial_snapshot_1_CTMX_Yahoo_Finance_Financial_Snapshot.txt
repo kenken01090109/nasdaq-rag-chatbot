@@ -1,0 +1,25 @@
+Company: CytomX Therapeutics Inc. Common Stock
+Ticker: CTMX
+Market Cap: 792957632
+Enterprise Value: 670176832
+Total Revenue: 113631000
+Revenue Per Share: 0.972
+EBITDA: 24526000
+Gross Margins: 1.0
+Operating Margins: -2.64431
+Profit Margins: 0.24656999
+Free Cashflow: -55376624
+Operating Cashflow: -72252000
+Return On Assets: 0.09776
+Return On Equity: 0.66760004
+Total Cash: 143626000
+Total Debt: 5596000
+Debt To Equity: 5.211
+Current Ratio: 3.637
+Quick Ratio: 3.54
+Trailing PE: 15.599998
+Forward PE: -12.729844
+Price To Book: 7.1889396
+Beta: 2.48
+52 Week High: 6.35
+52 Week Low: 0.4

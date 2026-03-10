@@ -1,0 +1,12 @@
+Company: Almonty Industries Inc. Common Shares
+Ticker: ALM
+Total Revenue: 30075000
+Revenue Per Share: 0.157
+Gross Margins: 0.0539
+Operating Margins: -0.36205003
+EBITDA: -20535000
+Profit Margins: -2.16273
+Free Cashflow: -65859500
+Operating Cashflow: -5037000
+Return On Assets: -0.03832
+Return On Equity: -0.57307

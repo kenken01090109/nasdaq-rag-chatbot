@@ -1,0 +1,25 @@
+Company: Aura Biosciences Inc. Common Stock
+Ticker: AURA
+Market Cap: 355618304
+Enterprise Value: 217856640
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -112213000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -51435624
+Operating Cashflow: -88225000
+Return On Assets: -0.35841
+Return On Equity: -0.64265
+Total Cash: 161866000
+Total Debt: 17754000
+Debt To Equity: 11.332
+Current Ratio: 9.038
+Quick Ratio: 8.599
+Trailing PE: 
+Forward PE: -2.7586207
+Price To Book: 2.2517087
+Beta: 0.446
+52 Week High: 7.73
+52 Week Low: 4.345

@@ -1,0 +1,10 @@
+Company: Ituran Location and Control Ltd. Ordinary Shares
+Ticker: ITRN
+CIK: 0001337117
+Latest SEC XBRL Facts:
+Revenues: 336257000 | unit=USD | filed=2025-04-21 | period_end=2024-12-31
+NetIncomeLoss: 53654000 | unit=USD | filed=2025-04-21 | period_end=2024-12-31
+Assets: 326878000 | unit=USD | filed=2025-04-21 | period_end=2024-12-31
+StockholdersEquity: 185227000 | unit=USD | filed=2025-04-21 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 74267000 | unit=USD | filed=2025-04-21 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 77357000 | unit=USD | filed=2025-04-21 | period_end=2024-12-31

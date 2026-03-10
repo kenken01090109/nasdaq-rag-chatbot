@@ -1,0 +1,11 @@
+Company: CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock Series 3
+Ticker: CHSCM
+CIK: 0000823277
+Latest SEC XBRL Facts:
+Revenues: 35462608000 | unit=USD | filed=2025-11-05 | period_end=2025-08-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 8864104000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetIncomeLoss: 260483000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+Assets: 20743613000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+StockholdersEquity: 11203345000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -337818000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 374694000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30

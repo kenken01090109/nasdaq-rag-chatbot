@@ -1,0 +1,25 @@
+Company: The Honest Company Inc. Common Stock
+Ticker: HNST
+Market Cap: 329549472
+Enterprise Value: 252804720
+Total Revenue: 371316992
+Revenue Per Share: 3.339
+EBITDA: 9728000
+Gross Margins: 0.38671002
+Operating Margins: 0.01271
+Profit Margins: -0.04224
+Free Cashflow: 38878876
+Operating Cashflow: 15121000
+Return On Assets: 0.01805
+Return On Equity: -0.0912
+Total Cash: 89581000
+Total Debt: 13961000
+Debt To Equity: 8.228
+Current Ratio: 3.983
+Quick Ratio: 2.427
+Trailing PE: 
+Forward PE: 19.533333
+Price To Book: 1.9481384
+Beta: 2.262
+52 Week High: 5.545
+52 Week Low: 2.07

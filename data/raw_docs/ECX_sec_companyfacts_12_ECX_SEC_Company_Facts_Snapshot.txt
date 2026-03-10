@@ -1,0 +1,11 @@
+Company: ECARX Holdings Inc. Class A Ordinary shares
+Ticker: ECX
+CIK: 0001861974
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 323281000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetIncomeLoss: -69056000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Assets: 494944000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Liabilities: 790217000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+StockholdersEquity: -293708000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -82006000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 86216000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30

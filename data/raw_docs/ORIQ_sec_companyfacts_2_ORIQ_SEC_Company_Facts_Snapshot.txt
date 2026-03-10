@@ -1,0 +1,10 @@
+Company: Origin Investment Corp I Ordinary Shares
+Ticker: ORIQ
+CIK: 0002044523
+Latest SEC XBRL Facts:
+NetIncomeLoss: 263638 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 71947756 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 230917 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1353263 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -417482 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1429005 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

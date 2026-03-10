@@ -1,0 +1,10 @@
+Company: NewHold Investment Corp III Warrants
+Ticker: NHICW
+CIK: 0002043699
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4192000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 208786000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7253000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -5679000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -815000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1389000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Curanex Pharmaceuticals Inc Common Stock
+Ticker: CURX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Jericho
+Website: https://www.curanexpharma.com
+Employees: 
+Business Summary: Curanex Pharmaceuticals Inc, a developmental stage pharmaceutical company, discovers, develops, and commercializes botanical drugs to treat patients suffering from inflammatory diseases. It develops Phyto-N for various therapeutic areas, including ulcerative colitis, atopic dermatitis, COVID-19, diabetes, nonalcoholic fatty liver disease, and gout. The company was formerly known as Fordman Pharma Inc. and changed its name to Curanex Pharmaceuticals Inc in November 2023. Curanex Pharmaceuticals Inc was founded in 1996 and is headquartered in Jericho, New York.

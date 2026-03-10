@@ -1,0 +1,9 @@
+Company: Intercure Ltd. Ordinary Shares
+Ticker: INCR
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Israel
+City: Herzliya
+Website: https://www.intercure.co
+Employees: 320
+Business Summary: InterCure Ltd., together with its subsidiaries, engages in the research, cultivation, production, marketing, and distribution of pharmaceutical-grade cannabis and cannabis-based products for medical use in Israel and internationally. The company offers dried cannabis inflorescences and cannabis extract mixed with oil. It also invests in the biomed sector. The company has a strategic alliance with Cannasoul R&D Ltd. for the research, development, and commercialization of evidence-based cannabis therapeutics. The company was incorporated in 1994 and is headquartered in Herzliya, Israel.

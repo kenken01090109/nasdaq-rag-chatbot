@@ -1,0 +1,25 @@
+Company: Bogota Financial Corp. Common Stock
+Ticker: BSBK
+Market Cap: 107510504
+Enterprise Value: 172358496
+Total Revenue: 17368978
+Revenue Per Share: 1.375
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.16950001
+Profit Margins: 0.12037
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00223
+Return On Equity: 0.01503
+Total Cash: 35598596
+Total Debt: 103756888
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 48.764706
+Forward PE: 23.685715
+Price To Book: 0.7395183
+Beta: 0.178
+52 Week High: 9.5
+52 Week Low: 6.59

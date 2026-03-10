@@ -1,0 +1,25 @@
+Company: NextTrip Inc. Common Stock
+Ticker: NTRP
+Market Cap: 39920552
+Enterprise Value: 44998224
+Total Revenue: 2180102
+Revenue Per Share: 0.297
+EBITDA: -12268267
+Gross Margins: 0.1895
+Operating Margins: -2.57037
+Profit Margins: 0.0
+Free Cashflow: -4395821
+Operating Cashflow: -4395661
+Return On Assets: -0.84685
+Return On Equity: -6.80929
+Total Cash: 2427299
+Total Debt: 4101711
+Debt To Equity: 69.66
+Current Ratio: 0.852
+Quick Ratio: 0.554
+Trailing PE: 
+Forward PE: -13.627907
+Price To Book: 6.247335
+Beta: 4.149
+52 Week High: 6.48
+52 Week Low: 1.5

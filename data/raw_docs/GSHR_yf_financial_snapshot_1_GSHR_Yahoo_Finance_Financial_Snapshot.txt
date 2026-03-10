@@ -1,0 +1,25 @@
+Company: Gesher Acquisition Corp. II Class A Ordinary Shares
+Ticker: GSHR
+Market Cap: 211700032
+Enterprise Value: 210387184
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1312829
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -56.55738
+Beta: 
+52 Week High: 11.2
+52 Week Low: 9.507

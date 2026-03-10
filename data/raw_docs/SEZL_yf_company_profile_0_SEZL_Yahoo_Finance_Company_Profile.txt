@@ -1,0 +1,9 @@
+Company: Sezzle Inc. Common Stock
+Ticker: SEZL
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Minneapolis
+Website: https://www.sezzle.com
+Employees: 201
+Business Summary: Sezzle Inc. operates as a technology-enabled payments company primarily in the United States and Canada. The company provides Sezzle Platform that provides a payments solution for consumers that extends credit at the point-of-sale allowing consumers to purchase and receive the ordered merchandise at the time of sale while paying in installments over time; Pay-in-Four, which allows consumers to pay a fourth of the purchase price up front and then another fourth of the purchase price every two weeks thereafter over a total of six weeks; Pay-in-Full that allows consumers to pay for the full value of their order up-front through the Sezzle Platform without the extension of credit; and Pay-in-Two and other alternative installment options, which allow consumer to pay half of the value of their order up-front and the second half in two weeks. It also offers Sezzle Virtual Card that allows consumers to access the Sezzle Platform in the form of merchants in-store and online with merchants that are not directly integrated with Sezzle; Sezzle Anywhere, a paid subscription service that allows consumers to use their Sezzle Virtual Card at any merchant online or in-store; Sezzle On-Demand, a service that allows consumers who are not subscribed to Sezzle Anywhere to use the Sezzle Platform at any merchant online or in-store; Sezzle Premium, a paid subscription service that allows its consumers to access large, non-integrated premium merchants; and Sezzle Up, an opt-in feature of the Sezzle Platform. In addition, the company provides Long-Term Lending through collaboration with third-party lenders and Product Innovation. Sezzle Inc. was incorporated in 2016 and is headquartered in Minneapolis, Minnesota.

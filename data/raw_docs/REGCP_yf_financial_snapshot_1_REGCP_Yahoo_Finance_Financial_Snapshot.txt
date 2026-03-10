@@ -1,0 +1,25 @@
+Company: Regency Centers Corporation 6.25% Series A Cumulative Redeemable Preferred Stock
+Ticker: REGCP
+Market Cap: 
+Enterprise Value: 9627234304
+Total Revenue: 1611042944
+Revenue Per Share: 8.857
+EBITDA: 1023337984
+Gross Margins: 0.71623003
+Operating Margins: 0.38762
+Profit Margins: 0.32740003
+Free Cashflow: 671526016
+Operating Cashflow: 827692032
+Return On Assets: 0.03153
+Return On Equity: 0.07683
+Total Cash: 111435000
+Total Debt: 4983275008
+Debt To Equity: 69.389
+Current Ratio: 0.618
+Quick Ratio: 0.549
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.63296026
+Beta: 0.926
+52 Week High: 24.75
+52 Week Low: 21.888

@@ -1,0 +1,9 @@
+Company: Canton Strategic Holdings Inc. Common Stock
+Ticker: CNTN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Red Bank
+Website: https://www.tharimmune.com
+Employees: 2
+Business Summary: Canton Strategic Holdings, Inc. focuses on leveraging Canton Coin and supporting the Canton network to advance institutional blockchain adoption and the digitization of financial markets. The company also involved in research and development of GV104, a buccal film technology, which has completed Phase 1 trial for respiratory and/or nervous system depression in military personnel and chemical incident responders; and GV023, an oral formulation of infliximab, addresses a critical limitation of the IV gold standard by eliminating the treatment burden of repeated intravenous infusions. The company was formerly known as Tharimmune, Inc. and changed its name to Canton Strategic Holdings, Inc. in February 2026. Canton Strategic Holdings, Inc. was founded in 2017 and is based in Red Bank, New Jersey.

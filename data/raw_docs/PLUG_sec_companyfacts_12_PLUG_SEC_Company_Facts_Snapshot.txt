@@ -1,0 +1,11 @@
+Company: Plug Power Inc. Common Stock
+Ticker: PLUG
+CIK: 0001093691
+Latest SEC XBRL Facts:
+Revenues: 484699000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -785624000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 3104752000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1606131000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1416629000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -387192000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 165895000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

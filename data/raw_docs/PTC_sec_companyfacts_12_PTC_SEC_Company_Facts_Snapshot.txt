@@ -1,0 +1,11 @@
+Company: PTC Inc. Common Stock
+Ticker: PTC
+CIK: 0000857005
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 685825000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 166518000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 6427263000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 2584844000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 3842419000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 269745000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 209736000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

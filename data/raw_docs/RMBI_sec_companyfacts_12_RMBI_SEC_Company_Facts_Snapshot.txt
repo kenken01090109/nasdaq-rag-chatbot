@@ -1,0 +1,10 @@
+Company: Richmond Mutual Bancorporation Inc. Common Stock
+Ticker: RMBI
+CIK: 0001767837
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8167314 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1525565364 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1385530188 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 140035176 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 13302653 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34264953 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

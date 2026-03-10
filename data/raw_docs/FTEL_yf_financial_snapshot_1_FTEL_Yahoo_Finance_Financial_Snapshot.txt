@@ -1,0 +1,25 @@
+Company: Fitell Corporation Class A Ordinary Shares
+Ticker: FTEL
+Market Cap: 2066278
+Enterprise Value: -2659402
+Total Revenue: 5200138
+Revenue Per Share: 32.568
+EBITDA: -1012547
+Gross Margins: 0.39271
+Operating Margins: 0.058909997
+Profit Margins: -0.13129
+Free Cashflow: 921244
+Operating Cashflow: -1016390
+Return On Assets: -0.05585
+Return On Equity: -0.07503
+Total Cash: 3204801
+Total Debt: 313843
+Debt To Equity: 3.415
+Current Ratio: 4.437
+Quick Ratio: 1.595
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.030557543
+Beta: 7.377
+52 Week High: 153.6
+52 Week Low: 1.325

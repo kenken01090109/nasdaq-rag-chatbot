@@ -1,0 +1,12 @@
+Company: American Battery Technology Company Common Stock
+Ticker: ABAT
+Total Revenue: 9453244
+Revenue Per Share: 0.09
+Gross Margins: -1.09766
+Operating Margins: -2.07455
+EBITDA: -33125284
+Profit Margins: 0.0
+Free Cashflow: -13681185
+Operating Cashflow: -33050564
+Return On Assets: -0.22697
+Return On Equity: -0.43515998

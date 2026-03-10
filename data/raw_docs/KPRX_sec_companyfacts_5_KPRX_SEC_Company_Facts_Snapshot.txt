@@ -1,0 +1,12 @@
+Company: Kiora Pharmaceuticals Inc.  Common Stock
+Ticker: KPRX
+CIK: 0001372514
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2022-07-07 | period_end=2021-12-31
+NetIncomeLoss: -4318633 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 29863454 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 7452712 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 22410742 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7780721 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5508899 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Exagen Inc. Common Stock
+Ticker: XGN
+Market Cap: 74561600
+Enterprise Value: 67076596
+Total Revenue: 63599000
+Revenue Per Share: 3.138
+EBITDA: -10545000
+Gross Margins: 0.59859
+Operating Margins: -0.17977
+Profit Margins: -0.29936
+Free Cashflow: -7183125
+Operating Cashflow: -10249000
+Return On Assets: -0.14655
+Return On Equity: -1.22808
+Total Cash: 35652000
+Total Debt: 28167000
+Debt To Equity: 155.293
+Current Ratio: 4.08
+Quick Ratio: 3.626
+Trailing PE: 
+Forward PE: -6.7695475
+Price To Book: 4.081886
+Beta: 1.909
+52 Week High: 12.23
+52 Week Low: 2.77

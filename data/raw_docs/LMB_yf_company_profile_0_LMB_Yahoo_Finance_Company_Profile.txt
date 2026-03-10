@@ -1,0 +1,9 @@
+Company: Limbach Holdings Inc. Common Stock
+Ticker: LMB
+Sector: Industrials
+Industry: Building Products & Equipment
+Country: United States
+City: Warrendale
+Website: https://www.limbachinc.com
+Employees: 1500
+Business Summary: Limbach Holdings, Inc. operates as a building systems solution company in the United States. The company operates through two segments, Owner Direct Relationships and General Contractor Relationships. It engages in the construction or renovation projects that involve primarily include mechanical, electrical, plumbing, and controls services (MEPC). It also provides professional and consultative services; inspection, troubleshooting, repair, and services; system and/or facility assessments; turnkey rental equipment solutions; MEPC infrastructure solutions; and customized solutions. The company serves research, acute care, and inpatient hospitals; public and private colleges, universities, research centers; entertainment facilities, and amusement rides and parks; data centers; automotive, energy and general manufacturing plants; and life sciences, including organizations and companies, whose work is centered around research and development focused on living things. Limbach Holdings, Inc. was founded in 1901 and is headquartered in Warrendale, Pennsylvania.

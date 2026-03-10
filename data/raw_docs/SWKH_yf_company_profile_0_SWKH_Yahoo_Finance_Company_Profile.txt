@@ -1,0 +1,9 @@
+Company: SWK Holdings Corporation Common Stock
+Ticker: SWKH
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Dallas
+Website: https://www.swkhold.com
+Employees: 9
+Business Summary: SWK Holdings Corporation is a venture debt firm specializing in early stage, seed/startup, series-A to series-D and growth capital investments. It seeks to invest in healthcare sectors including biopharma, medical devices, diagnostics, life science tools, selective healthcare service and HIT companies; technology; software; SaaS; and green energy/sustainability. It seeks to make investments between $5 million and $20 million, it may also invest higher. SWK Holdings Corporation was incorporated in 1996 and is headquartered in Dallas, Texas. SWK Holdings Corporation operates as a subsidiary of Carlson Capital, L.P.

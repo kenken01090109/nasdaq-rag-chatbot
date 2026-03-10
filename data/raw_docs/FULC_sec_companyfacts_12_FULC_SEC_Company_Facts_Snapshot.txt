@@ -1,0 +1,11 @@
+Company: Fulcrum Therapeutics Inc. Common Stock
+Ticker: FULC
+CIK: 0001680581
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7800000 | unit=USD | filed=2022-11-08 | period_end=2021-09-30
+NetIncomeLoss: -54546000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 214858000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 16492000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 198366000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43267000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47078000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

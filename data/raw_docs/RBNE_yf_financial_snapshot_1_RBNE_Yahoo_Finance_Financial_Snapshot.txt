@@ -1,0 +1,25 @@
+Company: Robin Energy Ltd. Common Stock
+Ticker: RBNE
+Market Cap: 7266884
+Enterprise Value: 30566874
+Total Revenue: 6869234
+Revenue Per Share: 2.72
+EBITDA: 379249
+Gross Margins: 0.52896
+Operating Margins: 0.00453
+Profit Margins: 0.06718
+Free Cashflow: -30441106
+Operating Cashflow: 11880532
+Return On Assets: 0.00137
+Return On Equity: 0.01282
+Total Cash: 2660266
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.39
+Quick Ratio: 2.184
+Trailing PE: 28.777775
+Forward PE: 
+Price To Book: 0.25967515
+Beta: 
+52 Week High: 123.25
+52 Week Low: 2.36

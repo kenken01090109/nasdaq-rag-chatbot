@@ -1,0 +1,25 @@
+Company: FreightCar America Inc. Common Stock
+Ticker: RAIL
+Market Cap: 243491952
+Enterprise Value: 340959232
+Total Revenue: 513120000
+Revenue Per Share: 16.201
+EBITDA: 43516000
+Gross Margins: 0.15090999
+Operating Margins: 0.090500005
+Profit Margins: 0.17403999
+Free Cashflow: 12950000
+Operating Cashflow: 30618000
+Return On Assets: 0.0797
+Return On Equity: 
+Total Cash: 62241000
+Total Debt: 152310000
+Debt To Equity: 
+Current Ratio: 1.665
+Quick Ratio: 0.756
+Trailing PE: 5.051587
+Forward PE: 16.251131
+Price To Book: -2.6721241
+Beta: 1.515
+52 Week High: 14.9
+52 Week Low: 4.31

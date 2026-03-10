@@ -1,0 +1,7 @@
+Company: American Drive Acquisition Company Class A Ordinary Shares
+Ticker: ADAC
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

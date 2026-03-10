@@ -1,0 +1,9 @@
+Company: Republic Airways Holdings Inc. Common Stock
+Ticker: RJET
+Sector: Industrials
+Industry: Airlines
+Country: United States
+City: Indianapolis
+Website: https://rjet.com
+Employees: 
+Business Summary: Republic Airways Holdings Inc. provides scheduled passenger services. It operates a fleet of approximately 240 aircraft and offers scheduled passenger service with 1,000 daily flights to 80 cities across the U.S., Canada, the Caribbean, and Central America. The company was founded in 1974 and is based in Indianapolis, Indiana.

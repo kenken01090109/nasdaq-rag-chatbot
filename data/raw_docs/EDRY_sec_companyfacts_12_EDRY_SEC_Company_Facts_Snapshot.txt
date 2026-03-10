@@ -1,0 +1,10 @@
+Company: EuroDry Ltd. Common Shares
+Ticker: EDRY
+CIK: 0001731388
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2724573 | unit=USD | filed=2023-09-20 | period_end=2023-06-30
+Assets: 206631415 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 107267488 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 90457940 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 387689 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6206706 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

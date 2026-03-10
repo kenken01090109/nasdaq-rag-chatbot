@@ -1,0 +1,9 @@
+Company: Descartes Systems Group Inc. (The) Common Stock
+Ticker: DSGX
+Sector: Technology
+Industry: Software - Application
+Country: Canada
+City: Waterloo
+Website: https://www.descartes.com
+Employees: 
+Business Summary: The Descartes Systems Group Inc. provides global logistics technology solutions worldwide. Its Logistics Technology platform offers a range of modular, interoperable web and wireless logistics management solutions. The company provides a suite of solutions that include routing, mobile, and telematics; transportation management; ecommerce, shipping, and fulfillment; customs and regulatory compliance; global trade intelligence; broker and forwarder enterprise systems; and B2B messaging and connectivity services. It also offers its customers to use its modular, software-as-a-service, and data solutions to route, schedule, track, and measure delivery resources; plan, allocate, and execute shipments; rate, audit, and pay transportation invoices; access and analyze global trade data; research and perform trade tariff and duty calculations; file customs and security documents for imports and exports; and various other logistics processes. In addition, the company provides consulting, implementation, and training services, as well as maintenance and support services. It serves transportation providers, such as air, ocean, and truck modes; logistics service providers, including third-party logistics providers, freight forwarders, and customs brokers; and distribution-intensive companies, such as retailers, manufacturers, distributors, and mobile business service providers through subscription, transactional or perpetual license basis. The Descartes Systems Group Inc. was incorporated in 1981 and is headquartered in Waterloo, Canada.

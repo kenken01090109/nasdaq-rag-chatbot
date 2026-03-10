@@ -1,0 +1,9 @@
+Company: Talen Energy Corporation Common Stock
+Ticker: TLN
+Sector: Utilities
+Industry: Utilities - Independent Power Producers
+Country: United States
+City: Houston
+Website: https://www.talenenergy.com
+Employees: 1880
+Business Summary: Talen Energy Corporation, an independent power producer and infrastructure company, produces and sells electricity, capacity, and ancillary services into wholesale power markets in the United States. The company's plants generate power using a variety of fuels, such as nuclear, fossil, oil, natural gas, and coal power plants. It owns and operates approximately 13.1 GW of power infrastructure. Talen Energy Corporation was incorporated in 2014 and is headquartered in Houston, Texas.

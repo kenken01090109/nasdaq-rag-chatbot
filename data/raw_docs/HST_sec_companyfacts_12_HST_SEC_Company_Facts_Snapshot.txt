@@ -1,0 +1,12 @@
+Company: Host Hotels & Resorts Inc. Common Stock
+Ticker: HST
+CIK: 0001070750
+Latest SEC XBRL Facts:
+Revenues: 1346000000 | unit=USD | filed=2018-05-03 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 4511000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 630000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 13040000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 6227000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 6661000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 967000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 539000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: DoorDash Inc. Class A Common Stock
+Ticker: DASH
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: United States
+City: San Francisco
+Website: https://www.doordash.com
+Employees: 31400
+Business Summary: DoorDash, Inc., together with its subsidiaries, operates a commerce platform that connects merchants, consumers, and dashers in the United States and internationally. The company operates DoorDash Marketplace, Wolt Marketplace, and Deliveroo Marketplace, which provide various services, such as customer acquisition, demand generation, order fulfillment, merchandising, payment processing, and customer support. It also offers consumer membership programs, DashPass, Wolt+, and Deliveroo Plus; advertising as a value-added service through its marketplaces; and white-label delivery fulfillment services, as well as services that help merchants establish online ordering, build branded mobile apps, manage reservations and in-store dining, manage consumer relationships, enable tableside order and pay, and improve customer support. The company was formerly known as Palo Alto Delivery Inc. and changed its name to DoorDash, Inc. in 2015. DoorDash, Inc. was founded in 2013 and is headquartered in San Francisco, California.

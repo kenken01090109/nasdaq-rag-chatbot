@@ -1,0 +1,12 @@
+Company: PayPal Holdings Inc. Common Stock
+Ticker: PYPL
+CIK: 0001633917
+Latest SEC XBRL Facts:
+Revenues: 24496000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4618000000 | unit=USD | filed=2020-05-07 | period_end=2020-03-31
+NetIncomeLoss: 3796000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 79801000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 59603000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 20198000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4032000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8995000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

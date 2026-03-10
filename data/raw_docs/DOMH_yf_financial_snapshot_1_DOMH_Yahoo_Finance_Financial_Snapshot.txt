@@ -1,0 +1,25 @@
+Company: Dominari Holdings Inc. Common Stock
+Ticker: DOMH
+Market Cap: 48342856
+Enterprise Value: 46435804
+Total Revenue: 99588000
+Revenue Per Share: 8.396
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -0.03146
+Profit Margins: 1.10858
+Free Cashflow: 
+Operating Cashflow: -7247000
+Return On Assets: 0.84175
+Return On Equity: 0.90376997
+Total Cash: 5373000
+Total Debt: 2994000
+Debt To Equity: 1.424
+Current Ratio: 4.738
+Quick Ratio: 4.57
+Trailing PE: 0.37018633
+Forward PE: -1.9866667
+Price To Book: 0.22427937
+Beta: 0.873
+52 Week High: 8.4
+52 Week Low: 2.85

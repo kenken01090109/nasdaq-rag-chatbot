@@ -1,0 +1,10 @@
+Company: ACI Worldwide Inc. Common Stock
+Ticker: ACIW
+Market Cap: 4418352128
+Enterprise Value: 5028895232
+Trailing PE: 19.842592
+Forward PE: 11.316172
+Price To Book: 2.897904
+Beta: 1.084
+52 Week High: 57.49
+52 Week Low: 38.05

@@ -1,0 +1,11 @@
+Company: Security National Financial Corporation Class A Common Stock
+Ticker: SNFCA
+CIK: 0000318673
+Latest SEC XBRL Facts:
+Revenues: 261607035 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 18659673 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1562986091 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1197604233 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 365381858 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27552994 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 100396059 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

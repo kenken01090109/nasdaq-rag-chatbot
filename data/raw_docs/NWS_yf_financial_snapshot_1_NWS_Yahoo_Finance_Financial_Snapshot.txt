@@ -1,0 +1,25 @@
+Company: News Corporation Class B Common Stock
+Ticker: NWS
+Market Cap: 15333978112
+Enterprise Value: 16496108544
+Total Revenue: 8624000000
+Revenue Per Share: 15.272
+EBITDA: 1187000064
+Gross Margins: 0.56667
+Operating Margins: 0.17062001
+Profit Margins: 0.13346
+Free Cashflow: 1718375040
+Operating Cashflow: 1076000000
+Return On Assets: 0.03943
+Return On Equity: 0.06329
+Total Cash: 2056000000
+Total Debt: 2923000064
+Debt To Equity: 30.892
+Current Ratio: 1.813
+Quick Ratio: 1.577
+Trailing PE: 35.97403
+Forward PE: 22.297173
+Price To Book: 1.7568339
+Beta: 0.969
+52 Week High: 35.58
+52 Week Low: 25.49

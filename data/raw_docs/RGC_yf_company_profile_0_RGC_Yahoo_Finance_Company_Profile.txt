@@ -1,0 +1,9 @@
+Company: Regencell Bioscience Holdings Limited Ordinary Shares
+Ticker: RGC
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Hong Kong
+City: Causeway Bay
+Website: https://www.regencellbioscience.com
+Employees: 10
+Business Summary: Regencell Bioscience Holdings Limited operates as a Traditional Chinese medicine (TCM) bioscience company in Hong Kong. It focuses on the research, development, and commercialization of TCM for the treatment of neurocognitive disorders and degeneration, primarily for attention deficit hyperactivity disorder and autism spectrum disorder. The company was incorporated in 2014 and is headquartered in Causeway Bay, Hong Kong.

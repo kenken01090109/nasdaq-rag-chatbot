@@ -1,0 +1,9 @@
+Company: Cineverse Corp. Class A Common Stock
+Ticker: CNVS
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: New York
+Website: https://www.cineverse.com
+Employees: 213
+Business Summary: Cineverse Corp. operates as a streaming technology and entertainment company. The company owns and operates streaming channels. It also operates as an aggregator and distributor of feature films and television programs; proprietary technology software-as-a-service platform for over-the-top (OTT) app development and content distribution through subscription video on demand (SVOD), dedicated ad-supported (AVOD), and ad-supported streaming linear (FAST) channels, as well as social video streaming services and audio podcasts. In addition, the company operates MatchpointTM, a software-based streaming operating platform. Further, it distributes products for brands such as Hallmark, ITV, Nelvana, ZDF, Konami, NFL, and Highlander brands, as well as for content creators, movie producers, television producers and other short-form digital content producers; and sells physical products, such as DVD's and Blu-ray discs. The company provides its services through direct-to-consumer channels, application platforms, and third-party distributors of content on platforms. The company was formerly known as Cinedigm Corp. and changed its name to Cineverse Corp. in May 2023. Cineverse Corp. was incorporated in 2000 and is based in New York, New York.

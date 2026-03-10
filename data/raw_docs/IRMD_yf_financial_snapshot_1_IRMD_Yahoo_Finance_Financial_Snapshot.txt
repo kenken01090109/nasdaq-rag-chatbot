@@ -1,0 +1,25 @@
+Company: iRadimed Corporation Common Stock
+Ticker: IRMD
+Market Cap: 1255832576
+Enterprise Value: 1206336384
+Total Revenue: 83814000
+Revenue Per Share: 6.588
+EBITDA: 27194092
+Gross Margins: 0.76746005
+Operating Margins: 0.31261998
+Profit Margins: 0.26821
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.15781
+Return On Equity: 0.24780001
+Total Cash: 51159000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 7.977
+Quick Ratio: 5.025
+Trailing PE: 56.41143
+Forward PE: 42.551727
+Price To Book: 13.290254
+Beta: 1.103
+52 Week High: 107.9
+52 Week Low: 47.478

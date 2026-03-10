@@ -1,0 +1,11 @@
+Company: Oriental Culture Holding LTD Ordinary Shares
+Ticker: OCG
+CIK: 0001776067
+Latest SEC XBRL Facts:
+Revenues: 622690 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetIncomeLoss: -2433536 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Assets: 53035666 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Liabilities: 3126354 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+StockholdersEquity: 49909312 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -4006375 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 17068272 | unit=USD | filed=2025-05-15 | period_end=2024-12-31

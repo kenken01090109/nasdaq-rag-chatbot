@@ -1,0 +1,11 @@
+Company: Tao Synergies Inc. Common Stock
+Ticker: TAOX
+CIK: 0001571934
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 207333 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -21054156 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 18358987 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1690046 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 16065144 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3944213 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17656221 | unit=USD | filed=2025-11-14 | period_end=2024-12-31

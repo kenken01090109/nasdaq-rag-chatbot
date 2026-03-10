@@ -1,0 +1,25 @@
+Company: Thayer Ventures Acquisition Corporation II Unit
+Ticker: TVAIU
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 877178
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 10
+Debt To Equity: 
+Current Ratio: 5.185
+Quick Ratio: 3.692
+Trailing PE: 
+Forward PE: 
+Price To Book: -36.188812
+Beta: 
+52 Week High: 10.365
+52 Week Low: 10.02

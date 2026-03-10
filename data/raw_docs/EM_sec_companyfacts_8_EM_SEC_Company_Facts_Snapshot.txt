@@ -1,0 +1,10 @@
+Company: Smart Share Global Limited American Depositary Shares
+Ticker: EM
+CIK: 0001834253
+Latest SEC XBRL Facts:
+NetIncomeLoss: -1854000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 565473000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 201531000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 363942000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -28177000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 107870000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

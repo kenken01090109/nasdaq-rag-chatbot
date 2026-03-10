@@ -1,0 +1,25 @@
+Company: Drugs Made In America Acquisition II Corp. Ordinary Shares
+Ticker: DMII
+Market Cap: 651815488
+Enterprise Value: 654123392
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -582897
+Return On Assets: 
+Return On Equity: 
+Total Cash: 315087
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.234
+Quick Ratio: 0.067
+Trailing PE: 
+Forward PE: 
+Price To Book: -37.651512
+Beta: 
+52 Week High: 10.01
+52 Week Low: 9.86

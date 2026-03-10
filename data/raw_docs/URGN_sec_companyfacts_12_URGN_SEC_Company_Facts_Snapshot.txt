@@ -1,0 +1,12 @@
+Company: UroGen Pharma Ltd. Ordinary Shares
+Ticker: URGN
+CIK: 0001668243
+Latest SEC XBRL Facts:
+Revenues: 1128000 | unit=USD | filed=2018-11-13 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 71951000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -127130000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 185046000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 300454000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -115408000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -124119000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 90039000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

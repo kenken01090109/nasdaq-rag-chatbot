@@ -1,0 +1,10 @@
+Company: Ascent Industries Co. Common Stock
+Ticker: ACNT
+Market Cap: 125785800
+Enterprise Value: 83164288
+Trailing PE: 
+Forward PE: 16.762499
+Price To Book: 1.4491031
+Beta: 0.439
+52 Week High: 17.92
+52 Week Low: 11.43

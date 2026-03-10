@@ -1,0 +1,25 @@
+Company: LendingTree Inc. Common Stock
+Ticker: TREE
+Market Cap: 586472896
+Enterprise Value: 986915456
+Total Revenue: 1117324032
+Revenue Per Share: 82.253
+EBITDA: 103756000
+Gross Margins: 0.96194
+Operating Margins: 0.07198
+Profit Margins: 0.13542
+Free Cashflow: 58890000
+Operating Cashflow: 73103000
+Return On Assets: 0.06322
+Return On Equity: 0.76492
+Total Cash: 81073000
+Total Debt: 435216992
+Debt To Equity: 151.751
+Current Ratio: 1.751
+Quick Ratio: 1.394
+Trailing PE: 40.471703
+Forward PE: 6.167604
+Price To Book: 2.0596285
+Beta: 2.303
+52 Week High: 77.35
+52 Week Low: 32.65

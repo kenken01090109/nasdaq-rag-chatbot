@@ -1,0 +1,25 @@
+Company: AstroNova Inc. Common Stock
+Ticker: ALOT
+Market Cap: 66912596
+Enterprise Value: 106241584
+Total Revenue: 150340000
+Revenue Per Share: 19.823
+EBITDA: 11237000
+Gross Margins: 0.34293
+Operating Margins: 0.07256
+Profit Margins: -0.11201999
+Free Cashflow: 18105250
+Operating Cashflow: 10589000
+Return On Assets: 0.026630001
+Return On Equity: -0.19924
+Total Cash: 3606000
+Total Debt: 42935000
+Debt To Equity: 55.847
+Current Ratio: 1.825
+Quick Ratio: 0.591
+Trailing PE: 
+Forward PE: 25.028572
+Price To Book: 0.87034285
+Beta: 0.676
+52 Week High: 12.68
+52 Week Low: 6.96

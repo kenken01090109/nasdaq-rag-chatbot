@@ -1,0 +1,9 @@
+Company: Galaxy Payroll Group Limited Class A Ordinary Shares
+Ticker: GLXG
+Sector: Industrials
+Industry: Staffing & Employment Services
+Country: Hong Kong
+City: Sheung Wan
+Website: https://www.galaxyapac.com
+Employees: 31
+Business Summary: Galaxy Payroll Group Limited, through its subsidiaries, provides payroll outsourcing, employment, and consultancy and market research services. It has operations in Hong Kong, Macau, the People's Republic of China, Taiwan, Japan, Australia, Thailand, Malaysia, Vietnam, India, Indonesia, Singapore, Bangladesh, South Korea, and the Philippines. Galaxy Payroll Group Limited was founded in 2013 and is based in Sheung Wan, Hong Kong.

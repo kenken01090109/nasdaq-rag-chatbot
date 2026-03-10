@@ -1,0 +1,10 @@
+Company: Actuate Therapeutics Inc. Common stock
+Ticker: ACTU
+CIK: 0001652935
+Latest SEC XBRL Facts:
+NetIncomeLoss: -17673899 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 17713934 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 6777653 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10936281 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15470210 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16924763 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

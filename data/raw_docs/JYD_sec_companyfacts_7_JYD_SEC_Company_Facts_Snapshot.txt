@@ -1,0 +1,11 @@
+Company: Jayud Global Logistics Limited Class A Ordinary Shares
+Ticker: JYD
+CIK: 0001938186
+Latest SEC XBRL Facts:
+Revenues: 39201562 | unit=USD | filed=2025-10-15 | period_end=2025-06-30
+NetIncomeLoss: 249924 | unit=USD | filed=2025-10-15 | period_end=2025-06-30
+Assets: 26458220 | unit=USD | filed=2025-10-15 | period_end=2025-06-30
+Liabilities: 15075208 | unit=USD | filed=2025-10-15 | period_end=2025-06-30
+StockholdersEquity: 12808145 | unit=USD | filed=2025-10-15 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -152581 | unit=USD | filed=2025-10-15 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2957385 | unit=USD | filed=2024-11-27 | period_end=2024-06-30

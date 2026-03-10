@@ -1,0 +1,11 @@
+Company: AleAnna Inc. Class A Common Stock
+Ticker: ANNA
+CIK: 0001845123
+Latest SEC XBRL Facts:
+Revenues: 15899878 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -523757 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+Assets: 100059670 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 41725704 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -4108803 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 6411317 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 31198846 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

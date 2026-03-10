@@ -1,0 +1,12 @@
+Company: Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities
+Ticker: BPOPM
+CIK: 0000763901
+Latest SEC XBRL Facts:
+Revenues: 756100000 | unit=USD | filed=2013-02-28 | period_end=2012-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 39054000 | unit=USD | filed=2025-05-12 | period_end=2025-03-31
+NetIncomeLoss: 599259000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 75065798000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 68950126000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 6115672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 609975000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 464555000 | unit=USD | filed=2011-05-10 | period_end=2011-03-31

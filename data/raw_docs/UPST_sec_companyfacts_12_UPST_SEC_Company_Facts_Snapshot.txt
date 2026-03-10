@@ -1,0 +1,12 @@
+Company: Upstart Holdings Inc. Common stock
+Ticker: UPST
+CIK: 0001647639
+Latest SEC XBRL Facts:
+Revenues: 747767000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 407585000 | unit=USD | filed=2023-11-08 | period_end=2023-09-30
+NetIncomeLoss: 34965000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2904848000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 2161130000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 743718000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -256277000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 489784000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

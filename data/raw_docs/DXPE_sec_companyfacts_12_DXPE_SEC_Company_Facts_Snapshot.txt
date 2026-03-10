@@ -1,0 +1,12 @@
+Company: DXP Enterprises Inc. Common Stock
+Ticker: DXPE
+CIK: 0001020710
+Latest SEC XBRL Facts:
+Revenues: 253561000 | unit=USD | filed=2016-05-13 | period_end=2016-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1488975000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 65832000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1444454000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 956115000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 488339000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 56505000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 123829000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

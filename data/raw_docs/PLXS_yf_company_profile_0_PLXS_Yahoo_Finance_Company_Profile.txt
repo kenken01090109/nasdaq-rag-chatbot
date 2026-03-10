@@ -1,0 +1,9 @@
+Company: Plexus Corp. Common Stock
+Ticker: PLXS
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Neenah
+Website: https://www.plexus.com
+Employees: 20000
+Business Summary: Plexus Corp. provides electronic manufacturing services in the United States, the Asia-Pacific, Europe, the Middle East, and Africa. The company offers design, develop, supply chain, new product introduction, and manufacturing solutions, as well as sustaining services. It serves the aerospace/defense, healthcare/life sciences, and industrial/commercial sectors. Plexus Corp. was founded in 1979 and is headquartered in Neenah, Wisconsin.

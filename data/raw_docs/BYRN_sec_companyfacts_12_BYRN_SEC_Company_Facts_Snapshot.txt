@@ -1,0 +1,12 @@
+Company: Byrna Technologies Inc. Common Stock
+Ticker: BYRN
+CIK: 0001354866
+Latest SEC XBRL Facts:
+Revenues: 148580 | unit=USD | filed=2020-06-03 | period_end=2020-02-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 82874000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+NetIncomeLoss: 6324000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+Assets: 78562000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+Liabilities: 15419000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+StockholdersEquity: 63143000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -11503000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 6495000 | unit=USD | filed=2025-10-09 | period_end=2025-08-31

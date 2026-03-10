@@ -1,0 +1,25 @@
+Company: Tevogen Bio Holdings Inc. Common Stock
+Ticker: TVGN
+Market Cap: 29593300
+Enterprise Value: 46108916
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -30720460
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -754284
+Operating Cashflow: -13194996
+Return On Assets: -4.39671
+Return On Equity: 
+Total Cash: 1037094
+Total Debt: 7529216
+Debt To Equity: 
+Current Ratio: 0.315
+Quick Ratio: 0.178
+Trailing PE: 
+Forward PE: 
+Price To Book: -1.7359297
+Beta: -0.746
+52 Week High: 10.76
+52 Week Low: 0.143

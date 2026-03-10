@@ -1,0 +1,12 @@
+Company: BTC Digital Ltd. Ordinary Shares
+Ticker: BTCT
+CIK: 0001796514
+Latest SEC XBRL Facts:
+Revenues: 5731000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 237824000 | unit=CNY | filed=2022-11-30 | period_end=2022-06-30
+NetIncomeLoss: -4844000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+Assets: 37457000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+Liabilities: 557000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+StockholdersEquity: 36900000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3484000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6398000 | unit=USD | filed=2025-11-12 | period_end=2025-06-30

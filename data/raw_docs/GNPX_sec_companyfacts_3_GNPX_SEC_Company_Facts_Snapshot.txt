@@ -1,0 +1,11 @@
+Company: Genprex Inc. Common Stock
+Ticker: GNPX
+CIK: 0001595248
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-04-01 | period_end=2024-12-31
+NetIncomeLoss: -12438742 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 3562513 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2794706 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 767807 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11212938 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1103315 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

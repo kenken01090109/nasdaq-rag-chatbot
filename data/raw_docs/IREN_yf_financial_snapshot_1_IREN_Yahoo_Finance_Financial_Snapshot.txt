@@ -1,0 +1,25 @@
+Company: IREN Limited Ordinary Shares
+Ticker: IREN
+Market Cap: 12175561728
+Enterprise Value: 13914708992
+Total Revenue: 757102016
+Revenue Per Share: 2.949
+EBITDA: 194252992
+Gross Margins: 0.68132
+Operating Margins: -0.45836
+Profit Margins: 0.51477003
+Free Cashflow: -1249673600
+Operating Cashflow: 410248992
+Return On Assets: -0.014249999
+Return On Equity: 0.20526
+Total Cash: 3260589056
+Total Debt: 3842547968
+Debt To Equity: 153.017
+Current Ratio: 4.96
+Quick Ratio: 4.794
+Trailing PE: 25.48611
+Forward PE: 47.304787
+Price To Book: 4.8487253
+Beta: 4.321
+52 Week High: 76.87
+52 Week Low: 5.125

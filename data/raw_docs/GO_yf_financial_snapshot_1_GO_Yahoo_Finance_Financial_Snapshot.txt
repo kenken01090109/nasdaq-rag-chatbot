@@ -1,0 +1,25 @@
+Company: Grocery Outlet Holding Corp. Common Stock
+Ticker: GO
+Market Cap: 646724352
+Enterprise Value: 2362390528
+Total Revenue: 4688758784
+Revenue Per Share: 47.852
+EBITDA: 218462000
+Gross Margins: 0.3027
+Operating Margins: 0.020610001
+Profit Margins: -0.04797
+Free Cashflow: -30734376
+Operating Cashflow: 222132992
+Return On Assets: 0.01757
+Return On Equity: -0.20624
+Total Cash: 69602000
+Total Debt: 1809702016
+Debt To Equity: 183.976
+Current Ratio: 1.367
+Quick Ratio: 0.242
+Trailing PE: 
+Forward PE: 10.037929
+Price To Book: 0.65163654
+Beta: 0.498
+52 Week High: 19.41
+52 Week Low: 6.2

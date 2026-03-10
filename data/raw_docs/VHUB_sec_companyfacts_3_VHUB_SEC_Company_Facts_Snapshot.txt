@@ -1,0 +1,11 @@
+Company: VenHub Global Inc. Common Stock
+Ticker: VHUB
+CIK: 0001972234
+Latest SEC XBRL Facts:
+Revenues: 808972 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+NetIncomeLoss: -49227634 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+Assets: 4612369 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+Liabilities: 12320131 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+StockholdersEquity: -7707762 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4390720 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-12-15 | period_end=2025-09-30

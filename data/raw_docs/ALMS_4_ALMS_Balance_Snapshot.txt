@@ -1,0 +1,8 @@
+Company: Alumis Inc. Common Stock
+Ticker: ALMS
+Total Cash: 377724000
+Total Debt: 37797000
+Debt To Equity: 9.823
+Current Ratio: 6.012
+Quick Ratio: 5.83
+Book Value: 3.687

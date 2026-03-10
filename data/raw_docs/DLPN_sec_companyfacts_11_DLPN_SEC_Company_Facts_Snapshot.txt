@@ -1,0 +1,12 @@
+Company: Dolphin Entertainment Inc. Common Stock
+Ticker: DLPN
+CIK: 0001282224
+Latest SEC XBRL Facts:
+Revenues: 41053549 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 39367418 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -4108474 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 59961808 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 51531545 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 8430263 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2604183 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7832402 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

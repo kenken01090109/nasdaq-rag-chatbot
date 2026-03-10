@@ -1,0 +1,12 @@
+Company: CryoPort Inc. Common Stock
+Ticker: CYRX
+CIK: 0001124524
+Latest SEC XBRL Facts:
+Revenues: 130727000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 130727000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 89945000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 774328000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 261057000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 513271000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9499000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 255811000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

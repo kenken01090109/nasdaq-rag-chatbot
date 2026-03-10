@@ -1,0 +1,12 @@
+Company: Rocky Mountain Chocolate Factory Inc. Common Stock
+Ticker: RMCF
+CIK: 0001616262
+Latest SEC XBRL Facts:
+Revenues: 30432352 | unit=USD | filed=2023-05-30 | period_end=2023-02-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 20739000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetIncomeLoss: -1141000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Assets: 20728000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Liabilities: 14722000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+StockholdersEquity: 6006000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -1378000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 641000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30

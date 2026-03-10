@@ -1,0 +1,9 @@
+Company: TOP Financial Group Limited Class A Ordinary Shares
+Ticker: TOP
+Sector: Financial Services
+Industry: Capital Markets
+Country: Singapore
+City: Singapore
+Website: https://www.zyfgl.com
+Employees: 18
+Business Summary: TOP Financial Group Limited, through its subsidiaries, operates as an online brokerage company in Hong Kong. The company is involved in the trading of equities, futures, and options products; and the provision of brokerage and value-added services, including trade order placement and execution, account management, and customer support services. It also provides a range of futures products, such as index, forex, agricultural product, energy, and precious metal futures; and operates as an escrow agent in transactions relating to securities sales and transfers. In addition, the company offers stock and options brokerage, structured note subscriber, consulting, currency exchange, margin financing, OTC derivative trading, and loan services. The company was formerly known as Zhong Yang Financial Group Limited and changed its name to TOP Financial Group Limited in July 2022. The company was founded in 2015 and is headquartered in Singapore. TOP Financial Group Limited is a subsidiary of Zhong Yang Holdings (BVI) Limited.

@@ -1,0 +1,12 @@
+Company: Reynolds Consumer Products Inc. Common Stock
+Ticker: REYN
+CIK: 0001786431
+Latest SEC XBRL Facts:
+Revenues: 833000000 | unit=USD | filed=2024-05-08 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2687000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 184000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 4896000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 2716000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 2180000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 240000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 53000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

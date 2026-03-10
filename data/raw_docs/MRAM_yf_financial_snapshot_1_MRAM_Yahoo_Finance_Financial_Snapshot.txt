@@ -1,0 +1,25 @@
+Company: Everspin Technologies Inc. Common Stock
+Ticker: MRAM
+Market Cap: 200223072
+Enterprise Value: 205032784
+Total Revenue: 53642000
+Revenue Per Share: 2.401
+EBITDA: -4000000
+Gross Margins: 0.51312
+Operating Margins: -0.10989001
+Profit Margins: -0.01059
+Free Cashflow: 3091375
+Operating Cashflow: 11169000
+Return On Assets: -0.0572
+Return On Equity: -0.00908
+Total Cash: 45257000
+Total Debt: 3668000
+Debt To Equity: 5.573
+Current Ratio: 5.842
+Quick Ratio: 4.73
+Trailing PE: 
+Forward PE: 58.399998
+Price To Book: 3.0290458
+Beta: 0.858
+52 Week High: 17.24
+52 Week Low: 4.335

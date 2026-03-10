@@ -1,0 +1,25 @@
+Company: Community Bancorp. Common Stock
+Ticker: CMTV
+Market Cap: 170940704
+Enterprise Value: 132577704
+Total Revenue: 47409552
+Revenue Per Share: 8.462
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4354
+Profit Margins: 0.35790002
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01338
+Return On Equity: 0.16028
+Total Cash: 128061760
+Total Debt: 90360192
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.066007
+Forward PE: 
+Price To Book: 1.4978147
+Beta: 0.269
+52 Week High: 34.92
+52 Week Low: 16.99

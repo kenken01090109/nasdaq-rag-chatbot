@@ -1,0 +1,10 @@
+Company: Nano Nuclear Energy Inc. Common Stock
+Ticker: NNE
+CIK: 0001923891
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6516279 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 606056161 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 6477372 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 599578789 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3989840 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 577533949 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

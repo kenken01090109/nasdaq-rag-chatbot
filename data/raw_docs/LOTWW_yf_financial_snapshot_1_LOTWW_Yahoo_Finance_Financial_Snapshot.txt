@@ -1,0 +1,25 @@
+Company: Lotus Technology Inc. Warrants
+Ticker: LOTWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 627283968
+Revenue Per Share: 0.952
+EBITDA: -401384736
+Gross Margins: -0.00119
+Operating Margins: -0.68047994
+Profit Margins: -1.30445
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.13891
+Return On Equity: 
+Total Cash: 65305000
+Total Debt: 1698243968
+Debt To Equity: 
+Current Ratio: 0.401
+Quick Ratio: 0.09
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.03613836
+Beta: 3.002
+52 Week High: 0.07
+52 Week Low: 0.07

@@ -1,0 +1,25 @@
+Company: Greenwich LifeSciences Inc. Common Stock
+Ticker: GLSI
+Market Cap: 319901312
+Enterprise Value: 337984512
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -19584406
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -1357228
+Operating Cashflow: -8591002
+Return On Assets: -2.54192
+Return On Equity: -5.43434
+Total Cash: 3806978
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.347
+Quick Ratio: 2.347
+Trailing PE: 
+Forward PE: -28.158537
+Price To Book: 146.13924
+Beta: 1.498
+52 Week High: 34.1
+52 Week Low: 7.78

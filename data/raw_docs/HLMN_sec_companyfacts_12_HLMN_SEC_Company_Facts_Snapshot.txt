@@ -1,0 +1,11 @@
+Company: Hillman Solutions Corp. Common Stock
+Ticker: HLMN
+CIK: 0001822492
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1187085000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetIncomeLoss: 38707000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Assets: 2396893000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Liabilities: 1166763000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+StockholdersEquity: 1230130000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 74289000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 37731000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27

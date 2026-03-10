@@ -1,0 +1,11 @@
+Company: Waldencast plc Class A Ordinary Share
+Ticker: WALD
+CIK: 0001840199
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 132274000 | unit=USD | filed=2025-11-24 | period_end=2025-06-30
+NetIncomeLoss: -169439000 | unit=USD | filed=2025-11-24 | period_end=2025-06-30
+Assets: 797749000 | unit=USD | filed=2025-11-24 | period_end=2025-06-30
+Liabilities: 248783000 | unit=USD | filed=2025-11-24 | period_end=2025-06-30
+StockholdersEquity: 618608000 | unit=USD | filed=2024-08-27 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -11526000 | unit=USD | filed=2025-11-24 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 8970000 | unit=USD | filed=2025-11-24 | period_end=2025-06-30

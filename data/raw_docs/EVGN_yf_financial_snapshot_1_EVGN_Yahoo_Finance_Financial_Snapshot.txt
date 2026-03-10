@@ -1,0 +1,25 @@
+Company: Evogene Ltd Ordinary Shares
+Ticker: EVGN
+Market Cap: 7059979
+Enterprise Value: 9976352
+Total Revenue: 8016000
+Revenue Per Share: 1.084
+EBITDA: -14560000
+Gross Margins: 0.65007
+Operating Margins: -8.73077
+Profit Margins: -0.34293997
+Free Cashflow: -24589000
+Operating Cashflow: -15377000
+Return On Assets: -0.30604
+Return On Equity: -0.70634
+Total Cash: 15958000
+Total Debt: 2520000
+Debt To Equity: 14.607
+Current Ratio: 5.112
+Quick Ratio: 4.405
+Trailing PE: 
+Forward PE: -0.7677
+Price To Book: 5.860306
+Beta: 1.077
+52 Week High: 2.42
+52 Week Low: 0.73

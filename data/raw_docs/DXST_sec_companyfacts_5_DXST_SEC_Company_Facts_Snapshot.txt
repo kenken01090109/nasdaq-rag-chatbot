@@ -1,0 +1,11 @@
+Company: Decent Holding Inc Class A Ordinary Shares
+Ticker: DXST
+CIK: 0001958133
+Latest SEC XBRL Facts:
+Revenues: 5498653 | unit=USD | filed=2025-08-12 | period_end=2025-04-30
+NetIncomeLoss: -479165 | unit=USD | filed=2025-08-12 | period_end=2025-04-30
+Assets: 13514313 | unit=USD | filed=2025-08-12 | period_end=2025-04-30
+Liabilities: 6072568 | unit=USD | filed=2025-08-12 | period_end=2025-04-30
+StockholdersEquity: 7441745 | unit=USD | filed=2025-08-12 | period_end=2025-04-30
+NetCashProvidedByUsedInOperatingActivities: -612555 | unit=USD | filed=2025-08-12 | period_end=2025-04-30
+CashAndCashEquivalentsAtCarryingValue: 838415 | unit=USD | filed=2025-08-12 | period_end=2025-04-30

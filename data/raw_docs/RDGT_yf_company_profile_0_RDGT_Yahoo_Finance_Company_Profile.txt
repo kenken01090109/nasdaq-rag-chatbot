@@ -1,0 +1,9 @@
+Company: Ridgetech Inc. Ordinary Shares
+Ticker: RDGT
+Sector: Healthcare
+Industry: Pharmaceutical Retailers
+Country: China
+City: Hangzhou
+Website: https://www.ridgetch.com
+Employees: 61
+Business Summary: Ridgetech, Inc. operates as a wholesale distributor of pharmaceutical and other healthcare products in the People's Republic of China. It operates through three segments: Retail Drugstores, Online Pharmacy, and Drug Wholesale. The company engages in offline and online wholesale distribution of pharmaceutical products, including prescription and over-the-counter drugs, nutritional supplements, traditional Chinese medicines (TCM), personal and family care products, and medical devices, as well as convenience products comprising consumable, seasonal, and promotional items. It also distributes other healthcare products, such as health food, cosmetics, and daily necessities. The company was formerly known as China Jo-Jo Drugstores, Inc. and changed its name to Ridgetech, Inc. in February 2024. Ridgetech, Inc. is headquartered in Hangzhou, China.

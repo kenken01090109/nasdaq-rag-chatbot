@@ -1,0 +1,25 @@
+Company: Leslie's Inc. Common Stock
+Ticker: LESL
+Market Cap: 8850746
+Enterprise Value: 1026847872
+Total Revenue: 1213815040
+Revenue Per Share: 130.806
+EBITDA: 38386000
+Gross Margins: 0.34519002
+Operating Margins: -0.37800997
+Profit Margins: -0.22687
+Free Cashflow: 32998000
+Operating Cashflow: 32766000
+Return On Assets: 0.00411
+Return On Equity: 
+Total Cash: 3622000
+Total Debt: 1021865984
+Debt To Equity: 
+Current Ratio: 1.42
+Quick Ratio: 0.118
+Trailing PE: 
+Forward PE: -1.4393939
+Price To Book: -0.018067019
+Beta: 1.313
+52 Week High: 21.0
+52 Week Low: 0.87

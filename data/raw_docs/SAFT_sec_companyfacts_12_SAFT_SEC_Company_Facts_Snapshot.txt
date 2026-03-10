@@ -1,0 +1,11 @@
+Company: Safety Insurance Group Inc. Common Stock
+Ticker: SAFT
+CIK: 0001172052
+Latest SEC XBRL Facts:
+Revenues: 944397000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 79143000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2449840000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1550286000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 899554000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 120948000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 56233000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

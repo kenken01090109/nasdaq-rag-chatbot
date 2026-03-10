@@ -1,0 +1,25 @@
+Company: Dyadic International Inc. Common Stock
+Ticker: DYAI
+Market Cap: 27777756
+Enterprise Value: 23635374
+Total Revenue: 3342195
+Revenue Per Share: 0.101
+EBITDA: 
+Gross Margins: 0.3154
+Operating Margins: -1.6422701
+Profit Margins: -2.19863
+Free Cashflow: -3553190
+Operating Cashflow: -4628505
+Return On Assets: -0.39719
+Return On Equity: -2.4415
+Total Cash: 8933350
+Total Debt: 5062378
+Debt To Equity: 194.159
+Current Ratio: 2.849
+Quick Ratio: 2.439
+Trailing PE: 
+Forward PE: -2.39875
+Price To Book: 10.661112
+Beta: 1.287
+52 Week High: 1.55
+52 Week Low: 0.71

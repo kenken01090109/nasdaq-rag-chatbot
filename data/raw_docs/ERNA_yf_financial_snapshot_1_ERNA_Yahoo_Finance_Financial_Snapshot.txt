@@ -1,0 +1,25 @@
+Company: Ernexa Therapeutics Inc. Common Stock
+Ticker: ERNA
+Market Cap: 7719257
+Enterprise Value: -84391
+Total Revenue: 1000
+Revenue Per Share: 0.0
+EBITDA: -9851000
+Gross Margins: 1.0
+Operating Margins: -9922.0
+Profit Margins: 0.0
+Free Cashflow: -6207125
+Operating Cashflow: -9414000
+Return On Assets: -0.89291
+Return On Equity: 
+Total Cash: 3047000
+Total Debt: 552000
+Debt To Equity: 15.462
+Current Ratio: 1.576
+Quick Ratio: 1.493
+Trailing PE: 0.005060369
+Forward PE: -0.029687498
+Price To Book: 0.6263736
+Beta: 6.865
+52 Week High: 4.5
+52 Week Low: 0.27

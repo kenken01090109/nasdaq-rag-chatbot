@@ -1,0 +1,25 @@
+Company: Wealthfront Corporation Common Stock
+Ticker: WLTH
+Market Cap: 1274521984
+Enterprise Value: 1246893056
+Total Revenue: 351536992
+Revenue Per Share: 8.638
+EBITDA: 135794000
+Gross Margins: 0.89482003
+Operating Margins: 0.33722
+Profit Margins: 0.35182998
+Free Cashflow: 
+Operating Cashflow: 138798000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 266191008
+Total Debt: 11364000
+Debt To Equity: 3.223
+Current Ratio: 1.685
+Quick Ratio: 1.11
+Trailing PE: 
+Forward PE: 11.421576
+Price To Book: 2.9407687
+Beta: 
+52 Week High: 14.75
+52 Week Low: 7.2

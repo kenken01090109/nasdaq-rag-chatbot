@@ -1,0 +1,11 @@
+Company: Anteris Technologies Global Corp. Common Stock
+Ticker: AVR
+CIK: 0002011514
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1603000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -64942000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 19074000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 15715000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3698000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -59276000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 48955000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31

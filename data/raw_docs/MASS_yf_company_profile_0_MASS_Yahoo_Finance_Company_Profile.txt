@@ -1,0 +1,9 @@
+Company: 908 Devices Inc. Common Stock
+Ticker: MASS
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Burlington
+Website: https://908devices.com
+Employees: 
+Business Summary: 908 Devices Inc., a commercial-stage technology company, provides various purpose-built handheld and desktop mass spectrometry devices for use in life sciences research, bioprocessing, pharma/biopharma, forensics, and adjacent markets. Its products include MX908, a handheld, battery-powered, and Mass Spec device that is designed for rapid analysis of solid, liquid, vapor, and aerosol materials of unknown identity; Rebel, a small desktop analyzer that provides real-time information on the extracellular environment in bioprocesses; and Maverick, an optical in-line analyzer that offers real-time monitoring and control of multiple bioprocess parameters, including glucose, lactate, and total biomass in mammalian cell cultures, as well as process fingerprint data to support large-scale efforts in predictive bioprocess modeling. The company's products comprise Maven, an on-line device for bioprocess monitoring and control; Trace C2, an on-line monitoring of methanol or ethanol and control of substrate feeding in fermentation processes; and ZipChip solution, a plug-and-play, high-resolution separation platform that optimizes Mass Spec sample analysis. It operates in the United States, Europe, the Middle East, Africa, the Asia Pacific, and rest of Americas. The company was incorporated in 2012 and is headquartered in Burlington, Massachusetts.

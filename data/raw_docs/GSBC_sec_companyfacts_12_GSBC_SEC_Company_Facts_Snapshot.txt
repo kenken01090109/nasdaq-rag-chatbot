@@ -1,0 +1,10 @@
+Company: Great Southern Bancorp Inc. Common Stock
+Ticker: GSBC
+CIK: 0000854560
+Latest SEC XBRL Facts:
+NetIncomeLoss: 54698000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 5737867000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5104941000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 632926000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 59896000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 196235000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Sunrun Inc. Common Stock
+Ticker: RUN
+Market Cap: 2659143936
+Enterprise Value: 18629300224
+Total Revenue: 2956997120
+Revenue Per Share: 12.867
+EBITDA: 599449024
+Gross Margins: 0.30345
+Operating Margins: 0.08401
+Profit Margins: 0.15215999
+Free Cashflow: -2649873408
+Operating Cashflow: -421440000
+Return On Assets: -0.0037099998
+Return On Equity: -0.22061001
+Total Cash: 833180032
+Total Debt: 14846324736
+Debt To Equity: 297.881
+Current Ratio: 1.655
+Quick Ratio: 0.841
+Trailing PE: 6.631579
+Forward PE: 35.180244
+Price To Book: 0.8457006
+Beta: 2.461
+52 Week High: 22.44
+52 Week Low: 5.38

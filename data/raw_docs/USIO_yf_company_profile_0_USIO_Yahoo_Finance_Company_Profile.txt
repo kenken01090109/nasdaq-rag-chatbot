@@ -1,0 +1,9 @@
+Company: Usio Inc. Common Stock
+Ticker: USIO
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: San Antonio
+Website: https://usio.com
+Employees: 107
+Business Summary: Usio, Inc., together with its subsidiaries, provides integrated electronic payment processing services to merchants and businesses in the United States. The company offers various types of automated clearing house (ACH) processing for fund transfers; and credit, prepaid card, and debit card-based processing services. Its ACH transaction processing services include Represented Check and Check Conversion for electronic payment facilitation. In addition, the company offers merchant account services for the processing of card-based transactions through the VISA, MasterCard, American Express, and Discover supported by online and physical terminal access. Further, it provides a proprietary platform, enabling businesses to handle both e-checks and card payments; and an interactive voice response telephone system to companies, which accept payments directly from consumers over the telephone using e-checks or credit cards. Further, the company offers prepaid and incentive card issuance services; and operates a payment facilitation platform, as well as provides additional services, such as electronic bill presentment, document composition, document decomposition, and printing and mailing services for various industry verticals, including utilities and financial institutions. It markets and sells ACH products and services primarily through resellers; and prepaid card program directly to government entities, corporations, and to consumers through the internet. The company was formerly known as Payment Data Systems, Inc. and changed its name to Usio, Inc. in June 2019. Usio, Inc. was incorporated in 1998 and is headquartered in San Antonio, Texas.

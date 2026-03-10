@@ -1,0 +1,12 @@
+Company: Ernexa Therapeutics Inc. Common Stock
+Ticker: ERNA
+CIK: 0000748592
+Latest SEC XBRL Facts:
+Revenues: 581000 | unit=USD | filed=2025-11-07 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4625000 | unit=USD | filed=2020-11-13 | period_end=2020-09-30
+NetIncomeLoss: -12582000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 6172000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2602000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 3570000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5869000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4315000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

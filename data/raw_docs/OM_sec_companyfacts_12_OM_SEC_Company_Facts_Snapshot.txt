@@ -1,0 +1,11 @@
+Company: Outset Medical Inc. Common Stock
+Ticker: OM
+CIK: 0001484612
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 90602000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -62162000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 277255000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 134890000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 142365000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36806000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36437000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

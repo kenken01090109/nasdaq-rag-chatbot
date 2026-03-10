@@ -1,0 +1,11 @@
+Company: Adaptive Biotechnologies Corporation Common Stock
+Ticker: ADPT
+CIK: 0001478320
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 205295000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -45920000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 490610000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 286357000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 204435000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -48041000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 55034000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

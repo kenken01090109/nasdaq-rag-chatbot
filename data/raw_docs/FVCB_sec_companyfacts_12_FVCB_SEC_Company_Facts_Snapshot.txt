@@ -1,0 +1,10 @@
+Company: FVCBankcorp Inc. Common Stock
+Ticker: FVCB
+CIK: 0001675644
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1190000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 16411000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 2319052000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2069248000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 249804000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16268000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

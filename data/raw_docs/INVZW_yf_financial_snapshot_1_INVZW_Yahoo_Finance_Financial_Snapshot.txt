@@ -1,0 +1,25 @@
+Company: Innoviz Technologies Ltd. Warrant
+Ticker: INVZW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 55089000
+Revenue Per Share: 0.276
+EBITDA: -61860000
+Gross Margins: 0.23426001
+Operating Margins: -1.6511799
+Profit Margins: -1.23064
+Free Cashflow: -26167124
+Operating Cashflow: -47918000
+Return On Assets: -0.313
+Return On Equity: -0.86557996
+Total Cash: 72114000
+Total Debt: 35251000
+Debt To Equity: 45.358
+Current Ratio: 2.871
+Quick Ratio: 2.612
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.019512195
+Beta: 1.434
+52 Week High: 0.0078
+52 Week Low: 0.0068

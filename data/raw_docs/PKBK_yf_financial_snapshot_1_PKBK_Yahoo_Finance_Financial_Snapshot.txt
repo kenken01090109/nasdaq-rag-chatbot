@@ -1,0 +1,25 @@
+Company: Parke Bancorp Inc. Common Stock
+Ticker: PKBK
+Market Cap: 322954592
+Enterprise Value: 309188096
+Total Revenue: 77381000
+Revenue Per Share: 6.561
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.68894
+Profit Margins: 0.48817003
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0172
+Return On Equity: 0.12096
+Total Cash: 156863008
+Total Debt: 143403008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.626582
+Forward PE: 
+Price To Book: 0.9852181
+Beta: 0.518
+52 Week High: 29.5
+52 Week Low: 16.94

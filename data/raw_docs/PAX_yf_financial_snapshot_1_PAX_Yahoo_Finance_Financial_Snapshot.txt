@@ -1,0 +1,25 @@
+Company: Patria Investments Limited Class A Common Shares
+Ticker: PAX
+Market Cap: 1908838528
+Enterprise Value: 2053352192
+Total Revenue: 381700000
+Revenue Per Share: 2.416
+EBITDA: 169042656
+Gross Margins: 0.55724
+Operating Margins: 0.36063
+Profit Margins: 0.22426
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.059910003
+Return On Equity: 0.16018999
+Total Cash: 90100000
+Total Debt: 174900000
+Debt To Equity: 27.371
+Current Ratio: 1.027
+Quick Ratio: 0.537
+Trailing PE: 17.602942
+Forward PE: 6.805003
+Price To Book: 3.0590339
+Beta: 0.731
+52 Week High: 17.8
+52 Week Low: 9.43

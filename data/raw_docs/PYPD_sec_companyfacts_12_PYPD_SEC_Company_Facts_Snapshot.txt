@@ -1,0 +1,9 @@
+Company: PolyPid Ltd. Ordinary Shares
+Ticker: PYPD
+CIK: 0001611842
+Latest SEC XBRL Facts:
+NetIncomeLoss: -18245000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Assets: 37687000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+StockholdersEquity: 20476000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -12711000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 17448000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

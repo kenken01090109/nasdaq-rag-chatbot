@@ -1,0 +1,11 @@
+Company: Sound Group Inc. American Depositary Shares
+Ticker: SOGP
+CIK: 0001783407
+Latest SEC XBRL Facts:
+Revenues: 278356000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetIncomeLoss: -19969000 | unit=USD | filed=2022-04-27 | period_end=2021-12-31
+Assets: 71437000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+Liabilities: 42077000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+StockholdersEquity: 32235000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3625000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 60534000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31

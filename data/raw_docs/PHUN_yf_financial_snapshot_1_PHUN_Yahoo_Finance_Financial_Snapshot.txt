@@ -1,0 +1,25 @@
+Company: Phunware Inc. Common Stock
+Ticker: PHUN
+Market Cap: 34116584
+Enterprise Value: -68965416
+Total Revenue: 2357000
+Revenue Per Share: 0.121
+EBITDA: -17449000
+Gross Margins: 0.41324002
+Operating Margins: -5.62701
+Profit Margins: 0.0
+Free Cashflow: -11602625
+Operating Cashflow: -11983000
+Return On Assets: -0.14886
+Return On Equity: -0.18687999
+Total Cash: 103783000
+Total Debt: 701000
+Debt To Equity: 0.713
+Current Ratio: 17.031
+Quick Ratio: 16.916
+Trailing PE: 
+Forward PE: -3.2500002
+Price To Book: 0.34695137
+Beta: 2.736
+52 Week High: 3.88
+52 Week Low: 1.56

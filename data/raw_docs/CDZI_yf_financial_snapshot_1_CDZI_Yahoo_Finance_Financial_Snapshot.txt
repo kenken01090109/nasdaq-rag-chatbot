@@ -1,0 +1,25 @@
+Company: CADIZ Inc. Common Stock
+Ticker: CDZI
+Market Cap: 446667648
+Enterprise Value: 535089440
+Total Revenue: 15979000
+Revenue Per Share: 0.204
+EBITDA: -23615000
+Gross Margins: 0.32467997
+Operating Margins: -1.18004
+Profit Margins: -2.06646
+Free Cashflow: -18032876
+Operating Cashflow: -18220000
+Return On Assets: -0.12903
+Return On Equity: -1.3635601
+Total Cash: 4430000
+Total Debt: 90723000
+Debt To Equity: 327.13
+Current Ratio: 1.256
+Quick Ratio: 0.866
+Trailing PE: 
+Forward PE: -15.880597
+Price To Book: 15.739646
+Beta: 2.112
+52 Week High: 6.96
+52 Week Low: 2.13

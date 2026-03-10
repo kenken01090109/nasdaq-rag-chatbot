@@ -1,0 +1,9 @@
+Company: Zentek Ltd. Common Stock
+Ticker: ZTEK
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: Canada
+City: Guelph
+Website: https://www.zentek.com
+Employees: 18
+Business Summary: Zentek Ltd., together with its subsidiaries, engages in the research and development of graphene and related nanomaterials in Canada. The company develops graphene-based antimicrobial coatings under the ZenGUARD brand, surgical masks, HVAC filters, personal protective equipment, rapid detection point of care diagnostics tests, and pharmaceutical products based on graphene-based compounds. It also developing aptamers and rapid detection; and graphene oxide synthesis and graphene synthesis products. In addition, the company owns a 100% interest in the Albany graphite project located in Northern Ontario, Canada. The company was formerly known as ZEN Graphene Solutions Ltd. and changed its name to Zentek Ltd. in October 2021. Zentek Ltd. was incorporated in 2008 and is headquartered in Guelph, Canada.

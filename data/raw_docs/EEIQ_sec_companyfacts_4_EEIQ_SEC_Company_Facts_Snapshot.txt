@@ -1,0 +1,11 @@
+Company: EpicQuest Education Group International Limited Common Stock
+Ticker: EEIQ
+CIK: 0001781397
+Latest SEC XBRL Facts:
+Revenues: 5367405 | unit=USD | filed=2025-08-21 | period_end=2025-03-31
+NetIncomeLoss: -231942 | unit=USD | filed=2025-08-21 | period_end=2025-03-31
+Assets: 20038074 | unit=USD | filed=2025-08-21 | period_end=2025-03-31
+Liabilities: 8904800 | unit=USD | filed=2025-08-21 | period_end=2025-03-31
+StockholdersEquity: 5347974 | unit=USD | filed=2025-08-21 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -2294857 | unit=USD | filed=2025-08-21 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 334341 | unit=USD | filed=2025-08-21 | period_end=2025-03-31

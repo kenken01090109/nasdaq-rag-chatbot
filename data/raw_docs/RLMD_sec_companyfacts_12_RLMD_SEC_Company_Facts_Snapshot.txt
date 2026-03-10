@@ -1,0 +1,11 @@
+Company: Relmada Therapeutics Inc. Common Stock
+Ticker: RLMD
+CIK: 0001553643
+Latest SEC XBRL Facts:
+Revenues: 15602 | unit=USD | filed=2014-04-15 | period_end=2014-02-28
+NetIncomeLoss: -37517403 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 14876244 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5410705 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9465539 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31190765 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1384484 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

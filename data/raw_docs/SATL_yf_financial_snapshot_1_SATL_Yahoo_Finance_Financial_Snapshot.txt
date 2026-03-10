@@ -1,0 +1,25 @@
+Company: Satellogic Inc. Class A Common Stock
+Ticker: SATL
+Market Cap: 441458208
+Enterprise Value: 500484896
+Total Revenue: 14684000
+Revenue Per Share: 0.147
+EBITDA: -26148000
+Gross Margins: 0.67046
+Operating Margins: -2.22461
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -21070000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 28288000
+Total Debt: 95278000
+Debt To Equity: 
+Current Ratio: 1.079
+Quick Ratio: 0.938
+Trailing PE: 
+Forward PE: -20.599998
+Price To Book: -5.84121
+Beta: 1.457
+52 Week High: 5.93
+52 Week Low: 1.255

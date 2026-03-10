@@ -1,0 +1,25 @@
+Company: HUTCHMED (China) Limited American Depositary Shares
+Ticker: HCM
+Market Cap: 2501329920
+Enterprise Value: 10473108480
+Total Revenue: 602196992
+Revenue Per Share: 3.52
+EBITDA: -7491000
+Gross Margins: 0.08928
+Operating Margins: -0.01265
+Profit Margins: 0.77529997
+Free Cashflow: -22782250
+Operating Cashflow: -32565000
+Return On Assets: -0.00811
+Return On Equity: 0.46897998
+Total Cash: 1365645056
+Total Debt: 100730000
+Debt To Equity: 8.111
+Current Ratio: 4.651
+Quick Ratio: 4.471
+Trailing PE: 5.226415
+Forward PE: 42.48336
+Price To Book: 9.685315
+Beta: 0.512
+52 Week High: 19.5
+52 Week Low: 11.505

@@ -1,0 +1,9 @@
+Company: Senseonics Holdings Inc. Common Stock
+Ticker: SENS
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Germantown
+Website: https://www.senseonics.com
+Employees: 
+Business Summary: Senseonics Holdings, Inc., a commercial-stage medical technology company, focuses on development and manufacturing of continuous glucose monitoring (CGM) systems for people with diabetes in the United States and internationally. The company's products include Eversense, Eversense XL, Eversense E3, and Eversense 365, which are implantable CGM systems to measure glucose levels in people with diabetes through an under-the-skin sensor, a removable and rechargeable smart transmitter, and an app for real-time diabetes monitoring and management. It serves healthcare providers and patients through a network of distributors and strategic fulfillment partners. The company was founded in 1996 and is headquartered in Germantown, Maryland.

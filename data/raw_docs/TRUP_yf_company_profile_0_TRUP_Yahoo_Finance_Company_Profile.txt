@@ -1,0 +1,9 @@
+Company: Trupanion Inc. Common Stock
+Ticker: TRUP
+Sector: Financial Services
+Industry: Insurance - Property & Casualty
+Country: United States
+City: Seattle
+Website: https://www.trupanion.com
+Employees: 1121
+Business Summary: Trupanion, Inc., together with its subsidiaries, provides medical insurance for cats and dogs on subscription basis in the United States, Canada, Continental Europe, and Australia. The company operates in two segments, Subscription Business and Other Business. It serves pet owners and veterinarians. The company was formerly known as Vetinsurance International, Inc. changed its name to Trupanion, Inc. in 2013. The company was founded in 2000 and is headquartered in Seattle, Washington.

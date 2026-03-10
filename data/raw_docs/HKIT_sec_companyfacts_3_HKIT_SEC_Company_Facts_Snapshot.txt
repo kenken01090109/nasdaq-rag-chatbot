@@ -1,0 +1,11 @@
+Company: Hitek Global Inc. Class A Ordinary Share
+Ticker: HKIT
+CIK: 0001742341
+Latest SEC XBRL Facts:
+Revenues: 741541 | unit=USD | filed=2025-10-22 | period_end=2025-06-30
+NetIncomeLoss: -916109 | unit=USD | filed=2025-10-22 | period_end=2025-06-30
+Assets: 41111545 | unit=USD | filed=2025-10-22 | period_end=2025-06-30
+Liabilities: 6516315 | unit=USD | filed=2025-10-22 | period_end=2025-06-30
+StockholdersEquity: 34595230 | unit=USD | filed=2025-10-22 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1153600 | unit=USD | filed=2025-10-22 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 8198325 | unit=USD | filed=2025-10-22 | period_end=2025-06-30

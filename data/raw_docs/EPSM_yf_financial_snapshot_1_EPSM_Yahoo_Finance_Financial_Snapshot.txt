@@ -1,0 +1,25 @@
+Company: Epsium Enterprise Limited Class A Ordinary Shares
+Ticker: EPSM
+Market Cap: 23382182
+Enterprise Value: 11948207
+Total Revenue: 8446963
+Revenue Per Share: 0.683
+EBITDA: -804487
+Gross Margins: 0.13835
+Operating Margins: -0.22732
+Profit Margins: -0.10502
+Free Cashflow: -2233598
+Operating Cashflow: -2425813
+Return On Assets: -0.043530002
+Return On Equity: -0.08585
+Total Cash: 2474654
+Total Debt: 178545
+Debt To Equity: 1.463
+Current Ratio: 8.927
+Quick Ratio: 2.161
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.9162996
+Beta: 
+52 Week High: 155.0
+52 Week Low: 1.043

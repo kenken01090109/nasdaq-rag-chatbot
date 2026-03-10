@@ -1,0 +1,9 @@
+Company: Prairie Operating Co. Common Stock
+Ticker: PROP
+Sector: Energy
+Industry: Oil & Gas E&P
+Country: United States
+City: 
+Website: 
+Employees: 
+Business Summary: Prairie Operating Co., LLC operates as an oil and gas production company that focuses on environmentally responsible energy development. Prairie Operating Co., LLC was incorporated in 2022 and is based in USA.

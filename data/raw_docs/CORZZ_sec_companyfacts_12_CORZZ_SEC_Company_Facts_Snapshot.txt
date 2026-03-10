@@ -1,0 +1,11 @@
+Company: Core Scientific Inc. Tranche 2 Warrants
+Ticker: CORZZ
+CIK: 0001839341
+Latest SEC XBRL Facts:
+Revenues: 239256000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30
+NetIncomeLoss: -504575000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30
+Assets: 2171302000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30
+Liabilities: 3423940000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30
+StockholdersEquity: -1252638000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 120740000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 453443000 | unit=USD | filed=2026-03-02 | period_end=2025-09-30

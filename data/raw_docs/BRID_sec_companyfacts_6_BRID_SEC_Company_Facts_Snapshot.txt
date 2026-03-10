@@ -1,0 +1,12 @@
+Company: Bridgford Foods Corporation Common Stock
+Ticker: BRID
+CIK: 0000014177
+Latest SEC XBRL Facts:
+Revenues: 46642000 | unit=USD | filed=2020-03-06 | period_end=2020-01-24
+RevenueFromContractWithCustomerExcludingAssessedTax: 55312000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23
+NetIncomeLoss: -843000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23
+Assets: 144605000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23
+Liabilities: 29902000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23
+StockholdersEquity: 114703000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23
+NetCashProvidedByUsedInOperatingActivities: 4269000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23
+CashAndCashEquivalentsAtCarryingValue: 4813000 | unit=USD | filed=2026-03-06 | period_end=2026-01-23

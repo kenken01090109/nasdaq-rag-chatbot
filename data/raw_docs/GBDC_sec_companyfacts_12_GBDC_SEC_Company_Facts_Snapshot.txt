@@ -1,0 +1,10 @@
+Company: Golub Capital BDC Inc. Common Stock
+Ticker: GBDC
+CIK: 0001476765
+Latest SEC XBRL Facts:
+NetIncomeLoss: 280356000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30
+Assets: 9236513000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30
+Liabilities: 5241184000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30
+StockholdersEquity: 3995329000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -379713000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 91855000 | unit=USD | filed=2025-08-04 | period_end=2025-06-30

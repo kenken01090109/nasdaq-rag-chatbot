@@ -1,0 +1,11 @@
+Company: Riot Platforms Inc. Common Stock
+Ticker: RIOT
+CIK: 0001167419
+Latest SEC XBRL Facts:
+Revenues: 494604000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 27567000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 4478816000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 974066000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 3504750000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -467400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 330745000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Maase Inc. Class A Ordinary Shares
+Ticker: MAAS
+Sector: Financial Services
+Industry: Asset Management
+Country: China
+City: Chengdu
+Website: https://ir.puyiwm.com
+Employees: 
+Business Summary: Maase Inc. provides technological intelligence and capital investment services in China. The company operates a technology-driven independent financial service platform traded on the Nasdaq; and provides independent wealth management services. The company was founded in 2010 and is based in Chengdu, the People's Republic of China.

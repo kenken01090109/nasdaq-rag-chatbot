@@ -1,0 +1,11 @@
+Company: Scage Future American Depositary Shares
+Ticker: SCAG
+CIK: 0002000366
+Latest SEC XBRL Facts:
+Revenues: 11122585 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+NetIncomeLoss: -12943787 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+Assets: 26483763 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+Liabilities: 27427061 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+StockholdersEquity: -5267583 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5894330 | unit=USD | filed=2025-11-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 90758 | unit=USD | filed=2025-11-12 | period_end=2025-06-30

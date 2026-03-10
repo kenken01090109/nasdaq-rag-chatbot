@@ -1,0 +1,9 @@
+Company: Lionheart Holdings Unit
+Ticker: CUBWU
+CIK: 0002015955
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6778619 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 244252880 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 10072480 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -9608099 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -479562 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

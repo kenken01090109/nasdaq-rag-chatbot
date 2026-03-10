@@ -1,0 +1,9 @@
+Company: Auddia Inc. Common Stock
+Ticker: AUUD
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Niwot
+Website: 
+Employees: 
+Business Summary: Auddia Inc. is a holding company that controls AI native operating companies, such as LT350, Influence Healthcare, and Voyex. The is based in Niwot, Colorado.

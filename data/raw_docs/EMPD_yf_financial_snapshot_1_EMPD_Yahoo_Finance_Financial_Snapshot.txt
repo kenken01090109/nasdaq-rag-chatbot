@@ -1,0 +1,25 @@
+Company: Empery Digital Inc. Common stock
+Ticker: EMPD
+Market Cap: 149828624
+Enterprise Value: 187025472
+Total Revenue: 2624202
+Revenue Per Share: 0.28
+EBITDA: -31495752
+Gross Margins: -0.92936
+Operating Margins: -102.75074
+Profit Margins: 0.0
+Free Cashflow: -6418318
+Operating Cashflow: -18620892
+Return On Assets: -0.07929
+Return On Equity: -0.20842
+Total Cash: 20847782
+Total Debt: 50886404
+Debt To Equity: 11.627
+Current Ratio: 0.466
+Quick Ratio: 0.414
+Trailing PE: 0.011997807
+Forward PE: 
+Price To Book: 0.40243784
+Beta: -0.584
+52 Week High: 44.09
+52 Week Low: 3.185

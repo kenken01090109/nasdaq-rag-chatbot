@@ -1,0 +1,11 @@
+Company: EDAP TMS S.A. American Depositary Shares
+Ticker: EDAP
+CIK: 0001041934
+Latest SEC XBRL Facts:
+Revenues: 64114000 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31
+NetIncomeLoss: -19017804 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31
+Assets: 86063000 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31
+Liabilities: 45167000 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31
+StockholdersEquity: 40896000 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -13584000 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 29836000 | unit=EUR | filed=2025-03-27 | period_end=2024-12-31

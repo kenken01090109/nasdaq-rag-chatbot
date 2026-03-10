@@ -1,0 +1,25 @@
+Company: Smithfield Foods Inc. Common Stock
+Ticker: SFD
+Market Cap: 9540845568
+Enterprise Value: 11415845888
+Total Revenue: 15256000512
+Revenue Per Share: 39.241
+EBITDA: 1560000000
+Gross Margins: 0.13352
+Operating Margins: 0.08113
+Profit Margins: 0.05663
+Free Cashflow: 318000000
+Operating Cashflow: 804000000
+Return On Assets: 0.0694
+Return On Equity: 0.14025
+Total Cash: 773000000
+Total Debt: 2391000064
+Debt To Equity: 35.564
+Current Ratio: 3.104
+Quick Ratio: 1.225
+Trailing PE: 10.932432
+Forward PE: 10.079658
+Price To Book: 1.4755594
+Beta: 
+52 Week High: 26.065
+52 Week Low: 18.43

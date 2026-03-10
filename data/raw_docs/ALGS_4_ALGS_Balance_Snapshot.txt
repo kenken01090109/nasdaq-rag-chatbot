@@ -1,0 +1,8 @@
+Company: Aligos Therapeutics Inc. Common Stock
+Ticker: ALGS
+Total Cash: 99096000
+Total Debt: 6065000
+Debt To Equity: 8.443
+Current Ratio: 4.704
+Quick Ratio: 4.507
+Book Value: 11.674

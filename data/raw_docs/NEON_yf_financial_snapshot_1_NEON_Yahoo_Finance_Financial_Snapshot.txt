@@ -1,0 +1,25 @@
+Company: Neonode Inc. Common Stock
+Ticker: NEON
+Market Cap: 27859650
+Enterprise Value: 17004308
+Total Revenue: 2197000
+Revenue Per Share: 0.131
+EBITDA: -11312000
+Gross Margins: 0.96541
+Operating Margins: -12.974421
+Profit Margins: 4.08876
+Free Cashflow: -21512750
+Operating Cashflow: -5800000
+Return On Assets: -0.27064
+Return On Equity: 0.38716
+Total Cash: 11585000
+Total Debt: 394000
+Debt To Equity: 1.47
+Current Ratio: 5.43
+Quick Ratio: 5.334
+Trailing PE: 3.254902
+Forward PE: -4.368421
+Price To Book: 1.039449
+Beta: 0.771
+52 Week High: 29.9
+52 Week Low: 1.65

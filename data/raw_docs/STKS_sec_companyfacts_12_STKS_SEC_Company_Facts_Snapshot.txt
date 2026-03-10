@@ -1,0 +1,11 @@
+Company: The ONE Group Hospitality Inc. Common Stock
+Ticker: STKS
+CIK: 0001399520
+Latest SEC XBRL Facts:
+Revenues: 598708000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetIncomeLoss: -85869000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Assets: 879534000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Liabilities: 762641000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+StockholdersEquity: -61472000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 17222000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 5548000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28

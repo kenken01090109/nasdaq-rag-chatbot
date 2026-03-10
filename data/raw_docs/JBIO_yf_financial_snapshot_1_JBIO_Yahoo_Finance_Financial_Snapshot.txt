@@ -1,0 +1,25 @@
+Company: Jade Biosciences Inc. Common Stock
+Ticker: JBIO
+Market Cap: 692866432
+Enterprise Value: 440500352
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -45228000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 198904992
+Total Debt: 867000
+Debt To Equity: 0.483
+Current Ratio: 5.806
+Quick Ratio: 5.784
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.5559394
+Beta: 
+52 Week High: 100.1
+52 Week Low: 6.565

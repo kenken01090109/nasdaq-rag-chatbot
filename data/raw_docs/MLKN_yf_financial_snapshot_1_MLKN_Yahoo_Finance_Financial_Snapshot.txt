@@ -1,0 +1,25 @@
+Company: MillerKnoll Inc. Common Stock
+Ticker: MLKN
+Market Cap: 1350426112
+Enterprise Value: 3068952064
+Total Revenue: 3748900096
+Revenue Per Share: 54.821
+EBITDA: 384600000
+Gross Margins: 0.38721
+Operating Margins: 0.05381
+Profit Margins: -0.00678
+Free Cashflow: 113162496
+Operating Cashflow: 206900000
+Return On Assets: 0.03796
+Return On Equity: -0.01573
+Total Cash: 180400000
+Total Debt: 1823299968
+Debt To Equity: 133.791
+Current Ratio: 1.665
+Quick Ratio: 0.807
+Trailing PE: 
+Forward PE: 8.701986
+Price To Book: 1.035026
+Beta: 1.297
+52 Week High: 23.18
+52 Week Low: 13.77

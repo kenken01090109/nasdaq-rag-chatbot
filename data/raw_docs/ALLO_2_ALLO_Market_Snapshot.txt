@@ -1,0 +1,10 @@
+Company: Allogene Therapeutics Inc. Common Stock
+Ticker: ALLO
+Market Cap: 519126624
+Enterprise Value: 352074624
+Trailing PE: 
+Forward PE: -2.6082244
+Price To Book: 1.6348195
+Beta: 0.5
+52 Week High: 2.8
+52 Week Low: 0.86

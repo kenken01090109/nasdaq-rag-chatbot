@@ -1,0 +1,25 @@
+Company: Genasys Inc. Common Stock
+Ticker: GNSS
+Market Cap: 80477912
+Enterprise Value: 89761656
+Total Revenue: 50882000
+Revenue Per Share: 1.128
+EBITDA: -12699000
+Gross Margins: 0.40662998
+Operating Margins: -0.014830001
+Profit Margins: -0.29187
+Free Cashflow: 1896250
+Operating Cashflow: -2509000
+Return On Assets: -0.12769
+Return On Equity: -1.91923
+Total Cash: 10316000
+Total Debt: 16887000
+Debt To Equity: 935.05
+Current Ratio: 0.733
+Quick Ratio: 0.453
+Trailing PE: 
+Forward PE: 12.275863
+Price To Book: 44.5
+Beta: 0.659
+52 Week High: 2.7
+52 Week Low: 1.46

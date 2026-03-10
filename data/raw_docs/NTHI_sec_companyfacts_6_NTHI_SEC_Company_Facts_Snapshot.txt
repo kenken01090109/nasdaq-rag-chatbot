@@ -1,0 +1,11 @@
+Company: NeOnc Technologies Holdings Inc. Common Stock
+Ticker: NTHI
+CIK: 0001979414
+Latest SEC XBRL Facts:
+Revenues: 39990 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -46622106 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 4082916 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 15897186 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -11814270 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16772777 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1513224 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: HomesToLife Ltd Ordinary Shares
+Ticker: HTLM
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: Singapore
+City: Singapore
+Website: 
+Employees: 
+Business Summary: HomesToLife Ltd., a home furniture retailer, offers and sells customized furniture solutions in Singapore. The company is based in Singapore.

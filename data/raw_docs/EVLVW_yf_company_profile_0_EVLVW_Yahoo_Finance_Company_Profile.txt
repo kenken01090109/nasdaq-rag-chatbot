@@ -1,0 +1,9 @@
+Company: Evolv Technologies Holdings Inc. Warrant
+Ticker: EVLVW
+Sector: 
+Industry: 
+Country: United States
+City: Waltham
+Website: https://evolv.com
+Employees: 287
+Business Summary: Evolv Technologies Holdings, Inc. provides artificial intelligence (AI)-based weapons detection for security screening in the United States and internationally. Its flagship product is the Evolv Express, an AI-based concealed weapons detection system designed to detect firearms, improvised explosive devices, and tactical knives. The company also offers Evolv Insights Analytics Application that provides self-serve access, insights regarding visitor flow and arrival curves, location specific performance, system detection performance, and alarm statistics; and Evolv eXpedite, an autonomous AI-based weapons detection system to detect concealed weapons in bags. It serves education, healthcare, professional sports, performing arts and entertainment venues, tourist destinations and cultural attractions, large industrial workplaces, and houses of worship industries. Evolv Technologies Holdings, Inc. was founded in 2013 and is headquartered in Waltham, Massachusetts.

@@ -1,0 +1,25 @@
+Company: Janux Therapeutics Inc. Common Stock
+Ticker: JANX
+Market Cap: 841910144
+Enterprise Value: -94609768
+Total Revenue: 10000000
+Revenue Per Share: 0.161
+EBITDA: -155638000
+Gross Margins: 0.0
+Operating Margins: -15.766701
+Profit Margins: 0.0
+Free Cashflow: -51267876
+Operating Cashflow: -82235000
+Return On Assets: -0.09553
+Return On Equity: -0.1148
+Total Cash: 966566976
+Total Debt: 22139000
+Debt To Equity: 2.314
+Current Ratio: 39.04
+Quick Ratio: 38.924
+Trailing PE: 
+Forward PE: -3.9711232
+Price To Book: 0.8734066
+Beta: 2.878
+52 Week High: 35.34
+52 Week Low: 12.12

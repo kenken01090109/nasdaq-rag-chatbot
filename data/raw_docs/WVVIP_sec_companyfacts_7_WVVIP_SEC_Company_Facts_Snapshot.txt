@@ -1,0 +1,11 @@
+Company: Willamette Valley Vineyards Inc. Series A Redeemable Preferred Stock
+Ticker: WVVIP
+CIK: 0000838875
+Latest SEC XBRL Facts:
+Revenues: 26090546 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -1728636 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 107598047 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 40003821 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 67594226 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1445702 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 372566 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

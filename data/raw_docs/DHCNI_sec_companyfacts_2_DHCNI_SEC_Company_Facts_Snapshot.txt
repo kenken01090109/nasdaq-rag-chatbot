@@ -1,0 +1,12 @@
+Company: Diversified Healthcare Trust 5.625% Senior Notes due 2042
+Ticker: DHCNI
+CIK: 0001075415
+Latest SEC XBRL Facts:
+Revenues: 553063000 | unit=USD | filed=2018-08-07 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1158282000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -264665000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 4683974000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 2995244000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1688730000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 492000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 201371000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

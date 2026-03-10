@@ -1,0 +1,12 @@
+Company: 1-800-FLOWERS.COM Inc. Common Stock
+Ticker: FLWS
+CIK: 0001084869
+Latest SEC XBRL Facts:
+Revenues: 921987000 | unit=USD | filed=2018-05-11 | period_end=2018-04-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 917379000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+NetIncomeLoss: 17596000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+Assets: 893060000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+Liabilities: 603359000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+StockholdersEquity: 289701000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 170909000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 193337000 | unit=USD | filed=2026-01-29 | period_end=2025-12-28

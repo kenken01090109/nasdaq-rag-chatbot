@@ -1,0 +1,12 @@
+Company: FirstCash Holdings Inc. Common Stock
+Ticker: FCFS
+CIK: 0000840489
+Latest SEC XBRL Facts:
+Revenues: 2602624000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1167149000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 226203000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 5182316000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 2982670000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 2199646000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 379297000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 130240000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

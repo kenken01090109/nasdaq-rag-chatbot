@@ -1,0 +1,11 @@
+Company: Canterbury Park Holding Corporation 'New' Common Stock
+Ticker: CPHC
+CIK: 0001672909
+Latest SEC XBRL Facts:
+Revenues: 27017000 | unit=USD | filed=2020-11-10 | period_end=2020-09-30
+NetIncomeLoss: -139333 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 114380828 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 30255962 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 84124866 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9003652 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11955482 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

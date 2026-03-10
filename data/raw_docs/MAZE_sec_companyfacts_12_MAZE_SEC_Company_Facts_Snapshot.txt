@@ -1,0 +1,11 @@
+Company: Maze Therapeutics Inc. Common Stock
+Ticker: MAZE
+CIK: 0001842295
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 167500000 | unit=USD | filed=2025-11-06 | period_end=2024-09-30
+NetIncomeLoss: -96552000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 422058000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 42622000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 379436000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -84210000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 316773000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

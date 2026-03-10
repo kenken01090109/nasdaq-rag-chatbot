@@ -1,0 +1,10 @@
+Company: Propanc Biopharma Inc. Common Stock
+Ticker: PPCB
+CIK: 0001517681
+Latest SEC XBRL Facts:
+NetIncomeLoss: -7929132 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 15111532 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 3659267 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 10452265 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -2938207 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 93241 | unit=USD | filed=2023-05-15 | period_end=2023-03-31

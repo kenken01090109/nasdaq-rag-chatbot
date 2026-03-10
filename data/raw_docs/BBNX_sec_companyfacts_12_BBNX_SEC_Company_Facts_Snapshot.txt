@@ -1,0 +1,11 @@
+Company: Beta Bionics Inc. Common Stock
+Ticker: BBNX
+CIK: 0001674632
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 68130000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -59734000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 330046000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 35286000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 294760000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -42298000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38485000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

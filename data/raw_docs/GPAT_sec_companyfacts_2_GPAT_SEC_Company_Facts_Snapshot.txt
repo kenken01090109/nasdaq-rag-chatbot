@@ -1,0 +1,10 @@
+Company: GP-Act III Acquisition Corp. Class A Ordinary Share
+Ticker: GPAT
+CIK: 0001834526
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8997926 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 306496182 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 14693701 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -14399797 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -383057 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 571765 | unit=USD | filed=2024-08-14 | period_end=2024-06-30

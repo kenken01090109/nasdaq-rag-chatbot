@@ -1,0 +1,12 @@
+Company: Codexis Inc. Common Stock
+Ticker: CDXS
+CIK: 0001200375
+Latest SEC XBRL Facts:
+Revenues: 138590000 | unit=USD | filed=2023-02-27 | period_end=2022-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 31472000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -53575000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 123961000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 85417000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 38544000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -39468000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25351000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

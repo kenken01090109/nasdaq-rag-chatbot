@@ -1,0 +1,10 @@
+Company: Vera Therapeutics Inc. Class A Common Stock
+Ticker: VERA
+CIK: 0001831828
+Latest SEC XBRL Facts:
+NetIncomeLoss: -208518000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 517503000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 118623000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 398880000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -171110000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 57773000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

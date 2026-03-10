@@ -1,0 +1,12 @@
+Company: VNET Group Inc. American Depositary Shares
+Ticker: VNET
+CIK: 0001508475
+Latest SEC XBRL Facts:
+Revenues: 494660000 | unit=USD | filed=2019-03-27 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 544251000 | unit=USD | filed=2020-04-02 | period_end=2019-12-31
+NetIncomeLoss: 27689000 | unit=USD | filed=2025-03-13 | period_end=2024-09-30
+Assets: 4264339000 | unit=USD | filed=2025-03-13 | period_end=2024-09-30
+Liabilities: 3286674000 | unit=USD | filed=2025-03-13 | period_end=2024-09-30
+StockholdersEquity: 902942000 | unit=USD | filed=2025-03-13 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 204223000 | unit=USD | filed=2025-03-13 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 217285000 | unit=USD | filed=2025-03-13 | period_end=2024-09-30

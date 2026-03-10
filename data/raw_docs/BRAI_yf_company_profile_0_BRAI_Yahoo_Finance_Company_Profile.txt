@@ -1,0 +1,9 @@
+Company: Braiin Limited Common Stock
+Ticker: BRAI
+Sector: Technology
+Industry: Computer Hardware
+Country: Australia
+City: Subiaco
+Website: https://braiin.com
+Employees: 5
+Business Summary: Braiin Limited operates as an agriculture and analytics services company that provides solutions to improve farming productivity using IoTs, Wireless Connectivity, Robotics, Software, and AI/ML. The company was incorporated in 2022 and is based in Subiaco, Australia. As of March 20, 2023, Braiin Limited operates as a subsidiary of Northern Revival Acquisition Corporation.

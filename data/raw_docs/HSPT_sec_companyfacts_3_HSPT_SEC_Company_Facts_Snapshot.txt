@@ -1,0 +1,9 @@
+Company: Horizon Space Acquisition II Corp. Ordinary share
+Ticker: HSPT
+CIK: 0002032950
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1308900 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 71663059 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 558754 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -436294 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -880093 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

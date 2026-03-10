@@ -1,0 +1,9 @@
+Company: Q/C Technologies Inc. Common Stock
+Ticker: QCLS
+Sector: Technology
+Industry: Computer Hardware
+Country: United States
+City: New York
+Website: https://www.qctechnologies.com
+Employees: 2
+Business Summary: Q/C Technologies, Inc., a clinical-stage pharmaceutical company, focuses on developing and commercializing therapeutic platforms based on various therapeutic targets. The company develops Isomyosamine, a clinical stage small molecule that regulates the immunometabolic system to treat autoimmune disease, including sarcopenia, frailty, adverse effects of drugs used to treat diabetes and obesity, rheumatoid arthritis, and inflammatory bowel disease. It also develops Supera-CBD, a synthetic analog of derivative of cannabidiol (CBD) to treat various conditions, including epilepsy, pain and anxiety/depression. The company has a strategic alliance with DADA2 Foundation for research into the rare inflammatory disease DADA2 (Deficiency of Adenosine Deaminase 2). The company was formerly known as TNF Pharmaceuticals, Inc. and changed its name to Q/C Technologies, Inc. in September 2025. The company was founded in 2014 and is headquartered in New York, New York.

@@ -1,0 +1,12 @@
+Company: Grand Canyon Education Inc. Common Stock
+Ticker: LOPE
+CIK: 0001434588
+Latest SEC XBRL Facts:
+Revenues: 142030000 | unit=USD | filed=2013-05-07 | period_end=2013-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 797951000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 129438000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1032792000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 274751000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 758041000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 143006000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 97284000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

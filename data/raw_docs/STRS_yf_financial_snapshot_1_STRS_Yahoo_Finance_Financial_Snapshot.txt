@@ -1,0 +1,25 @@
+Company: Stratus Properties Inc. Common Stock
+Ticker: STRS
+Market Cap: 251087712
+Enterprise Value: 551493568
+Total Revenue: 31912000
+Revenue Per Share: 3.963
+EBITDA: -10663000
+Gross Margins: 0.12826
+Operating Margins: -1.6286999
+Profit Margins: -0.25382
+Free Cashflow: 49673248
+Operating Cashflow: -27578000
+Return On Assets: -0.01928
+Return On Equity: -0.04894
+Total Cash: 55040000
+Total Debt: 219116992
+Debt To Equity: 65.982
+Current Ratio: 19.257
+Quick Ratio: 3.25
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.3402907
+Beta: 1.358
+52 Week High: 32.17
+52 Week Low: 15.1

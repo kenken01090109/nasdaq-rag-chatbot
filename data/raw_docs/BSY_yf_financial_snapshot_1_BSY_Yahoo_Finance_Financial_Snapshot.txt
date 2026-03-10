@@ -1,0 +1,25 @@
+Company: Bentley Systems Incorporated Class B Common Stock
+Ticker: BSY
+Market Cap: 12081475584
+Enterprise Value: 13555820544
+Total Revenue: 1501778944
+Revenue Per Share: 4.772
+EBITDA: 432056992
+Gross Margins: 0.8152
+Operating Margins: 0.2067
+Profit Margins: 0.18502001
+Free Cashflow: 468156992
+Operating Cashflow: 538464000
+Return On Assets: 0.06647
+Return On Equity: 0.24906999
+Total Cash: 123278000
+Total Debt: 1284731008
+Debt To Equity: 108.007
+Current Ratio: 0.561
+Quick Ratio: 0.485
+Trailing PE: 48.52439
+Forward PE: 25.273441
+Price To Book: 10.476566
+Beta: 1.179
+52 Week High: 59.25
+52 Week Low: 30.965

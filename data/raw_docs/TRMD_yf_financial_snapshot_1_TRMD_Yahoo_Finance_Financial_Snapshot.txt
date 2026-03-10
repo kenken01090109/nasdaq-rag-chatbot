@@ -1,0 +1,25 @@
+Company: TORM plc Class A Common Stock
+Ticker: TRMD
+Market Cap: 2909761536
+Enterprise Value: 3782635264
+Total Revenue: 1339500032
+Revenue Per Share: 13.641
+EBITDA: 548800000
+Gross Margins: 0.49683
+Operating Margins: 0.2768
+Profit Margins: 0.21299
+Free Cashflow: 67712496
+Operating Cashflow: 498900000
+Return On Assets: 0.061669998
+Return On Equity: 0.13373
+Total Cash: 158100000
+Total Debt: 1003100032
+Debt To Equity: 45.542
+Current Ratio: 1.325
+Quick Ratio: 0.961
+Trailing PE: 10.344322
+Forward PE: 14.708334
+Price To Book: 1.2992271
+Beta: -0.068
+52 Week High: 31.759
+52 Week Low: 13.6

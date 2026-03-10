@@ -1,0 +1,11 @@
+Company: Baosheng Media Group Holdings Limited Ordinary shares
+Ticker: BAOS
+CIK: 0001811216
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 283039 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+NetIncomeLoss: -4175903 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+Assets: 20130372 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+Liabilities: 9232290 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+StockholdersEquity: 10898082 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -544786 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1220870 | unit=USD | filed=2025-11-28 | period_end=2025-06-30

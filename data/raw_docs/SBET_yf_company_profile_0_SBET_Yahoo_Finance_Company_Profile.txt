@@ -1,0 +1,9 @@
+Company: Sharplink Inc. Common Stock
+Ticker: SBET
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Miami
+Website: https://www.sharplink.com
+Employees: 5
+Business Summary: Sharplink, Inc. operates as an institutional-grade Ethereum treasury platform that provides public market investors with exposure to ETH. The platform focuses on Ethereum, which is used in various stablecoin, tokenized real-world asset, and decentralized finance settlement applications. The company also provides online affiliate marketing service. The company was formerly known as SharpLink Gaming, Inc. and changed its name to Sharplink, Inc. in February 2026. The company was founded in 2019 and is headquartered in Miami, Florida.

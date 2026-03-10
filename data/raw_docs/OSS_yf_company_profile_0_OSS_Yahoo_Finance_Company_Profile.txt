@@ -1,0 +1,9 @@
+Company: One Stop Systems Inc. Common Stock
+Ticker: OSS
+Sector: Technology
+Industry: Computer Hardware
+Country: United States
+City: Escondido
+Website: https://www.onestopsystems.com
+Employees: 103
+Business Summary: One Stop Systems, Inc. designs, manufactures, and markets rugged high-performance compute, high speed switch fabrics, and storage systems for edge applications of artificial intelligence and machine learning, sensor processing, sensor fusion, and autonomy in the United States and internationally. The company's systems are built using the central processing unit, graphical processing unit, and flash storage technologies. It provides custom servers, data acquisition platforms, compute accelerators, solid-state storage arrays, and system I/O expansion systems, as well as edge optimized industrial and panel PCs, tablets, and handheld compute devices. The company also offers ruggedized, mobile tablets, and handhelds that meet the specialized requirement for devices deployed at the edge in a diverse set of environmental conditions. It sells its products to multinational companies, governmental agencies, military contractors, military services, and technology providers through its website, web store, direct sales team, and original equipment manufacturer focused sales, as well as through a network of resellers and distributors. The company was founded in 1998 and is headquartered in Escondido, California.

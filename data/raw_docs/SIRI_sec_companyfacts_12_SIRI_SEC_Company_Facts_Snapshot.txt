@@ -1,0 +1,12 @@
+Company: SiriusXM Holdings Inc. Common Stock
+Ticker: SIRI
+CIK: 0000908937
+Latest SEC XBRL Facts:
+Revenues: 1375102000 | unit=USD | filed=2018-04-25 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 6365000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 706000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 27401000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 15845000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 11556000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1218000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 79000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

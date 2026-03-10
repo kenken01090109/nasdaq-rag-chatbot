@@ -1,0 +1,25 @@
+Company: Asure Software Inc Common Stock
+Ticker: ASUR
+Market Cap: 262368624
+Enterprise Value: 314849856
+Total Revenue: 140540992
+Revenue Per Share: 5.124
+EBITDA: 18031000
+Gross Margins: 0.67506
+Operating Margins: 0.04472
+Profit Margins: -0.0934
+Free Cashflow: -650000
+Operating Cashflow: 22218000
+Return On Assets: -0.01086
+Return On Equity: -0.06644
+Total Cash: 25244000
+Total Debt: 74803000
+Debt To Equity: 37.818
+Current Ratio: 1.072
+Quick Ratio: 0.158
+Trailing PE: 
+Forward PE: 8.887175
+Price To Book: 1.3413768
+Beta: 0.467
+52 Week High: 11.48
+52 Week Low: 6.8

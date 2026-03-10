@@ -1,0 +1,9 @@
+Company: Exact Sciences Corporation Common Stock
+Ticker: EXAS
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: Madison
+Website: https://www.exactsciences.com
+Employees: 7100
+Business Summary: Exact Sciences Corporation provides cancer screening and diagnostic test products in the United States and internationally. It offers Cologuard, a non-invasive stool-based DNA screening test to detect DNA and hemoglobin biomarkers associated with colorectal cancer and pre-cancer; Cologuard Plus Tests; Cancerguard Test; and Genetic Testing. The company also provides Oncotype DX Breast Recurrence Score Test; Oncotype DX Breast DCIS Score Test; Oncotype DX Colon Recurrence Score Test; Oncodetect Test;OncoExTra Test for tumor profiling for patients with advanced, metastatic, refractory, relapsed, or recurrent cancer; and Riskguard Test, a hereditary cancer test to understand their inherited risk of cancer. Its pipeline focus on advancing screening and diagnostic products, including risk assessment, screening and prevention, early disease diagnosis, adjuvant and/or neoadjuvant disease treatment, metastatic disease treatment selection, and recurrence monitoring. The company has license agreements with MAYO Foundation for Medical Education and Research, and Johns Hopkins University, as well as Freenome Holdings, Inc. Exact Sciences Corporation was incorporated in 1995 and is headquartered in Madison, Wisconsin.

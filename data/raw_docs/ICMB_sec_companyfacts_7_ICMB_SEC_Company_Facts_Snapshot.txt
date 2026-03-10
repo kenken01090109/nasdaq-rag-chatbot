@@ -1,0 +1,9 @@
+Company: Investcorp Credit Management BDC Inc. Common Stock
+Ticker: ICMB
+CIK: 0001578348
+Latest SEC XBRL Facts:
+NetIncomeLoss: 511464 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 210636079 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 137932753 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 72703326 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -352738 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

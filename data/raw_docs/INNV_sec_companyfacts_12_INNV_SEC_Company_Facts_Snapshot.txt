@@ -1,0 +1,11 @@
+Company: InnovAge Holding Corp. Common Stock
+Ticker: INNV
+CIK: 0001834376
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 475813000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: 18637000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 527482000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 238719000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 256786000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 25285000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 83203000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

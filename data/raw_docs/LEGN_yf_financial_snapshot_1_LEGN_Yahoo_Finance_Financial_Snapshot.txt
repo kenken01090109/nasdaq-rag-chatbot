@@ -1,0 +1,25 @@
+Company: Legend Biotech Corporation American Depositary Shares
+Ticker: LEGN
+Market Cap: 3503560960
+Enterprise Value: 6424769024
+Total Revenue: 909044992
+Revenue Per Share: 4.94
+EBITDA: -181240000
+Gross Margins: 0.14595
+Operating Margins: -0.15956001
+Profit Margins: -0.26368
+Free Cashflow: -157004880
+Operating Cashflow: -170072992
+Return On Assets: -0.069180004
+Return On Equity: -0.22534999
+Total Cash: 992590976
+Total Debt: 410238016
+Debt To Equity: 40.567
+Current Ratio: 2.865
+Quick Ratio: 2.757
+Trailing PE: 
+Forward PE: 48.450947
+Price To Book: 3.4648402
+Beta: 0.058
+52 Week High: 45.297
+52 Week Low: 16.24

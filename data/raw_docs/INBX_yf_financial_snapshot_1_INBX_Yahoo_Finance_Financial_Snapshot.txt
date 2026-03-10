@@ -1,0 +1,25 @@
+Company: Inhibrx Biosciences Inc. Common Stock
+Ticker: INBX
+Market Cap: 1006135808
+Enterprise Value: 981477504
+Total Revenue: 1400000
+Revenue Per Share: 0.09
+EBITDA: -192522000
+Gross Margins: 0.0
+Operating Margins: -139.37857
+Profit Margins: 0.0
+Free Cashflow: -117598128
+Operating Cashflow: -143392000
+Return On Assets: -0.60973
+Return On Equity: -1.44067
+Total Cash: 153088000
+Total Debt: 106905000
+Debt To Equity: 290.266
+Current Ratio: 4.486
+Quick Ratio: 4.278
+Trailing PE: 
+Forward PE: -14.533613
+Price To Book: 27.236221
+Beta: 
+52 Week High: 94.565
+52 Week Low: 10.805

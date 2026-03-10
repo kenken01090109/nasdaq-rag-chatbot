@@ -1,0 +1,25 @@
+Company: RadNet Inc. Common Stock
+Ticker: RDNT
+Market Cap: 4696283648
+Enterprise Value: 6532035584
+Total Revenue: 2040210048
+Revenue Per Share: 27.134
+EBITDA: 235484992
+Gross Margins: 0.17806
+Operating Margins: 0.05472
+Profit Margins: -0.00914
+Free Cashflow: 175639120
+Operating Cashflow: 298820000
+Return On Assets: 0.014789999
+Return On Equity: 0.0137
+Total Cash: 767214976
+Total Debt: 1858854016
+Debt To Equity: 137.095
+Current Ratio: 1.759
+Quick Ratio: 1.67
+Trailing PE: 
+Forward PE: 60.07921
+Price To Book: 4.309353
+Beta: 1.461
+52 Week High: 85.84
+52 Week Low: 45.001

@@ -1,0 +1,25 @@
+Company: Avita Medical Inc. Common Stock
+Ticker: RCEL
+Market Cap: 145501024
+Enterprise Value: 174282976
+Total Revenue: 71610000
+Revenue Per Share: 2.57
+EBITDA: -40240000
+Gross Margins: 0.82134
+Operating Margins: -0.59086
+Profit Margins: -0.67849
+Free Cashflow: -18330750
+Operating Cashflow: -31195000
+Return On Assets: -0.39064
+Return On Equity: 
+Total Cash: 18185000
+Total Debt: 46048000
+Debt To Equity: 
+Current Ratio: 0.566
+Quick Ratio: 0.435
+Trailing PE: 
+Forward PE: -61.487076
+Price To Book: -8.715596
+Beta: 1.811
+52 Week High: 10.29
+52 Week Low: 3.22

@@ -1,0 +1,25 @@
+Company: Alaunos Therapeutics Inc. Common Stock
+Ticker: TCRT
+Market Cap: 8056902
+Enterprise Value: 5661377
+Total Revenue: 6000
+Revenue Per Share: 0.003
+EBITDA: -4072500
+Gross Margins: 0.0
+Operating Margins: -678.8334
+Profit Margins: 0.0
+Free Cashflow: -794625
+Operating Cashflow: -2909000
+Return On Assets: -0.69991994
+Return On Equity: -1.45649
+Total Cash: 1938000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.915
+Quick Ratio: 2.104
+Trailing PE: 
+Forward PE: -6.0166664
+Price To Book: 2.8402832
+Beta: -1.215
+52 Week High: 6.2
+52 Week Low: 1.31

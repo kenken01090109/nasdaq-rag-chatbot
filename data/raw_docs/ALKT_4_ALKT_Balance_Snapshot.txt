@@ -1,0 +1,8 @@
+Company: Alkami Technology Inc. Common Stock
+Ticker: ALKT
+Total Cash: 99092000
+Total Debt: 368544992
+Debt To Equity: 101.794
+Current Ratio: 2.091
+Quick Ratio: 1.682
+Book Value: 3.412

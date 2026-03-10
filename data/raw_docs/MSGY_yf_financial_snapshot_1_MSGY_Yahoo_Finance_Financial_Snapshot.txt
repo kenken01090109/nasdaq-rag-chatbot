@@ -1,0 +1,25 @@
+Company: Masonglory Limited Ordinary Shares
+Ticker: MSGY
+Market Cap: 6472375
+Enterprise Value: 5607495
+Total Revenue: 23318482
+Revenue Per Share: 1.897
+EBITDA: 1504335
+Gross Margins: 0.09313
+Operating Margins: 0.05446
+Profit Margins: 0.05472
+Free Cashflow: 2594826
+Operating Cashflow: 3391813
+Return On Assets: 0.13194
+Return On Equity: 0.46570998
+Total Cash: 2368122
+Total Debt: 1975617
+Debt To Equity: 57.094
+Current Ratio: 2.115
+Quick Ratio: 1.965
+Trailing PE: 5.0555553
+Forward PE: 
+Price To Book: 1.6425992
+Beta: 
+52 Week High: 22.2
+52 Week Low: 0.361

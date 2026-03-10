@@ -1,0 +1,9 @@
+Company: BTQ Technologies Corp. Common Stock
+Ticker: BTQ
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Canada
+City: Vancouver
+Website: https://www.btq.com
+Employees: 
+Business Summary: BTQ Technologies Corp. engages in the development of computer-based technology related to post-quantum cryptography for applications in blockchain and related technologies in New York and Canada. Its products include PQScale is a scaling mechanism for lattice-based post-quantum signatures, leveraging zero-knowledge proofs to compress digital signatures to achieve speed and cost savings; Keelung is a user-friendly toolkit for developing zero-knowledge proofs, featuring a domain-specific language embedded in Haskell and a compiler; as well as Kenting specializes in hardware acceleration tailored for zero-knowledge computation applications; and Quantum Proof-of-Work QPoW is an energy-efficient, post-classical consensus algorithm that uses Noisy Intermediate Scale Quantum hardware to authorize blockchain transactions. In addition, the company provides QRiNG product is a toolkit for quantum random number generation; Preon paves the path to a future-proof, digitally secure post-quantum signature scheme; and QByte, a quantum risk calculator. The company has a strategic collaboration with Industrial Technology Research Institute to validate BTQ's Quantum Compute In Memory (QCIM) chip, which is designed to enable secure, scalable cryptographic computation for the post-quantum era. The company was incorporated in 1983 and is headquartered in Vancouver, Canada.

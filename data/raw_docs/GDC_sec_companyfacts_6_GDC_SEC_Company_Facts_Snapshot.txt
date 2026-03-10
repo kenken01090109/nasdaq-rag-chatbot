@@ -1,0 +1,12 @@
+Company: GD Culture Group Limited Common Stock
+Ticker: GDC
+CIK: 0001641398
+Latest SEC XBRL Facts:
+Revenues: 150000 | unit=USD | filed=2024-11-14 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 150000 | unit=USD | filed=2023-11-20 | period_end=2023-09-30
+NetIncomeLoss: 9611905 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 865999639 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 3842888 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 861872392 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4601671 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 225072 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: World Acceptance Corporation Common Stock
+Ticker: WRLD
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Greenville
+Website: https://www.loansbyworld.com
+Employees: 2838
+Business Summary: World Acceptance Corporation engages in consumer finance business in the United States. The company offers short-term small installment loans, medium-term larger installment loans, related credit insurance, and ancillary products and services to individuals. It also provides income tax return preparation and electronic filing services; and automobile club memberships. The company serves individuals with limited access to other sources of consumer credit, such as banks, credit unions, other consumer finance businesses, and credit card lenders. World Acceptance Corporation was founded in 1962 and is headquartered in Greenville, South Carolina.

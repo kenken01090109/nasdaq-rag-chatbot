@@ -1,0 +1,9 @@
+Company: SEALSQ Corp Ordinary Shares
+Ticker: LAES
+Sector: Technology
+Industry: Semiconductors
+Country: Switzerland
+City: Cointrin
+Website: https://www.sealsq.com
+Employees: 67
+Business Summary: SEALSQ Corp, together with its subsidiaries, designs, develops, and markets semiconductors in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. It offers semiconductors, such as VaultIC secure elements, post quantum, RISC-V chips, secure arm platform, and smart card reader chips; public key infrastructure (PKI) and provisioning for internet of things (IoT), such as root of trust, Ines managed PKI, secure factory provisioning, and zero touch field provisioning services; and other PKI services, including personal digital identity services and TLS certificates. The company also provides device-to-cloud authentication, device attestation for matter, GSMA root certificate, device-to-device authentication, data protection, anti-counterfeiting and brand protection, security access, device ID provisioning, identity lifecycle management, and satellite IoT connectivity solutions. It serves smart energy, smart home, automotive EV charging, consumer IoT, aerospace and military telecommunications, industry, logistics, medical, and luxury sectors. The company was founded in 2022 and is headquartered in Cointrin, Switzerland. SEALSQ Corp operates as a subsidiary of WISeKey International Holding AG.

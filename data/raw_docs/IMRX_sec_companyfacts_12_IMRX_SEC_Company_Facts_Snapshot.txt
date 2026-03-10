@@ -1,0 +1,11 @@
+Company: Immuneering Corporation Class A Common Stock
+Ticker: IMRX
+CIK: 0001790340
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2023-11-09 | period_end=2023-09-30
+NetIncomeLoss: -44444888 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 241056266 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 13079834 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 227976432 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -35503997 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 227563077 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Stitch Fix Inc. Class A Common Stock
+Ticker: SFIX
+CIK: 0001576942
+Latest SEC XBRL Facts:
+Revenues: 1226505000 | unit=USD | filed=2018-10-03 | period_end=2018-07-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 342127000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+NetIncomeLoss: -6362000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+Assets: 530738000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+Liabilities: 326657000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+StockholdersEquity: 204081000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 28207000 | unit=USD | filed=2024-09-25 | period_end=2024-08-03
+CashAndCashEquivalentsAtCarryingValue: 114494000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01

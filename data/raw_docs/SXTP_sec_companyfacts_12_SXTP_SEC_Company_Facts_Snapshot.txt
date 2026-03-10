@@ -1,0 +1,11 @@
+Company: 60 Degrees Pharmaceuticals Inc. Common Stock
+Ticker: SXTP
+CIK: 0001946563
+Latest SEC XBRL Facts:
+Revenues: 702086 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -5926599 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 6689344 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2342386 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4430220 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5156566 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4115779 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

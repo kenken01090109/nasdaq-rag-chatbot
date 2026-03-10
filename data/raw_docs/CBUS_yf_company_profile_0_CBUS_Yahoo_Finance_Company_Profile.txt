@@ -1,0 +1,9 @@
+Company: Cibus Inc. Class A Common Stock
+Ticker: CBUS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.cibus.com
+Employees: 157
+Business Summary: Cibus, Inc., an agricultural biotechnology company, develops and licenses gene edited plant traits using gene editing technologies to enhance farming productivity or produce renewable low carbon plant products. It focuses on trait productivity in the productivity traits that enable farmers to have higher yields and reduce the use of the crop protection chemicals and fertilizers; and sustainable ingredients, which enable corporations to replace ingredients that are fossil fuel based or whose production results in increased greenhouse gases. The company was formerly known as Calyxt, Inc. and changed its name to Cibus, Inc. in June 2023. Cibus, Inc. was founded in 2001 and is headquartered in San Diego, California.

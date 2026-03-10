@@ -1,0 +1,25 @@
+Company: Orthofix Medical Inc. Common Stock (DE)
+Ticker: OFIX
+Market Cap: 506622272
+Enterprise Value: 626438080
+Total Revenue: 822312000
+Revenue Per Share: 20.764
+EBITDA: -6147000
+Gross Margins: 0.68832
+Operating Margins: -0.0127
+Profit Margins: -0.112110004
+Free Cashflow: 20534624
+Operating Cashflow: 33347000
+Return On Assets: -0.04908
+Return On Equity: -0.19344
+Total Cash: 82025000
+Total Debt: 203848000
+Debt To Equity: 45.296
+Current Ratio: 2.445
+Quick Ratio: 1.277
+Trailing PE: 
+Forward PE: 14.760234
+Price To Book: 1.1170118
+Beta: 0.775
+52 Week High: 17.28
+52 Week Low: 10.24

@@ -1,0 +1,11 @@
+Company: Pulmonx Corporation Common Stock
+Ticker: LUNG
+CIK: 0001127537
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 67899000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -43578000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 138281000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 78248000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 60033000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25292000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 76549000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

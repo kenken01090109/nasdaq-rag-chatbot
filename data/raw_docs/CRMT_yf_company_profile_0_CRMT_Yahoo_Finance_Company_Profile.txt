@@ -1,0 +1,9 @@
+Company: America's Car-Mart Inc Common Stock
+Ticker: CRMT
+Sector: Consumer Cyclical
+Industry: Auto & Truck Dealerships
+Country: United States
+City: Rogers
+Website: https://www.car-mart.com
+Employees: 2300
+Business Summary: America's Car-Mart, Inc., through its subsidiaries, operates as an automotive retailer for the used car market in the United States. It sells older model used vehicles and provides financing for its customers. The company was founded in 1981 and is headquartered in Rogers, Arkansas.

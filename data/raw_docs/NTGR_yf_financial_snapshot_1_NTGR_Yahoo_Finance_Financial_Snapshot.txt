@@ -1,0 +1,25 @@
+Company: NETGEAR Inc. Common Stock
+Ticker: NTGR
+Market Cap: 575723904
+Enterprise Value: 317726912
+Total Revenue: 699620992
+Revenue Per Share: 24.456
+EBITDA: -18183000
+Gross Margins: 0.38048
+Operating Margins: -0.027490001
+Profit Margins: -0.02562
+Free Cashflow: -19030876
+Operating Cashflow: 1606000
+Return On Assets: -0.0194
+Return On Equity: -0.0345
+Total Cash: 323036000
+Total Debt: 50949000
+Debt To Equity: 10.234
+Current Ratio: 2.691
+Quick Ratio: 1.863
+Trailing PE: 
+Forward PE: 34.55094
+Price To Book: 1.1377413
+Beta: 1.159
+52 Week High: 36.86
+52 Week Low: 18.75

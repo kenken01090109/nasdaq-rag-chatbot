@@ -1,0 +1,12 @@
+Company: Borealis Foods Inc. Class A Common Shares
+Ticker: BRLS
+CIK: 0001852973
+Latest SEC XBRL Facts:
+Revenues: 21137689 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 22036285 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -12568535 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 56297596 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 69246174 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -12948578 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3760111 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64004 | unit=USD | filed=2023-05-22 | period_end=2023-03-31

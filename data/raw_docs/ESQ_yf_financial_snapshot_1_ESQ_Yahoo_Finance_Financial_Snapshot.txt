@@ -1,0 +1,25 @@
+Company: Esquire Financial Holdings Inc. Common Stock
+Ticker: ESQ
+Market Cap: 850810240
+Enterprise Value: 588022528
+Total Revenue: 136886000
+Revenue Per Share: 16.98
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47766998
+Profit Margins: 0.37127
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.02387
+Return On Equity: 0.19299
+Total Cash: 235887008
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.921637
+Forward PE: 14.343682
+Price To Book: 2.7800946
+Beta: 0.479
+52 Week High: 134.815
+52 Week Low: 68.9

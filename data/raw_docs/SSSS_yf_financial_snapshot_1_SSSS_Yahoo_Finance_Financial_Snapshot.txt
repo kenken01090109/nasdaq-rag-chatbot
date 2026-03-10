@@ -1,0 +1,25 @@
+Company: SuRo Capital Corp. Common Stock
+Ticker: SSSS
+Market Cap: 223308736
+Enterprise Value: 251067488
+Total Revenue: 2354933
+Revenue Per Share: 0.099
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -4.74254
+Profit Margins: 29.29297
+Free Cashflow: -7649217
+Operating Cashflow: 17470196
+Return On Assets: -0.02263
+Return On Equity: 0.35446
+Total Cash: 54549056
+Total Debt: 73516144
+Debt To Equity: 31.717
+Current Ratio: 18.019
+Quick Ratio: 18.001
+Trailing PE: 3.5846775
+Forward PE: -13.676924
+Price To Book: 0.9633724
+Beta: 1.415
+52 Week High: 10.34
+52 Week Low: 4.21

@@ -1,0 +1,25 @@
+Company: FG Nexus Inc. Common Stock
+Ticker: FGNX
+Market Cap: 43789028
+Enterprise Value: 73221024
+Total Revenue: 17450000
+Revenue Per Share: 22.312
+EBITDA: -14297000
+Gross Margins: -0.46091998
+Operating Margins: 16.92032
+Profit Margins: -0.93289
+Free Cashflow: -363582240
+Operating Cashflow: -5717000
+Return On Assets: -0.05173
+Return On Equity: -0.077080004
+Total Cash: 7495000
+Total Debt: 1918000
+Debt To Equity: 0.83
+Current Ratio: 19.778
+Quick Ratio: 0.649
+Trailing PE: 
+Forward PE: -1.8427585
+Price To Book: 0.25504944
+Beta: 1.291
+52 Week High: 206.25
+52 Week Low: 6.58

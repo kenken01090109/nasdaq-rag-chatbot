@@ -1,0 +1,25 @@
+Company: Crinetics Pharmaceuticals Inc. Common Stock
+Ticker: CRNX
+Market Cap: 4002884608
+Enterprise Value: 3093689344
+Total Revenue: 7696000
+Revenue Per Share: 0.082
+EBITDA: -512879008
+Gross Margins: 0.0
+Operating Margins: -21.695501
+Profit Margins: 0.0
+Free Cashflow: -206911632
+Operating Cashflow: -377921984
+Return On Assets: -0.25224
+Return On Equity: -0.40167
+Total Cash: 1027889024
+Total Debt: 48541000
+Debt To Equity: 4.893
+Current Ratio: 12.323
+Quick Ratio: 12.09
+Trailing PE: 
+Forward PE: -9.3723955
+Price To Book: 3.6830442
+Beta: 0.238
+52 Week High: 57.99
+52 Week Low: 24.1

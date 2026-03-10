@@ -1,0 +1,25 @@
+Company: Xenon Pharmaceuticals Inc. Common Shares
+Ticker: XENE
+Market Cap: 3240913664
+Enterprise Value: 2948059904
+Total Revenue: 7500000
+Revenue Per Share: 0.095
+EBITDA: -370527008
+Gross Margins: 0.0
+Operating Margins: -49.742672
+Profit Margins: 0.0
+Free Cashflow: -175082752
+Operating Cashflow: -279118016
+Return On Assets: -0.32581002
+Return On Equity: -0.51757
+Total Cash: 548886016
+Total Debt: 7944000
+Debt To Equity: 1.366
+Current Ratio: 13.415
+Quick Ratio: 13.167
+Trailing PE: 
+Forward PE: -9.186933
+Price To Book: 5.76812
+Beta: 0.944
+52 Week High: 46.99
+52 Week Low: 26.74

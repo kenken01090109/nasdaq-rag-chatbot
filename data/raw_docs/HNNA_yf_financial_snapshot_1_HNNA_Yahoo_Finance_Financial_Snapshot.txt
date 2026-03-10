@@ -1,0 +1,25 @@
+Company: Hennessy Advisors Inc. Common Stock
+Ticker: HNNA
+Market Cap: 78606080
+Enterprise Value: 8811518
+Total Revenue: 34150000
+Revenue Per Share: 4.369
+EBITDA: 12214000
+Gross Margins: 0.54981
+Operating Margins: 0.31298
+Profit Margins: 0.26518
+Free Cashflow: 47071752
+Operating Cashflow: 12219000
+Return On Assets: 0.047620002
+Return On Equity: 0.09418
+Total Cash: 71979000
+Total Debt: 606000
+Debt To Equity: 0.613
+Current Ratio: 1.745
+Quick Ratio: 1.731
+Trailing PE: 8.66087
+Forward PE: 7.968
+Price To Book: 0.794702
+Beta: 0.635
+52 Week High: 13.19
+52 Week Low: 8.43

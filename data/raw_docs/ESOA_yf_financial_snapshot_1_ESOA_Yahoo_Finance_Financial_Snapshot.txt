@@ -1,0 +1,25 @@
+Company: Energy Services of America Corporation Common Stock
+Ticker: ESOA
+Market Cap: 261240560
+Enterprise Value: 291505120
+Total Revenue: 424467456
+Revenue Per Share: 25.458
+EBITDA: 21569580
+Gross Margins: 0.10014
+Operating Margins: 0.04305
+Profit Margins: 0.00526
+Free Cashflow: 7258232
+Operating Cashflow: 14048613
+Return On Assets: 0.02379
+Return On Equity: 0.03669
+Total Cash: 16680033
+Total Debt: 63957720
+Debt To Equity: 105.548
+Current Ratio: 1.444
+Quick Ratio: 1.405
+Trailing PE: 107.692314
+Forward PE: 15.909091
+Price To Book: 3.8377192
+Beta: 1.293
+52 Week High: 15.84
+52 Week Low: 7.64

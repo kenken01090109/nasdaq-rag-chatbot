@@ -1,0 +1,12 @@
+Company: ADS-TEC ENERGY PLC Ordinary Shares
+Ticker: ADSE
+Total Revenue: 45364000
+Revenue Per Share: 0.853
+Gross Margins: -0.0641
+Operating Margins: -2.05392
+EBITDA: -28201000
+Profit Margins: -1.4894
+Free Cashflow: -29704124
+Operating Cashflow: -42244000
+Return On Assets: -0.15991999
+Return On Equity: 

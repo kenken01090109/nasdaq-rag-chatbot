@@ -1,0 +1,25 @@
+Company: Equillium Inc. Common Stock
+Ticker: EQ
+Market Cap: 107781112
+Enterprise Value: 74797176
+Total Revenue: 4392000
+Revenue Per Share: 0.102
+EBITDA: -24242000
+Gross Margins: 1.0
+Operating Margins: -5.54872
+Profit Margins: 0.0
+Free Cashflow: -13356250
+Operating Cashflow: -22912000
+Return On Assets: -0.44172
+Return On Equity: -0.90239
+Total Cash: 33120000
+Total Debt: 745000
+Debt To Equity: 2.408
+Current Ratio: 10.853
+Quick Ratio: 10.744
+Trailing PE: 
+Forward PE: -3.1796217
+Price To Book: 3.4705882
+Beta: 1.828
+52 Week High: 2.35
+52 Week Low: 0.27

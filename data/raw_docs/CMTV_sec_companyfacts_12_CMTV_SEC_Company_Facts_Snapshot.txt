@@ -1,0 +1,10 @@
+Company: Community Bancorp. Common Stock
+Ticker: CMTV
+CIK: 0000718413
+Latest SEC XBRL Facts:
+NetIncomeLoss: 12332018 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1226171343 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1114291001 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 111880342 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 10357497 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17532342 | unit=USD | filed=2023-11-13 | period_end=2023-09-30

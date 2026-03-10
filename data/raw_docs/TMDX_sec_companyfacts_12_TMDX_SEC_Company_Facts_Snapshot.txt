@@ -1,0 +1,12 @@
+Company: TransMedics Group Inc. Common Stock
+Ticker: TMDX
+CIK: 0001756262
+Latest SEC XBRL Facts:
+Revenues: 444730000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 60704000 | unit=USD | filed=2022-11-04 | period_end=2022-09-30
+NetIncomeLoss: 84908000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 946032000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 590832000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 355200000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 158327000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 330094000 | unit=USD | filed=2024-10-29 | period_end=2024-09-30

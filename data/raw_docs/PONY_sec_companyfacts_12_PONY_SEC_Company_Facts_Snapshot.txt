@@ -1,0 +1,11 @@
+Company: Pony AI Inc. American Depositary Shares
+Ticker: PONY
+CIK: 0001969302
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 75025000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetIncomeLoss: -274121000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Assets: 1050821000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Liabilities: 82110000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+StockholdersEquity: 951122000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -110758000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 535976000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31

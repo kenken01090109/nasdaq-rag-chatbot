@@ -1,0 +1,25 @@
+Company: Monopar Therapeutics Inc. Common Stock
+Ticker: MNPR
+Market Cap: 384983680
+Enterprise Value: 241410112
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -8453437
+Operating Cashflow: -10829637
+Return On Assets: -0.17988001
+Return On Equity: -0.26541
+Total Cash: 143675792
+Total Debt: 102236
+Debt To Equity: 0.072
+Current Ratio: 56.098
+Quick Ratio: 55.937
+Trailing PE: 
+Forward PE: -16.541622
+Price To Book: 2.7115693
+Beta: 1.671
+52 Week High: 105.0
+52 Week Low: 26.055

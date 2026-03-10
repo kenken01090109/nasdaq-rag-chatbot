@@ -1,0 +1,9 @@
+Company: SiTime Corporation Common Stock
+Ticker: SITM
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Santa Clara
+Website: https://www.sitime.com
+Employees: 441
+Business Summary: SiTime Corporation engages in the design, development, and sale of silicon timing systems solutions in Hong Kong, Taiwan, the United States, Singapore, and internationally. It offers various types of oscillators, as well as clock integrated circuits, resonators, and synchronization software for use in artificial intelligence systems, data center, communications, enterprise, automotive, industrial, aerospace, defense, mobile, Internet of Things, and consumer markets. The company was incorporated in 2003 and is based in Santa Clara, California.

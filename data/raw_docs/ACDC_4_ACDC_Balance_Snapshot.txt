@@ -1,0 +1,8 @@
+Company: ProFrac Holding Corp. Class A Common Stock
+Ticker: ACDC
+Total Cash: 58000000
+Total Debt: 1207500032
+Debt To Equity: 118.232
+Current Ratio: 0.909
+Quick Ratio: 0.581
+Book Value: 4.768

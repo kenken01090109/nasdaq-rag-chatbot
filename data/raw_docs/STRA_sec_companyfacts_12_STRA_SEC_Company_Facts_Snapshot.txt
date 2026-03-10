@@ -1,0 +1,12 @@
+Company: Strategic Education Inc. Common Stock
+Ticker: STRA
+CIK: 0001013934
+Latest SEC XBRL Facts:
+Revenues: 733365000 | unit=USD | filed=2019-11-07 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 945010000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 88705000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2111963000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 455860000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1656103000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 159002000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 151460000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

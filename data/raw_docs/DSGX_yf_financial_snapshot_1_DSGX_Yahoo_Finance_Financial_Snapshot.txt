@@ -1,0 +1,25 @@
+Company: Descartes Systems Group Inc. (The) Common Stock
+Ticker: DSGX
+Market Cap: 6168694784
+Enterprise Value: 5880310272
+Total Revenue: 703705984
+Revenue Per Share: 8.206
+EBITDA: 294566016
+Gross Margins: 0.76799005
+Operating Margins: 0.30537
+Profit Margins: 0.22102
+Free Cashflow: 218768624
+Operating Cashflow: 251024000
+Return On Assets: 0.07592
+Return On Equity: 0.10697
+Total Cash: 278790016
+Total Debt: 7603000
+Debt To Equity: 0.49
+Current Ratio: 1.834
+Quick Ratio: 1.673
+Trailing PE: 40.30337
+Forward PE: 27.516424
+Price To Book: 3.9753962
+Beta: 0.273
+52 Week High: 117.35
+52 Week Low: 62.56

@@ -1,0 +1,11 @@
+Company: RF Industries Ltd. Common Stock
+Ticker: RFIL
+CIK: 0000740664
+Latest SEC XBRL Facts:
+Revenues: 12414000 | unit=USD | filed=2020-03-12 | period_end=2020-01-31
+NetIncomeLoss: -98000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Assets: 73201000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Liabilities: 38429000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+StockholdersEquity: 34772000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: 2481000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 3000000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31

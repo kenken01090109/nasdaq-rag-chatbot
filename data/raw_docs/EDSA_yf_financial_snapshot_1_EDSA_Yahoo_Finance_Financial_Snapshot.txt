@@ -1,0 +1,25 @@
+Company: Edesa Biotech Inc. Common Shares
+Ticker: EDSA
+Market Cap: 54430008
+Enterprise Value: 27382706
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -8252636
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -5372837
+Operating Cashflow: -7892393
+Return On Assets: -0.55327
+Return On Equity: -0.96385
+Total Cash: 12051748
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 16.818
+Quick Ratio: 16.508
+Trailing PE: 
+Forward PE: -3.3782384
+Price To Book: 11.663685
+Beta: 0.053
+52 Week High: 7.43
+52 Week Low: 0.72

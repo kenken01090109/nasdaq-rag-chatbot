@@ -1,0 +1,25 @@
+Company: Mainz Biomed N.V. Ordinary Shares
+Ticker: MYNZ
+Market Cap: 10387729
+Enterprise Value: 4578776
+Total Revenue: 659935
+Revenue Per Share: 0.292
+EBITDA: -16145343
+Gross Margins: 0.67497003
+Operating Margins: -28.22059
+Profit Margins: 0.0
+Free Cashflow: -8186486
+Operating Cashflow: -15461421
+Return On Assets: -1.14352
+Return On Equity: 
+Total Cash: 1911069
+Total Debt: 3093607
+Debt To Equity: 122.648
+Current Ratio: 0.515
+Quick Ratio: 0.352
+Trailing PE: 
+Forward PE: -1.1216216
+Price To Book: 1.3474026
+Beta: 0.317
+52 Week High: 5.62
+52 Week Low: 0.548

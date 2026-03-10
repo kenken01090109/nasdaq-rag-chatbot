@@ -1,0 +1,12 @@
+Company: Applovin Corporation Class A Common Stock
+Ticker: APP
+CIK: 0001751008
+Latest SEC XBRL Facts:
+Revenues: 5480717000 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3822773000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 2231495000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 6343035000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 4869115000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1473920000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2657360000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1666899000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

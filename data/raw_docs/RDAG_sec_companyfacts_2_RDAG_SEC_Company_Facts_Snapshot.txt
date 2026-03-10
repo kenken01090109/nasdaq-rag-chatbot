@@ -1,0 +1,10 @@
+Company: Republic Digital Acquisition Company Class A Ordinary Shares
+Ticker: RDAG
+CIK: 0002055459
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4878813 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 306354499 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12800186 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -11556170 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -323947 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1080619 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

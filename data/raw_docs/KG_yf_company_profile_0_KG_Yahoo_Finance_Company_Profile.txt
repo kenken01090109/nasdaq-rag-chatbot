@@ -1,0 +1,9 @@
+Company: Kestrel Group Ltd.
+Ticker: KG
+Sector: Financial Services
+Industry: Insurance Brokers
+Country: Bermuda
+City: Hamilton
+Website: https://www.kestrelgroup.com
+Employees: 
+Business Summary: Kestrel Group Ltd engages in provision of fronting services to insurance program managers, MGAs, reinsurers, and reinsurance brokers in Bermuda. The company operates through two segments: Program Services and Legacy Reinsurance. Kestrel Group Ltd is based in Hamilton, Bermuda.

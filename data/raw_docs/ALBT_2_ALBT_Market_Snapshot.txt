@@ -1,0 +1,10 @@
+Company: Avalon GloboCare Corp. Common Stock
+Ticker: ALBT
+Market Cap: 4990688
+Enterprise Value: 23226962
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.2074659
+Beta: -0.221
+52 Week High: 11.51
+52 Week Low: 0.42

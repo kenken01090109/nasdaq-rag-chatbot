@@ -1,0 +1,9 @@
+Company: Embecta Corp. Common Stock
+Ticker: EMBC
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Parsippany
+Website: https://www.embecta.com
+Employees: 1850
+Business Summary: Embecta Corp., a medical device company, provides solutions to improve the health and wellbeing of people living with diabetes in the United States and internationally. The company's products include pen needles, syringes, and safety injection devices, as well as digital applications to assist people with managing patient's diabetes. It primarily sells its products to wholesalers and distributors. The company was formerly known as Berra Newco, Inc. Embecta Corp. was founded in 1924 and is headquartered in Parsippany, New Jersey.

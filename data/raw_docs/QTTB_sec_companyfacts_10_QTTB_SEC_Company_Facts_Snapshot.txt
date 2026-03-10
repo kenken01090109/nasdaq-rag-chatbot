@@ -1,0 +1,12 @@
+Company: Q32 Bio Inc. Common Stock
+Ticker: QTTB
+CIK: 0001661998
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1156000 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+NetIncomeLoss: -27909000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 57784000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 76232000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -18448000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -27363000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49039000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

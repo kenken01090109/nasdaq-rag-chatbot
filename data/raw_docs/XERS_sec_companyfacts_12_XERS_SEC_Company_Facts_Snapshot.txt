@@ -1,0 +1,12 @@
+Company: Xeris Biopharma Holdings Inc. Common Stock
+Ticker: XERS
+CIK: 0001867096
+Latest SEC XBRL Facts:
+Revenues: 22073000 | unit=USD | filed=2022-05-11 | period_end=2022-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 206038000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -10527000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 370191000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 371052000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -861000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8583000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 91598000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

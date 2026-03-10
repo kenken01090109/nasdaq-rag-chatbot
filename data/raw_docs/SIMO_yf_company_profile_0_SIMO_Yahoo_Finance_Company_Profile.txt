@@ -1,0 +1,9 @@
+Company: Silicon Motion Technology Corporation American Depositary Shares
+Ticker: SIMO
+Sector: Technology
+Industry: Semiconductors
+Country: Hong Kong
+City: Hong Kong
+Website: https://www.siliconmotion.com
+Employees: 
+Business Summary: Silicon Motion Technology Corporation, together with its subsidiaries, designs, develops, and markets NAND flash controllers for solid-state storage devices and related devices in Taiwan, the United States, Korea, China, Malaysia, Singapore, and internationally. The company offers controllers for computing-grade solid state drives (SSDs), which are used in PCs and other client devices; enterprise-grade SSDs used in enterprise and hyperscale data centers; eMMC and UFS mobile embedded storage for use in smartphones and IoT devices; flash memory cards and flash drives for use in expandable storage; and specialized SSDs that are used in industrial, commercial, and automotive applications. It markets its controllers under the SMI brand; and single-chip SSDs under the FerriSSD, Ferri-eMMC, and Ferri-UFS brands. The company markets and sells its products through direct sales personnel and independent electronics distributors to NAND flash makers, module makers, hyperscalers, and OEMs. Silicon Motion Technology Corporation was founded in 1995 and is based in Hong Kong, Hong Kong.

@@ -1,0 +1,25 @@
+Company: Park Ha Biological Technology Co. Ltd. Class A Ordinary Shares
+Ticker: BYAH
+Market Cap: 3226866
+Enterprise Value: -2564177
+Total Revenue: 2524843
+Revenue Per Share: 4.288
+EBITDA: -24039532
+Gross Margins: 0.94355005
+Operating Margins: -3.44831
+Profit Margins: 0.0
+Free Cashflow: -14219369
+Operating Cashflow: 85852
+Return On Assets: -3.34069
+Return On Equity: -8.8584
+Total Cash: 3787678
+Total Debt: 180169
+Debt To Equity: 4.51
+Current Ratio: 2.924
+Quick Ratio: 2.336
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.26114973
+Beta: 
+52 Week High: 2074.5
+52 Week Low: 1.4

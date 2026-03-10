@@ -1,0 +1,8 @@
+Company: Adeia Inc. Common Stock
+Ticker: ADEA
+Total Cash: 136732992
+Total Debt: 427744000
+Debt To Equity: 89.013
+Current Ratio: 3.81
+Quick Ratio: 3.7
+Book Value: 4.409

@@ -1,0 +1,25 @@
+Company: Lightwave Logic Inc. Common Stock
+Ticker: LWLG
+Market Cap: 610808576
+Enterprise Value: 554353152
+Total Revenue: 100605
+Revenue Per Share: 0.001
+EBITDA: -19871492
+Gross Margins: 0.93564004
+Operating Margins: -180.3249
+Profit Margins: 0.0
+Free Cashflow: -7698375
+Operating Cashflow: -13572719
+Return On Assets: -0.33144
+Return On Equity: -0.56264997
+Total Cash: 34942072
+Total Debt: 2642303
+Debt To Equity: 6.415
+Current Ratio: 31.057
+Quick Ratio: 30.634
+Trailing PE: 
+Forward PE: 
+Price To Book: 13.548387
+Beta: 3.107
+52 Week High: 6.26
+52 Week Low: 0.79

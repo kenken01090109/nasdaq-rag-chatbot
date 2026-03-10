@@ -1,0 +1,9 @@
+Company: Focus Universal Inc. Common Stock
+Ticker: FCUV
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: Ontario
+Website: https://www.focusuniversal.com
+Employees: 46
+Business Summary: Focus Universal Inc. develops and manufactures smart instrumentation platforms and devices. It offers Ubiquitor wireless sensor devices; universal smart instrumentation platform (USIP) that utilizes computer or mobile devices to communicate with sensors, instruments, probes, and controllers; and digital sensors and horticultural sensors. The company engages in the wholesale of various digital, analog, and quantum light meters, as well as filtration products, including fan speed adjusters, carbon filters, and HEPA filtration systems; and provision of electronic measurement devices, such as temperature humidity meters, digital meters, quantum PAR meters, pH meters, TDS meters, and CO2 monitors. In addition, it offers integration systems for houses, apartments, commercial complexes, and office spaces; and audio/video systems, home theaters, lighting control, automation, and integration installation and management services. The company was incorporated in 2012 and is headquartered in Ontario, California.

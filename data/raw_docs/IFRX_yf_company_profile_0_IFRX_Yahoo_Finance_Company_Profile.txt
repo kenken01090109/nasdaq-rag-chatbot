@@ -1,0 +1,9 @@
+Company: InflaRx N.V. Common Stock
+Ticker: IFRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: Germany
+City: Jena
+Website: https://www.inflarx.de
+Employees: 74
+Business Summary: InflaRx N.V., a clinical-stage biopharmaceutical company, discovers and develops inhibitors using C5a technology in Germany and the United States. The company's C5a is an inflammatory mediator that is involved in the progression of a variety of autoimmune and other inflammatory diseases. Its lead product candidate is vilobelimab, a novel intravenously delivered first-in-class anti-C5a monoclonal antibody, which completed the Phase III clinical trial for the treatment of hidradenitis suppurativa, a rare and chronic debilitating systemic inflammatory skin disease; for the treatment of anti-neutrophil cytoplasm antibody associated vasculitis, a rare and life-threatening autoimmune disease that is in Phase II trial; to treat pyoderma gangraenosum, a chronic inflammatory skin disorder that is in Phase IIa exploratory study; and for the treatment of PD-1/PD-L1 inhibitor resistant/refractory locally advanced or metastatic cutaneous squamous cell carcinoma that is in Phase II clinical development stage. The company develops INF904, an oral, small molecule drug candidate for the chronic inflammatory and autoimmune diseases; IFX002 that is in pre-clinical development stage for the treatment of chronic inflammation and autoimmune diseases; and Gohibic (vilobelimab) for the treatment of COVID-19 and broader ARDS. It has co-development agreement with Beijing Defengrei Biotechnology Co. Ltd.; and clinical trial collaboration and supply agreement with Merck & Co. Inc. InflaRx N.V. was formerly known as Fireman B.V. and changed its name to InflaRx N.V. in 2017. The company was founded in 2007 and is headquartered in Jena, Germany.

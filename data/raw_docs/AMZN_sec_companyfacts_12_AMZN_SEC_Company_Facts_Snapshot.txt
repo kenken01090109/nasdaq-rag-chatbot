@@ -1,0 +1,10 @@
+Company: Amazon.com Inc. Common Stock
+Ticker: AMZN
+CIK: 0001018724
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 503538000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 76482000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 727921000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 369631000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 130691000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 66922000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

@@ -1,0 +1,8 @@
+Company: AIOS Tech Inc. Class A Common Shares
+Ticker: AIOS
+Total Cash: 10079125
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.689
+Quick Ratio: 0.368
+Book Value: 29.781

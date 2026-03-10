@@ -1,0 +1,25 @@
+Company: Amplitech Group Inc. Common Stock
+Ticker: AMPG
+Market Cap: 63960584
+Enterprise Value: 48331980
+Total Revenue: 22571944
+Revenue Per Share: 1.239
+EBITDA: -7004211
+Gross Margins: 0.23072
+Operating Margins: -0.036310002
+Profit Margins: -0.33766997
+Free Cashflow: -4460096
+Operating Cashflow: -6426433
+Return On Assets: -0.13227001
+Return On Equity: -0.27126
+Total Cash: 8387194
+Total Debt: 4298414
+Debt To Equity: 12.001
+Current Ratio: 2.848
+Quick Ratio: 1.565
+Trailing PE: 
+Forward PE: 4.7037034
+Price To Book: 1.4622912
+Beta: -0.983
+52 Week High: 4.89
+52 Week Low: 1.21

@@ -1,0 +1,12 @@
+Company: TDH Holdings Inc. Common Shares
+Ticker: PETZ
+CIK: 0001684425
+Latest SEC XBRL Facts:
+Revenues: 563726 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 563726 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 2684522 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 33338661 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 5938806 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 27302642 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -233987 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 15699562 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

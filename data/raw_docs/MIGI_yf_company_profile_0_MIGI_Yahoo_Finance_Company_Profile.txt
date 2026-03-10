@@ -1,0 +1,9 @@
+Company: Mawson Infrastructure Group Inc. Common Stock
+Ticker: MIGI
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Midland
+Website: https://www.mawsoninc.com
+Employees: 33
+Business Summary: Mawson Infrastructure Group Inc. develops and operates digital infrastructure for digital currency on the bitcoin blockchain network in the United States. It engages in digital currency or bitcoin self-mining, customer co-location and related services, and energy markets, as well as operates data center facilities. The company is based in Midland, Pennsylvania.

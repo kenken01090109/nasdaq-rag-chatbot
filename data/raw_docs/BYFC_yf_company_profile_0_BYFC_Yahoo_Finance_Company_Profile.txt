@@ -1,0 +1,9 @@
+Company: Broadway Financial Corporation Class A Common Stock
+Ticker: BYFC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Los Angeles
+Website: https://www.cityfirstbank.com
+Employees: 106
+Business Summary: Broadway Financial Corporation operates as the holding company for City First Bank, National Association that provides various banking products and services in the United States. Its deposit products include savings accounts, checking accounts, interest checking accounts, money market accounts, and fixed-term certificates of deposit. The company also offers mortgage loans, which are secured by multi-family residential properties; single family residential properties; and commercial real estate, including charter schools, community facilities, and churches, as well as provides commercial business loans, loans guaranteed by the Small Business Administration SBA, construction- to-permanent loans, and consumer loans. In addition, it invests in securities issued by federal government agencies, residential mortgage-backed securities, and other investments. The company was founded in 1946 and is headquartered in Los Angeles, California.

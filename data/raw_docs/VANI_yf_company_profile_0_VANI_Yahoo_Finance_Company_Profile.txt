@@ -1,0 +1,9 @@
+Company: Vivani Medical Inc. Common Stock (DE)
+Ticker: VANI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Alameda
+Website: https://www.vivani.com
+Employees: 37
+Business Summary: Vivani Medical, Inc., a clinical-stage biopharmaceutical company, engages in the development of miniaturized and subdermal drug implants that treat chronic diseases. The company uses its NanoPortal implant technology to develop and potentially commercialize drug implant candidates in the treatment of chronic disease and medication non-adherence. Its pipeline includes NPM-115, a high-dose exenatide implant candidate is in clinical stage development for the treatment of chronic weight management in patients with obesity or overweight; NPM-119, an exenatide implant candidate is in preclinical stage development for the treatment of patients with type 2 diabetes; NPM-139, a miniature and subdermal GLP-1 implant in development for chronic weight management; and OKV-119, an exenatide implant for metabolic diseases in cats. The company is headquartered in Alameda, California.

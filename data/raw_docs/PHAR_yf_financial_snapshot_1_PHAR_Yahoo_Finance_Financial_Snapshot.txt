@@ -1,0 +1,25 @@
+Company: Pharming Group N.V. ADS each representing 10 ordinary shares
+Ticker: PHAR
+Market Cap: 1075686656
+Enterprise Value: 7915593216
+Total Revenue: 362273984
+Revenue Per Share: 5.71
+EBITDA: 47914000
+Gross Margins: 0.89902997
+Operating Margins: 0.26645002
+Profit Margins: 0.00105
+Free Cashflow: 43510624
+Operating Cashflow: 53332000
+Return On Assets: 0.05763
+Return On Equity: 0.00028
+Total Cash: 166168000
+Total Debt: 130922000
+Debt To Equity: 49.471
+Current Ratio: 3.158
+Quick Ratio: 2.386
+Trailing PE: Infinity
+Forward PE: 311.9192
+Price To Book: 29.29791
+Beta: 0.157
+52 Week High: 21.34
+52 Week Low: 7.502

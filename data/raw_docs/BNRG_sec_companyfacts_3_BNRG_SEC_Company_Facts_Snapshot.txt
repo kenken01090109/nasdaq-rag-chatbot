@@ -1,0 +1,11 @@
+Company: Brenmiller Energy Ltd Ordinary Shares
+Ticker: BNRG
+CIK: 0001901215
+Latest SEC XBRL Facts:
+Revenues: 387000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: -7454000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 9340000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 8147000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 1193000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5266000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2127000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

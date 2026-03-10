@@ -1,0 +1,11 @@
+Company: Datadog Inc. Class A Common Stock
+Ticker: DDOG
+CIK: 0001561550
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2473964000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 61174000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 6052470000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2613352000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 3439118000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 723066000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 540602000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: WSFS Financial Corporation Common Stock
+Ticker: WSFS
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Wilmington
+Website: https://www.wsfsbank.com
+Employees: 2335
+Business Summary: WSFS Financial Corporation operates as the savings and loan holding company for the Wilmington Savings Fund Society, FSB that provides various banking services in the United States. It operates through WSFS Bank, Cash Connect, and Wealth and Trust segments. The company offers deposit products, including noninterest-bearing demand deposits, money market, and interest-bearing demand deposits, as well as certificates of deposit and jumbo certificates of deposit. It also provides loans, such as commercial and industrial loans, commercial mortgage loans, and construction and land development loans, as well as residential and consumer loas comprising residential mortgage, equity secured lines and loans, installment loans, unsecured lines of credit, originated education loans, and previously acquired education loans. In addition, the company offers ATM vault cash, smart safe and cash logistics services, planning and advisory services, investment management, and personal and institutional trust services. WSFS Financial Corporation was founded in 1832 and is headquartered in Wilmington, Delaware.

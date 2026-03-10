@@ -1,0 +1,9 @@
+Company: GSR IV Acquisition Corp. Units
+Ticker: GSRFU
+CIK: 0002072404
+Latest SEC XBRL Facts:
+NetIncomeLoss: 407791 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 232669952 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 9222190 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7215057 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -325194 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

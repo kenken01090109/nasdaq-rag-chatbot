@@ -1,0 +1,9 @@
+Company: New Horizon Aircraft Ltd. Warrant
+Ticker: HOVRW
+Sector: 
+Industry: 
+Country: Canada
+City: Lindsay
+Website: https://www.horizonaircraft.com
+Employees: 30
+Business Summary: New Horizon Aircraft Ltd., an aerospace original equipment manufacturer company, designs hybrid-electric vertical takeoff and landing (eVTOL) aircraft for the regional air mobility market in the United States. It focuses on the design and delivery of the Cavorite X7, a hybrid electric 7-seat aircraft that can take off and land vertically. The company was founded in 2013 and is headquartered in Lindsay, Canada.

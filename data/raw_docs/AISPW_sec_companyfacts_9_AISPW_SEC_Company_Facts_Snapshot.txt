@@ -1,0 +1,11 @@
+Company: Airship AI Holdings Inc. Warrants
+Ticker: AISPW
+CIK: 0001842566
+Latest SEC XBRL Facts:
+Revenues: 8827368 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 6360807 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 8102970 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 48184078 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -40081108 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4502421 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5755661 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

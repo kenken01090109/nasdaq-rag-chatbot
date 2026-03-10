@@ -1,0 +1,25 @@
+Company: ArriVent BioPharma Inc. Common Stock
+Ticker: AVBP
+Market Cap: 967222272
+Enterprise Value: 803283968
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -117125752
+Operating Cashflow: -160588000
+Return On Assets: -0.36493
+Return On Equity: -0.58883
+Total Cash: 312820992
+Total Debt: 14000
+Debt To Equity: 0.005
+Current Ratio: 12.831
+Quick Ratio: 12.057
+Trailing PE: 
+Forward PE: -6.9434977
+Price To Book: 3.2375295
+Beta: 
+52 Week High: 27.22
+52 Week Low: 15.47

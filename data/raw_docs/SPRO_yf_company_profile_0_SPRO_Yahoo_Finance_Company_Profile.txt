@@ -1,0 +1,9 @@
+Company: Spero Therapeutics Inc. Common Stock
+Ticker: SPRO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://sperotherapeutics.com
+Employees: 32
+Business Summary: Spero Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on identifying and developing novel treatments for multi-drug resistant (MDR) bacterial infections and rare diseases in the United States. The company's product candidates include Tebipenem HBr (tebipenem pivoxil hydrobromide), an oral carbapenem-class antibiotic to treat complicated urinary tract infections, including pyelonephritis for adult patients, which is in Phase 3 development; and SPR720, a novel product candidate for first-line treatment of nontuberculous mycobacterial (NTM) pulmonary disease. It has license agreement with Meiji Seika Pharma Co., Ltd. to support the development of tebipenem HBr; Everest Medicines to develop, manufacture, and commercialize SPR206 in Greater China, South Korea, and Southeast Asian countries; and Vertex Pharmaceuticals Incorporated for patents relating to the oral prodrug SPR720, as well as SPR719, an active metabolite. Spero Therapeutics, Inc. was founded in 2013 and is headquartered in Cambridge, Massachusetts.

@@ -1,0 +1,25 @@
+Company: Tokyo Lifestyle Co. Ltd. American Depositary Shares
+Ticker: TKLF
+Market Cap: 12023638
+Enterprise Value: 197416608
+Total Revenue: 302537152
+Revenue Per Share: 71.528
+EBITDA: 8364363
+Gross Margins: 0.091000006
+Operating Margins: 0.00958
+Profit Margins: 0.014680001
+Free Cashflow: -3699219
+Operating Cashflow: -6685008
+Return On Assets: 0.02538
+Return On Equity: 0.107980005
+Total Cash: 2177691
+Total Debt: 78105928
+Debt To Equity: 184.765
+Current Ratio: 1.243
+Quick Ratio: 1.068
+Trailing PE: 2.5823636
+Forward PE: 
+Price To Book: 0.28448674
+Beta: 0.058
+52 Week High: 4.321
+52 Week Low: 2.1

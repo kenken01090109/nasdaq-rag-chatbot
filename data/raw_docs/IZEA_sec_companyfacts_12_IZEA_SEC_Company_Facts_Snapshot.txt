@@ -1,0 +1,12 @@
+Company: IZEA Worldwide Inc. Common Stock
+Ticker: IZEA
+CIK: 0001495231
+Latest SEC XBRL Facts:
+Revenues: 13128706 | unit=USD | filed=2019-11-14 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 25173975 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 1210013 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 57874480 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 7998754 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 49875726 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2435965 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 51390884 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

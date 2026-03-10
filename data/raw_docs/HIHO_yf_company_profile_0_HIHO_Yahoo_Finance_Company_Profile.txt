@@ -1,0 +1,9 @@
+Company: Highway Holdings Limited Common Stock
+Ticker: HIHO
+Sector: Industrials
+Industry: Metal Fabrication
+Country: Hong Kong
+City: Sheung Shui
+Website: https://www.highwayholdings.com
+Employees: 
+Business Summary: Highway Holdings Limited, together with its subsidiaries, manufactures and sells metal, plastic, electric, and electronic parts and components, subassemblies, and finished products in Hong Kong, China, Europe, and North America. The company operates through two segments, Metal Stamping and Mechanical Original Equipment Manufacturer (OEM), and Electric OEM. Its products are used in the manufacture of products, such as photocopiers, laser printers, print cartridges, electrical connectors, electrical circuits, vacuum cleaners, LED power supplies, stepping motors, pumps for dishwashers, and other washing machine components. The company also provides assistance in the design and development of the tooling used in the metal and plastic manufacturing process; manufacturing services, including metal stamping, screen printing, plastic injection molding, pad printing, and electronic assembly of printed circuit boards; and engineering services. In addition, it engages in the trade of plastic injection products; and manufacture and assembly of metal, plastics, mold and electronic products, and automation equipment. The company offers its products to OEMs and contract manufacturers. Highway Holdings Limited was incorporated in 1990 and is headquartered in Sheung Shui, Hong Kong.

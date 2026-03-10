@@ -1,0 +1,8 @@
+Company: Forafric Global PLC Ordinary Shares
+Ticker: AFRI
+Total Cash: 9480000
+Total Debt: 178595008
+Debt To Equity: 1753.338
+Current Ratio: 0.377
+Quick Ratio: 0.156
+Book Value: -0.17

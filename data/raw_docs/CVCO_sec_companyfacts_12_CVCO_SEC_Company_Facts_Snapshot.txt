@@ -1,0 +1,12 @@
+Company: Cavco Industries Inc. Common Stock When Issued
+Ticker: CVCO
+CIK: 0000278166
+Latest SEC XBRL Facts:
+Revenues: 1374674000 | unit=USD | filed=2024-02-02 | period_end=2023-12-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1694378000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27
+NetIncomeLoss: 148090000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27
+Assets: 1472195000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27
+Liabilities: 382976000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27
+StockholdersEquity: 1089219000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 200119000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 224616000 | unit=USD | filed=2026-02-02 | period_end=2025-12-27

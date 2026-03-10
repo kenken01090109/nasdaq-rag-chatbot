@@ -1,0 +1,10 @@
+Company: AsiaStrategy Ordinary Shares
+Ticker: SORA
+CIK: 0002033515
+Latest SEC XBRL Facts:
+Revenues: 17619363 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+NetIncomeLoss: -42219 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+Assets: 6627728 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+Liabilities: 5254449 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+StockholdersEquity: 1373279 | unit=USD | filed=2025-05-12 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -462995 | unit=USD | filed=2025-05-12 | period_end=2024-12-31

@@ -1,0 +1,11 @@
+Company: MillerKnoll Inc. Common Stock
+Ticker: MLKN
+CIK: 0000066382
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1910900000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29
+NetIncomeLoss: 44400000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29
+Assets: 3946400000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29
+Liabilities: 2583600000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29
+StockholdersEquity: 1299700000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29
+NetCashProvidedByUsedInOperatingActivities: 74000000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29
+CashAndCashEquivalentsAtCarryingValue: 180400000 | unit=USD | filed=2026-01-05 | period_end=2025-11-29

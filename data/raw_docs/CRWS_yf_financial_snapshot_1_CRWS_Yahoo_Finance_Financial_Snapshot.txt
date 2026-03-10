@@ -1,0 +1,25 @@
+Company: Crown Crafts Inc Common Stock
+Ticker: CRWS
+Market Cap: 30595670
+Enterprise Value: 54700672
+Total Revenue: 83117000
+Revenue Per Share: 7.859
+EBITDA: 3588000
+Gross Margins: 0.23094
+Operating Margins: -0.00154
+Profit Margins: -0.11098
+Free Cashflow: 12709750
+Operating Cashflow: 9925000
+Return On Assets: 0.014450001
+Return On Equity: -0.20435
+Total Cash: 2402000
+Total Debt: 26507000
+Debt To Equity: 67.622
+Current Ratio: 3.428
+Quick Ratio: 1.272
+Trailing PE: 
+Forward PE: 3.7631578
+Price To Book: 0.78056765
+Beta: 0.604
+52 Week High: 4.04
+52 Week Low: 2.35

@@ -1,0 +1,9 @@
+Company: Cantor Equity Partners V Inc. Class A Ordinary Shares
+Ticker: CEPV
+CIK: 0002034266
+Latest SEC XBRL Facts:
+NetIncomeLoss: -43618 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+Assets: 164309 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+Liabilities: 209809 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+StockholdersEquity: -45500 | unit=USD | filed=2025-12-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -118175 | unit=USD | filed=2025-12-16 | period_end=2025-09-30

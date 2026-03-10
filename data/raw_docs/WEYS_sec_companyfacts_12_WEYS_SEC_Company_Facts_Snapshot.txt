@@ -1,0 +1,11 @@
+Company: Weyco Group Inc. Common Stock
+Ticker: WEYS
+CIK: 0000106532
+Latest SEC XBRL Facts:
+Revenues: 199372000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 14385000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 304044000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 52717000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 202576000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30
+NetCashProvidedByUsedInOperatingActivities: 13247000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72915000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

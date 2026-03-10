@@ -1,0 +1,9 @@
+Company: Linkhome Holdings Inc. Common stock
+Ticker: LHAI
+Sector: Real Estate
+Industry: Real Estate Services
+Country: United States
+City: Irvine
+Website: https://www.linkhomeai.com
+Employees: 
+Business Summary: Linkhome Holdings Inc., an artificial intelligence-driven property technology company, provides real estate related services in the United States. It offers Cash Offer that integrates fintech to help users buy and sell properties by analyzing market trends, property valuations, and buyer preferences; and property management, real estate agency, home renovation, mortgage referral, and other services. The company was founded in 2021 and is based in Irvine, California.

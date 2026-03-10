@@ -1,0 +1,25 @@
+Company: Paramount Skydance Corporation Class B Common Stock
+Ticker: PSKY
+Market Cap: 13226973184
+Enterprise Value: 26530619392
+Total Revenue: 28891000832
+Revenue Per Share: 34.135
+EBITDA: 2680999936
+Gross Margins: 0.3183
+Operating Margins: -0.0064999997
+Profit Margins: -0.02149
+Free Cashflow: 15840124928
+Operating Cashflow: 649000000
+Return On Assets: 0.026349999
+Return On Equity: -0.00863
+Total Cash: 3273999872
+Total Debt: 15091999744
+Debt To Equity: 117.11
+Current Ratio: 1.257
+Quick Ratio: 0.933
+Trailing PE: 399.66666
+Forward PE: 12.289621
+Price To Book: 1.1525521
+Beta: 1.259
+52 Week High: 20.86
+52 Week Low: 9.95

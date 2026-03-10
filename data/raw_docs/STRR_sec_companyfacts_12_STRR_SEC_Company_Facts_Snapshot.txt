@@ -1,0 +1,11 @@
+Company: Star Equity Holdings Inc. Common Stock
+Ticker: STRR
+CIK: 0001210708
+Latest SEC XBRL Facts:
+Revenues: 115366000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -4208000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 117140000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 49369000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 67771000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3401000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15368000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

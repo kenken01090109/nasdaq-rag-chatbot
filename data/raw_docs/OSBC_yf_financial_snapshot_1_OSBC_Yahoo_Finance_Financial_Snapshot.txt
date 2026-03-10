@@ -1,0 +1,25 @@
+Company: Old Second Bancorp Inc. Common Stock
+Ticker: OSBC
+Market Cap: 1030105280
+Enterprise Value: 1250762752
+Total Revenue: 311343008
+Revenue Per Share: 6.37
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.44798002
+Profit Margins: 0.25795
+Free Cashflow: 
+Operating Cashflow: 122264000
+Return On Assets: 0.0128
+Return On Equity: 0.10245
+Total Cash: 128377000
+Total Debt: 340076992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.067901
+Forward PE: 8.618674
+Price To Book: 1.1482439
+Beta: 0.771
+52 Week High: 22.0
+52 Week Low: 14.14

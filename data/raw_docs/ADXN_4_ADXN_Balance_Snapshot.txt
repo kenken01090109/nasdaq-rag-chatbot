@@ -1,0 +1,8 @@
+Company: Addex Therapeutics Ltd American Depositary Shares
+Ticker: ADXN
+Total Cash: 2187202
+Total Debt: 36549
+Debt To Equity: 0.613
+Current Ratio: 2.013
+Quick Ratio: 1.905
+Book Value: 0.06544524

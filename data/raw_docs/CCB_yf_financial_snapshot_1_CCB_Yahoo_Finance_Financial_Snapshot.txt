@@ -1,0 +1,25 @@
+Company: Coastal Financial Corporation Common Stock
+Ticker: CCB
+Market Cap: 1194512000
+Enterprise Value: 510561952
+Total Revenue: 349041984
+Revenue Per Share: 23.189
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.20001
+Profit Margins: 0.13463001
+Free Cashflow: 
+Operating Cashflow: 254584000
+Return On Assets: 0.0106
+Return On Equity: 0.1011
+Total Cash: 736969984
+Total Debt: 53020000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 25.666668
+Forward PE: 10.192059
+Price To Book: 2.4219809
+Beta: 0.9
+52 Week High: 120.05
+52 Week Low: 70.72

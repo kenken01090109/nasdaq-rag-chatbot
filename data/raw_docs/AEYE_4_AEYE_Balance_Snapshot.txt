@@ -1,0 +1,8 @@
+Company: AudioEye Inc. Common Stock
+Ticker: AEYE
+Total Cash: 4550000
+Total Debt: 13226000
+Debt To Equity: 234.047
+Current Ratio: 0.998
+Quick Ratio: 0.916
+Book Value: 0.455

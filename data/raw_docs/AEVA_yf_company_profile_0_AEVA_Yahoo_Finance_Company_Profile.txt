@@ -1,0 +1,9 @@
+Company: Aeva Technologies Inc. Common Stock
+Ticker: AEVA
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Mountain View
+Website: https://www.aeva.com
+Employees: 
+Business Summary: Aeva Technologies, Inc. engages in the design, development, manufacture, and sale of LiDAR sensing systems, and related perception and autonomy-enabling software solutions in North America, Europe, the Middle East, Africa, and Asia. The company develops its products using frequency modulated continuous wave (FMCW) sensing technology. It offers Aeries II, a 4D LiDAR solution that consist of 4D LiDAR sensing system with embedded software for automotive grade production across passenger car, trucking, and mobility applications; Atlas, a FMCW 4D LiDAR with simultaneous velocity and range detection for mass production and built to meet automotive-grade requirements; and Atlas Ultra, a 4D LiDAR sensor built to meet the performance demands of SAE Level 3 and 4 automated driving systems in passenger and commercial vehicles. The company's products are also used in consumer devices, industrial automation, and security market applications. Aeva Technologies, Inc. was founded in 2017 and is headquartered in Mountain View, California.

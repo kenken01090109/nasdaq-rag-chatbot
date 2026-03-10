@@ -1,0 +1,9 @@
+Company: Candel Therapeutics Inc. Common Stock
+Ticker: CADL
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Needham
+Website: https://www.candeltx.com
+Employees: 38
+Business Summary: Candel Therapeutics, Inc., a clinical stage biopharmaceutical company, develops immunotherapies for the cancer patients. It develops CAN-2409, which is in Phase III clinical trials for the treatment of prostate cancer; Phase II clinical trials for the treatment of pancreatic cancer; and Phase II clinical trials for the treatment of non-small cell lung cancer (NSCLC). The company is also developing CAN-3110, which is in Phase Ib clinical trials for the treatment of recurrent high-grade glioma. In addition, it develops the enLIGHTEN Discovery Platform, a systematic, iterative herpes simplex virus based discovery platform leveraging human biology and advanced analytics to create new viral immunotherapy candidates for solid tumors. The company was formerly known as Advantagene, Inc. and changed its name to Candel Therapeutics, Inc. in November 2020. Candel Therapeutics, Inc. was incorporated in 2003 and is headquartered in Needham, Massachusetts.

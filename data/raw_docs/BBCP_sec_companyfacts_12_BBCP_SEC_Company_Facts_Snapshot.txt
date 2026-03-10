@@ -1,0 +1,12 @@
+Company: Concrete Pumping Holdings Inc. Common Stock
+Ticker: BBCP
+CIK: 0001703956
+Latest SEC XBRL Facts:
+Revenues: 284080000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 257379000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+NetIncomeLoss: 1056000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+Assets: 886031000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+Liabilities: 599710000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+StockholdersEquity: 261321000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: 49850000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 41001000 | unit=USD | filed=2025-09-04 | period_end=2025-07-31

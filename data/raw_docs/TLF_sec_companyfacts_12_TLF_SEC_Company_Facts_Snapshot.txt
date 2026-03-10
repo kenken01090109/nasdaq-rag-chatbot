@@ -1,0 +1,10 @@
+Company: Tandy Leather Factory Inc. Common Stock
+Ticker: TLF
+CIK: 0000909724
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 54072000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 10032000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 84542000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 53378000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5536000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12018000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

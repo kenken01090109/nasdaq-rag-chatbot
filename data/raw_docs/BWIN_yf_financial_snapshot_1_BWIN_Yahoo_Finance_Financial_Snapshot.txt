@@ -1,0 +1,25 @@
+Company: The Baldwin Insurance Group Inc. Class A Common Stock
+Ticker: BWIN
+Market Cap: 2034044160
+Enterprise Value: 4155996160
+Total Revenue: 1504883968
+Revenue Per Share: 22.151
+EBITDA: 214150000
+Gross Margins: 0.30197
+Operating Margins: -0.025729999
+Profit Margins: -0.02247
+Free Cashflow: -20126500
+Operating Cashflow: -29418000
+Return On Assets: 0.01459
+Return On Equity: -0.05174
+Total Cash: 123669000
+Total Debt: 1761437952
+Debt To Equity: 162.435
+Current Ratio: 1.162
+Quick Ratio: 0.932
+Trailing PE: 
+Forward PE: 8.185619
+Price To Book: 2.5149486
+Beta: 1.311
+52 Week High: 47.15
+52 Week Low: 15.88

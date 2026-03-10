@@ -1,0 +1,25 @@
+Company: Avalo Therapeutics Inc. Common Stock
+Ticker: AVTX
+Market Cap: 320455808
+Enterprise Value: 207733152
+Total Revenue: 192000
+Revenue Per Share: 0.017
+EBITDA: -66098000
+Gross Margins: 0.0
+Operating Margins: -346.32294
+Profit Margins: 0.0
+Free Cashflow: -84174752
+Operating Cashflow: -52256000
+Return On Assets: -0.3718
+Return On Equity: -1.7479401
+Total Cash: 111617000
+Total Debt: 555000
+Debt To Equity: 0.606
+Current Ratio: 14.281
+Quick Ratio: 14.001
+Trailing PE: 
+Forward PE: -3.8032
+Price To Book: 3.3709831
+Beta: 0.893
+52 Week High: 20.72
+52 Week Low: 3.39

@@ -1,0 +1,8 @@
+Company: ADS-TEC ENERGY PLC Ordinary Shares
+Ticker: ADSE
+Total Cash: 37869000
+Total Debt: 36871000
+Debt To Equity: 
+Current Ratio: 1.894
+Quick Ratio: 0.886
+Book Value: -0.31063047

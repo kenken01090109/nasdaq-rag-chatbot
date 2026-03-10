@@ -1,0 +1,9 @@
+Company: Ryvyl Inc. Common Stock
+Ticker: RVYL
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: San Diego
+Website: https://www.ryvyl.com
+Employees: 95
+Business Summary: Ryvyl Inc., a financial technology company, develops software platforms and tools that focuses on providing payment acceptance and disbursement capabilities in North America, Europe, and Asia. It offers dual-sided platform that enables businesses to accept payments from customers while distributing funds to vendors, employees, and partners; treasury management services; and payment solutions, including automated clearing house and wire transfer services. The company also provides IBAN issuance; foreign exchange; and electronic money institution services, as well as card issuing services, such as debit, credit, and virtual cards. It serves customers in various industries, including retail, e-commerce, financial services, logistics, healthcare, and other sectors. The company was formerly known as GreenBox POS and changed its name to Ryvyl Inc. in October 2022. Ryvyl Inc. is based in San Diego, California.

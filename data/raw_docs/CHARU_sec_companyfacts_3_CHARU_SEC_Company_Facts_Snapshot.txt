@@ -1,0 +1,10 @@
+Company: Charlton Aria Acquisition Corporation Units
+Ticker: CHARU
+CIK: 0002024459
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2316270 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 88637906 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1744362 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -1696382 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -436644 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10775 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

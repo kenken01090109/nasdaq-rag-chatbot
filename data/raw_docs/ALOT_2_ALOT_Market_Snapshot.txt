@@ -1,0 +1,10 @@
+Company: AstroNova Inc. Common Stock
+Ticker: ALOT
+Market Cap: 68822200
+Enterprise Value: 108151192
+Trailing PE: 
+Forward PE: 25.742859
+Price To Book: 0.89518136
+Beta: 0.676
+52 Week High: 12.68
+52 Week Low: 6.96

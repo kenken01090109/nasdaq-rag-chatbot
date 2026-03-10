@@ -1,0 +1,25 @@
+Company: IO Biotech Inc. Common Stock
+Ticker: IOBT
+Market Cap: 21620626
+Enterprise Value: 10895933
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -91802000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -49063376
+Operating Cashflow: -80996000
+Return On Assets: -0.88579005
+Return On Equity: -2.40484
+Total Cash: 30664000
+Total Debt: 18119000
+Debt To Equity: 1988.913
+Current Ratio: 2.011
+Quick Ratio: 1.729
+Trailing PE: 
+Forward PE: -0.81216216
+Price To Book: 23.115385
+Beta: 0.437
+52 Week High: 2.79
+52 Week Low: 0.205

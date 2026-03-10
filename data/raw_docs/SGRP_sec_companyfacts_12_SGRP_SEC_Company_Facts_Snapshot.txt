@@ -1,0 +1,10 @@
+Company: SPAR Group Inc. Common Stock
+Ticker: SGRP
+CIK: 0001004989
+Latest SEC XBRL Facts:
+NetIncomeLoss: -8303000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 61665000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 45076000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 16589000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15962000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8206000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

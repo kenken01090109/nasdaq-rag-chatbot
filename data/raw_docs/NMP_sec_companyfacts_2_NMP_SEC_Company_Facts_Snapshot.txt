@@ -1,0 +1,8 @@
+Company: NMP Acquisition Corp. Class A Ordinary Shares
+Ticker: NMP
+CIK: 0002054876
+Latest SEC XBRL Facts:
+NetIncomeLoss: 838497 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 116835177 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 566713 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -451394 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

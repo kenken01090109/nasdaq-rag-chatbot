@@ -1,0 +1,8 @@
+Company: Artius II Acquisition Inc. Rights
+Ticker: AACBR
+Total Cash: 141921
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: -0.45

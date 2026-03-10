@@ -1,0 +1,11 @@
+Company: Omeros Corporation Common Stock
+Ticker: OMER
+CIK: 0001285819
+Latest SEC XBRL Facts:
+Revenues: 21779000 | unit=USD | filed=2019-05-09 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 79889000 | unit=USD | filed=2021-11-09 | period_end=2021-09-30
+NetIncomeLoss: -89801000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 185706000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -220478000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -76252000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2395000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

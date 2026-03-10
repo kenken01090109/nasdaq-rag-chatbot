@@ -1,0 +1,25 @@
+Company: Netskope Inc. Class A Common Stock
+Ticker: NTSK
+Market Cap: 4439892480
+Enterprise Value: 4216015616
+Total Revenue: 661153024
+Revenue Per Share: 4.71
+EBITDA: -536695008
+Gross Margins: 0.66358
+Operating Margins: -2.4269
+Profit Margins: -1.0582399
+Free Cashflow: 
+Operating Cashflow: 26070000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1152903040
+Total Debt: 814980992
+Debt To Equity: 539.612
+Current Ratio: 2.325
+Quick Ratio: 2.13
+Trailing PE: 
+Forward PE: -54.805824
+Price To Book: 29.401041
+Beta: 
+52 Week High: 27.99
+52 Week Low: 9.125

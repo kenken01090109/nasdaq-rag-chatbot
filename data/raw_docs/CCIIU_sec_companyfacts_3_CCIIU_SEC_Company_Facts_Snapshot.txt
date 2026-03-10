@@ -1,0 +1,10 @@
+Company: Cohen Circle Acquisition Corp. II Unit
+Ticker: CCIIU
+CIK: 0002064683
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2239987 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 257559830 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 10863442 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -8888750 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -521044 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1751613 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

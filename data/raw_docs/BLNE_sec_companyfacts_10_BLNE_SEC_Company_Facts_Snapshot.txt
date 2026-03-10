@@ -1,0 +1,12 @@
+Company: Beeline Holdings Inc. Common Stock
+Ticker: BLNE
+CIK: 0001534708
+Latest SEC XBRL Facts:
+Revenues: 5411000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1977000 | unit=USD | filed=2024-11-15 | period_end=2024-09-30
+NetIncomeLoss: -14815000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 63181000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 11440000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 51744000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11437000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1295000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Virginia National Bankshares Corporation Common Stock
+Ticker: VABK
+Market Cap: 210656048
+Enterprise Value: 169788048
+Total Revenue: 57466000
+Revenue Per Share: 10.664
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.53663
+Profit Margins: 0.33516997
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01179
+Return On Equity: 0.111829996
+Total Cash: 70614000
+Total Debt: 29746000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.002817
+Forward PE: 
+Price To Book: 1.143878
+Beta: 0.464
+52 Week High: 44.57
+52 Week Low: 34.12

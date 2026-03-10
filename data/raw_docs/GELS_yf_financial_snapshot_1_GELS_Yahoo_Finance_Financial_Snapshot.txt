@@ -1,0 +1,25 @@
+Company: Gelteq Limited Ordinary Shares
+Ticker: GELS
+Market Cap: 8354626
+Enterprise Value: 12334494
+Total Revenue: 413132
+Revenue Per Share: 0.045
+EBITDA: -3843531
+Gross Margins: 0.72068
+Operating Margins: -29.694319
+Profit Margins: 0.0
+Free Cashflow: -5006946
+Operating Cashflow: -5521617
+Return On Assets: -0.14996
+Return On Equity: -0.42988998
+Total Cash: 344648
+Total Debt: 4217405
+Debt To Equity: 26.685
+Current Ratio: 0.268
+Quick Ratio: 0.143
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7059449
+Beta: 
+52 Week High: 4.11
+52 Week Low: 0.67

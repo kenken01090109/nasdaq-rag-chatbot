@@ -1,0 +1,12 @@
+Company: Inseego Corp. Common Stock
+Ticker: INSG
+CIK: 0001022652
+Latest SEC XBRL Facts:
+Revenues: 189507000 | unit=USD | filed=2021-11-05 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 117789000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 369000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 85813000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 93531000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -7718000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4763000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14559000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

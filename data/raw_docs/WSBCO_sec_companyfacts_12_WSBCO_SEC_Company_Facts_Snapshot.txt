@@ -1,0 +1,10 @@
+Company: WesBanco Inc. Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series B
+Ticker: WSBCO
+CIK: 0000203596
+Latest SEC XBRL Facts:
+NetIncomeLoss: 131995000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 27518042000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 23401515000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 4116527000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 195506000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1008237000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

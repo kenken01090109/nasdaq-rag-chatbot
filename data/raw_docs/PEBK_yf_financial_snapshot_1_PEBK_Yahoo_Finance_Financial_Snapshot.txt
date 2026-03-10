@@ -1,0 +1,25 @@
+Company: Peoples Bancorp of North Carolina Inc. Common Stock
+Ticker: PEBK
+Market Cap: 198880864
+Enterprise Value: 157620256
+Total Revenue: 89059000
+Revenue Per Share: 16.797
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.35571
+Profit Margins: 0.22266
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.011820001
+Return On Equity: 0.13786
+Total Cash: 58105000
+Total Debt: 15464000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.348066
+Forward PE: 
+Price To Book: 1.2657971
+Beta: 0.329
+52 Week High: 40.74
+52 Week Low: 23.74

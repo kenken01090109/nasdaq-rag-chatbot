@@ -1,0 +1,10 @@
+Company: Aligos Therapeutics Inc. Common Stock
+Ticker: ALGS
+Market Cap: 40982856
+Enterprise Value: -50817428
+Trailing PE: 
+Forward PE: -1.0600048
+Price To Book: 0.5704985
+Beta: 2.751
+52 Week High: 13.689
+52 Week Low: 3.76

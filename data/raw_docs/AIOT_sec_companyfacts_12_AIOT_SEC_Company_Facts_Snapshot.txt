@@ -1,0 +1,11 @@
+Company: PowerFleet Inc. Common Stock
+Ticker: AIOT
+CIK: 0001774170
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 329287000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -17886000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 959459000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 474280000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 485029000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 20451000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 31215000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

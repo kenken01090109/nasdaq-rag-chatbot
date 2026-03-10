@@ -1,0 +1,11 @@
+Company: Liquidity Services Inc. Common Stock
+Ticker: LQDT
+CIK: 0001235468
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 121219000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 7489000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 369144000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 153879000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 215265000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -526000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 88286000 | unit=USD | filed=2022-08-04 | period_end=2022-06-30

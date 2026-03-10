@@ -1,0 +1,25 @@
+Company: Analog Devices Inc. Common Stock
+Ticker: ADI
+Market Cap: 154179747840
+Enterprise Value: 165622906880
+Total Revenue: 11756795904
+Revenue Per Share: 23.868
+EBITDA: 5459077120
+Gross Margins: 0.62842
+Operating Margins: 0.33067
+Profit Margins: 0.23024
+Free Cashflow: 4139530752
+Operating Cashflow: 5053907968
+Return On Assets: 0.0454
+Return On Equity: 0.07862
+Total Cash: 4048847104
+Total Debt: 8701080576
+Debt To Equity: 25.753
+Current Ratio: 1.756
+Quick Ratio: 1.249
+Trailing PE: 57.73492
+Forward PE: 24.48897
+Price To Book: 4.5632668
+Beta: 1.021
+52 Week High: 363.2
+52 Week Low: 158.65

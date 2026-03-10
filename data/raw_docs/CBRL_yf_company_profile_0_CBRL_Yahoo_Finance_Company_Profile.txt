@@ -1,0 +1,9 @@
+Company: Cracker Barrel Old Country Store Inc Common Stock
+Ticker: CBRL
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Lebanon
+Website: https://www.crackerbarrel.com
+Employees: 76730
+Business Summary: Cracker Barrel Old Country Store, Inc. develops and operates the Cracker Barrel Old Country Store concept in the United States. Its Cracker Barrel stores consist of restaurants with a gift shop. The company's restaurants serve breakfast, lunch, and dinner, as well as dine-in, pick-up, and delivery services. Its gift shops offer various decorative and functional items, such as rocking chairs, seasonal gifts, apparel, toys, food, cookware, and various other gift items, as well as various candies, preserves, and other food items. Cracker Barrel Old Country Store, Inc. was incorporated in 1969 and is headquartered in Lebanon, Tennessee.

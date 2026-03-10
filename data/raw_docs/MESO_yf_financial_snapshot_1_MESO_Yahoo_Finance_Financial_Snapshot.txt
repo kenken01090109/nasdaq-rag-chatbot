@@ -1,0 +1,25 @@
+Company: Mesoblast Limited American Depositary Shares
+Ticker: MESO
+Market Cap: 2103086592
+Enterprise Value: 20209082368
+Total Revenue: 65384000
+Revenue Per Share: 0.51
+EBITDA: -64339000
+Gross Margins: -0.35535
+Operating Margins: -0.55158
+Profit Margins: -1.44332
+Free Cashflow: -69438336
+Operating Cashflow: -59643000
+Return On Assets: -0.06163
+Return On Equity: -0.18219
+Total Cash: 129975000
+Total Debt: 135144000
+Debt To Equity: 23.516
+Current Ratio: 1.581
+Quick Ratio: 1.353
+Trailing PE: 
+Forward PE: -79.25
+Price To Book: 35.538116
+Beta: 0.85
+52 Week High: 21.5
+52 Week Low: 9.61

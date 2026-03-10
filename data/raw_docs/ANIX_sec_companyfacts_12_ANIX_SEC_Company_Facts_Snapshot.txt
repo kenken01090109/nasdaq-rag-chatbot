@@ -1,0 +1,12 @@
+Company: Anixa Biosciences Inc. Common Stock
+Ticker: ANIX
+CIK: 0000715446
+Latest SEC XBRL Facts:
+Revenues: 210000 | unit=USD | filed=2024-06-04 | period_end=2024-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 210000 | unit=USD | filed=2024-09-06 | period_end=2023-07-31
+NetIncomeLoss: -8232000 | unit=USD | filed=2025-09-10 | period_end=2025-07-31
+Assets: 17651000 | unit=USD | filed=2025-09-10 | period_end=2025-07-31
+Liabilities: 2240000 | unit=USD | filed=2025-09-10 | period_end=2025-07-31
+StockholdersEquity: 16595000 | unit=USD | filed=2025-09-10 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: -5918000 | unit=USD | filed=2025-09-10 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 1495000 | unit=USD | filed=2025-09-10 | period_end=2025-07-31

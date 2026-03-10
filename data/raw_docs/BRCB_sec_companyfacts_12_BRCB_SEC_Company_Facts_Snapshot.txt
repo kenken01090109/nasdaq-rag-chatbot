@@ -1,0 +1,11 @@
+Company: Black Rock Coffee Bar Inc. Class A Common Stock
+Ticker: BRCB
+CIK: 0002068577
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 146682000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -712000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 323196000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 222838000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 43045000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2914000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32646000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

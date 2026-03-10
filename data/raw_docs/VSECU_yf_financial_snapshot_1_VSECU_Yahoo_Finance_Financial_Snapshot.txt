@@ -1,0 +1,25 @@
+Company: VSE Corporation Tangible Equity Units
+Ticker: VSECU
+Market Cap: 
+Enterprise Value: 1821901824
+Total Revenue: 1112274944
+Revenue Per Share: 52.618
+EBITDA: 164919008
+Gross Margins: 0.14217
+Operating Margins: 0.12116
+Profit Margins: 0.01052
+Free Cashflow: 169515376
+Operating Cashflow: 26990000
+Return On Assets: 0.04143
+Return On Equity: 0.04408
+Total Cash: 69358000
+Total Debt: 343356000
+Debt To Equity: 23.864
+Current Ratio: 3.761
+Quick Ratio: 1.27
+Trailing PE: 18.139534
+Forward PE: 
+Price To Book: 0.8879059
+Beta: 1.354
+52 Week High: 58.93
+52 Week Low: 50.45

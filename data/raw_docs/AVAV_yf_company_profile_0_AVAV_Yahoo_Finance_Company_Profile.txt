@@ -1,0 +1,9 @@
+Company: AeroVironment Inc. Common Stock
+Ticker: AVAV
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Arlington
+Website: https://www.avinc.com
+Employees: 1456
+Business Summary: AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfolio of robotic systems and related services for government agencies and businesses in the United States and internationally. It operates in two segments, Autonomous Systems; and Space, Cyber and Directed Energy. The company provides uncrewed aircraft systems (UAS), which include small and medium UAS, and kinesis command and control software; and counter-UAS and precision strike, a loitering munitions solution that deliver actionable intelligence and precision firepower modern warfighters, including precision strike, radio frequency and kinetic C-UAS, and electronic warfare systems. It also offers autonomy, AI, and platform technologies; unmanned maritime; uncrewed ground systems; and high-altitude pseudo-satellites. The company provides digital beamforming technology, a multi-band/beam software defined antenna tile that allows simultaneous communication with multiple satellites; laser communications, a data transmission systems for space operations; space-qualified hardware for line of sight stabilization and control electronics in low, medium, and geostationary earth orbit, as well as cislunar orbits; phased array antenna technology to supports hypersonic telemetry and tracking, and other missile testing; and directed energy solution. It also offers cyber solution for national security and defense operations; and HaloCortex OSINT, an AI-powered OSINT analysis platform to provide insights and solve department of defense and commercial challenges. AeroVironment, Inc. was incorporated in 1971 and is headquartered in Arlington, Virginia.

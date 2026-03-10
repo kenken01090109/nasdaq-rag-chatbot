@@ -1,0 +1,25 @@
+Company: Astrotech Corporation (DE) Common Stock
+Ticker: ASTC
+Market Cap: 4239079
+Enterprise Value: -3606219
+Total Revenue: 1199000
+Revenue Per Share: 0.711
+EBITDA: -13274000
+Gross Margins: 0.42285
+Operating Margins: -26.35811
+Profit Margins: 0.0
+Free Cashflow: -9568750
+Operating Cashflow: -13701000
+Return On Assets: -0.35066003
+Return On Equity: -0.63996
+Total Cash: 10132000
+Total Debt: 2452000
+Debt To Equity: 15.801
+Current Ratio: 7.56
+Quick Ratio: 5.408
+Trailing PE: 
+Forward PE: -3.5441177
+Price To Book: 0.26037169
+Beta: 0.371
+52 Week High: 8.01
+52 Week Low: 2.41

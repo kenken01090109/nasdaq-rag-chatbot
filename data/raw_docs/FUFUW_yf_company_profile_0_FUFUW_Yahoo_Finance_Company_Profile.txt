@@ -1,0 +1,9 @@
+Company: BitFuFu Inc. Warrant
+Ticker: FUFUW
+Sector: 
+Industry: 
+Country: Singapore
+City: Singapore
+Website: https://www.bitfufu.com
+Employees: 34
+Business Summary: BitFuFu Inc., together with its subsidiaries, provides digital asset mining solutions in North America, Asia, Europe, and internationally. The company offers cloud-mining services and miner hosting services to institutional customers and individual digital asset enthusiasts. It also provides Bitcoin self-mining, sourcing services for mining machine transactions, and mining machine hosting services. In addition, the company leases and sells mining equipment. BitFuFu Inc. is headquartered in Singapore.

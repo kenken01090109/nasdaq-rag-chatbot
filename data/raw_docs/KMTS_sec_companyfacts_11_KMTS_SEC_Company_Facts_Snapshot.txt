@@ -1,0 +1,10 @@
+Company: Kestra Medical Technologies Ltd. Common Stock
+Ticker: KMTS
+CIK: 0001877184
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 41937000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetIncomeLoss: -58611000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Assets: 246701000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Liabilities: 82620000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -44617000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 175424000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31

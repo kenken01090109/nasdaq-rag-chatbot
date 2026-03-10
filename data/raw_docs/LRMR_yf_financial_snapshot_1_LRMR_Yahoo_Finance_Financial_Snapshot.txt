@@ -1,0 +1,25 @@
+Company: Larimar Therapeutics Inc. Common Stock
+Ticker: LRMR
+Market Cap: 446781824
+Enterprise Value: 275693856
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -139432000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -48963500
+Operating Cashflow: -96489000
+Return On Assets: -0.42994
+Return On Equity: -0.78236
+Total Cash: 175435008
+Total Debt: 4347000
+Debt To Equity: 3.126
+Current Ratio: 4.061
+Quick Ratio: 3.911
+Trailing PE: 
+Forward PE: -2.8392093
+Price To Book: 3.2142856
+Beta: 0.965
+52 Week High: 6.42
+52 Week Low: 1.61

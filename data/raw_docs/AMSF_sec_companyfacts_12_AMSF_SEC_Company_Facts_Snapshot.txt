@@ -1,0 +1,11 @@
+Company: AMERISAFE Inc. Common Stock
+Ticker: AMSF
+CIK: 0001018979
+Latest SEC XBRL Facts:
+Revenues: 235661000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 36722000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1164944000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 890171000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 274773000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 447000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 54747000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

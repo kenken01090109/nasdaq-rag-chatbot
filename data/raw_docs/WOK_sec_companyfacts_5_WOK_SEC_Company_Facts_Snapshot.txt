@@ -1,0 +1,10 @@
+Company: WORK Medical Technology Group LTD Class A Ordinary Shares
+Ticker: WOK
+CIK: 0001929783
+Latest SEC XBRL Facts:
+NetIncomeLoss: 13156 | unit=USD | filed=2025-12-02 | period_end=2025-03-31
+Assets: 34713064 | unit=USD | filed=2025-12-02 | period_end=2025-03-31
+Liabilities: 18996098 | unit=USD | filed=2025-12-02 | period_end=2025-03-31
+StockholdersEquity: 12947563 | unit=USD | filed=2025-12-02 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -2797030 | unit=USD | filed=2025-12-02 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 1995767 | unit=USD | filed=2025-12-02 | period_end=2025-03-31

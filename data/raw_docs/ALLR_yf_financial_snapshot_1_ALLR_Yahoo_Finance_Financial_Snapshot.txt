@@ -1,0 +1,25 @@
+Company: Allarity Therapeutics Inc. Common Stock
+Ticker: ALLR
+Market Cap: 19940416
+Enterprise Value: 4101738
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -16967000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -10486125
+Operating Cashflow: -14783000
+Return On Assets: -0.51622003
+Return On Equity: -1.22611
+Total Cash: 16895000
+Total Debt: 1390000
+Debt To Equity: 11.573
+Current Ratio: 2.33
+Quick Ratio: 2.112
+Trailing PE: 0.13611417
+Forward PE: -1.2783505
+Price To Book: 1.6644295
+Beta: 0.201
+52 Week High: 2.35
+52 Week Low: 0.614

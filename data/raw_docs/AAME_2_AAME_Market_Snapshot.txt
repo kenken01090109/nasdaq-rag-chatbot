@@ -1,0 +1,10 @@
+Company: Atlantic American Corporation Common Stock
+Ticker: AAME
+Market Cap: 53746696
+Enterprise Value: 62021696
+Trailing PE: 11.456521
+Forward PE: 
+Price To Book: 0.49114633
+Beta: 0.761
+52 Week High: 3.71
+52 Week Low: 1.25

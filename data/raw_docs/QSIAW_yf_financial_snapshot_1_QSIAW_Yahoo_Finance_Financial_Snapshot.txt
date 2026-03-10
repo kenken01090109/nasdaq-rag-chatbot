@@ -1,0 +1,25 @@
+Company: Quantum-Si Incorporated Warrant
+Ticker: QSIAW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 2436000
+Revenue Per Share: 0.012
+EBITDA: -92594000
+Gross Margins: 0.47332
+Operating Margins: -46.77162
+Profit Margins: 0.0
+Free Cashflow: -45797000
+Operating Cashflow: -94717000
+Return On Assets: -0.24583
+Return On Equity: -0.46523997
+Total Cash: 162910000
+Total Debt: 4166000
+Debt To Equity: 1.892
+Current Ratio: 7.638
+Quick Ratio: 7.332
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15776032
+Beta: 3.085
+52 Week High: 0.1899
+52 Week Low: 0.12

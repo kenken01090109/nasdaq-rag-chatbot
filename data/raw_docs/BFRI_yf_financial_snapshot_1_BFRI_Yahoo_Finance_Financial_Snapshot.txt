@@ -1,0 +1,25 @@
+Company: Biofrontera Inc. Common Stock
+Ticker: BFRI
+Market Cap: 10005910
+Enterprise Value: 11483909
+Total Revenue: 37164000
+Revenue Per Share: 4.063
+EBITDA: -17509000
+Gross Margins: 0.64408994
+Operating Margins: -0.89839995
+Profit Margins: -0.47282
+Free Cashflow: -4514125
+Operating Cashflow: -12002000
+Return On Assets: -0.64906996
+Return On Equity: -11.917259
+Total Cash: 3427000
+Total Debt: 4905000
+Debt To Equity: 
+Current Ratio: 1.148
+Quick Ratio: 0.512
+Trailing PE: 
+Forward PE: -3.7347827
+Price To Book: -3.8693695
+Beta: 0.628
+52 Week High: 1.19
+52 Week Low: 0.536

@@ -1,0 +1,9 @@
+Company: Gelteq Limited Ordinary Shares
+Ticker: GELS
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Australia
+City: Clayton
+Website: https://www.gelteq.com
+Employees: 7
+Business Summary: Gelteq Limited focuses on developing and commercializing white label gel-based delivery solutions for humans and animals in the United States of America and Australia. It offers edible gels for prescription drugs, nutraceuticals, pet care, and other products, as well as for sports and over-the-counter products. Gelteq Limited was incorporated in 2017 and is headquartered in Clayton, Australia.

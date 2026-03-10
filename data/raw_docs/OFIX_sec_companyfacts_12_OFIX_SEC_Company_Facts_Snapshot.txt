@@ -1,0 +1,11 @@
+Company: Orthofix Medical Inc. Common Stock (DE)
+Ticker: OFIX
+CIK: 0000884624
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 602401000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -89970000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 832610000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 390124000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 442486000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5650000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 62860000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

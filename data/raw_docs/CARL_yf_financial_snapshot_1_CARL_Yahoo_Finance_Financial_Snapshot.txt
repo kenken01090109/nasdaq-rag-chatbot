@@ -1,0 +1,25 @@
+Company: Carlsmed Inc. Common Stock
+Ticker: CARL
+Market Cap: 320783904
+Enterprise Value: 228404896
+Total Revenue: 50511000
+Revenue Per Share: 3.552
+EBITDA: -30293000
+Gross Margins: 0.7531
+Operating Margins: -0.61444
+Profit Margins: -0.58668
+Free Cashflow: -21646500
+Operating Cashflow: -28977000
+Return On Assets: -0.21004999
+Return On Equity: -0.47618
+Total Cash: 109793000
+Total Debt: 17414000
+Debt To Equity: 17.613
+Current Ratio: 8.871
+Quick Ratio: 8.484
+Trailing PE: 
+Forward PE: -8.080808
+Price To Book: 3.2292788
+Beta: 
+52 Week High: 17.19
+52 Week Low: 10.65

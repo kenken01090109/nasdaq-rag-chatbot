@@ -1,0 +1,10 @@
+Company: Heritage Financial Corporation Common Stock
+Ticker: HFWA
+CIK: 0001046025
+Latest SEC XBRL Facts:
+NetIncomeLoss: 45295000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 7011879000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 6107815000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 904064000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 66834000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 245491000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

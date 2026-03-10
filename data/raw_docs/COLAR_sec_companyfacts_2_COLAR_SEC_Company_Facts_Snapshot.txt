@@ -1,0 +1,9 @@
+Company: Columbus Acquisition Corp Rights
+Ticker: COLAR
+CIK: 0002028201
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1110246 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 62342246 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 106250 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 587802 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -428377 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

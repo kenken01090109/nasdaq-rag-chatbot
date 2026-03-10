@@ -1,0 +1,9 @@
+Company: LaFayette Acquisition Corp. Ordinary Share
+Ticker: LAFA
+CIK: 0002079106
+Latest SEC XBRL Facts:
+NetIncomeLoss: -53897 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+Assets: 283332 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+Liabilities: 340233 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+StockholdersEquity: -56901 | unit=USD | filed=2025-12-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -41217 | unit=USD | filed=2025-12-04 | period_end=2025-09-30

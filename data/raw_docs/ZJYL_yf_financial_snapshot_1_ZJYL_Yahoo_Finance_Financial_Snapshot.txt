@@ -1,0 +1,25 @@
+Company: JIN MEDICAL INTERNATIONAL LTD. Ordinary Shares
+Ticker: ZJYL
+Market Cap: 22777604
+Enterprise Value: 11881641
+Total Revenue: 20687274
+Revenue Per Share: 0.132
+EBITDA: 851585
+Gross Margins: 0.30177
+Operating Margins: 0.09832
+Profit Margins: 0.057589997
+Free Cashflow: -5111959
+Operating Cashflow: 2903584
+Return On Assets: 0.00767
+Return On Equity: 0.04753
+Total Cash: 29630236
+Total Debt: 18910112
+Debt To Equity: 63.945
+Current Ratio: 1.855
+Quick Ratio: 1.531
+Trailing PE: 14.550001
+Forward PE: 
+Price To Book: 0.7698413
+Beta: 9.471
+52 Week High: 1.025
+52 Week Low: 0.11

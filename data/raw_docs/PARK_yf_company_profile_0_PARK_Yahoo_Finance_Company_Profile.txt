@@ -1,0 +1,9 @@
+Company: Park Dental Partners Inc. Common Stock
+Ticker: PARK
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: United States
+City: Roseville
+Website: https://www.parkdentalpartners.com
+Employees: 
+Business Summary: Park Dental Partners, Inc. operates as a dental resource organization that offers business support services to dentists throughout Minnesota and Wisconsin. The company provides various services, including clinical team members, administrative personnel, facilities and equipment to affiliated general and multi-specialty dental practitioners. It also offers general and specialty dental services, such as oral surgery, periodontics, pediatric dentistry, prosthodontics, endodontics, and orthodontics. Park Dental Partners, Inc. was founded in 1972 and is headquartered in Roseville, Minnesota.

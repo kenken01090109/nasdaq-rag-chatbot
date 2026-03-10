@@ -1,0 +1,25 @@
+Company: Willdan Group Inc. Common Stock
+Ticker: WLDN
+Market Cap: 1227781248
+Enterprise Value: 1231143168
+Total Revenue: 681552000
+Revenue Per Share: 47.13
+EBITDA: 62833000
+Gross Margins: 0.37515
+Operating Margins: 0.05834
+Profit Margins: 0.07711
+Free Cashflow: 53492376
+Operating Cashflow: 80084000
+Return On Assets: 0.05469
+Return On Equity: 0.19495001
+Total Cash: 65919000
+Total Debt: 69281000
+Debt To Equity: 22.726
+Current Ratio: 1.556
+Quick Ratio: 1.509
+Trailing PE: 23.573864
+Forward PE: 17.004099
+Price To Book: 4.0182076
+Beta: 1.07
+52 Week High: 137.0
+52 Week Low: 36.43

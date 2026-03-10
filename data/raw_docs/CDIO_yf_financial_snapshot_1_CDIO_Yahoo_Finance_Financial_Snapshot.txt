@@ -1,0 +1,25 @@
+Company: Cardio Diagnostics Holdings Inc. Common stock
+Ticker: CDIO
+Market Cap: 9678076
+Enterprise Value: 3809449
+Total Revenue: 15782
+Revenue Per Share: 0.01
+EBITDA: -6148835
+Gross Margins: 1.0
+Operating Margins: -599.5086
+Profit Margins: 0.0
+Free Cashflow: -3845879
+Operating Cashflow: -5757279
+Return On Assets: -0.61578
+Return On Equity: -1.10698
+Total Cash: 6355218
+Total Debt: 486597
+Debt To Equity: 5.969
+Current Ratio: 17.386
+Quick Ratio: 15.978
+Trailing PE: 
+Forward PE: -21.2
+Price To Book: 1.1486781
+Beta: 2.233
+52 Week High: 17.4
+52 Week Low: 0.97

@@ -1,0 +1,25 @@
+Company: NewAmsterdam Pharma Company N.V. Ordinary Shares
+Ticker: NAMS
+Market Cap: 3433166336
+Enterprise Value: 2829320192
+Total Revenue: 22503000
+Revenue Per Share: 0.19
+EBITDA: -225463008
+Gross Margins: 1.0
+Operating Margins: -2061.875
+Profit Margins: 0.0
+Free Cashflow: -112909872
+Operating Cashflow: -147783008
+Return On Assets: -0.17266001
+Return On Equity: -0.2829
+Total Cash: 636241024
+Total Debt: 202000
+Debt To Equity: 0.03
+Current Ratio: 7.876
+Quick Ratio: 7.686
+Trailing PE: 
+Forward PE: -22.623903
+Price To Book: 4.9983263
+Beta: 0.066
+52 Week High: 42.0
+52 Week Low: 14.06

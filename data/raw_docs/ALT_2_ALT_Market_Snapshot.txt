@@ -1,0 +1,10 @@
+Company: Altimmune Inc. Common Stock
+Ticker: ALT
+Market Cap: 438936480
+Enterprise Value: 250294320
+Trailing PE: 
+Forward PE: -2.9703393
+Price To Book: 1.8057703
+Beta: 0.17
+52 Week High: 7.73
+52 Week Low: 2.9

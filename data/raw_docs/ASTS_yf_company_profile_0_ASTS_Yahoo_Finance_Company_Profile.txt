@@ -1,0 +1,9 @@
+Company: AST SpaceMobile Inc. Class A Common Stock
+Ticker: ASTS
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: Midland
+Website: https://ast-science.com
+Employees: 1126
+Business Summary: AST SpaceMobile, Inc., together with its subsidiaries, designs and develops the constellation of BlueBird satellites in the United States. The company provides a cellular broadband network in space to be accessible directly by smartphones for commercial use and other applications, as well as for government use. Its SpaceMobile service provides cellular broadband services to end-users who are out of terrestrial cellular coverage. The company was founded in 2017 and is headquartered in Midland, Texas.

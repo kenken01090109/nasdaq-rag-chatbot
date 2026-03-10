@@ -1,0 +1,11 @@
+Company: Rocky Brands Inc. Common Stock
+Ticker: RCKY
+CIK: 0000895456
+Latest SEC XBRL Facts:
+Revenues: 189691000 | unit=USD | filed=2020-11-05 | period_end=2020-09-30
+NetIncomeLoss: 15762000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 494014000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 247917000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 246097000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1286000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3319000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

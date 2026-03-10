@@ -1,0 +1,25 @@
+Company: Axcelis Technologies Inc. Common Stock
+Ticker: ACLS
+Market Cap: 2526315264
+Enterprise Value: 2336601344
+Total Revenue: 839048000
+Revenue Per Share: 26.574
+EBITDA: 129228000
+Gross Margins: 0.44914
+Operating Margins: 0.15177
+Profit Margins: 0.1433
+Free Cashflow: 71145376
+Operating Cashflow: 118305000
+Return On Assets: 0.05503
+Return On Equity: 0.11745
+Total Cash: 374252992
+Total Debt: 71801000
+Debt To Equity: 6.939
+Current Ratio: 4.772
+Quick Ratio: 2.746
+Trailing PE: 21.642105
+Forward PE: 18.22695
+Price To Book: 2.4415154
+Beta: 1.761
+52 Week High: 102.93
+52 Week Low: 40.4

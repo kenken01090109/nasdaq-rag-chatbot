@@ -1,0 +1,12 @@
+Company: Aimei Health Technology Co. Ltd Unit
+Ticker: AFJKU
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: 
+Profit Margins: 0.0
+Free Cashflow: 269617
+Operating Cashflow: -716999
+Return On Assets: -0.01044
+Return On Equity: 

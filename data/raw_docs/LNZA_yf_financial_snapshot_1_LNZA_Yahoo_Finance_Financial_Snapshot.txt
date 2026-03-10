@@ -1,0 +1,25 @@
+Company: LanzaTech Global Inc. Common Stock
+Ticker: LNZA
+Market Cap: 94564528
+Enterprise Value: 46049096
+Total Revenue: 39876000
+Revenue Per Share: 18.88
+EBITDA: -101808000
+Gross Margins: 0.34229
+Operating Margins: -1.6873599
+Profit Margins: -1.9024
+Free Cashflow: -58837876
+Operating Cashflow: -78368000
+Return On Assets: -0.41985
+Return On Equity: -6.96091
+Total Cash: 19627000
+Total Debt: 30001000
+Debt To Equity: 366.268
+Current Ratio: 2.039
+Quick Ratio: 1.517
+Trailing PE: 
+Forward PE: -27.588236
+Price To Book: -4.370923
+Beta: 1.821
+52 Week High: 73.1
+52 Week Low: 7.88

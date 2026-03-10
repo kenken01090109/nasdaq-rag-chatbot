@@ -1,0 +1,25 @@
+Company: Golar Lng Ltd
+Ticker: GLNG
+Market Cap: 4820427264
+Enterprise Value: 6566825984
+Total Revenue: 393521984
+Revenue Per Share: 3.843
+EBITDA: 148976992
+Gross Margins: 0.54482
+Operating Margins: 0.36091998
+Profit Margins: 0.16689
+Free Cashflow: -901013888
+Operating Cashflow: 470928992
+Return On Assets: 0.01286
+Return On Equity: 0.05074
+Total Cash: 1151220992
+Total Debt: 2758023936
+Debt To Equity: 133.396
+Current Ratio: 2.545
+Quick Ratio: 2.443
+Trailing PE: 72.43078
+Forward PE: 58.666668
+Price To Book: 2.6155558
+Beta: 0.205
+52 Week High: 47.48
+52 Week Low: 29.56

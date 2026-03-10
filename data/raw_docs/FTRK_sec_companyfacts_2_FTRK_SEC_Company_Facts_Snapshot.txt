@@ -1,0 +1,11 @@
+Company: FAST TRACK GROUP Ordinary shares
+Ticker: FTRK
+CIK: 0002027262
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 937354 | unit=USD | filed=2026-01-13 | period_end=2025-08-31
+NetIncomeLoss: -1509695 | unit=USD | filed=2026-01-13 | period_end=2025-08-31
+Assets: 14246840 | unit=USD | filed=2026-01-13 | period_end=2025-08-31
+Liabilities: 2080931 | unit=USD | filed=2026-01-13 | period_end=2025-08-31
+StockholdersEquity: 12165909 | unit=USD | filed=2026-01-13 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -8507141 | unit=USD | filed=2026-01-13 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 6503868 | unit=USD | filed=2026-01-13 | period_end=2025-08-31

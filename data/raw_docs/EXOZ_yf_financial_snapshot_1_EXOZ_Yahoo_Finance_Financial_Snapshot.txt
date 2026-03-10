@@ -1,0 +1,25 @@
+Company: eXoZymes Inc. Common Stock
+Ticker: EXOZ
+Market Cap: 61431096
+Enterprise Value: 59335492
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -8722368
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3585291
+Operating Cashflow: -10235767
+Return On Assets: -0.99787
+Return On Equity: -9.406859
+Total Cash: 5098687
+Total Debt: 1320124
+Debt To Equity: 24.563
+Current Ratio: 4.527
+Quick Ratio: 4.362
+Trailing PE: 
+Forward PE: 
+Price To Book: 11.408737
+Beta: 
+52 Week High: 18.4
+52 Week Low: 7.08

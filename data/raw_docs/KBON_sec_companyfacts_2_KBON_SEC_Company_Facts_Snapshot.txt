@@ -1,0 +1,8 @@
+Company: Karbon Capital Partners Corp. Class A Ordinary Shares
+Ticker: KBON
+CIK: 0002088749
+Latest SEC XBRL Facts:
+NetIncomeLoss: -56679 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+Assets: 676031 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+StockholdersEquity: -31679 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 0 | unit=USD | filed=2026-01-23 | period_end=2025-09-30

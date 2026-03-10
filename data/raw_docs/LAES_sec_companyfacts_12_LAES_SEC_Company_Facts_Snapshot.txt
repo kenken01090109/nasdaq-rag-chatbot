@@ -1,0 +1,11 @@
+Company: SEALSQ Corp Ordinary Shares
+Ticker: LAES
+CIK: 0001951222
+Latest SEC XBRL Facts:
+Revenues: 4828000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30
+NetIncomeLoss: -10758000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30
+Assets: 32234000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30
+Liabilities: 27010000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30
+StockholdersEquity: 5224000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -4789000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 18858000 | unit=USD | filed=2024-09-25 | period_end=2024-06-30

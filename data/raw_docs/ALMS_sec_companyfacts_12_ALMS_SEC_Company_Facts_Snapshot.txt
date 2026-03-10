@@ -1,0 +1,11 @@
+Company: Alumis Inc. Common Stock
+Ticker: ALMS
+CIK: 0001847367
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 22121000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -150394000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 488014000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 103241000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 384773000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -297616000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65257000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

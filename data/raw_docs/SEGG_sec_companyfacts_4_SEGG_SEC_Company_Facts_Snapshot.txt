@@ -1,0 +1,12 @@
+Company: Sports Entertainment Gaming Global Corporation Common Stock
+Ticker: SEGG
+CIK: 0001673481
+Latest SEC XBRL Facts:
+Revenues: 6227340 | unit=USD | filed=2023-05-24 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 553290 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetIncomeLoss: -11731597 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Assets: 73432770 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Liabilities: 29948313 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+StockholdersEquity: 32886041 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6391548 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 320636 | unit=USD | filed=2025-11-20 | period_end=2025-09-30

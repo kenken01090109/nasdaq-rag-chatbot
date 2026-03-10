@@ -1,0 +1,12 @@
+Company: Medicinova Inc Common Stock
+Ticker: MNOV
+CIK: 0001226616
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2015-05-11 | period_end=2015-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 257918 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -9195678 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 47578388 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 3613632 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 43964756 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7793264 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32562612 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Comstock Holding Companies Inc. Class A Common Stock
+Ticker: CHCI
+Sector: Real Estate
+Industry: Real Estate Services
+Country: United States
+City: Reston
+Website: https://comstock.com
+Employees: 206
+Business Summary: Comstock Holding Companies, Inc. operates as a asset manager, developer, and operator of mixed-use and transit-oriented properties in the Washington, D.C. region. The company acquires, develops, operates, and sells residential, commercial, and mixed-use properties. It provides various asset and property management, development and construction management, and other real estate services to its asset-owning clients, which include primarily of institutional real estate investors, high net worth family offices, and governmental bodies. The company also provides leasing and marketing, acquisition and disposition, asset recapitalization, planning and entitlements, strategic investment consultation and execution, and various other property-specific services. The company was formerly known as Comstock Homebuilding Companies, Inc. and changed its name to Comstock Holding Companies, Inc. in June 2012. Comstock Holding Companies, Inc. was founded in 1985 and is headquartered in Reston, Virginia.

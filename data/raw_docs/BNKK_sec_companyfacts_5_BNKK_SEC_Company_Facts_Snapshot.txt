@@ -1,0 +1,11 @@
+Company: Bonk Inc. Common Stock
+Ticker: BNKK
+CIK: 0001760903
+Latest SEC XBRL Facts:
+Revenues: 1601865 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -25533204 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 81041676 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 5522457 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 75519219 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6282025 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 26853307 | unit=USD | filed=2021-11-12 | period_end=2021-09-30

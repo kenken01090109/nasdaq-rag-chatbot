@@ -1,0 +1,25 @@
+Company: CCSC Technology International Holdings Limited Class A Ordinary Shares
+Ticker: CCTG
+Market Cap: 1809209
+Enterprise Value: -599118
+Total Revenue: 16878618
+Revenue Per Share: 14.574
+EBITDA: -1913956
+Gross Margins: 0.27917
+Operating Margins: -0.113350004
+Profit Margins: -0.096999995
+Free Cashflow: 212619
+Operating Cashflow: -306780
+Return On Assets: -0.081140004
+Return On Equity: -0.14998999
+Total Cash: 2814898
+Total Debt: 1136407
+Debt To Equity: 11.384
+Current Ratio: 1.839
+Quick Ratio: 1.305
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.053631093
+Beta: -0.583
+52 Week High: 26.1
+52 Week Low: 0.4603

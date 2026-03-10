@@ -1,0 +1,10 @@
+Company: Enact Holdings Inc. Common Stock
+Ticker: ACT
+Market Cap: 5979428864
+Enterprise Value: 6029906944
+Trailing PE: 9.161505
+Forward PE: 8.119082
+Price To Book: 1.0996627
+Beta: 0.506
+52 Week High: 44.8
+52 Week Low: 31.28

@@ -1,0 +1,9 @@
+Company: Lightbridge Corporation Common Stock
+Ticker: LTBR
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: United States
+City: Reston
+Website: https://www.ltbridge.com
+Employees: 13
+Business Summary: Lightbridge Corporation, together with its subsidiaries, engages in research, developing, and commercializing nuclear fuel. It develops nuclear fuel for water-cooled reactors; and metallic fuels under the Lightbridge Fuel. The company is headquartered in Reston, Virginia.

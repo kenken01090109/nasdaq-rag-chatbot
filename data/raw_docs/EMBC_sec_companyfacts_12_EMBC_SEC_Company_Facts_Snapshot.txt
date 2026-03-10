@@ -1,0 +1,11 @@
+Company: Embecta Corp. Common Stock
+Ticker: EMBC
+CIK: 0001872789
+Latest SEC XBRL Facts:
+Revenues: 289300000 | unit=USD | filed=2022-03-16 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 261200000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 44100000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 1063700000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: -613100000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 17200000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 201300000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

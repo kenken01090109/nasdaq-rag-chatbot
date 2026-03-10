@@ -1,0 +1,9 @@
+Company: SKK Holdings Limited Class A Ordinary Shares
+Ticker: SKK
+Sector: Industrials
+Industry: Engineering & Construction
+Country: Singapore
+City: Singapore
+Website: https://skkworks.com.sg
+Employees: 169
+Business Summary: SKK Holdings Limited, through its subsidiaries, provides civil engineering services in Singapore. The company undertakes subsurface utility works, such as power and telecommunication cable laying works, water pipeline works, and sewer rehabilitation works. It also offers gas pipeline and sewer construction works; and underground piping, underground utility infrastructure construction and maintenance, horizontal directional drilling, and plumbing and sanitary works. The company serves government authorities, utility companies, or contractors. The company was founded in 2013 and is headquartered in Singapore.

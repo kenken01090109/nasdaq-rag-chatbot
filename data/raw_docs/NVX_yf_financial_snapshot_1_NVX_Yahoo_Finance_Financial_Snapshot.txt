@@ -1,0 +1,25 @@
+Company: NOVONIX Limited American Depository Shares
+Ticker: NVX
+Market Cap: 193018832
+Enterprise Value: 747134656
+Total Revenue: 5617119
+Revenue Per Share: 0.032
+EBITDA: -48316460
+Gross Margins: 0.55486
+Operating Margins: -9.20613
+Profit Margins: 0.0
+Free Cashflow: -84516512
+Operating Cashflow: -42199800
+Return On Assets: -0.12823
+Return On Equity: -0.61969
+Total Cash: 79866000
+Total Debt: 100336816
+Debt To Equity: 62.062
+Current Ratio: 1.067
+Quick Ratio: 0.981
+Trailing PE: 
+Forward PE: -3.59
+Price To Book: 4.300521
+Beta: 0.857
+52 Week High: 3.86
+52 Week Low: 0.81

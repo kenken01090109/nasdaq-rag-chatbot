@@ -1,0 +1,25 @@
+Company: ADS-TEC ENERGY PLC Warrant
+Ticker: ADSEW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 45364000
+Revenue Per Share: 0.853
+EBITDA: -28201000
+Gross Margins: -0.0641
+Operating Margins: -2.05392
+Profit Margins: -1.4894
+Free Cashflow: -29704124
+Operating Cashflow: -42244000
+Return On Assets: -0.15991999
+Return On Equity: 
+Total Cash: 37869000
+Total Debt: 36871000
+Debt To Equity: 
+Current Ratio: 1.894
+Quick Ratio: 0.886
+Trailing PE: 
+Forward PE: 
+Price To Book: -2.4848971
+Beta: 0.354
+52 Week High: 0.8
+52 Week Low: 0.7599

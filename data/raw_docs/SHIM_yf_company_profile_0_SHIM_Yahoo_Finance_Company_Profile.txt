@@ -1,0 +1,9 @@
+Company: Shimmick Corporation Common Stock
+Ticker: SHIM
+Sector: Industrials
+Industry: Engineering & Construction
+Country: United States
+City: Irvine
+Website: https://shimmick.com
+Employees: 1200
+Business Summary: Shimmick Corporation provides turnkey infrastructure solutions to the water, energy, climate, and transportation markets in the United States. The company expands, rehabilitates, upgrades, builds and rebuilds water and wastewater treatment infrastructure, including desalination plants; constructs, rehabilitates, and upgrades dams, reservoirs, and water conveyance, and storage systems, as well as flood control systems, pump stations, and coastal protection infrastructure; and builds, retrofits, expands, rehabilitates, operates and maintains critical infrastructure, including mass transit, bridges, and military infrastructure. It serves the public sector; a range of military and civilian federal agencies; municipal water and wastewater, irrigation, and flood control districts; local and regional transit authorities; statewide, county, and city public works departments; private clients, such as developers, utilities, and owners of industrial, commercial and residential sites; and prime contractors and subcontractors on projects. The company was formerly known as SCCI National Holdings, Inc. and changed its name to Shimmick Corporation in September 2023. Shimmick Corporation was founded in 1990 and is headquartered in Irvine, California.

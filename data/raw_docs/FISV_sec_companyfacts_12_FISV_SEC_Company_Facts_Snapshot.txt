@@ -1,0 +1,12 @@
+Company: Fiserv Inc. Common Stock
+Ticker: FISV
+CIK: 0000798354
+Latest SEC XBRL Facts:
+Revenues: 15909000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 13106000000 | unit=USD | filed=2022-10-28 | period_end=2022-09-30
+NetIncomeLoss: 2669000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 79370000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 54226000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 25121000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4118000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1068000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

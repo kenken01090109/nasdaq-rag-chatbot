@@ -1,0 +1,11 @@
+Company: Kezar Life Sciences Inc. Common Stock
+Ticker: KZR
+CIK: 0001645666
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetIncomeLoss: -41487000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 97726000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 14750000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 82976000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -39815000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38935000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

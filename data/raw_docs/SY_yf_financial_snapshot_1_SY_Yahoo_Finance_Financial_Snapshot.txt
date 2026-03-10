@@ -1,0 +1,25 @@
+Company: So-Young International Inc. American Depository Shares
+Ticker: SY
+Market Cap: 303895584
+Enterprise Value: -255186064
+Total Revenue: 1431899008
+Revenue Per Share: 14.087
+EBITDA: -176503008
+Gross Margins: 0.51615
+Operating Margins: -0.18805
+Profit Margins: -0.51751
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.046719998
+Return On Equity: -0.34138
+Total Cash: 875246016
+Total Debt: 265592992
+Debt To Equity: 14.827
+Current Ratio: 2.201
+Quick Ratio: 1.439
+Trailing PE: 
+Forward PE: 46.476177
+Price To Book: 1.2548512
+Beta: 2.159
+52 Week High: 6.28
+52 Week Low: 0.673

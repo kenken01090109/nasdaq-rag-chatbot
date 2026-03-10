@@ -1,0 +1,9 @@
+Company: Nuwellis Inc. Common Stock
+Ticker: NUWE
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Eden Prairie
+Website: https://www.nuwellis.com
+Employees: 38
+Business Summary: Nuwellis, Inc., a medical device company, develops, manufactures, and commercializes medical devices used in ultrafiltration therapy. The company offers Aquadex FlexFlow and Aquadex SmartFlow systems, which are used to treat patients suffering from fluid overload due to heart failure. Its Aquadex FlexFlow system includes a console, disposable blood circuit set, and disposable catheter. The company sells its products to hospitals and clinics through its direct salesforce in the United States; and through independent specialty distributors in Austria, Belarus, Brazil, Colombia, the Czech Republic, Germany, Greece, Hong Kong, India, Indonesia, Israel, Italy, Panama, Romania, Singapore, Slovakia, Spain, Switzerland, Thailand, the United Arab Emirates, and the United Kingdom. The company was formerly known as CHF Solutions, Inc. and changed its name to Nuwellis, Inc. in April 2021. Nuwellis, Inc. was founded in 1999 and is headquartered in Eden Prairie, Minnesota.

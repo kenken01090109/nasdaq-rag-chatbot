@@ -1,0 +1,10 @@
+Company: Stellar V Capital Corp. Class A Ordinary Shares
+Ticker: SVCC
+CIK: 0002033593
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3914405 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 155777004 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 5367794 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -4804295 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -507441 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-03-31 | period_end=2024-12-31

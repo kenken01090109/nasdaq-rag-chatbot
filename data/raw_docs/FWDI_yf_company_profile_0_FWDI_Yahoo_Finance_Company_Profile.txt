@@ -1,0 +1,9 @@
+Company: Forward Industries Inc. Common Stock
+Ticker: FWDI
+Sector: Consumer Cyclical
+Industry: Footwear & Accessories
+Country: United States
+City: Hauppauge
+Website: https://forwardindustries.com
+Employees: 60
+Business Summary: Forward Industries, Inc., together with its subsidiaries, provides hardware and software product design and engineering services primarily in the United States. The company operates through Design and Digital Assets segments. It offers design, engineering, and development services for consumer and industrial electronics products, such as medical products, smart displays, beverage vending, enterprise and mobile software applications, lighting, security and detections systems, cameras, wearables, and vehicle controls. The company also provides electrical, mechanical, software, and optical engineering services; industrial design and user experience/user interface design and development; and program management, IoT system architecture, and IT support services. Forward Industries, Inc. was incorporated in 1961 and is based in Hauppauge, New York.

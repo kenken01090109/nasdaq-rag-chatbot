@@ -1,0 +1,11 @@
+Company: LiqTech International Inc. Common Stock
+Ticker: LIQT
+CIK: 0001307579
+Latest SEC XBRL Facts:
+Revenues: 24651 | unit=USD | filed=2011-08-11 | period_end=2011-06-30
+NetIncomeLoss: -5935190 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 30295868 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 17519010 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 12807614 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3977121 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5070385 | unit=USD | filed=2026-02-27 | period_end=2025-12-31

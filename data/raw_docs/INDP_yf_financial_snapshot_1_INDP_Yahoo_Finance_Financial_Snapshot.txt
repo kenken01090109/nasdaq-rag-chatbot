@@ -1,0 +1,25 @@
+Company: Indaptus Therapeutics Inc. Common Stock
+Ticker: INDP
+Market Cap: 4148301
+Enterprise Value: -2489743
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -15848828
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -9296941
+Operating Cashflow: -15028490
+Return On Assets: -1.31379
+Return On Equity: -3.17983
+Total Cash: 5825639
+Total Debt: 8686
+Debt To Equity: 0.189
+Current Ratio: 2.882
+Quick Ratio: 2.607
+Trailing PE: 
+Forward PE: -1.3309352
+Price To Book: 0.65953654
+Beta: 0.997
+52 Week High: 47.6
+52 Week Low: 1.52

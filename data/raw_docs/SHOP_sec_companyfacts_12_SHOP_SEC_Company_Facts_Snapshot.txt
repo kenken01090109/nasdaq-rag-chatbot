@@ -1,0 +1,11 @@
+Company: Shopify Inc. Class A Subordinate Voting Shares
+Ticker: SHOP
+CIK: 0001594805
+Latest SEC XBRL Facts:
+Revenues: 7884000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7060000000 | unit=USD | filed=2024-02-13 | period_end=2023-12-31
+NetIncomeLoss: 488000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 15039000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 12511000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1308000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2414000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Ruanyun Edai Technology Inc. Ordinary shares
+Ticker: RYET
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: China
+City: Nanchang
+Website: https://www.ruanyuntech.com
+Employees: 83
+Business Summary: Ruanyun Edai Technology Inc. operates as a data driven artificial intelligence technology company focused on kindergarten through year twelve education (K-12) in China. The company offers SmartExam solution that assists in delivering China's Academic Proficiency Test, which is required for obtaining a high-school diploma in computer-based format; and SmartHomework system, a digital teaching and learning decision platform that collects paper-based homework data with intelligent scanning machine. It also provides smart enrollment, an intelligent system based on big data, AI, and other information technologies, integrating student status, household registration, property ownership, marriage, leasing, and degree information for comparison, query, and declaration. In addition, the company offers smart evaluation solution, which focuses on a multi-party collaborative education mechanism; smart campus solution that digitally transform various aspects of schools; and digital services to convert paper materials, archives, and exercise book into digital formats, as well as Chinese learning app. Further, it provides self-learning solutions and smart devices, such as smart printers and headsets. Ruanyun Edai Technology Inc. was founded in 2012 and is based in Nanchang, China.

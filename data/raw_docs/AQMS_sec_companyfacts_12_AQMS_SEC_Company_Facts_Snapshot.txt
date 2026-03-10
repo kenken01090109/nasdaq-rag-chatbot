@@ -1,0 +1,12 @@
+Company: Aqua Metals Inc. Common Stock
+Ticker: AQMS
+CIK: 0001621832
+Latest SEC XBRL Facts:
+Revenues: 2100000 | unit=USD | filed=2018-03-15 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -18206000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 10504000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 3982000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6522000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7648000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3586000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

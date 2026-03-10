@@ -1,0 +1,11 @@
+Company: Braze Inc. Class A Common Stock
+Ticker: BRZE
+CIK: 0001676238
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 533012000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetIncomeLoss: -99683000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Assets: 1041285000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Liabilities: 438886000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+StockholdersEquity: 602032000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 52063000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 97815000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31

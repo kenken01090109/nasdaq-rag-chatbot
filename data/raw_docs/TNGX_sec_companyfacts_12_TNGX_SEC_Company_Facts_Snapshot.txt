@@ -1,0 +1,11 @@
+Company: Tango Therapeutics Inc.
+Ticker: TNGX
+CIK: 0001819133
+Latest SEC XBRL Facts:
+Revenues: 62384000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -62845000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 210136000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 50105000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 160031000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -109168000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 58338000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

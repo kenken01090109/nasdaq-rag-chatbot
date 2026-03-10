@@ -1,0 +1,12 @@
+Company: Agenus Inc. Common Stock
+Ticker: AGEN
+Total Revenue: 106829000
+Revenue Per Share: 3.977
+Gross Margins: 0.00081
+Operating Margins: -0.16083999
+EBITDA: -50279000
+Profit Margins: -0.32918
+Free Cashflow: -148290496
+Operating Cashflow: -89229000
+Return On Assets: -0.16656
+Return On Equity: 

@@ -1,0 +1,25 @@
+Company: Fitness Champs Holdings Limited Common Stock
+Ticker: FCHL
+Market Cap: 3644800
+Enterprise Value: 5272000
+Total Revenue: 4152000
+Revenue Per Share: 0.277
+EBITDA: -424000
+Gross Margins: 0.32996
+Operating Margins: -0.15911001
+Profit Margins: -0.06238
+Free Cashflow: -1007625
+Operating Cashflow: -168000
+Return On Assets: -0.13071
+Return On Equity: 
+Total Cash: 482000
+Total Debt: 2082000
+Debt To Equity: 
+Current Ratio: 0.803
+Quick Ratio: 0.222
+Trailing PE: 
+Forward PE: 
+Price To Book: -17.161379
+Beta: 
+52 Week High: 7.64
+52 Week Low: 0.2

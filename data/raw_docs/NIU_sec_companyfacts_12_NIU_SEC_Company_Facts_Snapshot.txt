@@ -1,0 +1,11 @@
+Company: Niu Technologies American Depositary Shares
+Ticker: NIU
+CIK: 0001744781
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 450494752 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetIncomeLoss: -26468379 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Assets: 358001202 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Liabilities: 230416061 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+StockholdersEquity: 127585141 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 7163238 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 86312565 | unit=USD | filed=2025-04-18 | period_end=2024-12-31

@@ -1,0 +1,11 @@
+Company: JD.com Inc. American Depositary Shares
+Ticker: JD
+CIK: 0001549802
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 158758000000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+NetIncomeLoss: -548291000 | unit=USD | filed=2017-05-01 | period_end=2016-12-31
+Assets: 95658000000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+Liabilities: 52736000000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+StockholdersEquity: 32791000000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 7959000000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 14844000000 | unit=USD | filed=2025-04-17 | period_end=2024-12-31

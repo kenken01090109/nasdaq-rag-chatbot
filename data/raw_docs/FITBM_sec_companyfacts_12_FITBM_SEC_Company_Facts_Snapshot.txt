@@ -1,0 +1,9 @@
+Company: Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series M
+Ticker: FITBM
+CIK: 0000035527
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1791000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 212903000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 191796000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 21107000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3585000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

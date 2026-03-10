@@ -1,0 +1,11 @@
+Company: Urban Outfitters Inc. Common Stock
+Ticker: URBN
+CIK: 0000912615
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4363606000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetIncomeLoss: 368652000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Assets: 4907022000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Liabilities: 2202910000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+StockholdersEquity: 2704112000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 312185000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 306600000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31

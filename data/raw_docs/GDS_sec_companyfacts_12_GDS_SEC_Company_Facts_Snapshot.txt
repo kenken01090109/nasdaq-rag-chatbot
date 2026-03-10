@@ -1,0 +1,11 @@
+Company: GDS Holdings Limited ADS
+Ticker: GDS
+CIK: 0001526125
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 10322068000 | unit=CNY | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 3425386000 | unit=CNY | filed=2025-04-28 | period_end=2024-12-31
+Assets: 73648628000 | unit=CNY | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 49979995000 | unit=CNY | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 22458046000 | unit=CNY | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 1938365000 | unit=CNY | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1174079000 | unit=CNY | filed=2018-01-23 | period_end=2017-09-30

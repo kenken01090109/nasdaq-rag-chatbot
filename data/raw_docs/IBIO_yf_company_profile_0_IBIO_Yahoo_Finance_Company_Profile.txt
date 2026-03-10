@@ -1,0 +1,9 @@
+Company: iBio Inc. Common Stock
+Ticker: IBIO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://ibioinc.com
+Employees: 20
+Business Summary: iBio, Inc., a preclinical stage biotechnology company, engages in the development of artificial intelligence (AI) antibodies solutions for cardiometabolic and obesity space. The company's technology platforms include EngageTx that provides improved CD3 T-cell engager antibody panel; ShieldTx, an antibody masking technology that enables the creation of conditionally activated antibodies; StableHu, an AI antibody-optimizing technology; and AI epitope steering technology that guides antibodies against the desired regions of the target protein. Its product pipelines for cardiometabolic disease area include IBIO-101, an anti-CD25 Mab that binds and depletes immunosuppressive regulatory treg cells to inhibit the growth of solid tumors; CCR8, an antibody that enhance the body's immune response against cancer cells; and MUC16 antibodies. In addition, the company is developing EGFRvIII, an antibody therapeutics that targets EGFRvIII protein with the aim to address these cancer types without affecting healthy cells; and TROP-2 x CD3 bispecific antibody that is developed with EngageTx platform to harness T cells to kill TROP-2expressing tumors while minimizing the cytokine release that often limits the tolerability of T-cell engagers. It has a collaboration agreement with AstralBio to discover and develop novel antibodies for obesity and other cardiometabolic diseases. The company was formerly known as iBioPharma, Inc. and changed its name to iBio, Inc. in August 2009. iBio, Inc. was incorporated in 2008 and is headquartered in San Diego, California.

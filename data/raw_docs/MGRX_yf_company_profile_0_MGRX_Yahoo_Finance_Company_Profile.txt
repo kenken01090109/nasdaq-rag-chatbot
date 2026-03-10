@@ -1,0 +1,9 @@
+Company: Mangoceuticals Inc. Common Stock
+Ticker: MGRX
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Dallas
+Website: https://www.mangoceuticals.com
+Employees: 3
+Business Summary: Mangoceuticals, Inc. engages in the development, marketing, and sale of various men's wellness products and services through a telemedicine platform in the United States. The company offers erectile dysfunction products under the Mango brand; hair loss products under the Grow brand; hormone balance and therapy products under the Mojo brand; and weight loss products under the Slim brand. It also provides oral testosterone undecanoate to treat low testosterone in men and as a form of testosterone replacement therapy under the Prime brand; and access for customers to a licensed pharmacy for online fulfillment and distribution of certain medications that may be prescribed as part of telehealth consultations. The company markets and sells its products online through its website www.MangoRX.com. The company was incorporated in 2021 and is headquartered in Dallas, Texas. Mangoceuticals, Inc. is a subsidiary of Cohen Enterprises, Inc.

@@ -1,0 +1,25 @@
+Company: Gevo Inc. Common Stock
+Ticker: GEVO
+Market Cap: 518540864
+Enterprise Value: 550121920
+Total Revenue: 160580000
+Revenue Per Share: 0.686
+EBITDA: 6458000
+Gross Margins: 0.38740003
+Operating Margins: -0.1182
+Profit Margins: -0.21070999
+Free Cashflow: -17910624
+Operating Cashflow: -13401000
+Return On Assets: -0.018099999
+Return On Equity: -0.067930005
+Total Cash: 81163000
+Total Debt: 167522000
+Debt To Equity: 35.555
+Current Ratio: 1.825
+Quick Ratio: 1.14
+Trailing PE: 
+Forward PE: -20.380955
+Price To Book: 1.1128446
+Beta: 
+52 Week High: 2.95
+52 Week Low: 0.92

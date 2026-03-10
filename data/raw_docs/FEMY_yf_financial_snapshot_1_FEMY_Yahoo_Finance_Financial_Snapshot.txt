@@ -1,0 +1,25 @@
+Company: Femasys Inc. Common Stock
+Ticker: FEMY
+Market Cap: 31535982
+Enterprise Value: 34673476
+Total Revenue: 2061502
+Revenue Per Share: 0.07
+EBITDA: -17349504
+Gross Margins: 0.63052
+Operating Margins: -5.0093203
+Profit Margins: 0.0
+Free Cashflow: -12641671
+Operating Cashflow: -19579894
+Return On Assets: -0.69365996
+Return On Equity: -3.76234
+Total Cash: 4569038
+Total Debt: 8427060
+Debt To Equity: 184.956
+Current Ratio: 1.162
+Quick Ratio: 0.488
+Trailing PE: 
+Forward PE: -1.4722221
+Price To Book: 5.520833
+Beta: -2.531
+52 Week High: 1.76
+52 Week Low: 0.307

@@ -1,0 +1,25 @@
+Company: Natural Alternatives International Inc. Common Stock
+Ticker: NAII
+Market Cap: 16862604
+Enterprise Value: 855680
+Total Revenue: 135156992
+Revenue Per Share: 22.563
+EBITDA: 424000
+Gross Margins: 0.090629995
+Operating Margins: 0.07873
+Profit Margins: -0.09061
+Free Cashflow: 108500
+Operating Cashflow: -1015000
+Return On Assets: -0.017
+Return On Equity: -0.16754
+Total Cash: 32133000
+Total Debt: 16481000
+Debt To Equity: 20.58
+Current Ratio: 1.873
+Quick Ratio: 0.659
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.24442655
+Beta: 0.401
+52 Week High: 4.96
+52 Week Low: 2.33

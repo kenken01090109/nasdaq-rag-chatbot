@@ -1,0 +1,10 @@
+Company: PDS Biotechnology Corporation Common Stock
+Ticker: PDSB
+CIK: 0001472091
+Latest SEC XBRL Facts:
+NetIncomeLoss: -26932586 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 34705801 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 25252291 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9453510 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24049427 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26198652 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Hotel101 Global Holdings Corp. Class A Ordinary Shares
+Ticker: HBNB
+Sector: Real Estate
+Industry: Real Estate Services
+Country: Singapore
+City: Singapore
+Website: https://www.hotel101global.com
+Employees: 
+Business Summary: Hotel101 Global Holdings Corp. operates prop-tech hospitality platform. It enables hotel and hospitality sector through its tech-enabled business model, including advance sale of individual hotel units during the construction phase; and long-term recurring revenue derived from day-to-day hotel operations. The company is based in Singapore, Singapore. Hotel101 Global Holdings Corp. operates as a subsidiary of DoubleDragon Corporation.

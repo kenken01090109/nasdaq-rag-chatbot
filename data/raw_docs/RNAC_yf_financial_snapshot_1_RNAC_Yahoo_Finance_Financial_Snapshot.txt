@@ -1,0 +1,25 @@
+Company: Cartesian Therapeutics Inc. Common Stock
+Ticker: RNAC
+Market Cap: 178124704
+Enterprise Value: 47343700
+Total Revenue: 1091000
+Revenue Per Share: 0.042
+EBITDA: -81081000
+Gross Margins: 0.0
+Operating Margins: -46.60619
+Profit Margins: 0.0
+Free Cashflow: -47682752
+Operating Cashflow: -63231000
+Return On Assets: -0.12669
+Return On Equity: 
+Total Cash: 143384000
+Total Debt: 12603000
+Debt To Equity: 
+Current Ratio: 10.669
+Quick Ratio: 10.44
+Trailing PE: 
+Forward PE: -2.6550388
+Price To Book: -4.970972
+Beta: 0.234
+52 Week High: 18.8
+52 Week Low: 5.98

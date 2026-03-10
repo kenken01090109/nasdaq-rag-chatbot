@@ -1,0 +1,25 @@
+Company: Steel Dynamics Inc.
+Ticker: STLD
+Market Cap: 26521391104
+Enterprise Value: 31110926336
+Total Revenue: 18176581632
+Revenue Per Share: 122.976
+EBITDA: 2027376000
+Gross Margins: 0.13161
+Operating Margins: 0.07028
+Profit Margins: 0.06523
+Free Cashflow: -109405624
+Operating Cashflow: 1449533952
+Return On Assets: 0.05884
+Return On Equity: 0.13284001
+Total Cash: 769878016
+Total Debt: 4382816768
+Debt To Equity: 49.077
+Current Ratio: 3.055
+Quick Ratio: 1.156
+Trailing PE: 22.70125
+Forward PE: 11.448027
+Price To Book: 2.9387207
+Beta: 1.395
+52 Week High: 208.47
+52 Week Low: 103.17

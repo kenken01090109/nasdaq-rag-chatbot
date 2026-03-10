@@ -1,0 +1,25 @@
+Company: Preferred Bank Common Stock
+Ticker: PFBC
+Market Cap: 1082276736
+Enterprise Value: 637232384
+Total Revenue: 281236000
+Revenue Per Share: 22.33
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.71652
+Profit Margins: 0.47516
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0184
+Return On Equity: 0.17214
+Total Cash: 827097984
+Total Debt: 383812992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.980769
+Forward PE: 8.031318
+Price To Book: 1.3686565
+Beta: 0.602
+52 Week High: 103.05
+52 Week Low: 71.9

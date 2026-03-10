@@ -1,0 +1,10 @@
+Company: Cellectar Biosciences Inc.  Common Stock
+Ticker: CLRB
+CIK: 0001279704
+Latest SEC XBRL Facts:
+NetIncomeLoss: -16495816 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 14627590 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5248261 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 7997306 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18774081 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12554289 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

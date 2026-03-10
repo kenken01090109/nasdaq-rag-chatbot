@@ -1,0 +1,9 @@
+Company: Jayud Global Logistics Limited Class A Ordinary Shares
+Ticker: JYD
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: China
+City: Shenzhen
+Website: https://jayud.com
+Employees: 166
+Business Summary: Jayud Global Logistics Limited, through its subsidiaries, provides a range of cross-border supply chain solution services worldwide. The company offers freight forwarding services, such as integrated cross-border logistics, fragmented logistics services, and chartered airline freight services. It also offers supply chain management services, such as international trading and agent services; and other value-added services comprising custom brokerage and intelligent logistic IT systems. The company was founded in 2009 and is based in Shenzhen, the People's Republic of China.

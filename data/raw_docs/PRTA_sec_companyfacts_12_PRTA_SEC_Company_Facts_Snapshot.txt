@@ -1,0 +1,12 @@
+Company: Prothena Corporation plc Ordinary Shares
+Ticker: PRTA
+CIK: 0001559053
+Latest SEC XBRL Facts:
+Revenues: 141000 | unit=USD | filed=2020-05-06 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 9663000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -222503000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 352628000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 57639000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 294989000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -140268000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 330843000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

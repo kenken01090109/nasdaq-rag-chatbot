@@ -1,0 +1,25 @@
+Company: Xcel Brands Inc. Common Stock
+Ticker: XELB
+Market Cap: 8958599
+Enterprise Value: 21997300
+Total Revenue: 4980000
+Revenue Per Share: 1.799
+EBITDA: -4219000
+Gross Margins: 1.0
+Operating Margins: -1.7424
+Profit Margins: 0.0
+Free Cashflow: -2286000
+Operating Cashflow: -6605000
+Return On Assets: -0.10344
+Return On Equity: -0.85100996
+Total Cash: 1494000
+Total Debt: 18304000
+Debt To Equity: 110.398
+Current Ratio: 0.512
+Quick Ratio: 0.362
+Trailing PE: 
+Forward PE: -0.7414634
+Price To Book: 0.3907455
+Beta: 0.961
+52 Week High: 4.52
+52 Week Low: 0.7362

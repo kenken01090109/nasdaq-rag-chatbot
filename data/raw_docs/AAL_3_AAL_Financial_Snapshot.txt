@@ -1,0 +1,12 @@
+Company: American Airlines Group Inc. Common Stock
+Ticker: AAL
+Total Revenue: 54633000960
+Revenue Per Share: 82.782
+Gross Margins: 0.22735001
+Operating Margins: 0.03622
+EBITDA: 3904999936
+Profit Margins: 0.0020299999
+Free Cashflow: -706750016
+Operating Cashflow: 3099000064
+Return On Assets: 0.01706
+Return On Equity: 

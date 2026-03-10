@@ -1,0 +1,25 @@
+Company: The GrowHub Limited Class A Ordinary Shares
+Ticker: TGHL
+Market Cap: 10104745
+Enterprise Value: 15214289
+Total Revenue: 119860
+Revenue Per Share: 0.006
+EBITDA: -3155016
+Gross Margins: 0.0
+Operating Margins: -27.1737
+Profit Margins: 0.0
+Free Cashflow: -2575983
+Operating Cashflow: -3105709
+Return On Assets: -0.52348
+Return On Equity: 
+Total Cash: 275139
+Total Debt: 7470744
+Debt To Equity: 
+Current Ratio: 0.215
+Quick Ratio: 0.036
+Trailing PE: 
+Forward PE: 
+Price To Book: -2.9567142
+Beta: 
+52 Week High: 4.25
+52 Week Low: 0.29

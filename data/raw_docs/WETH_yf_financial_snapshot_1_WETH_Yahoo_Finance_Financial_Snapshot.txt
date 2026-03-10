@@ -1,0 +1,25 @@
+Company: Wetouch Technology Inc. Common Stock
+Ticker: WETH
+Market Cap: 16584832
+Enterprise Value: -95944064
+Total Revenue: 43519384
+Revenue Per Share: 3.647
+EBITDA: 10002272
+Gross Margins: 0.33786
+Operating Margins: 0.25667998
+Profit Margins: 0.171
+Free Cashflow: 8574801
+Operating Cashflow: 10301434
+Return On Assets: 0.04572
+Return On Equity: 0.05624
+Total Cash: 113194896
+Total Debt: 666003
+Debt To Equity: 0.493
+Current Ratio: 26.692
+Quick Ratio: 26.454
+Trailing PE: 2.2419355
+Forward PE: 
+Price To Book: 0.12269396
+Beta: 0.373
+52 Week High: 3.68
+52 Week Low: 0.76

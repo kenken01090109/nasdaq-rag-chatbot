@@ -1,0 +1,25 @@
+Company: Baker Hughes Company Class A Common Stock
+Ticker: BKR
+Market Cap: 59106426880
+Enterprise Value: 62644957184
+Total Revenue: 27733000192
+Revenue Per Share: 28.07
+EBITDA: 4695000064
+Gross Margins: 0.23676
+Operating Margins: 0.1251
+Profit Margins: 0.09332
+Free Cashflow: 1127374976
+Operating Cashflow: 3809999872
+Return On Assets: 0.05538
+Return On Equity: 0.14552
+Total Cash: 3715000064
+Total Debt: 6702000128
+Debt To Equity: 35.255
+Current Ratio: 1.357
+Quick Ratio: 0.746
+Trailing PE: 23.003847
+Forward PE: 20.560612
+Price To Book: 3.1337106
+Beta: 0.879
+52 Week High: 67.0
+52 Week Low: 33.6

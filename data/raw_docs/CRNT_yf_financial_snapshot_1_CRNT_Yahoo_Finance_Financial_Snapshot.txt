@@ -1,0 +1,25 @@
+Company: Ceragon Networks Ltd. Ordinary Shares
+Ticker: CRNT
+Market Cap: 201353536
+Enterprise Value: 200936928
+Total Revenue: 338728000
+Revenue Per Share: 3.773
+EBITDA: 25377000
+Gross Margins: 0.33818
+Operating Margins: 0.02082
+Profit Margins: -0.00617
+Free Cashflow: 16651000
+Operating Cashflow: 31556000
+Return On Assets: 0.02086
+Return On Equity: -0.01233
+Total Cash: 38368000
+Total Debt: 36332000
+Debt To Equity: 21.031
+Current Ratio: 1.873
+Quick Ratio: 1.361
+Trailing PE: 
+Forward PE: 10.067416
+Price To Book: 1.1752361
+Beta: 1.252
+52 Week High: 2.84
+52 Week Low: 1.82

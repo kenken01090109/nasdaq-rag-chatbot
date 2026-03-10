@@ -1,0 +1,9 @@
+Company: Benitec Biopharma Inc. Common Stock
+Ticker: BNTC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Hayward
+Website: https://benitec.com
+Employees: 19
+Business Summary: Benitec Biopharma Inc., a clinical-stage biotechnology company, focuses on the development of novel genetic medicines. Its Silence and Replace, a DNA-directedRNA interference platform combines RNA interference with gene therapy to create medicines that simultaneously facilitate sustained silencing of disease-causing genes and concomitant delivery of wildtype replacement genes following a single administration of the therapeutic construct. The company is developing BB-301, an AAV-based gene therapy designed to silence the expression of the disease-causing gene for the treatment of oculopharyngeal muscular dystrophy related dysphagia. Benitec Biopharma Inc. is headquartered in Hayward, California.

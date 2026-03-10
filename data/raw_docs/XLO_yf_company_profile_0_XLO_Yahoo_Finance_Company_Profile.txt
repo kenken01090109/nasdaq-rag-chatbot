@@ -1,0 +1,9 @@
+Company: Xilio Therapeutics Inc. Common Stock
+Ticker: XLO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Waltham
+Website: https://xiliotx.com
+Employees: 64
+Business Summary: Xilio Therapeutics, Inc., a clinical-stage biotechnology company, engages in the discovery and development of tumor-activated immuno-oncology therapies. The company's checkpoint inhibitor program includes XTX101, an investigational Fc-enhanced, tumor-activated anti-CTLA-4 mAb that is in Phase 2 clinical trial for patients with advanced solid tumors. It also develops cytokine programs, which comprises XTX202, a tumor-activated beta-gamma biased IL-2, currently under Phase 2 clinal trials; and XTX301, an investigational tumor-activated, engineered IL-12 molecule, currently under Phase 1 studies. The company was founded in 2016 and is headquartered in Waltham, Massachusetts.

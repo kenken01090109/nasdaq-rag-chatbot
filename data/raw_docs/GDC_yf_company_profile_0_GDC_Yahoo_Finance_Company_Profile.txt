@@ -1,0 +1,9 @@
+Company: GD Culture Group Limited Common Stock
+Ticker: GDC
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: United States
+City: New York
+Website: https://www.gdculturegroup.com
+Employees: 8
+Business Summary: GD Culture Group Limited, together with its subsidiaries, engages in virtual content production business. It is also involved in AI-driven digital human creation and customization to generate realistic 3D or 2D digital human models; and live streaming and e-commerce. The company was formerly known as Code Chain New Continent Limited and changed its name to GD Culture Group Limited in January 2023. GD Culture Group Limited is based in New York, New York.

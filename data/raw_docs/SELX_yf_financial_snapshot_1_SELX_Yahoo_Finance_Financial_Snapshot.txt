@@ -1,0 +1,25 @@
+Company: Semilux International Ltd. Ordinary Shares
+Ticker: SELX
+Market Cap: 20211314
+Enterprise Value: 32635142
+Total Revenue: 116233000
+Revenue Per Share: 3.092
+EBITDA: -143698496
+Gross Margins: -0.24455999
+Operating Margins: -4.02616
+Profit Margins: -1.19722
+Free Cashflow: 23351624
+Operating Cashflow: 4002000
+Return On Assets: -0.27109
+Return On Equity: -0.86626
+Total Cash: 135748000
+Total Debt: 153815008
+Debt To Equity: 109.065
+Current Ratio: 1.588
+Quick Ratio: 0.887
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.4421625
+Beta: -0.465
+52 Week High: 1.85
+52 Week Low: 0.48

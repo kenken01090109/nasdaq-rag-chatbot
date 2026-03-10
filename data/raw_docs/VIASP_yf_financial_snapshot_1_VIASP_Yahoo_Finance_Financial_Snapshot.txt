@@ -1,0 +1,25 @@
+Company: Via Renewables Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
+Ticker: VIASP
+Market Cap: 
+Enterprise Value: 223115760
+Total Revenue: 439956992
+Revenue Per Share: 121.796
+EBITDA: 78467000
+Gross Margins: 0.36035
+Operating Margins: 0.03147
+Profit Margins: 0.0505
+Free Cashflow: 12661125
+Operating Cashflow: 48343000
+Return On Assets: 0.13879
+Return On Equity: 0.31507
+Total Cash: 58490000
+Total Debt: 105000000
+Debt To Equity: 73.078
+Current Ratio: 3.001
+Quick Ratio: 1.948
+Trailing PE: 21.777779
+Forward PE: 
+Price To Book: 1.5172085
+Beta: 1.261
+52 Week High: 26.68
+52 Week Low: 22.0

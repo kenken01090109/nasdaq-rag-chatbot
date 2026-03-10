@@ -1,0 +1,8 @@
+Company: Arbutus Biopharma Corporation Common Stock
+Ticker: ABUS
+Total Cash: 93702000
+Total Debt: 4606000
+Debt To Equity: 5.951
+Current Ratio: 18.797
+Quick Ratio: 18.308
+Book Value: 0.403

@@ -1,0 +1,25 @@
+Company: PDF Solutions Inc. Common Stock
+Ticker: PDFS
+Market Cap: 1247781376
+Enterprise Value: 1325850368
+Total Revenue: 219024000
+Revenue Per Share: 5.571
+EBITDA: 18016000
+Gross Margins: 0.72321
+Operating Margins: 0.05381
+Profit Margins: -0.0029199999
+Free Cashflow: -10203000
+Operating Cashflow: 24053000
+Return On Assets: 0.01762
+Return On Equity: -0.00248
+Total Cash: 42220000
+Total Debt: 72819000
+Debt To Equity: 26.868
+Current Ratio: 2.28
+Quick Ratio: 2.153
+Trailing PE: 
+Forward PE: 22.832117
+Price To Book: 4.5637584
+Beta: 1.579
+52 Week High: 36.99
+52 Week Low: 15.91

@@ -1,0 +1,12 @@
+Company: Geospace Technologies Corporation Common Stock (Texas)
+Ticker: GEOS
+CIK: 0001001115
+Latest SEC XBRL Facts:
+Revenues: 25586000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 25586000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -9765000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 144618000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 28740000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 115878000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -15071000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 10579000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

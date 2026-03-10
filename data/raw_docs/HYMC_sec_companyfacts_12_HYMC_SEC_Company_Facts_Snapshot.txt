@@ -1,0 +1,12 @@
+Company: Hycroft Mining Holding Corporation Class A Common Stock
+Ticker: HYMC
+CIK: 0001718405
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2020-03-12 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-10-31 | period_end=2023-09-30
+NetIncomeLoss: -32872000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 230591000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 183106000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 47485000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22157000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 139094000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

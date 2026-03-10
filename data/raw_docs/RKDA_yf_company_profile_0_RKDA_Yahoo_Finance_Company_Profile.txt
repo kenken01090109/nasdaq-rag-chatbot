@@ -1,0 +1,9 @@
+Company: Arcadia Biosciences Inc. Common Stock
+Ticker: RKDA
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Dallas
+Website: https://www.arcadiabio.com
+Employees: 9
+Business Summary: Arcadia Biosciences, Inc. produces and markets plant-based food and beverage products in the United States. The company develops crop improvements primarily in wheat to enhance farm economics by improving the performance of crops in the field, as well as their value as food ingredients. Its food, beverage, and body case products include GoodWheat, Zola coconut water, ProVault topical pain relief, and SoulSpring. The company was incorporated in 2002 and is headquartered in Dallas, Texas.

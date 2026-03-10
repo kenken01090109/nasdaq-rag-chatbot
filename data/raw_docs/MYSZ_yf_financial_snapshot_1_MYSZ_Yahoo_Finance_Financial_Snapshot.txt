@@ -1,0 +1,25 @@
+Company: My Size Inc. Common Stock
+Ticker: MYSZ
+Market Cap: 2351341
+Enterprise Value: -1195658
+Total Revenue: 7512000
+Revenue Per Share: 3.061
+EBITDA: -3244000
+Gross Margins: 0.38671002
+Operating Margins: -0.52722
+Profit Margins: -0.47390997
+Free Cashflow: -1847000
+Operating Cashflow: -3375000
+Return On Assets: -0.23733999
+Return On Equity: -0.60575
+Total Cash: 4493000
+Total Debt: 946000
+Debt To Equity: 12.966
+Current Ratio: 2.726
+Quick Ratio: 1.723
+Trailing PE: 
+Forward PE: -0.22625925
+Price To Book: 0.32220462
+Beta: -0.232
+52 Week High: 3.04
+52 Week Low: 0.503

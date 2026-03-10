@@ -1,0 +1,11 @@
+Company: Castor Maritime Inc. Common Shares
+Ticker: CTRM
+CIK: 0001720161
+Latest SEC XBRL Facts:
+Revenues: 66243379 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1174376 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetIncomeLoss: 14618996 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Assets: 797376921 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+StockholdersEquity: 492416978 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 123753052 | unit=USD | filed=2023-03-08 | period_end=2022-12-31
+CashAndCashEquivalentsAtCarryingValue: 87896786 | unit=USD | filed=2025-05-14 | period_end=2024-12-31

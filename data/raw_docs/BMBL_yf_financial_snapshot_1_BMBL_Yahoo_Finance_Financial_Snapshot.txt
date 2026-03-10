@@ -1,0 +1,25 @@
+Company: Bumble Inc. Class A Common Stock
+Ticker: BMBL
+Market Cap: 486382976
+Enterprise Value: 1006643968
+Total Revenue: 1003140992
+Revenue Per Share: 9.429
+EBITDA: 268715008
+Gross Margins: 0.70693
+Operating Margins: 0.26885
+Profit Margins: -0.19816
+Free Cashflow: 123013128
+Operating Cashflow: 185902000
+Return On Assets: 0.061729997
+Return On Equity: -0.23809999
+Total Cash: 307883008
+Total Debt: 600076032
+Debt To Equity: 57.864
+Current Ratio: 3.55
+Quick Ratio: 3.25
+Trailing PE: 
+Forward PE: 4.108044
+Price To Book: 0.5105105
+Beta: 1.993
+52 Week High: 8.64
+52 Week Low: 2.61

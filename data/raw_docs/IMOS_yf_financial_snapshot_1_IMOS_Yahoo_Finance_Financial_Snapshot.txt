@@ -1,0 +1,25 @@
+Company: ChipMOS TECHNOLOGIES INC. American Depositary Shares
+Ticker: IMOS
+Market Cap: 1289108992
+Enterprise Value: 28549294080
+Total Revenue: 23932899328
+Revenue Per Share: 673.74
+EBITDA: 5989864960
+Gross Margins: 0.10832
+Operating Margins: 0.09746
+Profit Margins: 0.02069
+Free Cashflow: -69604752
+Operating Cashflow: 3996440064
+Return On Assets: 0.01574
+Return On Equity: 0.02017
+Total Cash: 14978016256
+Total Debt: 16325678080
+Debt To Equity: 68.0
+Current Ratio: 2.403
+Quick Ratio: 2.07
+Trailing PE: 84.068184
+Forward PE: 36.623764
+Price To Book: 34.66557
+Beta: 0.712
+52 Week High: 45.43
+52 Week Low: 12.78

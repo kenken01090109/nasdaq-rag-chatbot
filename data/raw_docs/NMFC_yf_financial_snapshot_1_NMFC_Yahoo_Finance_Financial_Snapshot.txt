@@ -1,0 +1,25 @@
+Company: New Mountain Finance Corporation Common Stock
+Ticker: NMFC
+Market Cap: 804436480
+Enterprise Value: 2401215488
+Total Revenue: 327084000
+Revenue Per Share: 3.081
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.80849
+Profit Margins: 0.05041
+Free Cashflow: 92600752
+Operating Cashflow: 378982016
+Return On Assets: 0.05287
+Return On Equity: 0.01332
+Total Cash: 80718000
+Total Debt: 1671417984
+Debt To Equity: 140.661
+Current Ratio: 0.555
+Quick Ratio: 0.481
+Trailing PE: 49.875
+Forward PE: 7.581948
+Price To Book: 0.69282866
+Beta: 0.629
+52 Week High: 11.46
+52 Week Low: 7.52

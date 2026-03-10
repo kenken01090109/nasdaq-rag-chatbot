@@ -1,0 +1,25 @@
+Company: Eltek Ltd. Ordinary Shares
+Ticker: ELTK
+Market Cap: 61822408
+Enterprise Value: 55057724
+Total Revenue: 49310000
+Revenue Per Share: 7.343
+EBITDA: 4524000
+Gross Margins: 0.17767
+Operating Margins: 0.00377
+Profit Margins: 0.02348
+Free Cashflow: -8825500
+Operating Cashflow: -796000
+Return On Assets: 0.026129998
+Return On Equity: 0.027
+Total Cash: 11638000
+Total Debt: 6423000
+Debt To Equity: 14.131
+Current Ratio: 2.819
+Quick Ratio: 1.916
+Trailing PE: 54.117645
+Forward PE: 8.518518
+Price To Book: 1.359338
+Beta: 0.664
+52 Week High: 12.19
+52 Week Low: 7.65

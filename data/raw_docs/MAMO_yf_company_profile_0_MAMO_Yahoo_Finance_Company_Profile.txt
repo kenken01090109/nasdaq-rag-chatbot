@@ -1,0 +1,9 @@
+Company: Massimo Group Common Stock
+Ticker: MAMO
+Sector: Consumer Cyclical
+Industry: Recreational Vehicles
+Country: United States
+City: Garland
+Website: https://www.massimomotor.com
+Employees: 100
+Business Summary: Massimo Group, through its subsidiaries, manufactures and sells utility terrain vehicles, all-terrain vehicles, and pontoon and tritoon boats in the United States. The company offers motorcycles, scooters, golf carts, and go karts and balance bikes, as well as snow equipment. It also provides accessories, including EV chargers, electric coolers, power stations, and portable solar panels. The company sells its products through a network of dealerships, distributors, and chain stores, as well as the e-commerce marketplace. Massimo Group was founded in 2009 and is based in Garland, Texas.

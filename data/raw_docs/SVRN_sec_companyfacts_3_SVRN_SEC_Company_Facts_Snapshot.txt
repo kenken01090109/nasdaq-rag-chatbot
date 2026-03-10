@@ -1,0 +1,10 @@
+Company: OceanPal Inc. Common Stock
+Ticker: SVRN
+CIK: 0001869467
+Latest SEC XBRL Facts:
+Revenues: 25702000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetIncomeLoss: -17862000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Assets: 89462000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+StockholdersEquity: 84370000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3530000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 7160000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31

@@ -1,0 +1,25 @@
+Company: Mercer International Inc. Common Stock
+Ticker: MERC
+Market Cap: 112530608
+Enterprise Value: 1551300864
+Total Revenue: 1868070016
+Revenue Per Share: 27.909
+EBITDA: -19913000
+Gross Margins: 0.04932
+Operating Margins: -0.13855
+Profit Margins: -0.26653
+Free Cashflow: -41798876
+Operating Cashflow: 8587000
+Return On Assets: -0.052259997
+Return On Equity: -2.00022
+Total Cash: 186804992
+Total Debt: 1625762944
+Debt To Equity: 2388.72
+Current Ratio: 3.053
+Quick Ratio: 1.712
+Trailing PE: 
+Forward PE: -2.0613496
+Price To Book: 1.6502947
+Beta: 0.703
+52 Week High: 7.43
+52 Week Low: 1.48

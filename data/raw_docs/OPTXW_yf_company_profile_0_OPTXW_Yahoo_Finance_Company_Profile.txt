@@ -1,0 +1,9 @@
+Company: Syntec Optics Holdings Inc. Warrant
+Ticker: OPTXW
+Sector: 
+Industry: 
+Country: United States
+City: Rochester
+Website: https://www.syntecoptics.com
+Employees: 159
+Business Summary: Syntec Optics Holdings, Inc. manufactures and supplies integrated optics and photonics components, sub-systems, and optical systems for defense, medical, and consumer end-markets worldwide. It offers polymer-based optics; and optical assemblies, electro-optics assemblies, molded polymer and glass optic components, opto-mechanical components, nano machining, and thin films coating. The company also provides optics assembly, electro-optics assembly, design, and coating services. Syntec Optics Holdings, Inc. was founded in 1981 and is based in Rochester, New York.

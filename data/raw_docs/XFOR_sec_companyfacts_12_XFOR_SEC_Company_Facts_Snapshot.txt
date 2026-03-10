@@ -1,0 +1,12 @@
+Company: X4 Pharmaceuticals Inc. Common Stock
+Ticker: XFOR
+CIK: 0001501697
+Latest SEC XBRL Facts:
+Revenues: 4300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 32545000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -55274000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 163555000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 101936000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 61619000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -70091000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 69632000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

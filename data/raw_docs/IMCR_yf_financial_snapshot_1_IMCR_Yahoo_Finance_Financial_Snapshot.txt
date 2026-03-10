@@ -1,0 +1,25 @@
+Company: Immunocore Holdings plc American Depositary Shares
+Ticker: IMCR
+Market Cap: 1669895808
+Enterprise Value: 1191227904
+Total Revenue: 400016000
+Revenue Per Share: 7.945
+EBITDA: -22359000
+Gross Margins: 0.96533996
+Operating Margins: 0.00035
+Profit Margins: -0.08878
+Free Cashflow: 23960624
+Operating Cashflow: -10712000
+Return On Assets: -0.015420001
+Return On Equity: -0.09576
+Total Cash: 864153024
+Total Debt: 436687008
+Debt To Equity: 114.606
+Current Ratio: 4.04
+Quick Ratio: 3.913
+Trailing PE: 
+Forward PE: -24.661224
+Price To Book: 4.382067
+Beta: 0.821
+52 Week High: 40.715
+52 Week Low: 23.15

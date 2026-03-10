@@ -1,0 +1,25 @@
+Company: SUPER HI INTERNATIONAL HOLDING LTD. American Depositary Shares
+Ticker: HDL
+Market Cap: 969321216
+Enterprise Value: 5901476352
+Total Revenue: 820865024
+Revenue Per Share: 15.99
+EBITDA: 105467000
+Gross Margins: 0.29428
+Operating Margins: 0.059660003
+Profit Margins: 0.025120001
+Free Cashflow: 83475000
+Operating Cashflow: 111430000
+Return On Assets: 0.038039997
+Return On Equity: 0.054530002
+Total Cash: 267292000
+Total Debt: 221476992
+Debt To Equity: 57.972
+Current Ratio: 2.531
+Quick Ratio: 2.216
+Trailing PE: 16.4748
+Forward PE: 17.161251
+Price To Book: 15.63074
+Beta: 0.541
+52 Week High: 28.88
+52 Week Low: 15.83

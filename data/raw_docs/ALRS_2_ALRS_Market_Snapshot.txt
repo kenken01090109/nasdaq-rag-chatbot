@@ -1,0 +1,10 @@
+Company: Alerus Financial Corporation Common Stock
+Ticker: ALRS
+Market Cap: 614708096
+Enterprise Value: 975971072
+Trailing PE: 35.588238
+Forward PE: 8.768116
+Price To Book: 1.0883253
+Beta: 0.62
+52 Week High: 26.32
+52 Week Low: 15.78

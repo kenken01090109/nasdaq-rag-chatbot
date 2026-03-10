@@ -1,0 +1,25 @@
+Company: YD Bio Limited Warrants
+Ticker: YDESW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 510360
+Revenue Per Share: 0.466
+EBITDA: -1357195
+Gross Margins: 0.3044
+Operating Margins: -4.44588
+Profit Margins: -2.76581
+Free Cashflow: -3875569
+Operating Cashflow: -1836818
+Return On Assets: -0.25432
+Return On Equity: -0.42689
+Total Cash: 3132298
+Total Debt: 22265
+Debt To Equity: 0.338
+Current Ratio: 13.183
+Quick Ratio: 12.906
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15532705
+Beta: 0.171
+52 Week High: 0.78
+52 Week Low: 0.71

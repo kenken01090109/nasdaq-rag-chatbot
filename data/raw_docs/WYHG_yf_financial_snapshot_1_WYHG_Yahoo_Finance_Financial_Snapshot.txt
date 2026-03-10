@@ -1,0 +1,25 @@
+Company: Wing Yip Food Holdings Group Limited American Depositary Shares
+Ticker: WYHG
+Market Cap: 23152228
+Enterprise Value: -122272792576
+Total Revenue: 204806225920
+Revenue Per Share: 4080.189
+EBITDA: 23944749056
+Gross Margins: 0.28649
+Operating Margins: 0.00095
+Profit Margins: 0.03937
+Free Cashflow: 2726731008
+Operating Cashflow: 14040158208
+Return On Assets: 0.03351
+Return On Equity: 0.03698
+Total Cash: 160690733056
+Total Debt: 38399582208
+Debt To Equity: 16.607
+Current Ratio: 3.617
+Quick Ratio: 3.455
+Trailing PE: 5.111111
+Forward PE: 
+Price To Book: 0.11764163
+Beta: 0.317
+52 Week High: 12.0
+52 Week Low: 0.39

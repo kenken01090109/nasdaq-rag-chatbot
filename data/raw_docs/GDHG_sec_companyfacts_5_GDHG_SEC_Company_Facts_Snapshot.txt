@@ -1,0 +1,11 @@
+Company: Golden Heaven Group Holdings Ltd. Class A Ordinary Shares
+Ticker: GDHG
+CIK: 0001928340
+Latest SEC XBRL Facts:
+Revenues: 15288195 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+NetIncomeLoss: -8593406 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+Assets: 191447297 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+Liabilities: 10797086 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+StockholdersEquity: 180650211 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18957632 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 86002274 | unit=USD | filed=2026-01-21 | period_end=2025-09-30

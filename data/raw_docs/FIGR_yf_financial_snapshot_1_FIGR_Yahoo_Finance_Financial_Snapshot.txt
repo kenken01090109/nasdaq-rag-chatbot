@@ -1,0 +1,25 @@
+Company: Figure Technology Solutions Inc. Class A Common Stock
+Ticker: FIGR
+Market Cap: 6577874944
+Enterprise Value: 6461529088
+Total Revenue: 432055008
+Revenue Per Share: 3.776
+EBITDA: 107841000
+Gross Margins: 1.0
+Operating Margins: 0.13109
+Profit Margins: 0.30982
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.1744
+Total Cash: 1097122944
+Total Debt: 809118976
+Debt To Equity: 68.77
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 69.27273
+Forward PE: 24.630304
+Price To Book: 5.552924
+Beta: 
+52 Week High: 78.0
+52 Week Low: 25.01

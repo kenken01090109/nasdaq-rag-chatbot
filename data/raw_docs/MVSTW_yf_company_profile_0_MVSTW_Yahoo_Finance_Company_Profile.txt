@@ -1,0 +1,9 @@
+Company: Microvast Holdings Inc. Warrants
+Ticker: MVSTW
+Sector: 
+Industry: 
+Country: United States
+City: Stafford
+Website: https://www.microvast.com
+Employees: 1921
+Business Summary: Microvast Holdings, Inc. provides battery technologies for electric vehicles and energy storage solutions. The company offers a range of cell chemistries, such as lithium titanate oxide, lithium iron phosphate, electrolyte formulation, full concentration gradient cathode, polyaramid separator, and nickel manganese cobalt. It also designs, develops, and manufactures components of lithium-ion batteries, such as cathode, anode, electrolytes, and separator. In addition, the company offers battery solutions for commercial vehicles and energy storage systems. Its commercial vehicle markets cover buses, trains, mining trucks, marine and port vehicles, and automated guided and specialty vehicles, as well as light, medium, and heavy-duty trucks. It operates in China, rest of the Asia Pacific, Europe, and the United States. Microvast Holdings, Inc. was incorporated in 2006 and is based in Stafford, Texas.

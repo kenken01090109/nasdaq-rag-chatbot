@@ -1,0 +1,12 @@
+Company: Skyward Specialty Insurance Group Inc. Common Stock
+Ticker: SKWD
+CIK: 0001519449
+Latest SEC XBRL Facts:
+Revenues: 1030956000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6440000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 126798000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4594046000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3632623000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 961423000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 356308000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 160068000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

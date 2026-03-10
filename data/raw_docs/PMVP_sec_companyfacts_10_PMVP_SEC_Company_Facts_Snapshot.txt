@@ -1,0 +1,10 @@
+Company: PMV Pharmaceuticals Inc. Common Stock
+Ticker: PMVP
+CIK: 0001699382
+Latest SEC XBRL Facts:
+NetIncomeLoss: -59705000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 133844000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 12845000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 120999000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -56388000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36337000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

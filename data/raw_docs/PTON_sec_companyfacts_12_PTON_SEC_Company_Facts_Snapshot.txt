@@ -1,0 +1,12 @@
+Company: Peloton Interactive Inc. Class A Common Stock
+Ticker: PTON
+CIK: 0001639825
+Latest SEC XBRL Facts:
+Revenues: 1207300000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1207300000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -24800000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 2164600000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 2491300000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: -326700000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 143800000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1179600000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

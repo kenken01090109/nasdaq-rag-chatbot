@@ -1,0 +1,11 @@
+Company: NAPCO Security Technologies Inc. Common Stock
+Ticker: NSSC
+CIK: 0000069633
+Latest SEC XBRL Facts:
+Revenues: 97340000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+NetIncomeLoss: 25668000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+Assets: 212823000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+Liabilities: 28009000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+StockholdersEquity: 184814000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 26735000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 104919000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31

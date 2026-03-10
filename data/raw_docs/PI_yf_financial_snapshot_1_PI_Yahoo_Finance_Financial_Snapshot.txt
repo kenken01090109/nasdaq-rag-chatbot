@@ -1,0 +1,25 @@
+Company: Impinj Inc. Common Stock
+Ticker: PI
+Market Cap: 2850545664
+Enterprise Value: 3140240128
+Total Revenue: 361075008
+Revenue Per Share: 12.331
+EBITDA: 14303000
+Gross Margins: 0.52531
+Operating Margins: -0.029059999
+Profit Margins: -0.03004
+Free Cashflow: 38762000
+Operating Cashflow: 58746000
+Return On Assets: -0.00089
+Return On Equity: -0.06041
+Total Cash: 175336000
+Total Debt: 304198016
+Debt To Equity: 145.389
+Current Ratio: 2.681
+Quick Ratio: 1.945
+Trailing PE: 
+Forward PE: 30.01939
+Price To Book: 13.619819
+Beta: 1.616
+52 Week High: 247.064
+52 Week Low: 60.85

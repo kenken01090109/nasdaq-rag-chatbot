@@ -1,0 +1,10 @@
+Company: Mercantile Bank Corporation Common Stock
+Ticker: MBWM
+CIK: 0001042729
+Latest SEC XBRL Facts:
+NetIncomeLoss: 65913000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 6308487000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 5650857000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 657630000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 12324000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 114777000 | unit=USD | filed=2013-05-09 | period_end=2013-03-31

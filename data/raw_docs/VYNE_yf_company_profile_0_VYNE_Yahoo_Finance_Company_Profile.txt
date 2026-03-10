@@ -1,0 +1,9 @@
+Company: VYNE Therapeutics Inc. Common Stock
+Ticker: VYNE
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Bridgewater
+Website: https://vynetherapeutics.com
+Employees: 
+Business Summary: VYNE Therapeutics Inc., a clinical-stage biopharmaceutical company, focuses on developing therapies to treat chronic inflammatory and immune-mediated conditions. The company's lead program is repibresib gel (VYN201), a topically administered small molecule pan-bromodomain and extra-terminal (BET) inhibitor soft drug to address diseases involving multiple and diverse inflammatory cell signaling pathways with low systemic exposure. It also develops VYN202, a BD2-selective oral small molecule BET inhibitor in Phase 1b trial for the acute control and chronic management of immune-mediated inflammatory conditions. The company was formerly known as Menlo Therapeutics Inc. and changed its name to VYNE Therapeutics Inc. in September 2020. VYNE Therapeutics Inc. was founded in 2003 and is based in Bridgewater, New Jersey.

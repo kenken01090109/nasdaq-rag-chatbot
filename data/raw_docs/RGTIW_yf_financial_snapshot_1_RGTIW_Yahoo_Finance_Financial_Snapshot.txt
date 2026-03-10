@@ -1,0 +1,25 @@
+Company: Rigetti Computing Inc. Warrants
+Ticker: RGTIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 7088000
+Revenue Per Share: 0.023
+EBITDA: -76491000
+Gross Margins: 0.2912
+Operating Margins: -12.096899
+Profit Margins: 0.0
+Free Cashflow: -42190500
+Operating Cashflow: -58543000
+Return On Assets: -0.11124
+Return On Equity: -0.64273
+Total Cash: 443511008
+Total Debt: 7167000
+Debt To Equity: 1.312
+Current Ratio: 37.423
+Quick Ratio: 36.962
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.611886
+Beta: 1.723
+52 Week High: 8.0171
+52 Week Low: 7.385

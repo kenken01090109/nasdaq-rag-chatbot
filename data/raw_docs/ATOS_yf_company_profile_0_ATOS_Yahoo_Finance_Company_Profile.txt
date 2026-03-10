@@ -1,0 +1,9 @@
+Company: Atossa Therapeutics Inc. Common Stock
+Ticker: ATOS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Seattle
+Website: https://www.atossatherapeutics.com
+Employees: 15
+Business Summary: Atossa Therapeutics, Inc. operates as a clinical-stage biopharmaceutical company that develops medicines in the areas of unmet medical need in oncology for women breast cancer and other conditions in the United States. The company's lead drug candidate is oral (Z)-endoxifen, an active metabolite of tamoxifen, which is in Phase II clinical trials to treat and prevent breast cancer. It also develops immunotherapy/chimeric antigen receptor therapy programs. The company was formerly known as Atossa Genetics Inc. and changed its name to Atossa Therapeutics, Inc. in January 2020. Atossa Therapeutics, Inc. was founded in 2008 and is based in Seattle, Washington.

@@ -1,0 +1,8 @@
+Company: Firefly Neuroscience Inc. Common Stock
+Ticker: AIFF
+Total Cash: 4325000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.997
+Quick Ratio: 1.658
+Book Value: 0.717

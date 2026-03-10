@@ -1,0 +1,25 @@
+Company: Sentage Holdings Inc. Class A Ordinary Shares
+Ticker: SNTG
+Market Cap: 5414277
+Enterprise Value: 6186030
+Total Revenue: 107507
+Revenue Per Share: 0.045
+EBITDA: -1417748
+Gross Margins: 0.9249
+Operating Margins: -13.10719
+Profit Margins: 0.0
+Free Cashflow: 4958914
+Operating Cashflow: -1492224
+Return On Assets: -0.07565
+Return On Equity: -0.16354999
+Total Cash: 728311
+Total Debt: 1497539
+Debt To Equity: 15.906
+Current Ratio: 5.862
+Quick Ratio: 2.495
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5750894
+Beta: 2.569
+52 Week High: 12.7
+52 Week Low: 1.425

@@ -1,0 +1,25 @@
+Company: Construction Partners Inc. Class A Common Stock
+Ticker: ROAD
+Market Cap: 6673900544
+Enterprise Value: 8409418752
+Total Revenue: 3060244992
+Revenue Per Share: 55.284
+EBITDA: 459412992
+Gross Margins: 0.15816
+Operating Margins: 0.07617
+Profit Margins: 0.03988
+Free Cashflow: 86515376
+Operating Cashflow: 333207008
+Return On Assets: 0.0627
+Return On Equity: 0.1371
+Total Cash: 104093000
+Total Debt: 1838279936
+Debt To Equity: 189.68
+Current Ratio: 1.592
+Quick Ratio: 1.179
+Trailing PE: 53.434387
+Forward PE: 31.959404
+Price To Book: 6.887722
+Beta: 0.84
+52 Week High: 141.9
+52 Week Low: 64.793

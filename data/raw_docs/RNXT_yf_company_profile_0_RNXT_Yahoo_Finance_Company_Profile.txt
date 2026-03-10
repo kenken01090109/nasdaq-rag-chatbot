@@ -1,0 +1,9 @@
+Company: RenovoRx Inc. Common Stock
+Ticker: RNXT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Mountain View
+Website: https://renovorx.com
+Employees: 10
+Business Summary: RenovoRx, Inc., a clinical-stage biopharmaceutical company, engages in the developing of targeted combination therapies to enhance therapeutic outcomes for cancer patients undergoing treatment. Its lead product candidate is chemotherapy gemcitabine, which is provided through RenovoCath that is in Phase III clinical trials for the treatment of locally advanced pancreatic cancer. RenovoRx, Inc. was founded in 2009 and is headquartered in Mountain View, California.

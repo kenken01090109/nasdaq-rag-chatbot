@@ -1,0 +1,11 @@
+Company: Comstock Holding Companies Inc. Class A Common Stock
+Ticker: CHCI
+CIK: 0001299969
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 38928000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 541000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 67595000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11331000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 56264000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -460000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26171000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

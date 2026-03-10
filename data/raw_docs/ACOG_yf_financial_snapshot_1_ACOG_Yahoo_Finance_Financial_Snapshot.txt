@@ -1,0 +1,25 @@
+Company: Alpha Cognition Inc. Common Stock
+Ticker: ACOG
+Market Cap: 125886784
+Enterprise Value: 89400840
+Total Revenue: 7427199
+Revenue Per Share: 0.5
+EBITDA: -17278716
+Gross Margins: 0.76868
+Operating Margins: -1.86985
+Profit Margins: -2.62176
+Free Cashflow: -11340786
+Operating Cashflow: -15777676
+Return On Assets: -0.42204
+Return On Equity: -1.25651
+Total Cash: 35398900
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.691
+Quick Ratio: 5.618
+Trailing PE: 
+Forward PE: -5.169643
+Price To Book: 2.7743173
+Beta: 2.551
+52 Week High: 11.54
+52 Week Low: 3.75

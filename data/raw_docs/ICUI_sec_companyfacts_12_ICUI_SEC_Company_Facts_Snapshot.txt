@@ -1,0 +1,11 @@
+Company: ICU Medical Inc. Common Stock
+Ticker: ICUI
+CIK: 0000883984
+Latest SEC XBRL Facts:
+Revenues: 1690558000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1690558000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -3396000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4102896000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2127250000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 119248000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 208784000 | unit=USD | filed=2023-02-27 | period_end=2022-12-31

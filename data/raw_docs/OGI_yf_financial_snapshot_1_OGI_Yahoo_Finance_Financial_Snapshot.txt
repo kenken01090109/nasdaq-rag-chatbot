@@ -1,0 +1,25 @@
+Company: Organigram Global Inc. Common Shares
+Ticker: OGI
+Market Cap: 199042096
+Enterprise Value: 252386544
+Total Revenue: 279991008
+Revenue Per Share: 2.105
+EBITDA: 5433000
+Gross Margins: 0.35614
+Operating Margins: -0.053790003
+Profit Margins: 0.06488
+Free Cashflow: -39607124
+Operating Cashflow: -19424000
+Return On Assets: -0.01475
+Return On Equity: 0.046409998
+Total Cash: 8381000
+Total Debt: 8452000
+Debt To Equity: 1.991
+Current Ratio: 2.728
+Quick Ratio: 0.62
+Trailing PE: 13.363637
+Forward PE: 81.66667
+Price To Book: 0.7350692
+Beta: 1.931
+52 Week High: 2.24
+52 Week Low: 0.85

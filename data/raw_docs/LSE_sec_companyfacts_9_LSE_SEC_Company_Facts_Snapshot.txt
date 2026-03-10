@@ -1,0 +1,10 @@
+Company: Leishen Energy Holding Co. Ltd. Class A Ordinary Shares
+Ticker: LSE
+CIK: 0001985139
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 48335553 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetIncomeLoss: 1254387 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Assets: 69332632 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Liabilities: 23875132 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+StockholdersEquity: 45432735 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3522067 | unit=USD | filed=2026-01-30 | period_end=2025-09-30

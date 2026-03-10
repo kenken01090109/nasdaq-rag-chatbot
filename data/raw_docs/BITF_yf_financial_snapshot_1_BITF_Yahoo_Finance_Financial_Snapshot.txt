@@ -1,0 +1,25 @@
+Company: Bitfarms Ltd. Common Stock
+Ticker: BITF
+Market Cap: 1229564160
+Enterprise Value: 1314122112
+Total Revenue: 276408992
+Revenue Per Share: 0.531
+EBITDA: 29946000
+Gross Margins: 0.046079997
+Operating Margins: -0.28765
+Profit Margins: -0.46382
+Free Cashflow: -178397376
+Operating Cashflow: -196346000
+Return On Assets: -0.08166
+Return On Equity: -0.125
+Total Cash: 86952000
+Total Debt: 73684000
+Debt To Equity: 12.053
+Current Ratio: 3.201
+Quick Ratio: 0.774
+Trailing PE: 
+Forward PE: -51.0
+Price To Book: 1.878453
+Beta: 4.094
+52 Week High: 6.6
+52 Week Low: 0.673

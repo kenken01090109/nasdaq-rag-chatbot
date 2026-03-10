@@ -1,0 +1,12 @@
+Company: Atlantic International Corp. Common Stock
+Ticker: ATLN
+CIK: 0001605888
+Latest SEC XBRL Facts:
+Revenues: 205259485 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 315833003 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -32282698 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 110256767 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 132321765 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -22064998 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3782051 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 83406 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

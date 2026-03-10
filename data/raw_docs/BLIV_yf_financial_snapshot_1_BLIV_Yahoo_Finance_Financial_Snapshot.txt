@@ -1,0 +1,25 @@
+Company: BeLive Holdings Ordinary Share
+Ticker: BLIV
+Market Cap: 31181980
+Enterprise Value: 21411446
+Total Revenue: 1435632
+Revenue Per Share: 0.132
+EBITDA: -5840144
+Gross Margins: 0.48979
+Operating Margins: -15.074329
+Profit Margins: 0.0
+Free Cashflow: -956895
+Operating Cashflow: -2995102
+Return On Assets: -0.61844003
+Return On Equity: -1.09044
+Total Cash: 9823349
+Total Debt: 52814
+Debt To Equity: 0.516
+Current Ratio: 24.194
+Quick Ratio: 23.853
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.8977823
+Beta: 
+52 Week High: 6.4
+52 Week Low: 1.85

@@ -1,0 +1,7 @@
+Company: Acadia Healthcare Company Inc. Common Stock
+Ticker: ACHC
+Business Summary: Acadia Healthcare Company, Inc. provides behavioral healthcare services in the United States and Puerto Rico. The company owns and operates acute inpatient psychiatric facilities; specialty treatment facilities comprising residential recovery facilities and eating disorder facilities; comprehensive treatment centers; and residential treatment centers, as well as facilities providing outpatient behavioral healthcare services for the behavioral healthcare and recovery needs of communities. Acadia Healthcare Company, Inc. was founded in 2005 and is headquartered in Franklin, Tennessee.
+Sector: Healthcare
+Industry: Medical Care Facilities
+Exchange: NMS
+Quote Type: EQUITY

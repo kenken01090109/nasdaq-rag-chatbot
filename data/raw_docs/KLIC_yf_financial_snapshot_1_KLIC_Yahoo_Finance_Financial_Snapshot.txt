@@ -1,0 +1,25 @@
+Company: Kulicke and Soffa Industries Inc. Common Stock
+Ticker: KLIC
+Market Cap: 3216886016
+Enterprise Value: 2877541120
+Total Revenue: 687582016
+Revenue Per Share: 13.075
+EBITDA: 34203000
+Gross Margins: 0.48310003
+Operating Margins: 0.098290004
+Profit Margins: -0.094
+Free Cashflow: 117027000
+Operating Cashflow: 85730000
+Return On Assets: 0.00913
+Return On Equity: -0.0719
+Total Cash: 481128000
+Total Debt: 36982000
+Debt To Equity: 4.482
+Current Ratio: 4.644
+Quick Ratio: 3.54
+Trailing PE: 
+Forward PE: 18.7599
+Price To Book: 3.898402
+Beta: 1.605
+52 Week High: 77.5
+52 Week Low: 26.63

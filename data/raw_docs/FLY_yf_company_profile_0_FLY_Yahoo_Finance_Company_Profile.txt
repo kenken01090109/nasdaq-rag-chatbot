@@ -1,0 +1,9 @@
+Company: Firefly Aerospace Inc. Common Stock
+Ticker: FLY
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Cedar Park
+Website: https://www.fireflyspace.com
+Employees: 
+Business Summary: Firefly Aerospace Inc. operates as a space and defense technology company and provides mission solutions for national security, government, and commercial customers. The company offers integrated launch and space services technology that is committed to enabling launch, transit, and operations in space. It also provides Alpha, a responsive launch service; Eclipse, a medium-lift launch vehicle; Blue Ghost, a lunar delivery and operation service; Elytra, which offers space maneuverability and servicing; and Ocula, a lunar imaging service. The company was incorporated in 2017 and is headquartered in Cedar Park, Texas.

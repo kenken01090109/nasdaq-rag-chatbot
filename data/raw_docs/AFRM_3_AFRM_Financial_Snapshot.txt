@@ -1,0 +1,12 @@
+Company: Affirm Holdings Inc. Class A Common Stock
+Ticker: AFRM
+Total Revenue: 3715908096
+Revenue Per Share: 11.3
+Gross Margins: 0.47777
+Operating Margins: 0.10474
+EBITDA: 527048992
+Profit Margins: 0.07598
+Free Cashflow: 457454752
+Operating Cashflow: 833334976
+Return On Assets: 0.01232
+Return On Equity: 0.08917

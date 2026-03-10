@@ -1,0 +1,9 @@
+Company: DoubleDown Interactive Co. Ltd. American Depository Shares
+Ticker: DDI
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: South Korea
+City: Seoul
+Website: https://www.doubledowninteractive.com
+Employees: 
+Business Summary: DoubleDown Interactive Co., Ltd. engages in the development and publishing of casual games and mobile applications in South Korea. It operates through two segments, Social Casino Games and iGaming. It publishes digital gaming content on mobile and web platforms. The company offers DoubleDown Casino, DoubleDown Classic, and DoubleDown Fort Knox games, as well as sells in-game virtual chips. Its games are distributed, marketed, and promoted under Duelz, VoodooDreams, and NYSpins brands through third party platform providers. It also operates in the United States, Canada, and the United Kingdom, and internationally. The company was formerly known as The8Games Co., Ltd. and changed its name to DoubleDown Interactive Co., Ltd. in December 2019. DoubleDown Interactive Co., Ltd. was incorporated in 2008 and is headquartered in Seoul, South Korea. DoubleDown Interactive Co., Ltd. is a subsidiary of DoubleU Games Co., Ltd.

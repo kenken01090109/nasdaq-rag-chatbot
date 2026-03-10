@@ -1,0 +1,25 @@
+Company: AmeriServ Financial Inc. Common Stock
+Ticker: ASRV
+Market Cap: 63412704
+Enterprise Value: 126252720
+Total Revenue: 55132000
+Revenue Per Share: 3.337
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.13205
+Profit Margins: 0.101789996
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0039
+Return On Equity: 0.04954
+Total Cash: 7253000
+Total Debt: 71382000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.0
+Forward PE: 
+Price To Book: 0.5179338
+Beta: 0.415
+52 Week High: 3.93
+52 Week Low: 2.03

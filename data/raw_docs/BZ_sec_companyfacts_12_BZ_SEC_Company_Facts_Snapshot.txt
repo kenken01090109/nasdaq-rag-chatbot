@@ -1,0 +1,11 @@
+Company: KANZHUN LIMITED American Depository Shares
+Ticker: BZ
+CIK: 0001842827
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1007723000 | unit=USD | filed=2025-04-10 | period_end=2024-12-31
+NetIncomeLoss: 15548000 | unit=USD | filed=2023-04-27 | period_end=2022-12-31
+Assets: 2645552000 | unit=USD | filed=2025-04-10 | period_end=2024-12-31
+Liabilities: 595654000 | unit=USD | filed=2025-04-10 | period_end=2024-12-31
+StockholdersEquity: 2036822000 | unit=USD | filed=2025-04-10 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 485320000 | unit=USD | filed=2025-04-10 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 349772000 | unit=USD | filed=2025-04-10 | period_end=2024-12-31

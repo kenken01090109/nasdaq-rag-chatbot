@@ -1,0 +1,25 @@
+Company: Monte Rosa Therapeutics Inc. Common Stock
+Ticker: GLUE
+Market Cap: 1357121024
+Enterprise Value: 817773824
+Total Revenue: 181538000
+Revenue Per Share: 2.208
+EBITDA: 16840000
+Gross Margins: 0.28076
+Operating Margins: -2.58263
+Profit Margins: 0.115380004
+Free Cashflow: 48564376
+Operating Cashflow: 149138000
+Return On Assets: 0.013730001
+Return On Equity: 0.09283
+Total Cash: 391257984
+Total Debt: 40168000
+Debt To Equity: 16.339
+Current Ratio: 6.54
+Quick Ratio: 6.449
+Trailing PE: 55.625
+Forward PE: -10.76615
+Price To Book: 4.4734855
+Beta: 1.639
+52 Week High: 25.77
+52 Week Low: 3.5

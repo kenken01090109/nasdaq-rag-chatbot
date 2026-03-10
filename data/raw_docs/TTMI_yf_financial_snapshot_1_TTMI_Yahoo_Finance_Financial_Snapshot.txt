@@ -1,0 +1,25 @@
+Company: TTM Technologies Inc. Common Stock
+Ticker: TTMI
+Market Cap: 9090327552
+Enterprise Value: 10757112832
+Total Revenue: 2906344960
+Revenue Per Share: 28.328
+EBITDA: 414702016
+Gross Margins: 0.20702
+Operating Margins: 0.10456
+Profit Margins: 0.06106
+Free Cashflow: -61288876
+Operating Cashflow: 291881984
+Return On Assets: 0.04573
+Return On Equity: 0.1067
+Total Cash: 504334016
+Total Debt: 1029529984
+Debt To Equity: 58.421
+Current Ratio: 1.928
+Quick Ratio: 1.596
+Trailing PE: 52.327385
+Forward PE: 19.579067
+Price To Book: 5.156919
+Beta: 1.761
+52 Week High: 113.46
+52 Week Low: 15.77

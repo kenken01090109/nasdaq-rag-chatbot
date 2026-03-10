@@ -1,0 +1,9 @@
+Company: Neonode Inc. Common Stock
+Ticker: NEON
+Sector: Technology
+Industry: Electronic Components
+Country: Sweden
+City: Stockholm
+Website: https://neonode.com
+Employees: 40
+Business Summary: Neonode Inc., together with its subsidiaries, develops optical sensing solutions for contactless touch, touch, and gesture sensing in the United States, Japan, South Korea, Germany, Sweden, China, and internationally. It also offers software solutions for machine perception to detect and track persons and objects in video streams from cameras and other types of imagers. In addition, it licenses its zForce technology to original equipment manufacturers and automotive Tier 1 suppliers, as well as provides non-recurring engineering services related to application development. Further, the company provides machine perception solutions. It serves office equipment, automotive, industrial automation, medical, military, and avionics markets. Neonode Inc. was founded in 1997 and is headquartered in Stockholm, Sweden.

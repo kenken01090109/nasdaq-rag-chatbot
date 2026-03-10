@@ -1,0 +1,9 @@
+Company: Bank7 Corp. Common stock
+Ticker: BSVN
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Oklahoma City
+Website: https://www.bank7.com
+Employees: 
+Business Summary: Bank7 Corp. operates as a bank holding company for Bank7 that provides banking and financial services to individual and corporate customers. It offers commercial deposit, commercial checking, money market, and other deposit accounts; and retail deposit services, such as certificates of deposit, money market accounts, checking accounts, negotiable order of withdrawal accounts, savings accounts, and automated teller machine access. The company also provides commercial real estate, hospitality, energy, and commercial and industrial lending services; and consumer lending services to individuals for personal and household purposes comprising residential real estate loans and mortgage banking services, personal lines of credit, loans for the purchase of automobiles, and other installment loans, as well as secured and unsecured term loans and home improvement loans. It operates through a network of full-service branches in Oklahoma, the Dallas/Fort Worth, Texas metropolitan area, and Kansas. The company was formerly known as Haines Financial Corp. Bank7 Corp. was founded in 1901 and is headquartered in Oklahoma City, Oklahoma.

@@ -1,0 +1,12 @@
+Company: Fangdd Network Group Ltd. Class A Ordinary Shares
+Ticker: DUO
+CIK: 0001750593
+Latest SEC XBRL Facts:
+Revenues: 28393000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 21167000 | unit=USD | filed=2023-09-29 | period_end=2023-06-30
+NetIncomeLoss: -5321000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 94785000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 41570000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 53072000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2964000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 4837000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: SenesTech Inc. Common Stock
+Ticker: SNES
+Market Cap: 11333943
+Enterprise Value: 3507791
+Total Revenue: 2301000
+Revenue Per Share: 1.035
+EBITDA: -5737000
+Gross Margins: 0.63451
+Operating Margins: -1.9521699
+Profit Margins: -2.5354202
+Free Cashflow: -3399625
+Operating Cashflow: -5304000
+Return On Assets: -0.38542998
+Return On Equity: -0.77792
+Total Cash: 10248000
+Total Debt: 2683000
+Debt To Equity: 23.643
+Current Ratio: 15.751
+Quick Ratio: 14.307
+Trailing PE: 
+Forward PE: -0.48222223
+Price To Book: 0.99861944
+Beta: 0.155
+52 Week High: 6.24
+52 Week Low: 1.3

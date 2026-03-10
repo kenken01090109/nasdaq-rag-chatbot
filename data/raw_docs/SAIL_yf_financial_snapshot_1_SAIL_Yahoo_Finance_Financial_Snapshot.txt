@@ -1,0 +1,25 @@
+Company: SailPoint Inc. Common Stock
+Ticker: SAIL
+Market Cap: 8643420160
+Enterprise Value: 8302772736
+Total Revenue: 1016889984
+Revenue Per Share: 2.391
+EBITDA: -88127000
+Gross Margins: 0.64195
+Operating Margins: -0.14762999
+Profit Margins: -0.30873
+Free Cashflow: 294560384
+Operating Cashflow: 20510000
+Return On Assets: -0.025009999
+Return On Equity: -0.062589996
+Total Cash: 298113984
+Total Debt: 19245000
+Debt To Equity: 0.282
+Current Ratio: 1.275
+Quick Ratio: 1.11
+Trailing PE: 
+Forward PE: 48.733376
+Price To Book: 1.2655209
+Beta: 
+52 Week High: 24.95
+52 Week Low: 12.81

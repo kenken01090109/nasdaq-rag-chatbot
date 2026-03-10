@@ -1,0 +1,11 @@
+Company: Honeywell International Inc. Common Stock
+Ticker: HON
+CIK: 0000773840
+Latest SEC XBRL Facts:
+Revenues: 18742000000 | unit=USD | filed=2012-07-18 | period_end=2012-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 30582000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 4844000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 80917000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 16782000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5204000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12930000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Universal Electronics Inc. Common Stock
+Ticker: UEIC
+Market Cap: 51192184
+Enterprise Value: 48517184
+Total Revenue: 390996992
+Revenue Per Share: 29.704
+EBITDA: 10680000
+Gross Margins: 0.28966
+Operating Margins: -0.027290002
+Profit Margins: -0.05638
+Free Cashflow: 43729376
+Operating Cashflow: 34320000
+Return On Assets: -0.00873
+Return On Equity: -0.14345
+Total Cash: 31506000
+Total Debt: 28831000
+Debt To Equity: 19.728
+Current Ratio: 1.672
+Quick Ratio: 0.977
+Trailing PE: 
+Forward PE: 38.3
+Price To Book: 0.35025147
+Beta: 1.409
+52 Week High: 7.5
+52 Week Low: 2.69

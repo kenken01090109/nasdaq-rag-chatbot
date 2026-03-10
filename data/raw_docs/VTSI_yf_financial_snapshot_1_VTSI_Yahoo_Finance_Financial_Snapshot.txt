@@ -1,0 +1,25 @@
+Company: VirTra Inc. Common Stock
+Ticker: VTSI
+Market Cap: 46784512
+Enterprise Value: 34517988
+Total Revenue: 24934268
+Revenue Per Share: 2.192
+EBITDA: 2545651
+Gross Margins: 0.68994004
+Operating Margins: -0.084139995
+Profit Margins: 0.0065200003
+Free Cashflow: 4108237
+Operating Cashflow: 5175124
+Return On Assets: 0.012200001
+Return On Equity: 0.00349
+Total Cash: 20767104
+Total Debt: 7935548
+Debt To Equity: 16.945
+Current Ratio: 4.399
+Quick Ratio: 2.827
+Trailing PE: Infinity
+Forward PE: 9.627907
+Price To Book: 0.99735
+Beta: 0.652
+52 Week High: 7.47
+52 Week Low: 3.57

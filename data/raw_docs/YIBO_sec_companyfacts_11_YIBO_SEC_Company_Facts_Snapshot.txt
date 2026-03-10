@@ -1,0 +1,11 @@
+Company: Planet Image International Limited Class A Ordinary Shares
+Ticker: YIBO
+CIK: 0001868395
+Latest SEC XBRL Facts:
+Revenues: 74508000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30
+NetIncomeLoss: -8039000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30
+Assets: 140351000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30
+Liabilities: 82164000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30
+StockholdersEquity: 58187000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4493000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 52269000 | unit=USD | filed=2025-09-16 | period_end=2025-06-30

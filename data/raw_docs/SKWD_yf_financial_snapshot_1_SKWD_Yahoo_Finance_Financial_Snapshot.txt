@@ -1,0 +1,25 @@
+Company: Skyward Specialty Insurance Group Inc. Common Stock
+Ticker: SKWD
+Market Cap: 2152521728
+Enterprise Value: 1873361152
+Total Revenue: 1416541056
+Revenue Per Share: 35.057
+EBITDA: 241896992
+Gross Margins: 0.3008
+Operating Margins: 0.17598
+Profit Margins: 0.12003
+Free Cashflow: -67062124
+Operating Cashflow: 408076000
+Return On Assets: 0.03497
+Return On Equity: 0.18855
+Total Cash: 432843008
+Total Debt: 119980000
+Debt To Equity: 11.884
+Current Ratio: 1.947
+Quick Ratio: 0.804
+Trailing PE: 11.968059
+Forward PE: 8.890746
+Price To Book: 1.9545765
+Beta: 0.523
+52 Week High: 65.05
+52 Week Low: 42.45

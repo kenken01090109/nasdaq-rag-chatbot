@@ -1,0 +1,10 @@
+Company: Riverview Bancorp Inc Common Stock
+Ticker: RVSB
+CIK: 0001041368
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3701000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 1512311000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 1348094000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 164217000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 15552000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 28641000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

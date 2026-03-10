@@ -1,0 +1,9 @@
+Company: Borealis Foods Inc. Warrant
+Ticker: BRLSW
+Sector: 
+Industry: 
+Country: Canada
+City: Oakville
+Website: https://www.borealisfoods.com
+Employees: 147
+Business Summary: Borealis Foods Inc. operates as a food tech company that provides nutritious food products. It provides ramen noodles under the Chef Woo, Chef Ramsay, Ramen Express, and Woodles brands. The company is based in Oakville, Canada.

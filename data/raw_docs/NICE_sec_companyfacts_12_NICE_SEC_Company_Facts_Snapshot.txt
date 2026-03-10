@@ -1,0 +1,10 @@
+Company: NICE Ltd American Depositary Shares
+Ticker: NICE
+CIK: 0001003935
+Latest SEC XBRL Facts:
+Revenues: 2945399000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: 612101000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+Assets: 5106030000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+StockholdersEquity: 3876528000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 716549000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 379388000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: Laser Photonics Corporation Common Stock
+Ticker: LASE
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: United States
+City: Orlando
+Website: https://www.laserphotonics.com
+Employees: 94
+Business Summary: Laser Photonics Corporation operates as a vertically integrated manufacturing company for photonics-based industrial products and solutions, comprising laser cleaning technologies. It offers laser cleaning systems, such as finishing lasers, conditioning lasers, roughening lasers, custom-built industrial laser systems, and continuous and pulsed wave laser cleaning machines; laser cutting systems, including fiber and CO2 laser cutting; and laser welding system comprising handheld laser welder, robot-operated laser welder, enclosed robotic workcell, and custom-built industrial laser systems. The company also provides laser marking systems, which include handheld systems for marking on-the-go and industrial laser systems; and laser engraving solutions. Its products are used in aviation, automotive, nuclear, maritime, defense, space, semiconductors, energy, and battery manufacturing industries. Laser Photonics Corporation was incorporated in 2019 and is based in Orlando, Florida.

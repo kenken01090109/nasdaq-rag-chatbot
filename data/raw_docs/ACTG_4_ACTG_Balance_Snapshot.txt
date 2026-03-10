@@ -1,0 +1,8 @@
+Company: Acacia Research Corporation (Acacia Tech) Common Stock
+Ticker: ACTG
+Total Cash: 365723008
+Total Debt: 106699000
+Debt To Equity: 18.497
+Current Ratio: 8.632
+Quick Ratio: 7.696
+Book Value: 5.573

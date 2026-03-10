@@ -1,0 +1,11 @@
+Company: Coinbase Global Inc. Class A Common Stock
+Ticker: COIN
+CIK: 0001679788
+Latest SEC XBRL Facts:
+Revenues: 5400196000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1927060000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 31351367000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 15328143000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 16023224000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -638768000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8676275000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

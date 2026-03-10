@@ -1,0 +1,9 @@
+Company: El Pollo Loco Holdings Inc. Common Stock
+Ticker: LOCO
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Costa Mesa
+Website: https://www.elpolloloco.com
+Employees: 4143
+Business Summary: El Pollo Loco Holdings, Inc., through its subsidiary, El Pollo Loco, Inc., develops, franchises, licenses, and operates quick-service restaurants under the El Pollo Loco name. The company operates and franchises restaurants located in California, Nevada, Arizona, Texas, Colorado, Utah, and Louisiana. It also licenses its brand to restaurants in the Philippines. The company was formerly known as Chicken Acquisition Corp. and changed its name to El Pollo Loco Holdings, Inc. in April 2014. El Pollo Loco Holdings, Inc. was founded in 1975 and is headquartered in Costa Mesa, California.

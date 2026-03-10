@@ -1,0 +1,10 @@
+Company: Radware Ltd. Ordinary Shares
+Ticker: RDWR
+CIK: 0001094366
+Latest SEC XBRL Facts:
+Revenues: 274880000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+NetIncomeLoss: 6038000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+Assets: 618676000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+StockholdersEquity: 316273000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 71609000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 98714000 | unit=USD | filed=2025-03-28 | period_end=2024-12-31

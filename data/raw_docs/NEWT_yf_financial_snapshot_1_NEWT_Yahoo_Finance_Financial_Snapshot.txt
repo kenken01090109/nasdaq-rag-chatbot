@@ -1,0 +1,25 @@
+Company: NewtekOne Inc. Common Stock
+Ticker: NEWT
+Market Cap: 348958528
+Enterprise Value: 942929920
+Total Revenue: 383328992
+Revenue Per Share: 14.562
+EBITDA: 197983008
+Gross Margins: 0.85251
+Operating Margins: 0.55594003
+Profit Margins: 0.15786
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.05132
+Return On Equity: 0.17442
+Total Cash: 284232000
+Total Debt: 822761984
+Debt To Equity: 206.948
+Current Ratio: 56.835
+Quick Ratio: 6.616
+Trailing PE: 5.392857
+Forward PE: 4.8465395
+Price To Book: 0.9908136
+Beta: 1.285
+52 Week High: 14.91
+52 Week Low: 9.12

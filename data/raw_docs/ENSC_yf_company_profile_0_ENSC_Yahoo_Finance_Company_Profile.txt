@@ -1,0 +1,9 @@
+Company: Ensysce Biosciences Inc. Common Stock
+Ticker: ENSC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: La Jolla
+Website: https://www.ensysce.com
+Employees: 7
+Business Summary: Ensysce Biosciences, Inc., a clinical-stage pharmaceutical company, develops prescription drugs for severe pain relief in opioid misuse, abuse, and overdose in the United States. It develops products using Trypsin Activated Abuse Protection (TAAP) platform, designed to release clinically effective drugs only when exposed to specific physiological conditions; and Multi-Pill Abuse Resistance (MPAR) platform, an over-dose protection opioid prodrug technology. The company's lead product candidate is PF614, a TAAP oxycodone prodrug candidate for the treatment of severe or chronic pain; and PF614-MPAR, a combination product of PF614 and nafamostat for overdose protection. It is also developing PF8001 and PF8026 are extended and immediate-release prodrugs of amphetamine for attention deficit hyperactivity disorder; and PF9001 to treat Opioid use disorder.Ensysce Biosciences, Inc. was founded in 2003 and is based in La Jolla, California.

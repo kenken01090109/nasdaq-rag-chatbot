@@ -1,0 +1,9 @@
+Company: Fenbo Holdings Limited Class A Ordinary Shares
+Ticker: FEBO
+Sector: Technology
+Industry: Consumer Electronics
+Country: Hong Kong
+City: Kwun Tong
+Website: https://www.fenbo.com
+Employees: 280
+Business Summary: Fenbo Holdings Limited, through its subsidiaries, manufactures, distributes, and sells personal care electric appliances and toys products in Europe, North America, Asia, and internationally. The company offers curling wands and irons; flat irons and hair straighteners, crimpers, and curling tongs; and hair dryers, trimmers, nail polish, pet shampoo brushes, tweezers, and other items. It also processes purchase orders for electronic appliances; and marketing services. The company was founded in 1993 and is headquartered in Kwun Tong, Hong Kong. Fenbo Holdings Limited is a subsidiary of Luxury Max Investments Limited.

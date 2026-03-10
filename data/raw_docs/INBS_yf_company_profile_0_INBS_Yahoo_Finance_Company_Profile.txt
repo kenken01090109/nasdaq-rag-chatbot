@@ -1,0 +1,9 @@
+Company: Intelligent Bio Solutions Inc. Common Stock
+Ticker: INBS
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: New York
+Website: https://ibs.inc
+Employees: 53
+Business Summary: Intelligent Bio Solutions Inc., a medical technology company, focused on developing and delivering non-invasive testing, and screening solutions in Asia Pacific, the United States, the United Kingdom, and internationally. The company operates intelligent fingerprinting drug screening system, a platform to analyze fingerprint sweat analysis to detect drugs abuse; and biosensor platform. The company was formerly known as GBS Inc. and changed its name to Intelligent Bio Solutions Inc. in October 2022. Intelligent Bio Solutions Inc. was incorporated in 2016 and is headquartered in New York, New York.

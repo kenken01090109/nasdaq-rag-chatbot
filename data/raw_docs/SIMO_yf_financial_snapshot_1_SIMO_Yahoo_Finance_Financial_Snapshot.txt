@@ -1,0 +1,25 @@
+Company: Silicon Motion Technology Corporation American Depositary Shares
+Ticker: SIMO
+Market Cap: 4021967616
+Enterprise Value: 16412195840
+Total Revenue: 885627008
+Revenue Per Share: 26.375
+EBITDA: 123211000
+Gross Margins: 0.48272
+Operating Margins: 0.11387999
+Profit Margins: 0.13847
+Free Cashflow: -22429876
+Operating Cashflow: 61426000
+Return On Assets: 0.05163
+Return On Equity: 0.153
+Total Cash: 201842000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.793
+Quick Ratio: 1.224
+Trailing PE: 32.513737
+Forward PE: 17.164661
+Price To Book: 4.7812386
+Beta: 1.03
+52 Week High: 146.85
+52 Week Low: 37.21

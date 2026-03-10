@@ -1,0 +1,12 @@
+Company: Ardelyx Inc. Common Stock
+Ticker: ARDX
+CIK: 0001437402
+Latest SEC XBRL Facts:
+Revenues: 3031000 | unit=USD | filed=2019-11-06 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 282105000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -61192000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 486170000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 331890000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 154280000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -63434000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42715000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

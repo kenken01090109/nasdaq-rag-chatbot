@@ -1,0 +1,25 @@
+Company: Newbury Street II Acquisition Corp Class A Ordinary Shares
+Ticker: NTWO
+Market Cap: 253221952
+Enterprise Value: 252272336
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -596790
+Return On Assets: 
+Return On Equity: 
+Total Cash: 949601
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 10.416
+Quick Ratio: 9.084
+Trailing PE: 105.0
+Forward PE: 
+Price To Book: -50.0
+Beta: 
+52 Week High: 10.52
+52 Week Low: 10.01

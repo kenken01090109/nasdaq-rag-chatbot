@@ -1,0 +1,9 @@
+Company: PRF Technologies Ltd. Ordinary Shares
+Ticker: PRFX
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Israel
+City: Tel Aviv-Yafo
+Website: https://www.painreform.com
+Employees: 2
+Business Summary: PRF Technologies Ltd., a clinical stage specialty pharmaceutical company, focuses on the reformulation of established therapeutics and provides an extended period of post-surgical pain relief in Israel. It develops PRF-110, a viscous clear oil-based solution that is instilled directly into the surgical wound to provide localized and extended post-operative analgesia, as well as in Phase 3 clinical trial for pain treatment of patients undergoing bunionectomy and pain treatment of hernia repair operations. The company was formerly known as PainReform Ltd. and change its name to PRF Technologies Ltd. in January 2026. The company was incorporated in 2007 and is based in Tel Aviv-Yafo, Israel.

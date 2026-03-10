@@ -1,0 +1,25 @@
+Company: Bridgewater Bancshares Inc. Common Stock
+Ticker: BWB
+Market Cap: 491351488
+Enterprise Value: 920068736
+Total Revenue: 137303008
+Revenue Per Share: 4.985
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.48544
+Profit Margins: 0.33567002
+Free Cashflow: 
+Operating Cashflow: 27812000
+Return On Assets: 0.0088
+Return On Equity: 0.09454001
+Total Cash: 158412000
+Total Debt: 519479008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.879195
+Forward PE: 7.981962
+Price To Book: 1.0905058
+Beta: 0.617
+52 Week High: 20.3
+52 Week Low: 11.93

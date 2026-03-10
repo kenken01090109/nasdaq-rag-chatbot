@@ -1,0 +1,25 @@
+Company: Atossa Therapeutics Inc. Common Stock
+Ticker: ATOS
+Market Cap: 39009776
+Enterprise Value: -11543494
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -32840000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -16677000
+Operating Cashflow: -26274000
+Return On Assets: -0.29871
+Return On Equity: -0.48887002
+Total Cash: 51845000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.769
+Quick Ratio: 6.303
+Trailing PE: 
+Forward PE: -1.0469946
+Price To Book: 0.783466
+Beta: 1.493
+52 Week High: 19.35
+52 Week Low: 3.76

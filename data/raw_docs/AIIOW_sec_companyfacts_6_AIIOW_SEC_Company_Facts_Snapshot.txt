@@ -1,0 +1,11 @@
+Company: Robo.ai Inc. Warrant
+Ticker: AIIOW
+CIK: 0001932737
+Latest SEC XBRL Facts:
+Revenues: 864000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: -2236000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 34941000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 104156000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: -65074000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1025000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 147000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

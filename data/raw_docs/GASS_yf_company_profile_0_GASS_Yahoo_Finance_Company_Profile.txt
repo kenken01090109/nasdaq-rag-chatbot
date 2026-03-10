@@ -1,0 +1,9 @@
+Company: StealthGas Inc. Common Stock
+Ticker: GASS
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Athens
+Website: https://www.stealthgas.com
+Employees: 
+Business Summary: StealthGas Inc., together with its subsidiaries, provides seaborne transportation services to liquefied petroleum gas (LPG) producers and users worldwide. The company's LPG carriers carry various petroleum gas products in liquefied form, including propane, butane, butadiene, isopropane, propylene, and vinyl chloride monomer, as well as ammonia. It also offers crude oil and natural gas. The company operates a fleet of 31 LPG carries, including three JV vessels. StealthGas Inc. was incorporated in 2004 and is based in Athens, Greece.

@@ -1,0 +1,11 @@
+Company: Ichor Holdings Ordinary Shares
+Ticker: ICHR
+CIK: 0001652535
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 724046000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+NetIncomeLoss: -36820000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+Assets: 966583000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+Liabilities: 290406000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+StockholdersEquity: 676177000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 20716000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 92500000 | unit=USD | filed=2025-11-03 | period_end=2025-09-26

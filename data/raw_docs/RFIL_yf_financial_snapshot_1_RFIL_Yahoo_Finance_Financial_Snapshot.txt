@@ -1,0 +1,25 @@
+Company: RF Industries Ltd. Common Stock
+Ticker: RFIL
+Market Cap: 111852080
+Enterprise Value: 148899648
+Total Revenue: 80586000
+Revenue Per Share: 7.568
+EBITDA: 5277000
+Gross Margins: 0.33176997
+Operating Margins: 0.07635
+Profit Margins: 0.00093000004
+Free Cashflow: 6473750
+Operating Cashflow: 4579000
+Return On Assets: 0.02441
+Return On Equity: 0.00217
+Total Cash: 5505000
+Total Debt: 26589000
+Debt To Equity: 75.528
+Current Ratio: 1.673
+Quick Ratio: 0.975
+Trailing PE: 1044.0
+Forward PE: 22.212765
+Price To Book: 3.177115
+Beta: 1.003
+52 Week High: 13.09
+52 Week Low: 3.39

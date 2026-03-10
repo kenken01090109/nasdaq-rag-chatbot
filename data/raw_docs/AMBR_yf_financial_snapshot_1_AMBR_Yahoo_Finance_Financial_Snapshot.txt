@@ -1,0 +1,25 @@
+Company: Amber International Holding Limited American Depositary Shares
+Ticker: AMBR
+Market Cap: 250133424
+Enterprise Value: 1208038656
+Total Revenue: 5038151
+Revenue Per Share: 496.272
+EBITDA: -3333711
+Gross Margins: 0.24389
+Operating Margins: 0.08437
+Profit Margins: -2.9622602
+Free Cashflow: 
+Operating Cashflow: 3468122
+Return On Assets: 
+Return On Equity: 
+Total Cash: 39923000
+Total Debt: 2000
+Debt To Equity: 0.002
+Current Ratio: 1.127
+Quick Ratio: 0.184
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.9955157
+Beta: 
+52 Week High: 13.09
+52 Week Low: 1.23

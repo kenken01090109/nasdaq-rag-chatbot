@@ -1,0 +1,10 @@
+Company: AirJoule Technologies Corporation Class A Common Stock
+Ticker: AIRJ
+CIK: 0001855474
+Latest SEC XBRL Facts:
+NetIncomeLoss: 13379712 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 372729841 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 86376440 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 286353401 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4035731 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 27400000 | unit=USD | filed=2024-08-23 | period_end=2024-03-31

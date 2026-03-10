@@ -1,0 +1,25 @@
+Company: ESGL Holdings Limited Ordinary Shares
+Ticker: ESGL
+Market Cap: 137347616
+Enterprise Value: 144500624
+Total Revenue: 5328277
+Revenue Per Share: 0.146
+EBITDA: -1811999
+Gross Margins: 0.53032
+Operating Margins: -1.02243
+Profit Margins: -0.51218
+Free Cashflow: -5031612
+Operating Cashflow: -2130483
+Return On Assets: -0.07869
+Return On Equity: -0.23183
+Total Cash: 312547
+Total Debt: 6193813
+Debt To Equity: 45.764
+Current Ratio: 0.182
+Quick Ratio: 0.119
+Trailing PE: 
+Forward PE: 
+Price To Book: 10.156739
+Beta: 1.477
+52 Week High: 4.32
+52 Week Low: 1.4

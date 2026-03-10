@@ -1,0 +1,25 @@
+Company: Century Therapeutics Inc. Common Stock
+Ticker: IPSC
+Market Cap: 223757600
+Enterprise Value: 135714160
+Total Revenue: 113337000
+Revenue Per Share: 1.317
+EBITDA: -9803000
+Gross Margins: 0.0705
+Operating Margins: -0.20004
+Profit Margins: -0.23366
+Free Cashflow: 10888000
+Operating Cashflow: -112022000
+Return On Assets: -0.044749998
+Return On Equity: -0.14236
+Total Cash: 132749000
+Total Debt: 44957000
+Debt To Equity: 25.493
+Current Ratio: 6.252
+Quick Ratio: 6.049
+Trailing PE: 
+Forward PE: -2.855008
+Price To Book: 1.2561333
+Beta: 1.715
+52 Week High: 2.71
+52 Week Low: 0.342

@@ -1,0 +1,9 @@
+Company: ProCap Financial Inc. Warrant
+Ticker: BRRWW
+Sector: 
+Industry: 
+Country: United States
+City: New York
+Website: 
+Employees: 
+Business Summary: ProCap Financial, Inc. operates as a bitcoin-native financial services company. The company is based in New York, New York.

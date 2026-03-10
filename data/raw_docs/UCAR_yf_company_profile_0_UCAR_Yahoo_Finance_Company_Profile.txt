@@ -1,0 +1,9 @@
+Company: U Power Limited Class A Ordinary Shares
+Ticker: UCAR
+Sector: Consumer Cyclical
+Industry: Auto & Truck Dealerships
+Country: China
+City: Wuhu
+Website: https://www.upincar.com
+Employees: 80
+Business Summary: U Power Limited, together with its subsidiaries, develops, manufactures, and sells new energy vehicles and battery swapping stations in the People's Republic of China, Thailand, Southeast Asia, South America, Hong Kong SAR, and Macau SAR markets. It also offers battery swapping and sourcing, as well as technical and consultation services. The company was founded in 2013 and is based in Wuhu, the People's Republic of China.

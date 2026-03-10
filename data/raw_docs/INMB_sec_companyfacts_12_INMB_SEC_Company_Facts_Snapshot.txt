@@ -1,0 +1,11 @@
+Company: INmune Bio Inc. Common stock
+Ticker: INMB
+CIK: 0001711754
+Latest SEC XBRL Facts:
+Revenues: 50000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -40669000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 33358000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 7980000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 25378000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19638000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 27734000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

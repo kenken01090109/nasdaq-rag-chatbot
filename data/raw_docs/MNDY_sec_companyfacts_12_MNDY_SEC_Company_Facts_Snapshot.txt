@@ -1,0 +1,12 @@
+Company: monday.com Ltd. Ordinary Shares
+Ticker: MNDY
+CIK: 0001845338
+Latest SEC XBRL Facts:
+Revenues: 581264000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 291230000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetIncomeLoss: 28998000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Assets: 1963971000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Liabilities: 771593000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+StockholdersEquity: 1192378000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 178807000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1590515000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30

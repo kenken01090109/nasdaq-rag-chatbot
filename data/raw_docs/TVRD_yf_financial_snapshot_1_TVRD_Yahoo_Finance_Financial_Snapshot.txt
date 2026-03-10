@@ -1,0 +1,25 @@
+Company: Tvardi Therapeutics Inc. Common Stock
+Ticker: TVRD
+Market Cap: 36868684
+Enterprise Value: 1481002
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -29868000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -12512875
+Operating Cashflow: -22647000
+Return On Assets: -0.72676
+Return On Equity: -1.3563901
+Total Cash: 36460000
+Total Debt: 228000
+Debt To Equity: 0.818
+Current Ratio: 3.482
+Quick Ratio: 3.303
+Trailing PE: 
+Forward PE: -1.859035
+Price To Book: 1.3227869
+Beta: 
+52 Week High: 43.65
+52 Week Low: 3.5

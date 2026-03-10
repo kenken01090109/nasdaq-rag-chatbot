@@ -1,0 +1,25 @@
+Company: Virtuix Holdings Inc. Class A Common Stock
+Ticker: VTIX
+Market Cap: 205477360
+Enterprise Value: 232891504
+Total Revenue: 4760619
+Revenue Per Share: 0.41
+EBITDA: -7261421
+Gross Margins: 0.14545
+Operating Margins: -1.55844
+Profit Margins: -1.8394
+Free Cashflow: 
+Operating Cashflow: -6318821
+Return On Assets: 
+Return On Equity: 
+Total Cash: 564567
+Total Debt: 3605267
+Debt To Equity: 
+Current Ratio: 0.419
+Quick Ratio: 0.141
+Trailing PE: 
+Forward PE: 
+Price To Book: -67.27273
+Beta: 
+52 Week High: 92.74
+52 Week Low: 4.39

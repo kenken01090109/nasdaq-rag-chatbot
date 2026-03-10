@@ -1,0 +1,11 @@
+Company: Vistagen Therapeutics Inc. Common Stock
+Ticker: VTGN
+CIK: 0001411685
+Latest SEC XBRL Facts:
+Revenues: -227000 | unit=USD | filed=2023-06-28 | period_end=2023-03-31
+NetIncomeLoss: -53411000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 65056000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 14136000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 50920000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -50236000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 47371000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

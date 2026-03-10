@@ -1,0 +1,12 @@
+Company: AdaptHealth Corp. Common Stock
+Ticker: AHCO
+Total Revenue: 3244857088
+Revenue Per Share: 24.01
+Gross Margins: 0.20892
+Operating Margins: 0.06196
+EBITDA: 586492992
+Profit Margins: -0.02182
+Free Cashflow: 246523120
+Operating Cashflow: 601771008
+Return On Assets: 0.02905
+Return On Equity: -0.042540003

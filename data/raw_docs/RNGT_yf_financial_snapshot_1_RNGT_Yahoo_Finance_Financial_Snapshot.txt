@@ -1,0 +1,25 @@
+Company: Range Capital Acquisition Corp II Class A Ordinary Shares
+Ticker: RNGT
+Market Cap: 312326880
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -2492.5
+Beta: 
+52 Week High: 10.05
+52 Week Low: 9.898

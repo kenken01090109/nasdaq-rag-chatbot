@@ -1,0 +1,10 @@
+Company: Airship AI Holdings Inc. Class A Common Stock
+Ticker: AISP
+Market Cap: 94512440
+Enterprise Value: 83637168
+Trailing PE: 3.618421
+Forward PE: 18.333332
+Price To Book: -13.221153
+Beta: 0.369
+52 Week High: 7.2
+52 Week Low: 2.36

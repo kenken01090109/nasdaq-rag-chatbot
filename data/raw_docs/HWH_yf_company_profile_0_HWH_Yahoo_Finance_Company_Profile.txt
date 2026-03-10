@@ -1,0 +1,9 @@
+Company: HWH International Inc. Common Stock
+Ticker: HWH
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: United States
+City: Bethesda
+Website: https://www.hwhintl.com
+Employees: 16
+Business Summary: HWH International Inc. engages in the food and beverage business in Singapore and South Korea. The company operates cafés and an online healthy food store. It operates through Hapi Marketplace, Hapi Cafés, and Hapi Wealth Builder segments. The Hapi Marketplace segment offers products at a discounted price to its members, including bathroom supplies, fashion products, accessories, cosmetics, and health supplements. The Hapi Cafés segment operates Hapi Café locations. The Hapi Wealth Builder segment provides participants the opportunity to attend courses, workshops, and coaching sessions in person fostering a collaborative learning environment for those dedicated to learning about investment in equities and wealth-building strategies. The company was founded in 2021 and is based in Bethesda, Maryland.

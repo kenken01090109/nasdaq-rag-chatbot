@@ -1,0 +1,10 @@
+Company: Achieve Life Sciences Inc. Common Shares
+Ticker: ACHV
+Market Cap: 234229552
+Enterprise Value: 196073552
+Trailing PE: 
+Forward PE: -3.7183201
+Price To Book: 6.9182396
+Beta: 1.831
+52 Week High: 6.03
+52 Week Low: 1.84

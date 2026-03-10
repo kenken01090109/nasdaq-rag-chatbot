@@ -1,0 +1,12 @@
+Company: Davis Commodities Limited Class A Ordinary Shares
+Ticker: DTCK
+CIK: 0001949478
+Latest SEC XBRL Facts:
+Revenues: 132369000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 132369000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -3529000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 19688000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 12961000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 6727000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -777000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 678000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

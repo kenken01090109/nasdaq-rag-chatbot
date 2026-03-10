@@ -1,0 +1,12 @@
+Company: VirTra Inc. Common Stock
+Ticker: VTSI
+CIK: 0001085243
+Latest SEC XBRL Facts:
+Revenues: 747977 | unit=USD | filed=2025-03-27 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 19489178 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 1050807 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 66203576 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 19372942 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 46830634 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6083776 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20767105 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

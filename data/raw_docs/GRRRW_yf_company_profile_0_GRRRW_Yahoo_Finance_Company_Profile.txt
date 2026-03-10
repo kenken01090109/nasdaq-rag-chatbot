@@ -1,0 +1,9 @@
+Company: Gorilla Technology Group Inc. Warrant
+Ticker: GRRRW
+Sector: 
+Industry: 
+Country: United Kingdom
+City: London
+Website: https://www.gorilla-technology.com
+Employees: 143
+Business Summary: Gorilla Technology Group Inc. provides solutions in security, network, business intelligence, and Internet of Things (IoT) technology in Taiwan and the United Kingdom. It operates through three segments: Video IoT, Security Convergence, and Other segments. The company offers smart building and office solutions, such as occupancy management, integrated security, real-time AI monitoring, smart energy usage, predictive maintenance, smart elevator system, biometric access control, and personalized safety alerts; policing solutions, including GIS and geospatial mapping, temporal and spatial pattern correlation, data integration and pattern recognition, anomaly detection and trend identification, fast video search, people, vehicle, and license plate detection, synced mobile and camera analytics, and intelligence analysis platform services; and smart railway solutions comprising fire detection, facial recognition, people detection and direction, baggage detection, people counting, crowd management, and zone intrusion detection. It also provides smart road solutions, such as faster responses to traffic infractions, optimized traffic flow, reduce red light violations, integrated traffic management, enhanced intersection monitoring, high-precision license plate detection, actionable traffic insights, and integrates with existing video management software; and smart port solutions, including business monitoring and traffic prediction command center, intelligent video analytics, vehicle and people access control, container identification system, IoT gauge integration, automated container damage detection, and comprehensive network security. Gorilla Technology Group Inc. is headquartered in London, the United Kingdom.

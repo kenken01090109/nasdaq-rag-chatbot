@@ -1,0 +1,11 @@
+Company: Navient Corporation Common Stock
+Ticker: NAVI
+CIK: 0001593538
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 228000000 | unit=USD | filed=2024-10-30 | period_end=2024-09-30
+NetIncomeLoss: -75000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 49306000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 46867000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 2439000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 267000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 571000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

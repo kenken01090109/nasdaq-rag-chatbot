@@ -1,0 +1,9 @@
+Company: MKDWELL Tech Inc. Warrants
+Ticker: MKDWW
+Sector: 
+Industry: 
+Country: Taiwan
+City: Hsinchu City
+Website: https://www.mkd.com.tw
+Employees: 
+Business Summary: MKDWELL Tech Inc. designs, manufactures, and sells automotive electronics. The company's product portfolio includes intelligent RV control systems, LiDAR sensors, intelligent container control systems, and vehicle seat control systems; and telematics box, wireless charger, and refitted products. It offers automotive electronic products for passenger cars, modified commercial vehicles, RVs, and logistics vehicles. The company is based in Hsinchu City, Taiwan.

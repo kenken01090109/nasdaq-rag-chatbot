@@ -1,0 +1,9 @@
+Company: Energous Corporation Common Stock
+Ticker: WATT
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: San Jose
+Website: https://energous.com
+Employees: 26
+Business Summary: Energous Corporation provides wireless charging system solutions in the United States. The company develops over-the-air Wireless Power Network (WPN) technology that integrates advanced semiconductor chipsets, software controls, hardware designs, and antenna systems to enable radio frequency (RF) based charging for Internet of Things (IoT) devices. Its applications include retail sensors, electronic shelf labels, asset trackers, air quality monitors, motion detectors, and other smart monitoring solutions. The company's products are used in asset trackers, sensors, retail displays, and security devices; smart home, medical, industrial, and other sensors; electronic shelf labeling; logistics and asset tracking tags and sensors; computer mice and keyboards; remote controls; gaming consoles and controllers; hearing aids; rechargeable batteries; automotive accessories; smart textiles; wearables; and medical devices. The company was formerly known as DvineWave Inc. and changed its name to Energous Corporation in January 2014. Energous Corporation was incorporated in 2012 and is headquartered in San Jose, California.

@@ -1,0 +1,25 @@
+Company: Lincoln Electric Holdings Inc. Common Shares
+Ticker: LECO
+Market Cap: 14465420288
+Enterprise Value: 16107474944
+Total Revenue: 4233003008
+Revenue Per Share: 76.394
+EBITDA: 809059008
+Gross Margins: 0.36339
+Operating Margins: 0.17006999
+Profit Margins: 0.12297
+Free Cashflow: 281082752
+Operating Cashflow: 661172992
+Return On Assets: 0.121700004
+Return On Equity: 0.37217999
+Total Cash: 308788992
+Total Debt: 1347528960
+Debt To Equity: 91.681
+Current Ratio: 1.818
+Quick Ratio: 0.968
+Trailing PE: 28.124464
+Forward PE: 22.131374
+Price To Book: 9.780962
+Beta: 1.257
+52 Week High: 310.0
+52 Week Low: 161.11

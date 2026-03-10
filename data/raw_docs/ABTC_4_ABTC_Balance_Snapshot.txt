@@ -1,0 +1,8 @@
+Company: American Bitcoin Corp. Class A Common Stock
+Ticker: ABTC
+Total Cash: 7976000
+Total Debt: 185614000
+Debt To Equity: 32.255
+Current Ratio: 
+Quick Ratio: 
+Book Value: 0.625

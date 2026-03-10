@@ -1,0 +1,9 @@
+Company: ChampionsGate Acquisition Corporation Class A Ordinary Share
+Ticker: CHPG
+CIK: 0002024460
+Latest SEC XBRL Facts:
+NetIncomeLoss: 494905 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 76268456 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 1619185 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: -1518287 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -432991 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

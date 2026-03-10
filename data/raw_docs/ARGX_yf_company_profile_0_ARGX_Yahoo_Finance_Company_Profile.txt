@@ -1,0 +1,9 @@
+Company: argenx SE American Depositary Shares
+Ticker: ARGX
+Sector: Healthcare
+Industry: Biotechnology
+Country: Netherlands
+City: Amsterdam
+Website: https://argenx.com
+Employees: 
+Business Summary: argenx SE, a commercial-stage biopharma company, develops various therapies for the treatment of autoimmune diseases in the United States, Japan, China, the Netherlands, and internationally. The company offers VYGART and VYGART HYTRULO to treat generalized myasthenia gravis (gMG), immune thrombocytopenia (ITP), and chronic inflammatory demyelinating polyneuropathy (CIDP). It also develops efgartigimod for the treatment of seronegative and ocular gMG, thyroid eye diseases, ITP, myositis, Sjögren's disease, lupus nephropathy, systemic sclerosis, antibody-mediated rejection, and autoimmune encephalitis; empasiprubart for multifocal motor neuropath, CIDP, delayed graft function, and dermatomyositis; and ARGX-119 for congenital myasthenic syndrome, amyotrophic lateral sclerosis, and spinal muscular atrophy. In addition, the company is also developing ARGX-119, a MuSK agonist to treat congenital myasthenic syndromes and amyotrophic lateral sclerosis; ARGX-109, which targets IL-6 to treat inflammation; ARGX-121 and ARGX 220 that targets the immune system; ARGX-213, which targets FcRn; and ARGX-118, which develops antibodies against Galectin-10, as well as cusatuzumab, ARGX-112, ARGX-114, and ARGX-115. It has strategic collaborations with OncoVerity, Inc, LEO Pharma A/S, Zai Lab Limited, AbbVie, Inc., Elektrofi, Genmab SE, Chugai Pharmaceutical Co., Ltd., Clayton Foundation, Halozyme Therapeutics, Inc., AgomAb Therapeutics NV, Broteio Pharma B.V., VIB vzw, University of Texas, BioWa, Inc., Lonza Sales AG, Université Catholique de Louvain, Sopartec S.A., NYU Langone Health, Leiden University Medical Center, and IQVIA Ltd. argenx SE was incorporated in 2008 and is based in Amsterdam, the Netherlands.

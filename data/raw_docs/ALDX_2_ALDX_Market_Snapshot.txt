@@ -1,0 +1,10 @@
+Company: Aldeyra Therapeutics Inc. Common Stock
+Ticker: ALDX
+Market Cap: 279756896
+Enterprise Value: 225338848
+Trailing PE: 
+Forward PE: 11.72259
+Price To Book: 6.317935
+Beta: 0.986
+52 Week High: 7.2
+52 Week Low: 1.14

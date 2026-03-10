@@ -1,0 +1,25 @@
+Company: DBV Technologies S.A. American Depositary Shares
+Ticker: DBVT
+Market Cap: 1201941248
+Enterprise Value: 3668357632
+Total Revenue: 5502000
+Revenue Per Share: 0.23
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -12.35689
+Profit Margins: 0.0
+Free Cashflow: -51063248
+Operating Cashflow: -98260000
+Return On Assets: -0.77294
+Return On Equity: -2.3413901
+Total Cash: 69837000
+Total Debt: 7691000
+Debt To Equity: 14.551
+Current Ratio: 1.796
+Quick Ratio: 1.734
+Trailing PE: 
+Forward PE: -42.880642
+Price To Book: 56.65803
+Beta: -0.215
+52 Week High: 26.185
+52 Week Low: 3.91

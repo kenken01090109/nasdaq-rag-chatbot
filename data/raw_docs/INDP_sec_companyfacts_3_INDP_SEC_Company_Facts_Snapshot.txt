@@ -1,0 +1,10 @@
+Company: Indaptus Therapeutics Inc. Common Stock
+Ticker: INDP
+CIK: 0001857044
+Latest SEC XBRL Facts:
+NetIncomeLoss: -12736466 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 6840052 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2236480 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+StockholdersEquity: 4605727 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11632743 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5825639 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

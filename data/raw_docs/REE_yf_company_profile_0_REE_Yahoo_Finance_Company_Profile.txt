@@ -1,0 +1,9 @@
+Company: REE Automotive Ltd. Class A Ordinary Shares
+Ticker: REE
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: Israel
+City: Herzliya
+Website: https://www.ree.auto
+Employees: 211
+Business Summary: REE Automotive Ltd. operates as an automotive technology company in France, the United Kingdom, the United States, Germany, and internationally. The company offers a range of electric and software-defined vehicle (SDV) solutions, including X-by-Wire systems, software services, complete commercial EVs, stripped chassis, and REEcorner module, a compact module that integrates critical vehicle drive components comprising as steering, braking, suspension, powertrain, and control between the chassis and the wheel. It also provides P7-S Strip Chassis for commercial delivery vehicles, autonomous vehicles, and walk-in vans; and P7-C Chassis Cab and Cutway Chassis, a class 4 and 5 chassis cab fully electric commercial truck for delivery and a range of vocational applications. It serves original equipment manufacturer, delivery and logistic fleets, dealers, e-commerce retailers, new mobility players, mobility-as-a-service providers, and autonomous drive companies. The company is headquartered in Herzliya, Israel.

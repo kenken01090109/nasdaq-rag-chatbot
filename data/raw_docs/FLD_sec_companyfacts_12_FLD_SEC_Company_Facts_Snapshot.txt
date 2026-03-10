@@ -1,0 +1,10 @@
+Company: Fold Holdings Inc. Class A Common Stock
+Ticker: FLD
+CIK: 0001889123
+Latest SEC XBRL Facts:
+NetIncomeLoss: -34899390 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 190966112 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 96276871 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 94689241 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11426231 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6663463 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

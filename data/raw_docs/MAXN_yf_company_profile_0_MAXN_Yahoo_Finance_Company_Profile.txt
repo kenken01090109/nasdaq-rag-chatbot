@@ -1,0 +1,9 @@
+Company: Maxeon Solar Technologies Ltd. Ordinary Shares
+Ticker: MAXN
+Sector: Technology
+Industry: Solar
+Country: Singapore
+City: Singapore
+Website: https://www.maxeon.com
+Employees: 1591
+Business Summary: Maxeon Solar Technologies, Ltd., a marketers of solar power technology, designs, manufactures, markets, and sells solar panels for residential, commercial, and power plant customers. The company was incorporated in 2019 and is headquartered in Singapore. Maxeon Solar Technologies, Ltd. operates as a subsidiary of TCL Zhonghuan Renewable Energy Technology Co.,Ltd.

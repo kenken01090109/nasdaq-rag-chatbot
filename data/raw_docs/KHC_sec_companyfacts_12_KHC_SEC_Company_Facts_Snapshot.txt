@@ -1,0 +1,11 @@
+Company: The Kraft Heinz Company Common Stock
+Ticker: KHC
+CIK: 0001637459
+Latest SEC XBRL Facts:
+Revenues: 18205000000 | unit=USD | filed=2015-08-10 | period_end=2014-12-27
+NetIncomeLoss: -6497000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-27
+Assets: 81695000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-27
+Liabilities: 40116000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-27
+StockholdersEquity: 41450000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 3086000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 2114000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-27

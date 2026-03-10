@@ -1,0 +1,11 @@
+Company: Rivian Automotive Inc. Class A Common Stock
+Ticker: RIVN
+CIK: 0001874178
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4101000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -2835000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 15217000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 10133000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 5899000000 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -98000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4441000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

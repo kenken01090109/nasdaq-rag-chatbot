@@ -1,0 +1,25 @@
+Company: Nuvalent Inc. Class A Common Stock
+Ticker: NUVL
+Market Cap: 7815316480
+Enterprise Value: 6499968512
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -141616880
+Operating Cashflow: -275208992
+Return On Assets: -0.20274
+Return On Equity: -0.367
+Total Cash: 1371952000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 15.273
+Quick Ratio: 15.048
+Trailing PE: 
+Forward PE: -24.855732
+Price To Book: 6.230649
+Beta: 1.324
+52 Week High: 113.015
+52 Week Low: 55.535

@@ -1,0 +1,10 @@
+Company: Zevra Therapeutics Inc. Common Stock
+Ticker: ZVRA
+CIK: 0001434647
+Latest SEC XBRL Facts:
+NetIncomeLoss: 71064000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 270116000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 136951000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 133165000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7114000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 54439000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: BGM Group Ltd. Class A Ordinary Shares
+Ticker: BGM
+CIK: 0001779578
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 14311414 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+NetIncomeLoss: -861220 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+Assets: 207393449 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+Liabilities: 23902462 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+StockholdersEquity: 182122792 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -3056092 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 9651606 | unit=USD | filed=2025-07-24 | period_end=2025-03-31

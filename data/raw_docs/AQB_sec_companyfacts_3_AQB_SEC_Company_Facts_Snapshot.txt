@@ -1,0 +1,11 @@
+Company: AquaBounty Technologies Inc. Common Stock
+Ticker: AQB
+CIK: 0001603978
+Latest SEC XBRL Facts:
+Revenues: 705262 | unit=USD | filed=2024-11-05 | period_end=2024-09-30
+NetIncomeLoss: -4352675 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 24173791 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 11933588 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 12240203 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5561387 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 951434 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

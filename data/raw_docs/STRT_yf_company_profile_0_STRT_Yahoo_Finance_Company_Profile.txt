@@ -1,0 +1,9 @@
+Company: STRATTEC SECURITY CORPORATION Common Stock
+Ticker: STRT
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: Milwaukee
+Website: https://www.strattec.com
+Employees: 2848
+Business Summary: Strattec Security Corporation designs, develops, manufactures, and markets automotive security, access control, and user interface controls products in North America and internationally. The company offers mechanical and electronically enhanced locks and keys, fobs, passive entry passive start systems, digital key, phone as a key systems, steering column and instrument panel ignition lock housings, latches, power sliding door systems, power tailgate and lift gate systems, power deck lid systems, door handles, steering wheel switches and controller, E-shifters, paddle switches, and related products. It also provides service and aftermarket support services for its products. It markets its products to automotive and light truck original equipment manufacturers, as well as other transportation-related manufacturers; and through wholesale distributors, other marketers, and users of component parts, as well as certain products to non-automotive customers. Strattec Security Corporation was founded in 1908 and is headquartered in Milwaukee, Wisconsin.

@@ -1,0 +1,9 @@
+Company: Telos Corporation Common Stock
+Ticker: TLS
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Ashburn
+Website: https://www.telos.com
+Employees: 504
+Business Summary: Telos Corporation, together with its subsidiaries, provides cyber, cloud, and enterprise security solutions in the United States and internationally. It operates through two segments: Security Solutions and Secure Networks. The company offers Xacta, a platform for enterprise cyber risk management and security compliance automation; and consulting, assessment and compliance, engineering and evaluation, operations, and penetration testing services. It also provides Telos Automated Message Handling System, a web-based organizational message distribution and management for mission-critical communications used by military field operatives. In addition, the company offers IDTrust360, an enterprise digital trusted identity risk platform for extending flexible hybrid cloud identity services; and ONYX, a mobile touchless fingerprint software development kit, enables secure biometric authentication by leveraging standard smartphone cameras to capture and process fingerprint images without physical contact. Further, the company provides secure mobility solutions that enable remote work and minimize operational and security concerns across and beyond the enterprise; network management and defense services for operating, administrating, and defending complex enterprise networks and services for defensive cyber operations; and operates TSA PreCheck enrollment centers. It serves the United States federal government, large commercial businesses, state and local governments, and international customers. Telos Corporation was founded in 1968 and is headquartered in Ashburn, Virginia.

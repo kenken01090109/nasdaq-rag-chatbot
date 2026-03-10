@@ -1,0 +1,11 @@
+Company: Farmer Brothers Company Common Stock
+Ticker: FARM
+CIK: 0000034563
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 170524000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -8891000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 151450000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 115792000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 35658000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5793000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4186000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

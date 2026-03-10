@@ -1,0 +1,12 @@
+Company: AIFU Inc. Class A Ordinary Share
+Ticker: AIFU
+Total Revenue: 1205214976
+Revenue Per Share: 295.505
+Gross Margins: 0.41572
+Operating Margins: -0.02616
+EBITDA: -63490800
+Profit Margins: -0.014359999
+Free Cashflow: -293207936
+Operating Cashflow: 111411000
+Return On Assets: -0.01622
+Return On Equity: -0.07372

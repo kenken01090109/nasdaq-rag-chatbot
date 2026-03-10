@@ -1,0 +1,25 @@
+Company: Centurion Acquisition Corp. Class A Ordinary Shares
+Ticker: ALF
+Market Cap: 387046880
+Enterprise Value: 386819968
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -570039
+Return On Assets: 
+Return On Equity: 
+Total Cash: 226905
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.206
+Quick Ratio: 2.148
+Trailing PE: 31.676472
+Forward PE: 
+Price To Book: -28.796791
+Beta: 
+52 Week High: 10.77
+52 Week Low: 10.18

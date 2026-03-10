@@ -1,0 +1,25 @@
+Company: Theravance Biopharma Inc. Ordinary Shares
+Ticker: TBPH
+Market Cap: 687624896
+Enterprise Value: 403046624
+Total Revenue: 80327000
+Revenue Per Share: 1.609
+EBITDA: -31164000
+Gross Margins: 0.50817
+Operating Margins: -0.32291
+Profit Margins: 0.36530998
+Free Cashflow: 10479625
+Operating Cashflow: 243703008
+Return On Assets: -0.05316
+Return On Equity: 0.14029
+Total Cash: 329680000
+Total Debt: 44595000
+Debt To Equity: 19.166
+Current Ratio: 9.482
+Quick Ratio: 9.302
+Trailing PE: 23.807016
+Forward PE: 6.177532
+Price To Book: 2.9551394
+Beta: 0.107
+52 Week High: 21.03
+52 Week Low: 7.9

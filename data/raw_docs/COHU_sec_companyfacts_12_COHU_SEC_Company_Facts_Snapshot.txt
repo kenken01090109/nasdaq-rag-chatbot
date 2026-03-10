@@ -1,0 +1,9 @@
+Company: Cohu Inc. Common Stock
+Ticker: COHU
+CIK: 0000021535
+Latest SEC XBRL Facts:
+NetIncomeLoss: -51785000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+Assets: 1021271000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+StockholdersEquity: 831089000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -8144000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 149944000 | unit=USD | filed=2025-10-30 | period_end=2025-09-27

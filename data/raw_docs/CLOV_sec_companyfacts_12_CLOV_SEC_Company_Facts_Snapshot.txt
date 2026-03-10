@@ -1,0 +1,11 @@
+Company: Clover Health Investments Corp. Class A Common Stock
+Ticker: CLOV
+CIK: 0001801170
+Latest SEC XBRL Facts:
+Revenues: 1436601000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -24377000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 559659000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 218727000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 323107000 | unit=USD | filed=2023-05-09 | period_end=2023-03-31
+NetCashProvidedByUsedInOperatingActivities: 1218000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 78301000 | unit=USD | filed=2026-02-27 | period_end=2025-12-31

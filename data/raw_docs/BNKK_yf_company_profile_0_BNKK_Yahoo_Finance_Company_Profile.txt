@@ -1,0 +1,9 @@
+Company: Bonk Inc. Common Stock
+Ticker: BNKK
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Jupiter
+Website: https://www.bonkdat.com
+Employees: 8
+Business Summary: Bonk, Inc. provides over-the-counter products and consumer products in the United States. The company offers Safety Shot Beverage, an over-the-counter drink that lowers blood alcohol content. It also provides hair loss treatment, vitiligo solution, eczema cream, and sexual wellness products. It sells its products through direct customers, distributors, retailers, and e-commerce websites. The company was formerly known as Safety Shot, Inc. and changed its name to Bonk, Inc. in October 2025. Bonk, Inc. was incorporated in 2018 and is based in Jupiter, Florida.

@@ -1,0 +1,12 @@
+Company: Open Text Corporation Common Shares
+Ticker: OTEX
+CIK: 0001002638
+Latest SEC XBRL Facts:
+Revenues: 2060971000 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2614871000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 314707000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 13570162000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 536175000 | unit=USD | filed=2009-10-28 | period_end=2009-09-30
+StockholdersEquity: 4043594000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 466422000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1271374000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

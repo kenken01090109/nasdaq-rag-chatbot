@@ -1,0 +1,10 @@
+Company: Flag Ship Acquisition Corp. Right
+Ticker: FSHPR
+CIK: 0001850059
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1620825 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 32638896 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 2930743 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: -2876052 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -400496 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18751 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

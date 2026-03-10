@@ -1,0 +1,9 @@
+Company: BIO-key International Inc. Common Stock
+Ticker: BKYI
+Sector: Industrials
+Industry: Security & Protection Services
+Country: United States
+City: Holmdel
+Website: https://www.bio-key.com
+Employees: 41
+Business Summary: BIO-key International, Inc. develops and markets fingerprint identification biometric technology and software solutions, and enterprise-ready identity access management solutions for commercial, government, and education sectors in the United States and internationally. It offers BIO-key PortalGuard and PortalGuard IDaaS solutions, a customer-controlled and neutral-by-design cloud-based identity platform that allows customers to integrate with any cloud or on-premise SaaS application, services, and cloud host, as well as windows device authentication through IAM platform. The company's solutions enable its customers to secure their workforces and student populations; and make their partner networks more collaborative. In addition, it provides BIO-key VST and WEB-key products; and civil and large-scale ID infrastructure solutions that develop finger-based biometric technology. Further, the company offers finger scanners for enterprise and consumer markets under SideSwipe, PIV Pro, EcoID II, and SidePass brand names; and fingerprint readers. Additionally, it provides identity and access management, user multi-factor authentication, and privilege entitlement and access control solutions. The company was formerly known as SAC Technologies and changed its name to BIO-key International, Inc. in 2002. BIO-key International, Inc. was founded in 1993 and is headquartered in Holmdel, New Jersey.

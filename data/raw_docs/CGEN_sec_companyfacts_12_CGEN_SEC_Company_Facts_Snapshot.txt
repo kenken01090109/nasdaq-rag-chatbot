@@ -1,0 +1,10 @@
+Company: Compugen Ltd. Ordinary Shares
+Ticker: CGEN
+CIK: 0001119774
+Latest SEC XBRL Facts:
+Revenues: 3541000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetIncomeLoss: -14523000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+Assets: 106525000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+StockholdersEquity: 50256000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -18564000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6467000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30

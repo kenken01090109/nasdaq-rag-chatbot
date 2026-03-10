@@ -1,0 +1,25 @@
+Company: Diginex Limited Ordinary Shares
+Ticker: DGNX
+Market Cap: 125835424
+Enterprise Value: 119144872
+Total Revenue: 3565215
+Revenue Per Share: 0.021
+EBITDA: -9584321
+Gross Margins: 1.0
+Operating Margins: -2.66391
+Profit Margins: -2.7648199
+Free Cashflow: -13947503
+Operating Cashflow: -8643170
+Return On Assets: -0.74891996
+Return On Equity: 
+Total Cash: 1850673
+Total Debt: 229384
+Debt To Equity: 2.108
+Current Ratio: 3.563
+Quick Ratio: 1.046
+Trailing PE: 
+Forward PE: 
+Price To Book: 11.111112
+Beta: 
+52 Week High: 39.855
+52 Week Low: 0.516

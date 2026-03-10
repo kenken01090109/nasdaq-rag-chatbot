@@ -1,0 +1,25 @@
+Company: CDT Environmental Technology Investment Holdings Limited ordinary shares
+Ticker: CDTG
+Market Cap: 5054483
+Enterprise Value: 10474997
+Total Revenue: 24397720
+Revenue Per Share: 2.146
+EBITDA: -729972
+Gross Margins: 0.39619
+Operating Margins: -0.1554
+Profit Margins: -0.05238
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.00643
+Return On Equity: -0.034760002
+Total Cash: 175877
+Total Debt: 5624943
+Debt To Equity: 14.637
+Current Ratio: 1.385
+Quick Ratio: 1.376
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.12755832
+Beta: 
+52 Week High: 2.78
+52 Week Low: 0.2

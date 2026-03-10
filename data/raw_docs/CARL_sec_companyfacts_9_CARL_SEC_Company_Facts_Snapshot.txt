@@ -1,0 +1,10 @@
+Company: Carlsmed Inc. Common Stock
+Ticker: CARL
+CIK: 0001794546
+Latest SEC XBRL Facts:
+NetIncomeLoss: -21021000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 134863000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 28203000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 106660000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23656000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

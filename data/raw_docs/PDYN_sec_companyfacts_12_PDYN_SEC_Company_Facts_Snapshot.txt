@@ -1,0 +1,12 @@
+Company: Palladyne AI Corp. Common Stock
+Ticker: PDYN
+CIK: 0001826681
+Latest SEC XBRL Facts:
+Revenues: 3585000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3585000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 11532000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 72929000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 21083000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 51846000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19132000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 27361000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

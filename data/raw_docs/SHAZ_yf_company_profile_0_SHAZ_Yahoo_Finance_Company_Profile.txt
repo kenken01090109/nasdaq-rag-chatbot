@@ -1,0 +1,9 @@
+Company: SharonAI Holdings Inc. Class A Common Stock
+Ticker: SHAZ
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: New York
+Website: https://www.sharonai.com
+Employees: 
+Business Summary: SharonAI Holdings Inc. operates as a computing company specializing in accelerated compute platforms, AI infrastructure, and cloud GPU environments. It operates through a hybrid model that combines deployment in data centers with the development of its data-center facilities in strategic locations. Its platform integrates compute, storage, networking, and automation into a unified enterprise solution serving AI labs, hyperscale customers, research institutions, and regulated industries. The company was formerly known as Roth CH Holding Inc. SharonAI Holdings Inc. was founded in 2024 and is based in New York, New York.

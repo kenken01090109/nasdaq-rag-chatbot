@@ -1,0 +1,25 @@
+Company: MakeMyTrip Limited Ordinary Shares
+Ticker: MMYT
+Market Cap: 4959081984
+Enterprise Value: 5773605888
+Total Revenue: 1039337024
+Revenue Per Share: 9.809
+EBITDA: 165832992
+Gross Margins: 0.57673
+Operating Margins: 0.13828
+Profit Margins: 0.05461
+Free Cashflow: 126867872
+Operating Cashflow: 223942000
+Return On Assets: 0.05049
+Return On Equity: 0.09551
+Total Cash: 814105984
+Total Debt: 1411121024
+Debt To Equity: 
+Current Ratio: 1.855
+Quick Ratio: 1.593
+Trailing PE: 100.230774
+Forward PE: 24.150314
+Price To Book: -437.9832
+Beta: 0.665
+52 Week High: 113.85
+52 Week Low: 48.2

@@ -1,0 +1,12 @@
+Company: BioMarin Pharmaceutical Inc. Common Stock
+Ticker: BMRN
+CIK: 0001048477
+Latest SEC XBRL Facts:
+Revenues: 373447000 | unit=USD | filed=2018-04-27 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2346688000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 395474000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 7614868000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 1558157000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 6056711000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 728350000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1250108000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

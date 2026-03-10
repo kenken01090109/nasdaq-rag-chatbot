@@ -1,0 +1,25 @@
+Company: Soluna Holdings Inc. Common Stock
+Ticker: SLNH
+Market Cap: 75843200
+Enterprise Value: 93129184
+Total Revenue: 28782000
+Revenue Per Share: 1.944
+EBITDA: -40933000
+Gross Margins: 0.62226003
+Operating Margins: -0.92454004
+Profit Margins: -2.74168
+Free Cashflow: -7866375
+Operating Cashflow: -5136000
+Return On Assets: -0.28474
+Return On Equity: -1.2704101
+Total Cash: 51371000
+Total Debt: 26932000
+Debt To Equity: 36.66
+Current Ratio: 1.182
+Quick Ratio: 0.993
+Trailing PE: 
+Forward PE: -1.6726086
+Price To Book: 3.404425
+Beta: 4.323
+52 Week High: 5.14
+52 Week Low: 0.36

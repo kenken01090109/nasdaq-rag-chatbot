@@ -1,0 +1,10 @@
+Company: Meridian Corporation Common Stock
+Ticker: MRBK
+CIK: 0001750735
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4637000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 14650000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2541130000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2353101000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 188029000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 30476000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

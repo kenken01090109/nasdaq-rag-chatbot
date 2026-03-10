@@ -1,0 +1,11 @@
+Company: Acadia Healthcare Company Inc. Common Stock
+Ticker: ACHC
+CIK: 0001520697
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2491310000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 74747000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 6412741000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 3122811000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 3120297000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 218191000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 118693000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: CECO Environmental Corp. Common Stock
+Ticker: CECO
+CIK: 0000003197
+Latest SEC XBRL Facts:
+Revenues: 83353000 | unit=USD | filed=2013-08-09 | period_end=2013-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 559687000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 46993000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 891884000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 578317000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 309206000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4100000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32787000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

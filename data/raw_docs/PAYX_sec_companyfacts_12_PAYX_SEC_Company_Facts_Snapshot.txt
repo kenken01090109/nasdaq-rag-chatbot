@@ -1,0 +1,12 @@
+Company: Paychex Inc. Common Stock
+Ticker: PAYX
+CIK: 0000723531
+Latest SEC XBRL Facts:
+Revenues: 3097600000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2995700000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+NetIncomeLoss: 779200000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+Assets: 16518900000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+Liabilities: 12638800000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+StockholdersEquity: 3880100000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 1163300000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 1485600000 | unit=USD | filed=2025-12-22 | period_end=2025-11-30

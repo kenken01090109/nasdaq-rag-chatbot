@@ -1,0 +1,11 @@
+Company: Spectral AI Inc. Warrants
+Ticker: MDAIW
+CIK: 0001833498
+Latest SEC XBRL Facts:
+Revenues: 15564000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -8623000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 15300000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 23503000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -8203000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7368000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10500000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Enterprise Financial Services Corporation Common Stock
+Ticker: EFSC
+CIK: 0001025835
+Latest SEC XBRL Facts:
+NetIncomeLoss: 146580000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 16402405000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 14420073000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 1982332000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 150673000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2021689000 | unit=USD | filed=2022-02-25 | period_end=2021-12-31

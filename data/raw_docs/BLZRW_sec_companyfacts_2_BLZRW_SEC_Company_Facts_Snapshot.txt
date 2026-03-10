@@ -1,0 +1,9 @@
+Company: Trailblazer Acquisition Corp. Warrant
+Ticker: BLZRW
+CIK: 0002075310
+Latest SEC XBRL Facts:
+NetIncomeLoss: 470519 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 276999639 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11785000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -10361973 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -235328 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

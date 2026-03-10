@@ -1,0 +1,12 @@
+Company: Dollar Tree Inc. Common Stock
+Ticker: DLTR
+CIK: 0000935703
+Latest SEC XBRL Facts:
+Revenues: 13961100000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 13949600000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+NetIncomeLoss: 776400000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+Assets: 13656300000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+Liabilities: 10191600000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+StockholdersEquity: 3464700000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 1788200000 | unit=USD | filed=2024-12-04 | period_end=2024-11-02
+CashAndCashEquivalentsAtCarryingValue: 594800000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01

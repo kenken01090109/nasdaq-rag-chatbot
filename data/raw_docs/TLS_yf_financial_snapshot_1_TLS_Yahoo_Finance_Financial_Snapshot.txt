@@ -1,0 +1,25 @@
+Company: Telos Corporation Common Stock
+Ticker: TLS
+Market Cap: 317143616
+Enterprise Value: 271115872
+Total Revenue: 144400000
+Revenue Per Share: 1.986
+EBITDA: -27635000
+Gross Margins: 0.43206
+Operating Margins: -0.04797
+Profit Margins: -0.20474
+Free Cashflow: 5274375
+Operating Cashflow: 11684000
+Return On Assets: -0.11856
+Return On Equity: -0.23732
+Total Cash: 59050000
+Total Debt: 8597000
+Debt To Equity: 7.184
+Current Ratio: 2.759
+Quick Ratio: 2.132
+Trailing PE: 
+Forward PE: 45.26316
+Price To Book: 2.5950515
+Beta: 0.993
+52 Week High: 8.36
+52 Week Low: 1.83

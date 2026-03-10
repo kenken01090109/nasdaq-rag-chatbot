@@ -1,0 +1,11 @@
+Company: Assembly Biosciences Inc. Common Stock
+Ticker: ASMB
+CIK: 0001426800
+Latest SEC XBRL Facts:
+Revenues: 3885000 | unit=USD | filed=2019-05-09 | period_end=2019-03-31
+NetIncomeLoss: -28212000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 239997000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 57302000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 182695000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -55330000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22534000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

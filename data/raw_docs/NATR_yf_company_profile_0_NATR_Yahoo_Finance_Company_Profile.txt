@@ -1,0 +1,9 @@
+Company: Nature's Sunshine Products Inc. Common Stock
+Ticker: NATR
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Lehi
+Website: https://www.naturessunshine.com
+Employees: 819
+Business Summary: Nature's Sunshine Products, Inc., a natural health and wellness company, manufactures and sells nutritional and personal care products in Asia, Europe, North America, Latin America, and internationally. The company provides general health products related to blood sugar support, bone health, cellular health, cognitive function, joint health, mood, sexual health, sleep, sports and energy, and vision; immune products; cardiovascular products; and digestive products. It also offers personal care products, including oils and lotions, aloe vera gel, herbal shampoo, herbal skin treatment, toothpaste, and skin cleanser products, as well as weight management products. The company provides its products under the Nature's Sunshine Products and Synergy WorldWide brands directly to customers and to a sales force of independent consultants. Nature's Sunshine Products, Inc. was founded in 1972 and is headquartered in Lehi, Utah.

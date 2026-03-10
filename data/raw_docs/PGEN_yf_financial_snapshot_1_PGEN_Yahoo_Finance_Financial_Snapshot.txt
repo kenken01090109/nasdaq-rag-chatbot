@@ -1,0 +1,25 @@
+Company: Precigen Inc. Common Stock
+Ticker: PGEN
+Market Cap: 1174697344
+Enterprise Value: 1169445504
+Total Revenue: 6309000
+Revenue Per Share: 0.021
+EBITDA: -104948000
+Gross Margins: 0.0
+Operating Margins: -11.80048
+Profit Margins: 0.0
+Free Cashflow: -47835752
+Operating Cashflow: -72614000
+Return On Assets: -0.52834
+Return On Equity: -5.07725
+Total Cash: 121135000
+Total Debt: 98192000
+Debt To Equity: 234.528
+Current Ratio: 4.041
+Quick Ratio: 3.812
+Trailing PE: 
+Forward PE: -15.090909
+Price To Book: 28.135593
+Beta: 1.165
+52 Week High: 5.47
+52 Week Low: 1.11

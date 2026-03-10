@@ -1,0 +1,25 @@
+Company: WM Technology Inc. Class A Common Stock
+Ticker: MAPS
+Market Cap: 124058208
+Enterprise Value: 123108512
+Total Revenue: 179304992
+Revenue Per Share: 1.727
+EBITDA: 25490000
+Gross Margins: 0.95019996
+Operating Margins: 0.04645
+Profit Margins: 0.04398
+Free Cashflow: 20228750
+Operating Cashflow: 32543000
+Return On Assets: 0.040949997
+Return On Equity: 0.09595
+Total Cash: 62591000
+Total Debt: 27438000
+Debt To Equity: 20.271
+Current Ratio: 2.542
+Quick Ratio: 2.284
+Trailing PE: 10.362857
+Forward PE: 4.2670584
+Price To Book: 1.3764706
+Beta: 1.278
+52 Week High: 1.37
+52 Week Low: 0.63

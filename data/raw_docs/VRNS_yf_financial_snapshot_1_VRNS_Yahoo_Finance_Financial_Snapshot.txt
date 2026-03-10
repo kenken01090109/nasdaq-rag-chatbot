@@ -1,0 +1,25 @@
+Company: Varonis Systems Inc. Common Stock
+Ticker: VRNS
+Market Cap: 2875515392
+Enterprise Value: 2399560192
+Total Revenue: 623532032
+Revenue Per Share: 5.45
+EBITDA: -134205000
+Gross Margins: 0.78834
+Operating Margins: -0.17073
+Profit Margins: -0.20741
+Free Cashflow: 215746880
+Operating Cashflow: 147431008
+Return On Assets: -0.052989997
+Return On Equity: -0.24531999
+Total Cash: 920966016
+Total Debt: 521747008
+Debt To Equity: 87.153
+Current Ratio: 1.971
+Quick Ratio: 1.837
+Trailing PE: 
+Forward PE: 60.77596
+Price To Book: 4.788926
+Beta: 0.662
+52 Week High: 63.9
+52 Week Low: 20.06

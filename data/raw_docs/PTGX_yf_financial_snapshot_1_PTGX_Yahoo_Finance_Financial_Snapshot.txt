@@ -1,0 +1,25 @@
+Company: Protagonist Therapeutics Inc. Common Stock
+Ticker: PTGX
+Market Cap: 5876144640
+Enterprise Value: 5275713536
+Total Revenue: 46016000
+Revenue Per Share: 0.724
+EBITDA: -156847008
+Gross Margins: 1.0
+Operating Margins: -6.77088
+Profit Margins: -2.82834
+Free Cashflow: 105622624
+Operating Cashflow: 57671000
+Return On Assets: -0.13989
+Return On Equity: -0.20177999
+Total Cash: 567363968
+Total Debt: 10323000
+Debt To Equity: 1.679
+Current Ratio: 12.71
+Quick Ratio: 12.585
+Trailing PE: 
+Forward PE: -157.4888
+Price To Book: 9.374936
+Beta: 2.239
+52 Week High: 96.54
+52 Week Low: 39.6

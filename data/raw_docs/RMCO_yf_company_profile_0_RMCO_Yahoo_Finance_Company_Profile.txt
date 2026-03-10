@@ -1,0 +1,9 @@
+Company: Royalty Management Holding Corporation Class A Common Stock
+Ticker: RMCO
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Fishers
+Website: https://www.royaltymgmtcorp.com
+Employees: 
+Business Summary: Royalty Management Holding Corporation, a royalty company, acquires and develops assets in various markets. Its portfolio includes intellectual property, natural resources assets, patents, and emerging technologies. The company was founded in 2021 and is based in Fishers, Indiana.

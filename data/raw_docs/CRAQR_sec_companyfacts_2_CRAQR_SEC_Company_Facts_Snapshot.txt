@@ -1,0 +1,10 @@
+Company: Cal Redwood Acquisition Corp. Right
+Ticker: CRAQR
+CIK: 0002058359
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2896189 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 234666393 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9333558 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -7991829 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -389039 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1154388 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

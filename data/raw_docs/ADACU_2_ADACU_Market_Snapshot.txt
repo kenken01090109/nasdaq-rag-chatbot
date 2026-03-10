@@ -1,0 +1,10 @@
+Company: American Drive Acquisition Company Units
+Ticker: ADACU
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 10029.999
+Beta: 
+52 Week High: 10.07
+52 Week Low: 9.95

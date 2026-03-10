@@ -1,0 +1,9 @@
+Company: Avax One Technology Ltd. Common Shares
+Ticker: AVX
+Sector: Financial Services
+Industry: Asset Management
+Country: Canada
+City: Vancouver
+Website: https://avax-one.com
+Employees: 3
+Business Summary: AVAX One Technology Ltd. operates as an Avalanche Treasury company and develops and provides investors regulated access to Layer 1 blockchain ecosystems. The company also develops and commercializes plant-based ingredients and products that deliver healthier and nutritious solutions. Additionally, it offers controlled environment agriculture equipment; provides management advisory services; holds intellectual property; engages in the real estate holding and development business; and manufactures hydroxyl devices and food products. The company was formerly known as AgriFORCE Growing Systems Ltd. and changed its name to Avax One Technology Ltd. in November 2025. Avax One Technology Ltd. was incorporated in 2017 and is headquartered in Vancouver, Canada.

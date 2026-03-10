@@ -1,0 +1,9 @@
+Company: Drugs Made In America Acquisition II Corp. Right
+Ticker: DMIIR
+CIK: 0002040475
+Latest SEC XBRL Facts:
+NetIncomeLoss: -143558 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 501005711 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 18177345 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: -17280989 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -703367 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

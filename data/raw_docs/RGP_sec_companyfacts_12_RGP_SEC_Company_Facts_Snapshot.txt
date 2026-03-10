@@ -1,0 +1,12 @@
+Company: Resources Connection Inc. Common Stock
+Ticker: RGP
+CIK: 0001084765
+Latest SEC XBRL Facts:
+Revenues: 237961000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 237961000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+NetIncomeLoss: -15066000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+Assets: 289273000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+Liabilities: 94686000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+StockholdersEquity: 194587000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+NetCashProvidedByUsedInOperatingActivities: 8059000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29
+CashAndCashEquivalentsAtCarryingValue: 89810000 | unit=USD | filed=2026-01-08 | period_end=2025-11-29

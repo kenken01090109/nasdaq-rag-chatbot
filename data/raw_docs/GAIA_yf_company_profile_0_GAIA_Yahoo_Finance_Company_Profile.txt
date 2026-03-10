@@ -1,0 +1,9 @@
+Company: Gaia Inc. Class A Common Stock
+Ticker: GAIA
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: Louisville
+Website: https://www.gaia.com
+Employees: 
+Business Summary: Gaia, Inc. operates a digital video subscription service and online community for underserved member base in the United States, Canada, Australia, and internationally. It has a digital content library with various titles in Spanish, German, and French languages available to its subscribers on internet connected devices. The company's network comprises Seeking Truth that provides topics that include ancient wisdom and metaphysics; Transformation channel that offers content in the areas of spiritual growth, personal development, and expanded consciousness; Alternative Healing channel focuses on food and nutrition, holistic healing, alternative and integrative medicines, and longevity; and Yoga channel, which provides access to streaming yoga, Eastern arts, and other movement based classes. The company was formerly known as Gaiam, Inc. and changed its name to Gaia, Inc. in July 2016. Gaia, Inc. was incorporated in 1988 and is headquartered in Louisville, Colorado.

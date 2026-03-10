@@ -1,0 +1,8 @@
+Company: ALPS Group Inc Ordinary Share
+Ticker: ALPS
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: 0.045

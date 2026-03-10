@@ -1,0 +1,11 @@
+Company: Solarmax Technology Inc. Common Stock
+Ticker: SMXT
+CIK: 0001519472
+Latest SEC XBRL Facts:
+Revenues: 44413061 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5453123 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 58663000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 70442570 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -11779570 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3016939 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5720283 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

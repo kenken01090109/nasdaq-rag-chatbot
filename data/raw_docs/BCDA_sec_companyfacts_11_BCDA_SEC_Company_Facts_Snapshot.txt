@@ -1,0 +1,11 @@
+Company: BioCardia Inc. Common Stock
+Ticker: BCDA
+CIK: 0000925741
+Latest SEC XBRL Facts:
+Revenues: 379000 | unit=USD | filed=2017-11-09 | period_end=2017-09-30
+NetIncomeLoss: -6244000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 6148000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 3521000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 2627000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4939000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5287000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

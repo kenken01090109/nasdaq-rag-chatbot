@@ -1,0 +1,11 @@
+Company: First Western Financial Inc. Common Stock
+Ticker: MYFW
+CIK: 0001327607
+Latest SEC XBRL Facts:
+Revenues: 71173000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 9874000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 3240424000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 2978929000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 261495000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8953000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 310235000 | unit=USD | filed=2021-11-05 | period_end=2021-09-30

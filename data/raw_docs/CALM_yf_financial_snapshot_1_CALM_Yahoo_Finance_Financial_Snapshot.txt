@@ -1,0 +1,25 @@
+Company: Cal-Maine Foods Inc. Common Stock
+Ticker: CALM
+Market Cap: 4281239552
+Enterprise Value: 3125206016
+Total Revenue: 4213443072
+Revenue Per Share: 87.031
+EBITDA: 1564105984
+Gross Margins: 0.41921002
+Operating Margins: 0.16179001
+Profit Margins: 0.27367002
+Free Cashflow: 804932608
+Operating Cashflow: 1357939968
+Return On Assets: 0.32306
+Return On Equity: 0.48526
+Total Cash: 1138988032
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.017
+Quick Ratio: 6.404
+Trailing PE: 3.7955215
+Forward PE: 23.184515
+Price To Book: 1.5906796
+Beta: 0.248
+52 Week High: 126.4
+52 Week Low: 71.92

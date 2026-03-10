@@ -1,0 +1,25 @@
+Company: OptimizeRx Corporation Common Stock
+Ticker: OPRX
+Market Cap: 125637992
+Enterprise Value: 143997712
+Total Revenue: 109429000
+Revenue Per Share: 5.897
+EBITDA: 16388000
+Gross Margins: 0.67253995
+Operating Margins: 0.27721
+Profit Margins: 0.0469
+Free Cashflow: 16267375
+Operating Cashflow: 18715000
+Return On Assets: 0.043309998
+Return On Equity: 0.041840002
+Total Cash: 23365000
+Total Debt: 26103000
+Debt To Equity: 20.346
+Current Ratio: 3.043
+Quick Ratio: 2.91
+Trailing PE: 674.0
+Forward PE: 5.9330983
+Price To Book: 0.9855241
+Beta: 
+52 Week High: 22.25
+52 Week Low: 3.99

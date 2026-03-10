@@ -1,0 +1,10 @@
+Company: South Plains Financial Inc. Common Stock
+Ticker: SPFI
+CIK: 0001163668
+Latest SEC XBRL Facts:
+NetIncomeLoss: 43217000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4479437000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4001635000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 477802000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 65057000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 635046000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Globus Maritime Limited Common Stock
+Ticker: GLBS
+Market Cap: 40135484
+Enterprise Value: 125205136
+Total Revenue: 39444000
+Revenue Per Share: 1.916
+EBITDA: 8221000
+Gross Margins: 0.34028
+Operating Margins: 0.15695
+Profit Margins: -0.11723
+Free Cashflow: -30173376
+Operating Cashflow: 5259000
+Return On Assets: -0.00241
+Return On Equity: -0.02626
+Total Cash: 25757000
+Total Debt: 110415000
+Debt To Equity: 63.539
+Current Ratio: 2.335
+Quick Ratio: 1.959
+Trailing PE: 
+Forward PE: -48.750004
+Price To Book: 0.23096056
+Beta: 0.521
+52 Week High: 2.23
+52 Week Low: 0.99

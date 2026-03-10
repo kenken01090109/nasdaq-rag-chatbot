@@ -1,0 +1,25 @@
+Company: Black Rock Coffee Bar Inc. Class A Common Stock
+Ticker: BRCB
+Market Cap: 290666656
+Enterprise Value: 485341664
+Total Revenue: 200320992
+Revenue Per Share: 11.769
+EBITDA: 13100000
+Gross Margins: 0.50914
+Operating Margins: 0.03337
+Profit Margins: -0.00029999999
+Free Cashflow: -23153250
+Operating Cashflow: 2189000
+Return On Assets: 0.00205
+Return On Equity: -0.37569
+Total Cash: 28406000
+Total Debt: 164050000
+Debt To Equity: 156.677
+Current Ratio: 1.04
+Quick Ratio: 0.826
+Trailing PE: 
+Forward PE: 62.59645
+Price To Book: 6.364332
+Beta: 
+52 Week High: 30.4
+52 Week Low: 11.51

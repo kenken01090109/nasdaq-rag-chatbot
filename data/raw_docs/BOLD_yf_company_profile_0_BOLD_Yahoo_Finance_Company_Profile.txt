@@ -1,0 +1,9 @@
+Company: Boundless Bio Inc. Common Stock
+Ticker: BOLD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://boundlessbio.com
+Employees: 64
+Business Summary: Boundless Bio, Inc., a clinical-stage oncology company, develops cancer therapeutics to address the unmet need of patients with oncogene amplified tumors by interrogating extrachromosomal DNA (ecDNA). The company's lead product candidate is BBI-355, an ecDNA-directed therapeutic candidate and oral inhibitor of checkpoint kinase 1 that is in Phase 1/2 clinical trial in patients with oncogene amplified cancers. It also develops BBI-098, a picomolar biochemical inhibition of checkpoint kinase 1 demonstrating central nervous system penetrance in preclinical models. In addition, the company offers ECHO, an ecDNA harboring oncogenes diagnostic test to detect ecDNA in patient tumor specimens; and Spyglass platform, a platform used to identify druggable targets in oncogene amplified cancers. The company was formerly known as Pretzel Therapeutics, Inc. and changed its name to Boundless Bio, Inc. in July 2019. Boundless Bio, Inc. was incorporated in 2018 and is headquartered in San Diego, California.

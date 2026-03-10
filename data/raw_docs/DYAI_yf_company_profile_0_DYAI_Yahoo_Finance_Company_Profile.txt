@@ -1,0 +1,9 @@
+Company: Dyadic International Inc. Common Stock
+Ticker: DYAI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Jupiter
+Website: https://www.dyadic.com
+Employees: 6
+Business Summary: Dyadic International, Inc., a biotechnology platform company, develops, produces, and sells industrial enzymes and other proteins in the United States and internationally. It utilizes the C1 platform in pharmaceutical applications, including the development and production of pharmaceutical products. The company offers Dapibus, a protein production platform that enable the rapid development and large-scale manufacture of cost-effective enzymes, proteins, metabolites, and other biologic products for life sciences, food and nutrition, and bioindustrial applications. In addition, it develops DYAI-100, a C1-SARS-CoV-2 recombinant protein RBD vaccine candidate and first C1, which is in phase 1 clinical trial to produce protein tested in humans. The company has a research and development agreement with VTT Technical Research Centre of Finland, Ltd.; license agreement with South Africa's Rubic One Health; joint development agreement with a Global Food Ingredient Company; and sub-license agreement with Abic Biological Laboratories Ltd., Alphazyme, LLC, and Abic Biological Laboratories Ltd. Dyadic International, Inc. was founded in 1979 and is headquartered in Jupiter, Florida.

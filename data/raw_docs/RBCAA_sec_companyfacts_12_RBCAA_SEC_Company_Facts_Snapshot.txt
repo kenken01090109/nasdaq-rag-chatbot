@@ -1,0 +1,12 @@
+Company: Republic Bancorp Inc. Class A Common Stock
+Ticker: RBCAA
+CIK: 0000921557
+Latest SEC XBRL Facts:
+Revenues: 323226000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2605000 | unit=USD | filed=2018-08-09 | period_end=2017-06-30
+NetIncomeLoss: 108496000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 7014919000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5930399000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1084520000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 134918000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 484238000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

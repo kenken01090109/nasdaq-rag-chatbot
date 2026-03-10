@@ -1,0 +1,8 @@
+Company: Alico Inc. Common Stock
+Ticker: ALCO
+Total Cash: 34756000
+Total Debt: 85501000
+Debt To Equity: 81.847
+Current Ratio: 14.387
+Quick Ratio: 10.695
+Book Value: 13.01

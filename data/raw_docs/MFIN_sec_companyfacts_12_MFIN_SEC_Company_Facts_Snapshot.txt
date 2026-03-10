@@ -1,0 +1,10 @@
+Company: Medallion Financial Corp. Common Stock
+Ticker: MFIN
+CIK: 0001000209
+Latest SEC XBRL Facts:
+NetIncomeLoss: 30846000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2900387000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 2403510000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 397448000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 92515000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72461000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

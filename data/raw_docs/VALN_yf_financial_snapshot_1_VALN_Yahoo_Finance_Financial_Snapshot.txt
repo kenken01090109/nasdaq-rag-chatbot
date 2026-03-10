@@ -1,0 +1,25 @@
+Company: Valneva SE American Depositary Shares
+Ticker: VALN
+Market Cap: 913941376
+Enterprise Value: 2063889280
+Total Revenue: 179912000
+Revenue Per Share: 2.142
+EBITDA: -57881000
+Gross Margins: -0.02053
+Operating Margins: -1.2698799
+Profit Margins: -0.56783
+Free Cashflow: -23552250
+Operating Cashflow: -18860000
+Return On Assets: -0.096370004
+Return On Equity: -0.5553
+Total Cash: 143462000
+Total Debt: 195843008
+Debt To Equity: 130.148
+Current Ratio: 1.783
+Quick Ratio: 1.087
+Trailing PE: 
+Forward PE: -25.533981
+Price To Book: 10.906547
+Beta: 1.271
+52 Week High: 12.25
+52 Week Low: 5.429

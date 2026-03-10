@@ -1,0 +1,9 @@
+Company: New Providence Acquisition Corp. III Units
+Ticker: NPACU
+CIK: 0002048948
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4986136 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 308096673 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12864931 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -11802509 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -523172 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

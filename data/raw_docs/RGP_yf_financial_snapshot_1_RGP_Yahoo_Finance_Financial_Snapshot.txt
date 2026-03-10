@@ -1,0 +1,25 @@
+Company: Resources Connection Inc. Common Stock
+Ticker: RGP
+Market Cap: 120942776
+Enterprise Value: 58760968
+Total Revenue: 506739008
+Revenue Per Share: 15.339
+EBITDA: 6997000
+Gross Margins: 0.37993
+Operating Margins: 0.00193
+Profit Margins: -0.26133
+Free Cashflow: 36060248
+Operating Cashflow: 25468000
+Return On Assets: 0.00049
+Return On Equity: -0.50905997
+Total Cash: 89810000
+Total Debt: 24613000
+Debt To Equity: 12.649
+Current Ratio: 2.642
+Quick Ratio: 2.515
+Trailing PE: 
+Forward PE: 11.77161
+Price To Book: 0.62155646
+Beta: 0.452
+52 Week High: 7.27
+52 Week Low: 3.42

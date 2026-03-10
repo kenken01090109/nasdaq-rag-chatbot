@@ -1,0 +1,9 @@
+Company: SeaStar Medical Holding Corporation Warrant
+Ticker: ICUCW
+Sector: 
+Industry: 
+Country: United States
+City: Denver
+Website: https://seastarmedical.com
+Employees: 19
+Business Summary: SeaStar Medical Holding Corporation, a commercial-stage medical device company, develops a proprietary platform therapy to reduce the consequences of hyperinflammation on vital organs in the United States. The company offers the selective cytopheretic device (SCD), which is a disease-modifying device that neutralizes over-active immune cells and stops the cytokine storm that yields destructive hyperinflammation; and QUELIMMUNE, an SCD therapy for pediatric patients with acute kidney injury (AKI) due to sepsis. It also develops NEUTRALIZE-AKI, an SCD therapy that is in clinical trials for adult patients with AKI; and other products in various therapeutic areas, including cardiorenal syndrome, hepatorenal syndrome, and myocardial stunning in end-stage renal disease. SeaStar Medical Holding Corporation was founded in 2007 and is headquartered in Denver, Colorado.

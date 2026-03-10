@@ -1,0 +1,12 @@
+Company: GlucoTrack Inc. Common Stock
+Ticker: GCTK
+CIK: 0001506983
+Latest SEC XBRL Facts:
+Revenues: 17000000000 | unit=USD | filed=2019-11-13 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2271 | unit=USD | filed=2020-11-12 | period_end=2020-09-30
+NetIncomeLoss: -15760000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 8290000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5539000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 2751000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11304000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7869000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

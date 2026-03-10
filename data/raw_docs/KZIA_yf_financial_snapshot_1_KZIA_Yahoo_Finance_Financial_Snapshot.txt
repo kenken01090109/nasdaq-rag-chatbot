@@ -1,0 +1,25 @@
+Company: Kazia Therapeutics Limited American Depositary Shares
+Ticker: KZIA
+Market Cap: 93521928
+Enterprise Value: 7802278400
+Total Revenue: 1829000
+Revenue Per Share: 1.669
+EBITDA: -13283000
+Gross Margins: 1.0
+Operating Margins: -2.68367
+Profit Margins: 0.0
+Free Cashflow: -14905625
+Operating Cashflow: -13278000
+Return On Assets: -0.64281
+Return On Equity: 
+Total Cash: 4345000
+Total Debt: 396000
+Debt To Equity: 
+Current Ratio: 0.351
+Quick Ratio: 0.316
+Trailing PE: 
+Forward PE: -1060.1404
+Price To Book: -2.2947657
+Beta: 1.627
+52 Week High: 17.4
+52 Week Low: 2.86

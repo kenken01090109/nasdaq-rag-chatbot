@@ -1,0 +1,9 @@
+Company: 1stdibs.com Inc. Common Stock
+Ticker: DIBS
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: New York
+Website: https://www.1stdibs.com
+Employees: 
+Business Summary: 1stdibs.Com, Inc. operates an online marketplace for luxury design products worldwide. The company's marketplace connects customers with sellers and makers of vintage, antique, contemporary furniture, home décor, jewelry, watches, art, and fashion products. It also provides advertisement services. 1stdibs.Com, Inc. was incorporated in 2000 and is headquartered in New York, New York.

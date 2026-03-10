@@ -1,0 +1,9 @@
+Company: Perpetuals.com Ltd American Depositary Shares
+Ticker: PDC
+Sector: Technology
+Industry: Software - Application
+Country: Japan
+City: Tokyo
+Website: https://group.perpetuals.com
+Employees: 19
+Business Summary: Perpetuals.com Ltd operates as a financial technology company combining blockchain infrastructure and artificial intelligence to transform digital asset trading. The company develops and operates an exchange software suite, Kronos X, a proprietary multi-asset exchange platform and blockchain-based settlement solution fully compliant with European regulations including MiFID II, MiCA, DORA, and EMIR. The company provides financial market infrastructure as a service from Equinix FR2 in Frankfurt, Germany, alongside Eurex and Xetra, enabling clients to operate trading of crypto spot, derivatives, tokenized securities, and structured products. The company was formerly known as Earlyworks Co., Ltd and changed its name to Perpetuals.com Ltd in January 2026. Perpetuals.com Ltd was incorporated in 2018 and is headquartered in Tokyo, Japan.

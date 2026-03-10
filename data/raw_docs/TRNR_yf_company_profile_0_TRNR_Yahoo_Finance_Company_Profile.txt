@@ -1,0 +1,9 @@
+Company: Interactive Strength Inc. Common Stock
+Ticker: TRNR
+Sector: Consumer Cyclical
+Industry: Personal Services
+Country: United States
+City: Austin
+Website: https://interactivestrength.com
+Employees: 26
+Business Summary: Interactive Strength Inc., together with its subsidiaries, develops and sells specialty fitness equipment and virtual training for the commercial and at-home markets in the United States, Europe, and Asia. The company offers vertical climbing equipment and a digital training platform under the CLMBR brand; and hardware and digital fitness services under the FORME brand. It also provides Forme Studio, a fitness mirror; and Forme Studio Lift, a fitness mirror and cable-based digital resistance. In addition, the company offers video on-demand classes, personal training, and expert health coaching services. Further, it provides FORME Golf, a performance training program focused on helping golfers. The company sells its products through retail stores and online. Interactive Strength Inc. was incorporated in 2017 and is headquartered in Austin, Texas.

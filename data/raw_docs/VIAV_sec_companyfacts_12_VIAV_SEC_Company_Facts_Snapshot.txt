@@ -1,0 +1,11 @@
+Company: Viavi Solutions Inc. Common Stock
+Ticker: VIAV
+CIK: 0000912093
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 668400000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+NetIncomeLoss: -69500000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+Assets: 2777800000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+Liabilities: 1943500000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+StockholdersEquity: 834300000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 73500000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 765500000 | unit=USD | filed=2026-01-29 | period_end=2025-12-27

@@ -1,0 +1,9 @@
+Company: Talphera Inc. Common Stock
+Ticker: TLPH
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: San Mateo
+Website: https://talphera.com
+Employees: 13
+Business Summary: Talphera, Inc., a specialty pharmaceutical company, focuses on the development and commercialization of therapies for use in medically supervised settings. The company's lead product candidate is Niyad, a lyophilized formulation of nafamostat, which is under an investigational device exemption as an anticoagulant for the extracorporeal circuit. It is also developing LTX-608, a nafamostat formulation for direct IV infusion as an investigational product for various indications, such as antiviral, acute respiratory distress syndrome, disseminated intravascular coagulation, and acute pancreatitis, as well as Fedsyra and phenylephrine ready-to-use pre-filled syringe product candidates. The company was formerly known as AcelRx Pharmaceuticals, Inc. and changed its name to Talphera, Inc. in January 2024. The company was incorporated in 2005 and is based in San Mateo, California.

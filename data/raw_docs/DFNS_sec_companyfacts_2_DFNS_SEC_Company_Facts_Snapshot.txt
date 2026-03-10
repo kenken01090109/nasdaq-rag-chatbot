@@ -1,0 +1,11 @@
+Company: T3 Defense Inc. Common Stock
+Ticker: DFNS
+CIK: 0001787518
+Latest SEC XBRL Facts:
+Revenues: 5677362 | unit=USD | filed=2024-09-11 | period_end=2024-06-30
+NetIncomeLoss: 89611236 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 13287908 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 43705879 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -30417971 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5199446 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7611465 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

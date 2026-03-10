@@ -1,0 +1,10 @@
+Company: LightWave Acquisition Corp. Class A Ordinary Shares
+Ticker: LWAC
+CIK: 0002061379
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1701230 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 219067231 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7668397 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -6578240 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -398341 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14591 | unit=USD | filed=2025-08-08 | period_end=2025-03-31

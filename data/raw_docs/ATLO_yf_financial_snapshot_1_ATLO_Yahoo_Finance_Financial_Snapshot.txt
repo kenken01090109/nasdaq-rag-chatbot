@@ -1,0 +1,25 @@
+Company: Ames National Corporation Common Stock
+Ticker: ATLO
+Market Cap: 236842864
+Enterprise Value: 165979216
+Total Revenue: 65795000
+Revenue Per Share: 7.397
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.44395
+Profit Margins: 0.28919
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00892
+Return On Equity: 0.09946
+Total Cash: 132431000
+Total Debt: 60151000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.446261
+Forward PE: 
+Price To Book: 1.1347563
+Beta: 0.344
+52 Week High: 28.35
+52 Week Low: 16.09

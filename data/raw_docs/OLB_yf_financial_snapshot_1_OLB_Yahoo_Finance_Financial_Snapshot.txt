@@ -1,0 +1,25 @@
+Company: The OLB Group Inc. Common Stock
+Ticker: OLB
+Market Cap: 10175706
+Enterprise Value: 5760692
+Total Revenue: 9639651
+Revenue Per Share: 3.577
+EBITDA: -4277881
+Gross Margins: -0.13196
+Operating Margins: -0.49056998
+Profit Margins: -0.92683
+Free Cashflow: -3538552
+Operating Cashflow: -2304540
+Return On Assets: -0.23382
+Return On Equity: -1.4968201
+Total Cash: 3540
+Total Debt: 250831
+Debt To Equity: 4.77
+Current Ratio: 0.129
+Quick Ratio: 0.126
+Trailing PE: 
+Forward PE: -12.492
+Price To Book: 1.0409999
+Beta: 2.019
+52 Week High: 2.5
+52 Week Low: 0.3125

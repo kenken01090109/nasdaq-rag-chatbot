@@ -1,0 +1,9 @@
+Company: Linde plc Ordinary Shares
+Ticker: LIN
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United Kingdom
+City: Woking
+Website: https://www.linde.com
+Employees: 65177
+Business Summary: Linde plc operates as an industrial gas company worldwide. It offers atmospheric gases, including oxygen, nitrogen, argon, and rare gases; and process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, electronic gases, specialty gases, and acetylene. The company also engages in designing and constructing of turnkey process plants for third-party customers, as well as for the gas businesses in various locations comprising air separation, hydrogen, synthesis, olefin, and natural gas plants. It serves healthcare, chemicals and energy, manufacturing, metals and mining, food and beverage, and electronics industries. The company operates in the United States, Brazil, Mexico, Canada, Germany, the Unted Kingdom, Eastern Europe, China, Australia, South Korea, And India. Linde plc was founded in 1879 and is based in Woking, the United Kingdom.

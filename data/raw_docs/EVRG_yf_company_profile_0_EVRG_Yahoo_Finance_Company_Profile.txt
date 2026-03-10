@@ -1,0 +1,9 @@
+Company: Evergy Inc. Common Stock
+Ticker: EVRG
+Sector: Utilities
+Industry: Utilities - Regulated Electric
+Country: United States
+City: Kansas City
+Website: https://investors.evergy.com
+Employees: 4691
+Business Summary: Evergy, Inc., together with its subsidiaries, engages in the generation, transmission, distribution, and sale of electricity in the United States. The company generates electricity through coal, landfill gas, uranium, and natural gas and oil sources, as well as solar, wind, and other renewable sources. It serves residences, commercial firms, industrials, municipalities, and other electric utilities. The company was incorporated in 2017 and is headquartered in Kansas City, Missouri.

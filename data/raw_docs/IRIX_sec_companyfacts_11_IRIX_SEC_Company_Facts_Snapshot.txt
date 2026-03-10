@@ -1,0 +1,12 @@
+Company: IRIDEX Corporation Common Stock
+Ticker: IRIX
+CIK: 0001006045
+Latest SEC XBRL Facts:
+Revenues: 19813000 | unit=USD | filed=2018-08-08 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 37951000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+NetIncomeLoss: -4253000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+Assets: 28353000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+Liabilities: 23672000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+StockholdersEquity: 4681000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -2704000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 5573000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27

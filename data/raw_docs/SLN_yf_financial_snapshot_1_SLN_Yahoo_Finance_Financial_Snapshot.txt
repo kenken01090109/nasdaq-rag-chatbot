@@ -1,0 +1,25 @@
+Company: Silence Therapeutics Plc American Depository Share
+Ticker: SLN
+Market Cap: 294267488
+Enterprise Value: 694406144
+Total Revenue: 559000
+Revenue Per Share: 0.012
+EBITDA: -81735000
+Gross Margins: 0.61538
+Operating Margins: -371.5
+Profit Margins: 0.0
+Free Cashflow: -47624248
+Operating Cashflow: -62271000
+Return On Assets: -0.3079
+Return On Equity: -0.90269995
+Total Cash: 85114000
+Total Debt: 160000
+Debt To Equity: 0.257
+Current Ratio: 8.717
+Quick Ratio: 7.869
+Trailing PE: 
+Forward PE: -8.652778
+Price To Book: 4.723275
+Beta: 
+52 Week High: 7.775
+52 Week Low: 1.97

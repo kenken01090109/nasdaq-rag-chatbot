@@ -1,0 +1,25 @@
+Company: Honeywell International Inc. Common Stock
+Ticker: HON
+Market Cap: 158554800128
+Enterprise Value: 173327138816
+Total Revenue: 37441998848
+Revenue Per Share: 58.595
+EBITDA: 8467999744
+Gross Margins: 0.36933997
+Operating Margins: 0.15413
+Profit Margins: 0.1263
+Free Cashflow: 4661000192
+Operating Cashflow: 6408000000
+Return On Assets: 0.05945
+Return On Equity: 0.26136
+Total Cash: 12929999872
+Total Debt: 35562999808
+Debt To Equity: 236.613
+Current Ratio: 1.298
+Quick Ratio: 0.878
+Trailing PE: 31.040897
+Forward PE: 20.467136
+Price To Book: 10.750708
+Beta: 0.904
+52 Week High: 248.18
+52 Week Low: 169.04807

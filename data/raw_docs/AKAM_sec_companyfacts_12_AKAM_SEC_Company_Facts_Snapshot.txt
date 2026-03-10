@@ -1,0 +1,11 @@
+Company: Akamai Technologies Inc. Common Stock
+Ticker: AKAM
+CIK: 0001086222
+Latest SEC XBRL Facts:
+Revenues: 668724000 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+NetIncomeLoss: 366959000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 10833273000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 6101329000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 4731944000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1152181000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 927933000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

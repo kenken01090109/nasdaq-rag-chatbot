@@ -1,0 +1,11 @@
+Company: Euronet Worldwide Inc. Common Stock
+Ticker: EEFT
+CIK: 0001029199
+Latest SEC XBRL Facts:
+Revenues: 3135500000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 258000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 6275400000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 4996800000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1263300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 381900000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1172500000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: HeartSciences Inc. Warrant
+Ticker: HSCSW
+CIK: 0001468492
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 18600 | unit=USD | filed=2025-03-13 | period_end=2024-01-31
+NetIncomeLoss: -6670899 | unit=USD | filed=2025-03-13 | period_end=2025-01-31
+Assets: 5703855 | unit=USD | filed=2025-03-13 | period_end=2025-01-31
+Liabilities: 3917166 | unit=USD | filed=2025-03-13 | period_end=2025-01-31
+StockholdersEquity: 1786689 | unit=USD | filed=2025-03-13 | period_end=2025-01-31
+NetCashProvidedByUsedInOperatingActivities: -5822354 | unit=USD | filed=2025-03-13 | period_end=2025-01-31
+CashAndCashEquivalentsAtCarryingValue: 2596522 | unit=USD | filed=2025-03-13 | period_end=2025-01-31

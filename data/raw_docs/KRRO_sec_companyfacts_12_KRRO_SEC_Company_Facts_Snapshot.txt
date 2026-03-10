@@ -1,0 +1,11 @@
+Company: Korro Bio Inc. Common Stock
+Ticker: KRRO
+CIK: 0001703647
+Latest SEC XBRL Facts:
+Revenues: 5100000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2022-11-08 | period_end=2022-09-30
+NetIncomeLoss: -67218000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 161550000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 62518000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -60859000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24155000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

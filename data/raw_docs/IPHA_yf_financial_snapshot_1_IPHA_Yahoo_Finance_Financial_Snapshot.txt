@@ -1,0 +1,25 @@
+Company: Innate Pharma S.A. ADS
+Ticker: IPHA
+Market Cap: 149959472
+Enterprise Value: 112611320
+Total Revenue: 12636000
+Revenue Per Share: 0.15
+EBITDA: -49771000
+Gross Margins: -2.43653
+Operating Margins: -5.23189
+Profit Margins: 0.0
+Free Cashflow: -20764000
+Operating Cashflow: -41096000
+Return On Assets: -0.25922
+Return On Equity: -2.71367
+Total Cash: 60027000
+Total Debt: 27029000
+Debt To Equity: 525.447
+Current Ratio: 2.208
+Quick Ratio: 2.081
+Trailing PE: 
+Forward PE: -2.862254
+Price To Book: 24.615265
+Beta: 0.539
+52 Week High: 2.63
+52 Week Low: 1.57

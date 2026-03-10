@@ -1,0 +1,11 @@
+Company: Galaxy Payroll Group Limited Class A Ordinary Shares
+Ticker: GLXG
+CIK: 0001905920
+Latest SEC XBRL Facts:
+Revenues: 3494225 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+NetIncomeLoss: -3511983 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+Assets: 4985461 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+Liabilities: 1533286 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+StockholdersEquity: 3452175 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3529724 | unit=USD | filed=2025-10-24 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1390204 | unit=USD | filed=2024-11-08 | period_end=2024-06-30

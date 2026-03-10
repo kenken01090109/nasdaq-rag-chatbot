@@ -1,0 +1,11 @@
+Company: Pasithea Therapeutics Corp. Warrant
+Ticker: KTTAW
+CIK: 0001841330
+Latest SEC XBRL Facts:
+Revenues: 13658 | unit=USD | filed=2023-05-12 | period_end=2022-03-31
+NetIncomeLoss: -10316815 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 13630664 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1423982 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 12206682 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9814668 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4122953 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

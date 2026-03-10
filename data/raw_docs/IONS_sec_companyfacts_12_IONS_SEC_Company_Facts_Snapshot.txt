@@ -1,0 +1,12 @@
+Company: Ionis Pharmaceuticals Inc. Common Stock
+Ticker: IONS
+CIK: 0000874015
+Latest SEC XBRL Facts:
+Revenues: 203330000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 740381000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -151993000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 3033091000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 2415124000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 617967000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -130874000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 338341000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

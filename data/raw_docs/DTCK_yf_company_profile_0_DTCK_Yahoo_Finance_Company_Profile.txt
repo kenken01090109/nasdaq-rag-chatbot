@@ -1,0 +1,9 @@
+Company: Davis Commodities Limited Class A Ordinary Shares
+Ticker: DTCK
+Sector: Consumer Defensive
+Industry: Farm Products
+Country: Singapore
+City: Singapore
+Website: https://www.daviscl.com
+Employees: 21
+Business Summary: Davis Commodities Limited, an investment holding company, operates as an agricultural commodity trading company in Africa, China, Indonesia, Vietnam, the Philippines, Thailand, Singapore, and internationally. It trades in agricultural commodities, including sugar, rice, and oil and fat products under the Maxwill and Taffy brands. The company also provides warehouse handling, storage, and logistics services. Davis Commodities Limited was founded in 1999 and is headquartered in Singapore. The company operates as a subsidiary of Davis & KT Holdings Pte. Ltd.

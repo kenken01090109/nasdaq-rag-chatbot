@@ -1,0 +1,10 @@
+Company: Alset Inc. Common Stock (TX)
+Ticker: AEI
+Market Cap: 65749884
+Enterprise Value: 37580500
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.42451647
+Beta: 1.356
+52 Week High: 4.55
+52 Week Low: 0.7

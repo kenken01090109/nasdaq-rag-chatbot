@@ -1,0 +1,11 @@
+Company: SB Financial Group Inc. Common Stock
+Ticker: SBFG
+CIK: 0000767405
+Latest SEC XBRL Facts:
+Revenues: 25774000 | unit=USD | filed=2012-11-07 | period_end=2012-09-30
+NetIncomeLoss: 10056000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1496263000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1359324000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 136939000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15769000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 138015000 | unit=USD | filed=2021-11-05 | period_end=2021-09-30

@@ -1,0 +1,9 @@
+Company: ALT5 Sigma Corporation Common Stock
+Ticker: ALTS
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Las Vegas
+Website: https://alt5sigma.com
+Employees: 10
+Business Summary: ALT5 Sigma Corporation, together with its subsidiaries, provides blockchain-powered technologies worldwide. It operates through Fintech and Biotechnology segments. The company engages in the tokenization, trading, clearing settlement, payment, and safe keeping of digital assets. Its products include ALT 5 Prime, an electronic over-the-counter trading platform for the buying and selling of digital assets; and ALT 5 Pay, a crypto-currency payment gateway that enables merchants to accept and make crypto currency payments or integrate the payment platform into their application. The company is also involved identifying, acquiring, licensing, developing, partnering, and commercializing novel, non-opioid, and non-addictive therapies for the treatment of pain and addiction. In addition, it develops JAN 101, an oral and sustained-release pharmaceutical composition of sodium nitrite that has completed Phase 2a clinical trial to treat peripheral arterial disease and pain; and JAN123, a formulation of low-dose naltrexone for the treatment of chronic regional pain syndrome. The company was formerly known as JanOne Inc. and changed its name to ALT5 Sigma Corporation in July 2024. ALT5 Sigma Corporation was founded in 1976 and is based in Las Vegas, Nevada.

@@ -1,0 +1,25 @@
+Company: Evaxion A/S American Depositary Share
+Ticker: EVAX
+Market Cap: 26855492
+Enterprise Value: 2269142016
+Total Revenue: 7528000
+Revenue Per Share: 0.977
+EBITDA: -8619000
+Gross Margins: 1.0
+Operating Margins: -1.2266201
+Profit Margins: -1.02378
+Free Cashflow: -6707375
+Operating Cashflow: -6625000
+Return On Assets: -0.28226
+Return On Equity: -1.00175
+Total Cash: 23234000
+Total Debt: 7504000
+Debt To Equity: 44.04
+Current Ratio: 5.849
+Quick Ratio: 5.661
+Trailing PE: 
+Forward PE: 53.666668
+Price To Book: 2.5394323
+Beta: 
+52 Week High: 12.15
+52 Week Low: 1.2

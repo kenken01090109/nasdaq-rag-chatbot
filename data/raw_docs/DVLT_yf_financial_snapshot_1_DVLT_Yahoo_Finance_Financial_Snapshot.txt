@@ -1,0 +1,25 @@
+Company: Datavault AI Inc. Common Stock
+Ticker: DVLT
+Market Cap: 402143616
+Enterprise Value: 237476560
+Total Revenue: 6170000
+Revenue Per Share: 0.105
+EBITDA: -35381000
+Gross Margins: 0.06823
+Operating Margins: -5.08127
+Profit Margins: 0.0
+Free Cashflow: -28070000
+Operating Cashflow: -27454000
+Return On Assets: -0.36626998
+Return On Equity: -1.65725
+Total Cash: 1683000
+Total Debt: 28926000
+Debt To Equity: 29.069
+Current Ratio: 0.684
+Quick Ratio: 0.12
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.510917
+Beta: 0.128
+52 Week High: 4.1
+52 Week Low: 0.25

@@ -1,0 +1,25 @@
+Company: Aardvark Therapeutics Inc. Common Stock
+Ticker: AARD
+Market Cap: 127373640
+Enterprise Value: 1568641
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -53437000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -25479376
+Operating Cashflow: -45089000
+Return On Assets: -0.30806
+Return On Equity: -0.48061
+Total Cash: 126350000
+Total Debt: 545000
+Debt To Equity: 0.445
+Current Ratio: 12.035
+Quick Ratio: 11.769
+Trailing PE: 
+Forward PE: -1.4982942
+Price To Book: 1.0394456
+Beta: 
+52 Week High: 17.94
+52 Week Low: 4.74

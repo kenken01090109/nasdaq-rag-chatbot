@@ -1,0 +1,12 @@
+Company: Q/C Technologies Inc. Common Stock
+Ticker: QCLS
+CIK: 0001321834
+Latest SEC XBRL Facts:
+Revenues: 1386165 | unit=USD | filed=2018-11-14 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 361627 | unit=USD | filed=2020-08-14 | period_end=2020-06-30
+NetIncomeLoss: -5732326 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 37231786 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 15913502 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 14320390 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5865877 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73244 | unit=USD | filed=2025-05-15 | period_end=2025-03-31

@@ -1,0 +1,9 @@
+Company: Black Diamond Therapeutics Inc. Common Stock
+Ticker: BDTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.blackdiamondtherapeutics.com
+Employees: 24
+Business Summary: Black Diamond Therapeutics, Inc., a clinical-stage oncology company, focuses on the discovery and development of MasterKey therapies for patients with genetically defined tumors. The company's lead product candidate is BDTX-1535, a brain-penetrant epidermal growth factor receptor MasterKey inhibitor, which is in Phase 2 clinical trial for the treatment of epidermal growth factor receptor mutant non-small cell lung cancer, as well as Phase 1 clinical trial to treat glioblastoma. It is also developing BDTX-4933, a brain-penetrant RAF MasterKey inhibitor targeting KRAS, NRAS, and BRAF alterations in solid tumors that is in Phase 1 clinical trial. In addition, the company is developing BDTX-4876, a MasterKey inhibitor of oncogenic FGFR2/3 mutations with selectivity versus FGFR1/4, which is in preclinical stage. The company was formerly known as ASET Therapeutics, Inc. and changed its name to Black Diamond Therapeutics, Inc. in January 2018. Black Diamond Therapeutics, Inc. was incorporated in 2014 and is headquartered in Cambridge, Massachusetts.

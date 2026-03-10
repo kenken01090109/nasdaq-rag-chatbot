@@ -1,0 +1,9 @@
+Company: BT Brands Inc. Common Stock
+Ticker: BTBD
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: West Fargo
+Website: https://itsburgertime.com
+Employees: 40
+Business Summary: BT Brands, Inc. owns and operates fast-food restaurants in the north central region of United States. The company operates Burger Time restaurants that offer various burgers and other food products, such as chicken sandwiches, pulled pork sandwiches, chicken tenders, chicken chunks, sides, and soft drinks located in Minnesota, North Dakota, and South Dakota. It also operates Bagger Dave's Burger Tavern, Inc. restaurants that provide burgers, pizzas, fries, beers, milkshakes, salads, and other items located in Michigan, Ohio, and Indiana. The company was founded in 1987 and is based in West Fargo, North Dakota.

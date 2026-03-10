@@ -1,0 +1,25 @@
+Company: Apollomics Inc. Class A Ordinary Shares
+Ticker: APLM
+Market Cap: 42995560
+Enterprise Value: 20777160
+Total Revenue: 6930000
+Revenue Per Share: 6.285
+EBITDA: -26359000
+Gross Margins: 1.0
+Operating Margins: -1.248
+Profit Margins: 0.0
+Free Cashflow: -14440000
+Operating Cashflow: -20379000
+Return On Assets: -0.72288
+Return On Equity: -3.8013299
+Total Cash: 2100000
+Total Debt: 744000
+Debt To Equity: 
+Current Ratio: 0.967
+Quick Ratio: 0.905
+Trailing PE: 
+Forward PE: -30.861538
+Price To Book: -5.0326138
+Beta: 1.757
+52 Week High: 42.12
+52 Week Low: 3.659

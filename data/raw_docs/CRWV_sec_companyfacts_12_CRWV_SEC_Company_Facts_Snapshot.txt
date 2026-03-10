@@ -1,0 +1,11 @@
+Company: CoreWeave Inc. Class A Common Stock
+Ticker: CRWV
+CIK: 0001769628
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3559096000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -715274000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 32910498000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 29032484000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 3878014000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1499051000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1894399000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

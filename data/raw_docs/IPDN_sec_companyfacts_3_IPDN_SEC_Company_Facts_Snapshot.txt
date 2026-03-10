@@ -1,0 +1,12 @@
+Company: Professional Diversity Network Inc. Common Stock
+Ticker: IPDN
+CIK: 0001546296
+Latest SEC XBRL Facts:
+Revenues: 3548216 | unit=USD | filed=2018-05-15 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 4877838 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -3555828 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 12146012 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3846047 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 8949893 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3495663 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 265258 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

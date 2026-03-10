@@ -1,0 +1,10 @@
+Company: Adicet Bio Inc. Common Stock
+Ticker: ACET
+CIK: 0001720580
+Latest SEC XBRL Facts:
+NetIncomeLoss: -86287000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 140479000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 31337000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 109142000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -74337000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29099000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

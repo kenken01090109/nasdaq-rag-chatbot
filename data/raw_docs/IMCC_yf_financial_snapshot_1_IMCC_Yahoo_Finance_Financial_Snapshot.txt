@@ -1,0 +1,25 @@
+Company: IM Cannabis Corp. Common Shares
+Ticker: IMCC
+Market Cap: 4421110
+Enterprise Value: 20341300
+Total Revenue: 52382000
+Revenue Per Share: 15.045
+EBITDA: -3117000
+Gross Margins: 0.23451
+Operating Margins: -0.07776
+Profit Margins: -0.089650005
+Free Cashflow: -10820500
+Operating Cashflow: -3708000
+Return On Assets: -0.06723
+Return On Equity: -1.19746
+Total Cash: 1182000
+Total Debt: 17563000
+Debt To Equity: 408.157
+Current Ratio: 0.823
+Quick Ratio: 0.323
+Trailing PE: 
+Forward PE: -0.5769231
+Price To Book: 1.3580749
+Beta: 2.112
+52 Week High: 7.12
+52 Week Low: 0.65

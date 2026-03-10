@@ -1,0 +1,25 @@
+Company: Cogent Communications Holdings Inc.
+Ticker: CCOI
+Market Cap: 1154934016
+Enterprise Value: 3617916416
+Total Revenue: 896566016
+Revenue Per Share: 18.706
+EBITDA: 166368000
+Gross Margins: 0.49166
+Operating Margins: -0.052020002
+Profit Margins: -0.20319
+Free Cashflow: -90025376
+Operating Cashflow: -10579000
+Return On Assets: -0.02069
+Return On Equity: -2.2914999
+Total Cash: 148515008
+Total Debt: 2665686016
+Debt To Equity: 
+Current Ratio: 2.04
+Quick Ratio: 1.477
+Trailing PE: 
+Forward PE: -9.734178
+Price To Book: -17.242151
+Beta: 0.777
+52 Week High: 72.68
+52 Week Low: 15.96

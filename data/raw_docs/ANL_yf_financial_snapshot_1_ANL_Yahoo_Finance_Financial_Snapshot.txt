@@ -1,0 +1,25 @@
+Company: Adlai Nortye Ltd. American Depositary Shares
+Ticker: ANL
+Market Cap: 328781376
+Enterprise Value: 986766144
+Total Revenue: 
+Revenue Per Share: 0.061
+EBITDA: -41885000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -37974124
+Operating Cashflow: -38569000
+Return On Assets: -0.29808
+Return On Equity: -1.38983
+Total Cash: 44145000
+Total Debt: 44567000
+Debt To Equity: 562.644
+Current Ratio: 1.025
+Quick Ratio: 0.691
+Trailing PE: 
+Forward PE: -34.941177
+Price To Book: 41.44186
+Beta: -1.452
+52 Week High: 12.09
+52 Week Low: 0.879

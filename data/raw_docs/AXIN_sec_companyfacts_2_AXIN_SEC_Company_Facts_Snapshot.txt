@@ -1,0 +1,9 @@
+Company: Axiom Intelligence Acquisition Corp 1 Class A Ordinary Shares
+Ticker: AXIN
+CIK: 0002057030
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1888712 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 203397370 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 8107864 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -6976347 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -99340 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

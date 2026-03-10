@@ -1,0 +1,25 @@
+Company: Click Holdings Limited Class A Ordinary Share
+Ticker: CLIK
+Market Cap: 11910071
+Enterprise Value: 5813043
+Total Revenue: 10711396
+Revenue Per Share: 16.943
+EBITDA: -1033245
+Gross Margins: 0.15314001
+Operating Margins: -0.25701
+Profit Margins: -0.094960004
+Free Cashflow: 
+Operating Cashflow: -765733
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1648323
+Total Debt: 751417
+Debt To Equity: 4.828
+Current Ratio: 2.961
+Quick Ratio: 2.875
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.32076633
+Beta: 
+52 Week High: 102.9
+52 Week Low: 3.013

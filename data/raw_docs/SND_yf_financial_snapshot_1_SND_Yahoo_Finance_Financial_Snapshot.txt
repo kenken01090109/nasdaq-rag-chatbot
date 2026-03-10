@@ -1,0 +1,25 @@
+Company: Smart Sand Inc. Common Stock
+Ticker: SND
+Market Cap: 162484352
+Enterprise Value: 191700192
+Total Revenue: 330152992
+Revenue Per Share: 8.455
+EBITDA: 24239000
+Gross Margins: 0.11476
+Operating Margins: -0.028350001
+Profit Margins: 0.0040700003
+Free Cashflow: 33791500
+Operating Cashflow: 44116000
+Return On Assets: -0.00922
+Return On Equity: 0.00556
+Total Cash: 22551000
+Total Debt: 36180000
+Debt To Equity: 15.094
+Current Ratio: 1.765
+Quick Ratio: 1.106
+Trailing PE: 40.9
+Forward PE: 13.193549
+Price To Book: 0.6645004
+Beta: 0.358
+52 Week High: 5.589
+52 Week Low: 1.76

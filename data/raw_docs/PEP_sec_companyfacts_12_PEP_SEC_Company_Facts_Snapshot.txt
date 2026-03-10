@@ -1,0 +1,11 @@
+Company: PepsiCo Inc. Common Stock
+Ticker: PEP
+CIK: 0000077476
+Latest SEC XBRL Facts:
+Revenues: 64582000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06
+NetIncomeLoss: 5700000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06
+Assets: 106558000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06
+Liabilities: 87015000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06
+StockholdersEquity: 19388000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06
+NetCashProvidedByUsedInOperatingActivities: 5468000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06
+CashAndCashEquivalentsAtCarryingValue: 8126000000 | unit=USD | filed=2025-10-09 | period_end=2025-09-06

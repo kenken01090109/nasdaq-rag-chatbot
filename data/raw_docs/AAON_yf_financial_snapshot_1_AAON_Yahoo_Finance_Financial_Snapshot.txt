@@ -1,0 +1,25 @@
+Company: AAON Inc. Common Stock
+Ticker: AAON
+Market Cap: 7210736128
+Enterprise Value: 7236022784
+Total Revenue: 1442076032
+Revenue Per Share: 17.688
+EBITDA: 226930000
+Gross Margins: 0.26748
+Operating Margins: 0.0399
+Profit Margins: 0.07461
+Free Cashflow: -235688880
+Operating Cashflow: 534000
+Return On Assets: 0.06453
+Return On Equity: 0.12514
+Total Cash: 2859000
+Total Debt: 40000000
+Debt To Equity: 8.581
+Current Ratio: 2.627
+Quick Ratio: 1.78
+Trailing PE: 73.0
+Forward PE: 29.821068
+Price To Book: 8.062249
+Beta: 1.13
+52 Week High: 116.04
+52 Week Low: 62.0

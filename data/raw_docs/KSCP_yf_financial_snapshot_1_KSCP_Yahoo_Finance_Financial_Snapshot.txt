@@ -1,0 +1,25 @@
+Company: Knightscope Inc. Class A Common Stock
+Ticker: KSCP
+Market Cap: 44769476
+Enterprise Value: 33480802
+Total Revenue: 11610000
+Revenue Per Share: 1.753
+EBITDA: -26766000
+Gross Margins: -0.38088
+Operating Margins: -3.03673
+Profit Margins: -2.5609
+Free Cashflow: -17337124
+Operating Cashflow: -24811000
+Return On Assets: -0.55745
+Return On Equity: -1.64483
+Total Cash: 20389000
+Total Debt: 7374000
+Debt To Equity: 27.416
+Current Ratio: 3.621
+Quick Ratio: 3.206
+Trailing PE: 
+Forward PE: -1.669528
+Price To Book: 1.5042537
+Beta: 1.713
+52 Week High: 10.14
+52 Week Low: 2.45

@@ -1,0 +1,25 @@
+Company: Fastly Inc. Class A Common Stock
+Ticker: FSLY
+Market Cap: 3057251840
+Enterprise Value: 3171219968
+Total Revenue: 624017984
+Revenue Per Share: 4.248
+EBITDA: -63333000
+Gross Margins: 0.57082003
+Operating Margins: -0.087419994
+Profit Margins: -0.19499001
+Free Cashflow: 140450496
+Operating Cashflow: 94444000
+Return On Assets: -0.050229996
+Return On Equity: -0.12843001
+Total Cash: 361759008
+Total Debt: 430187008
+Debt To Equity: 46.278
+Current Ratio: 2.612
+Quick Ratio: 2.473
+Trailing PE: 
+Forward PE: 55.31599
+Price To Book: 3.2833388
+Beta: 0.919
+52 Week High: 21.75
+52 Week Low: 4.65

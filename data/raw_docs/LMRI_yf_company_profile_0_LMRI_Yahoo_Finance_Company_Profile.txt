@@ -1,0 +1,9 @@
+Company: Lumexa Imaging Holdings Inc. Common Stock
+Ticker: LMRI
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Raleigh
+Website: https://www.lumexaimaging.com
+Employees: 
+Business Summary: Lumexa Imaging Holdings, Inc. owns and operates diagnostic imaging centres in the United States. The company provides outpatient medical imaging services, such as magnetic resonance imaging (MRI), computed tomography (CT), and positron emission tomography (PET) services, as well as X-ray, ultrasound, and mammography diagnostic and screening imaging services. The company was founded in 2018 and is based in Raleigh, North Carolina.

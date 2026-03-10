@@ -1,0 +1,9 @@
+Company: Artesian Resources Corporation Class A Common Stock
+Ticker: ARTNA
+Sector: Utilities
+Industry: Utilities - Regulated Water
+Country: United States
+City: Newark
+Website: https://www.artesianwater.com
+Employees: 245
+Business Summary: Artesian Resources Corporation provides water, wastewater, and other services in Delaware, Maryland, and Pennsylvania. The company distributes and sells water to residential, commercial, industrial, governmental, municipal, and utility customers, as well as for public and private fire protection in the states of Delaware, Maryland, and Pennsylvania; and offers wastewater collection, treatment infrastructure, and wastewater services to customers in Delaware. It provides contract water and wastewater services; water, sewer, and internal service line protection plans; and wastewater management services, as well as design, construction, and engineering services. In addition, the company offers services to other water utilities; owns real estate properties, including land for office buildings, a water treatment plant, and wastewater facility; and provides design, installation, maintenance, and repair services related to existing or proposed storm water management systems. As of December 31, 2024, it served customers in Delaware, Maryland, and Pennsylvania through 1,491 miles of transmission and distribution mains. The company was founded in 1905 and is headquartered in Newark, Delaware.

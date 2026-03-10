@@ -1,0 +1,10 @@
+Company: Agroz Inc. Ordinary Shares
+Ticker: AGRZ
+Market Cap: 8216417
+Enterprise Value: 15988764
+Trailing PE: 4.212222
+Forward PE: 
+Price To Book: 1.9290063
+Beta: 
+52 Week High: 7.2
+52 Week Low: 0.331

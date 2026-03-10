@@ -1,0 +1,11 @@
+Company: CleanSpark Inc. Warrant
+Ticker: CLSKW
+CIK: 0000827876
+Latest SEC XBRL Facts:
+Revenues: 766314000 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+NetIncomeLoss: 365389000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+Assets: 3101817000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+Liabilities: 954929000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+StockholdersEquity: 2146888000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -341623000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 34553000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30

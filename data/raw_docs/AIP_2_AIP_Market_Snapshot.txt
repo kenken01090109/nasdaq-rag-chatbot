@@ -1,0 +1,10 @@
+Company: Arteris Inc. Common Stock
+Ticker: AIP
+Market Cap: 707015872
+Enterprise Value: 658383936
+Trailing PE: 
+Forward PE: 150.48872
+Price To Book: -46.97885
+Beta: 1.452
+52 Week High: 19.85
+52 Week Low: 5.46

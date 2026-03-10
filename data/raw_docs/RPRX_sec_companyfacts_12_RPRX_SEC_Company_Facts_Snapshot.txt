@@ -1,0 +1,10 @@
+Company: Royalty Pharma plc Class A Ordinary Shares
+Ticker: RPRX
+CIK: 0001802768
+Latest SEC XBRL Facts:
+Revenues: 1756203000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 556742000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 19347280000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 9726419000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1662675000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 938944000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

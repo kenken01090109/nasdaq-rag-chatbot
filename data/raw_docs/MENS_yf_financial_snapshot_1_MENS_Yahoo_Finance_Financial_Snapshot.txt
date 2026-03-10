@@ -1,0 +1,25 @@
+Company: Jyong Biotech Ltd. Ordinary Shares
+Ticker: MENS
+Market Cap: 164219760
+Enterprise Value: 176054592
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -1803000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.05444
+Return On Equity: 
+Total Cash: 17007000
+Total Debt: 35194000
+Debt To Equity: 
+Current Ratio: 0.623
+Quick Ratio: 0.617
+Trailing PE: 
+Forward PE: 
+Price To Book: -6.900959
+Beta: 
+52 Week High: 67.0
+52 Week Low: 1.43

@@ -1,0 +1,25 @@
+Company: Alpha Teknova Inc. Common Stock
+Ticker: TKNO
+Market Cap: 112946552
+Enterprise Value: 125359736
+Total Revenue: 40520000
+Revenue Per Share: 0.758
+EBITDA: -10134000
+Gross Margins: 0.33171
+Operating Margins: -0.41155997
+Profit Margins: -0.42594
+Free Cashflow: -2396250
+Operating Cashflow: -8646000
+Return On Assets: -0.09262
+Return On Equity: -0.22834
+Total Cash: 21338000
+Total Debt: 28269000
+Debt To Equity: 41.104
+Current Ratio: 4.579
+Quick Ratio: 3.444
+Trailing PE: 
+Forward PE: -5.4102564
+Price To Book: 1.6433021
+Beta: 0.401
+52 Week High: 7.48
+52 Week Low: 1.91

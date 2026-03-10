@@ -1,0 +1,25 @@
+Company: Visteon Corporation Common Stock
+Ticker: VC
+Market Cap: 2464737280
+Enterprise Value: 2165604096
+Total Revenue: 3768000000
+Revenue Per Share: 138.529
+EBITDA: 440000000
+Gross Margins: 0.14119
+Operating Margins: 0.07384
+Profit Margins: 0.053340003
+Free Cashflow: 269124992
+Operating Cashflow: 410000000
+Return On Assets: 0.06651
+Return On Equity: 0.13899
+Total Cash: 771000000
+Total Debt: 431000000
+Debt To Equity: 26.105
+Current Ratio: 1.799
+Quick Ratio: 1.486
+Trailing PE: 12.407967
+Forward PE: 9.434011
+Price To Book: 1.5439179
+Beta: 1.172
+52 Week High: 129.1
+52 Week Low: 65.1

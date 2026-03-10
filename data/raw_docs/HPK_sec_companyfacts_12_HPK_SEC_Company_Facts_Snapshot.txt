@@ -1,0 +1,10 @@
+Company: HighPeak Energy Inc. Common Stock
+Ticker: HPK
+CIK: 0001792849
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 646710000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 44176000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3204762000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1626502000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 418504000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 164913000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

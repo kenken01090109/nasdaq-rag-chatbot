@@ -1,0 +1,9 @@
+Company: Verde Clean Fuels Inc. Class A Common Stock
+Ticker: VGAS
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: United States
+City: Houston
+Website: https://www.verdecleanfuels.com
+Employees: 10
+Business Summary: Verde Clean Fuels, Inc., a clean fuels company, focuses on the deployment of liquid fuels processing technology through development of commercial production plants in the United States. Its synthesis gas (syngas)-to-gasoline plus (STG+) process converts syngas derived from diverse feedstocks into finished liquid fuels that require no additional refining. The company was founded in 2007 and is headquartered in Houston, Texas.

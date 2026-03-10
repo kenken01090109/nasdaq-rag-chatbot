@@ -1,0 +1,11 @@
+Company: Baiya International Group Inc. Ordinary Shares
+Ticker: BIYA
+CIK: 0001944712
+Latest SEC XBRL Facts:
+Revenues: 7261545 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: -4757278 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 27236279 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 4747713 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 22412549 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -6385577 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 909699 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

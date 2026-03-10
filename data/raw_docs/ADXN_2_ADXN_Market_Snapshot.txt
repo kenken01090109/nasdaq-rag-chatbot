@@ -1,0 +1,10 @@
+Company: Addex Therapeutics Ltd American Depositary Shares
+Ticker: ADXN
+Market Cap: 8685586
+Enterprise Value: 819677696
+Trailing PE: 
+Forward PE: -141.0
+Price To Book: 107.723656
+Beta: 1.914
+52 Week High: 12.05
+52 Week Low: 6.51

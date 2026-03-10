@@ -1,0 +1,10 @@
+Company: The Carlyle Group Inc. Common Stock
+Ticker: CG
+CIK: 0001527166
+Latest SEC XBRL Facts:
+Revenues: 2878700000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 450600000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 27055900000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 20210800000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2080400000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2221700000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

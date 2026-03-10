@@ -1,0 +1,12 @@
+Company: Motorsport Games Inc. Class A Common Stock
+Ticker: MSGM
+CIK: 0001821175
+Latest SEC XBRL Facts:
+Revenues: 741000 | unit=USD | filed=2023-03-24 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 7450311 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 6088754 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 10101113 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3306278 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 5853330 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2332107 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4128690 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

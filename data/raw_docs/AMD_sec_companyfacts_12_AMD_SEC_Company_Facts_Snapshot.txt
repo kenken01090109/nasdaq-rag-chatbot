@@ -1,0 +1,11 @@
+Company: Advanced Micro Devices Inc. Common Stock
+Ticker: AMD
+CIK: 0000002488
+Latest SEC XBRL Facts:
+Revenues: 3913000000 | unit=USD | filed=2018-10-31 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 24369000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetIncomeLoss: 2824000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Assets: 76891000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+StockholdersEquity: 60790000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 5109000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 4808000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27

@@ -1,0 +1,25 @@
+Company: Pathward Financial Inc. Common Stock
+Ticker: CASH
+Market Cap: 2008500096
+Enterprise Value: 1681462912
+Total Revenue: 786022976
+Revenue Per Share: 34.294
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.25535
+Profit Margins: 0.24309
+Free Cashflow: 
+Operating Cashflow: 630657984
+Return On Assets: 0.0253
+Return On Equity: 0.23567
+Total Cash: 331216992
+Total Debt: 56730000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.95128
+Forward PE: 9.35588
+Price To Book: 2.3325984
+Beta: 0.747
+52 Week High: 96.06
+52 Week Low: 64.45

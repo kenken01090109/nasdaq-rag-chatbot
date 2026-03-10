@@ -1,0 +1,10 @@
+Company: Aldeyra Therapeutics Inc. Common Stock
+Ticker: ALDX
+CIK: 0001341235
+Latest SEC XBRL Facts:
+NetIncomeLoss: -27385154 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 77801012 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 28556469 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 49244543 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -28046337 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 59340599 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Twist Bioscience Corporation Common Stock
+Ticker: TWST
+CIK: 0001581280
+Latest SEC XBRL Facts:
+NetIncomeLoss: -30507000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+Assets: 638085000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+Liabilities: 181990000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+StockholdersEquity: 456095000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -24814000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 148591000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31

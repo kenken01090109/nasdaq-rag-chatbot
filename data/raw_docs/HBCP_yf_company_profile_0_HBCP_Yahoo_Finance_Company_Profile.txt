@@ -1,0 +1,9 @@
+Company: Home Bancorp Inc. Common Stock
+Ticker: HBCP
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Lafayette
+Website: https://www.home24bank.com
+Employees: 
+Business Summary: Home Bancorp, Inc. operates as the bank holding company for Home Bank, National Association that provides various banking products and services in Louisiana, Mississippi, and Texas. It offers deposit products, including interest-bearing and noninterest-bearing checking, money market, savings, NOW, and certificates of deposit accounts. The company also provides various loan products comprising one-to four-family first mortgage loans, home equity loans and lines, commercial real estate loans, construction and land loans, multi-family residential loans, commercial and industrial loans, and consumer loans. Further, it invests in securities, as well as offers credit cards and online banking services. The company was founded in 1908 and is headquartered in Lafayette, Louisiana.

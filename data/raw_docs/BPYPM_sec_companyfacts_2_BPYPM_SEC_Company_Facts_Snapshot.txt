@@ -1,0 +1,4 @@
+Company: Brookfield Property Partners L.P. 6.25% Class A Cumulative Redeemable Preferred Units Series 1
+Ticker: BPYPM
+CIK: 0001545772
+Latest SEC XBRL Facts:

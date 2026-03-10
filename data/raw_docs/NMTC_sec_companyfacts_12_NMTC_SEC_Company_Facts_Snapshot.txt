@@ -1,0 +1,11 @@
+Company: NeuroOne Medical Technologies Corporation Common Stock
+Ticker: NMTC
+CIK: 0001500198
+Latest SEC XBRL Facts:
+Revenues: 2892635 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -1437890 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 8577602 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 2175677 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 6401925 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3115835 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3561616 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

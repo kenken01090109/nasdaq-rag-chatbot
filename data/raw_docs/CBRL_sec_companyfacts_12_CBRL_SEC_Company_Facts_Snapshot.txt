@@ -1,0 +1,11 @@
+Company: Cracker Barrel Old Country Store Inc Common Stock
+Ticker: CBRL
+CIK: 0001067294
+Latest SEC XBRL Facts:
+Revenues: 3030445000 | unit=USD | filed=2018-09-28 | period_end=2018-08-03
+RevenueFromContractWithCustomerExcludingAssessedTax: 1672005000 | unit=USD | filed=2026-03-04 | period_end=2026-01-30
+NetIncomeLoss: -23340000 | unit=USD | filed=2026-03-04 | period_end=2026-01-30
+Assets: 2103812000 | unit=USD | filed=2026-03-04 | period_end=2026-01-30
+StockholdersEquity: 425827000 | unit=USD | filed=2026-03-04 | period_end=2026-01-30
+NetCashProvidedByUsedInOperatingActivities: -2169000 | unit=USD | filed=2026-03-04 | period_end=2026-01-30
+CashAndCashEquivalentsAtCarryingValue: 8571000 | unit=USD | filed=2026-03-04 | period_end=2026-01-30

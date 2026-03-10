@@ -1,0 +1,25 @@
+Company: MindWalk Holdings Corp. Common Stock
+Ticker: HYFT
+Market Cap: 51827320
+Enterprise Value: 41747800
+Total Revenue: 26653000
+Revenue Per Share: 0.625
+EBITDA: -9173000
+Gross Margins: 0.57622004
+Operating Margins: -0.67289
+Profit Margins: -1.11942
+Free Cashflow: -2781250
+Operating Cashflow: -9426000
+Return On Assets: -0.1508
+Return On Equity: -1.18225
+Total Cash: 16508000
+Total Debt: 3627000
+Debt To Equity: 20.486
+Current Ratio: 4.188
+Quick Ratio: 3.988
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.9518569
+Beta: 0.669
+52 Week High: 3.246
+52 Week Low: 0.316

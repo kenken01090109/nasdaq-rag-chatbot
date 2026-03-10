@@ -1,0 +1,11 @@
+Company: Nexstar Media Group Inc. Common Stock
+Ticker: NXST
+CIK: 0001142417
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3660000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 275000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 11249000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 8965000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2286000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 701000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 236000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

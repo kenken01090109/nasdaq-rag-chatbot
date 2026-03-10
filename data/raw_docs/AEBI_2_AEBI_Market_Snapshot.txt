@@ -1,0 +1,10 @@
+Company: Aebi Schmidt Holding AG Common Stock
+Ticker: AEBI
+Market Cap: 1068090048
+Enterprise Value: 1755803136
+Trailing PE: 98.64286
+Forward PE: 15.516854
+Price To Book: 1.3085086
+Beta: 
+52 Week High: 33.0
+52 Week Low: 8.91

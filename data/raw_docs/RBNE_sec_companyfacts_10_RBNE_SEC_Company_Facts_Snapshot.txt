@@ -1,0 +1,10 @@
+Company: Robin Energy Ltd. Common Stock
+Ticker: RBNE
+CIK: 0002039060
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetIncomeLoss: 0 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Assets: 0 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+StockholdersEquity: 0 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 0 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 39407386 | unit=USD | filed=2025-10-01 | period_end=2025-06-30

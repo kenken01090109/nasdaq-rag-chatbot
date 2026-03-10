@@ -1,0 +1,11 @@
+Company: VirnetX Holding Corp Common Stock
+Ticker: VHC
+CIK: 0001082324
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 106000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -11648000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 37983000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 8692000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 29291000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9836000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17129000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

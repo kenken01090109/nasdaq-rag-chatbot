@@ -1,0 +1,8 @@
+Company: Adagio Medical Holdings Inc Common Stock
+Ticker: ADGM
+Total Cash: 4673000
+Total Debt: 21967000
+Debt To Equity: 
+Current Ratio: 0.839
+Quick Ratio: 0.482
+Book Value: -0.085

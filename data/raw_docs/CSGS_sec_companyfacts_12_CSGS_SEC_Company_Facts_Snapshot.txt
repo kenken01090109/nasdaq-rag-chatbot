@@ -1,0 +1,12 @@
+Company: CSG Systems International Inc. Common Stock
+Ticker: CSGS
+CIK: 0001005757
+Latest SEC XBRL Facts:
+Revenues: 260487000 | unit=USD | filed=2021-02-19 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 900196000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 48880000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1473519000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1184023000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 344305000 | unit=USD | filed=2022-11-03 | period_end=2022-09-30
+NetCashProvidedByUsedInOperatingActivities: 96738000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 158385000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

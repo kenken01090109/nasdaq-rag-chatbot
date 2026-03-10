@@ -1,0 +1,9 @@
+Company: Forum Markets Incorporated Common Stock
+Ticker: FRMM
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Palm Beach
+Website: https://www.forum-markets.com
+Employees: 
+Business Summary: Forum Markets, Incorporated, doing business as Forum, operates a technology company focused on Ethereum-based infrastructure for the tokenization of real-world assets. The company develops platforms that enable the conversion of illiquid, institutional-grade assets into blockchain-based financial instruments using Ethereum Layer 2 protocols. It bridges traditional finance and blockchain technology by supporting regulated access, scalability, and efficiency in asset tokenization. Forum Markets, Incorporated was formerly known as ETHZilla Corporation and changed its name to Forum Markets, Incorporated in February 2026. The company is headquartered in Palm Beach, Florida.

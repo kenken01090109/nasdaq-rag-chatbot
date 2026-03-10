@@ -1,0 +1,12 @@
+Company: Axe Compute Inc. Common Stock
+Ticker: AGPU
+Total Revenue: 1664407
+Revenue Per Share: 2.951
+Gross Margins: 0.48909
+Operating Margins: -906.54065
+EBITDA: -10798828
+Profit Margins: 0.0
+Free Cashflow: 70531296
+Operating Cashflow: -7882418
+Return On Assets: -1.2880299
+Return On Equity: 

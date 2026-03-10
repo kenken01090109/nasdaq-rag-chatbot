@@ -1,0 +1,12 @@
+Company: Automatic Data Processing Inc. Common Stock
+Ticker: ADP
+Total Revenue: 21214300160
+Revenue Per Share: 52.323
+Gross Margins: 0.48351002
+Operating Margins: 0.26283002
+EBITDA: 6188499968
+Profit Margins: 0.19964
+Free Cashflow: 3457787392
+Operating Cashflow: 4740199936
+Return On Assets: 0.04709
+Return On Equity: 0.73843

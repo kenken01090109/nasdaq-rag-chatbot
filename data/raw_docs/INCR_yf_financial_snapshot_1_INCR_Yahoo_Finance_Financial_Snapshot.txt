@@ -1,0 +1,25 @@
+Company: Intercure Ltd. Ordinary Shares
+Ticker: INCR
+Market Cap: 44849632
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -80619000
+Gross Margins: 0.16705
+Operating Margins: 0.0
+Profit Margins: -0.29174998
+Free Cashflow: -18398624
+Operating Cashflow: 
+Return On Assets: -0.07738
+Return On Equity: -0.16681999
+Total Cash: 
+Total Debt: 
+Debt To Equity: 41.491
+Current Ratio: 1.852
+Quick Ratio: 1.08
+Trailing PE: 
+Forward PE: -0.5541892
+Price To Book: 0.108049005
+Beta: 0.293
+52 Week High: 1.77
+52 Week Low: 0.68

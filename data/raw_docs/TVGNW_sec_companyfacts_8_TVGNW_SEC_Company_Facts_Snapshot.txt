@@ -1,0 +1,10 @@
+Company: Tevogen Bio Holdings Inc. Warrant
+Ticker: TVGNW
+CIK: 0001860871
+Latest SEC XBRL Facts:
+NetIncomeLoss: -21597852 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 4493669 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12317565 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7823896 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10147310 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-04-02 | period_end=2024-12-31

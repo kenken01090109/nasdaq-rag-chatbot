@@ -1,0 +1,25 @@
+Company: IF Bancorp Inc. Common Stock
+Ticker: IROQ
+Market Cap: 93507600
+Enterprise Value: 164830304
+Total Revenue: 28552000
+Revenue Per Share: 9.036
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.26285
+Profit Margins: 0.18114
+Free Cashflow: 
+Operating Cashflow: 6013000
+Return On Assets: 0.00603
+Return On Equity: 0.06334
+Total Cash: 9041000
+Total Debt: 83609000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.012196
+Forward PE: 
+Price To Book: 1.0364811
+Beta: 0.182
+52 Week High: 29.0
+52 Week Low: 23.0

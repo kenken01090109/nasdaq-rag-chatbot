@@ -1,0 +1,12 @@
+Company: NetApp Inc. Common Stock
+Ticker: NTAP
+CIK: 0001002047
+Latest SEC XBRL Facts:
+Revenues: 4615900000 | unit=USD | filed=2013-02-28 | period_end=2013-01-25
+RevenueFromContractWithCustomerExcludingAssessedTax: 4977000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23
+NetIncomeLoss: 872000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23
+Assets: 9971000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23
+Liabilities: 8813000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23
+StockholdersEquity: 1158000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23
+NetCashProvidedByUsedInOperatingActivities: 1117000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23
+CashAndCashEquivalentsAtCarryingValue: 1629000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-23

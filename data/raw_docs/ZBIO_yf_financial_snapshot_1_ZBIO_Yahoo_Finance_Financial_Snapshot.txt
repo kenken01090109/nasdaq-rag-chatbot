@@ -1,0 +1,25 @@
+Company: Zenas BioPharma Inc. Common Stock
+Ticker: ZBIO
+Market Cap: 1357009408
+Enterprise Value: 1065849728
+Total Revenue: 15000000
+Revenue Per Share: 0.358
+EBITDA: -195616992
+Gross Margins: 0.0
+Operating Margins: -13.0464
+Profit Margins: 0.0
+Free Cashflow: -93650000
+Operating Cashflow: -158472992
+Return On Assets: -0.33720002
+Return On Equity: -0.68325996
+Total Cash: 290884000
+Total Debt: 798000
+Debt To Equity: 0.406
+Current Ratio: 5.659
+Quick Ratio: 5.574
+Trailing PE: 1.8479532
+Forward PE: -6.4162436
+Price To Book: 5.4330544
+Beta: 
+52 Week High: 44.6
+52 Week Low: 6.11

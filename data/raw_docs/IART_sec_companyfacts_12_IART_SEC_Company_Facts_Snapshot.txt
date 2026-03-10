@@ -1,0 +1,12 @@
+Company: Integra LifeSciences Holdings Corporation Common Stock
+Ticker: IART
+CIK: 0000917520
+Latest SEC XBRL Facts:
+Revenues: 357082000 | unit=USD | filed=2018-04-26 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1200320000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -514770000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 3646452000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 2608878000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1037574000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38568000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 232186000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

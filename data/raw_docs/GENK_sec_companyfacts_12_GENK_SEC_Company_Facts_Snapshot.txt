@@ -1,0 +1,10 @@
+Company: GEN Restaurant Group Inc. Class A Common Stock
+Ticker: GENK
+CIK: 0001891856
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 162795000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -1127000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 245539000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 205952000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3840000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4793000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

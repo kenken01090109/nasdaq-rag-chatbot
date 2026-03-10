@@ -1,0 +1,9 @@
+Company: RCM Technologies Inc. Common Stock
+Ticker: RCMT
+Sector: Industrials
+Industry: Conglomerates
+Country: United States
+City: Pennsauken
+Website: https://www.rcmt.com
+Employees: 4220
+Business Summary: RCM Technologies, Inc. provides business and technology solutions in the United States, Canada, Puerto Rico, Europe, and Philippines. It operates through three segments: Engineering; Specialty Health Care; and Life Sciences, Data and Solutions (LS&D). The company offers engineering services, including project management engineering and design, Transmission &Distribution Power Delivery, engineering analysis, engineer-procurement-construction, configuration management, hardware/software validation and verification, quality assurance, technical writing and publications, manufacturing process planning and improvement, and 3D/BIM integrated design. It also provides long-term and short-term staffing, executive search, international recruitment, and placement solutions in the fields of allied and therapy staffing, correctional healthcare staffing, health information management, nursing services, physician and advanced practice, school staffing and recruitment, and telepractice. In addition, the company offers enterprise business solutions, application development and support, IT infrastructure deployment and management, data solutions, digitization, human capital management solutions, as well as technology and business solutions for the life sciences industry and other specific verticals. The company serves aerospace and defense, energy, financial services, health care, life sciences, manufacturing and distribution, and technology industries, as well as educational institutions and the public sector. RCM Technologies, Inc. was incorporated in 1971 and is based in Pennsauken, New Jersey.

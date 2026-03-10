@@ -1,0 +1,25 @@
+Company: Tempest Therapeutics Inc. Common Stock
+Ticker: TPST
+Market Cap: 31141270
+Enterprise Value: 11147772
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -36166000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -20340750
+Operating Cashflow: -33395000
+Return On Assets: -0.89316005
+Return On Equity: -4.0503297
+Total Cash: 7514000
+Total Debt: 8405000
+Debt To Equity: 132.446
+Current Ratio: 2.299
+Quick Ratio: 2.132
+Trailing PE: 
+Forward PE: -0.8369565
+Price To Book: 1.616515
+Beta: -2.181
+52 Week High: 12.23
+52 Week Low: 2.12

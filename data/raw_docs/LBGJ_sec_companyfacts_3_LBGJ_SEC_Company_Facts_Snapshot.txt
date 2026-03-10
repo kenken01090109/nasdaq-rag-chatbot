@@ -1,0 +1,10 @@
+Company: Li Bang International Corporation Inc. Class A Ordinary Shares
+Ticker: LBGJ
+CIK: 0001896425
+Latest SEC XBRL Facts:
+Revenues: 4716845 | unit=USD | filed=2025-06-17 | period_end=2024-12-31
+NetIncomeLoss: -1125038 | unit=USD | filed=2025-06-17 | period_end=2024-12-31
+Assets: 28800496 | unit=USD | filed=2025-06-17 | period_end=2024-12-31
+Liabilities: 21107985 | unit=USD | filed=2025-06-17 | period_end=2024-12-31
+StockholdersEquity: 7754704 | unit=USD | filed=2025-06-17 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 258431 | unit=USD | filed=2025-06-17 | period_end=2024-12-31

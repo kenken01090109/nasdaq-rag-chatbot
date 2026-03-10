@@ -1,0 +1,25 @@
+Company: Uniti Group Inc. Common Stock
+Ticker: UNIT
+Market Cap: 1924242432
+Enterprise Value: 11960030208
+Total Revenue: 2234500096
+Revenue Per Share: 11.823
+EBITDA: 1118000000
+Gross Margins: 0.66077006
+Operating Margins: 0.22928
+Profit Margins: 0.58389
+Free Cashflow: -226050000
+Operating Cashflow: 350200000
+Return On Assets: 0.03309
+Return On Equity: 
+Total Cash: 53800000
+Total Debt: 10086800384
+Debt To Equity: 2651.63
+Current Ratio: 0.739
+Quick Ratio: 0.494
+Trailing PE: 1.1338029
+Forward PE: -11.338029
+Price To Book: 5.059711
+Beta: 1.539
+52 Week High: 9.742525
+52 Week Low: 5.3

@@ -1,0 +1,9 @@
+Company: FG Nexus Inc. Common Stock
+Ticker: FGNX
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Charlotte
+Website: https://www.fgnexus.io
+Employees: 130
+Business Summary: FG Nexus Inc. operates as a holding company, provides digital assets, merchant banking, reinsurance and managed services. It offers merchant banking, which provides strategic, administrative, and regulatory support services to newly formed SPACs; and managed services, which offers remote network operating center support, on-site field service, content delivery, installation, and other services for cinema and entertainment operators. It also operates real estate and equity holdings. The company was formerly known as Fundamental Global Inc. and changed its name to FG Nexus Inc. in September 2025. FG Nexus Inc. was founded in 1932 and is based in Charlotte, North Carolina.

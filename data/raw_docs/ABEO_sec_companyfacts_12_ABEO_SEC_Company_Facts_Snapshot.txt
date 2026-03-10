@@ -1,0 +1,12 @@
+Company: Abeona Therapeutics Inc. Common Stock
+Ticker: ABEO
+CIK: 0000318306
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2019-08-09 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 400000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 91643000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 231095000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 59862000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 171233000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -58373000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 82884000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

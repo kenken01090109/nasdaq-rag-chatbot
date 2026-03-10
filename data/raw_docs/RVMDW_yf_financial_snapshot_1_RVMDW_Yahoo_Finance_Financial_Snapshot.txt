@@ -1,0 +1,25 @@
+Company: Revolution Medicines Inc. Warrant
+Ticker: RVMDW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -1174619008
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -523279008
+Operating Cashflow: -897740992
+Return On Assets: -0.30084
+Return On Equity: -0.58068
+Total Cash: 2025678976
+Total Debt: 427148000
+Debt To Equity: 26.185
+Current Ratio: 7.145
+Quick Ratio: 6.975
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.21736504
+Beta: 1.007
+52 Week High: 1.85
+52 Week Low: 1.68

@@ -1,0 +1,25 @@
+Company: BeOne Medicines Ltd. American Depositary Shares
+Ticker: ONC
+Market Cap: 33321320448
+Enterprise Value: 430838579200
+Total Revenue: 5343032832
+Revenue Per Share: 48.991
+EBITDA: 578817984
+Gross Margins: 0.87488
+Operating Margins: 0.123509996
+Profit Margins: 0.0537
+Free Cashflow: 727117760
+Operating Cashflow: 1127580032
+Return On Assets: 0.03961
+Return On Equity: 0.07459
+Total Cash: 4547530240
+Total Debt: 1092844032
+Debt To Equity: 25.058
+Current Ratio: 3.409
+Quick Ratio: 2.972
+Trailing PE: 568.15094
+Forward PE: 33.520237
+Price To Book: 7.6537123
+Beta: 0.517
+52 Week High: 385.22
+52 Week Low: 196.45

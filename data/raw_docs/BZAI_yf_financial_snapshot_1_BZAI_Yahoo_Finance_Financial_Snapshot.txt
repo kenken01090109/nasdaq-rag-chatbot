@@ -1,0 +1,25 @@
+Company: Blaize Holdings Inc. Common Stock
+Ticker: BZAI
+Market Cap: 133026952
+Enterprise Value: 100102088
+Total Revenue: 14857000
+Revenue Per Share: 0.187
+EBITDA: -86178000
+Gross Margins: 0.27563
+Operating Margins: -1.9031799
+Profit Margins: 0.0
+Free Cashflow: -25365876
+Operating Cashflow: -75034000
+Return On Assets: -0.72071
+Return On Equity: 
+Total Cash: 24001000
+Total Debt: 3126000
+Debt To Equity: 239.357
+Current Ratio: 1.489
+Quick Ratio: 1.021
+Trailing PE: 
+Forward PE: -2.22449
+Price To Book: 90.833336
+Beta: 0.353
+52 Week High: 6.76
+52 Week Low: 1.0

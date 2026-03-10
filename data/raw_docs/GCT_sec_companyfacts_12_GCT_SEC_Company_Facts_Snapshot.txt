@@ -1,0 +1,12 @@
+Company: GigaCloud Technology Inc Class A Ordinary Shares
+Ticker: GCT
+CIK: 0001857816
+Latest SEC XBRL Facts:
+Revenues: 927150000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1289897000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: 98873000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1124111000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 666796000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 457315000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 126292000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 334851000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

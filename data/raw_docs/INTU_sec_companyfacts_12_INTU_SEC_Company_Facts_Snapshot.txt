@@ -1,0 +1,12 @@
+Company: Intuit Inc. Common Stock
+Ticker: INTU
+CIK: 0000896878
+Latest SEC XBRL Facts:
+Revenues: 8536000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 8536000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+NetIncomeLoss: 1139000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+Assets: 34282000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+Liabilities: 15227000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+StockholdersEquity: 19055000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 2207000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 2942000000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31

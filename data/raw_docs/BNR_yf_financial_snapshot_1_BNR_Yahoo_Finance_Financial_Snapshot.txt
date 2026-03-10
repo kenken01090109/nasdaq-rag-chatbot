@@ -1,0 +1,25 @@
+Company: Burning Rock Biotech Limited American Depositary Shares
+Ticker: BNR
+Market Cap: 239556768
+Enterprise Value: 2030001152
+Total Revenue: 539275008
+Revenue Per Share: 50.596
+EBITDA: -98268752
+Gross Margins: 0.73017997
+Operating Margins: -0.122559994
+Profit Margins: -0.22485
+Free Cashflow: 8223250
+Operating Cashflow: -32420000
+Return On Assets: -0.062329996
+Return On Equity: -0.20247
+Total Cash: 463993984
+Total Debt: 33180000
+Debt To Equity: 6.037
+Current Ratio: 3.145
+Quick Ratio: 2.811
+Trailing PE: 
+Forward PE: -38.36207
+Price To Book: 3.0088813
+Beta: 1.446
+52 Week High: 41.72
+52 Week Low: 2.18

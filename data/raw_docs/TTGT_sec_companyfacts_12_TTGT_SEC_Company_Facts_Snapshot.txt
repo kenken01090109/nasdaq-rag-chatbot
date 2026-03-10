@@ -1,0 +1,12 @@
+Company: TechTarget Inc. Common Stock
+Ticker: TTGT
+CIK: 0002018064
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 346116000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -998828000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 987424000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 389492000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 597932000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4584000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46301000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

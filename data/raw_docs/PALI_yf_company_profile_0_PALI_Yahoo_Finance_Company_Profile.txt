@@ -1,0 +1,9 @@
+Company: Palisade Bio Inc. Common Stock
+Ticker: PALI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Carlsbad
+Website: https://www.palisadebio.com
+Employees: 8
+Business Summary: Palisade Bio, Inc., a clinical-stage biopharmaceutical company, focuses on developing and advancing novel therapeutics for patients living with autoimmune, inflammatory, and fibrotic diseases. The company's lead therapeutic candidate is PALI-2108, a prodrug PDE4 inhibitor that is in phase 1a/b clinical trial for the treatment of ulcerative colitis, as well as under phase 1a clinical trial for the treatment of fibrostenotic crohn's disease. It has a research collaboration and license agreement with Giiant Pharma, Inc. for the development, manufacture, and commercialization of its compounds; a license agreement with the Regents of the University of California for sole purpose of maintaining the Newsoara Co-Development; and a co-development and distribution agreement with Newsoara Biopharma Co., Ltd. The company is headquartered in Carlsbad, California.

@@ -1,0 +1,25 @@
+Company: Ispire Technology Inc. Common Stock
+Ticker: ISPR
+Market Cap: 138641472
+Enterprise Value: 96905880
+Total Revenue: 96965568
+Revenue Per Share: 1.696
+EBITDA: -33978832
+Gross Margins: 0.16371
+Operating Margins: -0.33889
+Profit Margins: -0.3662
+Free Cashflow: -32467436
+Operating Cashflow: -12952586
+Return On Assets: -0.20096001
+Return On Equity: -4.28569
+Total Cash: 17565334
+Total Debt: 5680598
+Debt To Equity: 
+Current Ratio: 1.058
+Quick Ratio: 0.93
+Trailing PE: 
+Forward PE: -60.500004
+Price To Book: -18.059702
+Beta: 2.614
+52 Week High: 4.7
+52 Week Low: 1.44

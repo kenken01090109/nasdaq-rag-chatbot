@@ -1,0 +1,12 @@
+Company: Target Hospitality Corp. Common Stock
+Ticker: TH
+CIK: 0001712189
+Latest SEC XBRL Facts:
+Revenues: 230858000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 201362000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -22187000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 541155000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 138909000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 402377000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 68357000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 30387000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

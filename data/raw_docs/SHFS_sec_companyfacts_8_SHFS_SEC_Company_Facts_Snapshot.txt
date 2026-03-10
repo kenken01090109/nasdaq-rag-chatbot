@@ -1,0 +1,11 @@
+Company: SHF Holdings Inc. Class A Common Stock
+Ticker: SHFS
+CIK: 0001854963
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5611456 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -1578406 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 13664414 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 6667803 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6996611 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2353375 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 861722 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Virco Manufacturing Corporation Common Stock
+Ticker: VIRC
+Market Cap: 98507128
+Enterprise Value: 113798128
+Total Revenue: 201942000
+Revenue Per Share: 12.7
+EBITDA: 11408000
+Gross Margins: 0.40822
+Operating Margins: -0.03611
+Profit Margins: 0.01912
+Free Cashflow: -8506375
+Operating Cashflow: 1690000
+Return On Assets: 0.01676
+Return On Equity: 0.03366
+Total Cash: 26509000
+Total Debt: 41800000
+Debt To Equity: 36.784
+Current Ratio: 3.981
+Quick Ratio: 1.675
+Trailing PE: 24.038462
+Forward PE: 3.5511365
+Price To Book: 0.86685157
+Beta: 0.25
+52 Week High: 10.62
+52 Week Low: 6.0

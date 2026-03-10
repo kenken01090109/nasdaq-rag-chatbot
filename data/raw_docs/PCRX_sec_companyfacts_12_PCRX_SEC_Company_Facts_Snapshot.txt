@@ -1,0 +1,12 @@
+Company: Pacira BioSciences Inc. Common Stock
+Ticker: PCRX
+CIK: 0001396814
+Latest SEC XBRL Facts:
+Revenues: 541533000 | unit=USD | filed=2022-02-28 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 529538000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 5397000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1297577000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 570363000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 727214000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 108305000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 147589000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

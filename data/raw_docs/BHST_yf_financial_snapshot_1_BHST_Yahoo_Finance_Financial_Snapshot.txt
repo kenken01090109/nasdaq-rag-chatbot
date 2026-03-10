@@ -1,0 +1,25 @@
+Company: BioHarvest Sciences Inc. Common Stock
+Ticker: BHST
+Market Cap: 95654072
+Enterprise Value: 100411296
+Total Revenue: 32720000
+Revenue Per Share: 1.88
+EBITDA: -5409000
+Gross Margins: 0.59211
+Operating Margins: -0.10147
+Profit Margins: -0.36328998
+Free Cashflow: -6726250
+Operating Cashflow: -7363000
+Return On Assets: -0.12582
+Return On Equity: -2.0021899
+Total Cash: 10966000
+Total Debt: 17362000
+Debt To Equity: 224.46
+Current Ratio: 1.352
+Quick Ratio: 1.016
+Trailing PE: 
+Forward PE: -23.444443
+Price To Book: 10.71066
+Beta: 1.405
+52 Week High: 12.8
+52 Week Low: 4.1

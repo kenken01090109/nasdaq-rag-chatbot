@@ -1,0 +1,25 @@
+Company: SunPower Inc. Common Stock
+Ticker: SPWR
+Market Cap: 141941536
+Enterprise Value: 347667456
+Total Revenue: 308943008
+Revenue Per Share: 3.778
+EBITDA: -13383000
+Gross Margins: 0.43557
+Operating Margins: -0.049200002
+Profit Margins: 0.05111
+Free Cashflow: -32183000
+Operating Cashflow: -38957000
+Return On Assets: -0.07676
+Return On Equity: 
+Total Cash: 5072000
+Total Debt: 209224992
+Debt To Equity: 
+Current Ratio: 1.002
+Quick Ratio: 0.745
+Trailing PE: 20.5
+Forward PE: 4.1
+Price To Book: -0.9761905
+Beta: 0.847
+52 Week High: 2.5
+52 Week Low: 1.19

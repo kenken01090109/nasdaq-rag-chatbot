@@ -1,0 +1,11 @@
+Company: Universe Pharmaceuticals Inc. Class A Ordinary Shares
+Ticker: UPC
+CIK: 0001809616
+Latest SEC XBRL Facts:
+Revenues: 17858732000 | unit=USD | filed=2026-01-29 | period_end=2025-09-30
+NetIncomeLoss: -3672055000 | unit=USD | filed=2026-01-29 | period_end=2025-09-30
+Assets: 69303440000 | unit=USD | filed=2026-01-29 | period_end=2025-09-30
+Liabilities: 13173930000 | unit=USD | filed=2026-01-29 | period_end=2025-09-30
+StockholdersEquity: 56129510000 | unit=USD | filed=2026-01-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5052319000 | unit=USD | filed=2026-01-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8077908 | unit=USD | filed=2022-01-31 | period_end=2021-09-30

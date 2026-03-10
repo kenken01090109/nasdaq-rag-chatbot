@@ -1,0 +1,25 @@
+Company: Symbotic Inc. Class A Common Stock
+Ticker: SYM
+Market Cap: 29276624896
+Enterprise Value: 5197435392
+Total Revenue: 2390213888
+Revenue Per Share: 21.531
+EBITDA: -4696000
+Gross Margins: 0.19845
+Operating Margins: 0.01856
+Profit Margins: -0.00467
+Free Cashflow: 640588864
+Operating Cashflow: 853452032
+Return On Assets: -0.01345
+Return On Equity: -0.089820005
+Total Cash: 1819101952
+Total Debt: 30020000
+Debt To Equity: 3.126
+Current Ratio: 1.378
+Quick Ratio: 1.22
+Trailing PE: 
+Forward PE: 64.65558
+Price To Book: 9.023575
+Beta: 2.139
+52 Week High: 87.88
+52 Week Low: 16.318

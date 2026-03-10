@@ -1,0 +1,9 @@
+Company: authID Inc. Common Stock
+Ticker: AUID
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Denver
+Website: https://authid.ai
+Employees: 46
+Business Summary: authID Inc. provides biometric identity platform worldwide. The company offers cloud-based platform, including Biometric Identity Verification  Proof, which establishes the identity of a user based on a variety of ground truth sources, including government-issued identity documents, such as national IDs, driver's licenses, passports, and electronic machine-readable travel documents; Verified platform, which detects presentation attack and spoofing threats; authID's Proof for identity verification product eliminates the need for costly and less accurate face-to-face, in-person ID checks; Biometric Identity Authentication  Verified, which provides organization with a secure convenient solution to validate that individual is the verified account owner for various purposes, including passwordless login and performing specific transactions, and functions; PrivacyKey Privacy Preserving Biometrics solution provides biometric authentication without the requirement to store any biometri and derivative of biometric data; Account Access and Recovery, which allows users to recover, via a facial biometric, account access that is lost or blocked due to expired credentials, lockouts, lost or stolen devices, and compromised accounts. The company was formerly known as Ipsidy Inc. and changed its name to authID Inc. authID Inc. was founded in 2009 and is headquartered in Denver, Colorado.

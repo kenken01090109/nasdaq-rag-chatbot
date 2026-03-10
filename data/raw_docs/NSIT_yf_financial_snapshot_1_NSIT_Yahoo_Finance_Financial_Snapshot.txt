@@ -1,0 +1,25 @@
+Company: Insight Enterprises Inc. Common Stock
+Ticker: NSIT
+Market Cap: 2634392576
+Enterprise Value: 3942791680
+Total Revenue: 8247179776
+Revenue Per Share: 261.865
+EBITDA: 552817024
+Gross Margins: 0.21358
+Operating Margins: 0.07075
+Profit Margins: 0.01908
+Free Cashflow: 233373872
+Operating Cashflow: 303827008
+Return On Assets: 0.03375
+Return On Equity: 0.09203
+Total Cash: 358020000
+Total Debt: 1666418944
+Debt To Equity: 101.064
+Current Ratio: 1.246
+Quick Ratio: 1.164
+Trailing PE: 17.487654
+Forward PE: 7.5531354
+Price To Book: 1.5976765
+Beta: 0.885
+52 Week High: 160.72
+52 Week Low: 77.1

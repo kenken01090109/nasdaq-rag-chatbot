@@ -1,0 +1,12 @@
+Company: Peraso Inc. Common Stock
+Ticker: PRSO
+CIK: 0000890394
+Latest SEC XBRL Facts:
+Revenues: 10895000 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7054000 | unit=USD | filed=2024-08-13 | period_end=2024-06-30
+NetIncomeLoss: -3510000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 6238000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2637000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3601000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4555000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1317000 | unit=USD | filed=2024-11-13 | period_end=2024-09-30

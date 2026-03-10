@@ -1,0 +1,25 @@
+Company: Aprea Therapeutics Inc. Common stock
+Ticker: APRE
+Market Cap: 10308297
+Enterprise Value: -7309823
+Total Revenue: 488239
+Revenue Per Share: 0.08
+EBITDA: -13795074
+Gross Margins: 0.0
+Operating Margins: -1686.8983
+Profit Margins: 0.0
+Free Cashflow: -9065156
+Operating Cashflow: -13444051
+Return On Assets: -0.41904
+Return On Equity: -0.74724
+Total Cash: 13718052
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.201
+Quick Ratio: 5.117
+Trailing PE: 
+Forward PE: -0.98923075
+Price To Book: 0.49326026
+Beta: 1.553
+52 Week High: 2.76
+52 Week Low: 0.548

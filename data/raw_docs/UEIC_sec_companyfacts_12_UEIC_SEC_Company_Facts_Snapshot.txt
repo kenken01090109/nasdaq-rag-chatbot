@@ -1,0 +1,11 @@
+Company: Universal Electronics Inc. Common Stock
+Ticker: UEIC
+CIK: 0000101984
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 280543000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -17515000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 280697000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 134552000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 146145000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27837000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 31506000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

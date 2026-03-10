@@ -1,0 +1,12 @@
+Company: SAIHEAT Limited Class A Ordinary Shares
+Ticker: SAIH
+CIK: 0001847075
+Latest SEC XBRL Facts:
+Revenues: 5543000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 10638000 | unit=USD | filed=2023-04-19 | period_end=2022-12-31
+NetIncomeLoss: -5886000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 18534000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 4168000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 14366000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -5554000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1038000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

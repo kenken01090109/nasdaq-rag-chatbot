@@ -1,0 +1,9 @@
+Company: STAK Inc. Class A Ordinary Shares
+Ticker: STAK
+Sector: Energy
+Industry: Oil & Gas Equipment & Services
+Country: China
+City: Changzhou
+Website: https://www.stakindustry.com
+Employees: 47
+Business Summary: Stak Inc. engages in the research, development, manufacturing, and sale of oilfield-specialized production and maintenance equipment. It offers oilfield vehicles, such as oil pumping trucks, oil-well repair trucks, fracking trucks, well flushing-wax removal trucks, boiler trucks, and other maintenance vehicles; and oilfield-specialized production and maintenance equipment, including well repair equipment components, fracking equipment, well cleaning and wax removal equipment, oil pumping, and boilers. The company also provides automation solutions services, including software development, training, debugging, and other services for oilfield-specialized production and maintenance equipment. Stak Inc. was founded in 2012 and is based in Changzhou, China. STAK Inc. is a subsidiary of Lanying Capital Ltd.

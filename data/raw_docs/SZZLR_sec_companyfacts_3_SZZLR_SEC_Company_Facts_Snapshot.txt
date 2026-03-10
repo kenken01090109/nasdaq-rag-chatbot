@@ -1,0 +1,9 @@
+Company: Sizzle Acquisition Corp. II Right
+Ticker: SZZLR
+CIK: 0002030663
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4320479 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 235825846 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11101964 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -9990622 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -470303 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

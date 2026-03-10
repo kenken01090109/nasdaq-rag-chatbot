@@ -1,0 +1,12 @@
+Company: Westport Fuel Systems Inc Common Shares
+Ticker: WPRT
+CIK: 0001370416
+Latest SEC XBRL Facts:
+Revenues: 564360000 | unit=USD | filed=2018-03-23 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 21438000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -50521000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 104093000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 23868000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 80225000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7184000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 61119000 | unit=USD | filed=2019-03-19 | period_end=2018-12-31

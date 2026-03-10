@@ -1,0 +1,25 @@
+Company: Hyperfine Inc. Class A Common Stock
+Ticker: HYPR
+Market Cap: 103970464
+Enterprise Value: 84531840
+Total Revenue: 10591000
+Revenue Per Share: 0.139
+EBITDA: -39139000
+Gross Margins: 0.46124
+Operating Margins: -2.59529
+Profit Margins: 0.0
+Free Cashflow: -18907750
+Operating Cashflow: -31098000
+Return On Assets: -0.45292
+Return On Equity: -0.94025004
+Total Cash: 21564000
+Total Debt: 182000
+Debt To Equity: 0.677
+Current Ratio: 3.629
+Quick Ratio: 2.741
+Trailing PE: 
+Forward PE: -3.057143
+Price To Book: 3.203593
+Beta: 1.109
+52 Week High: 2.22
+52 Week Low: 0.533

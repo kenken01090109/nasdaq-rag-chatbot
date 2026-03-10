@@ -1,0 +1,25 @@
+Company: Webus International Limited Ordinary Shares
+Ticker: WETO
+Market Cap: 9812000
+Enterprise Value: 30018766
+Total Revenue: 35593056
+Revenue Per Share: 1.722
+EBITDA: -11154347
+Gross Margins: 0.16577
+Operating Margins: -0.52621
+Profit Margins: -0.35072
+Free Cashflow: -43556224
+Operating Cashflow: -58731376
+Return On Assets: -0.120670006
+Return On Equity: -0.295
+Total Cash: 12212436
+Total Debt: 32419202
+Debt To Equity: 57.053
+Current Ratio: 1.66
+Quick Ratio: 0.384
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.1910564
+Beta: 
+52 Week High: 4.3
+52 Week Low: 0.411

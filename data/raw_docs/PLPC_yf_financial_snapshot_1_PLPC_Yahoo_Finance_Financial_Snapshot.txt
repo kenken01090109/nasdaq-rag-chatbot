@@ -1,0 +1,25 @@
+Company: Preformed Line Products Company Common Stock
+Ticker: PLPC
+Market Cap: 1160886528
+Enterprise Value: 1178295168
+Total Revenue: 669337984
+Revenue Per Share: 136.1
+EBITDA: 77653664
+Gross Margins: 0.31156
+Operating Margins: 0.06787
+Profit Margins: 0.05271
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.056149997
+Return On Equity: 0.07865
+Total Cash: 83389000
+Total Debt: 39465000
+Debt To Equity: 8.299
+Current Ratio: 3.169
+Quick Ratio: 1.714
+Trailing PE: 31.179895
+Forward PE: 
+Price To Book: 2.432837
+Beta: 0.795
+52 Week High: 287.97
+52 Week Low: 118.99

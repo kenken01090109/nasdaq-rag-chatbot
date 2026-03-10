@@ -1,0 +1,12 @@
+Company: Sezzle Inc. Common Stock
+Ticker: SEZL
+CIK: 0001662991
+Latest SEC XBRL Facts:
+Revenues: 320410000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 166489000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 90439000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 366964000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 211694000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 155270000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 55618000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 104147000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

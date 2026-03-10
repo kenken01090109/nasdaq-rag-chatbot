@@ -1,0 +1,10 @@
+Company: Blue Acquisition Corp. Right
+Ticker: BACCR
+CIK: 0002059654
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2062713 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 204890324 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 7142772 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -5929718 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -396774 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1045403 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

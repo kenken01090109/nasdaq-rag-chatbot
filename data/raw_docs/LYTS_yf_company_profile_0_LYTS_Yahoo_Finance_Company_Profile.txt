@@ -1,0 +1,9 @@
+Company: LSI Industries Inc. Common Stock
+Ticker: LYTS
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Cincinnati
+Website: https://www.lsicorp.com
+Employees: 2000
+Business Summary: LSI Industries Inc. manufactures, markets, and sells non-residential lighting and retail display solutions in the United States. The company operates through Lighting and Display Solutions segments. The Lighting segment offers outdoor and indoor lighting fixture and controls solutions, including sensors, photocontrols, dimming, motion detection, and circuit controllers. The Display Solutions segment provides exterior and interior visual image and display elements, including printed graphics, structural graphics, digital signage, digital menu board systems, refrigerated displays, and custom display elements. It also offers signage and canopy, pump dispenser, building fascia graphics, decals, interior signage and marketing graphics, aisle markers, wall mural graphics, refrigerated food and beverage displays, check-out counters, and an array of merchandising displays and cabinetry. In addition, the company provides various project management services, including installation management, site surveys, permitting, and content management. It serves across various vertical markets, such as refueling and convenience store, parking lot and garage, quick-service restaurant, retail, grocery and pharmacy, automotive dealership, sports court and field, and warehouse. LSI Industries Inc. was founded in 1976 and is based in Cincinnati, Ohio.

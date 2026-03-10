@@ -1,0 +1,12 @@
+Company: Tvardi Therapeutics Inc. Common Stock
+Ticker: TVRD
+CIK: 0001346830
+Latest SEC XBRL Facts:
+Revenues: 911000 | unit=USD | filed=2018-05-09 | period_end=2017-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2569000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+NetIncomeLoss: -10939000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 39021000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11155000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 27866000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17814000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 21418000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

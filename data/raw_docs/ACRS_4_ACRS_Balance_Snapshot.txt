@@ -1,0 +1,8 @@
+Company: Aclaris Therapeutics Inc. Common Stock
+Ticker: ACRS
+Total Cash: 90751000
+Total Debt: 2116000
+Debt To Equity: 2.053
+Current Ratio: 3.362
+Quick Ratio: 3.362
+Book Value: 0.855

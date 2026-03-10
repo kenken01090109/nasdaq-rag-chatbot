@@ -1,0 +1,10 @@
+Company: Vince Holding Corp. Common Stock
+Ticker: VNCE
+CIK: 0001579157
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 216300000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+NetIncomeLoss: 9983000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+Assets: 246003000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+StockholdersEquity: 53392000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: -12681000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 1060000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01

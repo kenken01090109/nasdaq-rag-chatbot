@@ -1,0 +1,9 @@
+Company: Citizens & Northern Corp Common Stock
+Ticker: CZNC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Wellsboro
+Website: https://www.cnbankpa.com
+Employees: 
+Business Summary: Citizens & Northern Corporation operates as the bank holding company for Citizens & Northern Bank that provides various banking and related services to individual and corporate customers. Its deposit products include various types of checking accounts, passbook and statement savings, money market accounts, interest checking accounts, and individual retirement accounts, as well as certificates of deposit; debit cards; lending products, such as commercial, mortgage, and consumer loans; and commercial letters-of-credit and lines of credit. The company also offers wealth management services, including 401(k) plans, retirement planning, estate planning and settlements, and asset management; insurance products to individuals and businesses, and through a broker-dealer arrangement; and mutual funds, annuities, educational savings accounts, and other investment products through registered agents, as well as reinsures credit and mortgage life and accident and health insurance. It operates in Northcentral Pennsylvania, the Southern tier of New York State, Southeastern Pennsylvania, and Southcentral Pennsylvania. Citizens & Northern Corporation was founded in 1864 and is headquartered in Wellsboro, Pennsylvania.

@@ -1,0 +1,11 @@
+Company: DouYu International Holdings Limited ADS
+Ticker: DOYU
+CIK: 0001762417
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 585100688 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetIncomeLoss: -306810286 | unit=CNY | filed=2025-04-29 | period_end=2024-12-31
+Assets: 746144591 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+Liabilities: 169364734 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+StockholdersEquity: 576779857 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -32722582 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 139348724 | unit=USD | filed=2025-04-29 | period_end=2024-12-31

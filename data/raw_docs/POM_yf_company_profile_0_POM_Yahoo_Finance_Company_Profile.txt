@@ -1,0 +1,9 @@
+Company: POMDOCTOR LIMITED American Depositary Shares
+Ticker: POM
+Sector: Healthcare
+Industry: Pharmaceutical Retailers
+Country: China
+City: Guangzhou
+Website: https://www.7lk.com
+Employees: 156
+Business Summary: Pomdoctor Limited, through its subsidiaries, offers an online B2C portal to sell pharmaceutical products. The company develops an online medical services platform for chronic diseases in China. The company focuses on chronic disease management and pharmaceutical services and offers platform for medical services, which connects patients to doctors and pharmaceutical products. The company's business primarily consists of internet hospital and pharmaceutical supply chain, connecting users, pharmacies, suppliers, medical professionals, and other healthcare participants. The company was founded in 2010 and is headquartered in Guangzhou, China.

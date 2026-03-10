@@ -1,0 +1,12 @@
+Company: Synergy CHC Corp. Common Stock
+Ticker: SNYR
+CIK: 0001562733
+Latest SEC XBRL Facts:
+Revenues: 24315642 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6117286 | unit=USD | filed=2020-06-29 | period_end=2020-03-31
+NetIncomeLoss: 2474827 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 20690952 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 28943299 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -8252347 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3209149 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1006489 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

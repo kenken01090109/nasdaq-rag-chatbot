@@ -1,0 +1,12 @@
+Company: Amylyx Pharmaceuticals Inc. Common Stock
+Ticker: AMLX
+CIK: 0001658551
+Latest SEC XBRL Facts:
+Revenues: 380786000 | unit=USD | filed=2024-02-22 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -111736000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 362741000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 30745000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 331996000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -95440000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 225178000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

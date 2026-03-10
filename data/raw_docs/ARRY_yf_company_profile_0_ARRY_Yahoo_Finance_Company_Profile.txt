@@ -1,0 +1,9 @@
+Company: Array Technologies Inc. Common Stock
+Ticker: ARRY
+Sector: Technology
+Industry: Solar
+Country: United States
+City: Albuquerque
+Website: https://arraytechinc.com
+Employees: 1200
+Business Summary: Array Technologies, Inc. engages in the manufacture and sale of solar tracking technology products in the United States, Spain, Brazil, Australia, and internationally. It operates through two segments, Array Legacy Operations and STI Operations. The company's products portfolio includes DuraTrack HZ V3, a single axis tracker; Array STI H250, a dual-row tracker system; Array OmniTrack; Array SkyLink, a photovoltaic-powered control tracker system; and SmarTrack, a software and control-based product. Array Technologies, Inc. was incorporated in 1987 and is headquartered in Albuquerque, New Mexico.

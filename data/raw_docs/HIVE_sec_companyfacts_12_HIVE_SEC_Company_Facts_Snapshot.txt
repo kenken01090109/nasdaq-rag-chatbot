@@ -1,0 +1,10 @@
+Company: HIVE Digital Technologies Ltd. Common Shares
+Ticker: HIVE
+CIK: 0001720424
+Latest SEC XBRL Facts:
+Revenues: 225975000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -72108000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 623995000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 64725000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 559270000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 45601000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: Beneficient Warrant
+Ticker: BENFW
+Sector: 
+Industry: 
+Country: United States
+City: Dallas
+Website: https://www.trustben.com
+Employees: 55
+Business Summary: Beneficient, a technology-enabled financial services company, provides liquidity solutions and related trustee, custody and trust administrative services to participants in the alternative asset industry in the United States. It operates through three segments Ben Liquidity, Ben Custody, and Customer ExAlt Trusts. The company offers Ben AltAccess platform for secure, online, and end-to-end delivery of each of the Ben business unit products and services, including upload documents, and work through tasks, and complete their transactions with standardized transaction agreements. It also provides Ben Liquidity, which offers alternative asset liquidity and fiduciary financing products; Ben Custody that provides custody and trust administration services to trustees and document custodian services to customers; and Ben Markets, which provides broker-dealer and transfer agency services. In addition, the company provides Ben Insurance Services, which offers insurance products and services; and Ben Data that provides data collection, evaluation, and analytics products and services. It serves individual and institutional investors, wealth advisors, and general partners. Beneficient is based in Dallas, Texas.

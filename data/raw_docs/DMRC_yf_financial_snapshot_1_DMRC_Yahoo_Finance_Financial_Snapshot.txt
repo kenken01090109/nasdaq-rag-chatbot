@@ -1,0 +1,25 @@
+Company: Digimarc Corporation Common Stock
+Ticker: DMRC
+Market Cap: 116182320
+Enterprise Value: 108602368
+Total Revenue: 33663000
+Revenue Per Share: 1.56
+EBITDA: -29808000
+Gross Margins: 0.74854
+Operating Margins: -1.09663
+Profit Margins: -1.0917
+Free Cashflow: -3622000
+Operating Cashflow: -17005000
+Return On Assets: -0.33255002
+Return On Equity: -0.65892
+Total Cash: 12562000
+Total Debt: 5418000
+Debt To Equity: 13.091
+Current Ratio: 2.305
+Quick Ratio: 2.001
+Trailing PE: 
+Forward PE: -62.823532
+Price To Book: 2.7987423
+Beta: 1.758
+52 Week High: 16.0
+52 Week Low: 4.07

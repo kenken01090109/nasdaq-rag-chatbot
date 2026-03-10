@@ -1,0 +1,25 @@
+Company: Kimball Electronics Inc. Common Stock
+Ticker: KE
+Market Cap: 550777152
+Enterprise Value: 507737856
+Total Revenue: 1461961984
+Revenue Per Share: 59.377
+EBITDA: 98821000
+Gross Margins: 0.07803
+Operating Margins: 0.05189
+Profit Margins: 0.0165
+Free Cashflow: 77139376
+Operating Cashflow: 123948000
+Return On Assets: 0.03633
+Return On Equity: 0.0432
+Total Cash: 106442000
+Total Debt: 66214000
+Debt To Equity: 14.981
+Current Ratio: 2.208
+Quick Ratio: 1.185
+Trailing PE: 23.329895
+Forward PE: 15.29054
+Price To Book: 0.9459515
+Beta: 1.183
+52 Week High: 33.19
+52 Week Low: 12.41

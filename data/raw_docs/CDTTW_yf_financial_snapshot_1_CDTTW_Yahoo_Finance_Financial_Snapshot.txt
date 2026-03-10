@@ -1,0 +1,25 @@
+Company: CDT Equity Inc. Warrant
+Ticker: CDTTW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -16895000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -16540875
+Operating Cashflow: -14732000
+Return On Assets: -2.06951
+Return On Equity: 
+Total Cash: 3838000
+Total Debt: 1875000
+Debt To Equity: 43.829
+Current Ratio: 1.663
+Quick Ratio: 0.993
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0019695612
+Beta: 1.81
+52 Week High: 0.0066
+52 Week Low: 0.0066

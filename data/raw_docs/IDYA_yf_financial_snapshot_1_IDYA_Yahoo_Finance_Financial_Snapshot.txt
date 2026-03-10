@@ -1,0 +1,25 @@
+Company: IDEAYA Biosciences Inc. Common Stock
+Ticker: IDYA
+Market Cap: 2914547456
+Enterprise Value: 2303073536
+Total Revenue: 218710000
+Revenue Per Share: 2.472
+EBITDA: -156612992
+Gross Margins: -0.43890998
+Operating Margins: -8.69529
+Profit Margins: -0.51986
+Free Cashflow: -52472624
+Operating Cashflow: -71098000
+Return On Assets: -0.08916
+Return On Equity: -0.10922
+Total Cash: 639388032
+Total Debt: 27914000
+Debt To Equity: 2.729
+Current Ratio: 11.336
+Quick Ratio: 10.973
+Trailing PE: 
+Forward PE: -9.836434
+Price To Book: 2.8486824
+Beta: 0.029
+52 Week High: 39.28
+52 Week Low: 13.45

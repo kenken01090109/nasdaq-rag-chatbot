@@ -1,0 +1,9 @@
+Company: MiniMed Group Inc. Common Stock
+Ticker: MMED
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Northridge
+Website: https://www.minimed.com
+Employees: 
+Business Summary: Minimed Group, Inc. operates as a medical technology company that develops, manufactures, and markets medical equipment for the management of diabetes. The company offers technologies including insulin delivery devices, including insulin pumps and pens, continuous glucose monitors, other consumables, supplies, and related software and services. It serves people with diabetes who require insulin therapy, which represents all people with T1D and a subset of those with T2D. The company's platform includes Automated Insulin Delivery (AID) systems for glucose sensing and automated insulin dosing and administration for glycemic control and Smart Multiple Daily Injection (MDI) systems for self-administering insulin by manual injections, which include InPen, Simplera, or Guardian 4, and wraparound applications and services. Minimed Group, Inc. was founded in 1983 and is headquartered in Northridge, California. Minimed Group, Inc. operates as a subsidiary of Medtronic Global Holdings S.C.A.

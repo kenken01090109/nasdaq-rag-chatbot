@@ -1,0 +1,25 @@
+Company: GSR IV Acquisition Corp. Rights
+Ticker: GSRFR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -325194
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1835999
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 90.452
+Quick Ratio: 82.74
+Trailing PE: 
+Forward PE: 
+Price To Book: -9.959184
+Beta: 
+52 Week High: 3.98
+52 Week Low: 2.01

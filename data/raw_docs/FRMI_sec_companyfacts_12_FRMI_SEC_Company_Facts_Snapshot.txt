@@ -1,0 +1,10 @@
+Company: Fermi Inc. Common Stock
+Ticker: FRMI
+CIK: 0002071778
+Latest SEC XBRL Facts:
+NetIncomeLoss: -353180000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 502766000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 200293000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 302473000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8291000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 83693000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Proficient Auto Logistics Inc. Common Stock
+Ticker: PAL
+CIK: 0001998768
+Latest SEC XBRL Facts:
+Revenues: 147414098 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -7768204 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 498234562 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+Liabilities: 159759893 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+StockholdersEquity: 338474669 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -382135 | unit=USD | filed=2024-06-20 | period_end=2024-03-31
+CashAndCashEquivalentsAtCarryingValue: 16848215 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

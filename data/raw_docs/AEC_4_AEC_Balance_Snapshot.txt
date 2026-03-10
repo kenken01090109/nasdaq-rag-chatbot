@@ -1,0 +1,8 @@
+Company: Anfield Energy Inc. Common Shares
+Ticker: AEC
+Total Cash: 7242004
+Total Debt: 11409442
+Debt To Equity: 22.375
+Current Ratio: 6.687
+Quick Ratio: 4.788
+Book Value: 2.3868926

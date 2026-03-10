@@ -1,0 +1,25 @@
+Company: Skycorp Solar Group Limited Ordinary Shares
+Ticker: PN
+Market Cap: 14166900
+Enterprise Value: 21476666
+Total Revenue: 63311196
+Revenue Per Share: 2.421
+EBITDA: -2170956
+Gross Margins: 0.09952
+Operating Margins: -0.07802
+Profit Margins: -0.042579997
+Free Cashflow: 2684776
+Operating Cashflow: 2872940
+Return On Assets: -0.041139998
+Return On Equity: -0.107250005
+Total Cash: 9549384
+Total Debt: 3686025
+Debt To Equity: 16.399
+Current Ratio: 1.593
+Quick Ratio: 0.921
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7129076
+Beta: 
+52 Week High: 4.37
+52 Week Low: 0.405

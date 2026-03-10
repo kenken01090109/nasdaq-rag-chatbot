@@ -1,0 +1,25 @@
+Company: Joint Stock Company Kaspi.kz American Depository Shares
+Ticker: KSPI
+Market Cap: 14929576960
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 2318304018432
+Gross Margins: 0.70075995
+Operating Margins: 0.0
+Profit Margins: 0.26389
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.54535997
+Total Cash: 
+Total Debt: 
+Debt To Equity: 17.716
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 6.4353857
+Forward PE: 0.010906247
+Price To Book: 0.00623085
+Beta: -0.026
+52 Week High: 101.53
+52 Week Low: 70.05

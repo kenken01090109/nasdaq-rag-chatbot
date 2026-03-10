@@ -1,0 +1,11 @@
+Company: SunCar Technology Group Inc. Class A Ordinary Shares
+Ticker: SDA
+CIK: 0001936804
+Latest SEC XBRL Facts:
+Revenues: 222309000 | unit=USD | filed=2025-10-27 | period_end=2025-06-30
+NetIncomeLoss: -64747000 | unit=USD | filed=2025-02-04 | period_end=2024-09-30
+Assets: 277529000 | unit=USD | filed=2025-10-27 | period_end=2025-06-30
+Liabilities: 191383000 | unit=USD | filed=2025-10-27 | period_end=2025-06-30
+StockholdersEquity: 29351000 | unit=USD | filed=2025-10-27 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -9256000 | unit=USD | filed=2025-10-27 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 24305000 | unit=USD | filed=2025-10-27 | period_end=2025-06-30

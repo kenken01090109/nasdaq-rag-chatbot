@@ -1,0 +1,11 @@
+Company: Crocs Inc. Common Stock
+Ticker: CROX
+CIK: 0001334036
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3083007000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -186363000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 4299764000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 2936624000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1363140000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 457901000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 153970000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

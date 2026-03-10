@@ -1,0 +1,25 @@
+Company: VYNE Therapeutics Inc. Common Stock
+Ticker: VYNE
+Market Cap: 19808750
+Enterprise Value: -9177381
+Total Revenue: 570000
+Revenue Per Share: 0.013
+EBITDA: -29726000
+Gross Margins: 1.0
+Operating Margins: -40.14615
+Profit Margins: 0.0
+Free Cashflow: -26668124
+Operating Cashflow: -33124000
+Return On Assets: -0.38311002
+Return On Equity: -0.66964996
+Total Cash: 29008000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 12.53
+Quick Ratio: 12.112
+Trailing PE: 
+Forward PE: -0.36066666
+Price To Book: 0.7144057
+Beta: 2.034
+52 Week High: 2.24
+52 Week Low: 0.281

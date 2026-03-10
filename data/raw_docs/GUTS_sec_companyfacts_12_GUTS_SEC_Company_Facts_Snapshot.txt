@@ -1,0 +1,10 @@
+Company: Fractyl Health Inc. Common Stock
+Ticker: GUTS
+CIK: 0001572616
+Latest SEC XBRL Facts:
+NetIncomeLoss: -97227000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 114272000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 117450000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -3178000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -68992000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 77657000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

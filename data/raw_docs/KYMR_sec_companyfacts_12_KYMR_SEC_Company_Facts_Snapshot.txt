@@ -1,0 +1,11 @@
+Company: Kymera Therapeutics Inc. Common Stock
+Ticker: KYMR
+CIK: 0001815442
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 36341000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -224370000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1102044000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 155786000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 946258000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -166144000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 112949000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Lakeland Industries Inc. Common Stock
+Ticker: LAKE
+CIK: 0000798081
+Latest SEC XBRL Facts:
+Revenues: 146828000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: -19102000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 220717000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 86233000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 134484000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -17590000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 26021000 | unit=USD | filed=2023-06-07 | period_end=2023-04-30

@@ -1,0 +1,25 @@
+Company: GDS Holdings Limited ADS
+Ticker: GDS
+Market Cap: 8189432832
+Enterprise Value: 97714880512
+Total Revenue: 11201233920
+Revenue Per Share: 59.624
+EBITDA: 4859617792
+Gross Margins: 0.22775
+Operating Margins: 0.12552
+Profit Margins: 0.50048
+Free Cashflow: -1420614784
+Operating Cashflow: 3311002880
+Return On Assets: 0.011030001
+Return On Equity: 0.04842
+Total Cash: 13443679232
+Total Debt: 46964469760
+Debt To Equity: 175.35
+Current Ratio: 2.513
+Quick Ratio: 2.412
+Trailing PE: 57.56338
+Forward PE: 783.1122
+Price To Book: 2.1223671
+Beta: 0.45
+52 Week High: 48.61
+52 Week Low: 16.925

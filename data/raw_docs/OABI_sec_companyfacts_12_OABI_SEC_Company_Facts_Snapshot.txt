@@ -1,0 +1,11 @@
+Company: OmniAb Inc. Common Stock
+Ticker: OABI
+CIK: 0001846253
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 10290000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -50600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 309690000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 32246000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 277444000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30781000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28537000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

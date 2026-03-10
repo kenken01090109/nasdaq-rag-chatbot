@@ -1,0 +1,25 @@
+Company: StoneCo Ltd. Class A Common Shares
+Ticker: STNE
+Market Cap: 3670435072
+Enterprise Value: 15113376768
+Total Revenue: 13399705600
+Revenue Per Share: 50.213
+EBITDA: 7248421888
+Gross Margins: 0.74884003
+Operating Margins: 0.46288
+Profit Margins: 0.17312
+Free Cashflow: -3481750528
+Operating Cashflow: 676566016
+Return On Assets: 0.06956
+Return On Equity: 0.20795
+Total Cash: 5940838912
+Total Debt: 17582065664
+Debt To Equity: 159.333
+Current Ratio: 1.37
+Quick Ratio: 1.155
+Trailing PE: 
+Forward PE: 5.8286486
+Price To Book: 1.6356912
+Beta: 1.877
+52 Week High: 19.95
+52 Week Low: 8.95

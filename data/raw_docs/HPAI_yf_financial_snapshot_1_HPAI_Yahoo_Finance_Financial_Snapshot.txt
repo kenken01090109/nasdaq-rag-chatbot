@@ -1,0 +1,25 @@
+Company: Helport AI Limited Ordinary Shares
+Ticker: HPAI
+Market Cap: 107052568
+Enterprise Value: 111413264
+Total Revenue: 34856808
+Revenue Per Share: 0.931
+EBITDA: 7144315
+Gross Margins: 0.54866004
+Operating Margins: 0.019340001
+Profit Margins: 0.053319998
+Free Cashflow: -2863298
+Operating Cashflow: 9067013
+Return On Assets: 0.05336
+Return On Equity: 0.121800005
+Total Cash: 233866
+Total Debt: 5013786
+Debt To Equity: 28.707
+Current Ratio: 1.245
+Quick Ratio: 1.241
+Trailing PE: 57.199997
+Forward PE: 
+Price To Book: 6.1241965
+Beta: -0.288
+52 Week High: 8.4
+52 Week Low: 2.4

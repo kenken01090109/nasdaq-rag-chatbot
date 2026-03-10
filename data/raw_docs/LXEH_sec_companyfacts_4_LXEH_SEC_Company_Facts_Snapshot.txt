@@ -1,0 +1,11 @@
+Company: Lixiang Education Holding Co. Ltd. American Depositary Shares
+Ticker: LXEH
+CIK: 0001814067
+Latest SEC XBRL Facts:
+Revenues: 4493672 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -3373977 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 64474311 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 44541286 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 20020835 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -2510076 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 30239097 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

@@ -1,0 +1,25 @@
+Company: Saia Inc. Common Stock
+Ticker: SAIA
+Market Cap: 9595160576
+Enterprise Value: 10835154944
+Total Revenue: 3234286080
+Revenue Per Share: 120.962
+EBITDA: 588315008
+Gross Margins: 0.23659
+Operating Margins: 0.06528
+Profit Margins: 0.07885
+Free Cashflow: -107313752
+Operating Cashflow: 594972992
+Return On Assets: 0.06387
+Return On Equity: 0.104329996
+Total Cash: 19720000
+Total Debt: 304993984
+Debt To Equity: 11.832
+Current Ratio: 1.637
+Quick Ratio: 1.449
+Trailing PE: 37.792015
+Forward PE: 26.273952
+Price To Book: 3.684119
+Beta: 2.026
+52 Week High: 430.11
+52 Week Low: 229.12

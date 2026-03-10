@@ -1,0 +1,11 @@
+Company: Capital Southwest Corporation Common Stock
+Ticker: CSWC
+CIK: 0000017313
+Latest SEC XBRL Facts:
+Revenues: 9767000 | unit=USD | filed=2013-02-07 | period_end=2012-12-31
+NetIncomeLoss: 85516000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+Assets: 2115921000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+Liabilities: 1120287000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+StockholdersEquity: 995634000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -134365000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 42559000 | unit=USD | filed=2026-02-02 | period_end=2025-12-31

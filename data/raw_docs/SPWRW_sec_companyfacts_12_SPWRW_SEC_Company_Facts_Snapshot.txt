@@ -1,0 +1,12 @@
+Company: SunPower Inc. Warrants
+Ticker: SPWRW
+CIK: 0001838987
+Latest SEC XBRL Facts:
+Revenues: 220269000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 66097000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+NetIncomeLoss: -31199000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+Assets: 208340000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+Liabilities: 320656000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+StockholdersEquity: -112316000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: -13406000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 5072000 | unit=USD | filed=2025-12-19 | period_end=2025-09-28

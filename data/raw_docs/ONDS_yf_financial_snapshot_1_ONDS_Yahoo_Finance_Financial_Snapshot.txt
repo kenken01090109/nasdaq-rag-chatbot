@@ -1,0 +1,25 @@
+Company: Ondas Inc. Common Stock
+Ticker: ONDS
+Market Cap: 4424404992
+Enterprise Value: 3432691712
+Total Revenue: 24748922
+Revenue Per Share: 0.166
+EBITDA: -38575012
+Gross Margins: 0.33571
+Operating Margins: -1.53526
+Profit Margins: -1.7249401
+Free Cashflow: -14134830
+Operating Cashflow: -34126600
+Return On Assets: -0.08643
+Return On Equity: -0.17007999
+Total Cash: 451627840
+Total Debt: 18031786
+Debt To Equity: 3.701
+Current Ratio: 15.296
+Quick Ratio: 14.743
+Trailing PE: 
+Forward PE: -109.22221
+Price To Book: 6.664407
+Beta: 2.583
+52 Week High: 15.28
+52 Week Low: 0.57

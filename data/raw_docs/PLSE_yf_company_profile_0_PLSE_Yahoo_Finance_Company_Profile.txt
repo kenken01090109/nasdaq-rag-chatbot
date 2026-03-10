@@ -1,0 +1,9 @@
+Company: Pulse Biosciences Inc Common Stock (DE)
+Ticker: PLSE
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Miami
+Website: https://www.pulsebiosciences.com
+Employees: 116
+Business Summary: Pulse Biosciences, Inc. operates as a novel bioelectric medicine company. It offers nPulse System, a novel Nanosecond Pulsed-Field Ablation delivery platform to treat benign lesions of the skin; nPulse Vybrance Percutaneous Electrode system for soft tissue ablation in surgical setting; nPulse Cardiac Surgical Clamp designed for use in surgical treatment of atrial fibrillation (AF); nPulse Cardiac Catheter System designed to provide a circumferential, or circular, ablation in a single treatment cycle; and nPulse Console, a software-enabled console-based platform designed to accommodate the clinical workflow preferred by physicians. The company was formerly known as Electroblate, Inc. and changed its name to Pulse Biosciences, Inc. in December 2015. Pulse Biosciences, Inc. was incorporated in 2014 and is headquartered in Miami, Florida.

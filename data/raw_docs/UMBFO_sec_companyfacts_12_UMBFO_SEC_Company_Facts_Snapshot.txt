@@ -1,0 +1,10 @@
+Company: UMB Financial Corporation Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series B
+Ticker: UMBFO
+CIK: 0000101382
+Latest SEC XBRL Facts:
+NetIncomeLoss: 487043000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 71881181000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 64437231000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 7443950000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 920616000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8841410000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

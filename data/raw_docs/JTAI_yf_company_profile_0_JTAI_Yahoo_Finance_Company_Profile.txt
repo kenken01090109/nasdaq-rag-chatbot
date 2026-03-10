@@ -1,0 +1,9 @@
+Company: Jet.AI Inc. Common Stock
+Ticker: JTAI
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Las Vegas
+Website: https://jet.ai
+Employees: 8
+Business Summary: Jet.AI Inc. engages in the development and operation of private aviation platforms. The company operates CharterGPT, a booking platform that functions as a prospecting and quoting platform to arrange private jet travel with its aircrafts and third-party carriers. It also provides Reroute AI software that recycles aircraft waiting to return to base into prospective new charter bookings to destinations within specific distances; and DynoFlight, a software application programming interface (API), which enables aircraft operators to track and estimate emissions, and purchase carbon offset credits. In addition, the company offers Flight Club API, an aviation software, that enables FAA Part 135 operators to function simultaneously under FAA Part 380, which permits sale of private jet service by the seat instead of by whole aircraft. Further, it offers aircraft charter, management, and brokerage services. The company was founded in 2018 and is headquartered in Las Vegas, Nevada.

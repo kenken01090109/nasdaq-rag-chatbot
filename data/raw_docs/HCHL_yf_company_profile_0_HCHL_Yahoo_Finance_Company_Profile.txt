@@ -1,0 +1,9 @@
+Company: Happy City Holdings Limited Class A Ordinary shares
+Ticker: HCHL
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: Hong Kong
+City: Kwai Chung
+Website: https://gyugyushabushabu.com
+Employees: 33
+Business Summary: Happy City Holdings Limited, through its subsidiaries, engages in the operation of hotpot restaurants providing food and beverage to customers in Hong Kong. It operates Thai and Japanese hotpot restaurants under the Thai Pot and Gyu! Gyu! Shabu Shabu brand names. The company was incorporated in 2024 and is headquartered in Kwai Chung, Hong Kong. Happy City Holdings Limited is a subsidiary of Happy City Group Limited.

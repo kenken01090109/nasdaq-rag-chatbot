@@ -1,0 +1,9 @@
+Company: Dogwood Therapeutics Inc. Common Stock
+Ticker: DWTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Alpharetta
+Website: https://dwtx.com
+Employees: 12
+Business Summary: Dogwood Therapeutics, Inc., a development-stage biotechnology company, focuses on the development of medicine to treat pain and fatigue-related disorders. Its lead product candidates include IMC-1, a fixed dose combination of famciclovir and celecoxib that has completed Phase 2b clinical trial to treat fibromyalgia; Halneuron, which is in Phase 2b clinical trial for the treatment of chemotherapy-induced neuropathic pain and cancer pain, as well as pre-clinical trial for burn and ocular pain; and IMC-2, a combination of valacyclovir and celecoxib in Phase 2 clinical trial for the treatment of long-COVID and post-acute sequelae of COVID-19 infection. The company was formerly known as Virios Therapeutics, Inc. and changed its name to Dogwood Therapeutics, Inc. in October 2024. The company was incorporated in 2012 and is based in Alpharetta, Georgia.

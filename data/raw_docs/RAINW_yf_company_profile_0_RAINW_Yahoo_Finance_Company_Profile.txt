@@ -1,0 +1,9 @@
+Company: Rain Enhancement Technologies Holdco Inc. Warrants
+Ticker: RAINW
+Sector: 
+Industry: 
+Country: United States
+City: Naples
+Website: https://rainwatertech.com
+Employees: 
+Business Summary: Rain Enhancement Technologies Holdco, Inc. develops, manufactures, and commercializes ionization rainfall generation technology. It plans to develop improvements on existing rainfall generation technologies by introducing robust measurement tools, including software monitoring technology, machine learning, rain gauges, and weather stations. The company was founded in 2022 and is headquartered in Naples, Florida.

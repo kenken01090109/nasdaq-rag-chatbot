@@ -1,0 +1,4 @@
+Company: Antelope Enterprise Holdings Limited Class A Ordinary Shares
+Ticker: AEHL
+CIK: 0001470683
+Latest SEC XBRL Facts:

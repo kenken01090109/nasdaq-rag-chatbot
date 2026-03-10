@@ -1,0 +1,12 @@
+Company: Affirm Holdings Inc. Class A Common Stock
+Ticker: AFRM
+CIK: 0001820953
+Latest SEC XBRL Facts:
+Revenues: 2056357000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 721892000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 210280000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 12956899000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 9410038000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 3546861000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 548310000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1527880000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

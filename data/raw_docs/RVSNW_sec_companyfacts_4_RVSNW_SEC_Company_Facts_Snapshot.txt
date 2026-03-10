@@ -1,0 +1,12 @@
+Company: Rail Vision Ltd. Warrant
+Ticker: RVSNW
+CIK: 0001743905
+Latest SEC XBRL Facts:
+Revenues: 219000 | unit=USD | filed=2023-08-18 | period_end=2022-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 237000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30
+NetIncomeLoss: -5679000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30
+Assets: 25370000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30
+Liabilities: 2676000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30
+StockholdersEquity: 22694000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4661000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 22431000 | unit=USD | filed=2025-08-22 | period_end=2025-06-30

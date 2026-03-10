@@ -1,0 +1,9 @@
+Company: U-BX Technology Ltd. Class A Ordinary Shares
+Ticker: UBXG
+Sector: Technology
+Industry: Software - Infrastructure
+Country: China
+City: Beijing
+Website: https://www.u-bx.com
+Employees: 15
+Business Summary: U-BX Technology Ltd., together with its subsidiaries, focuses on providing value-added services using artificial intelligence-driven technology to businesses in the insurance industry in China. It offers digital promotion services; risk assessment services; and value-added bundled benefits, including auto maintenance, auto value-added, vehicle moving notification, and other services to property and auto insurance carriers, and insurance brokers. The company also provides insurance-related information to individual consumers; and Magic Mirror algorithm to calculate payout risks for insurance carriers to underwrite auto insurance coverage. The company was formerly known as Famingsur Develop Limited and changed its name to U-BX Technology Ltd. in October 2021. U-BX Technology Ltd. was founded in 2018 and is based in Beijing, China.

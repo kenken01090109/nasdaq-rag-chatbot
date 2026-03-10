@@ -1,0 +1,10 @@
+Company: LKQ Corporation Common Stock
+Ticker: LKQ
+CIK: 0001065696
+Latest SEC XBRL Facts:
+Revenues: 10339000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 542000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 15600000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 6554000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 733000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 289000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: ATN International Inc. Common Stock
+Ticker: ATNI
+CIK: 0000879585
+Latest SEC XBRL Facts:
+Revenues: 543760000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 498051000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 6312000 | unit=USD | filed=2011-08-09 | period_end=2011-06-30
+Assets: 1698681000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1050747000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 452306000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 97689000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 106163000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Wah Fu Education Group Limited Ordinary Shares
+Ticker: WAFU
+CIK: 0001716770
+Latest SEC XBRL Facts:
+Revenues: 6186645 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+NetIncomeLoss: -465299 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Assets: 15448258 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Liabilities: 3678705 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+StockholdersEquity: 10711633 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -965592 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 12567463 | unit=USD | filed=2023-07-31 | period_end=2023-03-31

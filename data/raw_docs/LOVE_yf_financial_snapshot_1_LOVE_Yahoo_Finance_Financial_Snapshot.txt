@@ -1,0 +1,25 @@
+Company: The Lovesac Company Common Stock
+Ticker: LOVE
+Market Cap: 173943552
+Enterprise Value: 346852544
+Total Revenue: 690558976
+Revenue Per Share: 46.515
+EBITDA: 24795000
+Gross Margins: 0.572
+Operating Margins: -0.10524
+Profit Margins: 0.01052
+Free Cashflow: -13092250
+Operating Cashflow: 9930000
+Return On Assets: 0.012
+Return On Equity: 0.03767
+Total Cash: 23722000
+Total Debt: 191515008
+Debt To Equity: 101.166
+Current Ratio: 1.358
+Quick Ratio: 0.297
+Trailing PE: 38.387096
+Forward PE: 6.0714283
+Price To Book: 0.918777
+Beta: 2.384
+52 Week High: 21.9
+52 Week Low: 11.26

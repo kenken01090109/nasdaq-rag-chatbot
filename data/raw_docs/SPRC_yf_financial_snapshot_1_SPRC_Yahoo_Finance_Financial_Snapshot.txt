@@ -1,0 +1,25 @@
+Company: SciSparc Ltd. Ordinary Shares
+Ticker: SPRC
+Market Cap: 3149840
+Enterprise Value: 
+Total Revenue: 1306000
+Revenue Per Share: 42.375
+EBITDA: -7029000
+Gross Margins: 0.38744
+Operating Margins: -5.69525
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -5250000
+Return On Assets: 
+Return On Equity: -12.814859
+Total Cash: 
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 0.0017646016
+Forward PE: 
+Price To Book: 0.039136056
+Beta: 1.277
+52 Week High: 97.335
+52 Week Low: 4.158

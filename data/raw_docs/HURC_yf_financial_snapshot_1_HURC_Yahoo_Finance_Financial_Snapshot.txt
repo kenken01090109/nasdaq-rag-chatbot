@@ -1,0 +1,25 @@
+Company: Hurco Companies Inc. Common Stock
+Ticker: HURC
+Market Cap: 102869720
+Enterprise Value: 69896064
+Total Revenue: 178554000
+Revenue Per Share: 27.657
+EBITDA: -8677000
+Gross Margins: 0.18471001
+Operating Margins: -0.08045
+Profit Margins: -0.08465999
+Free Cashflow: 17465876
+Operating Cashflow: 17561000
+Return On Assets: -0.02408
+Return On Equity: -0.07448
+Total Cash: 48713000
+Total Debt: 11934000
+Debt To Equity: 6.003
+Current Ratio: 4.327
+Quick Ratio: 1.473
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5004992
+Beta: 0.612
+52 Week High: 21.46
+52 Week Low: 13.19

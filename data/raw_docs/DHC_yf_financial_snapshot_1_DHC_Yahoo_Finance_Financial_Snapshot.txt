@@ -1,0 +1,25 @@
+Company: Diversified Healthcare Trust Common Shares of Beneficial Interest
+Ticker: DHC
+Market Cap: 1678078336
+Enterprise Value: 4067715328
+Total Revenue: 1537853056
+Revenue Per Share: 6.4
+EBITDA: 222768000
+Gross Margins: 0.17437
+Operating Margins: -0.029289998
+Profit Margins: -0.1859
+Free Cashflow: 445826240
+Operating Cashflow: -19618000
+Return On Assets: -0.0051700003
+Return On Equity: -0.15776
+Total Cash: 105407000
+Total Debt: 2417744896
+Debt To Equity: 145.16
+Current Ratio: 6.077
+Quick Ratio: 4.94
+Trailing PE: 
+Forward PE: -16.116278
+Price To Book: 1.0074139
+Beta: 2.388
+52 Week High: 7.61
+52 Week Low: 2.0

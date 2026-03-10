@@ -1,0 +1,9 @@
+Company: DevvStream Corp. Common Stock
+Ticker: DEVS
+Sector: Industrials
+Industry: Pollution & Treatment Controls
+Country: Canada
+City: Vancouver
+Website: https://devvstream.com
+Employees: 3
+Business Summary: DevvStream Corp. engages in the development and monetization of environmental assets in Canada. The company offers energy transition and carbon management solutions, as well as blockchain technology for carbon credit generating projects. It is also involved in the project development of EV charging stations and networks. The company is headquartered in Vancouver, Canada.

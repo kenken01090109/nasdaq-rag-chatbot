@@ -1,0 +1,25 @@
+Company: Wintrust Financial Corporation Common Stock
+Ticker: WTFC
+Market Cap: 9247226880
+Enterprise Value: 10971909120
+Total Revenue: 2628171008
+Revenue Per Share: 39.287
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46548
+Profit Margins: 0.31347
+Free Cashflow: 
+Operating Cashflow: 910348032
+Return On Assets: 0.01211
+Return On Equity: 0.12113
+Total Cash: 3828157952
+Total Debt: 4747987968
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.111404
+Forward PE: 10.294835
+Price To Book: 1.3531765
+Beta: 0.856
+52 Week High: 162.96
+52 Week Low: 89.1

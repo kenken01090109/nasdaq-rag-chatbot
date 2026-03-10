@@ -1,0 +1,9 @@
+Company: Aeluma Inc. Common Stock
+Ticker: ALMU
+Long Business Summary: Aeluma, Inc. develops optoelectronic and electronic devices for sensing, communication, and computing applications in the United States. The company produces semiconductor materials and chips using compound semiconductors on diameter substrates that are used to manufacture mass market microelectronics. Its products are used in mobile, automotive, AI, defense and aerospace, communication, AR/VR, high-performance commuting, and quantum computing applications, as well as other electronic and optoelectronic devices, including lasers, transistors, and solar cells. Aeluma, Inc. was founded in 2019 and is headquartered in Goleta, California.
+Industry: Semiconductors
+Sector: Technology
+Website: https://www.aeluma.com
+Country: United States
+City: Goleta
+Full Time Employees: 12

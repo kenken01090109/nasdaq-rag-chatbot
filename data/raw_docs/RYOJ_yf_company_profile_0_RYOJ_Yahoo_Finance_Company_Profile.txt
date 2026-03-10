@@ -1,0 +1,9 @@
+Company: rYojbaba Co. Ltd. Common Shares
+Ticker: RYOJ
+Sector: Industrials
+Industry: Consulting Services
+Country: Japan
+City: Fukuoka City
+Website: https://ryojbaba.com
+Employees: 129
+Business Summary: rYojbaba Co., Ltd. provides consulting and health services to various customers in Japan. It operates through two segments, Consulting Services and Health Services. The Consulting Services segment offers labor and corporate consulting services to labor unions, companies to support the practice of whistleblowing and stress checks, and companies and labor unions to resolve disputes. The Health Service segment provides health services through osteopathic clinics and beauty salons to alleviate physical ailments primarily created by work related stress. rYojbaba Co., Ltd. was formerly known as Sakai Seikotsuin Co., Ltd. and changed its name to rYojbaba Co., Ltd. in October 2021. The company was founded in 2015 and is based in Fukuoka City, Japan.

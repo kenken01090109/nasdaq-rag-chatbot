@@ -1,0 +1,25 @@
+Company: NB Bancorp Inc. Common Stock
+Ticker: NBBK
+Market Cap: 962559936
+Enterprise Value: 712437504
+Total Revenue: 209004992
+Revenue Per Share: 5.587
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.48696
+Profit Margins: 0.24067
+Free Cashflow: 
+Operating Cashflow: 60792000
+Return On Assets: 0.00827
+Return On Equity: 0.06194
+Total Cash: 429889984
+Total Debt: 240267008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 15.81203
+Forward PE: 8.072937
+Price To Book: 1.0453326
+Beta: 0.355
+52 Week High: 22.7
+52 Week Low: 15.094

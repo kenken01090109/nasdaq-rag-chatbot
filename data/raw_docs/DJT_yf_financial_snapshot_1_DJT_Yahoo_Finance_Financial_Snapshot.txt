@@ -1,0 +1,25 @@
+Company: Trump Media & Technology Group Corp. Common Stock
+Ticker: DJT
+Market Cap: 2850375936
+Enterprise Value: 2605272064
+Total Revenue: 3682600
+Revenue Per Share: 0.014
+EBITDA: -162399808
+Gross Margins: 0.5451
+Operating Margins: -28.96906
+Profit Margins: 0.0
+Free Cashflow: -69227336
+Operating Cashflow: 14758100
+Return On Assets: -0.05949
+Return On Equity: -0.55641997
+Total Cash: 1161680000
+Total Debt: 949676672
+Debt To Equity: 57.666
+Current Ratio: 1.228
+Quick Ratio: 1.186
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.7106369
+Beta: 4.655
+52 Week High: 27.78
+52 Week Low: 9.89

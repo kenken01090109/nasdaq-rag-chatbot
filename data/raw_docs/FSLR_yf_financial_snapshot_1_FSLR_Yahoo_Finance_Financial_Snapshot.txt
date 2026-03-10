@@ -1,0 +1,25 @@
+Company: First Solar Inc. Common Stock
+Ticker: FSLR
+Market Cap: 20304314368
+Enterprise Value: 18382221312
+Total Revenue: 5219376128
+Revenue Per Share: 48.672
+EBITDA: 2126080000
+Gross Margins: 0.40624002
+Operating Margins: 0.32560003
+Profit Margins: 0.2928
+Free Cashflow: 963923136
+Operating Cashflow: 2057105024
+Return On Assets: 0.078439996
+Return On Equity: 0.1745
+Total Cash: 2855363072
+Total Debt: 655334976
+Debt To Equity: 6.871
+Current Ratio: 2.675
+Quick Ratio: 2.117
+Trailing PE: 13.315271
+Forward PE: 7.430823
+Price To Book: 2.1287534
+Beta: 1.648
+52 Week High: 285.99
+52 Week Low: 116.56

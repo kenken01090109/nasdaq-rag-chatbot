@@ -1,0 +1,10 @@
+Company: CrowdStrike Holdings Inc. Class A Common Stock
+Ticker: CRWD
+CIK: 0001535527
+Latest SEC XBRL Facts:
+NetIncomeLoss: -221879000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Assets: 9965347000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Liabilities: 5906330000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+StockholdersEquity: 4016497000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 1114480000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 4801083000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31

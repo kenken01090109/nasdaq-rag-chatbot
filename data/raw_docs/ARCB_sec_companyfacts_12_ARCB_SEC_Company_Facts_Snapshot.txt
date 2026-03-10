@@ -1,0 +1,11 @@
+Company: ArcBest Corporation Common Stock
+Ticker: ARCB
+CIK: 0000894405
+Latest SEC XBRL Facts:
+Revenues: 434931000 | unit=USD | filed=2011-05-05 | period_end=2011-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3037470000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 68214000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2501181000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1322918000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 184291000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 120604000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: La Rosa Holdings Corp. Common Stock
+Ticker: LRHC
+CIK: 0001879403
+Latest SEC XBRL Facts:
+Revenues: 60944755 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20320606 | unit=USD | filed=2023-11-20 | period_end=2023-09-30
+NetIncomeLoss: -22830073 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 21690193 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 15976001 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 1557514 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6232547 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3992896 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

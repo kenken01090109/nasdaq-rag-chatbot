@@ -1,0 +1,11 @@
+Company: AbCellera Biologics Inc. Common Shares
+Ticker: ABCL
+CIK: 0001703057
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 30275000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -137467000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1355992000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 391954000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 964038000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -96552000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 83159000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

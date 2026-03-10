@@ -1,0 +1,11 @@
+Company: Rectitude Holdings Ltd Ordinary Shares
+Ticker: RECT
+CIK: 0001995116
+Latest SEC XBRL Facts:
+Revenues: 17223559 | unit=USD | filed=2025-03-27 | period_end=2024-09-30
+NetIncomeLoss: 870553 | unit=USD | filed=2025-03-27 | period_end=2024-09-30
+Assets: 32947791 | unit=USD | filed=2025-03-27 | period_end=2024-09-30
+Liabilities: 14773735 | unit=USD | filed=2025-03-27 | period_end=2024-09-30
+StockholdersEquity: 18174056 | unit=USD | filed=2025-03-27 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -1166945 | unit=USD | filed=2025-03-27 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 3094839 | unit=USD | filed=2025-03-27 | period_end=2024-09-30

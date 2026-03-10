@@ -1,0 +1,25 @@
+Company: FirstService Corporation Common Shares
+Ticker: FSV
+Market Cap: 6843018240
+Enterprise Value: 8558693888
+Total Revenue: 5497500160
+Revenue Per Share: 120.754
+EBITDA: 535408000
+Gross Margins: 0.33582002
+Operating Margins: 0.05945
+Profit Margins: 0.02638
+Free Cashflow: 293405632
+Operating Cashflow: 445940992
+Return On Assets: 0.05163
+Return On Equity: 0.10902
+Total Cash: 154424992
+Total Debt: 1384381952
+Debt To Equity: 74.342
+Current Ratio: 1.705
+Quick Ratio: 1.245
+Trailing PE: 46.795597
+Forward PE: 21.900087
+Price To Book: 4.9446754
+Beta: 0.913
+52 Week High: 209.66
+52 Week Low: 146.29

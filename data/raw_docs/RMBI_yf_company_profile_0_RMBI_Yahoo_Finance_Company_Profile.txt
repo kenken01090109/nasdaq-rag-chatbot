@@ -1,0 +1,9 @@
+Company: Richmond Mutual Bancorporation Inc. Common Stock
+Ticker: RMBI
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Richmond
+Website: https://www.firstbankrichmond.com
+Employees: 180
+Business Summary: Richmond Mutual Bancorporation, Inc. operates as the bank holding company for First Bank Richmond that provides various banking services in Cambridge City. It accepts various deposits, including savings deposit accounts, money market accounts, NOW and demand accounts, and certificates of deposit. The company also offers a range of lending products, such as multi-family and commercial real estate loans, commercial and industrial loans, construction and development loans, residential real estate loans, and consumer loans. In addition, it engages in the lease financing business; and provision of fee-based financial services comprising trust and estate administration, investment management, retirement plan administration, and private banking services. The company was founded in 1887 and is headquartered in Richmond, Indiana.

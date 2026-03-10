@@ -1,0 +1,12 @@
+Company: The Chefs' Warehouse Inc. Common Stock
+Ticker: CHEF
+CIK: 0001517175
+Latest SEC XBRL Facts:
+Revenues: 318615000 | unit=USD | filed=2018-05-09 | period_end=2018-03-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3006973000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+NetIncomeLoss: 50677000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+Assets: 1916036000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+Liabilities: 1339398000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+StockholdersEquity: 576638000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 55352000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 65061000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26

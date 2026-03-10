@@ -1,0 +1,12 @@
+Company: Teradyne Inc. Common Stock
+Ticker: TER
+CIK: 0000097210
+Latest SEC XBRL Facts:
+Revenues: 2106687000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 758968000 | unit=USD | filed=2021-02-22 | period_end=2020-12-31
+NetIncomeLoss: 296827000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+Assets: 3963731000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+Liabilities: 1246456000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+StockholdersEquity: 2717275000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 392776000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 272700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28

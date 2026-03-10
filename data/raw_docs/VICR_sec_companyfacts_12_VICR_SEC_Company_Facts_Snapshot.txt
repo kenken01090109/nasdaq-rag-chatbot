@@ -1,0 +1,12 @@
+Company: Vicor Corporation Common Stock
+Ticker: VICR
+CIK: 0000751978
+Latest SEC XBRL Facts:
+Revenues: 345437000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 300437000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 72023000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 710247000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 79894000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 630079000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 123840000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 362382000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

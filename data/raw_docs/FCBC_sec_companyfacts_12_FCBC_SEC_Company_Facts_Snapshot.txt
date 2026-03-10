@@ -1,0 +1,10 @@
+Company: First Community Bankshares Inc. (VA) Common Stock
+Ticker: FCBC
+CIK: 0000859070
+Latest SEC XBRL Facts:
+NetIncomeLoss: 36329000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3189613000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2678888000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 510725000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 42379000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 241613000 | unit=USD | filed=2020-05-11 | period_end=2020-03-31

@@ -1,0 +1,25 @@
+Company: United Bankshares Inc. Common Stock
+Ticker: UBSI
+Market Cap: 5596298240
+Enterprise Value: 3957850624
+Total Revenue: 1202182016
+Revenue Per Share: 8.496
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.56445
+Profit Margins: 0.38647
+Free Cashflow: 
+Operating Cashflow: 498905984
+Return On Assets: 0.01459
+Return On Equity: 0.08859
+Total Cash: 2543038976
+Total Debt: 825852032
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.275229
+Forward PE: 10.7039995
+Price To Book: 1.0192474
+Beta: 0.774
+52 Week High: 45.93
+52 Week Low: 30.51

@@ -1,0 +1,9 @@
+Company: Bloomia Holdings Inc. Common Stock
+Ticker: TULP
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: United States
+City: Minneapolis
+Website: https://www.lendway.com
+Employees: 155
+Business Summary: Bloomia Holdings, Inc., a specialty agricultural company, through its subsidiaries, focuses on making and managing its agricultural investments in the United States and internationally. It produces and sells fresh-cut tulips. The company was formerly known as Lendway, Inc. and changed its name to Bloomia Holdings, Inc. in January 2026. Bloomia Holdings, Inc. was incorporated in 1990 and is headquartered in Minneapolis, Minnesota.

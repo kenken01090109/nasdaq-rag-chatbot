@@ -1,0 +1,25 @@
+Company: Rapid Micro Biosystems Inc. Class A Common Stock
+Ticker: RPID
+Market Cap: 182608928
+Enterprise Value: 148157056
+Total Revenue: 30523000
+Revenue Per Share: 0.688
+EBITDA: -42479000
+Gross Margins: 0.07719
+Operating Margins: -1.4508799
+Profit Margins: -1.4511
+Free Cashflow: -23051376
+Operating Cashflow: -37725000
+Return On Assets: -0.29836
+Return On Equity: -0.68827003
+Total Cash: 41947000
+Total Debt: 5279000
+Debt To Equity: 11.908
+Current Ratio: 4.227
+Quick Ratio: 2.872
+Trailing PE: 
+Forward PE: -4.7768116
+Price To Book: 4.115884
+Beta: 1.393
+52 Week High: 4.94
+52 Week Low: 1.86

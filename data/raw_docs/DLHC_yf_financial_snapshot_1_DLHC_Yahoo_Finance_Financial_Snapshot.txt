@@ -1,0 +1,25 @@
+Company: DLH Holdings Corp.
+Ticker: DLHC
+Market Cap: 84784256
+Enterprise Value: 234330256
+Total Revenue: 322607008
+Revenue Per Share: 22.382
+EBITDA: 29757000
+Gross Margins: 0.188
+Operating Margins: 0.02084
+Profit Margins: -0.0033399998
+Free Cashflow: 33869376
+Operating Cashflow: 29984000
+Return On Assets: 0.02585
+Return On Equity: -0.00963
+Total Cash: 257000
+Total Debt: 149803008
+Debt To Equity: 133.529
+Current Ratio: 0.966
+Quick Ratio: 0.896
+Trailing PE: 
+Forward PE: -20.892857
+Price To Book: 0.75571626
+Beta: 1.612
+52 Week High: 8.1
+52 Week Low: 2.72

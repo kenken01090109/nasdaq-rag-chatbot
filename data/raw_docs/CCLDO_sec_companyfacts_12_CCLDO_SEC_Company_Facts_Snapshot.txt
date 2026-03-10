@@ -1,0 +1,11 @@
+Company: CareCloud Inc. 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock
+Ticker: CCLDO
+CIK: 0001582982
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 86076000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 7910000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 90576000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 32772000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 57804000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19886000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3867000 | unit=USD | filed=2022-11-03 | period_end=2022-09-30

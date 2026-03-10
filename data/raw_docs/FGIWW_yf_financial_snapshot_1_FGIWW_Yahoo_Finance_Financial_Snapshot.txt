@@ -1,0 +1,25 @@
+Company: FGI Industries Ltd. Warrant
+Ticker: FGIWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 135654096
+Revenue Per Share: 70.79
+EBITDA: 183538
+Gross Margins: 0.26426
+Operating Margins: 0.01031
+Profit Margins: -0.02885
+Free Cashflow: 512921
+Operating Cashflow: -1053308
+Return On Assets: -0.02544
+Return On Equity: -0.22267
+Total Cash: 1875682
+Total Debt: 26122072
+Debt To Equity: 141.673
+Current Ratio: 1.191
+Quick Ratio: 0.452
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0029151684
+Beta: 1.462
+52 Week High: 0.03
+52 Week Low: 0.03

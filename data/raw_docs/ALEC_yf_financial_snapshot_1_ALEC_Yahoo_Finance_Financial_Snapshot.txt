@@ -1,0 +1,25 @@
+Company: Alector Inc. Common Stock
+Ticker: ALEC
+Market Cap: 220725168
+Enterprise Value: -1273089
+Total Revenue: 21045000
+Revenue Per Share: 0.204
+EBITDA: -147367008
+Gross Margins: 0.0
+Operating Margins: -5.87526
+Profit Margins: 0.0
+Free Cashflow: -114339128
+Operating Cashflow: -184031008
+Return On Assets: -0.25128
+Return On Equity: -1.81556
+Total Cash: 256024000
+Total Debt: 36233000
+Debt To Equity: 118.219
+Current Ratio: 3.834
+Quick Ratio: 3.684
+Trailing PE: 
+Forward PE: -2.020202
+Price To Book: 7.194245
+Beta: 0.547
+52 Week High: 3.4
+52 Week Low: 0.87

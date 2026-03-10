@@ -1,0 +1,25 @@
+Company: Springview Holdings Ltd Class A Ordinary Shares
+Ticker: SPHL
+Market Cap: 6559745
+Enterprise Value: 32230932
+Total Revenue: 7584361
+Revenue Per Share: 2.881
+EBITDA: -2021201
+Gross Margins: 0.053319998
+Operating Margins: -0.14092
+Profit Margins: -0.23557
+Free Cashflow: -1568308
+Operating Cashflow: -1861328
+Return On Assets: -0.16062
+Return On Equity: -0.4644
+Total Cash: 2987786
+Total Debt: 963405
+Debt To Equity: 17.268
+Current Ratio: 3.292
+Quick Ratio: 2.809
+Trailing PE: 
+Forward PE: 
+Price To Book: 7.6107173
+Beta: 
+52 Week High: 62.4
+52 Week Low: 1.92

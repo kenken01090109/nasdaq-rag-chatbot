@@ -1,0 +1,9 @@
+Company: ServiceTitan Inc. Class A Common Stock
+Ticker: TTAN
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Glendale
+Website: https://www.servicetitan.com
+Employees: 3049
+Business Summary: ServiceTitan, Inc. provides an end-to-end cloud-based software platform in the United States and Canada. Its platform connects and manages a range of business workflows, such as advertising, job scheduling and management, dispatching, generating estimates and invoices, payment processing and others. The company offers ServiceTitan, a platform for contractors; FieldRoutes, a pest control software; Aspire, a business management software that offers real-time reports, precise data, accurate job costing for the landscape and clean industries; and Convex, a sales and marketing platform for trades. In addition, the company offers FinTech products that include payment processing and third-party financing solutions. It serves HVAC, plumbing, electrician, garage door, chimney sweep, irrigation, water treatment, septic, painting, pool service, landscape, lawn care, pest control, roofing, air duct cleaning, commercial food equipment, audio visual, alarm, appliance repair, residential remodeling, commercial cleaning, locksmith, refrigeration, and handyman industries. The company was formerly known as Linxlogic, Inc. and changed its name to ServiceTitan, Inc. in June 2014. The company was incorporated in 2007 and is based in Glendale, California.

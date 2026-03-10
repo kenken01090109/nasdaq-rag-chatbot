@@ -1,0 +1,10 @@
+Company: MidCap Financial Investment Corporation Common Stock
+Ticker: MFIC
+CIK: 0001278752
+Latest SEC XBRL Facts:
+NetIncomeLoss: 75900000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3309494000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1941574000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1307261000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -56079000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 62502000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

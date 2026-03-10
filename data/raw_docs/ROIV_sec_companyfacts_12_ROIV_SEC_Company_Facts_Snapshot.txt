@@ -1,0 +1,11 @@
+Company: Roivant Sciences Ltd. Common Shares
+Ticker: ROIV
+CIK: 0001635088
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5740000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -602765000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 5225368000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 251144000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 4269255000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -586531000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1478270000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

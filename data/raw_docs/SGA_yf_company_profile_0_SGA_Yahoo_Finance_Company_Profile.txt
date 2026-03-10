@@ -1,0 +1,9 @@
+Company: Saga Communications Inc. Class A Common Stock (FL)
+Ticker: SGA
+Sector: Communication Services
+Industry: Broadcasting
+Country: United States
+City: Grosse Pointe Farms
+Website: https://www.sagacom.com
+Employees: 601
+Business Summary: Saga Communications, Inc., a media company, acquires, develops, and operates broadcast properties in the United States. The company's radio stations employ various programming formats, including classic hits, country, classic country, hot/soft/urban adult contemporary, oldies, classic rock, rock, and news/talk. It also owns and operates FM and AM radio stations, and metro signals serving various markets. Saga Communications, Inc. was incorporated in 1986 and is headquartered in Grosse Pointe Farms, Michigan.

@@ -1,0 +1,12 @@
+Company: Fuel Tech Inc. Common Stock
+Ticker: FTEK
+CIK: 0000846913
+Latest SEC XBRL Facts:
+Revenues: 30467000 | unit=USD | filed=2020-03-12 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 19430000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -1125000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 47913000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 6904000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 41009000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4583000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13677000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

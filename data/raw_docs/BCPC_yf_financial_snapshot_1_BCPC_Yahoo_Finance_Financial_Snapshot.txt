@@ -1,0 +1,25 @@
+Company: Balchem Corporation Common Stock
+Ticker: BCPC
+Market Cap: 5676663808
+Enterprise Value: 5732978176
+Total Revenue: 1037161024
+Revenue Per Share: 32.145
+EBITDA: 254728000
+Gross Margins: 0.35735
+Operating Margins: 0.19836001
+Profit Margins: 0.14930001
+Free Cashflow: 136118880
+Operating Cashflow: 216556000
+Return On Assets: 0.08022001
+Return On Equity: 0.12864
+Total Cash: 74570000
+Total Debt: 180687008
+Debt To Equity: 14.37
+Current Ratio: 2.073
+Quick Ratio: 1.237
+Trailing PE: 36.978905
+Forward PE: 28.857283
+Price To Book: 4.4688067
+Beta: 0.938
+52 Week High: 183.9
+52 Week Low: 139.17

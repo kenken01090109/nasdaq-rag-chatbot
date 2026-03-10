@@ -1,0 +1,25 @@
+Company: Applied Digital Corporation Common Stock
+Ticker: APLD
+Market Cap: 7028787200
+Enterprise Value: 9170997248
+Total Revenue: 263986000
+Revenue Per Share: 1.078
+EBITDA: 21411000
+Gross Margins: 0.19615
+Operating Margins: -0.24455
+Profit Margins: -0.47352
+Free Cashflow: -1606530304
+Operating Cashflow: -85116000
+Return On Assets: -0.01485
+Return On Equity: -0.07897
+Total Cash: 1913436032
+Total Debt: 2608677120
+Debt To Equity: 125.912
+Current Ratio: 4.823
+Quick Ratio: 3.426
+Trailing PE: 
+Forward PE: -28.089386
+Price To Book: 4.8402004
+Beta: 7.342
+52 Week High: 42.27
+52 Week Low: 3.31

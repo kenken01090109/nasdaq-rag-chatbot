@@ -1,0 +1,10 @@
+Company: Absci Corporation Common Stock
+Ticker: ABSI
+Market Cap: 389462272
+Enterprise Value: 243207264
+Trailing PE: 
+Forward PE: -3.6740713
+Price To Book: 1.8434163
+Beta: 2.13
+52 Week High: 5.228
+52 Week Low: 2.01

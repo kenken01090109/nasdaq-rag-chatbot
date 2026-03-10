@@ -1,0 +1,25 @@
+Company: Avnet Inc. Common Stock
+Ticker: AVT
+Market Cap: 4915871232
+Enterprise Value: 7991536128
+Total Revenue: 23150745600
+Revenue Per Share: 276.784
+EBITDA: 696236992
+Gross Margins: 0.10623
+Operating Margins: 0.02744
+Profit Margins: 0.00896
+Free Cashflow: 111688496
+Operating Cashflow: 344009984
+Return On Assets: 0.03118
+Return On Equity: 0.04242
+Total Cash: 286547008
+Total Debt: 3167377920
+Debt To Equity: 64.144
+Current Ratio: 2.067
+Quick Ratio: 1.037
+Trailing PE: 24.410568
+Forward PE: 9.646586
+Price To Book: 0.9893731
+Beta: 0.911
+52 Week High: 68.29
+52 Week Low: 39.22

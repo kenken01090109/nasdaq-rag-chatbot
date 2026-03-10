@@ -1,0 +1,25 @@
+Company: Silvercrest Asset Management Group Inc. Class A Common Stock
+Ticker: SAMG
+Market Cap: 127452688
+Enterprise Value: 143298192
+Total Revenue: 125322000
+Revenue Per Share: 13.741
+EBITDA: 16190000
+Gross Margins: 0.34966
+Operating Margins: 0.044260003
+Profit Margins: 0.052849997
+Free Cashflow: 14339125
+Operating Cashflow: 20141000
+Return On Assets: 0.04382
+Return On Equity: 0.10029
+Total Cash: 36128000
+Total Debt: 21042000
+Debt To Equity: 22.504
+Current Ratio: 1.362
+Quick Ratio: 1.261
+Trailing PE: 20.972221
+Forward PE: 13.130435
+Price To Book: 2.1130702
+Beta: 0.722
+52 Week High: 18.19
+52 Week Low: 13.23

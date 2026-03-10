@@ -1,0 +1,9 @@
+Company: GBank Financial Holdings Inc. Common Stock
+Ticker: GBFH
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Las Vegas
+Website: https://www.gbankfinancialholdings.com
+Employees: 184
+Business Summary: GBank Financial Holdings Inc. operates as a bank holding company for GBank that provides banking services to commercial and consumer customers in Nevada. The company offers business and personal checking and savings accounts. It also provides small business administration loans; commercial real estate, equipment, business term, and medical/professional loans; business lines of credit; accounts receivable/inventory financing services; and credit cards. In addition, the company offers account and cash management services. The company was founded in 2007 and is based in Las Vegas, Nevada.

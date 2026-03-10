@@ -1,0 +1,25 @@
+Company: Sonos Inc. Common Stock
+Ticker: SONO
+Market Cap: 1724852864
+Enterprise Value: 1532992384
+Total Revenue: 1438081024
+Revenue Per Share: 11.948
+EBITDA: 90337000
+Gross Margins: 0.44921002
+Operating Margins: 0.18403
+Profit Margins: -0.01223
+Free Cashflow: 154285744
+Operating Cashflow: 144003008
+Return On Assets: 0.02315
+Return On Equity: -0.038540002
+Total Cash: 363491008
+Total Debt: 59219000
+Debt To Equity: 13.358
+Current Ratio: 1.649
+Quick Ratio: 1.236
+Trailing PE: 
+Forward PE: 16.49711
+Price To Book: 3.8904037
+Beta: 1.995
+52 Week High: 19.82
+52 Week Low: 7.63

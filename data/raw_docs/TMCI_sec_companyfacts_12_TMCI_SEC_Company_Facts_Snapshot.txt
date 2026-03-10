@@ -1,0 +1,11 @@
+Company: Treace Medical Concepts Inc. Common Stock
+Ticker: TMCI
+CIK: 0001630627
+Latest SEC XBRL Facts:
+Revenues: 150171000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -49608000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 196591000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 107404000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 89187000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7944000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7686000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

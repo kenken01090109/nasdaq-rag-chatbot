@@ -1,0 +1,12 @@
+Company: Escalade Incorporated Common Stock
+Ticker: ESCA
+CIK: 0000033488
+Latest SEC XBRL Facts:
+Revenues: 198882000 | unit=USD | filed=2020-10-29 | period_end=2020-10-03
+RevenueFromContractWithCustomerExcludingAssessedTax: 177598000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 9998000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 232460000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 60133000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 172327000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16118000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4299000 | unit=USD | filed=2019-04-18 | period_end=2019-03-23

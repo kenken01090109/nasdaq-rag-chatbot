@@ -1,0 +1,25 @@
+Company: Logitech International S.A. Ordinary Shares
+Ticker: LOGI
+Market Cap: 13588664320
+Enterprise Value: 11465701376
+Total Revenue: 4765593088
+Revenue Per Share: 32.271
+EBITDA: 844560000
+Gross Margins: 0.43058
+Operating Margins: 0.20241
+Profit Margins: 0.14936
+Free Cashflow: 681839616
+Operating Cashflow: 964070016
+Return On Assets: 0.12222
+Return On Equity: 0.32073003
+Total Cash: 1817820032
+Total Debt: 91982000
+Debt To Equity: 3.938
+Current Ratio: 2.214
+Quick Ratio: 1.815
+Trailing PE: 19.324947
+Forward PE: 16.034874
+Price To Book: 5.7920203
+Beta: 0.693
+52 Week High: 123.01
+52 Week Low: 64.73

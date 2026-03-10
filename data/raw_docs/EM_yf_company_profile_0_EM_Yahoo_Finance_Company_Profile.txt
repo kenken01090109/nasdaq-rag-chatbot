@@ -1,0 +1,9 @@
+Company: Smart Share Global Limited American Depositary Shares
+Ticker: EM
+Sector: Consumer Cyclical
+Industry: Personal Services
+Country: China
+City: Shanghai
+Website: https://ir.enmonster.com
+Employees: 3656
+Business Summary: Smart Share Global Limited, a consumer tech company, provides mobile device charging services through online and offline network in the People's Republic of China. The company offers services through its power banks placed in points of interests (POIs) operated by its location partners, such as entertainment venues, restaurants, shopping centers, hotels, transportation hubs, and public spaces. The company also provides advertising services, as well as sells merchandises through distributors or online platform; and rents power banks. Smart Share Global Limited was incorporated in 2017 and is headquartered in Shanghai, the People's Republic of China.

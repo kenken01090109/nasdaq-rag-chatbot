@@ -1,0 +1,25 @@
+Company: U.S. Energy Corp. Common Stock (DE)
+Ticker: USEG
+Market Cap: 43534812
+Enterprise Value: 38305916
+Total Revenue: 9484000
+Revenue Per Share: 0.294
+EBITDA: -5154000
+Gross Margins: 0.36082
+Operating Margins: -2.103
+Profit Margins: -2.5870903
+Free Cashflow: -10060125
+Operating Cashflow: -4585000
+Return On Assets: -0.21221
+Return On Equity: -0.80746
+Total Cash: 1725000
+Total Debt: 465000
+Debt To Equity: 1.857
+Current Ratio: 0.331
+Quick Ratio: 0.277
+Trailing PE: 
+Forward PE: -4.7916665
+Price To Book: 1.568895
+Beta: 0.581
+52 Week High: 2.75
+52 Week Low: 0.91

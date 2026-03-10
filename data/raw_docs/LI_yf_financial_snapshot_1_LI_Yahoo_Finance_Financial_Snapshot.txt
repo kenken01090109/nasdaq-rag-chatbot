@@ -1,0 +1,25 @@
+Company: Li Auto Inc. American Depositary Shares
+Ticker: LI
+Market Cap: 17582225408
+Enterprise Value: -45636308992
+Total Revenue: 127810764800
+Revenue Per Share: 127.181
+EBITDA: 7669126144
+Gross Margins: 0.19423
+Operating Margins: -0.04302
+Profit Margins: 0.036310002
+Free Cashflow: -11024158720
+Operating Cashflow: -3452465920
+Return On Assets: 0.0149
+Return On Equity: 0.066350006
+Total Cash: 98677981184
+Total Debt: 17891788800
+Debt To Equity: 24.443
+Current Ratio: 1.803
+Quick Ratio: 1.579
+Trailing PE: 15.599999
+Forward PE: 22.750336
+Price To Book: 1.6437215
+Beta: 0.604
+52 Week High: 32.025
+52 Week Low: 15.71

@@ -1,0 +1,11 @@
+Company: FS Bancorp Inc. Common Stock
+Ticker: FSBW
+CIK: 0001530249
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2300000 | unit=USD | filed=2024-08-09 | period_end=2024-06-30
+NetIncomeLoss: 24926000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 3208825000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2908314000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 300511000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 59958000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 61280000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

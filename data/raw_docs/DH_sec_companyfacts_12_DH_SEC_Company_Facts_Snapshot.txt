@@ -1,0 +1,10 @@
+Company: Definitive Healthcare Corp. Class A Common Stock
+Ticker: DH
+CIK: 0001861795
+Latest SEC XBRL Facts:
+Revenues: 179987000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -129617000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 755527000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 365857000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51057000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 108317000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: KLX Energy Services Holdings Inc. Common Stock
+Ticker: KLXE
+CIK: 0001738827
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 479700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -62100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 358200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -61200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

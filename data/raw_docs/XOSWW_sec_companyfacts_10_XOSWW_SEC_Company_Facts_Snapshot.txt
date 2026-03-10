@@ -1,0 +1,12 @@
+Company: Xos Inc. Warrants
+Ticker: XOSWW
+CIK: 0001819493
+Latest SEC XBRL Facts:
+Revenues: 40772000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12635000 | unit=USD | filed=2024-05-15 | period_end=2024-03-31
+NetIncomeLoss: -15568000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 73810000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 42750000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 31060000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2966000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14066000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

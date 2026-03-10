@@ -1,0 +1,25 @@
+Company: SunOpta Inc. Common Stock
+Ticker: STKL
+Market Cap: 769089472
+Enterprise Value: 1149434240
+Total Revenue: 817715008
+Revenue Per Share: 6.932
+EBITDA: 88153000
+Gross Margins: 0.14821
+Operating Margins: 0.06669
+Profit Margins: 0.01928
+Free Cashflow: -6337125
+Operating Cashflow: 49661000
+Return On Assets: 0.04458
+Return On Equity: 0.09019
+Total Cash: 169000
+Total Debt: 372151008
+Debt To Equity: 200.06
+Current Ratio: 1.18
+Quick Ratio: 0.412
+Trailing PE: 161.5
+Forward PE: 30.471699
+Price To Book: 4.4736843
+Beta: 1.064
+52 Week High: 6.94
+52 Week Low: 3.32

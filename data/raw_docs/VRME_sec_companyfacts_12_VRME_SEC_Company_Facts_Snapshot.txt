@@ -1,0 +1,11 @@
+Company: VerifyMe Inc. Common Stock
+Ticker: VRME
+CIK: 0001104038
+Latest SEC XBRL Facts:
+Revenues: 14008000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -4218000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 13263000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2159000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 11104000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 549000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2610000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30

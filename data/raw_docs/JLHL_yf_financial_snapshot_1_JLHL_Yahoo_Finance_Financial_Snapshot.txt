@@ -1,0 +1,25 @@
+Company: Julong Holding Limited Class A Ordinary Shares
+Ticker: JLHL
+Market Cap: 122900664
+Enterprise Value: 76065152
+Total Revenue: 252007696
+Revenue Per Share: 12.361
+EBITDA: 30881964
+Gross Margins: 0.16081
+Operating Margins: 0.115159996
+Profit Margins: 0.10378
+Free Cashflow: 5170665
+Operating Cashflow: 259959
+Return On Assets: 0.07518
+Return On Equity: 0.59991
+Total Cash: 62247144
+Total Debt: 10263961
+Debt To Equity: 14.703
+Current Ratio: 1.213
+Quick Ratio: 1.206
+Trailing PE: 30.157896
+Forward PE: 
+Price To Book: 12.142986
+Beta: 
+52 Week High: 11.11
+52 Week Low: 2.7

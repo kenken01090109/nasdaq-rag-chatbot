@@ -1,0 +1,25 @@
+Company: eGain Corporation Common Stock
+Ticker: EGAN
+Market Cap: 262358928
+Enterprise Value: 176786992
+Total Revenue: 90730000
+Revenue Per Share: 3.313
+EBITDA: 8501000
+Gross Margins: 0.72358
+Operating Margins: 0.08904
+Profit Margins: 0.39773998
+Free Cashflow: 16992624
+Operating Cashflow: 18425000
+Return On Assets: 0.0395
+Return On Equity: 0.50106
+Total Cash: 83059000
+Total Debt: 3512000
+Debt To Equity: 3.956
+Current Ratio: 1.896
+Quick Ratio: 1.834
+Trailing PE: 7.5433073
+Forward PE: 25.433403
+Price To Book: 2.9540548
+Beta: 0.877
+52 Week High: 15.95
+52 Week Low: 4.34

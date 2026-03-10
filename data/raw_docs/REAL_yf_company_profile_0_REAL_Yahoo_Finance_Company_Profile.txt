@@ -1,0 +1,9 @@
+Company: The RealReal Inc. Common Stock
+Ticker: REAL
+Sector: Consumer Cyclical
+Industry: Luxury Goods
+Country: United States
+City: San Francisco
+Website: https://www.therealreal.com
+Employees: 3140
+Business Summary: The RealReal, Inc. operates an online marketplace for resale luxury goods worldwide. It provides a range of product categories, including women's fashion, men's fashion, jewelry, and watches. The company sells products through its website, online marketplace, mobile app, and retail stores. The RealReal, Inc. was incorporated in 2011 and is headquartered in San Francisco, California.

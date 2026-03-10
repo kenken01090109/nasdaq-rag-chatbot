@@ -1,0 +1,9 @@
+Company: LENZ Therapeutics Inc. Common Stock
+Ticker: LENZ
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Solana Beach
+Website: https://www.lenz-tx.com
+Employees: 
+Business Summary: LENZ Therapeutics, Inc. operates as a biopharmaceutical company that focuses on the development and commercialization of therapies to improve vision in the United States. Its product candidates include LNZ100 and LNZ101 which are in Phase III clinical trials for the treatment of presbyopia. LENZ Therapeutics, Inc. was formerly known as Presbyopia Therapies, Inc. and changed its name to LENZ Therapeutics, Inc. in June 2021. The company was founded in 2013 and is headquartered in Solana Beach, California.

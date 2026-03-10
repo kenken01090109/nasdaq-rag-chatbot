@@ -1,0 +1,25 @@
+Company: UTime Limited Class A Ordinary Shares
+Ticker: WTO
+Market Cap: 5077347
+Enterprise Value: -43969088
+Total Revenue: 250996992
+Revenue Per Share: 6964.401
+EBITDA: -648457984
+Gross Margins: 0.06743
+Operating Margins: -2.6061099
+Profit Margins: -2.6697
+Free Cashflow: 219881248
+Operating Cashflow: -31729000
+Return On Assets: -0.95523
+Return On Equity: -5.94867
+Total Cash: 109213000
+Total Debt: 70309000
+Debt To Equity: 
+Current Ratio: 0.484
+Quick Ratio: 0.409
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.0056218356
+Beta: 0.433
+52 Week High: 1500.0
+52 Week Low: 2.41

@@ -1,0 +1,10 @@
+Company: Selective Insurance Group Inc. Depositary Shares each representing a 1/1000th interest in a share of 4.60% Non-Cumulative Preferred Stock Series B
+Ticker: SIGIP
+CIK: 0000230557
+Latest SEC XBRL Facts:
+Revenues: 3972041000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 311179000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 14980411000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 11490449000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 3489962000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 856764000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

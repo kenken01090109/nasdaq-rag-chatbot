@@ -1,0 +1,25 @@
+Company: ReTo Eco-Solutions Inc. Class A Shares
+Ticker: RETO
+Market Cap: 2583249
+Enterprise Value: 5051000
+Total Revenue: 2109956
+Revenue Per Share: 6.343
+EBITDA: -4857215
+Gross Margins: 0.32132998
+Operating Margins: -1.33007
+Profit Margins: 0.0
+Free Cashflow: -3822634
+Operating Cashflow: 6235283
+Return On Assets: -0.08332
+Return On Equity: -0.38332
+Total Cash: 2459943
+Total Debt: 1981517
+Debt To Equity: 5.792
+Current Ratio: 0.587
+Quick Ratio: 0.426
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.043582693
+Beta: 1.527
+52 Week High: 28.85
+52 Week Low: 0.551

@@ -1,0 +1,11 @@
+Company: ProCap Financial Inc. Common Stock
+Ticker: BRR
+CIK: 0002076163
+Latest SEC XBRL Facts:
+Revenues: 85000 | unit=USD | filed=2026-02-18 | period_end=2025-12-31
+NetIncomeLoss: -329471 | unit=USD | filed=2025-12-11 | period_end=2025-09-30
+Assets: 638886743 | unit=USD | filed=2026-02-18 | period_end=2025-12-31
+Liabilities: 329471 | unit=USD | filed=2025-12-11 | period_end=2025-09-30
+StockholdersEquity: -329471 | unit=USD | filed=2025-12-11 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -108674 | unit=USD | filed=2025-12-11 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44976127 | unit=USD | filed=2026-02-18 | period_end=2025-12-31

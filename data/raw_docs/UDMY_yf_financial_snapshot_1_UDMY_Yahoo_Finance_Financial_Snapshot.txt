@@ -1,0 +1,25 @@
+Company: Udemy Inc. Common Stock
+Ticker: UDMY
+Market Cap: 708202688
+Enterprise Value: 359685760
+Total Revenue: 789843968
+Revenue Per Share: 5.329
+EBITDA: 5710000
+Gross Margins: 0.65634
+Operating Margins: 0.00154
+Profit Margins: 0.00482
+Free Cashflow: 129208624
+Operating Cashflow: 87659000
+Return On Assets: 0.00118
+Return On Equity: 0.01867
+Total Cash: 358744000
+Total Debt: 10227000
+Debt To Equity: 4.859
+Current Ratio: 1.31
+Quick Ratio: 1.136
+Trailing PE: 162.33333
+Forward PE: 7.8281975
+Price To Book: 3.4127538
+Beta: 1.701
+52 Week High: 9.3
+52 Week Low: 4.35

@@ -1,0 +1,25 @@
+Company: Euroholdings Ltd. Common Stock
+Ticker: EHLD
+Market Cap: 20476790
+Enterprise Value: 36907416
+Total Revenue: 13228351
+Revenue Per Share: 4.725
+EBITDA: 4717292
+Gross Margins: 0.53334
+Operating Margins: 0.29952
+Profit Margins: 1.112
+Free Cashflow: -29949220
+Operating Cashflow: 3942391
+Return On Assets: 0.107480004
+Return On Equity: 1.11903
+Total Cash: 3343183
+Total Debt: 19862812
+Debt To Equity: 99.058
+Current Ratio: 1.677
+Quick Ratio: 1.486
+Trailing PE: 1.3847619
+Forward PE: 
+Price To Book: 1.0212108
+Beta: 
+52 Week High: 37.59
+52 Week Low: 3.83

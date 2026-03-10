@@ -1,0 +1,25 @@
+Company: Lands' End Inc. Common Stock
+Ticker: LE
+Market Cap: 493399744
+Enterprise Value: 784588352
+Total Revenue: 1314436992
+Revenue Per Share: 42.762
+EBITDA: 98729000
+Gross Margins: 0.48839
+Operating Margins: 0.057389997
+Profit Margins: 0.00894
+Free Cashflow: 19262750
+Operating Cashflow: 50174000
+Return On Assets: 0.0497
+Return On Equity: 0.0517
+Total Cash: 36344000
+Total Debt: 324783008
+Debt To Equity: 140.589
+Current Ratio: 1.757
+Quick Ratio: 0.279
+Trailing PE: 43.648647
+Forward PE: 16.822916
+Price To Book: 2.1359608
+Beta: 2.416
+52 Week High: 20.04
+52 Week Low: 7.65

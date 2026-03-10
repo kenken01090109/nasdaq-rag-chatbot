@@ -1,0 +1,25 @@
+Company: Vistance Networks Inc. Common Stock
+Ticker: VISN
+Market Cap: 3880201216
+Enterprise Value: 11734100992
+Total Revenue: 1931600000
+Revenue Per Share: 8.8
+EBITDA: 379000000
+Gross Margins: 0.49487
+Operating Margins: 0.29139
+Profit Margins: 1.18228
+Free Cashflow: -1393849984
+Operating Cashflow: 322900000
+Return On Assets: 0.00704
+Return On Equity: 
+Total Cash: 754400000
+Total Debt: 7329600000
+Debt To Equity: 2669.192
+Current Ratio: 3.876
+Quick Ratio: 0.739
+Trailing PE: 16.08411
+Forward PE: 17.758745
+Price To Book: -3.8269954
+Beta: 2.458
+52 Week High: 20.55
+52 Week Low: 2.94

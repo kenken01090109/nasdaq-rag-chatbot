@@ -1,0 +1,10 @@
+Company: YSX Tech. Co. Ltd Class A Ordinary Shares
+Ticker: YSXT
+CIK: 0001993463
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 40991804 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetIncomeLoss: 2679387 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Assets: 47793972 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Liabilities: 16957688 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+StockholdersEquity: 30836284 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7712857 | unit=USD | filed=2026-01-30 | period_end=2025-09-30

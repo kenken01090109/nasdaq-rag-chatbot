@@ -1,0 +1,10 @@
+Company: OneWater Marine Inc. Class A Common Stock
+Ticker: ONEW
+CIK: 0001772921
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 380561000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -7711000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 1442035000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 1164542000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 393229000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -76288000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

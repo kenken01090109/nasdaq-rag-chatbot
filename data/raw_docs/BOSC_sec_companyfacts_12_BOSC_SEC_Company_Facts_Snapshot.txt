@@ -1,0 +1,10 @@
+Company: B.O.S. Better Online Solutions Common Stock
+Ticker: BOSC
+CIK: 0001005516
+Latest SEC XBRL Facts:
+Revenues: 26553000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: 2114000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 38431000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 24230000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1454000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 5170000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

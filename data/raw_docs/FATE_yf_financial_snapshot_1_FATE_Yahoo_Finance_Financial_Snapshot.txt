@@ -1,0 +1,25 @@
+Company: Fate Therapeutics Inc. Common Stock
+Ticker: FATE
+Market Cap: 154630400
+Enterprise Value: 34638572
+Total Revenue: 6646000
+Revenue Per Share: 0.056
+EBITDA: -133703000
+Gross Margins: 0.0
+Operating Margins: -24.5588
+Profit Margins: 0.0
+Free Cashflow: -51558500
+Operating Cashflow: -106084000
+Return On Assets: -0.24124001
+Return On Equity: -0.5184
+Total Cash: 203656992
+Total Debt: 77849000
+Debt To Equity: 37.575
+Current Ratio: 5.786
+Quick Ratio: 5.691
+Trailing PE: 
+Forward PE: -1.2258065
+Price To Book: 0.74053454
+Beta: 2.231
+52 Week High: 1.94
+52 Week Low: 0.66

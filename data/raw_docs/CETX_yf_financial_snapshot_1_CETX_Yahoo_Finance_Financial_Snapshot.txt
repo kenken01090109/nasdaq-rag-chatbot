@@ -1,0 +1,25 @@
+Company: Cemtrex Inc. Common Stock
+Ticker: CETX
+Market Cap: 9377662
+Enterprise Value: 6691474
+Total Revenue: 78881504
+Revenue Per Share: 103.22
+EBITDA: 1857400
+Gross Margins: 0.40831003
+Operating Margins: -0.14656
+Profit Margins: -0.25246
+Free Cashflow: -8202337
+Operating Cashflow: 469218
+Return On Assets: 0.0049799997
+Return On Equity: -1.44704
+Total Cash: 20620528
+Total Debt: 16875410
+Debt To Equity: 58.01
+Current Ratio: 2.378
+Quick Ratio: 1.812
+Trailing PE: 0.0041982494
+Forward PE: 1.6918181
+Price To Book: 0.27375698
+Beta: 1.346
+52 Week High: 42.6
+52 Week Low: 0.9305

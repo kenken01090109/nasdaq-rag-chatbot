@@ -1,0 +1,9 @@
+Company: Phio Pharmaceuticals Corp. Common Stock
+Ticker: PHIO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Marlborough
+Website: https://phiopharma.com
+Employees: 5
+Business Summary: Phio Pharmaceuticals Corp., a a clinical stage biotechnology company, engages in the development of immuno-oncology therapeutics in the United States. The company is developing PH-762, an INTASYL compound in Phase 1b dose-escalating clinical trials to reduce the expression of cell death protein 1 (PD-1), a protein that inhibits T cells' ability to kill cancer cells; and PH-762 treated double positive tumor infiltrating lymphocytes, which is in Phase 1 clinical trials to treat advanced melanoma and other advanced solid tumors. It is also developing PH-894, an INTASYL compound in IND enabling studies to silence BRD4, a protein that controls gene expression in both T cells and tumor cells, effecting the immune system and the tumor. The company was formerly known as RXi Pharmaceuticals Corporation and changed its name to Phio Pharmaceuticals Corp. in November 2018. Phio Pharmaceuticals Corp. was incorporated in 2011 and is based in Marlborough, Massachusetts.

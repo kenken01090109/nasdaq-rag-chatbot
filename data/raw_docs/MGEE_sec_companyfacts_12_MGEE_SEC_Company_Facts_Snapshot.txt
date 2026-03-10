@@ -1,0 +1,9 @@
+Company: MGE Energy Inc
+Ticker: MGEE
+CIK: 0001161728
+Latest SEC XBRL Facts:
+NetIncomeLoss: 112587000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2990736000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1297653000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 228770000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10141000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

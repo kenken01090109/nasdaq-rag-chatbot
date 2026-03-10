@@ -1,0 +1,12 @@
+Company: AlTi Global Inc. Class A Common Stock
+Ticker: ALTI
+Total Revenue: 226716992
+Revenue Per Share: 2.321
+Gross Margins: 0.19166
+Operating Margins: -0.46992
+EBITDA: -96659000
+Profit Margins: -0.70734
+Free Cashflow: 16911000
+Operating Cashflow: -53166000
+Return On Assets: -0.05572
+Return On Equity: -0.25518999

@@ -1,0 +1,11 @@
+Company: Datasea Inc. Common Stock
+Ticker: DTSS
+CIK: 0001631282
+Latest SEC XBRL Facts:
+Revenues: 26808565 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -739785 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 8642740 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 5171197 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 3481783 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1540994 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2240708 | unit=USD | filed=2022-02-11 | period_end=2021-12-31

@@ -1,0 +1,10 @@
+Company: Aimei Health Technology Co. Ltd Unit
+Ticker: AFJKU
+Market Cap: 
+Enterprise Value: 218851504
+Trailing PE: 
+Forward PE: 
+Price To Book: -63.131676
+Beta: -2.983
+52 Week High: 80.0
+52 Week Low: 7.6

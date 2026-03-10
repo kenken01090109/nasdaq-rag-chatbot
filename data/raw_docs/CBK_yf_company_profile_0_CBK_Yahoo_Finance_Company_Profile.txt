@@ -1,0 +1,9 @@
+Company: Commercial Bancgroup Inc. Common Stock
+Ticker: CBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Harrogate
+Website: https://www.cbtn.com
+Employees: 287
+Business Summary: Commercial Bancgroup, Inc. operates as the bank holding company for Commercial Bank that provides a range of banking and financial services to individual and corporate customers in Kentucky, North Carolina, and Tennessee. It accepts various deposit products, including demand deposits accounts, interest-bearing products, savings accounts, and certificates of deposit products. The company also offers real estate, commercial, and consumer loans. The company was formerly known as Harrogate Corporation and changed its name to Commercial Bancgroup, Inc. in April 1989. The company was incorporated in 1975 and is based in Harrogate, Tennessee.

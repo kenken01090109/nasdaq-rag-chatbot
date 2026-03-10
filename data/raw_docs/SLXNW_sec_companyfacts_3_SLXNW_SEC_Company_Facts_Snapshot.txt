@@ -1,0 +1,10 @@
+Company: Silexion Therapeutics Corp Warrant
+Ticker: SLXNW
+CIK: 0002022416
+Latest SEC XBRL Facts:
+NetIncomeLoss: -7500000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 11614000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4637000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6977000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7803000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9243000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

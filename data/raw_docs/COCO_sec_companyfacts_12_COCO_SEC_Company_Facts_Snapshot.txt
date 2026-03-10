@@ -1,0 +1,11 @@
+Company: The Vita Coco Company Inc. Common Stock
+Ticker: COCO
+CIK: 0001482981
+Latest SEC XBRL Facts:
+Revenues: 292929000 | unit=USD | filed=2021-11-17 | period_end=2021-09-30
+NetIncomeLoss: 65793000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 461294000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 137561000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 323733000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51069000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 203705000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

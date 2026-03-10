@@ -1,0 +1,10 @@
+Company: Dune Acquisition Corporation II Warrants
+Ticker: IPODW
+CIK: 0002041047
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2048349 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 146975580 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5826402 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5348367 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -392962 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 401902 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

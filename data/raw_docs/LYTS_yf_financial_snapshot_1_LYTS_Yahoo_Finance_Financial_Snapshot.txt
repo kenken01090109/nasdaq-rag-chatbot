@@ -1,0 +1,25 @@
+Company: LSI Industries Inc. Common Stock
+Ticker: LYTS
+Market Cap: 617371264
+Enterprise Value: 671639872
+Total Revenue: 591798976
+Revenue Per Share: 19.452
+EBITDA: 52407000
+Gross Margins: 0.25551
+Operating Margins: 0.060310002
+Profit Margins: 0.043369997
+Free Cashflow: 26633124
+Operating Cashflow: 42040000
+Return On Assets: 0.066420004
+Return On Equity: 0.11034001
+Total Cash: 6407000
+Total Debt: 58836000
+Debt To Equity: 23.715
+Current Ratio: 2.148
+Quick Ratio: 1.124
+Trailing PE: 24.182926
+Forward PE: 12.960785
+Price To Book: 2.399855
+Beta: 0.238
+52 Week High: 24.75
+52 Week Low: 13.77

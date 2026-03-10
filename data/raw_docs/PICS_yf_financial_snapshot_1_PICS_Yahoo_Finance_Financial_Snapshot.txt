@@ -1,0 +1,25 @@
+Company: PicS N.V. Class A Common Shares
+Ticker: PICS
+Market Cap: 1831072000
+Enterprise Value: 
+Total Revenue: 9050090496
+Revenue Per Share: 
+EBITDA: 3372284928
+Gross Margins: 0.93196
+Operating Margins: 0.4428
+Profit Margins: 0.037249997
+Free Cashflow: -7174471168
+Operating Cashflow: 1517069056
+Return On Assets: 0.07023
+Return On Equity: 0.17429
+Total Cash: 6564542976
+Total Debt: 1549915008
+Debt To Equity: 53.237
+Current Ratio: 3.965
+Quick Ratio: 3.558
+Trailing PE: 28.26
+Forward PE: 10.06689
+Price To Book: 
+Beta: 
+52 Week High: 19.95
+52 Week Low: 12.8

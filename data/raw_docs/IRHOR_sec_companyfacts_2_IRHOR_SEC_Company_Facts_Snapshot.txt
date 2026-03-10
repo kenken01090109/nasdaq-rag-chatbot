@@ -1,0 +1,8 @@
+Company: Iron Horse Acquisitions Corp. II Rights
+Ticker: IRHOR
+CIK: 0002051985
+Latest SEC XBRL Facts:
+NetIncomeLoss: -204391 | unit=USD | filed=2026-02-13 | period_end=2025-11-30
+Assets: 364681 | unit=USD | filed=2026-02-13 | period_end=2025-11-30
+StockholdersEquity: -173666 | unit=USD | filed=2026-02-13 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -142761 | unit=USD | filed=2026-02-13 | period_end=2025-11-30

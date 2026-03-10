@@ -1,0 +1,9 @@
+Company: Cayson Acquisition Corp Ordinary shares
+Ticker: CAPN
+CIK: 0002024203
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1203841 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 63493007 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2798479 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -2581777 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -377356 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

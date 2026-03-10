@@ -1,0 +1,11 @@
+Company: Genelux Corporation Common Stock
+Ticker: GNLX
+CIK: 0001231457
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 8000 | unit=USD | filed=2025-11-05 | period_end=2024-09-30
+NetIncomeLoss: -22898000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 24987000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 6396000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 18591000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19069000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6546000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30

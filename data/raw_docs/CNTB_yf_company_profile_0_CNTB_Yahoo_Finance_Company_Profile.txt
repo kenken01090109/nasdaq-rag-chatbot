@@ -1,0 +1,9 @@
+Company: Connect Biopharma Holdings Limited Ordinary Shares
+Ticker: CNTB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.connectbiopharm.com
+Employees: 62
+Business Summary: Connect Biopharma Holdings Limited, a clinical-stage biopharmaceutical company, engages in the development of therapies for the treatment of inflammatory diseases in the United States. The company's lead product candidate is rademikibart (formerly CBP-201), an antibody designed to target interleukin-4 receptor alpha, which is in Phase 3 studies for the treatment of inflammatory diseases such as atopic dermatitis and asthma. Connect Biopharma Holdings Limited was founded in 2012 and is headquartered in San Diego, California.

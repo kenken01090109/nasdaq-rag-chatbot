@@ -1,0 +1,12 @@
+Company: Workday Inc. Class A Common Stock
+Ticker: WDAY
+CIK: 0001327811
+Latest SEC XBRL Facts:
+Revenues: 618643000 | unit=USD | filed=2018-06-01 | period_end=2018-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9552000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+NetIncomeLoss: 693000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+Assets: 18074000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+Liabilities: 10269000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+StockholdersEquity: 7805000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 2939000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 1501000000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31

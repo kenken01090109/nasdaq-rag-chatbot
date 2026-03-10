@@ -1,0 +1,12 @@
+Company: Steel Dynamics Inc.
+Ticker: STLD
+CIK: 0001022671
+Latest SEC XBRL Facts:
+Revenues: 14561893000 | unit=USD | filed=2023-11-09 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 13762533000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 919562000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 15965030000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 6994705000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 8995142000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1176822000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 770356000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: AGM Group Holdings Inc. Class A Ordinary Shares
+Ticker: AGMH
+Market Cap: 2873665
+Enterprise Value: -1851632
+Total Revenue: 48526744
+Revenue Per Share: 52.295
+EBITDA: 19562996
+Gross Margins: 0.1545
+Operating Margins: -0.01599
+Profit Margins: 0.31413
+Free Cashflow: -12927555
+Operating Cashflow: 2124330
+Return On Assets: 0.18094
+Return On Equity: 0.95307
+Total Cash: 6492701
+Total Debt: 2173365
+Debt To Equity: 6.078
+Current Ratio: 1.935
+Quick Ratio: 1.323
+Trailing PE: 0.038355324
+Forward PE: 
+Price To Book: 0.06901502
+Beta: 2.362
+52 Week High: 18.1
+52 Week Low: 1.1

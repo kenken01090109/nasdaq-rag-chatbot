@@ -1,0 +1,25 @@
+Company: TeraWulf Inc. Common Stock
+Ticker: WULF
+Market Cap: 5830936576
+Enterprise Value: 7764514304
+Total Revenue: 168455008
+Revenue Per Share: 0.424
+EBITDA: -80849000
+Gross Margins: 0.50929
+Operating Margins: -2.10531
+Profit Margins: 0.0
+Free Cashflow: -113667752
+Operating Cashflow: -123180000
+Return On Assets: -0.0255
+Return On Equity: -3.4369102
+Total Cash: 3266388992
+Total Debt: 5195725824
+Debt To Equity: 3699.474
+Current Ratio: 2.004
+Quick Ratio: 1.884
+Trailing PE: 
+Forward PE: 35.256413
+Price To Book: 41.167667
+Beta: 4.303
+52 Week High: 18.51
+52 Week Low: 2.06

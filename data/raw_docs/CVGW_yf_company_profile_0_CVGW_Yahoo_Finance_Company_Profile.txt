@@ -1,0 +1,9 @@
+Company: Calavo Growers Inc. Common Stock
+Ticker: CVGW
+Sector: Consumer Defensive
+Industry: Food Distribution
+Country: United States
+City: Santa Paula
+Website: https://www.calavo.com
+Employees: 1969
+Business Summary: Calavo Growers, Inc. engages in the sourcing, packing, and distribution of fresh avocados, tomatoes, and papayas, as well as the processing of guacamole and other avocado products for retail grocers, club and mass-merchandise stores, foodservice operators, and wholesalers worldwide. It operates through Fresh and Prepared segments. The company provides avocados, tomatoes, and papayas, along with guacamole and avocado pulp. It offers its products under the Calavo brand, as well as the Avo Fresco, Bueno, Calavo Gold, Celebrate the Taste, El Dorado, Taste of Paradise, The First Name in Avocados, The Family of Fresh, ProRipeVIP, and RIPE NOW! trademarks. Calavo Growers, Inc. was founded in 1924 and is headquartered in Santa Paula, California.

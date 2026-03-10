@@ -1,0 +1,11 @@
+Company: Phathom Pharmaceuticals Inc. Common Stock
+Ticker: PHAT
+CIK: 0001783183
+Latest SEC XBRL Facts:
+Revenues: 117526000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -200099000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 240289000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 662823000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: -422534000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -161774000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 135156000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

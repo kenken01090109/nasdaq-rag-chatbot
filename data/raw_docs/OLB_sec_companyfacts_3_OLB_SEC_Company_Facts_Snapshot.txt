@@ -1,0 +1,11 @@
+Company: The OLB Group Inc. Common Stock
+Ticker: OLB
+CIK: 0001314196
+Latest SEC XBRL Facts:
+Revenues: 6901921 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1088998 | unit=USD | filed=2025-05-15 | period_end=2025-03-31
+Assets: 12248123 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6989989 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2291174 | unit=USD | filed=2025-05-15 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1291120 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29340 | unit=USD | filed=2025-05-15 | period_end=2025-03-31

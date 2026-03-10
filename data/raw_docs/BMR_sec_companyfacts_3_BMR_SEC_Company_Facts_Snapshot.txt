@@ -1,0 +1,11 @@
+Company: Beamr Imaging Ltd. Ordinary Share
+Ticker: BMR
+CIK: 0001899005
+Latest SEC XBRL Facts:
+Revenues: 1068000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3094000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: -3185000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Assets: 19340000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+StockholdersEquity: 18240000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2472000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6293000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

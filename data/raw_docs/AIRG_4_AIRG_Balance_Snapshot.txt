@@ -1,0 +1,8 @@
+Company: Airgain Inc. Common Stock
+Ticker: AIRG
+Total Cash: 7358000
+Total Debt: 4701000
+Debt To Equity: 16.618
+Current Ratio: 1.984
+Quick Ratio: 1.551
+Book Value: 2.333

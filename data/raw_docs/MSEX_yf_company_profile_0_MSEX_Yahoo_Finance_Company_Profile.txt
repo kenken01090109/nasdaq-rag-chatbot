@@ -1,0 +1,9 @@
+Company: Middlesex Water Company Common Stock
+Ticker: MSEX
+Sector: Utilities
+Industry: Utilities - Regulated Water
+Country: United States
+City: Iselin
+Website: https://www.middlesexwater.com
+Employees: 395
+Business Summary: Middlesex Water Company owns and operates regulated water utility and wastewater systems in the United States. It operates in two segments, Regulated and Non-Regulated. The company collects, treats, and distributes water on a retail and wholesale basis to residential, commercial, industrial, and fire protection customers; and provides regulated wastewater system. It also provides non-regulated contract services for the operation and maintenance of municipal and private water and wastewater systems. Middlesex Water Company was incorporated in 1896 and is headquartered in Iselin, New Jersey.

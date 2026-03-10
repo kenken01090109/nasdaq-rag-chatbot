@@ -1,0 +1,10 @@
+Company: Inspira Technologies Oxy B.H.N. Ltd. Warrant
+Ticker: IINNW
+CIK: 0001837493
+Latest SEC XBRL Facts:
+Revenues: 289000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetIncomeLoss: -6398000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Assets: 4452000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+StockholdersEquity: 1278000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5087000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2126000 | unit=USD | filed=2025-10-01 | period_end=2025-06-30

@@ -1,0 +1,11 @@
+Company: C&F Financial Corporation Common Stock
+Ticker: CFFI
+CIK: 0000913341
+Latest SEC XBRL Facts:
+Revenues: 104957000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 20134000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2711292000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 2457405000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 253283000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22261000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 145329000 | unit=USD | filed=2014-11-10 | period_end=2014-09-30

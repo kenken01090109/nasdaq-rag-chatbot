@@ -1,0 +1,10 @@
+Company: Fidelity D & D Bancorp Inc. Common Stock
+Ticker: FDBC
+CIK: 0001098151
+Latest SEC XBRL Facts:
+NetIncomeLoss: 20258000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2736750000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2507503000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 229247000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 32684000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 142161000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

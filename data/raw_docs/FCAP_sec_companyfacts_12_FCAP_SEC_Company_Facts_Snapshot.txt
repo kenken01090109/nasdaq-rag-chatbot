@@ -1,0 +1,9 @@
+Company: First Capital Inc. Common Stock
+Ticker: FCAP
+CIK: 0001070296
+Latest SEC XBRL Facts:
+NetIncomeLoss: 11488000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1235477000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1102928000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 132441000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16052000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

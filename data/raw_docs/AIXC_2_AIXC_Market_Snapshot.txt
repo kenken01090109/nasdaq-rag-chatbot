@@ -1,0 +1,10 @@
+Company: AIxCrypto Holdings Inc. Common Stock
+Ticker: AIXC
+Market Cap: 5573215
+Enterprise Value: 6133224
+Trailing PE: 0.3789474
+Forward PE: 
+Price To Book: 1.35
+Beta: 0.415
+52 Week High: 8.81
+52 Week Low: 0.92

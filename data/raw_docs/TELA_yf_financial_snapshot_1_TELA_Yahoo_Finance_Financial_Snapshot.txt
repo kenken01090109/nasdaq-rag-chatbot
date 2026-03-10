@@ -1,0 +1,25 @@
+Company: TELA Bio Inc. Common Stock
+Ticker: TELA
+Market Cap: 39926080
+Enterprise Value: 48026244
+Total Revenue: 77055000
+Revenue Per Share: 1.749
+EBITDA: -34410000
+Gross Margins: 0.67727
+Operating Margins: -0.36512002
+Profit Margins: -0.50611
+Free Cashflow: -20064000
+Operating Cashflow: -30880000
+Return On Assets: -0.38678002
+Return On Equity: 
+Total Cash: 29713000
+Total Debt: 43574000
+Debt To Equity: 2798.587
+Current Ratio: 3.301
+Quick Ratio: 2.414
+Trailing PE: 
+Forward PE: -1.5300341
+Price To Book: 22.989744
+Beta: 0.889
+52 Week High: 2.478
+52 Week Low: 0.667

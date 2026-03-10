@@ -1,0 +1,12 @@
+Company: Micron Technology Inc. Common Stock
+Ticker: MU
+CIK: 0000723125
+Latest SEC XBRL Facts:
+Revenues: 30391000000 | unit=USD | filed=2018-10-15 | period_end=2018-08-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 13643000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27
+NetIncomeLoss: 5240000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27
+Assets: 85971000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27
+Liabilities: 27165000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27
+StockholdersEquity: 58806000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27
+NetCashProvidedByUsedInOperatingActivities: 8411000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27
+CashAndCashEquivalentsAtCarryingValue: 9731000000 | unit=USD | filed=2025-12-18 | period_end=2025-11-27

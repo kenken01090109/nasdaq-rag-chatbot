@@ -1,0 +1,10 @@
+Company: Alzamend Neuro Inc. Common Stock
+Ticker: ALZN
+CIK: 0001677077
+Latest SEC XBRL Facts:
+NetIncomeLoss: -3703442 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 5091684 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 717488 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 4374196 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -3534225 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 4449433 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

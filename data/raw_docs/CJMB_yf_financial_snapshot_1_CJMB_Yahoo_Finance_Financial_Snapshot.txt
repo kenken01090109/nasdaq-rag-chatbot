@@ -1,0 +1,25 @@
+Company: Callan JMB Inc. Common Stock
+Ticker: CJMB
+Market Cap: 8321448
+Enterprise Value: 7602677
+Total Revenue: 5914351
+Revenue Per Share: 1.494
+EBITDA: -5641734
+Gross Margins: 0.36678
+Operating Margins: -1.29873
+Profit Margins: -1.12749
+Free Cashflow: -1691551
+Operating Cashflow: -4610910
+Return On Assets: -0.51329
+Return On Equity: -1.55258
+Total Cash: 2789744
+Total Debt: 2070973
+Debt To Equity: 49.596
+Current Ratio: 3.604
+Quick Ratio: 3.137
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.9933554
+Beta: 
+52 Week High: 6.13
+52 Week Low: 1.082

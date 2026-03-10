@@ -1,0 +1,25 @@
+Company: Invivyd Inc. Common Stock
+Ticker: IVVD
+Market Cap: 507576672
+Enterprise Value: 316350048
+Total Revenue: 50039000
+Revenue Per Share: 0.377
+EBITDA: -60544000
+Gross Margins: 0.93343
+Operating Margins: -0.83959
+Profit Margins: -1.1963099
+Free Cashflow: -38007248
+Operating Cashflow: -80290000
+Return On Assets: -0.25838
+Return On Equity: -0.67937
+Total Cash: 84967000
+Total Debt: 2677000
+Debt To Equity: 2.876
+Current Ratio: 2.467
+Quick Ratio: 2.137
+Trailing PE: 
+Forward PE: -2.1686747
+Price To Book: 4.147465
+Beta: 0.615
+52 Week High: 3.07
+52 Week Low: 0.46

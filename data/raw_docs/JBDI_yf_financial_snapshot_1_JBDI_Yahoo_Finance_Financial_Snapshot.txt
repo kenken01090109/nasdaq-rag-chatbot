@@ -1,0 +1,25 @@
+Company: JBDI Holdings Limited Ordinary Shares
+Ticker: JBDI
+Market Cap: 12368891
+Enterprise Value: 13355282
+Total Revenue: 8084000
+Revenue Per Share: 0.426
+EBITDA: -868000
+Gross Margins: 0.37827998
+Operating Margins: -0.00245
+Profit Margins: -0.11752
+Free Cashflow: -267875
+Operating Cashflow: -1393000
+Return On Assets: -0.10339
+Return On Equity: -0.20121
+Total Cash: 2593000
+Total Debt: 1098000
+Debt To Equity: 27.574
+Current Ratio: 4.457
+Quick Ratio: 4.188
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.1100476
+Beta: 
+52 Week High: 3.0
+52 Week Low: 0.498

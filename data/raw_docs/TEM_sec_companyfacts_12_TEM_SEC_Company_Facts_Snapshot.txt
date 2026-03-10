@@ -1,0 +1,11 @@
+Company: Tempus AI Inc. Class A Common Stock
+Ticker: TEM
+CIK: 0001717115
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 904578000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -190862000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2281424000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1773600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 507824000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -181302000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 655918000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

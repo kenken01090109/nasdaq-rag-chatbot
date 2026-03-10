@@ -1,0 +1,11 @@
+Company: Solidion Technology Inc. Common Stock
+Ticker: STI
+CIK: 0001881551
+Latest SEC XBRL Facts:
+Revenues: 13350 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetIncomeLoss: 2988626 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Assets: 5085172 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Liabilities: 22492172 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+StockholdersEquity: -17407000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3607781 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 160506 | unit=USD | filed=2025-11-20 | period_end=2025-09-30

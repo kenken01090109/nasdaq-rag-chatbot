@@ -1,0 +1,9 @@
+Company: SAIHEAT Limited Class A Ordinary Shares
+Ticker: SAIH
+Sector: Technology
+Industry: Information Technology Services
+Country: Singapore
+City: Singapore
+Website: https://www.saiheat.com
+Employees: 34
+Business Summary: SAIHEAT Limited engages in the development of liquid cooling technologies for cryptocurrency assets. It provides SAIHUB CAB, an indoor cabinet that turns traditional air-cooled bitcoin mining machines into liquid-cooled bitcoin mining machines; ULTIWIT System, a series of outdoor infrastructure products; and advanced computing center ecosystem, a suite of liquid-cooling system that enable carbon-negative data center operations by repurposing waste computing heat. The company also offers mobile and resilient outdoor computing infrastructure units comprising WITBOX product line, including TANKBOX, RACKBOX, and HYDROBOX; HEATBOX, a product line that regulates, supplies, and controls recovered computing heat generated from computing servers; and USERBOX, a design and product that supports computing heat recovery applications. In addition, it provides bitcoin mining machine hosting and mining pool services; bitcoin mining machines; and engages in cryptocurrency mining operations comprising Bitcoins. The company was formerly known as SAI.TECH Global Corporation and changed its name to SAIHEAT Limited in August 2024. SAIHEAT Limited was founded in 2019 and is based in Singapore.

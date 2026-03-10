@@ -1,0 +1,9 @@
+Company: Golden Entertainment Inc. Common Stock
+Ticker: GDEN
+Sector: Consumer Cyclical
+Industry: Resorts & Casinos
+Country: United States
+City: Las Vegas
+Website: https://www.goldenent.com
+Employees: 4900
+Business Summary: Golden Entertainment, Inc. operates a diversified entertainment platform of gaming and hospitality assets. The Company operates eight casinos and 72 gaming taverns in Nevada, featuring approximately 5,600 slots, 80 table games and 6,000 hotel rooms.

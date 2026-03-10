@@ -1,0 +1,11 @@
+Company: World Acceptance Corporation Common Stock
+Ticker: WRLD
+CIK: 0000108385
+Latest SEC XBRL Facts:
+Revenues: 408169899 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -1513460 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 1142378711 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 790776529 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 351602182 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 164754098 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 10000070 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

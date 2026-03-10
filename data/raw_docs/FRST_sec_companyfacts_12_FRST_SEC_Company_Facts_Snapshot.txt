@@ -1,0 +1,10 @@
+Company: Primis Financial Corp. Common Stock
+Ticker: FRST
+CIK: 0001325670
+Latest SEC XBRL Facts:
+NetIncomeLoss: 31903000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 3954849000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3572696000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 382153000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17968000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63881000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: K&F Growth Acquisition Corp. II Rights
+Ticker: KFIIR
+CIK: 0002029976
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7527658 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 297929599 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 10140752 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -9222110 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -715102 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 711443 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

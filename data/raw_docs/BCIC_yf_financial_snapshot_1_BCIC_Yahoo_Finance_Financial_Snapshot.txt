@@ -1,0 +1,25 @@
+Company: BCP Investment Corporation Common Stock
+Ticker: BCIC
+Market Cap: 130863936
+Enterprise Value: 468232896
+Total Revenue: 58080000
+Revenue Per Share: 5.776
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.75829005
+Profit Margins: 0.28392
+Free Cashflow: 19278500
+Operating Cashflow: 61552000
+Return On Assets: 0.05077
+Return On Equity: 0.078660004
+Total Cash: 2844000
+Total Debt: 321688992
+Debt To Equity: 139.076
+Current Ratio: 1.664
+Quick Ratio: 0.68
+Trailing PE: 6.3589745
+Forward PE: 5.4655647
+Price To Book: 0.56511337
+Beta: 0.314
+52 Week High: 17.08
+52 Week Low: 9.9

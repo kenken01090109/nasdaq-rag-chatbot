@@ -1,0 +1,25 @@
+Company: Antalpha Platform Holding Company Class A Ordinary Shares
+Ticker: ANTA
+Market Cap: 185631600
+Enterprise Value: 1040717120
+Total Revenue: 65033104
+Revenue Per Share: 3.104
+EBITDA: 3224336
+Gross Margins: 0.91031
+Operating Margins: 0.08016
+Profit Margins: 0.16629
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00112
+Return On Equity: 0.13385999
+Total Cash: 6618611
+Total Debt: 849628608
+Debt To Equity: 779.636
+Current Ratio: 1.087
+Quick Ratio: 0.018
+Trailing PE: 17.043478
+Forward PE: 12.061539
+Price To Book: 1.7032369
+Beta: 
+52 Week High: 27.72
+52 Week Low: 7.79

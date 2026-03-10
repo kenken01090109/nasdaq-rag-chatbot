@@ -1,0 +1,9 @@
+Company: Capital Bancorp Inc. Common Stock
+Ticker: CBNK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Rockville
+Website: https://capitalbankmd.com
+Employees: 
+Business Summary: Capital Bancorp, Inc. operates as the bank holding company for Capital Bank, N.A. that provides various banking products and services to businesses, not-for-profit associations, and entrepreneurs in Maryland, Virginia, and the District of Columbia. It operates through four divisions: Commercial Banking, Capital Bank Home Loans, OpenSky, Windsor Advantage. The company offers a range of deposit products, including checking and savings, time, interest bearing and noninterest-bearing demand, and money market accounts, as well as certificates of deposit; and secured, partially secured, and unsecured credit cards. It also originates residential mortgages; issues trust preferred securities; and provides residential and commercial real estate, construction, and commercial and industrial loans; servicing, processing, and packaging of Small Business Administration and U.S. Department of Agriculture loans; as well as other consumer loans, such as term loans, car loans, and boat loans to small to medium-sized businesses, professionals, real estate investors, small residential builders and individuals, and financial institution clients, including Capital Bank. Capital Bancorp, Inc. was founded in 1974 and is headquartered in Rockville, Maryland.

@@ -1,0 +1,25 @@
+Company: WEBTOON Entertainment Inc. Common stock
+Ticker: WBTN
+Market Cap: 1295628928
+Enterprise Value: 769522496
+Total Revenue: 1382705024
+Revenue Per Share: 10.622
+EBITDA: -28080000
+Gross Margins: 0.23301001
+Operating Margins: -0.04003
+Profit Margins: -0.25018
+Free Cashflow: 17747624
+Operating Cashflow: 11216000
+Return On Assets: -0.02248
+Return On Equity: -0.26817
+Total Cash: 581806016
+Total Debt: 23672000
+Debt To Equity: 1.927
+Current Ratio: 2.609
+Quick Ratio: 2.396
+Trailing PE: 
+Forward PE: 25.552631
+Price To Book: 1.0849162
+Beta: 
+52 Week High: 22.47
+52 Week Low: 6.75

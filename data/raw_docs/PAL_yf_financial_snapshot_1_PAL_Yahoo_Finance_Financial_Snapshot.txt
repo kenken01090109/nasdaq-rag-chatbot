@@ -1,0 +1,25 @@
+Company: Proficient Auto Logistics Inc. Common Stock
+Ticker: PAL
+Market Cap: 182596288
+Enterprise Value: 268949536
+Total Revenue: 430425184
+Revenue Per Share: 15.607
+EBITDA: 34099832
+Gross Margins: 0.18289
+Operating Margins: -0.020769998
+Profit Margins: -0.0777
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.0061000003
+Return On Equity: -0.1026
+Total Cash: 14285745
+Total Debt: 87278296
+Debt To Equity: 27.799
+Current Ratio: 1.15
+Quick Ratio: 0.963
+Trailing PE: 
+Forward PE: 9.791044
+Price To Book: 0.5815603
+Beta: 
+52 Week High: 10.97
+52 Week Low: 5.76

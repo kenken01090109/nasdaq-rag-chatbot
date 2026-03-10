@@ -1,0 +1,9 @@
+Company: Electro-Sensors Inc. Common Stock
+Ticker: ELSE
+CIK: 0000351789
+Latest SEC XBRL Facts:
+NetIncomeLoss: 203000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 15737000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 14688000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 642000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10571000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Arbutus Biopharma Corporation Common Stock
+Ticker: ABUS
+Market Cap: 903922816
+Enterprise Value: 814826880
+Trailing PE: 
+Forward PE: -28.2525
+Price To Book: 11.662531
+Beta: 0.737
+52 Week High: 5.1
+52 Week Low: 2.71

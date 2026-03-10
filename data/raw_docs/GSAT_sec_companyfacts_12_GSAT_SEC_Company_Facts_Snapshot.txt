@@ -1,0 +1,12 @@
+Company: Globalstar Inc. Common Stock
+Ticker: GSAT
+CIK: 0001366868
+Latest SEC XBRL Facts:
+Revenues: 31835000 | unit=USD | filed=2020-02-28 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 201025000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 2967000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2162350000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1797525000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 364825000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 445762000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 346293000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

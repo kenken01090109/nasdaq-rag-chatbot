@@ -1,0 +1,11 @@
+Company: RxSight Inc. Common Stock
+Ticker: RXST
+CIK: 0001111485
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 101871000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -29792000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 308533000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 32563000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 275970000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14395000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29633000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

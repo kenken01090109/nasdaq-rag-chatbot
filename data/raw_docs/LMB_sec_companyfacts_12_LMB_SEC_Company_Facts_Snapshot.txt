@@ -1,0 +1,11 @@
+Company: Limbach Holdings Inc. Common Stock
+Ticker: LMB
+CIK: 0001606163
+Latest SEC XBRL Facts:
+Revenues: 459932000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 26764000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 409117000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 227555000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 181562000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 17571000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9818000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

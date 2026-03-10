@@ -1,0 +1,25 @@
+Company: Perdoceo Education Corporation Common Stock
+Ticker: PRDO
+Market Cap: 2213336320
+Enterprise Value: 1642906880
+Total Revenue: 846096000
+Revenue Per Share: 13.056
+EBITDA: 237632992
+Gross Margins: 0.79551005
+Operating Margins: 0.19808
+Profit Margins: 0.189
+Free Cashflow: 167204128
+Operating Cashflow: 225240000
+Return On Assets: 0.0986
+Return On Equity: 0.16555001
+Total Cash: 622180992
+Total Debt: 118331000
+Debt To Equity: 12.169
+Current Ratio: 5.057
+Quick Ratio: 4.749
+Trailing PE: 14.2190075
+Forward PE: 10.522936
+Price To Book: 2.2108712
+Beta: 0.918
+52 Week High: 38.02
+52 Week Low: 23.87

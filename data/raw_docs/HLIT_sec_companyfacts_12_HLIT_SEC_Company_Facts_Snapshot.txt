@@ -1,0 +1,12 @@
+Company: Harmonic Inc. Common Stock
+Ticker: HLIT
+CIK: 0000851310
+Latest SEC XBRL Facts:
+Revenues: 120222000 | unit=USD | filed=2014-02-28 | period_end=2013-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 413544000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26
+NetIncomeLoss: 11505000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26
+Assets: 758595000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26
+Liabilities: 315584000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26
+StockholdersEquity: 443011000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 95678000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 127376000 | unit=USD | filed=2025-11-04 | period_end=2025-09-26

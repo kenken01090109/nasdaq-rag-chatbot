@@ -1,0 +1,12 @@
+Company: Tilray Brands Inc. Common Stock
+Ticker: TLRY
+CIK: 0001731348
+Latest SEC XBRL Facts:
+Revenues: 120043000 | unit=USD | filed=2019-11-13 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 427008000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetIncomeLoss: -45253000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Assets: 2098599000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Liabilities: 552090000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+StockholdersEquity: 1579827000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -9878000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 246703000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30

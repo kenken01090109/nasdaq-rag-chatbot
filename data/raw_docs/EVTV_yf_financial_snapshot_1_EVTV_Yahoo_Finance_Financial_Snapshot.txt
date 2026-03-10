@@ -1,0 +1,25 @@
+Company: Envirotech Vehicles Inc. Common Stock
+Ticker: EVTV
+Market Cap: 6326664
+Enterprise Value: 10608124
+Total Revenue: 3696856
+Revenue Per Share: 1.471
+EBITDA: -12259564
+Gross Margins: -0.31022
+Operating Margins: -1.52411
+Profit Margins: 0.0
+Free Cashflow: -1197590
+Operating Cashflow: -6951589
+Return On Assets: -0.40291
+Return On Equity: -2.6775901
+Total Cash: 77595
+Total Debt: 3972693
+Debt To Equity: 213.345
+Current Ratio: 0.969
+Quick Ratio: 0.164
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.9705212
+Beta: 0.822
+52 Week High: 5.07
+52 Week Low: 0.332

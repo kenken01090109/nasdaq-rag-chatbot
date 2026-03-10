@@ -1,0 +1,9 @@
+Company: M3-Brigade Acquisition VI Corp. Warrant
+Ticker: MBVIW
+CIK: 0002073928
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1025286 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 348175977 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 17274525 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -15366614 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -351137 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

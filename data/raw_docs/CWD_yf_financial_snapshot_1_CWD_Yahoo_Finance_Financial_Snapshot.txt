@@ -1,0 +1,25 @@
+Company: CaliberCos Inc. Class A Common Stock
+Ticker: CWD
+Market Cap: 9183838
+Enterprise Value: 61539112
+Total Revenue: 24657000
+Revenue Per Share: 15.969
+EBITDA: -8737000
+Gross Margins: -0.11413
+Operating Margins: -0.51265
+Profit Margins: -1.03277
+Free Cashflow: 43329752
+Operating Cashflow: -6769000
+Return On Assets: -0.06041
+Return On Equity: -0.74559
+Total Cash: 10978000
+Total Debt: 62648000
+Debt To Equity: 1029.21
+Current Ratio: 1.933
+Quick Ratio: 1.047
+Trailing PE: 
+Forward PE: -5.115385
+Price To Book: 1.7272729
+Beta: -0.303
+52 Week High: 48.0
+52 Week Low: 1.05

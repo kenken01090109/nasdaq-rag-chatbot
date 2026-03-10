@@ -1,0 +1,10 @@
+Company: Trustmark Corporation Common Stock
+Ticker: TRMK
+CIK: 0000036146
+Latest SEC XBRL Facts:
+NetIncomeLoss: 166261000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 18801510000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 16687242000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 2114268000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 186267000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 404413000 | unit=USD | filed=2019-08-06 | period_end=2019-06-30

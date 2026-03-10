@@ -1,0 +1,11 @@
+Company: UFP Technologies Inc. Common Stock
+Ticker: UFPT
+CIK: 0000914156
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 453882000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 50747000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 652821000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 248908000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 403913000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 75066000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18226000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Seer Inc. Class A Common Stock
+Ticker: SEER
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://seer.bio
+Employees: 
+Business Summary: Seer, Inc., a life sciences company, develops and commercializes products to decode the biology of the proteome. The company offers Proteograph Product Suite, an integrated solution that includes proprietary engineered nanoparticles, consumables, automation instrumentation, and data analysis software to perform proteomic analysis to provide a solution that can be incorporated by nearly any lab for research use only. It markets and sells its products for research use only, which cover academic institutions, life sciences, and research laboratories, as well as biopharmaceutical and biotechnology companies for non-diagnostic and non-clinical purposes. The company operates in China, Australia, Eastern Europe, Israel, Japan and South Africa. The company was formerly known as Seer Biosciences, Inc. and changed its name to Seer, Inc. in July 2018. Seer, Inc. was incorporated in 2017 and is headquartered in Redwood City, California.

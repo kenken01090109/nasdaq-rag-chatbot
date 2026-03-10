@@ -1,0 +1,9 @@
+Company: Yueda Digital Holding Class A Ordinary Share
+Ticker: YDKG
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: China
+City: Beijing
+Website: https://ir.yuedaholding.com
+Employees: 17
+Business Summary: Yueda Digital Holding focuses on identifying and evaluating potential partnerships across financial technology and blockchain ecosystems and developing bitcoin and ether treasury framework. The company was formerly known as AirNet Technology Inc. and changed its name to Yueda Digital Holding in September 2025. Yueda Digital Holding was founded in 2005 and is based in Beijing, the People's Republic of China.

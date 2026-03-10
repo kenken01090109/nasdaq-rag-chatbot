@@ -1,0 +1,25 @@
+Company: Dave & Buster's Entertainment Inc. Common Stock
+Ticker: PLAY
+Market Cap: 484483296
+Enterprise Value: 4057383424
+Total Revenue: 2107699968
+Revenue Per Share: 59.738
+EBITDA: 417000000
+Gross Margins: 0.40181
+Operating Margins: -0.033689998
+Profit Margins: 0.00014
+Free Cashflow: -242650000
+Operating Cashflow: 296700000
+Return On Assets: 0.02503
+Return On Equity: 0.00168
+Total Cash: 13600000
+Total Debt: 3586500096
+Debt To Equity: 2741.972
+Current Ratio: 0.323
+Quick Ratio: 0.166
+Trailing PE: 
+Forward PE: 14.413206
+Price To Book: 3.701643
+Beta: 1.754
+52 Week High: 35.53
+52 Week Low: 13.04

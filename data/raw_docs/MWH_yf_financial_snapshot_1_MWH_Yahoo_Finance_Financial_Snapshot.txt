@@ -1,0 +1,25 @@
+Company: SOLV Energy Inc. Class A Common Stock
+Ticker: MWH
+Market Cap: 5475341312
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 40.969696
+Forward PE: 
+Price To Book: 
+Beta: 
+52 Week High: 33.0
+52 Week Low: 26.6

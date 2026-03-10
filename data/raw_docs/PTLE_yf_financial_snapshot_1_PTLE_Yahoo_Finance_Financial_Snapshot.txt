@@ -1,0 +1,25 @@
+Company: PTL LTD Class A Ordinary Shares
+Ticker: PTLE
+Market Cap: 60989432
+Enterprise Value: 1778051
+Total Revenue: 91415728
+Revenue Per Share: 405.915
+EBITDA: 
+Gross Margins: 0.01985
+Operating Margins: 0.04072
+Profit Margins: -0.044710003
+Free Cashflow: -6680731
+Operating Cashflow: -8418697
+Return On Assets: -0.19002001
+Return On Equity: -0.81008005
+Total Cash: 2687406
+Total Debt: 18500
+Debt To Equity: 0.22
+Current Ratio: 2.94
+Quick Ratio: 2.674
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5402849
+Beta: 
+52 Week High: 156.0
+52 Week Low: 7.2

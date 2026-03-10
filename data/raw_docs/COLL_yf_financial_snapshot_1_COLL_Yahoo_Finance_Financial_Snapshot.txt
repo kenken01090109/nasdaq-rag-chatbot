@@ -1,0 +1,25 @@
+Company: Collegium Pharmaceutical Inc. Common Stock
+Ticker: COLL
+Market Cap: 1184077312
+Enterprise Value: 1733825280
+Total Revenue: 780566976
+Revenue Per Share: 24.619
+EBITDA: 419164000
+Gross Margins: 0.88472
+Operating Margins: 0.30038
+Profit Margins: 0.08054
+Free Cashflow: 321544256
+Operating Cashflow: 329323008
+Return On Assets: 0.07269
+Return On Equity: 0.23701
+Total Cash: 386679008
+Total Debt: 936427008
+Debt To Equity: 310.409
+Current Ratio: 1.571
+Quick Ratio: 1.359
+Trailing PE: 21.554914
+Forward PE: 6.1156216
+Price To Book: 3.9194872
+Beta: 0.676
+52 Week High: 50.787
+52 Week Low: 23.23

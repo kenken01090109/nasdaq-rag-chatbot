@@ -1,0 +1,25 @@
+Company: A2Z Cust2Mate Solutions Corp. Common Shares
+Ticker: AZ
+Market Cap: 227643536
+Enterprise Value: 162915200
+Total Revenue: 7463000
+Revenue Per Share: 0.227
+EBITDA: -21106000
+Gross Margins: 0.24427
+Operating Margins: -2.65869
+Profit Margins: 0.0
+Free Cashflow: -8099250
+Operating Cashflow: -17118000
+Return On Assets: -0.28971002
+Return On Equity: -0.89371
+Total Cash: 70407000
+Total Debt: 2069000
+Debt To Equity: 2.903
+Current Ratio: 8.575
+Quick Ratio: 8.094
+Trailing PE: 
+Forward PE: -11.081632
+Price To Book: 3.136915
+Beta: 1.57
+52 Week High: 12.36
+52 Week Low: 4.998

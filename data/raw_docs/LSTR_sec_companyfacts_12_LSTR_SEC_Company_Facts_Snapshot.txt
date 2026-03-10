@@ -1,0 +1,11 @@
+Company: Landstar System Inc. Common Stock
+Ticker: LSTR
+CIK: 0000853816
+Latest SEC XBRL Facts:
+Revenues: 3569291000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 3569291000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+NetIncomeLoss: 91063000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+Assets: 1662196000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+StockholdersEquity: 888704000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 152169000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 375191000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27

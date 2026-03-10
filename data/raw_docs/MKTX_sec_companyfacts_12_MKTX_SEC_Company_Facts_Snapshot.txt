@@ -1,0 +1,12 @@
+Company: MarketAxess Holdings Inc. Common Stock
+Ticker: MKTX
+CIK: 0001278021
+Latest SEC XBRL Facts:
+Revenues: 114714000 | unit=USD | filed=2018-04-26 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 636859000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 154390000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2013908000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 623725000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1378450000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 223507000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 473299000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

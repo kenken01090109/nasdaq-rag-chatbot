@@ -1,0 +1,10 @@
+Company: AirJoule Technologies Corporation Class A Common Stock
+Ticker: AIRJ
+Market Cap: 237148208
+Enterprise Value: 186503296
+Trailing PE: 
+Forward PE: -11.412919
+Price To Book: 0.7399577
+Beta: 0.447
+52 Week High: 8.3
+52 Week Low: 2.61

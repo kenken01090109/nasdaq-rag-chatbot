@@ -1,0 +1,9 @@
+Company: Amesite Inc. Common Stock
+Ticker: AMST
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Detroit
+Website: https://www.amesite.com
+Employees: 6
+Business Summary: Amesite Inc., a technology company, engages in the marketing and development of B2C and B2B AI-driven solutions in the United States. Its products include Amesite Engage, that leverages proprietary AI infrastructure, offering cutting-edge applications that cater to both individual and professional needs; and NurseMagic, mobile healthcare app, streamlines creation of nursing notes and documentation tasks, enhances patient communication, and offers personalized guidance to nurses on patient care, medications, and handling challenging workplace situation. Amesite Inc. was founded in 2017 and is headquartered in Detroit, Michigan.

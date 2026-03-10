@@ -1,0 +1,9 @@
+Company: Barinthus Biotherapeutics plc American Depositary Shares
+Ticker: BRNS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: Didcot
+Website: https://www.barinthusbio.com
+Employees: 105
+Business Summary: Barinthus Biotherapeutics plc, a clinical-stage biopharmaceutical company, focuses on developing immunotherapeutic drug candidates for treating auto-immune and inflammatory diseases. Its lead candidate is VTP-1000, which is in Phase 1 clinical trial to restore immune non-responsiveness to gluten in patients with celiac disease. The company is also developing VTP-300, an immunotherapeutic targeting chronic hepatitis B virus infection; VTP-200, a potential non-invasive treatment for persistent high-risk human papillomavirus; VTP-850, an immunotherapeutic candidate for prostate cancer; VTP-600, an immunotherapeutic candidate targeting MAGE-A3 and NY-ESO1 antigens; VTP-500, a prophylactic vaccine candidate to prevent middle east respiratory syndrome; VTP-400, a prophylactic vaccine candidate for shingles; and Vaxzevria, a prophylactic vaccine for the prevention of COVID-19 infection. The company was formerly known as Vaccitech plc and changed its name to Barinthus Biotherapeutics plc in November 2023. Barinthus Biotherapeutics plc was founded in 2016 and is headquartered in Didcot, the United Kingdom.

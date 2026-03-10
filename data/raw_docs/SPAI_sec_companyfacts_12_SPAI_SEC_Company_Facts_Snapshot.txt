@@ -1,0 +1,10 @@
+Company: Safe Pro Group Inc. Common Stock
+Ticker: SPAI
+CIK: 0002011208
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 378977 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -10889934 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 9695387 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1256051 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 8439336 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3549597 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: SunPower Inc. Warrants
+Ticker: SPWRW
+Sector: 
+Industry: 
+Country: United States
+City: Fremont
+Website: https://us.sunpower.com
+Employees: 600
+Business Summary: SunPower Inc. engages in the provision of solar system sales and installation in the United States. It operates through Residential Solar Installation and New Homes Business segments. The company also installs storage and batteries. In addition, it offers a technology platform, financing solutions, and solar modules. The company sells its products to homeowners, home builders, and small to medium-sized commercial customers through third-party sales partners. The company was formerly known as Complete Solaria, Inc. and changed its name to SunPower Inc. in October 2025. SunPower Inc. is headquartered in Fremont, California.

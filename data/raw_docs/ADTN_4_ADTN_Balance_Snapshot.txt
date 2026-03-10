@@ -1,0 +1,8 @@
+Company: ADTRAN Holdings Inc. Common Stock
+Ticker: ADTN
+Total Cash: 95696000
+Total Debt: 252130000
+Debt To Equity: 48.565
+Current Ratio: 1.755
+Quick Ratio: 0.876
+Book Value: 1.825

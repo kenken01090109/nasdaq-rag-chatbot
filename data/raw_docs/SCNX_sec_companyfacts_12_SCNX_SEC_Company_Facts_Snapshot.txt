@@ -1,0 +1,12 @@
+Company: Scienture Holdings Inc. Common Stock
+Ticker: SCNX
+CIK: 0001382574
+Latest SEC XBRL Facts:
+Revenues: 1512521 | unit=USD | filed=2019-05-13 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 600308 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -13391931 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 104830290 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 22160659 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 82669631 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8204389 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3498812 | unit=USD | filed=2024-06-26 | period_end=2024-03-31

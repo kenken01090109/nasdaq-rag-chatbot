@@ -1,0 +1,25 @@
+Company: GoHealth Inc. Class A Common Stock
+Ticker: GOCO
+Market Cap: 49388080
+Enterprise Value: 592802304
+Total Revenue: 738337984
+Revenue Per Share: 64.475
+EBITDA: 58718000
+Gross Margins: 0.80495
+Operating Margins: -2.39145
+Profit Margins: -0.26955
+Free Cashflow: 43851752
+Operating Cashflow: -68269000
+Return On Assets: -0.02098
+Return On Equity: -1.71077
+Total Cash: 32076000
+Total Debt: 616718016
+Debt To Equity: 1259.328
+Current Ratio: 1.636
+Quick Ratio: 1.567
+Trailing PE: 
+Forward PE: -0.4398977
+Price To Book: 0.40451553
+Beta: 1.731
+52 Week High: 16.0
+52 Week Low: 1.31

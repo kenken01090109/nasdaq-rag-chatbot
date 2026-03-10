@@ -1,0 +1,9 @@
+Company: Atrium Therapeutics Inc. Common Stock
+Ticker: RNA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: 
+Employees: 
+Business Summary: Atrium Therapeutics, Inc., a biopharmaceutical company, focuses on delivery of RNA therapeutics to the heart to transform the care for people living with cardiomyopathies. The company offers ATR 1072, is a potentially disease-modifying treatment for PRKAG2 syndrome; ATR 1086 for phospholamban (PLN) cardiomyopathy. The company also provides cardiac disease pipeline, includes PRKAG2 syndrome, PLN cardiomyopathy. The company was formerly known as Bryce Therapeutics, Inc. Atrium Therapeutics, Inc. was incorporated in 2025 and is headquartered in San Diego, California. Atrium Therapeutics, Inc. operates as a subsidiary of Avidity Biosciences, Inc.

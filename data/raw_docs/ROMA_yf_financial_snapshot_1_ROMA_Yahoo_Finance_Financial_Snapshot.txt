@@ -1,0 +1,25 @@
+Company: Roma Green Finance Limited Class A Ordinary Shares
+Ticker: ROMA
+Market Cap: 169163376
+Enterprise Value: 121371128
+Total Revenue: 12761053
+Revenue Per Share: 0.429
+EBITDA: -29930688
+Gross Margins: 0.35985002
+Operating Margins: -5.00839
+Profit Margins: -2.1916702
+Free Cashflow: -36913428
+Operating Cashflow: -19050020
+Return On Assets: -0.24449
+Return On Equity: -0.38866
+Total Cash: 20988196
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 42.318
+Quick Ratio: 13.035
+Trailing PE: 
+Forward PE: 
+Price To Book: 15.606079
+Beta: 2.381
+52 Week High: 8.88
+52 Week Low: 0.671

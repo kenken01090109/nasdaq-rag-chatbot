@@ -1,0 +1,9 @@
+Company: Rank One Computing Corporation Common stock
+Ticker: ROC
+Sector: 
+Industry: 
+Country: 
+City: 
+Website: 
+Employees: 
+Business Summary: 

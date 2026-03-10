@@ -1,0 +1,9 @@
+Company: CuriosityStream Inc. Class A Common Stock
+Ticker: CURI
+Sector: Communication Services
+Industry: Broadcasting
+Country: United States
+City: Silver Spring
+Website: https://www.curiositystream.com
+Employees: 45
+Business Summary: CuriosityStream Inc., a media and entertainment company, provides factual content through multiple channels. The company provides video and audio programming services in various categories of factual entertainment, including science, history, society, nature, lifestyle, and technology through direct subscription video on-demand (SVoD) platforms accessible by internet connected devices, or indirectly through distribution partners who deliver CuriosityStream content via distributor's platform or system, as well as through bundled content licenses for SVoD and linear offerings, talks and courses, and partner bulk sales. It offers streaming content through a host of screen and devices, including televisions, set-top boxes, computers, streaming media players, game consoles, and mobile devices. The company is based in Silver Spring, Maryland.

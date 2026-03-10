@@ -1,0 +1,10 @@
+Company: Cerence Inc. Common Stock
+Ticker: CRNC
+CIK: 0001768267
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 115076000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -5239000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 602043000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 451602000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 150441000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 37894000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

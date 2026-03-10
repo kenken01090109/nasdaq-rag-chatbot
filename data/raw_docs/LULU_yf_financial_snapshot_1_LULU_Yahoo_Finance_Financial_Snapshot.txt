@@ -1,0 +1,25 @@
+Company: lululemon athletica inc. Common Stock
+Ticker: LULU
+Market Cap: 20175575040
+Enterprise Value: 21041985536
+Total Revenue: 11073296384
+Revenue Per Share: 92.221
+EBITDA: 2935789056
+Gross Margins: 0.58413
+Operating Margins: 0.16988
+Profit Margins: 0.15720001
+Free Cashflow: 884945152
+Operating Cashflow: 1860995968
+Return On Assets: 0.20285
+Return On Equity: 0.41017
+Total Cash: 1035862016
+Total Debt: 1762793984
+Debt To Equity: 39.156
+Current Ratio: 2.13
+Quick Ratio: 0.698
+Trailing PE: 11.839249
+Forward PE: 13.462197
+Price To Book: 4.455648
+Beta: 1.013
+52 Week High: 348.5
+52 Week Low: 159.25

@@ -1,0 +1,25 @@
+Company: Alliance Entertainment Holding Corporation Class A Common Stock
+Ticker: AENT
+Market Cap: 358739872
+Enterprise Value: 464583872
+Total Revenue: 1063480000
+Revenue Per Share: 20.87
+EBITDA: 47569000
+Gross Margins: 0.14039
+Operating Margins: 0.04636
+Profit Margins: 0.020569999
+Free Cashflow: -7181625
+Operating Cashflow: -622000
+Return On Assets: 0.06307
+Return On Equity: 0.2053
+Total Cash: 1379000
+Total Debt: 107223000
+Debt To Equity: 91.188
+Current Ratio: 1.348
+Quick Ratio: 0.754
+Trailing PE: 16.372093
+Forward PE: 10.352941
+Price To Book: 3.0515823
+Beta: 0.513
+52 Week High: 8.8
+52 Week Low: 2.21

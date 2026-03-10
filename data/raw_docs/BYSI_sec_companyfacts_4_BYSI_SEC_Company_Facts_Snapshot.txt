@@ -1,0 +1,10 @@
+Company: BeyondSpring Inc. Ordinary Shares
+Ticker: BYSI
+CIK: 0001677940
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1131000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 29484000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 49294000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -31775000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14265000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12483000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Slide Insurance Holdings Inc. Common Stock
+Ticker: SLDE
+Market Cap: 2296875520
+Enterprise Value: 1262686848
+Total Revenue: 1155901056
+Revenue Per Share: 12.379
+EBITDA: 605313024
+Gross Margins: 0.67572
+Operating Margins: 0.64238
+Profit Margins: 0.38408002
+Free Cashflow: 710651392
+Operating Cashflow: 797432000
+Return On Assets: 0.15279001
+Return On Equity: 0.57418
+Total Cash: 1201209984
+Total Debt: 43398000
+Debt To Equity: 3.898
+Current Ratio: 1.696
+Quick Ratio: 1.027
+Trailing PE: 5.5
+Forward PE: 5.5009823
+Price To Book: 2.0565324
+Beta: 
+52 Week High: 25.9
+52 Week Low: 12.53

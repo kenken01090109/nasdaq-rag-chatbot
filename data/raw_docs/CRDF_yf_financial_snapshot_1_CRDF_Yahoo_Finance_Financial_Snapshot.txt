@@ -1,0 +1,25 @@
+Company: Cardiff Oncology Inc. Common Stock
+Ticker: CRDF
+Market Cap: 128526152
+Enterprise Value: 71054160
+Total Revenue: 593000
+Revenue Per Share: 0.009
+EBITDA: -48596000
+Gross Margins: 0.0
+Operating Margins: -32.20988
+Profit Margins: 0.0
+Free Cashflow: -19617000
+Operating Cashflow: -37923000
+Return On Assets: -0.38472998
+Return On Equity: -0.71454
+Total Cash: 58304000
+Total Debt: 832000
+Debt To Equity: 1.833
+Current Ratio: 3.668
+Quick Ratio: 3.586
+Trailing PE: 
+Forward PE: -2.6857142
+Price To Book: 2.8313253
+Beta: 1.369
+52 Week High: 4.56
+52 Week Low: 1.48

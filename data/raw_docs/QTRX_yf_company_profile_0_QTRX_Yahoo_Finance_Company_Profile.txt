@@ -1,0 +1,9 @@
+Company: Quanterix Corporation Common Stock
+Ticker: QTRX
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Billerica
+Website: https://www.quanterix.com
+Employees: 450
+Business Summary: Quanterix Corporation, a life sciences company in North America, Europe, the Middle East, Africa, and the Asia Pacific regions. The company offers HD-X instrument, a protein detection platform; and SR-X instrument that enables researchers to apply Simoa detection in an expanded range of applications. It also provides SP-X instrument that is based on Simoa planar array technology for the measurement of multiplex chemiluminescent immunoassays. The company's products include assays include all components required to run enzyme-based immunoassay, such as beads, capture and detector reagents, and enzyme reagents and substrate; and replacement parts, reagents, and antibodies. In addition, the company offers contract research services, including sample testing, homebrew assay development, custom assay development, lucent diagnostic, and LDT testing services. The company primarily operates in the areas of neurology, oncology and immunology, and inflammation. It sells its products for the life science research sector primarily to laboratories associated with academic and governmental research institutions, as well as pharmaceutical, biotechnology, and contract research companies through a direct field sale, support organizations, and distributors or sales agents. The company was formerly known as Digital Genomics, Inc. and changed its name to Quanterix Corporation in August 2007. Quanterix Corporation was incorporated in 2007 and is headquartered in Billerica, Massachusetts.

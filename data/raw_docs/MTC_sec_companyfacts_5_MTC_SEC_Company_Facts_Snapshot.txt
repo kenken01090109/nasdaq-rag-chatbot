@@ -1,0 +1,11 @@
+Company: MMTec Inc. Common Shares
+Ticker: MTC
+CIK: 0001742518
+Latest SEC XBRL Facts:
+Revenues: 807500 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+NetIncomeLoss: -46428612 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+Assets: 20299963 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+Liabilities: 40122279 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+StockholdersEquity: -19822316 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1682832 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 10189444 | unit=USD | filed=2025-09-10 | period_end=2025-06-30

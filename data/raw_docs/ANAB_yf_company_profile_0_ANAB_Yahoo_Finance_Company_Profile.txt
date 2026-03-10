@@ -1,0 +1,9 @@
+Company: AnaptysBio Inc. Common Stock
+Ticker: ANAB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.anaptysbio.com
+Employees: 
+Business Summary: AnaptysBio, Inc., a clinical-stage biotechnology company, focuses in delivering immunology therapeutics for autoimmune and inflammatory diseases in the United States. The company's products include Rosnilimab, a selective pathogenic T cell deplete which completed a Phase 2b trial for the treatment of moderate-to-severe rheumatoid arthritis; ANB033, a CD122 antagonist, which is in a Phase 1b trial for celiac disease and eosinophilic esophagitis; ANB101, a BDCA2 modulator antibody which is in Phase 1a trial that specifically targets plasmacytoid dendritic cells and inhibits interferon secretion and modulates antigen presentation; dostarlimab, a PD-1 antagonist for various solid tumor indications; and Imsidolimab, an antibody that inhibits the interleukin-36 receptor, which is in the Phase 3 development for the treatment of generalized pustular psoriasis. It focuses on developing various antibody programs that are advanced to preclinical and clinical milestones under its collaborations. It has collaborations agreement with GSK and Vanda. The company was formerly known as Anaptys Biosciences, Inc. and changed its name to AnaptysBio, Inc. in July 2006. AnaptysBio, Inc. was incorporated in 2005 and is based in San Diego, California.

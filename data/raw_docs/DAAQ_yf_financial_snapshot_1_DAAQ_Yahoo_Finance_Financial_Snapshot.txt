@@ -1,0 +1,25 @@
+Company: Digital Asset Acquisition Corp. Class A Ordinary shares
+Ticker: DAAQ
+Market Cap: 235289984
+Enterprise Value: 409836160
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1149892
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.89
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -40.756973
+Beta: 
+52 Week High: 11.24
+52 Week Low: 10.05

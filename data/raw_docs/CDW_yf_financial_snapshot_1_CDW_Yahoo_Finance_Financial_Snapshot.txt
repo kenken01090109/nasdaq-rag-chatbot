@@ -1,0 +1,25 @@
+Company: CDW Corporation Common Stock
+Ticker: CDW
+Market Cap: 16068501504
+Enterprise Value: 21589592064
+Total Revenue: 22424100864
+Revenue Per Share: 170.785
+EBITDA: 1967399936
+Gross Margins: 0.21733
+Operating Margins: 0.07309
+Profit Margins: 0.04756
+Free Cashflow: 920350016
+Operating Cashflow: 1205200000
+Return On Assets: 0.06806
+Return On Equity: 0.43018
+Total Cash: 618700032
+Total Debt: 6173100032
+Debt To Equity: 236.871
+Current Ratio: 1.176
+Quick Ratio: 1.058
+Trailing PE: 15.274753
+Forward PE: 10.9599695
+Price To Book: 6.1281033
+Beta: 1.046
+52 Week High: 192.3
+52 Week Low: 118.44

@@ -1,0 +1,12 @@
+Company: urban-gro Inc. Common Stock
+Ticker: UGRO
+CIK: 0001706524
+Latest SEC XBRL Facts:
+Revenues: 16915196 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9514075 | unit=USD | filed=2026-02-03 | period_end=2025-03-31
+NetIncomeLoss: -15077910 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+Assets: 3169481 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+Liabilities: 42076023 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+StockholdersEquity: -38906542 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 443087 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18605182 | unit=USD | filed=2022-11-10 | period_end=2022-09-30

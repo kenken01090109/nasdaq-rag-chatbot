@@ -1,0 +1,12 @@
+Company: Equinix Inc. Common Stock REIT
+Ticker: EQIX
+CIK: 0001101239
+Latest SEC XBRL Facts:
+Revenues: 5998545000 | unit=USD | filed=2021-02-19 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 6797000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 1085000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 38060000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 23880000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 14157000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2767000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2077000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

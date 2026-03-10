@@ -1,0 +1,25 @@
+Company: Tradeweb Markets Inc. Class A Common Stock
+Ticker: TW
+Market Cap: 27220221952
+Enterprise Value: 25380325376
+Total Revenue: 2050488064
+Revenue Per Share: 9.617
+EBITDA: 
+Gross Margins: 0.93741995
+Operating Margins: 0.42361
+Profit Margins: 0.39639
+Free Cashflow: 
+Operating Cashflow: 1167645952
+Return On Assets: 0.11923
+Return On Equity: 0.13563
+Total Cash: 1907922048
+Total Debt: 147266000
+Debt To Equity: 2.124
+Current Ratio: 4.845
+Quick Ratio: 4.727
+Trailing PE: 32.960316
+Forward PE: 27.720179
+Price To Book: 4.0670495
+Beta: 0.776
+52 Week High: 152.65
+52 Week Low: 97.055

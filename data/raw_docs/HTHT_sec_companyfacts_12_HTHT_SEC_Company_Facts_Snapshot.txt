@@ -1,0 +1,12 @@
+Company: H World Group Limited American Depositary Shares
+Ticker: HTHT
+CIK: 0001483994
+Latest SEC XBRL Facts:
+Revenues: 1650000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1464000000 | unit=USD | filed=2019-04-19 | period_end=2018-12-31
+NetIncomeLoss: 340000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+Assets: 9042000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+Liabilities: 7326000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+StockholdersEquity: 1696000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 452000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1416000000 | unit=USD | filed=2025-09-12 | period_end=2025-06-30

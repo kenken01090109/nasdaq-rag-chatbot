@@ -1,0 +1,8 @@
+Company: Advanced Energy Industries Inc. Common Stock
+Ticker: AEIS
+Total Cash: 791400000
+Total Debt: 679000000
+Debt To Equity: 49.824
+Current Ratio: 1.588
+Quick Ratio: 1.127
+Book Value: 36.053

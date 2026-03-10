@@ -1,0 +1,10 @@
+Company: Peoples Financial Services Corp. Common Stock
+Ticker: PFIS
+CIK: 0001056943
+Latest SEC XBRL Facts:
+NetIncomeLoss: 47211000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 5159636000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 4650376000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 509260000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38182000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35379000 | unit=USD | filed=2018-08-07 | period_end=2018-06-30

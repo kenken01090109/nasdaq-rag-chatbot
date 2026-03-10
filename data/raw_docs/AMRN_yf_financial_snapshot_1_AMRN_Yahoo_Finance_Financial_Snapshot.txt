@@ -1,0 +1,25 @@
+Company: Amarin Corporation plc
+Ticker: AMRN
+Market Cap: 292345152
+Enterprise Value: 5552451072
+Total Revenue: 213646000
+Revenue Per Share: 10.297
+EBITDA: -10839667
+Gross Margins: 0.56574
+Operating Margins: -0.045939997
+Profit Margins: -0.1816
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.01285
+Return On Equity: -0.08207
+Total Cash: 302588992
+Total Debt: 6080000
+Debt To Equity: 1.324
+Current Ratio: 3.342
+Quick Ratio: 2.208
+Trailing PE: 
+Forward PE: 12.017095
+Price To Book: 0.6367466
+Beta: 0.888
+52 Week High: 20.9
+52 Week Low: 7.0

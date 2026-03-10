@@ -1,0 +1,12 @@
+Company: Hasbro Inc. Common Stock
+Ticker: HAS
+CIK: 0000046080
+Latest SEC XBRL Facts:
+Revenues: 1590100000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 3255400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+NetIncomeLoss: -524000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+Assets: 5521800000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+Liabilities: 5088000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+StockholdersEquity: 1840907000 | unit=USD | filed=2019-10-22 | period_end=2019-09-29
+NetCashProvidedByUsedInOperatingActivities: 490000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 1181200000 | unit=USD | filed=2021-10-27 | period_end=2021-09-26

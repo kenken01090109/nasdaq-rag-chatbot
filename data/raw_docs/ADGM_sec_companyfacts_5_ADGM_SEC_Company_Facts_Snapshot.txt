@@ -1,0 +1,11 @@
+Company: Adagio Medical Holdings Inc Common Stock
+Ticker: ADGM
+CIK: 0002006986
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -21778000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 31546000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 32858000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -1312000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14876000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4673000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

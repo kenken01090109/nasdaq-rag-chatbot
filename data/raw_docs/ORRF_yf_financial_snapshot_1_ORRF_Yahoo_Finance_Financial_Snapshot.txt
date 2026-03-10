@@ -1,0 +1,25 @@
+Company: Orrstown Financial Services Inc. Common Stock
+Ticker: ORRF
+Market Cap: 687238912
+Enterprise Value: 881437760
+Total Revenue: 252079008
+Revenue Per Share: 13.128
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4707
+Profit Margins: 0.32075
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01472
+Return On Equity: 0.14592
+Total Cash: 149774000
+Total Debt: 336364992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.42823
+Forward PE: 8.039708
+Price To Book: 1.1617861
+Beta: 0.775
+52 Week High: 40.72
+52 Week Low: 25.57

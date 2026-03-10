@@ -1,0 +1,12 @@
+Company: Adial Pharmaceuticals Inc Common Stock
+Ticker: ADIL
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: -7854250
+Profit Margins: 0.0
+Free Cashflow: -3887925
+Operating Cashflow: -6621858
+Return On Assets: -0.79357004
+Return On Equity: -1.5501

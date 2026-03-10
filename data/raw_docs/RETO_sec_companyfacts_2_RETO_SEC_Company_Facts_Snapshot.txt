@@ -1,0 +1,11 @@
+Company: ReTo Eco-Solutions Inc. Class A Shares
+Ticker: RETO
+CIK: 0001687277
+Latest SEC XBRL Facts:
+Revenues: 1049341 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetIncomeLoss: -1380881 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Assets: 41405048 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Liabilities: 7192010 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+StockholdersEquity: 30368014 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1597331 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2459943 | unit=USD | filed=2025-10-17 | period_end=2025-06-30

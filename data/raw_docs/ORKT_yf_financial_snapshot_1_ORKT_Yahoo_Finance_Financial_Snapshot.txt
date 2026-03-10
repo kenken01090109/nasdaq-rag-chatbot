@@ -1,0 +1,25 @@
+Company: Orangekloud Technology Inc. Class A Ordinary Shares
+Ticker: ORKT
+Market Cap: 6190134
+Enterprise Value: 1158612
+Total Revenue: 4495773
+Revenue Per Share: 0.784
+EBITDA: -11194952
+Gross Margins: 0.30929002
+Operating Margins: -1.5444599
+Profit Margins: -2.41713
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.99934995
+Return On Equity: -2.17271
+Total Cash: 5562931
+Total Debt: 376776
+Debt To Equity: 4.056
+Current Ratio: 5.208
+Quick Ratio: 3.62
+Trailing PE: 
+Forward PE: -1.1041666
+Price To Book: 0.8426703
+Beta: 
+52 Week High: 3.956
+52 Week Low: 0.617

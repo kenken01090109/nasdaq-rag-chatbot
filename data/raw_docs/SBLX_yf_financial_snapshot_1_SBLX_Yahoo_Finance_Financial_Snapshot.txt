@@ -1,0 +1,25 @@
+Company: StableX Technologies Inc. Common Stock
+Ticker: SBLX
+Market Cap: 3465220
+Enterprise Value: -2880223
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -13798515
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 247693
+Operating Cashflow: -9027025
+Return On Assets: -0.33673
+Return On Equity: -1.21524
+Total Cash: 12142445
+Total Debt: 340959
+Debt To Equity: 2.495
+Current Ratio: 7.228
+Quick Ratio: 6.343
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.38749593
+Beta: 2.233
+52 Week High: 12.32
+52 Week Low: 2.11

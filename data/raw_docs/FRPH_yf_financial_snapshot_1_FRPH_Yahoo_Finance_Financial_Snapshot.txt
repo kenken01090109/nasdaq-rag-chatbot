@@ -1,0 +1,25 @@
+Company: FRP Holdings Inc. Common Stock
+Ticker: FRPH
+Market Cap: 445773952
+Enterprise Value: 537045120
+Total Revenue: 33050000
+Revenue Per Share: 1.744
+EBITDA: 12022000
+Gross Margins: 0.65737
+Operating Margins: 0.04901
+Profit Margins: 0.14006
+Free Cashflow: 14081375
+Operating Cashflow: 28834000
+Return On Assets: 0.00071999995
+Return On Equity: 0.00971
+Total Cash: 134852992
+Total Debt: 185338000
+Debt To Equity: 40.099
+Current Ratio: 14.772
+Quick Ratio: 14.669
+Trailing PE: 93.28
+Forward PE: 55.52381
+Price To Book: 1.0418621
+Beta: 0.534
+52 Week High: 30.35
+52 Week Low: 21.68

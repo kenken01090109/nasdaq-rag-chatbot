@@ -1,0 +1,11 @@
+Company: Kimball Electronics Inc. Common Stock
+Ticker: KE
+CIK: 0001606757
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 706883000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 13723000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 1083471000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 226530000 | unit=USD | filed=2017-11-02 | period_end=2017-09-30
+StockholdersEquity: 579162000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 14943000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 77853000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

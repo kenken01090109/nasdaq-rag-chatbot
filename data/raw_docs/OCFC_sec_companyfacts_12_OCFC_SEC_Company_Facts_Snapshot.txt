@@ -1,0 +1,10 @@
+Company: OceanFirst Financial Corp. Common Stock
+Ticker: OCFC
+CIK: 0001004702
+Latest SEC XBRL Facts:
+NetIncomeLoss: 57885000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 14324664000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 12671237000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1652537000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51208000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38095000 | unit=USD | filed=2012-05-10 | period_end=2012-03-31

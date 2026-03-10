@@ -1,0 +1,25 @@
+Company: InnovAge Holding Corp. Common Stock
+Ticker: INNV
+Market Cap: 1218581248
+Enterprise Value: 1294593920
+Total Revenue: 915371008
+Revenue Per Share: 6.76
+EBITDA: 43308000
+Gross Margins: 0.68074995
+Operating Margins: 0.05533
+Profit Margins: 0.0070700003
+Free Cashflow: 54638000
+Operating Cashflow: 58914000
+Return On Assets: 0.02918
+Return On Equity: 0.01176
+Total Cash: 125958000
+Total Debt: 95359000
+Debt To Equity: 33.023
+Current Ratio: 1.257
+Quick Ratio: 1.041
+Trailing PE: 179.59999
+Forward PE: 26.411762
+Price To Book: 4.7463
+Beta: 0.458
+52 Week High: 10.69
+52 Week Low: 2.6

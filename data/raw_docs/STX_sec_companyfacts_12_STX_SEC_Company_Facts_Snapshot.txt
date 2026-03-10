@@ -1,0 +1,12 @@
+Company: Seagate Technology Holdings PLC Ordinary Shares (Ireland)
+Ticker: STX
+CIK: 0001137789
+Latest SEC XBRL Facts:
+Revenues: 7384000000 | unit=USD | filed=2023-08-04 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9097000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27
+NetIncomeLoss: 1469000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27
+Assets: 8023000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27
+Liabilities: 8476000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27
+StockholdersEquity: -453000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27
+NetCashProvidedByUsedInOperatingActivities: 1083000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27
+CashAndCashEquivalentsAtCarryingValue: 891000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-27

@@ -1,0 +1,12 @@
+Company: STRATTEC SECURITY CORPORATION Common Stock
+Ticker: STRT
+CIK: 0000933034
+Latest SEC XBRL Facts:
+Revenues: 439195000 | unit=USD | filed=2018-09-06 | period_end=2018-07-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 289933000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28
+NetIncomeLoss: 13476000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28
+Assets: 392245000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28
+Liabilities: 129231000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28
+StockholdersEquity: 236798000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 25208000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 99027000 | unit=USD | filed=2026-02-06 | period_end=2025-12-28

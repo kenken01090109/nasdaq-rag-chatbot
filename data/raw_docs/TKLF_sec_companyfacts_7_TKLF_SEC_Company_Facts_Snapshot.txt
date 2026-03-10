@@ -1,0 +1,11 @@
+Company: Tokyo Lifestyle Co. Ltd. American Depositary Shares
+Ticker: TKLF
+CIK: 0001836242
+Latest SEC XBRL Facts:
+Revenues: 98003465 | unit=USD | filed=2024-12-18 | period_end=2024-09-30
+NetIncomeLoss: 1336229 | unit=USD | filed=2024-12-18 | period_end=2024-09-30
+Assets: 158735935 | unit=USD | filed=2024-12-18 | period_end=2024-09-30
+Liabilities: 119480648 | unit=USD | filed=2024-12-18 | period_end=2024-09-30
+StockholdersEquity: 39255287 | unit=USD | filed=2024-12-18 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -1984822 | unit=USD | filed=2024-12-18 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 2500000 | unit=USD | filed=2024-07-16 | period_end=2024-03-31

@@ -1,0 +1,10 @@
+Company: Oaktree Acquisition Corp. III Life Sciences Unit
+Ticker: OACCU
+CIK: 0002029769
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5499876 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 201249963 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 8245536 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -6764662 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -278203 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1328841 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

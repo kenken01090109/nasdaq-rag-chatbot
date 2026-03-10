@@ -1,0 +1,9 @@
+Company: Aytu BioPharma Inc.  Common Stock
+Ticker: AYTU
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Denver
+Website: https://aytubio.com
+Employees: 82
+Business Summary: Aytu BioPharma, Inc., a pharmaceutical company, focuses on commercializing novel therapeutics in the United States and internationally. The company offers prescription products for the treatment of attention deficit hyperactivity disorder (ADHD), including Adzenys XR-ODT extended-release orally disintegrating tablets for patients from six years of age and above; Cotempla XR-ODT extended-release orally disintegrating tablets for patients from six to seventeen years old; and Metadate CD, a central nervous system stimulant indicated for the treatment of ADHD. It also provides pediatric prescription product portfolio comprising Karbinal ER, an extended-release carbinoxamine (antihistamine) suspension indicated to treat numerous allergic conditions for patients two years and above; and Poly-Vi-Flor and Tri-Vi-Flor complementary prescription fluoride-based multi-vitamin products containing combinations of fluoride and vitamins in liquid and chewable tablet form for infants and children with fluoride deficiency. The company was formerly known as Aytu BioScience, Inc. and changed its name to Aytu BioPharma, Inc. in March 2021. Aytu BioPharma, Inc. is headquartered in Denver, Colorado.

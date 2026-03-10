@@ -1,0 +1,11 @@
+Company: Humacyte Inc. Warrant
+Ticker: HUMAW
+CIK: 0001818382
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1571000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -16029000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 91509000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 96260000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -4751000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -78918000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19488000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

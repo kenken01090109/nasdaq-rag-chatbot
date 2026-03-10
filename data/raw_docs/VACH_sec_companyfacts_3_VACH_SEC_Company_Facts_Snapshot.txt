@@ -1,0 +1,10 @@
+Company: Voyager Acquisition Corp Class A Ordinary Shares
+Ticker: VACH
+CIK: 0002006815
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7283753 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 267548197 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12536321 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -12272434 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -415935 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 757895 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

@@ -1,0 +1,25 @@
+Company: Cadrenal Therapeutics Inc. Common Stock
+Ticker: CVKD
+Market Cap: 19359690
+Enterprise Value: 13327915
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -14667773
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6621565
+Operating Cashflow: -11822413
+Return On Assets: -2.09231
+Return On Equity: -4.6803102
+Total Cash: 3860082
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.016
+Quick Ratio: 2.863
+Trailing PE: 
+Forward PE: -1.5276752
+Price To Book: 6.2349396
+Beta: 1.066
+52 Week High: 20.39
+52 Week Low: 4.91

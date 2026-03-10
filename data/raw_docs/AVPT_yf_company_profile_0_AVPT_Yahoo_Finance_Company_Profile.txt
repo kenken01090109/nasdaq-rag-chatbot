@@ -1,0 +1,9 @@
+Company: AvePoint Inc. Class A Common Stock
+Ticker: AVPT
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Jersey City
+Website: https://www.avepoint.com
+Employees: 3443
+Business Summary: AvePoint, Inc. provides cloud-native data management software platform in North America, Europe, the Middle East, Africa, and the Asia Pacific. It also provides platform-as-a-service architecture to address critical operational challenges and the management of data to organizations that leverage third-party cloud vendors, including Microsoft, Salesforce, Google, AWS, Box, DropBox, and others; license and support; and maintenance services. AvePoint, Inc. was incorporated in 2001 and is headquartered in Jersey City, New Jersey.

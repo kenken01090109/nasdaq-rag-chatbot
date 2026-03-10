@@ -1,0 +1,25 @@
+Company: Cenntro Inc. Common Stock
+Ticker: CENN
+Market Cap: 9485795
+Enterprise Value: 22027212
+Total Revenue: 18529540
+Revenue Per Share: 0.496
+EBITDA: -29156550
+Gross Margins: -0.00161
+Operating Margins: -1.50403
+Profit Margins: -2.14425
+Free Cashflow: 2853342
+Operating Cashflow: -19231666
+Return On Assets: -0.14321
+Return On Equity: -0.38479
+Total Cash: 4439521
+Total Debt: 16351731
+Debt To Equity: 21.475
+Current Ratio: 1.912
+Quick Ratio: 0.221
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.07365187
+Beta: 2.178
+52 Week High: 1.11
+52 Week Low: 0.107

@@ -1,0 +1,25 @@
+Company: BGM Group Ltd. Class A Ordinary Shares
+Ticker: BGM
+Market Cap: 208648288
+Enterprise Value: 69184592
+Total Revenue: 29870460
+Revenue Per Share: 4.178
+EBITDA: -2373423
+Gross Margins: 0.02915
+Operating Margins: -0.05406
+Profit Margins: -0.26319
+Free Cashflow: 3356245
+Operating Cashflow: 2955899
+Return On Assets: -0.03835
+Return On Equity: -0.16521999
+Total Cash: 25355278
+Total Debt: 100756
+Debt To Equity: 0.224
+Current Ratio: 7.047
+Quick Ratio: 5.937
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.561252
+Beta: 1.457
+52 Week High: 17.17
+52 Week Low: 0.96

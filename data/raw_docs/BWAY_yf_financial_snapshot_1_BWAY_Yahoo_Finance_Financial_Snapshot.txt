@@ -1,0 +1,25 @@
+Company: BrainsWay Ltd. American Depositary Shares
+Ticker: BWAY
+Market Cap: 484011488
+Enterprise Value: 430367008
+Total Revenue: 49094000
+Revenue Per Share: 1.306
+EBITDA: 4249000
+Gross Margins: 0.74915004
+Operating Margins: 0.09273
+Profit Margins: 0.12727
+Free Cashflow: 8874500
+Operating Cashflow: 22273000
+Return On Assets: 0.01916
+Return On Equity: 0.109519996
+Total Cash: 70458000
+Total Debt: 6752000
+Debt To Equity: 9.637
+Current Ratio: 3.191
+Quick Ratio: 2.908
+Trailing PE: 77.125
+Forward PE: 90.29049
+Price To Book: 6.893855
+Beta: 0.307
+52 Week High: 13.315
+52 Week Low: 3.92

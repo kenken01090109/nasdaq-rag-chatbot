@@ -1,0 +1,25 @@
+Company: Outlook Therapeutics Inc. Common Stock
+Ticker: OTLK
+Market Cap: 34389816
+Enterprise Value: 62605504
+Total Revenue: 205702
+Revenue Per Share: 0.005
+EBITDA: -58820440
+Gross Margins: 0.0
+Operating Margins: 11.16376
+Profit Margins: 0.0
+Free Cashflow: -34418952
+Operating Cashflow: -55801212
+Return On Assets: -2.0903502
+Return On Equity: 
+Total Cash: 8677424
+Total Debt: 36893112
+Debt To Equity: 
+Current Ratio: 0.35
+Quick Ratio: 0.179
+Trailing PE: 
+Forward PE: -0.9935921
+Price To Book: -0.6934673
+Beta: -0.076
+52 Week High: 3.39
+52 Week Low: 0.38

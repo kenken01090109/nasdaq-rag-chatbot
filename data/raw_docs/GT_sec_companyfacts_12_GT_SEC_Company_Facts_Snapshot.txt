@@ -1,0 +1,11 @@
+Company: The Goodyear Tire & Rubber Company Common Stock
+Ticker: GT
+CIK: 0000042582
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13363000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -1826000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 20222000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 17044000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 3005000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -716000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 810000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

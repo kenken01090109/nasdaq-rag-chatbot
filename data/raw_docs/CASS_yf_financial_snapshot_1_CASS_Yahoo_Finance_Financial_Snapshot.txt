@@ -1,0 +1,25 @@
+Company: Cass Information Systems Inc Common Stock
+Ticker: CASS
+Market Cap: 586175680
+Enterprise Value: 184352800
+Total Revenue: 207424000
+Revenue Per Share: 15.735
+EBITDA: 63353332
+Gross Margins: 0.46769002
+Operating Margins: 0.28119
+Profit Margins: 0.1693
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.014049999
+Return On Equity: 0.13182001
+Total Cash: 392268000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.022
+Quick Ratio: 0.921
+Trailing PE: 19.39394
+Forward PE: 12.8
+Price To Book: 2.373007
+Beta: 0.439
+52 Week High: 47.43
+52 Week Low: 36.07

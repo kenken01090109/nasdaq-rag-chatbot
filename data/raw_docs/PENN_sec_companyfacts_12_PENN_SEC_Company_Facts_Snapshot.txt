@@ -1,0 +1,12 @@
+Company: PENN Entertainment Inc. Common Stock
+Ticker: PENN
+CIK: 0000921738
+Latest SEC XBRL Facts:
+Revenues: 4909100000 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6362900000 | unit=USD | filed=2024-02-22 | period_end=2023-12-31
+NetIncomeLoss: -770200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 14310500000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 12357700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1958800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 401000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 660100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

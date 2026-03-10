@@ -1,0 +1,25 @@
+Company: HIVE Digital Technologies Ltd. Common Shares
+Ticker: HIVE
+Market Cap: 519176352
+Enterprise Value: 549052864
+Total Revenue: 257136000
+Revenue Per Share: 1.28
+EBITDA: 37974000
+Gross Margins: 0.38557
+Operating Margins: -0.54209
+Profit Margins: -0.48634
+Free Cashflow: 96322496
+Operating Cashflow: 97241000
+Return On Assets: -0.10783
+Return On Equity: -0.25172
+Total Cash: 26191000
+Total Debt: 18079000
+Debt To Equity: 3.233
+Current Ratio: 1.738
+Quick Ratio: 0.628
+Trailing PE: 
+Forward PE: 3.1060605
+Price To Book: 0.89091694
+Beta: 3.428
+52 Week High: 7.84
+52 Week Low: 1.26

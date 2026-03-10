@@ -1,0 +1,25 @@
+Company: VenHub Global Inc. Common Stock
+Ticker: VHUB
+Market Cap: 172631600
+Enterprise Value: 163260816
+Total Revenue: 808972
+Revenue Per Share: 0.027
+EBITDA: -31815504
+Gross Margins: 0.31993
+Operating Margins: -64.89883
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -5981674
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1340186
+Total Debt: 8089627
+Debt To Equity: 
+Current Ratio: 0.677
+Quick Ratio: 0.307
+Trailing PE: 
+Forward PE: 
+Price To Book: -9.85849
+Beta: 
+52 Week High: 40.3
+52 Week Low: 1.8

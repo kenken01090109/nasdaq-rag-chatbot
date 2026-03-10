@@ -1,0 +1,11 @@
+Company: Zoom Communications Inc. Class A Common Stock
+Ticker: ZM
+CIK: 0001585521
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3621777000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31
+NetIncomeLoss: 1226068000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31
+Assets: 11390811000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31
+Liabilities: 2103971000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31
+StockholdersEquity: 9286840000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 1634527000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 1215877000 | unit=USD | filed=2025-11-25 | period_end=2025-10-31

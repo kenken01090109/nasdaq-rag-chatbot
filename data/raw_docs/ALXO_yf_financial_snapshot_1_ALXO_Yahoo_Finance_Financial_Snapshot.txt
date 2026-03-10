@@ -1,0 +1,25 @@
+Company: ALX Oncology Holdings Inc. Common Stock
+Ticker: ALXO
+Market Cap: 289945632
+Enterprise Value: 74802784
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -100106000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: -1.28388
+Total Cash: 60626000
+Total Debt: 15607000
+Debt To Equity: 34.837
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: -3.2028985
+Price To Book: 2.6435406
+Beta: 0.5
+52 Week High: 2.66
+52 Week Low: 0.404

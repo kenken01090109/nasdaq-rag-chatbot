@@ -1,0 +1,9 @@
+Company: Orange County Bancorp Inc. Common Stock
+Ticker: OBT
+CIK: 0001754226
+Latest SEC XBRL Facts:
+NetIncomeLoss: 29184000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2636450000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2366330000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 270120000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 30087000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

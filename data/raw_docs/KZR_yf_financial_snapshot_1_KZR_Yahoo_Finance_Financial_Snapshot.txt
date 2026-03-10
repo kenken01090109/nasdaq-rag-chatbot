@@ -1,0 +1,25 @@
+Company: Kezar Life Sciences Inc. Common Stock
+Ticker: KZR
+Market Cap: 50822704
+Enterprise Value: -29481298
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -64521000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -34606752
+Operating Cashflow: -56640000
+Return On Assets: -0.31273
+Return On Equity: -0.56864
+Total Cash: 90216000
+Total Debt: 9912000
+Debt To Equity: 11.946
+Current Ratio: 7.065
+Quick Ratio: 6.894
+Trailing PE: 
+Forward PE: -2.1223242
+Price To Book: 0.61247903
+Beta: 0.509
+52 Week High: 7.45
+52 Week Low: 3.53

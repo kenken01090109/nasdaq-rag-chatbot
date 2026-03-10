@@ -1,0 +1,12 @@
+Company: Neurocrine Biosciences Inc. Common Stock
+Ticker: NBIX
+CIK: 0000914475
+Latest SEC XBRL Facts:
+Revenues: 167991000 | unit=USD | filed=2018-07-31 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2055000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 324900000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 4265700000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 1262100000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 3003600000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 394300000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 340200000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

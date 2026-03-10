@@ -1,0 +1,9 @@
+Company: OmniAb Inc. Common Stock
+Ticker: OABI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: EmeryVille
+Website: https://www.omniab.com
+Employees: 
+Business Summary: OmniAb, Inc., a biotechnology company, licenses discovery research technology to pharmaceutical and biotech companies, and academic institutions to enable the discovery of therapeutics in the United States, Europe, Japan, China, and Canada. The company's technology platform creates and screens diverse antibody repertoires to identify optimal antibodies and other target-binding proteins for partners' drug development efforts. Its OmniAb platform's Biological Intelligence powers the immune systems of its proprietary and engineered transgenic animals to create optimized antibody candidates for human therapeutics. The company's animal-based technologies include OmniRat, OmniChicken, and OmniMouse, which have been genetically modified to generate antibodies with human sequences; OmniFlic, a bispecific rat and OmniClic, a bispecific chicken are designed for discovery of bispecific antibody applications; OmniTaur, which provides cow-inspired antibodies with unique structural characteristics for challenging targets; OmnidAb, an in vivo platform for the discovery of single-domain antibodies based upon a human VH scaffold; and OmniDeep, a suite of in silico, an artificial intelligence (AI) and machine learning tools for therapeutic discovery and optimization through various technologies and capabilities. The company has an agreement with mAbsolve Ltd. for its Fc-silencing platform technology to incorporate the STR technology into antibodies that have been generated using OmniAb's antibody discovery platform. OmniAb, Inc. was founded in 2012 and is headquartered in Emeryville, California.

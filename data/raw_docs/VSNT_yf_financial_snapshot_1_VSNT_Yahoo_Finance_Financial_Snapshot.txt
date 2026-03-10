@@ -1,0 +1,25 @@
+Company: Versant Media Group Inc. Class A Common Stock
+Ticker: VSNT
+Market Cap: 5304169984
+Enterprise Value: 6328988160
+Total Revenue: 6688000000
+Revenue Per Share: 46.39
+EBITDA: 2281999872
+Gross Margins: 0.56086
+Operating Margins: 0.1236
+Profit Margins: 0.13906
+Free Cashflow: 565875008
+Operating Cashflow: 2022000000
+Return On Assets: 0.06521
+Return On Equity: 0.087349996
+Total Cash: 55000000
+Total Debt: 983000000
+Debt To Equity: 9.45
+Current Ratio: 4.023
+Quick Ratio: 1.939
+Trailing PE: 6.2735047
+Forward PE: 4.450281
+Price To Book: 0.5140848
+Beta: 
+52 Week High: 59.0
+52 Week Low: 27.17

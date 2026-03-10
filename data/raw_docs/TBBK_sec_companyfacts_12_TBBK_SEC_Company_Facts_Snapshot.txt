@@ -1,0 +1,10 @@
+Company: The Bancorp Inc Common Stock
+Ticker: TBBK
+CIK: 0001295401
+Latest SEC XBRL Facts:
+NetIncomeLoss: 171921000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 8599424000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 7821262000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 778162000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 296633000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 84679000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

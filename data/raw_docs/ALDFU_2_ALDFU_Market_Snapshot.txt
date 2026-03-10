@@ -1,0 +1,10 @@
+Company: Aldel Financial II Inc. Units
+Ticker: ALDFU
+Market Cap: 
+Enterprise Value: 319440864
+Trailing PE: 
+Forward PE: 
+Price To Book: 345.80646
+Beta: 
+52 Week High: 11.779
+52 Week Low: 10.16

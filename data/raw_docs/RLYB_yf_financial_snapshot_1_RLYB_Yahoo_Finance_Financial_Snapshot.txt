@@ -1,0 +1,25 @@
+Company: Rallybio Corporation Common Stock
+Ticker: RLYB
+Market Cap: 57609936
+Enterprise Value: -2091902
+Total Revenue: 674000
+Revenue Per Share: 0.12
+EBITDA: -33141000
+Gross Margins: 0.0
+Operating Margins: -32.66509
+Profit Margins: 0.0
+Free Cashflow: -21912500
+Operating Cashflow: -34996000
+Return On Assets: -0.28346002
+Return On Equity: -0.21173
+Total Cash: 59319000
+Total Debt: 198000
+Debt To Equity: 0.314
+Current Ratio: 14.744
+Quick Ratio: 13.127
+Trailing PE: 
+Forward PE: -2.0203702
+Price To Book: 0.9072765
+Beta: -1.127
+52 Week High: 11.49
+52 Week Low: 1.76

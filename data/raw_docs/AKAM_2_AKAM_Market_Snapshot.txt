@@ -1,0 +1,10 @@
+Company: Akamai Technologies Inc. Common Stock
+Ticker: AKAM
+Market Cap: 14633699328
+Enterprise Value: 19122554880
+Trailing PE: 32.899025
+Forward PE: 13.292027
+Price To Book: 2.9364734
+Beta: 0.704
+52 Week High: 113.5
+52 Week Low: 67.51

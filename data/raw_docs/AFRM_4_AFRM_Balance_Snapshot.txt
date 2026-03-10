@@ -1,0 +1,8 @@
+Company: Affirm Holdings Inc. Class A Common Stock
+Ticker: AFRM
+Total Cash: 1564432000
+Total Debt: 9181845504
+Debt To Equity: 258.872
+Current Ratio: 13.846
+Quick Ratio: 10.207
+Book Value: 10.677

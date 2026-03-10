@@ -1,0 +1,10 @@
+Company: Icon Energy Corp. Common stock
+Ticker: ICON
+CIK: 0001995574
+Latest SEC XBRL Facts:
+NetIncomeLoss: -4197000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31
+Assets: 58444000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31
+Liabilities: 37066000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31
+StockholdersEquity: 21378000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 799000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3880000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31

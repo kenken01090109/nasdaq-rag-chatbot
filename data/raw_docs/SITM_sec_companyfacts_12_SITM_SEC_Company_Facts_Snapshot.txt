@@ -1,0 +1,10 @@
+Company: SiTime Corporation Common Stock
+Ticker: SITM
+CIK: 0001451809
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 213375000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -52070000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1277000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 173597000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1103403000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 61778000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

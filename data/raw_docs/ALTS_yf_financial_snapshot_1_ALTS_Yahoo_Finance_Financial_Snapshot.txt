@@ -1,0 +1,25 @@
+Company: ALT5 Sigma Corporation Common Stock
+Ticker: ALTS
+Market Cap: 174347984
+Enterprise Value: 215375808
+Total Revenue: 24889000
+Revenue Per Share: 0.819
+EBITDA: -18142000
+Gross Margins: 0.43488997
+Operating Margins: -2.18337
+Profit Margins: 1.3306301
+Free Cashflow: -10371375
+Operating Cashflow: -17418000
+Return On Assets: -0.01714
+Return On Equity: 0.04251
+Total Cash: 7318000
+Total Debt: 17807000
+Debt To Equity: 1.142
+Current Ratio: 0.795
+Quick Ratio: 0.148
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.1133191
+Beta: 1.952
+52 Week High: 10.95
+52 Week Low: 1.08

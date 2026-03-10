@@ -1,0 +1,9 @@
+Company: Aditxt Inc. Common Stock
+Ticker: ADTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Mountain View
+Website: https://www.aditxt.com
+Employees: 26
+Business Summary: Aditxt, Inc., a commercial-stage company, discovers and develops products in the areas of immune health, precision health, population health, women's health, and neurologic health. The company develops AditxtScore that enable individuals to understand, manage, and monitor their immune profiles in order to be informed about attacks on or by their immune system; and Apoptotic DNA Immunotherapy, a nucleic acid-based technology that utilizes an approach that mimics the way the body naturally induces tolerance to its tissues. It also develops ADI-100 for skin grafting, psoriasis, type 1 diabetes, and multiple sclerosis. Aditxt, Inc. has a license agreement with Loma Linda University and Leland Stanford Junior University. The company was formerly known as ADiTx Therapeutics, Inc. and changed its name to Aditxt, Inc. in July 2021. Aditxt, Inc. was incorporated in 2017 and is headquartered in Mountain View, California.

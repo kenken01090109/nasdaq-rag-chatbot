@@ -1,0 +1,9 @@
+Company: Olaplex Holdings Inc. Common Stock
+Ticker: OLPX
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: United States
+City: New York
+Website: https://olaplex.com
+Employees: 
+Business Summary: Olaplex Holdings, Inc., through its subsidiaries, develops, manufactures, and sells haircare products in the United States and internationally. The company offers hair care shampoos and conditioners for use in treatment, maintenance, and protection of hair, as well as oil, moisture mask, and nourishing hair serum. It also provides in-salon services for repairing and shaping curls. The company distributes its products through professional distributors in salons, directly to retailers for sale in their physical stores, e-commerce sites, and its website, as well as third party e-commerce platforms. Olaplex Holdings, Inc. was founded in 2014 and is based in New York, New York.

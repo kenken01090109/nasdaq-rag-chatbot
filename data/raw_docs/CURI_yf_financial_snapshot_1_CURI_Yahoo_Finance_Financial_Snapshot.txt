@@ -1,0 +1,25 @@
+Company: CuriosityStream Inc. Class A Common Stock
+Ticker: CURI
+Market Cap: 193551040
+Enterprise Value: 169761040
+Total Revenue: 66595000
+Revenue Per Share: 1.166
+EBITDA: 7929000
+Gross Margins: 0.54497004
+Operating Margins: -0.24462
+Profit Margins: -0.08189999
+Free Cashflow: 20729524
+Operating Cashflow: 12123000
+Return On Assets: -0.058569998
+Return On Equity: -0.099700004
+Total Cash: 27780000
+Total Debt: 3990000
+Debt To Equity: 8.454
+Current Ratio: 1.619
+Quick Ratio: 1.574
+Trailing PE: 
+Forward PE: 83.0
+Price To Book: 4.0836406
+Beta: 1.955
+52 Week High: 7.15
+52 Week Low: 2.06

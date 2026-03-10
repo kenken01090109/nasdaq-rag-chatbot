@@ -1,0 +1,9 @@
+Company: Ovid Therapeutics Inc. Common Stock
+Ticker: OVID
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://www.ovidrx.com
+Employees: 23
+Business Summary: Ovid Therapeutics Inc., a biopharmaceutical company, engages in the development of impactful medicines for patients and families with epilepsies and seizure-related neurological disorders in the United States. The company is developing OV329, a GABA-AT inhibitor which is in Phase 1 clinical trials for the treatment of adult and pediatric drug-resistant epilepsies; and OV350, a small molecule direct activator of the KCC2 transporter, which is in Phase 1 clinical trials for treating epilepsies. It develops OV350 IV, OV4071, and OV4041, an oral program that behave similarly in phenotypical screens for the treatment of psychosis in people with NSD and LBD; and OV888 (GV101), a highly selective rock2 inhibitor which is in Phase 1 double-blind multiple-ascending dose trial. The company has license and collaboration agreements with Healx, AstraZeneca AB, H. Lundbeck A/S, Northwestern University, and Graviton, as well as Marinus Pharmaceuticals, Inc. The company was incorporated in 2014 and is headquartered in New York, New York.

@@ -1,0 +1,9 @@
+Company: VerifyMe Inc. Common Stock
+Ticker: VRME
+Sector: Industrials
+Industry: Security & Protection Services
+Country: United States
+City: Lake Mary
+Website: https://www.verifyme.com
+Employees: 40
+Business Summary: VerifyMe, Inc. offers brand protection and precision logistics solutions. The company operates through two segments, Precision Logistics and Authentication. The Precision Logistics segment offers predictive analytics for optimizing delivery of time and temperature sensitive perishable products. This segment provides PeriTrack customer dashboard, an integrated web portal tool that gives its customers an in-depth look at their shipping activities based on real-time data. It offers service center, pre-transit, post-delivery, and weather/traffic services. The Authentication segment provides technology solutions to connect brands with consumers through its products, as well as brand protection and supply chain functions, such as counterfeit prevention. The company was formerly known as LaserLock Technologies, Inc. and changed its name to VerifyMe, Inc. in July 2015. VerifyMe, Inc. was incorporated in 1999 and is headquartered in Lake Mary, Florida.

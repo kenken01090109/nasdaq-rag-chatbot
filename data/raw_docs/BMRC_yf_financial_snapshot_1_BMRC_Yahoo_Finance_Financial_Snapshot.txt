@@ -1,0 +1,25 @@
+Company: Bank of Marin Bancorp Common Stock
+Ticker: BMRC
+Market Cap: 394354816
+Enterprise Value: 234659760
+Total Revenue: 33022000
+Revenue Per Share: 2.071
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 1.5727401
+Profit Margins: -1.0803399
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.009380001
+Return On Equity: -0.08596
+Total Cash: 225303008
+Total Debt: 69313000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 39.5
+Forward PE: 9.516851
+Price To Book: 0.98985493
+Beta: 0.869
+52 Week High: 28.48
+52 Week Low: 19.14

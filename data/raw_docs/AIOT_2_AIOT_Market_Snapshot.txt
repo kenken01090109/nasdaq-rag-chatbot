@@ -1,0 +1,10 @@
+Company: PowerFleet Inc. Common Stock
+Ticker: AIOT
+Market Cap: 468174016
+Enterprise Value: 724713280
+Trailing PE: 
+Forward PE: 18.129871
+Price To Book: 0.95958203
+Beta: 1.365
+52 Week High: 6.38
+52 Week Low: 3.3

@@ -1,0 +1,10 @@
+Company: CG Oncology Inc. Common stock
+Ticker: CGON
+CIK: 0001991792
+Latest SEC XBRL Facts:
+NetIncomeLoss: -119686000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 729913000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 42270000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 687643000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -96130000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45145000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

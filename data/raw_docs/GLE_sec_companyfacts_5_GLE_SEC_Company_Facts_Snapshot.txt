@@ -1,0 +1,12 @@
+Company: Global Engine Group Holding Limited Class A Ordinary Shares
+Ticker: GLE
+CIK: 0001908705
+Latest SEC XBRL Facts:
+Revenues: 2462603 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2462603 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+NetIncomeLoss: -160330 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+Assets: 9317582 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+Liabilities: 576670 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+StockholdersEquity: 8740912 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1903682 | unit=USD | filed=2025-06-20 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3463739 | unit=USD | filed=2025-06-20 | period_end=2024-12-31

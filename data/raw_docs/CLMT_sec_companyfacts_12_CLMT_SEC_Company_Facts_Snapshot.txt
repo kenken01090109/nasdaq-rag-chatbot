@@ -1,0 +1,11 @@
+Company: Calumet Inc. Common Stock
+Ticker: CLMT
+CIK: 0002013745
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3098500000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 3500000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2733900000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3183600000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -695300000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7600000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 94600000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

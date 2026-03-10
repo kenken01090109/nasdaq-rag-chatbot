@@ -1,0 +1,25 @@
+Company: The9 Limited American Depository Shares
+Ticker: NCTY
+Market Cap: 87121648
+Enterprise Value: 28292431872
+Total Revenue: 81695000
+Revenue Per Share: 15.081
+EBITDA: -19029000
+Gross Margins: -0.12093
+Operating Margins: -1.11454
+Profit Margins: -1.7448801
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.06136
+Return On Equity: -0.382
+Total Cash: 36095000
+Total Debt: 162316992
+Debt To Equity: 41.076
+Current Ratio: 1.538
+Quick Ratio: 0.155
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4752845
+Beta: 2.31
+52 Week High: 15.98
+52 Week Low: 5.0

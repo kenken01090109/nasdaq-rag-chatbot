@@ -1,0 +1,11 @@
+Company: Evergy Inc. Common Stock
+Ticker: EVRG
+CIK: 0001711269
+Latest SEC XBRL Facts:
+Revenues: 4621400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4413500000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 771300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 33440400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 10289100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1711200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 27500000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

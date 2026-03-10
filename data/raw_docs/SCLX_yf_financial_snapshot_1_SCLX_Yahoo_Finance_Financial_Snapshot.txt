@@ -1,0 +1,25 @@
+Company: Scilex Holding Company Common Stock
+Ticker: SCLX
+Market Cap: 59639872
+Enterprise Value: 114087712
+Total Revenue: 40360000
+Revenue Per Share: 4.725
+EBITDA: -259160000
+Gross Margins: 0.68593
+Operating Margins: -17.66212
+Profit Margins: 0.0
+Free Cashflow: -20055150
+Operating Cashflow: 23821000
+Return On Assets: -0.87428004
+Return On Equity: 
+Total Cash: 878000
+Total Debt: 67666000
+Debt To Equity: 
+Current Ratio: 0.046
+Quick Ratio: 0.036
+Trailing PE: 
+Forward PE: 2.7266881
+Price To Book: -0.28506118
+Beta: 1.367
+52 Week High: 34.27
+52 Week Low: 3.6

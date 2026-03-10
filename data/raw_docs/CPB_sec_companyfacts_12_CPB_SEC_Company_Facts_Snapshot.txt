@@ -1,0 +1,11 @@
+Company: The Campbell's Company Common Stock
+Ticker: CPB
+CIK: 0000016732
+Latest SEC XBRL Facts:
+Revenues: 2677000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02
+NetIncomeLoss: 194000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02
+Assets: 15179000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02
+Liabilities: 11220000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02
+StockholdersEquity: 3957000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02
+NetCashProvidedByUsedInOperatingActivities: 224000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02
+CashAndCashEquivalentsAtCarryingValue: 168000000 | unit=USD | filed=2025-12-09 | period_end=2025-11-02

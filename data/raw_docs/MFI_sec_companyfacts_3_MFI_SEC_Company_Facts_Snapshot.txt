@@ -1,0 +1,12 @@
+Company: mF International Limited Class A Ordinary Shares
+Ticker: MFI
+CIK: 0001940941
+Latest SEC XBRL Facts:
+Revenues: 4091869 | unit=USD | filed=2024-05-15 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1919693 | unit=USD | filed=2025-10-03 | period_end=2025-06-30
+NetIncomeLoss: -1744655 | unit=USD | filed=2025-10-03 | period_end=2025-06-30
+Assets: 5572157 | unit=USD | filed=2025-10-03 | period_end=2025-06-30
+Liabilities: 2740272 | unit=USD | filed=2025-10-03 | period_end=2025-06-30
+StockholdersEquity: 2831885 | unit=USD | filed=2025-10-03 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -335252 | unit=USD | filed=2025-10-03 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1640410 | unit=USD | filed=2025-10-03 | period_end=2025-06-30

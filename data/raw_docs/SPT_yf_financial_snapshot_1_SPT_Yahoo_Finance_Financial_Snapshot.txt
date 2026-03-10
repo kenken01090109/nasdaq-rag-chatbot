@@ -1,0 +1,25 @@
+Company: Sprout Social Inc Class A Common Stock
+Ticker: SPT
+Market Cap: 384142080
+Enterprise Value: 378755488
+Total Revenue: 457547008
+Revenue Per Share: 7.805
+EBITDA: -29924000
+Gross Margins: 0.77646005
+Operating Margins: -0.07553
+Profit Margins: -0.094689995
+Free Cashflow: 98914248
+Operating Cashflow: 43427000
+Return On Assets: -0.05352
+Return On Equity: -0.23419
+Total Cash: 95268000
+Total Debt: 54719000
+Debt To Equity: 26.899
+Current Ratio: 0.926
+Quick Ratio: 0.766
+Trailing PE: 
+Forward PE: 5.193655
+Price To Book: 1.8881733
+Beta: 0.981
+52 Week High: 25.809
+52 Week Low: 6.03

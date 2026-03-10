@@ -1,0 +1,25 @@
+Company: Ambarella Inc. Ordinary Shares
+Ticker: AMBA
+Market Cap: 2254769408
+Enterprise Value: 2093655040
+Total Revenue: 390702016
+Revenue Per Share: 9.149
+EBITDA: -64477672
+Gross Margins: 0.59967
+Operating Margins: -0.17071
+Profit Margins: -0.19418
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.06527
+Return On Equity: -0.13123
+Total Cash: 312571008
+Total Debt: 13435000
+Debt To Equity: 2.259
+Current Ratio: 2.306
+Quick Ratio: 1.977
+Trailing PE: 
+Forward PE: 48.218117
+Price To Book: 3.8024538
+Beta: 1.996
+52 Week High: 96.69
+52 Week Low: 38.86

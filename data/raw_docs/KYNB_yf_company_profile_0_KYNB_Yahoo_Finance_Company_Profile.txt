@@ -1,0 +1,9 @@
+Company: Kyntra Bio Inc. Common Stock
+Ticker: KYNB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Francisco
+Website: https://www.kyntrabio.com
+Employees: 225
+Business Summary: Kyntra Bio, Inc., a biopharmaceutical company, discovers, develops, and commercializes therapeutics to treat serious unmet medical needs. Its lead product candidates are Roxadustat, a small molecule inhibitor of hypoxia-inducible factor prolyl hydroxylase activity, which has completed Phase III clinical development for the treatment of anemia in chronic kidney disease in China, Europe, Japan, and other countries, as well as in Phase III clinical development for anemia related with myelodysplastic syndromes. Its pipeline products include FG-3165 and FG-3175, an anti-GAL-9 antibody for treatment of solid tumors. The company has collaboration agreements with Astellas Pharma Inc. and AstraZeneca AB. The company was formerly known as FibroGen, Inc. and change its name to Kyntra Bio, Inc. in January 2026. Kyntra Bio, Inc. was incorporated in 1993 and is headquartered in San Francisco, California.

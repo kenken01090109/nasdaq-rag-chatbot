@@ -1,0 +1,12 @@
+Company: Regeneron Pharmaceuticals Inc. Common Stock
+Ticker: REGN
+CIK: 0000872589
+Latest SEC XBRL Facts:
+Revenues: 1511485000 | unit=USD | filed=2018-05-03 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 10458600000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 3660300000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 40169400000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 9211600000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 30957800000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3808200000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2506400000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

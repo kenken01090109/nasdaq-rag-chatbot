@@ -1,0 +1,12 @@
+Company: New Fortress Energy Inc. Class A Common Stock
+Ticker: NFE
+CIK: 0001749723
+Latest SEC XBRL Facts:
+Revenues: 1099595000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 852403000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+NetIncomeLoss: -25474000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+Assets: 11905607000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+Liabilities: 10781523000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+StockholdersEquity: 995394000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -575187000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 145237000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30

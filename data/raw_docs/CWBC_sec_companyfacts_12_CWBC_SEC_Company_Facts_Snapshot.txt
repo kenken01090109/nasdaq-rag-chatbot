@@ -1,0 +1,10 @@
+Company: Community West Bancshares Common Stock
+Ticker: CWBC
+CIK: 0001127371
+Latest SEC XBRL Facts:
+NetIncomeLoss: 26998000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3612264000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3214688000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 397576000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 35801000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 121558000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

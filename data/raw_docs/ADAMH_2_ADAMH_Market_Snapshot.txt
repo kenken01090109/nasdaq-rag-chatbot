@@ -1,0 +1,10 @@
+Company: Adamas Trust Inc. 9.875% Senior Notes Due 2030
+Ticker: ADAMH
+Market Cap: 
+Enterprise Value: 13666368512
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.6180725
+Beta: 1.144
+52 Week High: 25.99
+52 Week Low: 24.85

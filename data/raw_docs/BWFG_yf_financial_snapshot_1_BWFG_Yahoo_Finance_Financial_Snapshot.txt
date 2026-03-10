@@ -1,0 +1,25 @@
+Company: Bankwell Financial Group Inc. Common Stock
+Ticker: BWFG
+Market Cap: 365925344
+Enterprise Value: 323863840
+Total Revenue: 107283000
+Revenue Per Share: 13.843
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49983
+Profit Margins: 0.32808998
+Free Cashflow: 
+Operating Cashflow: 28273000
+Return On Assets: 0.010620001
+Return On Equity: 0.12307
+Total Cash: 229891008
+Total Debt: 193850000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.408989
+Forward PE: 8.421818
+Price To Book: 1.1819644
+Beta: 0.651
+52 Week High: 51.54
+52 Week Low: 26.39

@@ -1,0 +1,9 @@
+Company: Tivic Health Systems Inc. Common Stock
+Ticker: TIVC
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Fremont
+Website: https://tivichealth.com
+Employees: 7
+Business Summary: Tivic Health Systems, Inc., a health tech company, develops and commercializes bioelectronic medicine. Its primary product is ClearUP, a bioelectronic medicine for use in the treatment of sinus pain, pressure, and congestion. The company sells its products through online retailers and commercial distributors, as well as its own website. Its lead product candidate is Entolimod, a late-stage TLR5 agonist for use in the treatment of acute radiation syndrome. In addition, the company markets its commercial product under the ClearUP Sinus Pain Relief brand name. It also focusses on non-invasive vagus nerve stimulation. The company was incorporated in 2016 and is based in Fremont, California.

@@ -1,0 +1,9 @@
+Company: Jyong Biotech Ltd. Ordinary Shares
+Ticker: MENS
+Sector: Healthcare
+Industry: Biotechnology
+Country: Taiwan
+City: New Taipei City
+Website: https://jyongbio.com
+Employees: 
+Business Summary: Jyong Biotech Ltd., a science-driven biotechnology company, develops and commercializes plant-derived drugs for the treatment of urinary system diseases in the United States, the European Union, and Asia. It develops MCS-2 for the treatment of benign prostate hyperplasia/lower urinary tract symptoms; PCP for treating prostate cancer; and interstitial cystitis (IC) for the treatment of IC/bladder pain syndrome. The company was founded in 2002 and is headquartered in New Taipei City, Taiwan.

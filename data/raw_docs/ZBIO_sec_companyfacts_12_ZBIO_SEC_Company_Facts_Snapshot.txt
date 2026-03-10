@@ -1,0 +1,12 @@
+Company: Zenas BioPharma Inc. Common Stock
+Ticker: ZBIO
+CIK: 0001953926
+Latest SEC XBRL Facts:
+Revenues: 10000000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10000000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -137295000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 322018000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 125590000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 196428000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -119919000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115565000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

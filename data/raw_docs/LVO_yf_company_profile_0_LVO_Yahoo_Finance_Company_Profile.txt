@@ -1,0 +1,9 @@
+Company: LiveOne Inc. Common Stock
+Ticker: LVO
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: Beverly Hills
+Website: https://www.liveone.com
+Employees: 113
+Business Summary: LiveOne, Inc., a digital media company, engages in the acquisition, distribution, and monetization of live music events, Internet radio, podcasting/vodcasting and music-related membership, and streaming and video content. The company operates through three segments: PodcastOne, Slacker, and Media Group. It operates LiveOne, a live music streaming platform; PodcastOne, a podcasting platform; and Slacker, an integrated membership and advertising streaming music service, as well as produces original music-related video content. The company also produces, edits, curates, and streams live music events through broadband transmission over the Internet and/or satellite networks to its users; provides digital Internet radio and music services to users online and through automotive and mobile original equipment manufacturers on a white label basis; and offers ancillary products and services, such as regulatory and post-implementation support services. In addition, it develops, manufactures, and distributes personalized merchandise and gifts through wholesale and direct-to-consumer distribution channels. Further, the company offers LiveOne App, an application that provides access to live events, audio streams, original episodic content, podcasts, vodcasts, video on demand, real-time livestreams, and social sharing of content. LiveOne, Inc. was formerly known as LiveXLive Media, Inc. and changed its name to LiveOne, Inc. in October 2021. The company was incorporated in 2009 and is headquartered in Beverly Hills, California.

@@ -1,0 +1,25 @@
+Company: SS Innovations International Inc. Common Stock
+Ticker: SSII
+Market Cap: 862943808
+Enterprise Value: 961554880
+Total Revenue: 36066456
+Revenue Per Share: 0.196
+EBITDA: -8385381
+Gross Margins: 0.47513
+Operating Margins: -0.14305
+Profit Margins: -0.32106
+Free Cashflow: -12312829
+Operating Cashflow: -20285178
+Return On Assets: -0.10702
+Return On Equity: -0.43418
+Total Cash: 5681657
+Total Debt: 12684265
+Debt To Equity: 31.991
+Current Ratio: 2.286
+Quick Ratio: 0.834
+Trailing PE: 
+Forward PE: 
+Price To Book: 21.658537
+Beta: 1.635
+52 Week High: 22.42
+52 Week Low: 3.015

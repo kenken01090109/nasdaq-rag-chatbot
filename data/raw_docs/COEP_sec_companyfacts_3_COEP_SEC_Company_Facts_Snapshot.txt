@@ -1,0 +1,11 @@
+Company: Coeptis Therapeutics Holdings Inc. Common Stock
+Ticker: COEP
+CIK: 0001759186
+Latest SEC XBRL Facts:
+Revenues: 500996 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -10654290 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 14181641 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3264864 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 10365582 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6915126 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13830 | unit=USD | filed=2022-11-18 | period_end=2022-09-30

@@ -1,0 +1,25 @@
+Company: Nature's Sunshine Products Inc. Common Stock
+Ticker: NATR
+Market Cap: 441946912
+Enterprise Value: 377021344
+Total Revenue: 474542016
+Revenue Per Share: 26.001
+EBITDA: 38533000
+Gross Margins: 0.72282
+Operating Margins: 0.06993
+Profit Margins: 0.03181
+Free Cashflow: 38819376
+Operating Cashflow: 37607000
+Return On Assets: 0.05874
+Return On Equity: 0.09235
+Total Cash: 95554000
+Total Debt: 14288000
+Debt To Equity: 8.571
+Current Ratio: 2.225
+Quick Ratio: 1.323
+Trailing PE: 30.93827
+Forward PE: 25.06
+Price To Book: 2.741794
+Beta: 0.873
+52 Week High: 28.14
+52 Week Low: 11.01

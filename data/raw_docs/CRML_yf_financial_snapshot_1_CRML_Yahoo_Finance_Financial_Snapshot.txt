@@ -1,0 +1,25 @@
+Company: Critical Metals Corp. Ordinary Shares
+Ticker: CRML
+Market Cap: 1074258304
+Enterprise Value: 921816704
+Total Revenue: 560623
+Revenue Per Share: 0.006
+EBITDA: -47467392
+Gross Margins: 1.0
+Operating Margins: -130.28871
+Profit Margins: 0.0
+Free Cashflow: 10216527
+Operating Cashflow: -14497151
+Return On Assets: -0.25678
+Return On Equity: -1.28305
+Total Cash: 7297328
+Total Debt: 5880930
+Debt To Equity: 6.398
+Current Ratio: 0.128
+Quick Ratio: 0.113
+Trailing PE: 
+Forward PE: 
+Price To Book: 10.045663
+Beta: 1.463
+52 Week High: 32.15
+52 Week Low: 1.23

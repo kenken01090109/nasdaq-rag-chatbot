@@ -1,0 +1,11 @@
+Company: IES Holdings Inc. Common Stock
+Ticker: IESC
+CIK: 0001048268
+Latest SEC XBRL Facts:
+Revenues: 870958000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetIncomeLoss: 40956000 | unit=USD | filed=2024-02-02 | period_end=2023-12-31
+Assets: 1658377000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Liabilities: 693170000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+StockholdersEquity: 961077000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 27701000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 88834000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31

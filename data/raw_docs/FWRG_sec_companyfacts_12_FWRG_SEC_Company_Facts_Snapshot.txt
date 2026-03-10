@@ -1,0 +1,11 @@
+Company: First Watch Restaurant Group Inc. Common Stock
+Ticker: FWRG
+CIK: 0001789940
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 906149000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+NetIncomeLoss: 4268000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+Assets: 1720229000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+Liabilities: 1112918000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+StockholdersEquity: 607311000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 107452000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 20714000 | unit=USD | filed=2025-11-04 | period_end=2025-09-28

@@ -1,0 +1,10 @@
+Company: ADTRAN Holdings Inc. Common Stock
+Ticker: ADTN
+Market Cap: 811436096
+Enterprise Value: 1341198080
+Trailing PE: 
+Forward PE: 13.625344
+Price To Book: 5.5123286
+Beta: 1.401
+52 Week High: 11.1
+52 Week Low: 6.93

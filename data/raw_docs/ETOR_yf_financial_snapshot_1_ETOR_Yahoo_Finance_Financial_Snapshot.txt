@@ -1,0 +1,25 @@
+Company: eToro Group Ltd. Class A Common Shares
+Ticker: ETOR
+Market Cap: 2663461120
+Enterprise Value: 1691063552
+Total Revenue: 13700697088
+Revenue Per Share: 164.073
+EBITDA: 
+Gross Margins: 0.028080001
+Operating Margins: 0.016929999
+Profit Margins: 0.01574
+Free Cashflow: 
+Operating Cashflow: 318244992
+Return On Assets: 0.14463
+Return On Equity: 0.19371
+Total Cash: 1072641024
+Total Debt: 54463000
+Debt To Equity: 3.905
+Current Ratio: 4.298
+Quick Ratio: 3.3
+Trailing PE: 14.017621
+Forward PE: 10.171626
+Price To Book: 1.8904467
+Beta: 
+52 Week High: 79.96
+52 Week Low: 24.74

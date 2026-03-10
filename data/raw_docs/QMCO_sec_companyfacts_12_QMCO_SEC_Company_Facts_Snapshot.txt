@@ -1,0 +1,12 @@
+Company: Quantum Corporation Common Stock
+Ticker: QMCO
+CIK: 0000709283
+Latest SEC XBRL Facts:
+Revenues: 372827000 | unit=USD | filed=2022-06-08 | period_end=2022-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 201587000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -91505000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 149272000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 333501000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: -184229000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -37438000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 13180000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: Theravance Biopharma Inc. Ordinary Shares
+Ticker: TBPH
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://www.theravance.com
+Employees: 97
+Business Summary: Theravance Biopharma, Inc., a biopharmaceutical company, develops and commercializes medicines in the United States. It offers YUPELRI, a once-daily, nebulized long-acting muscarinic antagonist for the treatment of chronic obstructive pulmonary disease (COPD). Its late-stage investigational once-daily norepinephrine reuptake inhibitor, Ampreloxetine is in the development for symptomatic neurogenic orthostatic hypotension (nOH) in patients with Multiple System Atrophy (MSA). It has a strategic collaboration agreement with Viatris Inc. for the development and commercialization of revefenacin, including YUPELRI. Theravance Biopharma, Inc. was incorporated in 2013 and is based in South San Francisco, California.

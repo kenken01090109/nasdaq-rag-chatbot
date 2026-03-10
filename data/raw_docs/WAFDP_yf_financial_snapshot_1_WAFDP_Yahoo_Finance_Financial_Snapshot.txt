@@ -1,0 +1,25 @@
+Company: WaFd Inc. Depositary Shares
+Ticker: WAFDP
+Market Cap: 
+Enterprise Value: 3335398144
+Total Revenue: 734465024
+Revenue Per Share: 9.285
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.466
+Profit Margins: 0.33085
+Free Cashflow: 
+Operating Cashflow: 248002000
+Return On Assets: 0.00884
+Return On Equity: 0.08031999
+Total Cash: 767081024
+Total Debt: 2555286016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 6.004383
+Forward PE: 
+Price To Book: 0.46046552
+Beta: 0.848
+52 Week High: 17.49
+52 Week Low: 15.246

@@ -1,0 +1,12 @@
+Company: Sensus Healthcare Inc. Common Stock
+Ticker: SRTS
+CIK: 0001494891
+Latest SEC XBRL Facts:
+Revenues: 22543000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 22543000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -4552000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 58295000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 7101000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 51194000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2735000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24453000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

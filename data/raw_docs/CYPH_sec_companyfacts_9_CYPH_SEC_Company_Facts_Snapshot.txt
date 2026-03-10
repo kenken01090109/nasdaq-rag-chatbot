@@ -1,0 +1,11 @@
+Company: Cypherpunk Technologies Inc. Common Stock
+Ticker: CYPH
+CIK: 0001509745
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1125000 | unit=USD | filed=2022-11-14 | period_end=2021-09-30
+NetIncomeLoss: -35381000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 11399000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 8704000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 2695000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -37283000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9686000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

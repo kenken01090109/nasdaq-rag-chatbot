@@ -1,0 +1,25 @@
+Company: Diamondback Energy Inc. Common Stock
+Ticker: FANG
+Market Cap: 51729330176
+Enterprise Value: 70910418944
+Total Revenue: 14295000064
+Revenue Per Share: 49.45
+EBITDA: 10373999616
+Gross Margins: 0.7304
+Operating Margins: -0.81232
+Profit Margins: 0.1164
+Free Cashflow: 602625024
+Operating Cashflow: 8757999616
+Return On Assets: 0.01521
+Return On Equity: 0.03735
+Total Cash: 104000000
+Total Debt: 14515999744
+Debt To Equity: 33.784
+Current Ratio: 0.416
+Quick Ratio: 0.324
+Trailing PE: 31.507853
+Forward PE: 14.234813
+Price To Book: 1.3897207
+Beta: 0.569
+52 Week High: 183.36
+52 Week Low: 114.0

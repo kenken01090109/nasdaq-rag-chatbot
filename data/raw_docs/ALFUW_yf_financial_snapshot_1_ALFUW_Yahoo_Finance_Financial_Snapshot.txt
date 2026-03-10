@@ -1,0 +1,25 @@
+Company: Centurion Acquisition Corp. Warrant
+Ticker: ALFUW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -570039
+Return On Assets: 
+Return On Equity: 
+Total Cash: 226905
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.206
+Quick Ratio: 2.148
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.48128343
+Beta: 
+52 Week High: 0.18
+52 Week Low: 0.18

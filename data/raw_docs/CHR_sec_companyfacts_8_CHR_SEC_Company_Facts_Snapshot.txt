@@ -1,0 +1,11 @@
+Company: Cheer Holding Inc. Class A Ordinary Share
+Ticker: CHR
+CIK: 0001738758
+Latest SEC XBRL Facts:
+Revenues: 70993000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetIncomeLoss: 7755000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+Assets: 362749000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+Liabilities: 40558000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+StockholdersEquity: 322111000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 3920000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 186089000 | unit=USD | filed=2024-07-31 | period_end=2024-06-30

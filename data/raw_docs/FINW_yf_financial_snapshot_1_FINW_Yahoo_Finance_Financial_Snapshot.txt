@@ -1,0 +1,25 @@
+Company: FinWise Bancorp Common Stock
+Ticker: FINW
+Market Cap: 221772800
+Enterprise Value: 64556080
+Total Revenue: 92093000
+Revenue Per Share: 7.179
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.18831
+Profit Margins: 0.17473
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01868
+Return On Equity: 0.08771
+Total Cash: 163400000
+Total Debt: 4408000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 14.371681
+Forward PE: 7.9316244
+Price To Book: 1.1479465
+Beta: 0.828
+52 Week High: 22.49
+52 Week Low: 13.485

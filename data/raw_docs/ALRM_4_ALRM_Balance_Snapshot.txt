@@ -1,0 +1,8 @@
+Company: Alarm.com Holdings Inc. Common Stock
+Ticker: ALRM
+Total Cash: 960584000
+Total Debt: 1065641024
+Debt To Equity: 119.599
+Current Ratio: 1.919
+Quick Ratio: 1.662
+Book Value: 17.089

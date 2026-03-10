@@ -1,0 +1,25 @@
+Company: MKDWELL Tech Inc. Warrants
+Ticker: MKDWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 2384391
+Revenue Per Share: 2.922
+EBITDA: -2044044
+Gross Margins: 0.17701
+Operating Margins: -1.9011999
+Profit Margins: -0.92605
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 271609
+Total Debt: 6506004
+Debt To Equity: 
+Current Ratio: 0.304
+Quick Ratio: 0.095
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.012752525
+Beta: 0.706
+52 Week High: 0.0104
+52 Week Low: 0.0101

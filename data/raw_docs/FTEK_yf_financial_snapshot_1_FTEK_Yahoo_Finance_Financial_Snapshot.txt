@@ -1,0 +1,25 @@
+Company: Fuel Tech Inc. Common Stock
+Ticker: FTEK
+Market Cap: 38221560
+Enterprise Value: 17623724
+Total Revenue: 24713000
+Revenue Per Share: 0.801
+EBITDA: -3685000
+Gross Margins: 0.46065
+Operating Margins: 0.00053
+Profit Margins: -0.12172
+Free Cashflow: 3016500
+Operating Cashflow: 2935000
+Return On Assets: -0.055749997
+Return On Equity: -0.070879996
+Total Cash: 25860000
+Total Debt: 601000
+Debt To Equity: 1.466
+Current Ratio: 5.406
+Quick Ratio: 5.192
+Trailing PE: 
+Forward PE: -24.6
+Price To Book: 0.93394077
+Beta: 1.086
+52 Week High: 3.65
+52 Week Low: 0.91

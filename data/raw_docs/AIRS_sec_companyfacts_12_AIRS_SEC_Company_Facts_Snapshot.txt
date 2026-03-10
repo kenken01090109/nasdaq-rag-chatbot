@@ -1,0 +1,11 @@
+Company: AirSculpt Technologies Inc. Common Stock
+Ticker: AIRS
+CIK: 0001870940
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 118376000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -12950000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 185920000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 103815000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 82105000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5627000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5405000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

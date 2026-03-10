@@ -1,0 +1,12 @@
+Company: T-Mobile US Inc. 6.250% Senior Notes due 2069
+Ticker: TMUSL
+CIK: 0001283699
+Latest SEC XBRL Facts:
+Revenues: 21026000000 | unit=USD | filed=2018-08-01 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 63975000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 8889000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 217180000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 10270605000 | unit=USD | filed=2013-04-25 | period_end=2013-03-31
+StockholdersEquity: 60477000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21296000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3310000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

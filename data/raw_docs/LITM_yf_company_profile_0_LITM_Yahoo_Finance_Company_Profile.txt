@@ -1,0 +1,9 @@
+Company: Snow Lake Resources Ltd. Common Shares
+Ticker: LITM
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Winnipeg
+Website: https://snowlakeenergy.com
+Employees: 1
+Business Summary: Snow Lake Resources Ltd., a natural resource exploration company, engages in the exploration and development of mineral resources. It explores for uranium and lithium mineral resources. The company also engages in the exploration and development of uranium and gold deposits. The company holds a portfolio of projects in Canada, the United States, and Namibia. The company was incorporated in 2018 and is based in Winnipeg, Canada.

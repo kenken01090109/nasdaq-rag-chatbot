@@ -1,0 +1,9 @@
+Company: Paranovus Entertainment Technology Ltd. Class A Ordinary Shares
+Ticker: PAVS
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: New York
+Website: https://pavs.ai
+Employees: 28
+Business Summary: Paranovus Entertainment Technology Ltd. operates in the artificial intelligence (AI)-powered entertainment industry. The company focuses on providing AI-driven games and applications. The company was formerly known as Happiness Development Group Limited and changed its name to Paranovus Entertainment Technology Ltd. in March 2023. Paranovus Entertainment Technology Ltd. was founded in 2004 and is based in New York, New York.

@@ -1,0 +1,9 @@
+Company: Independent Bank Corp. Common Stock
+Ticker: INDB
+CIK: 0000776901
+Latest SEC XBRL Facts:
+NetIncomeLoss: 129787000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 24993239000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 21446352000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 3546887000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 172225000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Adagio Medical Holdings Inc Common Stock
+Ticker: ADGM
+Total Revenue: 137000
+Revenue Per Share: 0.009
+Gross Margins: 0.0
+Operating Margins: -195.43797
+EBITDA: -25618000
+Profit Margins: 0.0
+Free Cashflow: -13261000
+Operating Cashflow: -21987000
+Return On Assets: -0.24123
+Return On Equity: -2.10357

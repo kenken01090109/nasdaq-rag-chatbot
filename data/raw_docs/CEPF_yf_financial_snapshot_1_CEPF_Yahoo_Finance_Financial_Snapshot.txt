@@ -1,0 +1,25 @@
+Company: Cantor Equity Partners IV Inc. Class A Ordinary Shares
+Ticker: CEPF
+Market Cap: 591502528
+Enterprise Value: 591400640
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -62882
+Return On Assets: 
+Return On Equity: 
+Total Cash: 101829
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.205
+Quick Ratio: 1.408
+Trailing PE: 345.00003
+Forward PE: 
+Price To Book: 2070.0002
+Beta: 
+52 Week High: 10.67
+52 Week Low: 10.09

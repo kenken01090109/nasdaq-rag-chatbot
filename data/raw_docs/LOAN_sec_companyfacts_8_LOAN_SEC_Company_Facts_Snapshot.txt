@@ -1,0 +1,12 @@
+Company: Manhattan Bridge Capital Inc
+Ticker: LOAN
+CIK: 0001080340
+Latest SEC XBRL Facts:
+Revenues: 6664702 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5070098 | unit=USD | filed=2021-10-20 | period_end=2021-09-30
+NetIncomeLoss: 3988282 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 59988878 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 16672006 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 43316872 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3806024 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 129490 | unit=USD | filed=2018-07-27 | period_end=2018-06-30

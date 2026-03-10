@@ -1,0 +1,9 @@
+Company: Taoping Inc. Ordinary Shares
+Ticker: TAOP
+Sector: Technology
+Industry: Software - Infrastructure
+Country: China
+City: Tianjin
+Website: https://www.taop.com
+Employees: 63
+Business Summary: Taoping Inc. provides cloud-app technologies for smart city IoT platforms, digital advertising delivery, and other internet-based information distribution systems in China. The company offers cloud-based products, high-end data storage servers, and related services to private sectors, including new media, healthcare, education and residential community management, and other industries and applications; and hardware and software solutions with proprietary software and content, as well as designs and develops software products customized for private sector. It also provides advertising services. In addition, the company engages in the wastewater treatment business and other AI-related product and solutions. Further, it operates Taoping Net, an advertising-resources trading service platform, which connects screen owners, advertisers, and consumers; and Taoping App that enables customers to distribute and manage ads from mobile terminals. The company was formerly known as China Information Technology, Inc. and changed its name to Taoping Inc. in June 2018. Taoping Inc. was founded in 1993 and is headquartered in Tianjin, the People's Republic of China.

@@ -1,0 +1,25 @@
+Company: Quantumsphere Acquisition Corp. Rights
+Ticker: QUMSR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -896161
+Return On Assets: 
+Return On Equity: 
+Total Cash: 281173
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.546
+Quick Ratio: 2.021
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.9850746
+Beta: 
+52 Week High: 0.264
+52 Week Low: 0.1991

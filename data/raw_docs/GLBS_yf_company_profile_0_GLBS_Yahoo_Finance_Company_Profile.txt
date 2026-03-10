@@ -1,0 +1,9 @@
+Company: Globus Maritime Limited Common Stock
+Ticker: GLBS
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Athens
+Website: https://www.globusmaritime.gr
+Employees: 25
+Business Summary: Globus Maritime Limited operates as a dry bulk shipping company that provides marine transportation services worldwide. It owns, operates, and manages a fleet of dry bulk vessels that transport iron ore, coal, grain, steel products, cement, alumina, and other dry bulk cargoes. As of March 20, 2025, the company operated eight dry bulk vessels with a total carrying capacity of 680,622 deadweight tonnage. It charters its vessels to operators, trading houses, shipping companies and producers, and government-owned entities. The company was incorporated in 2006 and is based in Athens, Greece. Globus Maritime Limited operates as a subsidiary of Firment Trading Limited.

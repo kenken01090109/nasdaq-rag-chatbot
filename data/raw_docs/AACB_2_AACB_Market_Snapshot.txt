@@ -1,0 +1,10 @@
+Company: Artius II Acquisition Inc. Class A Ordinary Shares
+Ticker: AACB
+Market Cap: 286159520
+Enterprise Value: 286017568
+Trailing PE: 
+Forward PE: 
+Price To Book: -22.97778
+Beta: 
+52 Week High: 10.39
+52 Week Low: 9.85

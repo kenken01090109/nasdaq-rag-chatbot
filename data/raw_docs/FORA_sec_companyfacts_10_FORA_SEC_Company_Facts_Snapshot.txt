@@ -1,0 +1,11 @@
+Company: Forian Inc. Common Stock
+Ticker: FORA
+CIK: 0001829280
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 22294439 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1052289 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 41254335 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10173704 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 31080631 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -336017 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4660622 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

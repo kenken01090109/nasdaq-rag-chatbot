@@ -1,0 +1,9 @@
+Company: Zura Bio Limited Class A Ordinary Shares
+Ticker: ZURA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Henderson
+Website: https://zurabio.com
+Employees: 30
+Business Summary: Zura Bio Limited, a clinical-stage biotechnology company, develops medicines for immune and inflammatory disorders in the United States. The company develops Tibulizumab, an immunoglobulin G-single-chain variable fragment bispecific dual-antagonist antibody engineered by the fusion of ixekizumab and tabalumab that neutralizes interleukin (IL)-17A and B-cell activating factor, which is in Phase 2 clinical trial development. It is also developing Torudokimab (ZB-880), a monoclonal antibody that neutralizes IL-33 to prevent ST2-dependent and ST2-independent inflammation, which has completed Phase 1/2 clinical studies; and Crebankitug (ZB-168), a monoclonal antibody that binds and neutralizes the IL-7 receptor alpha chain that impact on diseases driven by IL-7 and thymic stromal lymphopoietin immune pathways, which has completed Phase 1/1b clinical studies. Zura Bio Limited was founded in 2022 and is headquartered in Henderson, Nevada.

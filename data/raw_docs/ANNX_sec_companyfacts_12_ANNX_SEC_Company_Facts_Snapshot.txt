@@ -1,0 +1,10 @@
+Company: Annexon Inc. Common Stock
+Ticker: ANNX
+CIK: 0001528115
+Latest SEC XBRL Facts:
+NetIncomeLoss: -158434000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 229142000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 67700000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 161442000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -140430000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 139419000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

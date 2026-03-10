@@ -1,0 +1,11 @@
+Company: Star Holdings Shares of Beneficial Interest
+Ticker: STHO
+CIK: 0001953366
+Latest SEC XBRL Facts:
+Revenues: 84786000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -45113000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 595864000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 302198000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 275427000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3658000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 40592000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

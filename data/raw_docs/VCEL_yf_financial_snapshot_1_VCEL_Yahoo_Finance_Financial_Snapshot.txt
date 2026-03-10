@@ -1,0 +1,25 @@
+Company: Vericel Corporation Common Stock
+Ticker: VCEL
+Market Cap: 1711231488
+Enterprise Value: 1670623488
+Total Revenue: 276259008
+Revenue Per Share: 5.488
+EBITDA: 22588000
+Gross Margins: 0.74423
+Operating Margins: 0.24123
+Profit Margins: 0.05979
+Free Cashflow: 16049750
+Operating Cashflow: 51910000
+Return On Assets: 0.014989999
+Return On Equity: 0.051090002
+Total Cash: 137499008
+Total Debt: 96891000
+Debt To Equity: 27.321
+Current Ratio: 5.034
+Quick Ratio: 4.52
+Trailing PE: 105.34375
+Forward PE: 44.238842
+Price To Book: 4.8115897
+Beta: 1.194
+52 Week High: 49.38
+52 Week Low: 29.24

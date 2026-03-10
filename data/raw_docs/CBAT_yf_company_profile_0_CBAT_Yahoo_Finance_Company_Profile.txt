@@ -1,0 +1,9 @@
+Company: CBAK Energy Technology Inc. Common Stock
+Ticker: CBAT
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: China
+City: Dalian
+Website: https://www.cbak.com.cn
+Employees: 1463
+Business Summary: CBAK Energy Technology, Inc., together with its subsidiaries, manufacture, commercialization, and distribution of standard and customized lithium and sodium batteries in Mainland China, Europe, and internationally. It operates in two segments, CBAK and Hitrans. The company is also involved the development and manufacturing of nickel-cobalt-manganese precursor and cathode materials. Its products are used in electric cars, electric buses, hybrid electric cars and buses; electric bicycles, electric motors, electric tricycles and smaller-sized electric cars; and rnergy storage application that includes residential energy supply and uninterruptible power supply application, and other high-power applications. The company was formerly known as China BAK Battery, Inc. and changed its name to CBAK Energy Technology, Inc. in January 2017. CBAK Energy Technology, Inc. is based in Dalian, China.

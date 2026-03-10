@@ -1,0 +1,25 @@
+Company: Crescent Biopharma Inc. Common Stock
+Ticker: CBIO
+Market Cap: 367492480
+Enterprise Value: 168765344
+Total Revenue: 10844000
+Revenue Per Share: 0.903
+EBITDA: -152548000
+Gross Margins: 1.0
+Operating Margins: -8.43711
+Profit Margins: 0.0
+Free Cashflow: -153697632
+Operating Cashflow: -71532000
+Return On Assets: -0.69149
+Return On Equity: -1.6074699
+Total Cash: 213192000
+Total Debt: 1644000
+Debt To Equity: 0.81
+Current Ratio: 6.561
+Quick Ratio: 6.409
+Trailing PE: 
+Forward PE: -3.3746474
+Price To Book: 2.0143523
+Beta: 
+52 Week High: 29.0
+52 Week Low: 8.72

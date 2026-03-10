@@ -1,0 +1,25 @@
+Company: Atlas Critical Minerals Corporation Common Stock
+Ticker: ATCX
+Market Cap: 30034652
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: -7.3292685
+Price To Book: 25.905174
+Beta: 
+52 Week High: 14.01
+52 Week Low: 5.32

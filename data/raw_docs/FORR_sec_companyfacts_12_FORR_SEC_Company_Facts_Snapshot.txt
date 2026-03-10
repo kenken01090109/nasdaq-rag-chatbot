@@ -1,0 +1,12 @@
+Company: Forrester Research Inc. Common Stock
+Ticker: FORR
+CIK: 0001023313
+Latest SEC XBRL Facts:
+Revenues: 217864000 | unit=USD | filed=2012-11-09 | period_end=2012-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 295830000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -85485000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 414181000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 256509000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 157672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 24293000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65121000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

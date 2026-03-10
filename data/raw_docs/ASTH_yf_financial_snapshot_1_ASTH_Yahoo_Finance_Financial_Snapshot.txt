@@ -1,0 +1,25 @@
+Company: Astrana Health Inc. Common Stock
+Ticker: ASTH
+Market Cap: 1249376256
+Enterprise Value: 1645433216
+Total Revenue: 3181768960
+Revenue Per Share: 64.834
+EBITDA: 124274000
+Gross Margins: 0.10734
+Operating Margins: 0.01935
+Profit Margins: 0.0070700003
+Free Cashflow: 219242128
+Operating Cashflow: 114597000
+Return On Assets: 0.02747
+Return On Equity: 0.044899996
+Total Cash: 429473984
+Total Debt: 1078130048
+Debt To Equity: 193.098
+Current Ratio: 1.403
+Quick Ratio: 1.352
+Trailing PE: 131.10527
+Forward PE: 9.544062
+Price To Book: 1.5626372
+Beta: 0.899
+52 Week High: 34.8
+52 Week Low: 18.08

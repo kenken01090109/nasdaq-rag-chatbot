@@ -1,0 +1,9 @@
+Company: Sanmina Corporation Common Stock
+Ticker: SANM
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: San Jose
+Website: https://www.sanmina.com
+Employees: 35000
+Business Summary: Sanmina Corporation provides integrated manufacturing solutions, components, products and repair, logistics, and after-market services in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company operates through two businesses: Integrated Manufacturing Solutions; and Components, Products and Services. The company offers product design and engineering, including concept development, detailed design, prototyping, validation, preproduction, manufacturing design release, and product industrialization; assembly and test services; direct order fulfillment and logistics services; after-market product service and support; and supply chain management services, as well as engaging in the manufacture of components, subassemblies, and complete systems; and direct order fulfilment and logistics services. In addition, the company provides components, such as printed circuit boards, backplane fabrication and backplane assemblies, cable assemblies, fabricated metal parts, precision machined parts, and plastic injected molded parts; memory solutions; storage platforms; optical, radio frequency, and microelectronic solutions; defense and aerospace products, design, manufacturing, repair, and refurbishment services; and cloud-based manufacturing execution software. It offers its products and services primarily to original equipment manufacturers in the industrial, medical, defense and aerospace, automotive, communications networks, and cloud infrastructure industries. The company was formerly known as Sanmina-SCI Corp. Sanmina Corporation was incorporated in 1980 and is headquartered in San Jose, California.

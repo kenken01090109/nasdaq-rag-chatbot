@@ -1,0 +1,25 @@
+Company: VivoPower International PLC Ordinary Shares
+Ticker: VVPR
+Market Cap: 33580488
+Enterprise Value: 58956600
+Total Revenue: 61000
+Revenue Per Share: 0.009
+EBITDA: -8267000
+Gross Margins: 0.18033001
+Operating Margins: 3068.0
+Profit Margins: 0.0
+Free Cashflow: -67159128
+Operating Cashflow: -5749000
+Return On Assets: -0.08103
+Return On Equity: 
+Total Cash: 60000
+Total Debt: 29189000
+Debt To Equity: 145.19
+Current Ratio: 1.349
+Quick Ratio: 1.283
+Trailing PE: 
+Forward PE: -4.878049
+Price To Book: 1.5337423
+Beta: -1.662
+52 Week High: 8.88
+52 Week Low: 0.619

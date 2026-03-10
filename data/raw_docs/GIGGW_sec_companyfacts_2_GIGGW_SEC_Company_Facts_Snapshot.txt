@@ -1,0 +1,10 @@
+Company: GigCapital7 Corp. Warrant
+Ticker: GIGGW
+CIK: 0002023730
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 2950220 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 210231449 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2869855 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -2135114 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -938824 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

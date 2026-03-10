@@ -1,0 +1,10 @@
+Company: Northwest Bancshares Inc. Common Stock
+Ticker: NWBI
+CIK: 0001471265
+Latest SEC XBRL Facts:
+NetIncomeLoss: 80300000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 16381009000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 14525273000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1855736000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 147229000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73946000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30

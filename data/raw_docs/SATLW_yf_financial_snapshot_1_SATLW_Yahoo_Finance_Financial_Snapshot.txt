@@ -1,0 +1,25 @@
+Company: Satellogic Inc. Warrant
+Ticker: SATLW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 14684000
+Revenue Per Share: 0.147
+EBITDA: -26148000
+Gross Margins: 0.67046
+Operating Margins: -2.22461
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -21070000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 28288000
+Total Debt: 95278000
+Debt To Equity: 
+Current Ratio: 1.079
+Quick Ratio: 0.938
+Trailing PE: 
+Forward PE: 
+Price To Book: -1.2287334
+Beta: 1.457
+52 Week High: 0.8399
+52 Week Low: 0.65

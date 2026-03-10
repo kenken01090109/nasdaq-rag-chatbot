@@ -1,0 +1,11 @@
+Company: Inno Holdings Inc. Common Stock
+Ticker: INHD
+CIK: 0001961847
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1456481 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: -28618 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 47336667 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 178408 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 47158259 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5001179 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 37149913 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

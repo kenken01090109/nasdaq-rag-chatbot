@@ -1,0 +1,9 @@
+Company: SAB Biotherapeutics Inc. Common Stock
+Ticker: SABS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Miami Beach
+Website: https://www.sabbiotherapeutics.com
+Employees: 63
+Business Summary: SAB Biotherapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the development of human polyclonal immunotherapeutic antibodies to address immune system disorders. It has applied advanced genetic engineering to develop transchromosomic for hyperimmunization and plasma collection, as well as develops product to treat diseases, including type 1 diabetes (T1D) and other autoimmune disorders. In addition, its lead product candidate SAB-142, a human, multi-target anti-thymocyte globulin treatment, currently under Phase 2b clinical trials in delaying the onset or progression of type 1. SAB Biotherapeutics, Inc. was founded in 2014 and is headquartered in Miami Beach, Florida.

@@ -1,0 +1,9 @@
+Company: Viant Technology Inc. Class A Common Stock
+Ticker: DSP
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Irvine
+Website: https://www.viantinc.com
+Employees: 386
+Business Summary: Viant Technology Inc. operates as an advertising technology company. It provides ViantAI, an artificial intelligence product suite; Holistic, Omnichannel DSP, an integrated platform that manages omnichannel campaigns and access metrics; Household ID, which combines digital and personal identifiers into a normalized household profile; IRIS_ID, a content identifier that allows partners to share video-level data to power planning, targeting, and measurement solutions in ad-supported streaming media; and Viant Data Platform, which offers the ability to integrate first-party data with data from top third-party data providers in order to obtain key insights, reporting, and attribution opportunities. The company also offers Direct Access, a supply path optimization program that creates a direct path to premium inventory; Advanced Reporting and Measurement that offers conversion lift, multi-touch attribution, foot-traffic data reports, digital-out-of-home lift, sales reporting, and ROAS analytics; and Flexible Customer Engagement Model, which offers customers transparency and control over their advertising campaigns and underlying data infrastructure. The company sells its platform through a direct sales team focused on business development in various markets. It serves purchasers of programmatic advertising inventory and large, independent, and mid-market advertising agencies, as well as marketers. The company was founded in 1999 and is headquartered in Irvine, California. Viant Inc. operates as a subsidiary of American Lifecare Holdings Inc.

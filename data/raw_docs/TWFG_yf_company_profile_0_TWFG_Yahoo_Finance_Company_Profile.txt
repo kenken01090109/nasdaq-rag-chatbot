@@ -1,0 +1,9 @@
+Company: TWFG Inc. Class A Common Stock
+Ticker: TWFG
+Sector: Financial Services
+Industry: Insurance Brokers
+Country: United States
+City: The Woodlands
+Website: https://www.twfg.com
+Employees: 
+Business Summary: TWFG, Inc. operates an independent distribution platform for personal and commercial insurance products in the United States. It offers auto, home, renters, life, health, motorcycle, umbrella, boat, recreational vehicle, flood, wind, event, luxury item, general liability, property, business auto, workers' compensation, business owner policy, and professional liability insurance products, as well as commercial bonds and group benefits. The company was founded in 2001 and is based in The Woodlands, Texas.

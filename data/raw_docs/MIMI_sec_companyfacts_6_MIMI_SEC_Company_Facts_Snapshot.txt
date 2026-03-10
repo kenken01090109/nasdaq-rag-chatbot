@@ -1,0 +1,11 @@
+Company: Mint Incorporation Limited Class A Ordinary Shares
+Ticker: MIMI
+CIK: 0001998560
+Latest SEC XBRL Facts:
+Revenues: 3050043 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+NetIncomeLoss: -1461116 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+Assets: 7575555 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+Liabilities: 1776087 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+StockholdersEquity: 5799468 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -3258596 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 4520241 | unit=USD | filed=2025-07-30 | period_end=2025-03-31

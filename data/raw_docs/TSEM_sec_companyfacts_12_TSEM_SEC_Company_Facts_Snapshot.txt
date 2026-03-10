@@ -1,0 +1,11 @@
+Company: Tower Semiconductor Ltd. Ordinary Shares
+Ticker: TSEM
+CIK: 0000928876
+Latest SEC XBRL Facts:
+Revenues: 1436122000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 207864000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 3080485000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 440305000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 2653318000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 448682000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 271894000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

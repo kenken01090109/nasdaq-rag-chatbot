@@ -1,0 +1,25 @@
+Company: Akebia Therapeutics Inc. Common Stock
+Ticker: AKBA
+Market Cap: 340206624
+Enterprise Value: 354144640
+Total Revenue: 236196000
+Revenue Per Share: 0.918
+EBITDA: 27273000
+Gross Margins: 0.82915
+Operating Margins: -0.10496
+Profit Margins: -0.02263
+Free Cashflow: 68613624
+Operating Cashflow: 67992000
+Return On Assets: 0.054429997
+Return On Equity: 
+Total Cash: 184844000
+Total Debt: 198782000
+Debt To Equity: 609.574
+Current Ratio: 1.552
+Quick Ratio: 1.423
+Trailing PE: 
+Forward PE: -13.368421
+Price To Book: 10.325203
+Beta: 0.404
+52 Week High: 4.079
+52 Week Low: 1.14

@@ -1,0 +1,9 @@
+Company: TechPrecision Corporation Common stock
+Ticker: TPCS
+Sector: Industrials
+Industry: Metal Fabrication
+Country: United States
+City: Westminster
+Website: https://www.techprecision.com
+Employees: 152
+Business Summary: TechPrecision Corporation, together with its subsidiaries, manufactures and sells precision, fabricated, and machined metal structural components and systems in the United States. It operates through two segments, Ranor and Stadco. The company offers custom components for U.S. Navy submarines and aircraft carriers, USMC military helicopters, defense, and aerospace programs. It also provides custom solutions, such as manufacturing engineering, materials management and traceability, fabrication, precision machining, and QC inspection services. It serves the defense, aerospace, and precision industrial markets. TechPrecision Corporation is headquartered in Westminster, Massachusetts.

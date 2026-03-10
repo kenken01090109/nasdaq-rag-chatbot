@@ -1,0 +1,10 @@
+Company: Cabaletta Bio Inc. Common Stock
+Ticker: CABA
+CIK: 0001759138
+Latest SEC XBRL Facts:
+NetIncomeLoss: -125937000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 189759000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 50293000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 139466000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -95737000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 60206000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

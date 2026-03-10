@@ -1,0 +1,25 @@
+Company: Red Violet Inc. Common Stock
+Ticker: RDVT
+Market Cap: 633688640
+Enterprise Value: 594602944
+Total Revenue: 90252000
+Revenue Per Share: 6.43
+EBITDA: 13876000
+Gross Margins: 0.83739996
+Operating Margins: 0.0684
+Profit Margins: 0.14575
+Free Cashflow: 8030000
+Operating Cashflow: 29349000
+Return On Assets: 0.080129996
+Return On Equity: 0.14027001
+Total Cash: 43557000
+Total Debt: 3496000
+Debt To Equity: 3.464
+Current Ratio: 7.184
+Quick Ratio: 6.894
+Trailing PE: 57.666668
+Forward PE: 29.019356
+Price To Book: 6.306786
+Beta: 1.745
+52 Week High: 64.135
+52 Week Low: 32.23

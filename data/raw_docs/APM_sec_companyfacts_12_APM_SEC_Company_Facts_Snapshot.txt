@@ -1,0 +1,11 @@
+Company: Aptorum Group Limited Class A Ordinary Shares
+Ticker: APM
+CIK: 0001734005
+Latest SEC XBRL Facts:
+Revenues: 431378 | unit=USD | filed=2024-12-20 | period_end=2023-06-30
+NetIncomeLoss: -1055775 | unit=USD | filed=2026-01-22 | period_end=2025-09-30
+Assets: 17578751 | unit=USD | filed=2026-01-22 | period_end=2025-09-30
+Liabilities: 4416347 | unit=USD | filed=2026-01-22 | period_end=2025-09-30
+StockholdersEquity: 22529972 | unit=USD | filed=2026-01-22 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1300827 | unit=USD | filed=2026-01-22 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 340306 | unit=USD | filed=2023-12-22 | period_end=2023-06-30

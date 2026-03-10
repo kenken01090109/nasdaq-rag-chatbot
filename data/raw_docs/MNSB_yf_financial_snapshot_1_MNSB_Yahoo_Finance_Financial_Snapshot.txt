@@ -1,0 +1,25 @@
+Company: MainStreet Bancshares Inc. Common Stock
+Ticker: MNSB
+Market Cap: 165749216
+Enterprise Value: 95119664
+Total Revenue: 73642000
+Revenue Per Share: 9.623
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.276
+Profit Margins: 0.21201
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00703
+Return On Equity: 0.0732
+Total Cash: 162756000
+Total Debt: 69936000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.5625
+Forward PE: 9.408511
+Price To Book: 0.8379127
+Beta: 0.57
+52 Week High: 23.44
+52 Week Low: 15.0

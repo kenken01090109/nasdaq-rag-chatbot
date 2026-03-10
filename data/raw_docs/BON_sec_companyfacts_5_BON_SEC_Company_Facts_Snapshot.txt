@@ -1,0 +1,11 @@
+Company: Bon Natural Life Limited Class A Ordinary Shares
+Ticker: BON
+CIK: 0001816815
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 18670684 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+NetIncomeLoss: -1994768 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+Assets: 85185615 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+Liabilities: 27187876 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+StockholdersEquity: 57550680 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 141115 | unit=USD | filed=2026-01-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 80466 | unit=USD | filed=2025-04-16 | period_end=2024-09-30

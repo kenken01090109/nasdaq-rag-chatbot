@@ -1,0 +1,9 @@
+Company: The Simply Good Foods Company Common Stock
+Ticker: SMPL
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Denver
+Website: https://www.thesimplygoodfoodscompany.com
+Employees: 328
+Business Summary: The Simply Good Foods Company, a consumer-packaged food and beverage company, engages in the development, marketing, and sale of snacks and meal replacements, and other products in North America and internationally. The company offers protein bars, ready-to-drink beverages and shakes, sweet and salty snacks, cookies, muffins, protein chips and crackers, protein powders, and recipes under the Quest, Atkins, and OWYN brand names. It also provides confectionery products, such as peanut butter cups, brownies, caramel candy bites, chocolatey coated peanut candies, and caramel candy bars. In addition, the company licenses certain products that contain its brands and logos; and distributes its products to various retail channels, such as mass merchandise, grocery and drug stores, club and convenience stores, gas stations, and other channels. It also sells its products through e-commerce channels, including questnutrition.com, atkins.com, liveowyn.com, amazon.com and others. The company was incorporated in 2017 and is headquartered in Denver, Colorado.

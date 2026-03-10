@@ -1,0 +1,11 @@
+Company: Zymeworks Inc. Common Stock
+Ticker: ZYME
+CIK: 0001937653
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 103450000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -39921000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 397269000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 77205000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 320064000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22746000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64834000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

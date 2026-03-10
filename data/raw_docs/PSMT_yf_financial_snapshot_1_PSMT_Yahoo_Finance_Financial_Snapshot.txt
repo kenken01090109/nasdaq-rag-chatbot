@@ -1,0 +1,25 @@
+Company: PriceSmart Inc. Common Stock
+Ticker: PSMT
+Market Cap: 4473303040
+Enterprise Value: 4419046400
+Total Revenue: 5394878976
+Revenue Per Share: 179.265
+EBITDA: 333600992
+Gross Margins: 0.17417999
+Operating Margins: 0.04575
+Profit Margins: 0.02792
+Free Cashflow: 89861128
+Operating Cashflow: 294022016
+Return On Assets: 0.06759
+Return On Equity: 0.12229
+Total Cash: 320579008
+Total Debt: 332439008
+Debt To Equity: 25.478
+Current Ratio: 1.334
+Quick Ratio: 0.481
+Trailing PE: 29.62449
+Forward PE: 21.698057
+Price To Book: 3.3436992
+Beta: 0.754
+52 Week High: 158.01
+52 Week Low: 81.25

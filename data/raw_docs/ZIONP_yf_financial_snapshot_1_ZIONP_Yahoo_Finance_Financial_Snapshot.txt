@@ -1,0 +1,25 @@
+Company: Zions Bancorporation N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)
+Ticker: ZIONP
+Market Cap: 
+Enterprise Value: 3263549952
+Total Revenue: 3312999936
+Revenue Per Share: 22.52
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38757
+Profit Margins: 0.27136
+Free Cashflow: 
+Operating Cashflow: 1073000000
+Return On Assets: 0.01011
+Return On Equity: 0.13515
+Total Cash: 4728999936
+Total Debt: 5093000192
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 3.0814142
+Forward PE: 
+Price To Book: 0.39434633
+Beta: 0.822
+52 Week High: 24.4
+52 Week Low: 19.0

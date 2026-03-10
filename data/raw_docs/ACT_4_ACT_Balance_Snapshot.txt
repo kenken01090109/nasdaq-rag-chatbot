@@ -1,0 +1,8 @@
+Company: Enact Holdings Inc. Common Stock
+Ticker: ACT
+Total Cash: 582492992
+Total Debt: 752310976
+Debt To Equity: 14.048
+Current Ratio: 1.025
+Quick Ratio: 0.941
+Book Value: 37.657

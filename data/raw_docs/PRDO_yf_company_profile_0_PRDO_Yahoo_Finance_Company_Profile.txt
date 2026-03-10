@@ -1,0 +1,9 @@
+Company: Perdoceo Education Corporation Common Stock
+Ticker: PRDO
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: United States
+City: Schaumburg
+Website: https://www.perdoceoed.com
+Employees: 6000
+Business Summary: Perdoceo Education Corporation provides postsecondary education through online, campus-based, and blended learning programs in the United States. It operates through three segments: Colorado Technical University (CTU), The American InterContinental University System (AIUS), and University of St. Augustine for Health Sciences (USAHS). The CTU segment offers academic programs in the career-oriented disciplines of business and management, nursing, healthcare management, computer science, engineering, information systems and technology, project management, cybersecurity, and criminal justice. Its AIUS segment provides academic programs in the career-oriented disciplines of business studies, information technologies, education, and behavioral sciences. The USAHS segment offers graduate health sciences degrees in physical therapy, occupational therapy, speech language therapy, and nursing, as well as continuing education programs. The company also provides non-degree seeking and professional development programs. In addition, it operates intellipath, a learning platform, as well as a mobile application and two-way messaging platform. The company was formerly known as Career Education Corporation and changed its name to Perdoceo Education Corporation in January 2020. Perdoceo Education Corporation was incorporated in 1994 and is headquartered in Schaumburg, Illinois.

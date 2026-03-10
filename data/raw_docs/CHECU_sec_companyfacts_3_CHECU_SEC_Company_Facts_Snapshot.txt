@@ -1,0 +1,9 @@
+Company: Chenghe Acquisition III Co. Units
+Ticker: CHECU
+CIK: 0002047177
+Latest SEC XBRL Facts:
+NetIncomeLoss: 19669 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 127955214 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6432869 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5165121 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19999 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

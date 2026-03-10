@@ -1,0 +1,12 @@
+Company: Freight Technologies Inc. Ordinary Shares
+Ticker: FRGT
+CIK: 0001687542
+Latest SEC XBRL Facts:
+Revenues: 7090550 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7090550 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+NetIncomeLoss: -952808 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+Assets: 17060367 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+Liabilities: 8276987 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+StockholdersEquity: 8783380 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5039217 | unit=USD | filed=2025-08-18 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 586658 | unit=USD | filed=2025-08-18 | period_end=2025-06-30

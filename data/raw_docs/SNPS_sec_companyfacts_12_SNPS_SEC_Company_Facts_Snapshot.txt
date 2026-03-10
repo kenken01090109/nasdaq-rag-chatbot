@@ -1,0 +1,12 @@
+Company: Synopsys Inc. Common Stock
+Ticker: SNPS
+CIK: 0000883241
+Latest SEC XBRL Facts:
+Revenues: 5081542000 | unit=USD | filed=2022-12-12 | period_end=2022-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2408798000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31
+NetIncomeLoss: 64958000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31
+Assets: 47237928000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31
+Liabilities: 16689930000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31
+StockholdersEquity: 30548827000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 856832000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 2129572000 | unit=USD | filed=2026-02-25 | period_end=2026-01-31

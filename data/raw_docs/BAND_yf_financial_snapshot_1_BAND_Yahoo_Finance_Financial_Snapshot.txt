@@ -1,0 +1,25 @@
+Company: Bandwidth Inc. Class A Common Stock
+Ticker: BAND
+Market Cap: 505132128
+Enterprise Value: 888344576
+Total Revenue: 753817024
+Revenue Per Share: 25.13
+EBITDA: 32995000
+Gross Margins: 0.39141
+Operating Margins: -0.01891
+Profit Margins: -0.01713
+Free Cashflow: 66113376
+Operating Cashflow: 89491000
+Return On Assets: -0.00849
+Return On Equity: -0.03624
+Total Cash: 111264000
+Total Debt: 480155008
+Debt To Equity: 120.047
+Current Ratio: 1.422
+Quick Ratio: 1.315
+Trailing PE: 
+Forward PE: 8.838451
+Price To Book: 1.2969203
+Beta: 2.214
+52 Week High: 18.63
+52 Week Low: 11.33

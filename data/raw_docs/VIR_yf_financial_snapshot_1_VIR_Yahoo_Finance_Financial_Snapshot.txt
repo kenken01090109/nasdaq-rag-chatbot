@@ -1,0 +1,25 @@
+Company: Vir Biotechnology Inc. Common Stock
+Ticker: VIR
+Market Cap: 1500919424
+Enterprise Value: 963227008
+Total Revenue: 68556000
+Revenue Per Share: 0.495
+EBITDA: -456340000
+Gross Margins: 0.0
+Operating Margins: -0.7492
+Profit Margins: 0.0
+Free Cashflow: -174440496
+Operating Cashflow: -391780992
+Return On Assets: -0.24359
+Return On Equity: -0.45727003
+Total Cash: 467015008
+Total Debt: 97852000
+Debt To Equity: 12.786
+Current Ratio: 5.539
+Quick Ratio: 5.07
+Trailing PE: 
+Forward PE: -4.1455593
+Price To Book: 1.7404776
+Beta: 1.711
+52 Week High: 10.94
+52 Week Low: 4.155

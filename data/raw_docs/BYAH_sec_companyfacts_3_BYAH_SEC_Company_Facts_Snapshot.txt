@@ -1,0 +1,11 @@
+Company: Park Ha Biological Technology Co. Ltd. Class A Ordinary Shares
+Ticker: BYAH
+CIK: 0001986247
+Latest SEC XBRL Facts:
+Revenues: 1239197 | unit=USD | filed=2025-08-26 | period_end=2025-04-30
+NetIncomeLoss: -19835994 | unit=USD | filed=2025-08-26 | period_end=2025-04-30
+Assets: 5832432 | unit=USD | filed=2025-08-26 | period_end=2025-04-30
+Liabilities: 1581992 | unit=USD | filed=2025-08-26 | period_end=2025-04-30
+StockholdersEquity: 4250440 | unit=USD | filed=2025-08-26 | period_end=2025-04-30
+NetCashProvidedByUsedInOperatingActivities: 245433 | unit=USD | filed=2025-08-26 | period_end=2025-04-30
+CashAndCashEquivalentsAtCarryingValue: 3787678 | unit=USD | filed=2026-03-02 | period_end=2025-10-31

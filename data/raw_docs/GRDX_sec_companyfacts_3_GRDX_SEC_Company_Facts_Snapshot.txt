@@ -1,0 +1,11 @@
+Company: GridAI Technologies Corp. Common Stock
+Ticker: GRDX
+CIK: 0001604191
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+NetIncomeLoss: -3410700 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 135370340 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 45808262 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -6298054 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1729201 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2517218 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

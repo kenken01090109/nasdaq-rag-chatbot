@@ -1,0 +1,10 @@
+Company: Adial Pharmaceuticals Inc Common Stock
+Ticker: ADIL
+CIK: 0001513525
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5981008 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 5659847 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1154756 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4505091 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5168037 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4606289 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

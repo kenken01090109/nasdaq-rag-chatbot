@@ -1,0 +1,25 @@
+Company: Hamilton Lane Incorporated Class A Common Stock
+Ticker: HLNE
+Market Cap: 5947003904
+Enterprise Value: 5163311616
+Total Revenue: 763398976
+Revenue Per Share: 18.48
+EBITDA: 336420992
+Gross Margins: 0.60234
+Operating Margins: 0.43308997
+Profit Margins: 0.30587998
+Free Cashflow: 227907632
+Operating Cashflow: 361224992
+Return On Assets: 0.10857
+Return On Equity: 0.31697
+Total Cash: 338504000
+Total Debt: 370616000
+Debt To Equity: 27.949
+Current Ratio: 3.644
+Quick Ratio: 3.514
+Trailing PE: 18.996435
+Forward PE: 16.629114
+Price To Book: 5.338376
+Beta: 1.35
+52 Week High: 179.19
+52 Week Low: 98.0

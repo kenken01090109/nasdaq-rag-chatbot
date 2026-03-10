@@ -1,0 +1,25 @@
+Company: The Pennant Group Inc. Common Stock
+Ticker: PNTG
+Market Cap: 1166760576
+Enterprise Value: 1651209600
+Total Revenue: 947705024
+Revenue Per Share: 27.42
+EBITDA: 59425000
+Gross Margins: 0.19936001
+Operating Margins: 0.06073
+Profit Margins: 0.03121
+Free Cashflow: 6897625
+Operating Cashflow: 48294000
+Return On Assets: 0.038599998
+Return On Equity: 0.098409995
+Total Cash: 17024000
+Total Debt: 459824000
+Debt To Equity: 122.865
+Current Ratio: 1.137
+Quick Ratio: 0.954
+Trailing PE: 40.07143
+Forward PE: 21.459036
+Price To Book: 3.5294118
+Beta: 1.285
+52 Week High: 35.0
+52 Week Low: 21.73

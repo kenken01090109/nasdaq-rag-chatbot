@@ -1,0 +1,25 @@
+Company: SAIHEAT Limited Class A Ordinary Shares
+Ticker: SAIH
+Market Cap: 14310885
+Enterprise Value: 10481582
+Total Revenue: 6172000
+Revenue Per Share: 3.416
+EBITDA: -6780000
+Gross Margins: -0.30784
+Operating Margins: -0.87764
+Profit Margins: -1.1075801
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.30308
+Return On Equity: -0.50163
+Total Cash: 6689000
+Total Debt: 3633000
+Debt To Equity: 31.147
+Current Ratio: 1.819
+Quick Ratio: 1.372
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.2268783
+Beta: 1.951
+52 Week High: 15.41
+52 Week Low: 3.0

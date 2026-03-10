@@ -1,0 +1,12 @@
+Company: PLUS THERAPEUTICS Inc. Common Stock
+Ticker: PSTV
+CIK: 0001095981
+Latest SEC XBRL Facts:
+Revenues: 3846000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 703000 | unit=USD | filed=2019-05-14 | period_end=2019-03-31
+NetIncomeLoss: -16673000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 18670000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 13616000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 5054000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14518000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13289000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

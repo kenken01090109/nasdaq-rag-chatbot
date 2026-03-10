@@ -1,0 +1,11 @@
+Company: JIADE LIMITED Class A Ordinary Shares
+Ticker: JDZG
+CIK: 0001976908
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2567670 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetIncomeLoss: 767639 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Assets: 11142715 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Liabilities: 1374822 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+StockholdersEquity: 9747385 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -691974 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 536784 | unit=USD | filed=2025-04-25 | period_end=2024-12-31

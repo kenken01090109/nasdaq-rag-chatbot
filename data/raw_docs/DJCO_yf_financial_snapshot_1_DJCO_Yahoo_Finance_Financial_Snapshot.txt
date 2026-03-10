@@ -1,0 +1,25 @@
+Company: Daily Journal Corp. (S.C.) Common Stock
+Ticker: DJCO
+Market Cap: 704511872
+Enterprise Value: 228305664
+Total Revenue: 89534000
+Revenue Per Share: 64.991
+EBITDA: 11856000
+Gross Margins: 0.31188
+Operating Margins: 0.055120002
+Profit Margins: 1.04167
+Free Cashflow: 1683875
+Operating Cashflow: 9190000
+Return On Assets: 0.0154
+Return On Equity: 0.27723
+Total Cash: 497878016
+Total Debt: 20914000
+Debt To Equity: 5.459
+Current Ratio: 16.309
+Quick Ratio: 16.203
+Trailing PE: 7.5499773
+Forward PE: 
+Price To Book: 1.838882
+Beta: 0.847
+52 Week High: 674.75
+52 Week Low: 348.63

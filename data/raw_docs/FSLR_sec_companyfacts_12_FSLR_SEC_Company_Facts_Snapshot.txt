@@ -1,0 +1,11 @@
+Company: First Solar Inc. Common Stock
+Ticker: FSLR
+CIK: 0001274494
+Latest SEC XBRL Facts:
+Revenues: 3536594000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1007346000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 13459309000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 4443997000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 9015312000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 815212000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1992173000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Neonode Inc. Common Stock
+Ticker: NEON
+CIK: 0000087050
+Latest SEC XBRL Facts:
+Revenues: 1112000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetIncomeLoss: 10583000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 32819000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6016000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 26803000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4637000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11585000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

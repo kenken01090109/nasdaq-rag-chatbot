@@ -1,0 +1,11 @@
+Company: Big Tree Cloud Holdings Limited Class A Ordinary Shares
+Ticker: DSY
+CIK: 0001999297
+Latest SEC XBRL Facts:
+Revenues: 1039851 | unit=USD | filed=2025-08-28 | period_end=2024-12-31
+NetIncomeLoss: 1879458 | unit=USD | filed=2025-08-28 | period_end=2024-12-31
+Assets: 8436688 | unit=USD | filed=2025-08-28 | period_end=2024-12-31
+Liabilities: 11182021 | unit=USD | filed=2025-08-28 | period_end=2024-12-31
+StockholdersEquity: -2745333 | unit=USD | filed=2025-08-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3064508 | unit=USD | filed=2025-08-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1678970 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

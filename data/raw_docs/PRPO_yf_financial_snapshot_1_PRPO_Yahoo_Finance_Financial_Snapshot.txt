@@ -1,0 +1,25 @@
+Company: Precipio Inc.  Common Stock
+Ticker: PRPO
+Market Cap: 46488104
+Enterprise Value: 47720224
+Total Revenue: 22800000
+Revenue Per Share: 14.834
+EBITDA: -685000
+Gross Margins: 0.44825
+Operating Margins: -0.00901
+Profit Margins: -0.055
+Free Cashflow: 765250
+Operating Cashflow: 884000
+Return On Assets: -0.06823
+Return On Equity: -0.09761
+Total Cash: 2305000
+Total Debt: 3562000
+Debt To Equity: 25.907
+Current Ratio: 1.273
+Quick Ratio: 0.957
+Trailing PE: 
+Forward PE: 68.036415
+Price To Book: 3.3694222
+Beta: 1.254
+52 Week High: 28.5
+52 Week Low: 3.9

@@ -1,0 +1,25 @@
+Company: Timberland Bancorp Inc. Common Stock
+Ticker: TSBK
+Market Cap: 302363904
+Enterprise Value: 72912176
+Total Revenue: 83726000
+Revenue Per Share: 10.6
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49001998
+Profit Margins: 0.36449
+Free Cashflow: 
+Operating Cashflow: 39298000
+Return On Assets: 0.01559
+Return On Equity: 0.11792
+Total Cash: 253334000
+Total Debt: 23015000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.961039
+Forward PE: 
+Price To Book: 1.125855
+Beta: 0.351
+52 Week High: 40.41
+52 Week Low: 27.51

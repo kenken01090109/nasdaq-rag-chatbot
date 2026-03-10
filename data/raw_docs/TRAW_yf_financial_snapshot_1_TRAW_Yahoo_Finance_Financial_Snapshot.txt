@@ -1,0 +1,25 @@
+Company: Traws Pharma Inc. Common Stock
+Ticker: TRAW
+Market Cap: 12785387
+Enterprise Value: 6365387
+Total Revenue: 2846000
+Revenue Per Share: 0.427
+EBITDA: -15766000
+Gross Margins: 1.0
+Operating Margins: -5.54638
+Profit Margins: 0.0
+Free Cashflow: -11849625
+Operating Cashflow: -19467000
+Return On Assets: -0.92293
+Return On Equity: -10.59634
+Total Cash: 6420000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.22
+Quick Ratio: 1.066
+Trailing PE: 
+Forward PE: -0.37037036
+Price To Book: 2.5117738
+Beta: 1.757
+52 Week High: 3.27
+52 Week Low: 0.97

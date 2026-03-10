@@ -1,0 +1,25 @@
+Company: Neogen Corporation Common Stock
+Ticker: NEOG
+Market Cap: 2110002048
+Enterprise Value: 2975083776
+Total Revenue: 880318976
+Revenue Per Share: 4.054
+EBITDA: 90364000
+Gross Margins: 0.4598
+Operating Margins: -0.023929998
+Profit Margins: -0.68468004
+Free Cashflow: -924000
+Operating Cashflow: 66202000
+Return On Assets: -0.00459
+Return On Equity: -0.25253
+Total Cash: 145340000
+Total Debt: 795070976
+Debt To Equity: 37.78
+Current Ratio: 3.907
+Quick Ratio: 1.886
+Trailing PE: 
+Forward PE: 30.00031
+Price To Book: 1.002584
+Beta: 1.945
+52 Week High: 11.43
+52 Week Low: 3.87

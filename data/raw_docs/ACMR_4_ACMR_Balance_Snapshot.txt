@@ -1,0 +1,8 @@
+Company: ACM Research Inc. Class A Common Stock
+Ticker: ACMR
+Total Cash: 1159488000
+Total Debt: 297908000
+Debt To Equity: 15.432
+Current Ratio: 3.268
+Quick Ratio: 2.296
+Book Value: 22.319

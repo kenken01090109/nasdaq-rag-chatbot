@@ -1,0 +1,25 @@
+Company: GigaMedia Limited Ordinary Shares
+Ticker: GIGM
+Market Cap: 17130964
+Enterprise Value: -11649880
+Total Revenue: 3397000
+Revenue Per Share: 0.307
+EBITDA: -3356750
+Gross Margins: 0.52752
+Operating Margins: -1.08952
+Profit Margins: -0.37298
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.04981
+Return On Equity: -0.03144
+Total Cash: 29073000
+Total Debt: 182000
+Debt To Equity: 0.469
+Current Ratio: 13.485
+Quick Ratio: 13.214
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.44121832
+Beta: 0.423
+52 Week High: 1.89
+52 Week Low: 1.38

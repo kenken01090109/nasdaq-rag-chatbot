@@ -1,0 +1,25 @@
+Company: Plutus Financial Group Limited Ordinary Shares
+Ticker: PLUT
+Market Cap: 49580500
+Enterprise Value: -18630500
+Total Revenue: 9957000
+Revenue Per Share: 0.769
+EBITDA: 
+Gross Margins: 0.74047995
+Operating Margins: -11.81872
+Profit Margins: -1.96194
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.18101
+Return On Equity: -0.23834999
+Total Cash: 69501000
+Total Debt: 1597000
+Debt To Equity: 1.493
+Current Ratio: 6.292
+Quick Ratio: 6.28
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.6247227
+Beta: 
+52 Week High: 4.19
+52 Week Low: 2.04

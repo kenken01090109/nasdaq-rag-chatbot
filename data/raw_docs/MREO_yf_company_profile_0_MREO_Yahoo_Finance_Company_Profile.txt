@@ -1,0 +1,9 @@
+Company: Mereo BioPharma Group plc American Depositary Shares
+Ticker: MREO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: London
+Website: https://www.mereobiopharma.com
+Employees: 36
+Business Summary: Mereo BioPharma Group plc, a biopharmaceutical company, develops and commercializes therapeutics for the treatment of oncology and rare diseases in the United Kingdom, the United States, and internationally. It develops Etigilimab, an antibody T-cell immunoreceptor with Ig and ITIM domains, which is in Phase 1b clinical trial for use in the treatment of tumors. The company is also developing Navicixizumab, which has completed Phase 1b clinical trials for the treatment of the late line ovarian cancer; Acumapimod, a p38 MAP kinase inhibitor that is in Phase II clinical trials to treat acute exacerbations of chronic obstructive pulmonary disease; and Leflutrozole, an oral aromatase inhibitor, which is in Phase 2 trials for use in the treatment of hypogonadotropic hypogonadism. In addition, it develops rare disease product candidates, including Setrusumab, an antibody for the treatment of osteogenesis imperfecta; and Alvelestat, an oral small molecule that is in Phase II clinical trial to treat Alpha-1 anti-trypsin deficiency. The company has a license agreement with Feng Biosciences for the development and commercialization of navicixizumab; license agreement with ReproNovo for the development and commercialization of leflutrozole; and licensing agreement with AstraZeneca. Mereo BioPharma Group plc was incorporated in 2015 and is headquartered in London, United Kingdom.

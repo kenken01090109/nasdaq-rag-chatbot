@@ -1,0 +1,9 @@
+Company: Canaan Inc. American Depositary Shares
+Ticker: CAN
+Sector: Technology
+Industry: Computer Hardware
+Country: Singapore
+City: Singapore
+Website: https://investor.canaan-creative.com
+Employees: 
+Business Summary: Canaan Inc. engages in the research and development, design, and sale of integrated circuits (IC), and lease of final mining equipment by integrating IC products for bitcoin mining and related components in the People's Republic of China. It is also involved in the assembly and distribution of mining equipment and spare parts; and distribution of edge computing chip products, as well as mining business. The company has operations in the United States, Mainland China, the United Arab Emirates, Ethiopia, Hong Kong Special Administrative Region, Malaysia, Kazakhstan, Canada, Netherlands, Singapore, Georgia, Paraguay, Thailand, Indonesia, Australia, Cyprus, and internationally. Canaan Inc. was founded in 2013 and is headquartered in Singapore.

@@ -1,0 +1,25 @@
+Company: Plug Power Inc. Common Stock
+Ticker: PLUG
+Market Cap: 2964183040
+Enterprise Value: 3835834368
+Total Revenue: 709918976
+Revenue Per Share: 0.619
+EBITDA: -675198016
+Gross Margins: -0.3756
+Operating Margins: -0.65392
+Profit Margins: -2.29828
+Free Cashflow: -351780128
+Operating Cashflow: -535835008
+Return On Assets: -0.14517
+Return On Equity: -1.205
+Total Cash: 378740000
+Total Debt: 997171968
+Debt To Equity: 99.388
+Current Ratio: 2.31
+Quick Ratio: 1.013
+Trailing PE: 
+Forward PE: -10.127425
+Price To Book: 3.034188
+Beta: 2.009
+52 Week High: 4.58
+52 Week Low: 0.69

@@ -1,0 +1,11 @@
+Company: Huachen AI Parking Management Technology Holding Co. Ltd. Class A Ordinary Shares
+Ticker: HCAI
+CIK: 0001958399
+Latest SEC XBRL Facts:
+Revenues: 8145257 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetIncomeLoss: 815939 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Assets: 57580549 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Liabilities: 21652333 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+StockholdersEquity: 23463760 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -5451079 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 47495 | unit=USD | filed=2025-09-19 | period_end=2025-06-30

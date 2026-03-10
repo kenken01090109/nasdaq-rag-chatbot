@@ -1,0 +1,25 @@
+Company: NVIDIA Corporation Common Stock
+Ticker: NVDA
+Market Cap: 4321915437056
+Enterprise Value: 4404018151424
+Total Revenue: 215938007040
+Revenue Per Share: 8.865
+EBITDA: 133230002176
+Gross Margins: 0.71068
+Operating Margins: 0.65024
+Profit Margins: 0.55603004
+Free Cashflow: 58128998400
+Operating Cashflow: 102717997056
+Return On Assets: 0.51188
+Return On Equity: 1.01485
+Total Cash: 62556000256
+Total Debt: 11411999744
+Debt To Equity: 7.255
+Current Ratio: 3.905
+Quick Ratio: 3.141
+Trailing PE: 36.289795
+Forward PE: 16.553408
+Price To Book: 27.475279
+Beta: 2.375
+52 Week High: 212.19
+52 Week Low: 86.62

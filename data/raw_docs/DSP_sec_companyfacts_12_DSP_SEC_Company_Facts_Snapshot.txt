@@ -1,0 +1,11 @@
+Company: Viant Technology Inc. Class A Common Stock
+Ticker: DSP
+CIK: 0001828791
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 234077000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 96000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 395886000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 137476000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 23319000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19531000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 161286000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

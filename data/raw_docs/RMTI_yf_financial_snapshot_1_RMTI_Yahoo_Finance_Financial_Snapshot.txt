@@ -1,0 +1,25 @@
+Company: Rockwell Medical Inc. Common Stock
+Ticker: RMTI
+Market Cap: 34132872
+Enterprise Value: 24492660
+Total Revenue: 75577000
+Revenue Per Share: 2.201
+EBITDA: -2623000
+Gross Margins: 0.15147
+Operating Margins: -0.09945
+Profit Margins: -0.07299
+Free Cashflow: -2367875
+Operating Cashflow: -2085000
+Return On Assets: -0.0525
+Return On Equity: -0.16676001
+Total Cash: 23707000
+Total Debt: 13125000
+Debt To Equity: 35.454
+Current Ratio: 3.915
+Quick Ratio: 3.343
+Trailing PE: 
+Forward PE: 12.374286
+Price To Book: 0.9224707
+Beta: 1.765
+52 Week High: 2.1
+52 Week Low: 0.78

@@ -1,0 +1,9 @@
+Company: Bluejay Diagnostics Inc. Common Stock
+Ticker: BJDX
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Acton
+Website: https://bluejaydx.com
+Employees: 7
+Business Summary: Bluejay Diagnostics, Inc. operates as a medical diagnostics company. The company offers the Symphony platform, a technology platform comprising the Symphony analyzer that orchestrates whole blood processing, biomarker isolation, and immunoassay preparation using non-contact centrifugal force; and the Symphony Cartridge, which includes reagents and components. It also provides the ALLEREYE diagnostic test, a point-of-care device for the diagnosis of allergic conjunctivitis. In addition, the company develops Symphony IL-6 tests for the monitoring of disease progression in critical care settings. Further, it is developing additional tests for Symphony, such as tests for myocardial infraction and congestive heart failure. Bluejay Diagnostics, Inc. was incorporated in 2015 and is headquartered in Acton, Massachusetts.

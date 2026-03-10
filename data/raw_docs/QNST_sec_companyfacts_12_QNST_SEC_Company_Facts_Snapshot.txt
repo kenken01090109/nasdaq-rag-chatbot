@@ -1,0 +1,12 @@
+Company: QuinStreet Inc. Common Stock
+Ticker: QNST
+CIK: 0001117297
+Latest SEC XBRL Facts:
+Revenues: 211228000 | unit=USD | filed=2015-05-07 | period_end=2015-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 573698000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: 54762000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 493033000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 198593000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 294440000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 41224000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 106962000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

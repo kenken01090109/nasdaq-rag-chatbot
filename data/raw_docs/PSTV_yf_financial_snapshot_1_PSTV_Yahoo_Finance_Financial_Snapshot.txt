@@ -1,0 +1,25 @@
+Company: PLUS THERAPEUTICS Inc. Common Stock
+Ticker: PSTV
+Market Cap: 51495776
+Enterprise Value: 30677658
+Total Revenue: 5258000
+Revenue Per Share: 0.116
+EBITDA: -12957000
+Gross Margins: -0.44998002
+Operating Margins: -3.2082999
+Profit Margins: 0.0
+Free Cashflow: -9355125
+Operating Cashflow: -15729000
+Return On Assets: -0.65580004
+Return On Equity: 
+Total Cash: 16601000
+Total Debt: 6421000
+Debt To Equity: 127.048
+Current Ratio: 1.292
+Quick Ratio: 1.219
+Trailing PE: 
+Forward PE: -1.9683645
+Price To Book: 7.597369
+Beta: 0.826
+52 Week High: 2.08
+52 Week Low: 0.16

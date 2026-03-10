@@ -1,0 +1,8 @@
+Company: Adamas Trust Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock $0.01 par value per share
+Ticker: ADAML
+Total Cash: 211055008
+Total Debt: 11008335872
+Debt To Equity: 769.579
+Current Ratio: 32.543
+Quick Ratio: 31.054
+Book Value: 9.816

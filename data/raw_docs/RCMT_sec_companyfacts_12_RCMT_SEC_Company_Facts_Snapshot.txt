@@ -1,0 +1,11 @@
+Company: RCM Technologies Inc. Common Stock
+Ticker: RCMT
+CIK: 0000700841
+Latest SEC XBRL Facts:
+Revenues: 135680000 | unit=USD | filed=2017-11-02 | period_end=2017-09-30
+NetIncomeLoss: 10230000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Assets: 129815000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Liabilities: 88437000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+StockholdersEquity: 41378000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 7520000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 1309000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27

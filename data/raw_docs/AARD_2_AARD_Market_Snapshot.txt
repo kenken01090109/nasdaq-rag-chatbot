@@ -1,0 +1,10 @@
+Company: Aardvark Therapeutics Inc. Common Stock
+Ticker: AARD
+Market Cap: 124978576
+Enterprise Value: -826418
+Trailing PE: 
+Forward PE: -1.4701211
+Price To Book: 1.0199004
+Beta: 
+52 Week High: 17.94
+52 Week Low: 4.74

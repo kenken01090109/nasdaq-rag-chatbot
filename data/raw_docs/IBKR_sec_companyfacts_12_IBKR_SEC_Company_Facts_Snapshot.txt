@@ -1,0 +1,12 @@
+Company: Interactive Brokers Group Inc. Class A Common Stock
+Ticker: IBKR
+CIK: 0001381197
+Latest SEC XBRL Facts:
+Revenues: 1949000000 | unit=USD | filed=2019-11-12 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1773000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 44533000 | unit=USD | filed=2015-03-02 | period_end=2014-12-31
+Assets: 200222000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 180742000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 5106000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14202000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5128000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

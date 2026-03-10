@@ -1,0 +1,25 @@
+Company: Lexeo Therapeutics Inc. Common Stock
+Ticker: LXEO
+Market Cap: 499963200
+Enterprise Value: 379087328
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -112933000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -68584496
+Operating Cashflow: -106808000
+Return On Assets: -0.44665
+Return On Equity: -0.80694
+Total Cash: 122764000
+Total Debt: 8457000
+Debt To Equity: 6.999
+Current Ratio: 7.399
+Quick Ratio: 7.108
+Trailing PE: 
+Forward PE: -4.9078965
+Price To Book: 3.1136363
+Beta: 1.798
+52 Week High: 10.99
+52 Week Low: 1.45

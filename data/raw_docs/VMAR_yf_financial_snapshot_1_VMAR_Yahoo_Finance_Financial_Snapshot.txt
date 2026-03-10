@@ -1,0 +1,25 @@
+Company: Vision Marine Technologies Inc. Common Shares
+Ticker: VMAR
+Market Cap: 2382101
+Enterprise Value: 34424572
+Total Revenue: 29423190
+Revenue Per Share: 557.764
+EBITDA: -10216101
+Gross Margins: 0.30592
+Operating Margins: -0.20063
+Profit Margins: -0.84382004
+Free Cashflow: -29069792
+Operating Cashflow: -2906626
+Return On Assets: -0.20493999
+Return On Equity: -4.60957
+Total Cash: 2299575
+Total Debt: 34512876
+Debt To Equity: 811.205
+Current Ratio: 1.114
+Quick Ratio: 0.227
+Trailing PE: 
+Forward PE: -0.026766716
+Price To Book: 0.0703417
+Beta: 0.41
+52 Week High: 381.2
+52 Week Low: 2.222

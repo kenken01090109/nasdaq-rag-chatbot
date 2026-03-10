@@ -1,0 +1,25 @@
+Company: Regis Corporation Common Stock
+Ticker: RGS
+Market Cap: 52449348
+Enterprise Value: 379972448
+Total Revenue: 233430000
+Revenue Per Share: 96.399
+EBITDA: 26797000
+Gross Margins: 0.36556998
+Operating Margins: 0.108500004
+Profit Margins: 0.50789
+Free Cashflow: 6724750
+Operating Cashflow: 16903000
+Return On Assets: 0.02596
+Return On Equity: 0.94311
+Total Cash: 18385000
+Total Debt: 344059008
+Debt To Equity: 182.323
+Current Ratio: 0.531
+Quick Ratio: 0.283
+Trailing PE: 0.4665481
+Forward PE: -7.950757
+Price To Book: 0.27793962
+Beta: 1.466
+52 Week High: 31.5
+52 Week Low: 15.0

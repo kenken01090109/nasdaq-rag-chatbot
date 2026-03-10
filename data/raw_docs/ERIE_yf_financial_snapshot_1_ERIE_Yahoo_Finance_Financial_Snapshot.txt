@@ -1,0 +1,25 @@
+Company: Erie Indemnity Company Class A Common Stock
+Ticker: ERIE
+Market Cap: 13587522560
+Enterprise Value: 13814926336
+Total Revenue: 4067258112
+Revenue Per Share: 77.783
+EBITDA: 808993024
+Gross Margins: 0.17633
+Operating Margins: 0.17164
+Profit Margins: 0.13752
+Free Cashflow: 499901376
+Operating Cashflow: 686657024
+Return On Assets: 0.14805001
+Return On Equity: 0.26194
+Total Cash: 349587008
+Total Debt: 61936000
+Debt To Equity: 2.712
+Current Ratio: 1.268
+Quick Ratio: 1.163
+Trailing PE: 24.330524
+Forward PE: 18.547466
+Price To Book: 5.950582
+Beta: 0.411
+52 Week High: 456.93
+52 Week Low: 247.01

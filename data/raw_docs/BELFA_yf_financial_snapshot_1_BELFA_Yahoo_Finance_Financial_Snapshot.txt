@@ -1,0 +1,25 @@
+Company: Bel Fuse Inc. Class A Common Stock
+Ticker: BELFA
+Market Cap: 2188782848
+Enterprise Value: 2592474880
+Total Revenue: 675454976
+Revenue Per Share: 53.438
+EBITDA: 133495000
+Gross Margins: 0.39147
+Operating Margins: 0.16242
+Profit Margins: 0.0911
+Free Cashflow: 57163000
+Operating Cashflow: 80612000
+Return On Assets: 0.07089
+Return On Equity: 0.15442
+Total Cash: 57800000
+Total Debt: 222656992
+Debt To Equity: 42.928
+Current Ratio: 3.019
+Quick Ratio: 1.483
+Trailing PE: 37.271553
+Forward PE: 21.363804
+Price To Book: 5.1448803
+Beta: 1.183
+52 Week High: 227.42
+52 Week Low: 53.95

@@ -1,0 +1,25 @@
+Company: electroCore Inc. Common Stock
+Ticker: ECOR
+Market Cap: 54771936
+Enterprise Value: 52629936
+Total Revenue: 29835000
+Revenue Per Share: 3.592
+EBITDA: -12721000
+Gross Margins: 0.8604
+Operating Margins: -0.33191
+Profit Margins: -0.47458
+Free Cashflow: -1777125
+Operating Cashflow: -7902000
+Return On Assets: -0.39106998
+Return On Equity: -3.37843
+Total Cash: 12951000
+Total Debt: 10809000
+Debt To Equity: 
+Current Ratio: 1.429
+Quick Ratio: 1.188
+Trailing PE: 
+Forward PE: -12.454545
+Price To Book: -48.58156
+Beta: 0.503
+52 Week High: 14.615
+52 Week Low: 4.16

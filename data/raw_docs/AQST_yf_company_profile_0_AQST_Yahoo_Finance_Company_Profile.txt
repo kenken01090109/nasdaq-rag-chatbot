@@ -1,0 +1,9 @@
+Company: Aquestive Therapeutics Inc. Common Stock
+Ticker: AQST
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Warren
+Website: https://www.aquestive.com
+Employees: 
+Business Summary: Aquestive Therapeutics, Inc. operates as a pharmaceutical company in the United States and internationally. It offers Libervant, a buccal soluble film formulation of diazepam for the treatment of seizures; Suboxone, a sublingual film formulation of buprenorphine and naloxone for the treatment of opioid dependence; Sympazan, an oral soluble film formulation of clobazam for the treatment of lennox-gastaut syndrome; KYNMOBI a sublingual film formulation of apomorphine for the treatment of episodic off-periods in Parkinson's disease; and Azstarys, a once-daily product for the treatment of attention deficit hyperactivity disorder. The company's proprietary pipeline products include Anaphylm, an epinephrine sublingual film, which is in phase 3 clinical trial for the emergency treatment of allergic reactions, including anaphylaxis; and AQST-108, a topical gel that is in phase 2 clinical trial for the treatment of alopecia areata. In addition, it develops PharmFilm technology for patients suffering from certain central nervous system disorders; and Adrenaverse, an epinephrine prodrug platform. The company was incorporated in 2004 and is headquartered in Warren, New Jersey.

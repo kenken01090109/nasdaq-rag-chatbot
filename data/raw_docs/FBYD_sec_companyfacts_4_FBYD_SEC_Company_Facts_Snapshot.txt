@@ -1,0 +1,10 @@
+Company: Falcon's Beyond Global Inc. Class A Common Stock
+Ticker: FBYD
+CIK: 0001937987
+Latest SEC XBRL Facts:
+Revenues: 8311000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 66793000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 46957000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 9151000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20280000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4257000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

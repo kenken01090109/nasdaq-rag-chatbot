@@ -1,0 +1,25 @@
+Company: New Horizon Aircraft Ltd. Class A Ordinary Share
+Ticker: HOVR
+Market Cap: 84965272
+Enterprise Value: 67399808
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -18448000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4605625
+Operating Cashflow: -10100000
+Return On Assets: -0.84389
+Return On Equity: -5.13427
+Total Cash: 24304000
+Total Debt: 19000
+Debt To Equity: 0.131
+Current Ratio: 6.51
+Quick Ratio: 6.427
+Trailing PE: 
+Forward PE: -2.8531382
+Price To Book: 14.03683
+Beta: 2.938
+52 Week High: 4.18
+52 Week Low: 0.35

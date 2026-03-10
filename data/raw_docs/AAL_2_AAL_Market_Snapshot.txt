@@ -1,0 +1,10 @@
+Company: American Airlines Group Inc. Common Stock
+Ticker: AAL
+Market Cap: 7784990720
+Enterprise Value: 38199992320
+Trailing PE: 69.35294
+Forward PE: 4.369952
+Price To Book: -2.088944
+Beta: 1.194
+52 Week High: 16.5
+52 Week Low: 8.5

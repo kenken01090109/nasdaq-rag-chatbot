@@ -1,0 +1,12 @@
+Company: TruGolf Holdings Inc. Class A Common Stock
+Ticker: TRUG
+CIK: 0001857086
+Latest SEC XBRL Facts:
+Revenues: 13806059 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 13806059 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -13270036 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 22984215 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 16727089 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 6257126 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1978411 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11435121 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

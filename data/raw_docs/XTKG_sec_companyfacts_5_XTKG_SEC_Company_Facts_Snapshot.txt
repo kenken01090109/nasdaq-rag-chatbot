@@ -1,0 +1,11 @@
+Company: X3 Holdings Co. Ltd. Ordinary Shares
+Ticker: XTKG
+CIK: 0001754323
+Latest SEC XBRL Facts:
+Revenues: 2984318 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: -16381786 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 71731326 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 25257000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 42618434 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1870527 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2649211 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

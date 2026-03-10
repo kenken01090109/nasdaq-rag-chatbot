@@ -1,0 +1,9 @@
+Company: CarParts.com Inc. Common Stock
+Ticker: PRTS
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: Torrance
+Website: https://www.carparts.com
+Employees: 
+Business Summary: CarParts.com, Inc., together with its subsidiaries, operates as an online retailer of aftermarket auto parts and accessories in the United States and the Philippines. It offers replacement parts, such as parts for the exterior of an automobile; mirror products under the Kool-Vue; engine and chassis components, as well as other mechanical and electrical parts under the Evan Fischer brand name; and other performance parts and accessories under the JC Whitney brand name. The company sells its products to individual customers through its flagship website, www.carparts.com, and app; online marketplaces, including third-party auction sites and shopping portals; and auto parts wholesale distributors. The company was formerly known as U.S. Auto Parts Network, Inc. and changed its name to CarParts.com, Inc. in July 2020. CarParts.com, Inc. was incorporated in 1995 and is headquartered in Torrance, California.

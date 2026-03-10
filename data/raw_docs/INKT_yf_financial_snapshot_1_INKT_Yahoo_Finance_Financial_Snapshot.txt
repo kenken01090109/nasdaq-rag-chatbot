@@ -1,0 +1,25 @@
+Company: MiNK Therapeutics Inc. Common Stock
+Ticker: INKT
+Market Cap: 48255912
+Enterprise Value: 42845052
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -12242303
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4776153
+Operating Cashflow: -5579109
+Return On Assets: -0.69607
+Return On Equity: 
+Total Cash: 14281212
+Total Debt: 5725267
+Debt To Equity: 
+Current Ratio: 1.082
+Quick Ratio: 1.063
+Trailing PE: 
+Forward PE: -2.8476455
+Price To Book: -3.50017
+Beta: 0.352
+52 Week High: 76.0
+52 Week Low: 6.34

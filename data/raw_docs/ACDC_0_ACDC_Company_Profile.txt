@@ -1,0 +1,9 @@
+Company: ProFrac Holding Corp. Class A Common Stock
+Ticker: ACDC
+Long Business Summary: ProFrac Holding Corp. operates as a technology-focused energy services holding company in the United States. It operates through three segments: Stimulation Services, Proppant Production, and Manufacturing. The company offers hydraulic fracturing, proppant production, well stimulation, in-basin frac sand, and other completion services and complementary products and services to upstream oil and natural gas companies engaged in the exploration and production of unconventional oil and natural gas resources. It also manufactures and sells high horsepower pumps, valves, piping, swivels, large-bore manifold systems, and fluid ends, as well as other auxiliary equipment. The company was founded in 2016 and is headquartered in Willow Park, Texas.
+Industry: Oil & Gas Equipment & Services
+Sector: Energy
+Website: https://www.pfholdingscorp.com
+Country: United States
+City: Willow Park
+Full Time Employees: 3077

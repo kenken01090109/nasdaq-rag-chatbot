@@ -1,0 +1,12 @@
+Company: Boxlight Corporation Class A Common Stock
+Ticker: BOXL
+CIK: 0001624512
+Latest SEC XBRL Facts:
+Revenues: 250000 | unit=USD | filed=2018-11-13 | period_end=2018-01-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 82612000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -14146000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 99590000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 90544000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -19463000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1808000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11812000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

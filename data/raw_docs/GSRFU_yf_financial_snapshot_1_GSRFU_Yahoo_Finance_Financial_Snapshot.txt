@@ -1,0 +1,25 @@
+Company: GSR IV Acquisition Corp. Units
+Ticker: GSRFU
+Market Cap: 270722336
+Enterprise Value: 300158496
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -325194
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1835999
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 90.452
+Quick Ratio: 82.74
+Trailing PE: 
+Forward PE: 
+Price To Book: -41.91837
+Beta: 
+52 Week High: 11.0
+52 Week Low: 10.01

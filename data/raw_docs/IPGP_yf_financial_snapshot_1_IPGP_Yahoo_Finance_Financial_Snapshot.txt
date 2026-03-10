@@ -1,0 +1,25 @@
+Company: IPG Photonics Corporation Common Stock
+Ticker: IPGP
+Market Cap: 5092495872
+Enterprise Value: 4526519808
+Total Revenue: 1003777024
+Revenue Per Share: 23.705
+EBITDA: 89913000
+Gross Margins: 0.38002998
+Operating Margins: 0.021259999
+Profit Margins: 0.03098
+Free Cashflow: -9048125
+Operating Cashflow: 75344000
+Return On Assets: 0.00612
+Return On Equity: 0.01498
+Total Cash: 839328000
+Total Debt: 17250000
+Debt To Equity: 0.811
+Current Ratio: 6.082
+Quick Ratio: 4.378
+Trailing PE: 163.10811
+Forward PE: 46.782948
+Price To Book: 2.3892946
+Beta: 0.979
+52 Week High: 155.82
+52 Week Low: 48.59

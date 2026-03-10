@@ -1,0 +1,11 @@
+Company: Sight Sciences Inc. Common Stock
+Ticker: SGHT
+CIK: 0001531177
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 56978000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -34264000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 116256000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 51966000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 64290000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -27867000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 92373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

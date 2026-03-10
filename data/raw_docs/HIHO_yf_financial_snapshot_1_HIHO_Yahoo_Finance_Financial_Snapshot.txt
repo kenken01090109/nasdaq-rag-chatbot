@@ -1,0 +1,25 @@
+Company: Highway Holdings Limited Common Stock
+Ticker: HIHO
+Market Cap: 4222175
+Enterprise Value: -772195
+Total Revenue: 5361000
+Revenue Per Share: 1.177
+EBITDA: -1921500
+Gross Margins: 0.26580998
+Operating Margins: -0.42371
+Profit Margins: -0.13841
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.12521
+Return On Equity: -0.12312
+Total Cash: 5131000
+Total Debt: 318000
+Debt To Equity: 5.435
+Current Ratio: 4.268
+Quick Ratio: 3.701
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7190439
+Beta: 
+52 Week High: 2.21
+52 Week Low: 0.77

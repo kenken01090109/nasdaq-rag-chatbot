@@ -1,0 +1,9 @@
+Company: GCI Liberty Inc. Series A GCI Group Common Stock
+Ticker: GLIBA
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Englewood
+Website: https://www.gciliberty.com
+Employees: 1880
+Business Summary: GCI Liberty, Inc., through its subsidiaries, provides a range of data, wireless, video, voice, and managed services in Alaska. The company also offers wireless and wireline telecommunication services; and owns and operates a statewide wireless network. It serves residential customers, businesses, governmental entities, and educational and medical institutions under the GCI brand name. The company was founded in 1979 and is based in Englewood, Colorado.

@@ -1,0 +1,11 @@
+Company: Alpha Teknova Inc. Common Stock
+Ticker: TKNO
+CIK: 0001850902
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 30536000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -12501000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 107625000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 34975000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 72650000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8184000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3204000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

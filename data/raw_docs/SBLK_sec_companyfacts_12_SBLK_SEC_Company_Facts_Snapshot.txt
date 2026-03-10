@@ -1,0 +1,11 @@
+Company: Star Bulk Carriers Corp. Common Shares
+Ticker: SBLK
+CIK: 0001386716
+Latest SEC XBRL Facts:
+Revenues: 1265458000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31
+NetIncomeLoss: 304654000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31
+Assets: 4086378000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31
+Liabilities: 1604603000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31
+StockholdersEquity: 2481775000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 471154000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 425066000 | unit=USD | filed=2025-03-19 | period_end=2024-12-31

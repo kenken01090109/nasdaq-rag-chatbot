@@ -1,0 +1,25 @@
+Company: BayFirst Financial Corp. Common Stock
+Ticker: BAFN
+Market Cap: 25975226
+Enterprise Value: -144552160
+Total Revenue: 39595000
+Revenue Per Share: 9.592
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -0.23289
+Profit Margins: -0.57929003
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.017719999
+Return On Equity: -0.23111999
+Total Cash: 206982000
+Total Debt: 20819000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.36141136
+Beta: 0.303
+52 Week High: 19.75
+52 Week Low: 5.72

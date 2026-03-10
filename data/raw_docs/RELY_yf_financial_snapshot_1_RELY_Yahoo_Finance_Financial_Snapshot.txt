@@ -1,0 +1,25 @@
+Company: Remitly Global Inc. Common Stock
+Ticker: RELY
+Market Cap: 3589550848
+Enterprise Value: 3298230016
+Total Revenue: 1635147008
+Revenue Per Share: 7.944
+EBITDA: 91039000
+Gross Margins: 0.60205
+Operating Margins: 0.08778
+Profit Margins: 0.041550003
+Free Cashflow: 6116000
+Operating Cashflow: 325081984
+Return On Assets: 0.03918
+Return On Equity: 0.088549994
+Total Cash: 542425984
+Total Debt: 192122000
+Debt To Equity: 22.114
+Current Ratio: 3.298
+Quick Ratio: 2.127
+Trailing PE: 54.967743
+Forward PE: 11.687163
+Price To Book: 4.1309094
+Beta: 0.059
+52 Week High: 24.705
+52 Week Low: 12.08

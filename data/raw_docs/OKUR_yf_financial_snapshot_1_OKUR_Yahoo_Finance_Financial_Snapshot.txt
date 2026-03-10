@@ -1,0 +1,25 @@
+Company: OnKure Therapeutics Inc. Class A Common Stock
+Ticker: OKUR
+Market Cap: 41322008
+Enterprise Value: -26831692
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -66218000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -33472124
+Operating Cashflow: -63670000
+Return On Assets: -0.96529
+Return On Equity: -2.07362
+Total Cash: 70331000
+Total Debt: 687000
+Debt To Equity: 1.034
+Current Ratio: 11.45
+Quick Ratio: 11.258
+Trailing PE: 
+Forward PE: -0.8182428
+Price To Book: 0.6220681
+Beta: 
+52 Week High: 5.32
+52 Week Low: 1.7

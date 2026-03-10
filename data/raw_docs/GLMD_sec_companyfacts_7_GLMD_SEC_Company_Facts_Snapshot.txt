@@ -1,0 +1,10 @@
+Company: Galmed Pharmaceuticals Ltd. Ordinary Shares
+Ticker: GLMD
+CIK: 0001595353
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2021-03-18 | period_end=2020-12-31
+NetIncomeLoss: -5491000 | unit=USD | filed=2025-11-26 | period_end=2025-09-30
+Assets: 21584000 | unit=USD | filed=2025-11-26 | period_end=2025-09-30
+StockholdersEquity: 19112000 | unit=USD | filed=2025-11-26 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4370000 | unit=USD | filed=2025-11-26 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3314000 | unit=USD | filed=2025-11-26 | period_end=2025-09-30

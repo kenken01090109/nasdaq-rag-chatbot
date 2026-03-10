@@ -1,0 +1,11 @@
+Company: Hudson Technologies Inc. Common Stock
+Ticker: HDSN
+CIK: 0000925528
+Latest SEC XBRL Facts:
+Revenues: 202204000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 25300000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 338946000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 73057000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 265889000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 29381000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 89681000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

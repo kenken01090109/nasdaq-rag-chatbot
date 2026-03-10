@@ -1,0 +1,12 @@
+Company: Abivax SA American Depositary Shares
+Ticker: ABVX
+Total Revenue: 5311000
+Revenue Per Share: 0.081
+Gross Margins: 1.0
+Operating Margins: -126.30829
+EBITDA: -217952992
+Profit Margins: 0.0
+Free Cashflow: -180175376
+Operating Cashflow: -171415008
+Return On Assets: -0.31671
+Return On Equity: -1.06382

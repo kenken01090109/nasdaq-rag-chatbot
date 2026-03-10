@@ -1,0 +1,12 @@
+Company: uCloudlink Group Inc. American Depositary Shares
+Ticker: UCL
+CIK: 0001775898
+Latest SEC XBRL Facts:
+Revenues: 91635000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 33637000 | unit=USD | filed=2022-08-30 | period_end=2022-06-30
+NetIncomeLoss: 4558000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+Assets: 64979000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+Liabilities: 43356000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+StockholdersEquity: 21623000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 9186000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 30057000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31

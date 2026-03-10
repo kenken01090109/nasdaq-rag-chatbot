@@ -1,0 +1,8 @@
+Company: Agroz Inc. Ordinary Shares
+Ticker: AGRZ
+Total Cash: 3625690
+Total Debt: 11393532
+Debt To Equity: 69.847
+Current Ratio: 1.274
+Quick Ratio: 1.274
+Book Value: 0.19652605

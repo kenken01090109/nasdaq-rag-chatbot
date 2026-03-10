@@ -1,0 +1,11 @@
+Company: CVRx Inc. Common Stock
+Ticker: CVRX
+CIK: 0001235912
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 40627000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -41372000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 111325000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 63271000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 48054000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30412000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 85124000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

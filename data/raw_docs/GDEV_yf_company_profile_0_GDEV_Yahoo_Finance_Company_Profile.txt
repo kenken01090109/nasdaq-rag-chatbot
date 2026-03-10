@@ -1,0 +1,9 @@
+Company: GDEV Inc. Ordinary Shares
+Ticker: GDEV
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: Cyprus
+City: Limassol
+Website: https://gdev.inc
+Employees: 589
+Business Summary: GDEV Inc. develops and publishes online games in the United States, Europe, Asia, and internationally. Its core product offering includes Hero Wars, offers a suite of games across mobile, social, and web-based platforms, as well as franchises gaming in the role-playing game genre. The company was formerly known as Nexters Inc. and changed its name to GDEV Inc. in June 2023. GDEV Inc. was founded in 2010 and is headquartered in Limassol, Cyprus.

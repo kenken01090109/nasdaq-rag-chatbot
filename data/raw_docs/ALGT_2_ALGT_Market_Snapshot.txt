@@ -1,0 +1,10 @@
+Company: Allegiant Travel Company Common Stock
+Ticker: ALGT
+Market Cap: 1552391424
+Enterprise Value: 2597051904
+Trailing PE: 
+Forward PE: 7.967731
+Price To Book: 1.455058
+Beta: 1.572
+52 Week High: 118.0
+52 Week Low: 39.8

@@ -1,0 +1,25 @@
+Company: INNEOVA Holdings Limited Class A Ordinary Shares
+Ticker: INEO
+Market Cap: 8934637
+Enterprise Value: 23008772
+Total Revenue: 61204000
+Revenue Per Share: 4.547
+EBITDA: 463000
+Gross Margins: 0.18061
+Operating Margins: 0.03581
+Profit Margins: -0.02328
+Free Cashflow: -965125
+Operating Cashflow: 1204000
+Return On Assets: 0.00118
+Return On Equity: -0.20177001
+Total Cash: 8396000
+Total Debt: 22802000
+Debt To Equity: 204.209
+Current Ratio: 1.13
+Quick Ratio: 0.638
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7814762
+Beta: 
+52 Week High: 2.1
+52 Week Low: 0.462

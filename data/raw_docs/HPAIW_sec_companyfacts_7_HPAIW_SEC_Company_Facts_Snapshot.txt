@@ -1,0 +1,11 @@
+Company: Helport AI Limited Warrants
+Ticker: HPAIW
+CIK: 0002001699
+Latest SEC XBRL Facts:
+Revenues: 16406402 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetIncomeLoss: 1066894 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+Assets: 34251975 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+Liabilities: 17923365 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+StockholdersEquity: 16328610 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 3851298 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 852463 | unit=USD | filed=2025-03-31 | period_end=2024-12-31

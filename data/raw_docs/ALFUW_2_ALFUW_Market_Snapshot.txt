@@ -1,0 +1,10 @@
+Company: Centurion Acquisition Corp. Warrant
+Ticker: ALFUW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.50802135
+Beta: 
+52 Week High: 0.19
+52 Week Low: 0.1899

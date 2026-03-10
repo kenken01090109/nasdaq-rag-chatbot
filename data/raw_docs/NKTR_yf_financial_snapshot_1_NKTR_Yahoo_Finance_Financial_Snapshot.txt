@@ -1,0 +1,25 @@
+Company: Nektar Therapeutics  Common Stock
+Ticker: NKTR
+Market Cap: 1978151936
+Enterprise Value: 1370619136
+Total Revenue: 62600000
+Revenue Per Share: 4.096
+EBITDA: -135195008
+Gross Margins: 0.87257004
+Operating Margins: -2.67447
+Profit Margins: -1.9286901
+Free Cashflow: -57101876
+Operating Cashflow: -189739008
+Return On Assets: -0.27975
+Return On Equity: -1.8024299
+Total Cash: 270208000
+Total Debt: 167079008
+Debt To Equity: 196.365
+Current Ratio: 4.241
+Quick Ratio: 4.093
+Trailing PE: 
+Forward PE: -6.0298505
+Price To Book: 16.327944
+Beta: 1.231
+52 Week High: 75.67
+52 Week Low: 6.45

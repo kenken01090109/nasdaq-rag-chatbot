@@ -1,0 +1,11 @@
+Company: Mangoceuticals Inc. Common Stock
+Ticker: MGRX
+CIK: 0001938046
+Latest SEC XBRL Facts:
+Revenues: 361661 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -17873427 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 16531802 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 804275 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 15729266 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4772494 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 481281 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

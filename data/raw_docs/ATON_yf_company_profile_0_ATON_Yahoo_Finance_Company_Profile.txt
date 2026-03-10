@@ -1,0 +1,9 @@
+Company: AlphaTON Capital Corp. Common Stock
+Ticker: ATON
+Sector: Financial Services
+Industry: Asset Management
+Country: British Virgin Islands
+City: Road Town
+Website: https://alphatoncapital.com
+Employees: 3
+Business Summary: AlphaTON Capital Corp. operates as a digital asset treasury company. It focuses on building and managing a strategic reserve of The Open Network (TON) tokens and developing the Telegram ecosystem. The company provides public market investors with institutional-grade exposure to the TON ecosystem and Telegram's billion user platform. Its activities cover network validation and staking operations, and development of Telegram-based applications, as well as strategic investments in TON-based decentralized finance protocols, gaming platforms, and business applications. The company is also advancing various therapies that target known checkpoint resistance pathways to achieve durable treatment response and improve quality of life for patients. The company was formerly known as Portage Biotech Inc. and changed its name to AlphaTON Capital Corp. in September 2025. AlphaTON Capital Corp. is based in Road Town, British Virgin Islands.

@@ -1,0 +1,9 @@
+Company: Cumberland Pharmaceuticals Inc. Common Stock
+Ticker: CPIX
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Nashville
+Website: https://www.cumberlandpharma.com
+Employees: 91
+Business Summary: Cumberland Pharmaceuticals Inc., a specialty pharmaceutical company, focuses on the acquisition, development, and commercialization of prescription products for hospital acute care, gastroenterology, and oncology in the United States and internationally. The company offers Acetadote, an injection for the treatment of acetaminophen poisoning; Caldolor, an injection for the treatment of pain and fever; Kristalose, a prescription laxative oral solution for the treatment of constipation; Sancuso, an injection for the prevention of nausea and vomiting for patients receiving chemotherapy treatment; Vaprisol, an injection for treating euvolemic and hypervolemic hyponatremia; and Vibativ, an injection for the treatment of certain bacterial infections, including hospital-acquired and ventilator-associated bacterial pneumonia, as well as complicated skin and skin structure infections. It also develops ifetroban, a product candidate that has completed Phase II clinical trials for the treatment of the cardiomyopathy associate with Duchenne muscular dystrophy, hepatorenal syndrome, portal hypertension, and aspirin-exacerbated respiratory disease; and is in Phase II clinical trial for the treatment of systemic sclerosis and idiopathic pulmonary fibrosis. Cumberland Pharmaceuticals Inc. was incorporated in 1999 and is headquartered in Nashville, Tennessee.

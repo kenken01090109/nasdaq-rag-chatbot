@@ -1,0 +1,11 @@
+Company: Royalty Management Holding Corporation Class A Common Stock
+Ticker: RMCO
+CIK: 0001843656
+Latest SEC XBRL Facts:
+Revenues: 3553219 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -317378 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 18017593 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 3953828 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 14063765 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -54983 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 173174 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

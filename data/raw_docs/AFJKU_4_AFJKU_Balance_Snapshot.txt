@@ -1,0 +1,8 @@
+Company: Aimei Health Technology Co. Ltd Unit
+Ticker: AFJKU
+Total Cash: 2979
+Total Debt: 1655400
+Debt To Equity: 
+Current Ratio: 0.009
+Quick Ratio: 0.001
+Book Value: -0.562

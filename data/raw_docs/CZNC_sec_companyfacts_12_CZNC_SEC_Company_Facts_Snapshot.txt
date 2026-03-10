@@ -1,0 +1,10 @@
+Company: Citizens & Northern Corp Common Stock
+Ticker: CZNC
+CIK: 0000810958
+Latest SEC XBRL Facts:
+NetIncomeLoss: 18961000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2664033000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2370074000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 293959000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21424000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 123090000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

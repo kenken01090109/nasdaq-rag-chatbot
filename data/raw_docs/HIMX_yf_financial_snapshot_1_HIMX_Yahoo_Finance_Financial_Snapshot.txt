@@ -1,0 +1,25 @@
+Company: Himax Technologies Inc. American Depositary Shares
+Ticker: HIMX
+Market Cap: 1294359296
+Enterprise Value: 2999301120
+Total Revenue: 832172992
+Revenue Per Share: 4.768
+EBITDA: 66675000
+Gross Margins: 0.30566
+Operating Margins: 0.03363
+Profit Margins: 0.052800003
+Free Cashflow: 24455876
+Operating Cashflow: 140027008
+Return On Assets: 0.01635
+Return On Equity: 0.05035
+Total Cash: 286222016
+Total Debt: 596840000
+Debt To Equity: 66.158
+Current Ratio: 1.583
+Quick Ratio: 0.61
+Trailing PE: 29.6
+Forward PE: 16.444445
+Price To Book: 1.4453125
+Beta: 1.894
+52 Week High: 9.85
+52 Week Low: 5.66

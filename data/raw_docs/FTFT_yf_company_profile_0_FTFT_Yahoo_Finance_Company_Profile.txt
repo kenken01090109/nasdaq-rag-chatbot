@@ -1,0 +1,9 @@
+Company: Future FinTech Group Inc. Common Stock
+Ticker: FTFT
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New York
+Website: https://www.ftft.com
+Employees: 36
+Business Summary: Future FinTech Group Inc., through its subsidiaries, engages in supply-chain financing services and trading businesses in the People's Republic of China. It offers cross-border payment and money transfer, and brokerage and investment banking services, as well as trades in coal, aluminum ingots, sand, and steel. The company was formerly known as SkyPeople Fruit Juice, Inc. and changed its name to Future FinTech Group Inc. in June 2017. Future FinTech Group Inc. is headquartered in New York, New York.

@@ -1,0 +1,25 @@
+Company: Lake Shore Bancorp Inc. Common Stock
+Ticker: LSBK
+Market Cap: 113689240
+Enterprise Value: 49955812
+Total Revenue: 28018000
+Revenue Per Share: 3.739
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.32278
+Profit Margins: 0.25944
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.010290001
+Return On Equity: 0.062800005
+Total Cash: 64280000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.030928
+Forward PE: 
+Price To Book: 0.80266356
+Beta: 0.279
+52 Week High: 15.75
+52 Week Low: 10.044313

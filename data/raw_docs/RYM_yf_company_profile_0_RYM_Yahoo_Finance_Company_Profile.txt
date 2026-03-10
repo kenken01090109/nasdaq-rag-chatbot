@@ -1,0 +1,9 @@
+Company: RYTHM Inc. Common Stock
+Ticker: RYM
+Sector: Consumer Defensive
+Industry: Tobacco
+Country: United States
+City: Troy
+Website: https://agrify.com
+Employees: 11
+Business Summary: RYTHM, Inc. provides solutions for the cannabis and hemp industry in the United States. It offers consumers hemp-derived tetrahydrocannabinol beverages under the Señorita brand name. The company was formerly known as Agrify Corporation and changed its name to Agrify Corporation RYTHM, Inc. in August 2025. RYTHM, Inc. was incorporated in 2016 and is headquartered in Troy, Michigan.

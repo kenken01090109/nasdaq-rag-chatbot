@@ -1,0 +1,8 @@
+Company: American Coastal Insurance Corporation Common Stock
+Ticker: ACIC
+Total Cash: 188275008
+Total Debt: 159190000
+Debt To Equity: 46.73
+Current Ratio: 1.016
+Quick Ratio: 0.452
+Book Value: 7.416

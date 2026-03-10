@@ -1,0 +1,9 @@
+Company: ImageneBio Inc. Common Stock
+Ticker: IMA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.inmagenebio.com
+Employees: 
+Business Summary: ImageneBio, Inc., a clinical-stage biotechnology company, develops therapeutics for immunological and inflammatory diseases. The company was formerly known as Ikena Oncology, Inc. and changed its name to ImageneBio, Inc. in July 2025. ImageneBio, Inc. is headquartered in San Diego, California.

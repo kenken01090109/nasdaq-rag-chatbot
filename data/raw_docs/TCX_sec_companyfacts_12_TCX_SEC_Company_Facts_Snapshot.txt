@@ -1,0 +1,10 @@
+Company: Tucows Inc. Class A Common Stock
+Ticker: TCX
+CIK: 0000909494
+Latest SEC XBRL Facts:
+Revenues: 269177000 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+NetIncomeLoss: -53789000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 735491000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -144059000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3151000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 54078000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

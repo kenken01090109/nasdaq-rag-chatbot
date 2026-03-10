@@ -1,0 +1,25 @@
+Company: Forte Biosciences Inc. Common Stock
+Ticker: FBRX
+Market Cap: 360274656
+Enterprise Value: 266860656
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -53382000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -24480124
+Operating Cashflow: -44425000
+Return On Assets: -0.58066005
+Return On Equity: -1.10722
+Total Cash: 93414000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 7.344
+Quick Ratio: 7.231
+Trailing PE: 
+Forward PE: -8.020079
+Price To Book: 6.0970955
+Beta: 3.215
+52 Week High: 35.62
+52 Week Low: 4.9

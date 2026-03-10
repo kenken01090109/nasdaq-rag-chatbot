@@ -1,0 +1,9 @@
+Company: Lightwave Logic Inc. Common Stock
+Ticker: LWLG
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United States
+City: Englewood
+Website: https://lightwavelogic.com
+Employees: 31
+Business Summary: Lightwave Logic, Inc. focuses on the development of photonic devices and electro-optical polymer materials systems for fiber-optic data communications, telecommunications, and optical computing markets in the United States. The company is involved in the designing and synthesizing of organic chromophores for use in its electro-optic polymer systems and photonic device designs. It offers electro-optic modulators, which convert data from electric signals to optical signals for transmission over fiber-optic cables; and polymer photonic integrated circuits, a photonic device, which integrates various photonic circuits on a single chip. It focuses on selling its products to electro-optic device manufacturers, contract manufacturers, original equipment manufacturers, foundries, packaging and assembly manufacturers, etc.; and semiconductor companies, optical network companies, Web 2.0/3.0 media companies, computing companies, telecommunications companies, aerospace companies, automotive companies, and government agencies and defense entities. The company was formerly known as Third-order Nanotechnologies, Inc. and changed its name to Lightwave Logic, Inc. in March 2008. Lightwave Logic, Inc. was founded in 1991 and is headquartered in Englewood, Colorado.

@@ -1,0 +1,25 @@
+Company: Qorvo Inc. Common Stock
+Ticker: QRVO
+Market Cap: 7197668864
+Enterprise Value: 7592417792
+Total Revenue: 3739714048
+Revenue Per Share: 40.212
+EBITDA: 769558976
+Gross Margins: 0.44684
+Operating Margins: 0.19804001
+Profit Margins: 0.091079995
+Free Cashflow: 566845632
+Operating Cashflow: 731550016
+Return On Assets: 0.05144
+Return On Equity: 0.09624
+Total Cash: 1318509952
+Total Debt: 1549170048
+Debt To Equity: 41.889
+Current Ratio: 3.675
+Quick Ratio: 2.721
+Trailing PE: 21.38843
+Forward PE: 11.50795
+Price To Book: 1.9450847
+Beta: 1.35
+52 Week High: 106.3
+52 Week Low: 49.46

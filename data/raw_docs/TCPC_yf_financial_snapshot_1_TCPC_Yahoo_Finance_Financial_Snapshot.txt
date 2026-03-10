@@ -1,0 +1,25 @@
+Company: BlackRock TCP Capital Corp. Common Stock
+Ticker: TCPC
+Market Cap: 324092768
+Enterprise Value: 1309261568
+Total Revenue: 201786192
+Revenue Per Share: 2.374
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.86175
+Profit Margins: -0.44072
+Free Cashflow: 52744080
+Operating Cashflow: 154915648
+Return On Assets: 0.061539996
+Return On Equity: -0.12859
+Total Cash: 61075496
+Total Debt: 1035542848
+Debt To Equity: 173.164
+Current Ratio: 6.661
+Quick Ratio: 6.48
+Trailing PE: 
+Forward PE: 6.0395255
+Price To Book: 0.54015833
+Beta: 0.924
+52 Week High: 8.36
+52 Week Low: 3.82

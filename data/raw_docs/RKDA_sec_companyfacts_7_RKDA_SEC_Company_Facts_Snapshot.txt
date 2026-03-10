@@ -1,0 +1,11 @@
+Company: Arcadia Biosciences Inc. Common Stock
+Ticker: RKDA
+CIK: 0001469443
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3957000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -1003000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 8584000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3141000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 10287000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -3878000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1120000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

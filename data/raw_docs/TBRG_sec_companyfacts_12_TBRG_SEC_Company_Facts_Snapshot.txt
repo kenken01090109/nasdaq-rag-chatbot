@@ -1,0 +1,11 @@
+Company: TruBridge Inc. Common Stock
+Ticker: TBRG
+CIK: 0001169445
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 259043000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 8641000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 399412000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 219054000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 180358000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 28107000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19920000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

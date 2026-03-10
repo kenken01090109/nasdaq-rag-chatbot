@@ -1,0 +1,25 @@
+Company: Uranium Royalty Corp. Common Stock
+Ticker: UROY
+Market Cap: 492535616
+Enterprise Value: 442213760
+Total Revenue: 37945000
+Revenue Per Share: 0.285
+EBITDA: -2165000
+Gross Margins: 0.16034001
+Operating Margins: -71.609764
+Profit Margins: 0.01347
+Free Cashflow: 10552000
+Operating Cashflow: 29634000
+Return On Assets: -0.00449
+Return On Equity: 0.0016699999
+Total Cash: 82326000
+Total Debt: 183000
+Debt To Equity: 0.055
+Current Ratio: 265.743
+Quick Ratio: 80.301
+Trailing PE: 356.0
+Forward PE: Infinity
+Price To Book: 2.038098
+Beta: 1.691
+52 Week High: 5.52
+52 Week Low: 1.43

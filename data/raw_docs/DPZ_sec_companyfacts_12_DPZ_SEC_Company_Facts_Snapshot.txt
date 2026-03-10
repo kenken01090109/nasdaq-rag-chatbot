@@ -1,0 +1,11 @@
+Company: Domino's Pizza Inc Common Stock
+Ticker: DPZ
+CIK: 0001286681
+Latest SEC XBRL Facts:
+Revenues: 3404254000 | unit=USD | filed=2025-10-14 | period_end=2025-09-07
+NetIncomeLoss: 420061000 | unit=USD | filed=2025-10-14 | period_end=2025-09-07
+Assets: 1660277000 | unit=USD | filed=2025-10-14 | period_end=2025-09-07
+Liabilities: 5617601000 | unit=USD | filed=2026-02-23 | period_end=2025-12-28
+StockholdersEquity: -3961959000 | unit=USD | filed=2025-10-14 | period_end=2025-09-07
+NetCashProvidedByUsedInOperatingActivities: 552256000 | unit=USD | filed=2025-10-14 | period_end=2025-09-07
+CashAndCashEquivalentsAtCarryingValue: 139728000 | unit=USD | filed=2025-10-14 | period_end=2025-09-07

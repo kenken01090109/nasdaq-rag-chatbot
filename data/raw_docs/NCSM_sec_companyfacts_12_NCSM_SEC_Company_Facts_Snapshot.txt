@@ -1,0 +1,12 @@
+Company: NCS Multistage Holdings Inc. Common Stock
+Ticker: NCSM
+CIK: 0001692427
+Latest SEC XBRL Facts:
+Revenues: 107224000 | unit=USD | filed=2023-10-31 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 132997000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 8788000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 162024000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 34911000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 110137000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9044000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25295000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

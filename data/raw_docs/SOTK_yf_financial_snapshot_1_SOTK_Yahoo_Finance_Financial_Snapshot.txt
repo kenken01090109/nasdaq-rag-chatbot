@@ -1,0 +1,25 @@
+Company: Sono-Tek Corporation Common Stock
+Ticker: SOTK
+Market Cap: 62056036
+Enterprise Value: 50965192
+Total Revenue: 20420804
+Revenue Per Share: 1.298
+EBITDA: 2191555
+Gross Margins: 0.49909002
+Operating Margins: 0.06374
+Profit Margins: 0.07719
+Free Cashflow: -1432027
+Operating Cashflow: -564638
+Return On Assets: 0.03915
+Return On Equity: 0.0863
+Total Cash: 11719261
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.24
+Quick Ratio: 3.404
+Trailing PE: 39.5
+Forward PE: 32.916668
+Price To Book: 3.2430212
+Beta: -0.329
+52 Week High: 5.15
+52 Week Low: 3.23

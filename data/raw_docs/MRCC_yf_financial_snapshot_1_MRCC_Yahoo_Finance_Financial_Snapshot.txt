@@ -1,0 +1,25 @@
+Company: Monroe Capital Corporation Common Stock
+Ticker: MRCC
+Market Cap: 91865280
+Enterprise Value: 305170528
+Total Revenue: 43742000
+Revenue Per Share: 2.019
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.70631
+Profit Margins: -0.095769994
+Free Cashflow: 8768625
+Operating Cashflow: 108162000
+Return On Assets: 0.04654
+Return On Equity: -0.02253
+Total Cash: 3526000
+Total Debt: 211198000
+Debt To Equity: 122.053
+Current Ratio: 5.801
+Quick Ratio: 5.801
+Trailing PE: 
+Forward PE: 32.615383
+Price To Book: 0.5308626
+Beta: 0.769
+52 Week High: 8.29
+52 Week Low: 4.2

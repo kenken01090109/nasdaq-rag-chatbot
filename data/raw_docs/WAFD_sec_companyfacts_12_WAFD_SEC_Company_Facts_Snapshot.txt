@@ -1,0 +1,11 @@
+Company: WaFd Inc. Common Stock
+Ticker: WAFD
+CIK: 0000936528
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7858000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 64196000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 27285744000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 24256337000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 3029407000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 60480000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 734915000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

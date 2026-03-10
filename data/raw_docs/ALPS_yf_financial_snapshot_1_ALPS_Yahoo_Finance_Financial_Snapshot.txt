@@ -1,0 +1,25 @@
+Company: ALPS Group Inc Ordinary Share
+Ticker: ALPS
+Market Cap: 146598672
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 19.577776
+Beta: 
+52 Week High: 2.9
+52 Week Low: 0.562

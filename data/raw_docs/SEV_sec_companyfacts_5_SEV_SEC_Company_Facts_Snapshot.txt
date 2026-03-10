@@ -1,0 +1,10 @@
+Company: Aptera Motors Corp. Class B Common Stock
+Ticker: SEV
+CIK: 0001786471
+Latest SEC XBRL Facts:
+NetIncomeLoss: -28427000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 34913000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7671000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 27242000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10908000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11995000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

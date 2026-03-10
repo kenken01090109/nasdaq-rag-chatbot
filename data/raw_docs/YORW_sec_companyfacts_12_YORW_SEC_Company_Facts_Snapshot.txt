@@ -1,0 +1,11 @@
+Company: York Water Company (The) Common Stock
+Ticker: YORW
+CIK: 0000108985
+Latest SEC XBRL Facts:
+Revenues: 58016000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 57671000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 14891000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 667064000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 238021000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21432000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

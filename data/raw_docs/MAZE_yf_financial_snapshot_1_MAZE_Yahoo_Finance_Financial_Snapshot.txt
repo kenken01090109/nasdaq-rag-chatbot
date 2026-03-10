@@ -1,0 +1,25 @@
+Company: Maze Therapeutics Inc. Common Stock
+Ticker: MAZE
+Market Cap: 2157194752
+Enterprise Value: 1820058752
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -131957000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -68289752
+Operating Cashflow: -106662000
+Return On Assets: -0.27371
+Return On Equity: -0.52686
+Total Cash: 383935008
+Total Debt: 24183000
+Debt To Equity: 6.373
+Current Ratio: 17.696
+Quick Ratio: 17.395
+Trailing PE: 
+Forward PE: -14.2496605
+Price To Book: 5.680436
+Beta: 
+52 Week High: 49.25
+52 Week Low: 6.71

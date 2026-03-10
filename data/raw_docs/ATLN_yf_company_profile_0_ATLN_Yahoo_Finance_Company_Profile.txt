@@ -1,0 +1,9 @@
+Company: Atlantic International Corp. Common Stock
+Ticker: ATLN
+Sector: Industrials
+Industry: Staffing & Employment Services
+Country: United States
+City: Englewood Cliffs
+Website: https://www.atlantic-international.com
+Employees: 300
+Business Summary: Atlantic International Corp. operates as a staffing company servicing the commercial, professional, finance, direct placement, and managed service provider verticals. The company specializes in permanent, temporary, and temporary-to-permanent placement services in various areas, including accounting and finance, administrative and clerical, hospitality, information technology, legal, light industrial, and medical fields. It provides productivity consulting and workforce management solutions. The company was founded in 2018 and is based in Englewood Cliffs, New Jersey.

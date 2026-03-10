@@ -1,0 +1,11 @@
+Company: Dime Community Bancshares Inc. Common Stock
+Ticker: DCOM
+CIK: 0000846617
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 14494000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 78826000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 14538943000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 13086601000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1452342000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 140577000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 710467000 | unit=USD | filed=2020-11-06 | period_end=2020-09-30

@@ -1,0 +1,25 @@
+Company: Tianci International Inc. Common Stock
+Ticker: CIIT
+Market Cap: 8389877
+Enterprise Value: 6817486
+Total Revenue: 10120284
+Revenue Per Share: 0.644
+EBITDA: 
+Gross Margins: 0.05987
+Operating Margins: -0.0704
+Profit Margins: -0.27824
+Free Cashflow: -2412430
+Operating Cashflow: -3937906
+Return On Assets: -0.88228995
+Return On Equity: -1.67634
+Total Cash: 1677949
+Total Debt: 103716
+Debt To Equity: 3.816
+Current Ratio: 7.72
+Quick Ratio: 5.03
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.0853658
+Beta: 0.371
+52 Week High: 4.0
+52 Week Low: 0.218

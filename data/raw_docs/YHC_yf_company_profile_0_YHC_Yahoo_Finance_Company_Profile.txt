@@ -1,0 +1,9 @@
+Company: LQR House Inc. Common Stock
+Ticker: YHC
+Sector: Consumer Defensive
+Industry: Beverages - Wineries & Distilleries
+Country: United States
+City: Miami Beach
+Website: https://www.lqrhouse.com
+Employees: 4
+Business Summary: LQR House Inc. provides digital marketing and brand development services for the alcoholic beverage business in the United States. The company engages in the development of limited batch spirit brands and marketing internal and external brands through its CWS Platform. The company serves individual consumers, wholesalers, and third-party alcohol brands. LQR House Inc. was incorporated in 2021 and is based in Miami Beach, Florida.

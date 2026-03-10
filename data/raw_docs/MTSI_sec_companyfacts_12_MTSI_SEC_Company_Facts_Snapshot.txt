@@ -1,0 +1,11 @@
+Company: MACOM Technology Solutions Holdings Inc. Common Stock
+Ticker: MTSI
+CIK: 0001493594
+Latest SEC XBRL Facts:
+Revenues: 271612000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+NetIncomeLoss: 48767000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+Assets: 2105528000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+Liabilities: 752410000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+StockholdersEquity: 1353118000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: 42925000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 119646000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02

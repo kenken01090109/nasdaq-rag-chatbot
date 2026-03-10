@@ -1,0 +1,25 @@
+Company: Commerce Bancshares Inc. Common Stock
+Ticker: CBSH
+Market Cap: 7420905472
+Enterprise Value: 6152710144
+Total Revenue: 1711661056
+Revenue Per Share: 12.334
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.42567003
+Profit Margins: 0.33082
+Free Cashflow: 
+Operating Cashflow: 645136000
+Return On Assets: 0.01758
+Return On Equity: 0.1597
+Total Cash: 4489133056
+Total Debt: 3052690944
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.465346
+Forward PE: 11.455218
+Price To Book: 1.8292108
+Beta: 0.596
+52 Week High: 63.190475
+52 Week Low: 48.685715

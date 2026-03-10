@@ -1,0 +1,25 @@
+Company: Columbus McKinnon Corporation Common Stock
+Ticker: CMCO
+Market Cap: 481959168
+Enterprise Value: 964148160
+Total Revenue: 1002510976
+Revenue Per Share: 34.952
+EBITDA: 156440992
+Gross Margins: 0.34363
+Operating Margins: 0.08550999
+Profit Margins: 0.006
+Free Cashflow: 82288128
+Operating Cashflow: 56207000
+Return On Assets: 0.03951
+Return On Equity: 0.0067000003
+Total Cash: 35484000
+Total Debt: 523102016
+Debt To Equity: 56.683
+Current Ratio: 1.831
+Quick Ratio: 0.874
+Trailing PE: 79.85715
+Forward PE: 9.832259
+Price To Book: 0.5162065
+Beta: 1.312
+52 Week High: 24.4
+52 Week Low: 11.78

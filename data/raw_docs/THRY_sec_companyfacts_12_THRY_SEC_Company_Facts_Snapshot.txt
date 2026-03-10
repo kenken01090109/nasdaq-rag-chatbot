@@ -1,0 +1,11 @@
+Company: Thryv Holdings Inc. Common Stock
+Ticker: THRY
+CIK: 0001556739
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 593396000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 9967000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 701799000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 0 | unit=USD | filed=2013-04-29 | period_end=2013-03-31
+StockholdersEquity: 221076000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 41321000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11551000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

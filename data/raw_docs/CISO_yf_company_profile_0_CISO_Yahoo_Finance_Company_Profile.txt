@@ -1,0 +1,9 @@
+Company: CISO Global Inc. Common Stock
+Ticker: CISO
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Scottsdale
+Website: https://www.ciso.inc
+Employees: 141
+Business Summary: CISO Global Inc. operates as a cybersecurity, compliance, and software company in the United States, Chile, and internationally. The company offers security managed services, including compliance, secured managed, and cyber defense operation services; culture education and enablement; tools and technology provisioning; data, privacy, regulations, and compliance monitoring; remote infrastructure administration; and antivirus and patch management services. It also provides cybersecurity professional services, such as incident response and digital forensics; technical assessments; cybersecurity consulting; compliance auditing; vulnerability assessment and penetration testing; and disaster recovery and data backup solutions. The company was formerly known as Cerberus Cyber Sentinel Corporation and changed its name to CISO Global Inc. in May 2023. CISO Global Inc. was founded in 2015 and is headquartered in Scottsdale, Arizona.

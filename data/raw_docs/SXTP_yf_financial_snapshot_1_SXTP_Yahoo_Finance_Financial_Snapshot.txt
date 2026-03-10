@@ -1,0 +1,25 @@
+Company: 60 Degrees Pharmaceuticals Inc. Common Stock
+Ticker: SXTP
+Market Cap: 2638745
+Enterprise Value: 7700842
+Total Revenue: 1364945
+Revenue Per Share: 2.946
+EBITDA: -7831017
+Gross Margins: 0.42922002
+Operating Margins: -4.3997197
+Profit Margins: 0.0
+Free Cashflow: -3976114
+Operating Cashflow: -6794783
+Return On Assets: -0.7004
+Return On Equity: -1.5476899
+Total Cash: 4115779
+Total Debt: 153764
+Debt To Equity: 3.537
+Current Ratio: 2.871
+Quick Ratio: 2.18
+Trailing PE: 
+Forward PE: -0.26015228
+Price To Book: -0.4095086
+Beta: 3.027
+52 Week High: 17.68
+52 Week Low: 1.36

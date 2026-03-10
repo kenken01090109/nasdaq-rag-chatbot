@@ -1,0 +1,25 @@
+Company: GrowGeneration Corp. Common Stock
+Ticker: GRWG
+Market Cap: 67024656
+Enterprise Value: 50631656
+Total Revenue: 161356000
+Revenue Per Share: 2.711
+EBITDA: -17791000
+Gross Margins: 0.24971001
+Operating Margins: -0.06014
+Profit Margins: -0.24768999
+Free Cashflow: 3321625
+Operating Cashflow: -6175000
+Return On Assets: -0.09923001
+Return On Equity: -0.32248002
+Total Cash: 48310000
+Total Debt: 31917000
+Debt To Equity: 30.483
+Current Ratio: 3.812
+Quick Ratio: 2.09
+Trailing PE: 
+Forward PE: -4.48
+Price To Book: 0.64
+Beta: 2.401
+52 Week High: 2.4
+52 Week Low: 0.821

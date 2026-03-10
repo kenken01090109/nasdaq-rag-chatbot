@@ -1,0 +1,25 @@
+Company: Kiora Pharmaceuticals Inc.  Common Stock
+Ticker: KPRX
+Market Cap: 7282311
+Enterprise Value: -11525368
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -9315049
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6673432
+Operating Cashflow: -10033079
+Return On Assets: -0.17066999
+Return On Equity: -0.32578
+Total Cash: 19375444
+Total Debt: 404165
+Debt To Equity: 1.803
+Current Ratio: 8.795
+Quick Ratio: 8.543
+Trailing PE: 
+Forward PE: -0.88789237
+Price To Book: 0.3033553
+Beta: -0.8
+52 Week High: 4.18
+52 Week Low: 1.765

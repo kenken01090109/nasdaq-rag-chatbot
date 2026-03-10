@@ -1,0 +1,25 @@
+Company: Seagate Technology Holdings PLC Ordinary Shares (Ireland)
+Ticker: STX
+Market Cap: 79036153856
+Enterprise Value: 83864961024
+Total Revenue: 10058000384
+Revenue Per Share: 47.0
+EBITDA: 2852000000
+Gross Margins: 0.38775003
+Operating Margins: 0.29947
+Profit Margins: 0.19586
+Free Cashflow: 1095500032
+Operating Cashflow: 2022000000
+Return On Assets: 0.19409999
+Return On Equity: 
+Total Cash: 1046000000
+Total Debt: 4803999744
+Debt To Equity: 1046.623
+Current Ratio: 1.119
+Quick Ratio: 0.651
+Trailing PE: 39.864403
+Forward PE: 17.785511
+Price To Book: 167.68059
+Beta: 1.648
+52 Week High: 459.84
+52 Week Low: 63.19

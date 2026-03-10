@@ -1,0 +1,8 @@
+Company: ABVC BioPharma Inc. Common Stock
+Ticker: ABVC
+Total Cash: 257243
+Total Debt: 2472189
+Debt To Equity: 17.058
+Current Ratio: 0.626
+Quick Ratio: 0.04
+Book Value: 0.514

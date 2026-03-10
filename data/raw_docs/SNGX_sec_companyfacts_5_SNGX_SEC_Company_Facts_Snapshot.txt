@@ -1,0 +1,11 @@
+Company: Soligenix Inc. Common Stock
+Ticker: SNGX
+CIK: 0000812796
+Latest SEC XBRL Facts:
+Revenues: 119371 | unit=USD | filed=2025-11-07 | period_end=2024-09-30
+NetIncomeLoss: -8184191 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 11293917 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3695941 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 7597976 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7521449 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22875679 | unit=USD | filed=2022-05-13 | period_end=2022-03-31

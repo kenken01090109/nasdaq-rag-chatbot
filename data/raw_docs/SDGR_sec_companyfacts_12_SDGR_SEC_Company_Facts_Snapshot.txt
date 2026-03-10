@@ -1,0 +1,12 @@
+Company: Schrodinger Inc. Common Stock
+Ticker: SDGR
+CIK: 0001490978
+Latest SEC XBRL Facts:
+Revenues: 168634000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 168634000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -135776000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 653660000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 332308000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 321352000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 29992000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 172120000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

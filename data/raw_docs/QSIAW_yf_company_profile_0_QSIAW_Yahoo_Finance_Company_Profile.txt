@@ -1,0 +1,9 @@
+Company: Quantum-Si Incorporated Warrant
+Ticker: QSIAW
+Sector: 
+Industry: 
+Country: United States
+City: Branford
+Website: https://www.quantum-si.com
+Employees: 145
+Business Summary: Quantum-Si incorporated, a life sciences company, develops proprietary, universal, and single-molecule detection platform applied to proteomics to enable next-gen protein sequencing (NGPS). The company offers Platinum and Platinum Pro NGPS instruments for single-molecule, amino acid level resolution, and automated data analysis; library preparation kits to prepare a customer's protein sample for sequencing; and sequencing kits, which contain the reagents and consumables used to perform NGPS. It also provides Platinum analysis software, a cloud-based solution that automates data analysis workflows and visualizes the sequencing results. The company was founded in 2013 is headquartered in Branford, Connecticut.

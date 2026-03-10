@@ -1,0 +1,11 @@
+Company: Nordson Corporation Common Stock
+Ticker: NDSN
+CIK: 0000072331
+Latest SEC XBRL Facts:
+Revenues: 1685373000 | unit=USD | filed=2018-09-04 | period_end=2018-07-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 669461000 | unit=USD | filed=2026-02-19 | period_end=2026-01-31
+NetIncomeLoss: 133382000 | unit=USD | filed=2026-02-19 | period_end=2026-01-31
+Assets: 5960922000 | unit=USD | filed=2026-02-19 | period_end=2026-01-31
+StockholdersEquity: 3112106000 | unit=USD | filed=2026-02-19 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 140428000 | unit=USD | filed=2026-02-19 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 120392000 | unit=USD | filed=2026-02-19 | period_end=2026-01-31

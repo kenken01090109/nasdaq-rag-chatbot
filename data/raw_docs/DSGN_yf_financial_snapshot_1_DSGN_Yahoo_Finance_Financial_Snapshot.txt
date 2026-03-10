@@ -1,0 +1,25 @@
+Company: Design Therapeutics Inc. Common Stock
+Ticker: DSGN
+Market Cap: 572485760
+Enterprise Value: 370537312
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -76977000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -29692000
+Operating Cashflow: -52252000
+Return On Assets: -0.20488001
+Return On Equity: -0.29832
+Total Cash: 205970000
+Total Debt: 1743000
+Debt To Equity: 0.873
+Current Ratio: 18.708
+Quick Ratio: 18.558
+Trailing PE: 
+Forward PE: -7.7546296
+Price To Book: 2.8665147
+Beta: 1.634
+52 Week High: 11.14
+52 Week Low: 2.6

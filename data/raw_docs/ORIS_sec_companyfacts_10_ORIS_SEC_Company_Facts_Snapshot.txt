@@ -1,0 +1,11 @@
+Company: Oriental Rise Holdings Limited Ordinary Shares
+Ticker: ORIS
+CIK: 0001964664
+Latest SEC XBRL Facts:
+Revenues: 15014000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 2088000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 72120000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 2016000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 70104000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 3236000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 43015000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

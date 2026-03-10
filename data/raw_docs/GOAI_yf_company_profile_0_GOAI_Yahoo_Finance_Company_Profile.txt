@@ -1,0 +1,9 @@
+Company: Eva Live Inc. Common Stock
+Ticker: GOAI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Los Angeles
+Website: https://evaxai.com
+Employees: 3
+Business Summary: Eva Live, Inc., a technology company, develops an automated and intelligent advertiser campaign management platform in the United States. The company offers Eva Platform that enables advertisers to buy advertising space on various digital channels to reach their desired audience. It also owns Eva XML Platform, which buys traffic from various sources and sells that traffic to landing pages that display advertising via XML feeds. In addition, the company provides other advertising and branding services, such as developing landing pages, websites, widget designs, and banner designs services. The company was founded in 2015 and is headquartered in Los Angeles, California.

@@ -1,0 +1,25 @@
+Company: Catalyst Bancorp Inc. Common Stock
+Ticker: CLST
+Market Cap: 67505160
+Enterprise Value: 47088224
+Total Revenue: 11304000
+Revenue Per Share: 3.085
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.20482999
+Profit Margins: 0.18153
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00733
+Return On Equity: 0.025339998
+Total Cash: 25205000
+Total Debt: 14732000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 29.303572
+Forward PE: 
+Price To Book: 0.7043221
+Beta: 0.172
+52 Week High: 16.98
+52 Week Low: 10.67

@@ -1,0 +1,10 @@
+Company: FirstSun Capital Bancorp Common Stock
+Ticker: FSUN
+CIK: 0001709442
+Latest SEC XBRL Facts:
+NetIncomeLoss: 73129000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 8495437000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 7367924000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1127513000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 90733000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 659899000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

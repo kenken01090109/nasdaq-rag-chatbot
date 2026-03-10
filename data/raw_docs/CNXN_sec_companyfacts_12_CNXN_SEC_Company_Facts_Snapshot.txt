@@ -1,0 +1,12 @@
+Company: PC Connection Inc. Common Stock
+Ticker: CNXN
+CIK: 0001050377
+Latest SEC XBRL Facts:
+Revenues: 1331465000 | unit=USD | filed=2018-08-02 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2169807000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 63010000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 1305520000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 402778000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 902742000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38020000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 187845000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

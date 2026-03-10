@@ -1,0 +1,25 @@
+Company: Bruker Corporation Common Stock
+Ticker: BRKR
+Market Cap: 5583401984
+Enterprise Value: 7658341376
+Total Revenue: 3436499968
+Revenue Per Share: 22.638
+EBITDA: 499900000
+Gross Margins: 0.47952998
+Operating Margins: 0.065799996
+Profit Margins: -0.0025
+Free Cashflow: 216962496
+Operating Cashflow: 134100000
+Return On Assets: 0.02901
+Return On Equity: -0.0038400001
+Total Cash: 298800000
+Total Debt: 2042899968
+Debt To Equity: 81.381
+Current Ratio: 1.73
+Quick Ratio: 0.809
+Trailing PE: 
+Forward PE: 15.172636
+Price To Book: 2.2717702
+Beta: 1.188
+52 Week High: 56.22
+52 Week Low: 28.53

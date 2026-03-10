@@ -1,0 +1,25 @@
+Company: Clover Health Investments Corp. Class A Common Stock
+Ticker: CLOV
+Market Cap: 1049334592
+Enterprise Value: 965805312
+Total Revenue: 1923507968
+Revenue Per Share: 3.757
+EBITDA: -83843000
+Gross Margins: 0.18461001
+Operating Margins: -0.10112
+Profit Margins: -0.04448
+Free Cashflow: -35821624
+Operating Cashflow: -66934000
+Return On Assets: -0.09531
+Return On Equity: -0.26329002
+Total Cash: 120256000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.474
+Quick Ratio: 1.336
+Trailing PE: 
+Forward PE: 22.222221
+Price To Book: 3.3613443
+Beta: 2.236
+52 Week High: 3.92
+52 Week Low: 1.93

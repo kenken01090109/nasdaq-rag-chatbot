@@ -1,0 +1,11 @@
+Company: ClearSign Technologies Corporation Common Stock (DE)
+Ticker: CLIR
+CIK: 0001434524
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2019-08-14 | period_end=2019-06-30
+NetIncomeLoss: -5185000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 12747000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3669000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 10796000 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+NetCashProvidedByUsedInOperatingActivities: -3453000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10488000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

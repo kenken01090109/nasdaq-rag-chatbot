@@ -1,0 +1,9 @@
+Company: Twin Vee PowerCats Co. Common Stock
+Ticker: VEEE
+Sector: Consumer Cyclical
+Industry: Recreational Vehicles
+Country: United States
+City: Fort Pierce
+Website: https://twinvee.com
+Employees: 70
+Business Summary: Twin Vee Powercats Co. designs, manufactures, and markets recreational and commercial power boats. The company offers catamaran boats and dual hull vessels under the Twin Vee brand; and V-hull boats under the AquaSport brand for use in recreational activities, including fishing, diving and water skiing, as well as commercial activities, such as transportation, eco tours, fishing, and diving expeditions. It sells its boats through a network of independent boat dealers in North America, the Caribbean, and Central America. Twin Vee Powercats Co. was founded in 1996 and is headquartered in Fort Pierce, Florida.

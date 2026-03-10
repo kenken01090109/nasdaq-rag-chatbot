@@ -1,0 +1,9 @@
+Company: Crinetics Pharmaceuticals Inc. Common Stock
+Ticker: CRNX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.crinetics.com
+Employees: 594
+Business Summary: Crinetics Pharmaceuticals, Inc., a clinical-stage pharmaceutical company, focuses on the discovery, development, and commercialization of novel therapeutics for rare endocrine diseases and endocrine-related tumors. The company's lead product candidate is Paltusotine, an oral selective nonpeptide somatostatin receptor type 2 agonist, which is in a Phase 3 clinical trial for the treatment of acromegaly and carcinoid syndrome associated with neuroendocrine tumors. It is also developing Atumelnant, an investigational oral nonpeptide product candidate to antagonize the adrenocorticotrophic hormone (ACTH) receptor that has completed a Phase 1 study for the treatment of diseases caused by excess ACTH, including congenital adrenal hyperplasia and cushing's disease; and CRN09682, a nonpeptide drug conjugate for SST2 positive solid tumors. In addition, the company is developing antagonists of the parathyroid hormone (PTH) receptor for the treatment of primary hyperparathyroidism and humoral hypercalcemia of malignancy, and other diseases of excess PTH; thyroid-stimulating hormone receptor antagonists for the treatment of graves' disease and thyroid eye disease; and SST3 Agonist program for the treatment of polycystic kidney disease, as well as Oral GLP-1 and Oral GIP nonpeptides for the treatment of obesity. The company has an agreement with Sanwa Kagaku Kenkyusho Co., Ltd to develop and commercialize Paltusotine in Japan, and Cellular Longevity, Inc. to develop and commercialize CRN01941, a somatostatin receptor type 2 agonist. Crinetics Pharmaceuticals, Inc. was incorporated in 2008 and is headquartered in San Diego, California.

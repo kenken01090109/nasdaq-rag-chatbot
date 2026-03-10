@@ -1,0 +1,12 @@
+Company: Netskope Inc. Class A Common Stock
+Ticker: NTSK
+CIK: 0002063196
+Latest SEC XBRL Facts:
+Revenues: 512667000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 512667000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetIncomeLoss: -622618000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Assets: 1715036000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Liabilities: 1564005000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+StockholdersEquity: 151031000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 19950000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 984652000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31

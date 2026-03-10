@@ -1,0 +1,25 @@
+Company: New Horizon Aircraft Ltd. Warrant
+Ticker: HOVRW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -18448000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4605625
+Operating Cashflow: -10100000
+Return On Assets: -0.84389
+Return On Equity: -5.13427
+Total Cash: 24304000
+Total Debt: 19000
+Debt To Equity: 0.131
+Current Ratio: 6.51
+Quick Ratio: 6.427
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.6465273
+Beta: 2.938
+52 Week High: 0.4
+52 Week Low: 0.3511

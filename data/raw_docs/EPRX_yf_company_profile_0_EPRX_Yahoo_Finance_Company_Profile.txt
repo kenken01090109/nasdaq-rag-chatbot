@@ -1,0 +1,9 @@
+Company: Eupraxia Pharmaceuticals Inc. Common Stock
+Ticker: EPRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Victoria
+Website: https://www.eupraxiapharma.com
+Employees: 33
+Business Summary: Eupraxia Pharmaceuticals Inc., a clinical-stage biotechnology company, focuses on the development of products to address therapeutic areas with unmet medical need. The company's proprietary Diffusphere technology optimizes drug delivery for applications with significant unmet medical need. Its lead product candidates include EP-104IAR, which is in Phase III clinical trial for the treatment of unmet medical needs and pain relief for knee osteoarthritis; EP-104GI that is in Phase II clinical trial for treating eosinophilic esophagitis; and EP-104, which is under preclinical studies for the treatment of other inflammatory joint conditions, benign structures of the esophagus, and epidural delivery. The company was formerly known as Plaza Capital Partners Inc. and changed its name to Eupraxia Pharmaceuticals Inc. in May 2012. Eupraxia Pharmaceuticals Inc. was incorporated in 2011 and is headquartered in Victoria, Canada.

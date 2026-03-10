@@ -1,0 +1,9 @@
+Company: SuperX AI Technology Limited Ordinary Shares
+Ticker: SUPX
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Singapore
+City: Singapore
+Website: https://www.superx.sg
+Employees: 40
+Business Summary: SuperX AI Technology Limited provides AI infrastructure solutions for enterprises, research institutions, and cloud and edge computing deployments worldwide. Its services include advanced solution design and planning, infrastructure product integration, and end-to-end operations and maintenance. The company's principal products include AI servers, direct current solutions, and liquid cooling solutions, as well as AI cloud and AI agents. It also provides interior design, fit-out, and maintenance services to residential and commercial clients in the interior design market The company was formerly known as Super X AI Technology Limited and changed its name to SuperX AI Technology Limited in October 2025. SuperX AI Technology Limited was founded in 1998 and is headquartered in Singapore. SuperX AI Technology Limited operates as a subsidiary of OPS Holdings Limited.

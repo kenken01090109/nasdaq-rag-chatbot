@@ -1,0 +1,25 @@
+Company: VS Media Holdings Limited Class A Ordinary Shares
+Ticker: VSME
+Market Cap: 3245805
+Enterprise Value: -1719833
+Total Revenue: 7483152
+Revenue Per Share: 15.531
+EBITDA: -7894643
+Gross Margins: 0.26256
+Operating Margins: -1.2932899
+Profit Margins: -1.12238
+Free Cashflow: 543086
+Operating Cashflow: -2608019
+Return On Assets: -0.48459998
+Return On Equity: -1.9335699
+Total Cash: 7503773
+Total Debt: 2859681
+Debt To Equity: 37.26
+Current Ratio: 1.693
+Quick Ratio: 1.575
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.38101387
+Beta: 0.836
+52 Week High: 3.21
+52 Week Low: 0.07

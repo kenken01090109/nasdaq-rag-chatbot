@@ -1,0 +1,11 @@
+Company: CCSC Technology International Holdings Limited Class A Ordinary Shares
+Ticker: CCTG
+CIK: 0001931717
+Latest SEC XBRL Facts:
+Revenues: 9218459 | unit=USD | filed=2024-12-27 | period_end=2024-09-30
+NetIncomeLoss: -744320 | unit=USD | filed=2024-12-27 | period_end=2024-09-30
+Assets: 17425274 | unit=USD | filed=2024-12-27 | period_end=2024-09-30
+Liabilities: 5576733 | unit=USD | filed=2024-12-27 | period_end=2024-09-30
+StockholdersEquity: 11848541 | unit=USD | filed=2024-12-27 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -1121034 | unit=USD | filed=2024-12-27 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 3685043 | unit=USD | filed=2025-07-17 | period_end=2025-03-31

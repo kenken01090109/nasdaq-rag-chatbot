@@ -1,0 +1,25 @@
+Company: vTv Therapeutics Inc. Class A Common Stock
+Ticker: VTVT
+Market Cap: 139445216
+Enterprise Value: 341246016
+Total Revenue: 17000
+Revenue Per Share: 0.002
+EBITDA: -29779000
+Gross Margins: 0.0
+Operating Margins: -1753.8236
+Profit Margins: 0.0
+Free Cashflow: -11116500
+Operating Cashflow: -20829000
+Return On Assets: -0.26125
+Return On Equity: -0.64165
+Total Cash: 98504000
+Total Debt: 360000
+Debt To Equity: 0.51
+Current Ratio: 9.786
+Quick Ratio: 9.692
+Trailing PE: 
+Forward PE: -8.888052
+Price To Book: 6.228672
+Beta: 0.432
+52 Week High: 44.0
+52 Week Low: 14.0

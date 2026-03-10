@@ -1,0 +1,9 @@
+Company: Brera Holdings PLC Class B Ordinary Shares
+Ticker: SLMT
+Sector: Communication Services
+Industry: Entertainment
+Country: Ireland
+City: Dublin
+Website: https://www.breraholdings.com
+Employees: 34
+Business Summary: Brera Holdings PLC develops, manages, and operates football clubs. The company operates a football club under the Brera FC brand name. It is also involved in football division progression, player transfer and sponsorship services, as well as football and volleyball school services. In addition, the company engages in sports related consulting services. Brera Holdings PLC was founded in 2000 and is based in Dublin, Ireland.

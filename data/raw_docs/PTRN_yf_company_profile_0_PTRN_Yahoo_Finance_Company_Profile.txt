@@ -1,0 +1,9 @@
+Company: Pattern Group Inc. Series A Common Stock
+Ticker: PTRN
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Lehi
+Website: https://www.pattern.com
+Employees: 
+Business Summary: Pattern Group Inc. accelerates various brands on ecommerce marketplaces using proprietary technology and AI. It acquires inventory from brand partners to sell to consumers in various industries, including health and wellness, beauty and personal care, home and lifestyle, pet, sports and outdoors, and consumer electronics. The company was formerly known as Covalent Group, Inc. and changed its name to Pattern Group Inc. in November 2024. Pattern Group Inc. was incorporated in 2018 and is headquartered in Lehi, Utah.

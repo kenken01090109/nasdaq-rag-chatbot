@@ -1,0 +1,25 @@
+Company: Primis Financial Corp. Common Stock
+Ticker: FRST
+Market Cap: 320793024
+Enterprise Value: 381558368
+Total Revenue: 211298000
+Revenue Per Share: 8.566
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4741
+Profit Margins: 0.29079
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01495
+Return On Equity: 0.14682999
+Total Cash: 143766000
+Total Debt: 200827008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 5.2168674
+Forward PE: 6.04186
+Price To Book: 0.7585844
+Beta: 0.741
+52 Week High: 14.55
+52 Week Low: 7.59

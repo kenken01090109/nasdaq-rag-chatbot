@@ -1,0 +1,25 @@
+Company: AMERISAFE Inc. Common Stock
+Ticker: AMSF
+Market Cap: 652708672
+Enterprise Value: 569885568
+Total Revenue: 317295008
+Revenue Per Share: 16.718
+EBITDA: 59593000
+Gross Margins: 0.29126
+Operating Margins: 0.15557
+Profit Margins: 0.14858
+Free Cashflow: 37758876
+Operating Cashflow: 11070000
+Return On Assets: 0.03215
+Return On Equity: 0.18527001
+Total Cash: 76163000
+Total Debt: 491000
+Debt To Equity: 0.195
+Current Ratio: 2.037
+Quick Ratio: 1.377
+Trailing PE: 13.219231
+Forward PE: 15.447191
+Price To Book: 2.5658827
+Beta: 0.373
+52 Week High: 53.27
+52 Week Low: 32.0

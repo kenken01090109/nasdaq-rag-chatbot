@@ -1,0 +1,12 @@
+Company: Sabra Health Care REIT Inc. Common Stock
+Ticker: SBRA
+CIK: 0001492298
+Latest SEC XBRL Facts:
+Revenues: 562730000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 248449000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 128384000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 5564773000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2737820000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 2824934000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 261186000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 200602000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

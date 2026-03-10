@@ -1,0 +1,8 @@
+Company: Alpha Cognition Inc. Common Stock
+Ticker: ACOG
+Total Cash: 35398900
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.691
+Quick Ratio: 5.618
+Book Value: 2.087

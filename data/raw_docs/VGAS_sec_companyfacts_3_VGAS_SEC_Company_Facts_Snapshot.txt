@@ -1,0 +1,10 @@
+Company: Verde Clean Fuels Inc. Class A Common Stock
+Ticker: VGAS
+CIK: 0001841425
+Latest SEC XBRL Facts:
+NetIncomeLoss: -3662000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 67181000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3136000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -9612990 | unit=USD | filed=2022-11-21 | period_end=2022-09-30
+NetCashProvidedByUsedInOperatingActivities: -7563000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 59440000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

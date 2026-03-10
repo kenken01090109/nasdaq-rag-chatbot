@@ -1,0 +1,12 @@
+Company: Astrotech Corporation (DE) Common Stock
+Ticker: ASTC
+CIK: 0001001907
+Latest SEC XBRL Facts:
+Revenues: 1000000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 130000 | unit=USD | filed=2021-02-16 | period_end=2020-12-31
+NetIncomeLoss: -10920000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+Assets: 27492000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+Liabilities: 2740000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+StockholdersEquity: 24752000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -10591000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 28346000 | unit=USD | filed=2022-05-13 | period_end=2022-03-31

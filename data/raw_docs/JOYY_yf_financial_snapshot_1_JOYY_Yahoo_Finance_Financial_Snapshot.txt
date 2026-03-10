@@ -1,0 +1,25 @@
+Company: JOYY Inc. American Depositary Shares
+Ticker: JOYY
+Market Cap: 3122865664
+Enterprise Value: 60566417408
+Total Revenue: 2091778048
+Revenue Per Share: 39.404
+EBITDA: 133751504
+Gross Margins: 0.3637
+Operating Margins: 0.03619
+Profit Margins: 0.83115
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0051700003
+Return On Equity: 0.27672002
+Total Cash: 1251416064
+Total Debt: 34686000
+Debt To Equity: 0.524
+Current Ratio: 2.021
+Quick Ratio: 1.686
+Trailing PE: 
+Forward PE: 10.851698
+Price To Book: 0.4705518
+Beta: 0.457
+52 Week High: 70.96
+52 Week Low: 37.53

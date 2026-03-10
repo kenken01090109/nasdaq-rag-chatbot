@@ -1,0 +1,10 @@
+Company: BOK Financial Corporation Common Stock
+Ticker: BOKF
+CIK: 0000875357
+Latest SEC XBRL Facts:
+NetIncomeLoss: 400689000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 50193387000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 44168462000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 6022535000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 977503000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1891978000 | unit=USD | filed=2021-11-03 | period_end=2021-09-30

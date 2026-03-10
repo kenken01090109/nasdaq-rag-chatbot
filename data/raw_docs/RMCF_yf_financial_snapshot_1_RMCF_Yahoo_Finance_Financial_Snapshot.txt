@@ -1,0 +1,25 @@
+Company: Rocky Mountain Chocolate Factory Inc. Common Stock
+Ticker: RMCF
+Market Cap: 22865414
+Enterprise Value: 32753008
+Total Revenue: 29638000
+Revenue Per Share: 3.825
+EBITDA: -1995000
+Gross Margins: 0.13861
+Operating Margins: 0.01087
+Profit Margins: -0.13618
+Free Cashflow: 4375
+Operating Cashflow: -184000
+Return On Assets: -0.0956
+Return On Equity: -0.5096
+Total Cash: 641000
+Total Debt: 9222000
+Debt To Equity: 153.546
+Current Ratio: 1.659
+Quick Ratio: 0.834
+Trailing PE: 
+Forward PE: 2.5520835
+Price To Book: 3.1818182
+Beta: 0.69
+52 Week High: 2.99
+52 Week Low: 1.12

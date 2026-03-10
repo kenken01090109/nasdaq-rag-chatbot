@@ -1,0 +1,12 @@
+Company: Intuitive Machines Inc. Class A Common Stock
+Ticker: LUNR
+CIK: 0001844452
+Latest SEC XBRL Facts:
+Revenues: 165274000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 163824000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -43419000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 753530000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 509701000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -404174000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7023000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 621975000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

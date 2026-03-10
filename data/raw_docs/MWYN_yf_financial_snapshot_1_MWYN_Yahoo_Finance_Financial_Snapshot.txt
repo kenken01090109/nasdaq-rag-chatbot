@@ -1,0 +1,25 @@
+Company: Marwynn Holdings Inc. Common stock
+Ticker: MWYN
+Market Cap: 15840804
+Enterprise Value: 14503113
+Total Revenue: 11053486
+Revenue Per Share: 0.676
+EBITDA: -6412517
+Gross Margins: 0.42523
+Operating Margins: -7.97225
+Profit Margins: -0.685
+Free Cashflow: 9919
+Operating Cashflow: -4937659
+Return On Assets: -0.34023997
+Return On Equity: -2.52928
+Total Cash: 1361469
+Total Debt: 23643
+Debt To Equity: 0.836
+Current Ratio: 1.283
+Quick Ratio: 0.226
+Trailing PE: 
+Forward PE: 
+Price To Book: 5.602857
+Beta: 
+52 Week High: 11.2
+52 Week Low: 0.671

@@ -1,0 +1,25 @@
+Company: Advanced Biomed Inc. Common Stock
+Ticker: ADVB
+Market Cap: 6085830
+Enterprise Value: 2935746
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -2971404
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -10735010
+Operating Cashflow: -6077434
+Return On Assets: -0.26904
+Return On Equity: 0.80176
+Total Cash: 2604666
+Total Debt: 714692
+Debt To Equity: 7.538
+Current Ratio: 8.561
+Quick Ratio: 2.149
+Trailing PE: 1.2670455
+Forward PE: 
+Price To Book: 0.50895816
+Beta: 
+52 Week High: 80.0
+52 Week Low: 3.61

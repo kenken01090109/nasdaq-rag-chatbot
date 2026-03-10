@@ -1,0 +1,25 @@
+Company: Sotherly Hotels Inc. 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock
+Ticker: SOHON
+Market Cap: 72697000
+Enterprise Value: 781135168
+Total Revenue: 177571120
+Revenue Per Share: 8.881
+EBITDA: 35376040
+Gross Margins: 0.24086
+Operating Margins: 0.01354
+Profit Margins: -0.0015
+Free Cashflow: 19468784
+Operating Cashflow: 14232085
+Return On Assets: 0.02362
+Return On Equity: -0.00949
+Total Cash: 9432658
+Total Debt: 349332032
+Debt To Equity: 950.413
+Current Ratio: 0.209
+Quick Ratio: 0.093
+Trailing PE: 
+Forward PE: 
+Price To Book: -5.18125
+Beta: 0.696
+52 Week High: 18.421
+52 Week Low: 10.06

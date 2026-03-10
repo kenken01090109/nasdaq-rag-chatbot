@@ -1,0 +1,9 @@
+Company: Mediaco Holding Inc. Class A Common Stock
+Ticker: MDIA
+Sector: Communication Services
+Industry: Broadcasting
+Country: United States
+City: New York
+Website: https://mediacoholding.com
+Employees: 407
+Business Summary: MediaCo Holding Inc. owns and operates radio stations in the United States. It operates in two segments, Audio and Video. The company engages in the operation of WQHT-FM and WBLS-FM radio stations, and WMBC-TV television station in the New York City area. It also offers digital advertising; and events, including sponsorships, ticket sales, licensing, and syndication services. MediaCo Holding Inc. was incorporated in 2019 and is headquartered in New York, New York.

@@ -1,0 +1,10 @@
+Company: The Marzetti Company Common Stock
+Ticker: MZTI
+CIK: 0000057515
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1011425000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: 106261000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 1328859000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 1032827000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 158127000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 201584000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

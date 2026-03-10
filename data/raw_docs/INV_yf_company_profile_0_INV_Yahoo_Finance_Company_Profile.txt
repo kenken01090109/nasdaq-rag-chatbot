@@ -1,0 +1,9 @@
+Company: Innventure Inc. Common Stock
+Ticker: INV
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Orlando
+Website: https://www.innventure.com
+Employees: 
+Business Summary: Innventure, Inc. identifies, funds, and operates companies with a focus on sustainable technology solutions acquired or licensed from multinational corporations. The company was founded in 2015 and is headquartered in Orlando, Florida.

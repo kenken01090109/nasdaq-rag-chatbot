@@ -1,0 +1,25 @@
+Company: Autonomix Medical Inc. Common Stock
+Ticker: AMIX
+Market Cap: 4891186
+Enterprise Value: -5042814
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -17492000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -5933875
+Operating Cashflow: -11899000
+Return On Assets: -0.98977
+Return On Equity: -1.88745
+Total Cash: 9934000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.176
+Quick Ratio: 6.021
+Trailing PE: 
+Forward PE: -0.057932433
+Price To Book: 0.5716
+Beta: -2.787
+52 Week High: 2.82
+52 Week Low: 0.342

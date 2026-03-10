@@ -1,0 +1,9 @@
+Company: Horizon Technology Finance Corporation Common Stock
+Ticker: HRZN
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Farmington
+Website: 
+Employees: 
+Business Summary: Horizon Technology Finance Corporation is a business development company specializing in lending and and investing in development-stage investments. It focuses on making secured debt and venture lending investments to venture capital backed companies in the technology, life science, healthcare information and services, cleantech and sustainability industries. It seeks to invest in companies in the United States.

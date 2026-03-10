@@ -1,0 +1,12 @@
+Company: Harvard Bioscience Inc. Common Stock
+Ticker: HBIO
+CIK: 0001123494
+Latest SEC XBRL Facts:
+Revenues: 23771000 | unit=USD | filed=2020-05-08 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 62815000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -12423000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 77992000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 63924000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 14068000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6825000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6817000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

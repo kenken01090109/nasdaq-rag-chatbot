@@ -1,0 +1,25 @@
+Company: Euronet Worldwide Inc. Common Stock
+Ticker: EEFT
+Market Cap: 3083136512
+Enterprise Value: 3385818112
+Total Revenue: 4244199936
+Revenue Per Share: 101.503
+EBITDA: 668499968
+Gross Margins: 0.24520999
+Operating Margins: 0.08722
+Profit Margins: 0.072919995
+Free Cashflow: 337237504
+Operating Cashflow: 559800000
+Return On Assets: 0.05376
+Return On Equity: 0.24533
+Total Cash: 1690599936
+Total Debt: 2177299968
+Debt To Equity: 164.635
+Current Ratio: 1.108
+Quick Ratio: 0.525
+Trailing PE: 10.72076
+Forward PE: 6.018055
+Price To Book: 2.2058117
+Beta: 0.822
+52 Week High: 114.25
+52 Week Low: 64.34

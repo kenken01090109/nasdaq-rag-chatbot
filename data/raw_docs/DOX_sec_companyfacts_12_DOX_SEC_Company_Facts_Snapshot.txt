@@ -1,0 +1,11 @@
+Company: Amdocs Limited Ordinary Shares
+Ticker: DOX
+CIK: 0001062579
+Latest SEC XBRL Facts:
+Revenues: 5004989000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30
+NetIncomeLoss: 493197000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30
+Assets: 6386142000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30
+Liabilities: 2886965000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30
+StockholdersEquity: 3456976000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 724428000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 346085000 | unit=USD | filed=2024-12-17 | period_end=2024-09-30

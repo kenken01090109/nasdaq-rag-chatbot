@@ -1,0 +1,25 @@
+Company: First Financial Bancorp. Common Stock
+Ticker: FFBC
+Market Cap: 2849971200
+Enterprise Value: 3173774080
+Total Revenue: 855344000
+Revenue Per Share: 8.977
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38639
+Profit Margins: 0.29883
+Free Cashflow: 
+Operating Cashflow: 337860992
+Return On Assets: 0.01288
+Return On Equity: 0.098170005
+Total Cash: 1209795968
+Total Debt: 1641148032
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.244361
+Forward PE: 8.04174
+Price To Book: 0.9694749
+Beta: 0.968
+52 Week High: 31.38
+52 Week Low: 21.1

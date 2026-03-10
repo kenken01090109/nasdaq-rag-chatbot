@@ -1,0 +1,10 @@
+Company: Aldel Financial II Inc. Warrants
+Ticker: ALDFW
+CIK: 0002031561
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7092083 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Assets: 241577012 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Liabilities: 13364 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+StockholdersEquity: 914240 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7225207 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 746386 | unit=USD | filed=2025-10-27 | period_end=2025-09-30

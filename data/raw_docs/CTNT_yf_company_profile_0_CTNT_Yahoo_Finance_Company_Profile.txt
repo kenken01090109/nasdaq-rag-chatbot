@@ -1,0 +1,9 @@
+Company: Cheetah Net Supply Chain Service Inc Class A Common Stock
+Ticker: CTNT
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: United States
+City: Irvine
+Website: https://cheetah-net.com
+Employees: 13
+Business Summary: Cheetah Net Supply Chain Service Inc., together with its subsidiaries, provides logistics and warehousing services in the United States and internationally. The company was formerly known as Yuan Qiu Business Group LLC and changed its name to Cheetah Net Supply Chain Service Inc. in March 2022. The company was incorporated in 2016 and is headquartered in Irvine, California. Cheetah Net Supply Chain Service Inc. is a subsidiary of Fairview Eastern International Holdings Limited.

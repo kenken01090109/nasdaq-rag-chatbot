@@ -1,0 +1,12 @@
+Company: Pioneer Power Solutions Inc. Common Stock
+Ticker: PPSI
+CIK: 0001449792
+Latest SEC XBRL Facts:
+Revenues: 21998000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 21998000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -4607000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 37580000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6881000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 30699000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4780000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17999000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

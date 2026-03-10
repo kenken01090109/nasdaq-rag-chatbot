@@ -1,0 +1,12 @@
+Company: Coherus Oncology Inc. Common Stock
+Ticker: CHRS
+CIK: 0001512762
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2019-02-28 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 123856000 | unit=USD | filed=2020-02-27 | period_end=2019-12-31
+NetIncomeLoss: 205667000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 516519000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 428745000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 87774000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -118797000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 103352000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

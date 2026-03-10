@@ -1,0 +1,10 @@
+Company: Titan Acquisition Corp. Warrants
+Ticker: TACHW
+CIK: 0002009183
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5334881 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 283888683 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 13170928 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -12160466 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -536520 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 859596 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

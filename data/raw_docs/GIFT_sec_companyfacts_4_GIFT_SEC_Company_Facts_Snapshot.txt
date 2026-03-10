@@ -1,0 +1,12 @@
+Company: Giftify Inc. Common Stock
+Ticker: GIFT
+CIK: 0001760233
+Latest SEC XBRL Facts:
+Revenues: 61961652 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 61961652 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -8244603 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 32142059 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 10964927 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 21177132 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -496067 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4021227 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Security National Financial Corporation Class A Common Stock
+Ticker: SNFCA
+Market Cap: 245534464
+Enterprise Value: 245428304
+Total Revenue: 340876480
+Revenue Per Share: 13.814
+EBITDA: 37984772
+Gross Margins: 0.465
+Operating Margins: 0.12560001
+Profit Margins: 0.054619998
+Free Cashflow: 26908280
+Operating Cashflow: 49978520
+Return On Assets: 0.01166
+Return On Equity: 0.05232
+Total Cash: 103882480
+Total Debt: 123178616
+Debt To Equity: 33.712
+Current Ratio: 13.992
+Quick Ratio: 5.071
+Trailing PE: 12.162162
+Forward PE: 
+Price To Book: 0.60835475
+Beta: 0.745
+52 Week High: 12.380952
+52 Week Low: 7.32381

@@ -1,0 +1,9 @@
+Company: Trevi Therapeutics Inc. Common Stock
+Ticker: TRVI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New Haven
+Website: https://www.trevitherapeutics.com
+Employees: 34
+Business Summary: Trevi Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of investigational therapy for the treatment of chronic cough in patients with idiopathic pulmonary fibrosis (IPF) and non-IPF interstitial lung disease, and refractory chronic cough. The company is developing Haduvio, an oral extended-release formulation of nalbuphine, which is in phase 2b Cough Reduction in IPF with nalbuphine ER clinical trial for treatment of chronic cough in patients with IPF; phase 2 clinical trial in patients with pruritus; and phase 2b/3 clinical trial in patients with prurigo nodularis. Trevi Therapeutics, Inc. has a license agreement with Endo Pharmaceuticals Inc. to develop and commercialize products incorporating nalbuphine hydrochloride in various formulations. The company was incorporated in 2011 and is headquartered in New Haven, Connecticut.

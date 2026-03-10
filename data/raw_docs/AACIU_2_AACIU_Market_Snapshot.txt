@@ -1,0 +1,10 @@
+Company: Armada Acquisition Corp. III Units
+Ticker: AACIU
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 
+52 Week High: 9.98
+52 Week Low: 9.96

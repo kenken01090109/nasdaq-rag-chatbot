@@ -1,0 +1,12 @@
+Company: Curis Inc. Common Stock
+Ticker: CRIS
+CIK: 0001108205
+Latest SEC XBRL Facts:
+Revenues: 2468000 | unit=USD | filed=2018-05-03 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 8305000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -26938000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 27641000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 42332000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -14691000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20830000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9051000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

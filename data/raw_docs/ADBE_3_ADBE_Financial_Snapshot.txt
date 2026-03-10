@@ -1,0 +1,12 @@
+Company: Adobe Inc. Common Stock
+Ticker: ADBE
+Total Revenue: 23768999936
+Revenue Per Share: 55.77
+Gross Margins: 0.89268
+Operating Margins: 0.36503
+EBITDA: 9242000384
+Profit Margins: 0.29997
+Free Cashflow: 8805874688
+Operating Cashflow: 10030999552
+Return On Assets: 0.18221001
+Return On Equity: 0.55426

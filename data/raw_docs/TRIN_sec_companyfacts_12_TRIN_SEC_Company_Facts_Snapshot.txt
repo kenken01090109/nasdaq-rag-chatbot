@@ -1,0 +1,9 @@
+Company: Trinity Capital Inc. Common Stock
+Ticker: TRIN
+CIK: 0001786108
+Latest SEC XBRL Facts:
+Assets: 2246935000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1248671000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 998264000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -370496000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9467000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

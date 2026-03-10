@@ -1,0 +1,9 @@
+Company: MarketWise Inc. Class A Common Stock
+Ticker: MKTW
+Sector: Financial Services
+Industry: Financial Data & Stock Exchanges
+Country: United States
+City: Baltimore
+Website: https://www.marketwise.com
+Employees: 439
+Business Summary: MarketWise, Inc. operates a content and technology multi-brand platform for self-directed investors in the United States and Internationally. Its platform provides financial research, software, education, and tools to navigate the financial markets through subscription businesses. The company offers various investment strategies, such as value investing, income, growth, commodities, cryptocurrencies, venture, crowdfunded investing, biotechnology, mutual funds, options, and trading; investment research product portfolio through a range of media, including desktops, laptops, tablets, and mobile; and financial newsletters. It provides a suite of stock research tools and portfolio management services under the Chaikin Analytics brand; portfolio management software tools under the TradeSmith brand name; and database of accounting-based financial summaries under the Altimetry brand. In addition, the company develops screeners, monitors, portfolio management tools, and proprietary indicators that produce a composite score to rank publicly traded companies. The company was founded in 1999 and is based in Baltimore, Maryland.

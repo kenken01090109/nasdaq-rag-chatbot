@@ -1,0 +1,12 @@
+Company: KLA Corporation Common Stock
+Ticker: KLAC
+CIK: 0000319201
+Latest SEC XBRL Facts:
+Revenues: 1448669000 | unit=USD | filed=2011-01-28 | period_end=2010-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 6506842000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetIncomeLoss: 2266722000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Assets: 16720228000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+Liabilities: 11254497000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+StockholdersEquity: 5465731000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 2529198000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2452124000 | unit=USD | filed=2026-01-30 | period_end=2025-12-31

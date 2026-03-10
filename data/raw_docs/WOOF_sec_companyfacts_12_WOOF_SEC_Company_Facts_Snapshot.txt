@@ -1,0 +1,11 @@
+Company: Petco Health and Wellness Company Inc. Class A Common Stock
+Ticker: WOOF
+CIK: 0001826470
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4446339000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+NetIncomeLoss: 11641000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+Assets: 5205124000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+Liabilities: 4047528000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+StockholdersEquity: 1157596000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 160528000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 237413000 | unit=USD | filed=2025-12-05 | period_end=2025-11-01

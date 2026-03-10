@@ -1,0 +1,9 @@
+Company: TrustCo Bank Corp NY Common Stock
+Ticker: TRST
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Glenville
+Website: https://www.trustcobank.com
+Employees: 743
+Business Summary: TrustCo Bank Corp NY operates as the holding company for Trustco Bank that provides personal and business banking services to individuals and businesses. It accepts deposits; and offers loans and investments. The company also operates as a real estate investment trust that acquires, holds, and manages real estate mortgage assets, including residential mortgage loans and mortgage-backed securities. In addition, it operates as the executor of estates and trustee of personal trusts; provides asset and wealth management, estate planning and related advice, and custodial services; and acts as trustee for various types of employee benefit plans, and corporate pension and profit-sharing trusts. The company operates through banking offices in Albany, Columbia, Dutchess, Greene, Montgomery, Orange, Putnam, Rensselaer, Rockland, Saratoga, Schenectady, Schoharie, Ulster, Warren, Washington, and Westchester counties of New York; Brevard, Charlotte, Flagler, Hillsborough, Indian River, Lake, Manatee, Martin, Orange, Osceola, Palm Beach, Polk, Sarasota, Seminole, and Volusia counties in Florida; Bennington County in Vermont; Berkshire County in Massachusetts; and Bergen County in New Jersey, as well as automatic teller machines. The company was founded in 1902 and is headquartered in Glenville, New York.

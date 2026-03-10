@@ -1,0 +1,11 @@
+Company: Citius Pharmaceuticals Inc. Common Stock
+Ticker: CTXR
+CIK: 0001506251
+Latest SEC XBRL Facts:
+Revenues: 3944111 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -11511505 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+Assets: 140391730 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 46923760 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 79958162 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -13008822 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 7721393 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

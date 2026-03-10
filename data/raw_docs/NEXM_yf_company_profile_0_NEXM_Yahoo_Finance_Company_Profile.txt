@@ -1,0 +1,9 @@
+Company: NexMetals Mining Corp. Common Shares
+Ticker: NEXM
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Toronto
+Website: https://nexmetalsmining.com
+Employees: 
+Business Summary: NexMetals Mining Corp., through its subsidiaries, engages in the acquisition, exploration, and evaluation of mineral properties in Canada, Barbados, and Botswana. The company's flagship project is the Selebi nickel-copper-cobalt sulphide mine located in Botswana. It also explores for platinum deposits. The company was formerly known as Premium Resources Ltd. and changed its name to NexMetals Mining Corp. in June 2025. NexMetals Mining Corp. is headquartered in Toronto, Canada.

@@ -1,0 +1,9 @@
+Company: MiNK Therapeutics Inc. Common Stock
+Ticker: INKT
+CIK: 0001840229
+Latest SEC XBRL Facts:
+NetIncomeLoss: -9892157 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 14963665 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -13512982 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3851442 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14281212 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

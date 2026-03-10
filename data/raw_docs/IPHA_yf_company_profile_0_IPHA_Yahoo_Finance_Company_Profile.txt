@@ -1,0 +1,9 @@
+Company: Innate Pharma S.A. ADS
+Ticker: IPHA
+Sector: Healthcare
+Industry: Biotechnology
+Country: France
+City: Marseille
+Website: https://www.innate-pharma.com
+Employees: 174
+Business Summary: Innate Pharma S.A. operates as a biotechnology company that develops immunotherapies for cancer patients in France and internationally. The company's products include Lacutamab (IPH4102), an anti-KIR3DL2 antibody, which is in Phase II clinical trials for the treatment of cutaneous T-cell and peripheral T-cell lymphoma, as well as in Phase II clinical trials to treat refractory sézary syndrome; Monalizumab, an immune checkpoint inhibitor that is in Phase III clinical trial to treat advanced solid tumors comprising colorectal and lung cancer, as well as head and neck cancer; IPH5201, a blocking antibody that is in Phase II clinical trials targeting the CD39 immunosuppressive pathway; IPH5301, an anti-CD73 antibody targeting the immunosuppressive adenosine pathway to promote antitumor immunity; IPH6401, an BCMA-targeting NK cell engager; and IPH6101, a NKp46-based NK cell engager that targets CD123 proprietary multi-specific antibody format; and IPH62, an B7-H3-targeting NK cell engager. Its products in preclinical trials are IPH43, an anti-MICA/B ADC and IPH45, an antibody drug conjugates (ADC); and IPH67, an undisclosed, multi-specific ANKET. The company has licensing and collaboration agreements with AstraZeneca, Novo Nordisk A/S, Sanofi, and Orega Biotech; and co-development and license agreement with MedImmune Limited. Innate Pharma S.A. was incorporated in 1999 and is based in Marseille, France.

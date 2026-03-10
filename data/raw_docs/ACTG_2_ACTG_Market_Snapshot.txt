@@ -1,0 +1,10 @@
+Company: Acacia Research Corporation (Acacia Tech) Common Stock
+Ticker: ACTG
+Market Cap: 397416736
+Enterprise Value: 177619760
+Trailing PE: 68.666664
+Forward PE: -7.7735853
+Price To Book: 0.7392787
+Beta: 0.542
+52 Week High: 4.32
+52 Week Low: 2.7

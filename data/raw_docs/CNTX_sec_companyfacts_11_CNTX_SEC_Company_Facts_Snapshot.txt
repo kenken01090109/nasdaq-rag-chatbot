@@ -1,0 +1,10 @@
+Company: Context Therapeutics Inc. Common Stock
+Ticker: CNTX
+CIK: 0001842952
+Latest SEC XBRL Facts:
+NetIncomeLoss: -23098008 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 79231160 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 6056994 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 73174166 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17442425 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 76938183 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

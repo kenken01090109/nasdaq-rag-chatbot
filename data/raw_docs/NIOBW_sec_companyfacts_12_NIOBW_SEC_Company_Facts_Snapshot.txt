@@ -1,0 +1,10 @@
+Company: NioCorp Developments Ltd. Warrant
+Ticker: NIOBW
+CIK: 0001512228
+Latest SEC XBRL Facts:
+NetIncomeLoss: -43282000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 348013000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 39965000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 308698000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -7507000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 306363000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: J-Long Group Limited Class A Ordinary Shares
+Ticker: JL
+Sector: Consumer Cyclical
+Industry: Apparel Manufacturing
+Country: Hong Kong
+City: Tsuen Wan
+Website: https://j-long.com
+Employees: 167
+Business Summary: J-Long Group Limited distributes reflective and non-reflective garment trims in Asia, Hong Kong, the People's Republic of China, and internationally. The company offers reflective, heat transfers, workwear trims, patches, packaging, fabrics, woven labels and tapes, sewing badges, piping, zipper pulls, and drawcords. It sells its products through online. J-Long Group Limited was founded in 1985 and is headquartered in Tsuen Wan, Hong Kong.

@@ -1,0 +1,10 @@
+Company: United-Guardian Inc. Common Stock
+Ticker: UG
+CIK: 0000101295
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1456162 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 12180345 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1597909 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 10582436 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1636324 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 860836 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

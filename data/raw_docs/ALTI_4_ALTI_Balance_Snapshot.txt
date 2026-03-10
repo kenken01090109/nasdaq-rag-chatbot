@@ -1,0 +1,8 @@
+Company: AlTi Global Inc. Class A Common Stock
+Ticker: ALTI
+Total Cash: 35847000
+Total Debt: 64308000
+Debt To Equity: 7.276
+Current Ratio: 1.073
+Quick Ratio: 0.981
+Book Value: 2.61

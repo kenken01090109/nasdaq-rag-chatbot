@@ -1,0 +1,9 @@
+Company: Gores Holdings X Inc. Warrants
+Ticker: GTENW
+CIK: 0001986817
+Latest SEC XBRL Facts:
+NetIncomeLoss: 51703 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 365470067 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 29998372 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -28732368 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -413368 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

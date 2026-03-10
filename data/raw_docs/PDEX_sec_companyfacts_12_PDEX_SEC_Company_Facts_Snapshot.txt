@@ -1,0 +1,11 @@
+Company: Pro-Dex Inc. Common Stock
+Ticker: PDEX
+CIK: 0000788920
+Latest SEC XBRL Facts:
+Revenues: 37194000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetIncomeLoss: 6867000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Assets: 62256000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Liabilities: 20625000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+StockholdersEquity: 41631000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 5882000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 5273000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31

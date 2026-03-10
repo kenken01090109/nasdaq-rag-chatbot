@@ -1,0 +1,9 @@
+Company: Regency Centers Corporation 5.875% Series B Cumulative Redeemable Preferred Stock
+Ticker: REGCO
+Sector: Real Estate
+Industry: REIT - Retail
+Country: United States
+City: Jacksonville
+Website: https://www.regencycenters.com
+Employees: 503
+Business Summary: Regency Centers Corporation is a preeminent national owner, operator, and developer of shopping centers located in suburban trade areas with compelling demographics. Our portfolio includes thriving properties merchandised with highly productive grocers, restaurants, service providers, and best-in-class retailers that connect to their neighborhoods, communities, and customers. Operating as a fully integrated real estate company, Regency Centers is a qualified real estate investment trust (REIT) that is self-administered, self-managed, and an S&P 500 Index member.

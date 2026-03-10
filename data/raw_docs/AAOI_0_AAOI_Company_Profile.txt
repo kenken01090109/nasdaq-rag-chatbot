@@ -1,0 +1,9 @@
+Company: Applied Optoelectronics Inc. Common Stock
+Ticker: AAOI
+Long Business Summary: Applied Optoelectronics, Inc. engages in the design, manufacture, and sale of fiber-optic networking products in the United States, Taiwan, and China. The company offers optical modules, optical filters, lasers, laser components, subassemblies, transmitters and transceivers, turn-key equipment, headend, node, and distribution equipment, as well as amplifiers. It sells its products to internet data center operators, cable television, telecom equipment manufacturers, fiber-to-the-home, and internet service providers through its direct and indirect sales channels. Applied Optoelectronics, Inc. was incorporated in 1997 and is headquartered in Sugar Land, Texas.
+Industry: Communication Equipment
+Sector: Technology
+Website: https://www.ao-inc.com
+Country: United States
+City: Sugar Land
+Full Time Employees: 4691

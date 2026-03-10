@@ -1,0 +1,12 @@
+Company: Presidio Property Trust Inc. Class A Common Stock
+Ticker: SQFT
+CIK: 0001080657
+Latest SEC XBRL Facts:
+Revenues: 12700066 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10656987 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -4302021 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 127808885 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 98461525 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 21098683 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -380224 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6101402 | unit=USD | filed=2018-05-11 | period_end=2018-03-31

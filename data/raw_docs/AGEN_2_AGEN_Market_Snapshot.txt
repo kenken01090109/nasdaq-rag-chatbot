@@ -1,0 +1,10 @@
+Company: Agenus Inc. Common Stock
+Ticker: AGEN
+Market Cap: 105533712
+Enterprise Value: 135261376
+Trailing PE: 
+Forward PE: 1.4936061
+Price To Book: -0.34953317
+Beta: 1.672
+52 Week High: 7.34
+52 Week Low: 1.38

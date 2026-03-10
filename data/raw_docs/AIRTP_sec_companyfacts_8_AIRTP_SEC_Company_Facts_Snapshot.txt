@@ -1,0 +1,12 @@
+Company: Air T Inc. Air T Funding Alpha Income Trust Preferred Securities
+Ticker: AIRTP
+CIK: 0000353184
+Latest SEC XBRL Facts:
+Revenues: 225535000 | unit=USD | filed=2025-02-12 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 70870000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetIncomeLoss: -1636000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Assets: 190037000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Liabilities: 184745000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+StockholdersEquity: -4630000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1095000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 14460000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

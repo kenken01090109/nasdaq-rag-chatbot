@@ -1,0 +1,11 @@
+Company: iOThree Limited Ordinary Shares
+Ticker: IOTR
+CIK: 0001997637
+Latest SEC XBRL Facts:
+Revenues: 10478550 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+NetIncomeLoss: -230515 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+Assets: 5666505 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+Liabilities: 3921024 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+StockholdersEquity: 1745481 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 488097 | unit=USD | filed=2025-08-06 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 443117 | unit=USD | filed=2025-08-06 | period_end=2025-03-31

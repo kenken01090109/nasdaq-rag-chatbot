@@ -1,0 +1,9 @@
+Company: UY Scuti Acquisition Corp. Units
+Ticker: UYSCU
+CIK: 0002036973
+Latest SEC XBRL Facts:
+NetIncomeLoss: 553899 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 59307665 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 1079401 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -843312 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 8849 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

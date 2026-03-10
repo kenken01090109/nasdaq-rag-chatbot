@@ -1,0 +1,25 @@
+Company: KLA Corporation Common Stock
+Ticker: KLAC
+Market Cap: 176663576576
+Enterprise Value: 188257681408
+Total Revenue: 12744611840
+Revenue Per Share: 96.606
+EBITDA: 5742102016
+Gross Margins: 0.61574
+Operating Margins: 0.41313
+Profit Margins: 0.35764
+Free Cashflow: 3222999808
+Operating Cashflow: 4766347776
+Return On Assets: 0.21087
+Return On Equity: 1.00726
+Total Cash: 5207463936
+Total Debt: 6109477888
+Debt To Equity: 111.778
+Current Ratio: 2.828
+Quick Ratio: 1.852
+Trailing PE: 39.19971
+Forward PE: 28.974432
+Price To Book: 32.260426
+Beta: 1.448
+52 Week High: 1693.35
+52 Week Low: 551.33

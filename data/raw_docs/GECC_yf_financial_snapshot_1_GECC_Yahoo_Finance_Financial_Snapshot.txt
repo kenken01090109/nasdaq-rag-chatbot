@@ -1,0 +1,25 @@
+Company: Great Elm Capital Corp. Common Stock
+Ticker: GECC
+Market Cap: 79789560
+Enterprise Value: 
+Total Revenue: 46553000
+Revenue Per Share: 4.037
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.7664
+Profit Margins: -0.17084
+Free Cashflow: 22814124
+Operating Cashflow: 10023000
+Return On Assets: 0.05037
+Return On Equity: -0.059809998
+Total Cash: 
+Total Debt: 200188992
+Debt To Equity: 142.892
+Current Ratio: 0.075
+Quick Ratio: 0.062
+Trailing PE: 
+Forward PE: 6.785714
+Price To Book: 0.5695443
+Beta: 0.678
+52 Week High: 11.455
+52 Week Low: 5.64

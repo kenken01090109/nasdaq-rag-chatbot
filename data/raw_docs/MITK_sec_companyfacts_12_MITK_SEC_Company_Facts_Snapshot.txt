@@ -1,0 +1,12 @@
+Company: Mitek Systems Inc. Common Stock
+Ticker: MITK
+CIK: 0000807863
+Latest SEC XBRL Facts:
+Revenues: 42522000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 44244000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 2772000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 446453000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 212797000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 233656000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 8018000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 175122000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

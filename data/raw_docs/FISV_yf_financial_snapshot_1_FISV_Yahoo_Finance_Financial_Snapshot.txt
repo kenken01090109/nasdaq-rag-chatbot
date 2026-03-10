@@ -1,0 +1,25 @@
+Company: Fiserv Inc. Common Stock
+Ticker: FISV
+Market Cap: 33938454528
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.952681
+Forward PE: 6.9569244
+Price To Book: 1.3064182
+Beta: 
+52 Week High: 227.0
+52 Week Low: 57.79

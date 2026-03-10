@@ -1,0 +1,25 @@
+Company: Marine Petroleum Trust Units of Beneficial Interest
+Ticker: MARPS
+Market Cap: 10650000
+Enterprise Value: 10290289
+Total Revenue: 1067324
+Revenue Per Share: 0.534
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.71536005
+Profit Margins: 0.68954
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.48571998
+Return On Equity: 0.77715
+Total Cash: 1009711
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 14.791665
+Forward PE: 
+Price To Book: 10.544554
+Beta: 0.382
+52 Week High: 7.9
+52 Week Low: 3.34

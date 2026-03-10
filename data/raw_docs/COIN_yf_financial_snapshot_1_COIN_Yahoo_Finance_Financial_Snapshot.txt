@@ -1,0 +1,25 @@
+Company: Coinbase Global Inc. Class A Common Stock
+Ticker: COIN
+Market Cap: 53181874176
+Enterprise Value: 50585673728
+Total Revenue: 6883438080
+Revenue Per Share: 26.466
+EBITDA: 1671160960
+Gross Margins: 0.85178
+Operating Margins: 0.11299
+Profit Margins: 0.1831
+Free Cashflow: 1298361984
+Operating Cashflow: 2426383104
+Return On Assets: 0.0355
+Return On Equity: 0.10055
+Total Cash: 11595216896
+Total Debt: 7857989120
+Debt To Equity: 53.119
+Current Ratio: 2.343
+Quick Ratio: 1.375
+Trailing PE: 44.41892
+Forward PE: 33.046246
+Price To Book: 3.5707562
+Beta: 3.709
+52 Week High: 444.65
+52 Week Low: 139.36

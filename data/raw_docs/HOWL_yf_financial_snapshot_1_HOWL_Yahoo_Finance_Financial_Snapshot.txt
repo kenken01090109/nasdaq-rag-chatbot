@@ -1,0 +1,25 @@
+Company: Werewolf Therapeutics Inc. Common Stock
+Ticker: HOWL
+Market Cap: 30672552
+Enterprise Value: 1747026
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -69931000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -39992876
+Operating Cashflow: -63520000
+Return On Assets: -0.40748
+Return On Equity: -1.22429
+Total Cash: 65711000
+Total Debt: 37300000
+Debt To Equity: 125.954
+Current Ratio: 3.873
+Quick Ratio: 3.733
+Trailing PE: 
+Forward PE: -0.50150794
+Price To Book: 1.0094249
+Beta: 0.788
+52 Week High: 2.38
+52 Week Low: 0.53

@@ -1,0 +1,11 @@
+Company: Baozun Inc. American Depositary Shares
+Ticker: BZUN
+CIK: 0001625414
+Latest SEC XBRL Facts:
+Revenues: 1290840000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetIncomeLoss: -25370000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Assets: 1398352000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Liabilities: 606417000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+StockholdersEquity: 536218000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 13875000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 176636000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31

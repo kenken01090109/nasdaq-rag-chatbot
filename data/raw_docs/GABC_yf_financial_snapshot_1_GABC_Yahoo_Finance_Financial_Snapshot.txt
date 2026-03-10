@@ -1,0 +1,25 @@
+Company: German American Bancorp Inc. Common Stock
+Ticker: GABC
+Market Cap: 1503986048
+Enterprise Value: 1599865728
+Total Revenue: 342019008
+Revenue Per Share: 9.295
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47419998
+Profit Margins: 0.32931998
+Free Cashflow: 
+Operating Cashflow: 159316000
+Return On Assets: 0.01534
+Return On Equity: 0.11999
+Total Cash: 123027000
+Total Debt: 192659008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.107843
+Forward PE: 10.099027
+Price To Book: 1.2939126
+Beta: 0.603
+52 Week High: 45.0
+52 Week Low: 32.75

@@ -1,0 +1,25 @@
+Company: Limbach Holdings Inc. Common Stock
+Ticker: LMB
+Market Cap: 954561408
+Enterprise Value: 996513152
+Total Revenue: 646803968
+Revenue Per Share: 55.879
+EBITDA: 69572000
+Gross Margins: 0.26177
+Operating Margins: 0.09477
+Profit Margins: 0.060399998
+Free Cashflow: 25213876
+Operating Cashflow: 45700000
+Return On Assets: 0.08769
+Return On Equity: 0.22377001
+Total Cash: 11345000
+Total Debt: 55871000
+Debt To Equity: 28.555
+Current Ratio: 1.444
+Quick Ratio: 1.407
+Trailing PE: 27.095709
+Forward PE: 16.539547
+Price To Book: 4.8787737
+Beta: 1.374
+52 Week High: 154.05
+52 Week Low: 63.02

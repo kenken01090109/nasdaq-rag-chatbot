@@ -1,0 +1,25 @@
+Company: KalVista Pharmaceuticals Inc. Common Stock
+Ticker: KALV
+Market Cap: 820366272
+Enterprise Value: 793787328
+Total Revenue: 1426000
+Revenue Per Share: 0.028
+EBITDA: -201820000
+Gross Margins: 0.0
+Operating Margins: -3.36328
+Profit Margins: 0.0
+Free Cashflow: -100205000
+Operating Cashflow: -167188992
+Return On Assets: -0.60978
+Return On Equity: -1.90176
+Total Cash: 309158016
+Total Debt: 282579008
+Debt To Equity: 1662.327
+Current Ratio: 5.365
+Quick Ratio: 5.159
+Trailing PE: 
+Forward PE: -11.133367
+Price To Book: 48.30357
+Beta: -0.29
+52 Week High: 19.0
+52 Week Low: 9.235

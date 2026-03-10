@@ -1,0 +1,25 @@
+Company: Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock
+Ticker: GOODN
+Market Cap: 
+Enterprise Value: 2114585856
+Total Revenue: 161336000
+Revenue Per Share: 3.467
+EBITDA: 112310000
+Gross Margins: 0.78141
+Operating Margins: 0.40027002
+Profit Margins: 0.119540006
+Free Cashflow: 70995248
+Operating Cashflow: 88151000
+Return On Assets: 0.03201
+Return On Equity: 0.05647
+Total Cash: 13940000
+Total Debt: 851777984
+Debt To Equity: 249.107
+Current Ratio: 1.673
+Quick Ratio: 1.227
+Trailing PE: 
+Forward PE: 
+Price To Book: 6.432074
+Beta: 1.082
+52 Week High: 24.35
+52 Week Low: 20.51

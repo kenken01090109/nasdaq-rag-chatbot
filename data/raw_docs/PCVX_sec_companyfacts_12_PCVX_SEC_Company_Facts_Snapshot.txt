@@ -1,0 +1,10 @@
+Company: Vaxcyte Inc. Common Stock
+Ticker: PCVX
+CIK: 0001649094
+Latest SEC XBRL Facts:
+NetIncomeLoss: -520121000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 3171600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 278718000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 2892882000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -430745000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 281080000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

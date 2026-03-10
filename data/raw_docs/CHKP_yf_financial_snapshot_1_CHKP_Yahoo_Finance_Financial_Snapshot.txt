@@ -1,0 +1,25 @@
+Company: Check Point Software Technologies Ltd. Ordinary Shares
+Ticker: CHKP
+Market Cap: 17737146368
+Enterprise Value: 16507215872
+Total Revenue: 2725400064
+Revenue Per Share: 25.4
+EBITDA: 891500032
+Gross Margins: 0.87917
+Operating Margins: 0.31266
+Profit Margins: 0.38779998
+Free Cashflow: 665437504
+Operating Cashflow: 1234200064
+Return On Assets: 0.07661
+Return On Equity: 0.37271
+Total Cash: 3014899968
+Total Debt: 1972099968
+Debt To Equity: 68.426
+Current Ratio: 2.047
+Quick Ratio: 1.954
+Trailing PE: 17.174637
+Forward PE: 14.32668
+Price To Book: 6.1167674
+Beta: 0.633
+52 Week High: 234.36
+52 Week Low: 150.17

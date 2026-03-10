@@ -1,0 +1,8 @@
+Company: Autodesk Inc. Common Stock
+Ticker: ADSK
+Total Cash: 2596999936
+Total Debt: 2734000128
+Debt To Equity: 89.787
+Current Ratio: 0.851
+Quick Ratio: 0.695
+Book Value: 14.363

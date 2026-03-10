@@ -1,0 +1,9 @@
+Company: Credo Technology Group Holding Ltd Ordinary Shares
+Ticker: CRDO
+Sector: Technology
+Industry: Semiconductors
+Country: Cayman Islands
+City: Grand Cayman
+Website: https://credosemi.com
+Employees: 622
+Business Summary: Credo Technology Group Holding Ltd provides various high-speed connectivity solutions for optical and electrical Ethernet, and PCIe applications in the United States, Taiwan, Mainland China, Hong Kong, and internationally. It provides HiWire active electrical cables solutions, including HiWire CLOS, SPAN, SHIFT, and SWITCH; optical PAM4 digital signal processors; low-power line card PHY; serializer/deserializer (SerDes) chiplets; and SerDes IP, as well as integrated circuits. The company also offers intellectual property solutions consist of SerDes IP licensing. In addition, it offers predictive integrity link optimization and telemetry; PCIe retimer solutions; and support and maintenance, engineering, and royalties services. The company sells its products to hyperscalers, original equipment manufacturers, original design manufacturers, and optical module manufacturers, as well as into the enterprise and HPC markets. Credo Technology Group Holding Ltd was founded in 2008 and is based in Grand Cayman, the Cayman Islands.

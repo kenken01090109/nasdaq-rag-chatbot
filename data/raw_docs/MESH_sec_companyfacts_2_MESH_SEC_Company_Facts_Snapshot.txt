@@ -1,0 +1,7 @@
+Company: Meshflow Acquisition Corp. Class A Ordinary Shares
+Ticker: MESH
+CIK: 0002081468
+Latest SEC XBRL Facts:
+NetIncomeLoss: -49311 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+Assets: 251849 | unit=USD | filed=2026-01-21 | period_end=2025-09-30
+StockholdersEquity: -24311 | unit=USD | filed=2026-01-21 | period_end=2025-09-30

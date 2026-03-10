@@ -1,0 +1,12 @@
+Company: Red Violet Inc. Common Stock
+Ticker: RDVT
+CIK: 0001720116
+Latest SEC XBRL Facts:
+Revenues: 66860000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 66860000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 10339000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 112071000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 10338000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 101733000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22660000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45352000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

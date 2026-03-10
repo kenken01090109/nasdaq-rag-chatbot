@@ -1,0 +1,9 @@
+Company: American Bitcoin Corp. Class A Common Stock
+Ticker: ABTC
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Miami
+Website: https://www.abtc.com
+Employees: 
+Business Summary: American Bitcoin Corp., a Bitcoin accumulation platform company, focuses on building Bitcoin infrastructure platform. The company delivers institutional-grade exposure to Bitcoin through business model that integrates self-mining operations with accumulation strategies. The company is based in Miami, Florida. American Bitcoin Corp. operates as a subsidiary of Hut 8 Corp.

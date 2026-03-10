@@ -1,0 +1,11 @@
+Company: Mechanics Bancorp Class A Common Stock
+Ticker: MCHB
+CIK: 0001518715
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 35666000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetIncomeLoss: 141437000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 22708820000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 19934686000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 2774134000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 79669000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1442647000 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

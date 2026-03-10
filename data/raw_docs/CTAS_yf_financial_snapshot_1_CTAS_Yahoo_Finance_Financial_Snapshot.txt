@@ -1,0 +1,25 @@
+Company: Cintas Corporation Common Stock
+Ticker: CTAS
+Market Cap: 81824079872
+Enterprise Value: 84825653248
+Total Revenue: 10794925056
+Revenue Per Share: 26.788
+EBITDA: 2848997120
+Gross Margins: 0.50249
+Operating Margins: 0.23417999
+Profit Margins: 0.17584999
+Free Cashflow: 1546515584
+Operating Cashflow: 2206518016
+Return On Assets: 0.15904
+Return On Equity: 0.43396
+Total Cash: 200842000
+Total Debt: 3237064960
+Debt To Equity: 72.656
+Current Ratio: 1.705
+Quick Ratio: 0.812
+Trailing PE: 44.07143
+Forward PE: 37.638226
+Price To Book: 18.274097
+Beta: 0.944
+52 Week High: 229.24
+52 Week Low: 180.39

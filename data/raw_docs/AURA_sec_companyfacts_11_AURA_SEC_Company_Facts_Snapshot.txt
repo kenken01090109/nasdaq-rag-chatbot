@@ -1,0 +1,10 @@
+Company: Aura Biosciences Inc. Common Stock
+Ticker: AURA
+CIK: 0001501796
+Latest SEC XBRL Facts:
+NetIncomeLoss: -80632000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 190024000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 33357000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 156667000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -64273000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47553000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

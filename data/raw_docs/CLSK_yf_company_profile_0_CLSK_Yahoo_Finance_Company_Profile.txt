@@ -1,0 +1,9 @@
+Company: CleanSpark Inc. Common Stock
+Ticker: CLSK
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Henderson
+Website: https://www.cleanspark.com
+Employees: 309
+Business Summary: CleanSpark, Inc. operates as a bitcoin mining company in the Americas. The company owns, leases, and operates data centers and power assets. Its infrastructure supports Bitcoin, a digital commodity. The company was formerly known as Stratean Inc. and changed its name to CleanSpark, Inc. in November 2016. CleanSpark, Inc. was incorporated in 1987 and is headquartered in Henderson, Nevada.

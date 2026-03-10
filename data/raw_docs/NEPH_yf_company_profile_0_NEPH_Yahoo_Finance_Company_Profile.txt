@@ -1,0 +1,9 @@
+Company: Nephros Inc. Common Stock
+Ticker: NEPH
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: South Orange
+Website: https://www.nephros.com
+Employees: 31
+Business Summary: Nephros, Inc., a commercial-stage company, develops and sells water solutions to the medical and commercial markets in the United States. The company offers ultrafiltration products that are used in dialysis centers for the removal of biological contaminants from water and bicarbonate concentrate; and in hospitals for the prevention of infection from waterborne pathogens, such as legionella and pseudomonas, as well as in military and outdoor recreation, commercial, and other healthcare facilities. It also manufactures and sells water filters that enhance the taste and odor of water, as well as reduce biofilm, bacteria, cysts, particulates, heavy metals, chemical compounds, scale build-up in downstream equipment, and other various contaminants. It markets its products to food service, hospitality, convenience store, and health care markets, as well as medical institutions. The company was incorporated in 1997 and is headquartered in South Orange, New Jersey.

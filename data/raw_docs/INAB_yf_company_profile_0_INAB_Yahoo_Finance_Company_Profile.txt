@@ -1,0 +1,9 @@
+Company: IN8bio Inc. Common Stock
+Ticker: INAB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://in8bio.com
+Employees: 17
+Business Summary: IN8bio, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of gamma-delta T cell product candidates for the treatment of cancer and autoimmune diseases. Its products include INB-400, which is in Phase 2 clinical trial to treat newly diagnosed glioblastoma (GBM); INB-200, a genetically modified autologous gamma-delta T cell product candidate that is in Phase I clinical trial for the treatment of GBM; and INB-100, an allogeneic product candidate, which is in Phase I clinical trial to treat patients with hematologic malignancies undergoing hematopoietic stem cell transplantation. The company also develops INB-619, a gamma-delta TCE targeting CD19 for both oncology and autoimmune diseases; INB-300, a nsCAR-enabled DeltEx product candidates targeting difficult liquid tumors and extracranial solid tumors; and INB-500, an induced pluripotent stem cell derived gamma-delta T cells that are in preclinical phase for treatment of cancer. The company was formerly known as Incysus Therapeutics, Inc. and changed its name to IN8bio, Inc. in August 2020. IN8bio, Inc. was incorporated in 2016 and is based in New York, New York.

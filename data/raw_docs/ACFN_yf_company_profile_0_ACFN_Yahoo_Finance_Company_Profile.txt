@@ -1,0 +1,9 @@
+Company: Acorn Energy Inc. Common Stock
+Ticker: ACFN
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: Wilmington
+Website: https://www.acornenergy.com
+Employees: 25
+Business Summary: Acorn Energy, Inc., through its subsidiary, develops and markets wireless remote monitoring and control systems in the United States and internationally. It operates in two segments, Power Generation Monitoring and Cathodic Protection Monitoring. The company offers wireless remote monitoring and control systems and IoT applications for residential and commercial/industrial power generation equipment; and power generator monitors and AIRGuard products, which remotely monitors and controls industrial air compressors. It also provides remote monitoring and control products for cathodic protection systems on gas pipelines serving the gas utilities market and pipeline operators; and first RAD, a remote AC mitigation disconnect that mounts onto existing solid-state decouplers in the field and can remotely disconnect/connect these AC mitigation tools. The company has a strategic partnership with AIO Systems, Ltd. to market, distribute, integrate and sell solutions for cell tower, data center and utility infrastructure asset management to customers in North America. The company was incorporated in 1986 and is based in Wilmington, Delaware.

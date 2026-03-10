@@ -1,0 +1,10 @@
+Company: Nuvectis Pharma Inc. Common Stock
+Ticker: NVCT
+CIK: 0001875558
+Latest SEC XBRL Facts:
+NetIncomeLoss: -19128000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 35587000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 11577000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 24010000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12035000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35442000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Quhuo Limited American Depository Shares
+Ticker: QH
+Market Cap: 519840
+Enterprise Value: 178644992
+Total Revenue: 2558328064
+Revenue Per Share: 2798.173
+EBITDA: -92224000
+Gross Margins: 0.02073
+Operating Margins: -0.06704
+Profit Margins: 0.00084
+Free Cashflow: -6020500
+Operating Cashflow: -14582000
+Return On Assets: -0.07542
+Return On Equity: -0.01102
+Total Cash: 30882000
+Total Debt: 123827000
+Debt To Equity: 30.387
+Current Ratio: 1.273
+Quick Ratio: 1.228
+Trailing PE: 0.0013215278
+Forward PE: -10.0
+Price To Book: 0.0016706174
+Beta: 0.474
+52 Week High: 169.11
+52 Week Low: 0.077

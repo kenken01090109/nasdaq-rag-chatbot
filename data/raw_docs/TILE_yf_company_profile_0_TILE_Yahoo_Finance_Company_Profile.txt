@@ -1,0 +1,9 @@
+Company: Interface Inc. Common Stock
+Ticker: TILE
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Atlanta
+Website: https://www.interface.com
+Employees: 3570
+Business Summary: Interface, Inc. designs, produces, and sells modular carpet products in the United States, Canada, Latin America, Europe, Africa, Asia, and Australia. The company offers modular carpets; luxury vinyl tiles; modular resilient flooring products; rubber flooring; and carpet tiles used in commercial interiors, include offices, educational facilities, healthcare facilities, airports, hospitality spaces, retail spaces, and residential interiors. It also provides carpet replacement, installation, and maintenance services; and other products and services, including TacTiles carpet tile installation system and adhesives and products for carpet installation and maintenance, as well as project management services. The company sells its products under the Interface, FLOR, NORAPLAN, and NORAMENT brands through direct sales to end users and indirect sales through independent contractors, installers and distributors. Interface, Inc. was incorporated in 1973 and is headquartered in Atlanta, Georgia.

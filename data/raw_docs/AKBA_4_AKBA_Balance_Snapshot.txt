@@ -1,0 +1,8 @@
+Company: Akebia Therapeutics Inc. Common Stock
+Ticker: AKBA
+Total Cash: 184844000
+Total Debt: 198782000
+Debt To Equity: 609.574
+Current Ratio: 1.552
+Quick Ratio: 1.423
+Book Value: 0.123

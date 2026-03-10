@@ -1,0 +1,11 @@
+Company: NexGel Inc Warrant
+Ticker: NXGLW
+CIK: 0001468929
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 8625000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -2030000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 11620000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 6044000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 5186000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1592000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 938000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

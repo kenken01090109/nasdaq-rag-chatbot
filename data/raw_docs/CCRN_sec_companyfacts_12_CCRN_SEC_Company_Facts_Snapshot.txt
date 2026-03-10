@@ -1,0 +1,12 @@
+Company: Cross Country Healthcare Inc. Common Stock $0.0001 Par Value
+Ticker: CCRN
+CIK: 0001141103
+Latest SEC XBRL Facts:
+Revenues: 620811000 | unit=USD | filed=2020-11-05 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 817532000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -11923000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 538231000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 130089000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 408142000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 30012000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 99132000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

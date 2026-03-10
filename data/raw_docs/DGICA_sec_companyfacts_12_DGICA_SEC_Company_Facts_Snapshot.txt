@@ -1,0 +1,10 @@
+Company: Donegal Group Inc. Class A Common Stock
+Ticker: DGICA
+CIK: 0000800457
+Latest SEC XBRL Facts:
+Revenues: 737872015 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 62151508 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2421677290 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1794235432 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 627441858 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 60233084 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

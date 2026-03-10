@@ -1,0 +1,9 @@
+Company: Captivision Inc. Ordinary Shares
+Ticker: CAPT
+Sector: Basic Materials
+Industry: Building Materials
+Country: South Korea
+City: Pyeongtaek-Si
+Website: https://www.captivision.com
+Employees: 98
+Business Summary: Captivision Inc., together with its subsidiaries, develops, manufactures, installs, and sells G-Glass, an architectural media glass in the Asia Pacific, Europe, the Middle East, Africa, and North America. Its glass combines IT building material and architectural glass into one standalone product. G-Glass has various applications, including digital out of home media, entertainment, and marketing, as well as for architectural façades, bridge railings, handrails, G-Tainers, G-Walls, showrooms, and bus shelters. The company serves automotive brands, commercial retailers, hospitals, sporting institutions, music industry, film production companies, transportation hubs, and telecommunications companies. Captivision Inc. was founded in 2005 and is headquartered in Pyeongtaek-si, South Korea.

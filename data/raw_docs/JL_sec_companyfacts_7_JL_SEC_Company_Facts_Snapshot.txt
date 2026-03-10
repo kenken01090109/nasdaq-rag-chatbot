@@ -1,0 +1,11 @@
+Company: J-Long Group Limited Class A Ordinary Shares
+Ticker: JL
+CIK: 0001948436
+Latest SEC XBRL Facts:
+Revenues: 39075090 | unit=USD | filed=2025-07-28 | period_end=2025-03-31
+NetIncomeLoss: 2593248 | unit=USD | filed=2025-07-28 | period_end=2025-03-31
+Assets: 23454137 | unit=USD | filed=2025-07-28 | period_end=2025-03-31
+Liabilities: 8409737 | unit=USD | filed=2025-07-28 | period_end=2025-03-31
+StockholdersEquity: 10173148 | unit=USD | filed=2025-05-20 | period_end=2024-03-31
+NetCashProvidedByUsedInOperatingActivities: 7226013 | unit=USD | filed=2025-07-28 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 10669134 | unit=USD | filed=2025-07-28 | period_end=2025-03-31

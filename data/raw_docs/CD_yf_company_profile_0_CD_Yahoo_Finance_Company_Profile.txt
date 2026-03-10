@@ -1,0 +1,9 @@
+Company: Chaince Digital Holdings Inc. Ordinary Shares
+Ticker: CD
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: New York
+Website: https://chaincedigital.com
+Employees: 11
+Business Summary: Chaince Digital Holdings Inc., a digital fintech company, provides access to the AI-powered infrastructure, blockchain, and digital assets in the United States. The company offers blockchain and digital asset solutions; and AI and HPC infrastructure, as well as liquid cooling solutions for AI data centers. It also provides broker-dealer, and investment advisory services. The company was formerly known as Mercurity Fintech Holding Inc. and changed its name to Chaince Digital Holdings Inc. in November 2025. Chaince Digital Holdings Inc. was incorporated in 2011 and is headquartered in New York, New York.

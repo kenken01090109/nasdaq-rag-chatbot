@@ -1,0 +1,10 @@
+Company: Affirm Holdings Inc. Class A Common Stock
+Ticker: AFRM
+Market Cap: 17488310272
+Enterprise Value: 25105721344
+Trailing PE: 64.81481
+Forward PE: 13.847968
+Price To Book: 4.9171114
+Beta: 3.727
+52 Week High: 100.0
+52 Week Low: 30.901

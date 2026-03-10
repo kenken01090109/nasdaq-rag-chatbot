@@ -1,0 +1,11 @@
+Company: Art's-Way Manufacturing Co. Inc. Common Stock
+Ticker: ARTW
+CIK: 0000007623
+Latest SEC XBRL Facts:
+Revenues: 17909941 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+NetIncomeLoss: 1680423 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+Assets: 21815740 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+Liabilities: 7901931 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+StockholdersEquity: 13913809 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -14992 | unit=USD | filed=2025-10-14 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 5960 | unit=USD | filed=2025-10-14 | period_end=2025-08-31

@@ -1,0 +1,25 @@
+Company: PS International Group Ltd. Ordinary Shares
+Ticker: PSIG
+Market Cap: 54842936
+Enterprise Value: 14454779
+Total Revenue: 70988064
+Revenue Per Share: 22.387
+EBITDA: -6688966
+Gross Margins: 0.035469998
+Operating Margins: -0.08401
+Profit Margins: -0.06763
+Free Cashflow: 1963815
+Operating Cashflow: -423659
+Return On Assets: -0.19508
+Return On Equity: -0.40741003
+Total Cash: 6985841
+Total Debt: 79342
+Debt To Equity: 0.719
+Current Ratio: 3.169
+Quick Ratio: 2.815
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.8917311
+Beta: -0.302
+52 Week High: 6.92
+52 Week Low: 2.144

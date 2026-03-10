@@ -1,0 +1,25 @@
+Company: Better Home & Finance Holding Company Class A Common Stock
+Ticker: BETR
+Market Cap: 499310048
+Enterprise Value: 998875712
+Total Revenue: 145544992
+Revenue Per Share: 9.574
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: -0.72786003
+Profit Margins: -1.27229
+Free Cashflow: 
+Operating Cashflow: -215331008
+Return On Assets: -0.16613
+Return On Equity: -8.75532
+Total Cash: 79183000
+Total Debt: 553790976
+Debt To Equity: 1321.318
+Current Ratio: 1.06
+Quick Ratio: 1.02
+Trailing PE: 
+Forward PE: -15.567725
+Price To Book: 11.669112
+Beta: 2.001
+52 Week High: 94.06
+52 Week Low: 8.905

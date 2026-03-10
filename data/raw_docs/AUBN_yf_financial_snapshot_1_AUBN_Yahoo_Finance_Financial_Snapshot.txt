@@ -1,0 +1,25 @@
+Company: Auburn National Bancorporation Inc. Common Stock
+Ticker: AUBN
+Market Cap: 86434112
+Enterprise Value: -55757208
+Total Revenue: 32162000
+Revenue Per Share: 9.206
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.27603
+Profit Margins: 0.22558
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.08642
+Total Cash: 142924992
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.894231
+Forward PE: 
+Price To Book: 0.9645224
+Beta: 0.441
+52 Week High: 29.0
+52 Week Low: 19.0

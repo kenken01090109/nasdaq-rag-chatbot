@@ -1,0 +1,25 @@
+Company: Hub Group Inc. Class A Common Stock
+Ticker: HUBG
+Market Cap: 2390012416
+Enterprise Value: 2959062016
+Total Revenue: 3728869888
+Revenue Per Share: 62.075
+EBITDA: 332960992
+Gross Margins: 0.11378
+Operating Margins: 0.04162
+Profit Margins: 0.02815
+Free Cashflow: 59145876
+Operating Cashflow: 160236992
+Return On Assets: 0.03162
+Return On Equity: 0.06241
+Total Cash: 119699000
+Total Debt: 498759008
+Debt To Equity: 28.41
+Current Ratio: 1.474
+Quick Ratio: 1.356
+Trailing PE: 22.436783
+Forward PE: 18.60279
+Price To Book: 1.4030548
+Beta: 1.105
+52 Week High: 53.26
+52 Week Low: 30.75

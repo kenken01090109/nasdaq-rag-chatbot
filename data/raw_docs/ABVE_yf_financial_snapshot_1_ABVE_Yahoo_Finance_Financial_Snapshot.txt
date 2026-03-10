@@ -1,0 +1,25 @@
+Company: Above Food Ingredients Inc. Common Stock
+Ticker: ABVE
+Market Cap: 56311036
+Enterprise Value: 164561424
+Total Revenue: 294839648
+Revenue Per Share: 4.753
+EBITDA: -40343004
+Gross Margins: -0.027579999
+Operating Margins: -0.23252001
+Profit Margins: -0.23358
+Free Cashflow: 
+Operating Cashflow: -9080686
+Return On Assets: 
+Return On Equity: 
+Total Cash: 664430
+Total Debt: 133839864
+Debt To Equity: 
+Current Ratio: 0.232
+Quick Ratio: 0.071
+Trailing PE: 
+Forward PE: 
+Price To Book: -2.5359893
+Beta: 0.013
+52 Week High: 6.56
+52 Week Low: 0.3

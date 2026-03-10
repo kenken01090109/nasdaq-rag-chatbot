@@ -1,0 +1,11 @@
+Company: Asia Pacific Wire & Cable Corporation Ltd. Ordinary Shares (Bermuda)
+Ticker: APWC
+CIK: 0001026980
+Latest SEC XBRL Facts:
+Revenues: 462265000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31
+NetIncomeLoss: 10919000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31
+Assets: 389384000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31
+Liabilities: 154773000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31
+StockholdersEquity: 161717000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31
+NetCashProvidedByUsedInOperatingActivities: 11648000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31
+CashAndCashEquivalentsAtCarryingValue: 72816000 | unit=USD | filed=2013-04-30 | period_end=2012-12-31

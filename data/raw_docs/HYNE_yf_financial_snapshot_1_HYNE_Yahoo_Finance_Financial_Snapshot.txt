@@ -1,0 +1,25 @@
+Company: Hoyne Bancorp Inc. Common Stock
+Ticker: HYNE
+Market Cap: 118539176
+Enterprise Value: 
+Total Revenue: 13191325
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.04032
+Profit Margins: -0.02963
+Free Cashflow: 
+Operating Cashflow: -1480007
+Return On Assets: 
+Return On Equity: 
+Total Cash: 27798118
+Total Debt: 3733780
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 
+52 Week High: 14.85
+52 Week Low: 13.35

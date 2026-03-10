@@ -1,0 +1,25 @@
+Company: Uni-Fuels Holdings Limited Class A Ordinary Shares
+Ticker: UFG
+Market Cap: 38308700
+Enterprise Value: 31119156
+Total Revenue: 195620832
+Revenue Per Share: 6.291
+EBITDA: 366158
+Gross Margins: 0.0194
+Operating Margins: 0.00161
+Profit Margins: 0.00082
+Free Cashflow: -4491833
+Operating Cashflow: -6020350
+Return On Assets: 0.0078799995
+Return On Equity: 0.01915
+Total Cash: 6759336
+Total Debt: 925393
+Debt To Equity: 7.522
+Current Ratio: 1.642
+Quick Ratio: 1.563
+Trailing PE: 118.0
+Forward PE: 23.599998
+Price To Book: 3.105263
+Beta: 
+52 Week High: 11.0
+52 Week Low: 0.6

@@ -1,0 +1,9 @@
+Company: Wingstop Inc. Common Stock
+Ticker: WING
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Dallas
+Website: https://ir.wingstop.com
+Employees: 345
+Business Summary: Wingstop Inc., together with its subsidiaries, franchises and operates restaurants under the Wingstop brand in United States, Australia, Bahrain, Kuwait, Puerto Rico, Saudi Arabia, and The Netherlands. Its restaurants provides classic wings, boneless wings, tenders, and hand-sauced-and-tossed in various flavors, as well as chicken sandwiches, fries, and hand-cut carrots and celery that are cooked-to-order. The company was founded in 1994 and is headquartered in Dallas, Texas.

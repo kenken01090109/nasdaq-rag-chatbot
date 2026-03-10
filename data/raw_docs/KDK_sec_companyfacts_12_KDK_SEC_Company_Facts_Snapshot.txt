@@ -1,0 +1,11 @@
+Company: Kodiak AI Inc. Common Stock
+Ticker: KDK
+CIK: 0001853138
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2744000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -511846000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 177839000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 174157000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -219503000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -70216000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 146203000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Bit Origin Limited Class A Ordinary Shares
+Ticker: BTOG
+CIK: 0001735556
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 39495 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetIncomeLoss: -2805331 | unit=USD | filed=2025-04-07 | period_end=2024-12-31
+Assets: 3536440 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 372083 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 3900132 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2290607 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 55639 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

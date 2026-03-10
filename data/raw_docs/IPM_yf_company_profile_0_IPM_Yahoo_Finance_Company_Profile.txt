@@ -1,0 +1,9 @@
+Company: Intelligent Protection Management Corp. Common Stock
+Ticker: IPM
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Jericho
+Website: https://www.ipm.com
+Employees: 55
+Business Summary: Intelligent Protection Management Corp. provides cloud infrastructure, cybersecurity, and managed services in the United States. It offers information technology services comprising server hosting, cloud hosting, data storage, managed security, and backup and disaster recovery services, as well as other related services, including consulting and implementing technology solutions for enterprise and commercial clients, and small-and-medium sized businesses. The company was formerly known as Paltalk, Inc. and changed its name to Intelligent Protection Management Corp. in 2025. Intelligent Protection Management Corp. is based in Jericho, New York.

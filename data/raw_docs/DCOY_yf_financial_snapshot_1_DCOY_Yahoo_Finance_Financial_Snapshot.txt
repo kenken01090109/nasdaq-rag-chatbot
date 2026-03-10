@@ -1,0 +1,25 @@
+Company: Decoy Therapeutics Inc. Common Stock
+Ticker: DCOY
+Market Cap: 4033523
+Enterprise Value: -1105956
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -5563679
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -2818466
+Operating Cashflow: -4433218
+Return On Assets: -0.69908
+Return On Equity: -1.39551
+Total Cash: 4809680
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.28
+Quick Ratio: 2.601
+Trailing PE: 
+Forward PE: -0.585
+Price To Book: 0.14046243
+Beta: 0.324
+52 Week High: 34.65
+52 Week Low: 0.515

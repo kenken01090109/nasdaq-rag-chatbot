@@ -1,0 +1,11 @@
+Company: Value Line Inc. Common Stock
+Ticker: VALU
+CIK: 0000717720
+Latest SEC XBRL Facts:
+Revenues: 36257000 | unit=USD | filed=2019-07-26 | period_end=2019-04-30
+NetIncomeLoss: 12142000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Assets: 147936000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Liabilities: 42447000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+StockholdersEquity: 105489000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 8512000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 43606000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31

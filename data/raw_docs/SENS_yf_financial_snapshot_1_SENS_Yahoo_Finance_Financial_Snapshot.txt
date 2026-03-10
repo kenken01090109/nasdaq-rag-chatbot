@@ -1,0 +1,25 @@
+Company: Senseonics Holdings Inc. Common Stock
+Ticker: SENS
+Market Cap: 243516416
+Enterprise Value: 201853696
+Total Revenue: 35257000
+Revenue Per Share: 0.845
+EBITDA: -66825000
+Gross Margins: 0.44709
+Operating Margins: -1.4678
+Profit Margins: -1.96026
+Free Cashflow: -46005000
+Operating Cashflow: -59129000
+Return On Assets: -0.37679002
+Return On Equity: -1.68267
+Total Cash: 94030000
+Total Debt: 40875000
+Debt To Equity: 66.958
+Current Ratio: 4.827
+Quick Ratio: 4.36
+Trailing PE: 
+Forward PE: -2.2844002
+Price To Book: 4.02975
+Beta: 
+52 Week High: 15.74
+52 Week Low: 5.25

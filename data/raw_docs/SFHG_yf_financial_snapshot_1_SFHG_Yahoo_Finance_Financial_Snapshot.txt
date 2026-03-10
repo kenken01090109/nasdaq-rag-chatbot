@@ -1,0 +1,25 @@
+Company: Samfine Creation Holdings Group Limited Class A Ordinary Share
+Ticker: SFHG
+Market Cap: 10799600
+Enterprise Value: 81480336
+Total Revenue: 153680032
+Revenue Per Share: 39.146
+EBITDA: -12741977
+Gross Margins: 0.20571
+Operating Margins: -0.15885
+Profit Margins: -0.07773
+Free Cashflow: -38013512
+Operating Cashflow: -46167052
+Return On Assets: -0.06672
+Return On Equity: -0.27521
+Total Cash: 21016176
+Total Debt: 47686516
+Debt To Equity: 75.477
+Current Ratio: 1.281
+Quick Ratio: 0.703
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.3365852
+Beta: 
+52 Week High: 5.25
+52 Week Low: 1.6

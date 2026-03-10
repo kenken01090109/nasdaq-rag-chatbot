@@ -1,0 +1,25 @@
+Company: Village Super Market Inc. Class A Common Stock
+Ticker: VLGEA
+Market Cap: 603416960
+Enterprise Value: 772393600
+Total Revenue: 2386895104
+Revenue Per Share: 166.648
+EBITDA: 110754000
+Gross Margins: 0.28318
+Operating Margins: 0.03661
+Profit Margins: 0.02369
+Free Cashflow: 42965248
+Operating Cashflow: 111050000
+Return On Assets: 0.04577
+Return On Equity: 0.11441
+Total Cash: 160104992
+Total Debt: 329143008
+Debt To Equity: 63.705
+Current Ratio: 1.225
+Quick Ratio: 0.869
+Trailing PE: 10.87766
+Forward PE: 
+Price To Book: 1.1677707
+Beta: 0.481
+52 Week High: 41.04
+52 Week Low: 30.08

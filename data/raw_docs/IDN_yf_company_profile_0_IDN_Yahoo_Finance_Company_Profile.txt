@@ -1,0 +1,9 @@
+Company: Intellicheck Inc. Common Stock
+Ticker: IDN
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Melville
+Website: https://www.intellicheck.com
+Employees: 47
+Business Summary: Intellicheck, Inc., a technology company, provides on-demand digital identity validation solutions for KYC, fraud, and age verification needs in North America. It validates both digital and physical identities for financial services, fintech companies, BNPL providers, e-commerce and retail commerce businesses, and law enforcement and government agencies. The company also provides commercial identification services, such as Intellicheck identity service, an identity solution; validating the ID; matching the person to the ID; and determining the risk score through IDN-Mobile validation application, IDN-Portal, IDN-Direct, and IDN-Capture elements. In addition, it offers data collection device software products for use in commercially available data processing devices, including credit card terminals, PDAs, tablets, laptops, desktops, mobile phones, and point-of-sale terminals; and instant credit application kiosk software applications for financial service companies and retail stores. The company was formerly known as Intellicheck Mobilisa, Inc. and changed its name to Intellicheck, Inc. in May 2017. Intellicheck, Inc. was incorporated in 1994 and is headquartered in Melville, New York.

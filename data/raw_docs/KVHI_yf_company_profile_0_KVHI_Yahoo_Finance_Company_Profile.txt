@@ -1,0 +1,9 @@
+Company: KVH Industries Inc. Common Stock
+Ticker: KVHI
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Middletown
+Website: https://www.kvh.com
+Employees: 247
+Business Summary: KVH Industries, Inc., together with its subsidiaries, engages in the design, development, manufacture, and marketing of mobile connectivity solutions for the marine and land mobile markets in the United States and internationally. It offers Internet and VoIP airtime services; AgilePlans, a Connectivity as a Service solution; CommBox, a data management software for maritime communications; CommBox Edge, an advanced maritime network optimization and management solution; KVH Elite, a streaming service for leisure yachts; KVH Link, a crew wellbeing content subscription service; KVH ONE, a global hybrid communication network supporting Internet, VoIP, content delivery, and other; and KVH OneCare, a services and support for TracNet and TracPhone systems. The company also provides MOVIElink, a movie distribution solution; MUSIClink, a music and karaoke delivery solution; NEWSlink, a maritime news delivery solution; OpenNet, a KVH VSAT data delivering service for non-KVH Ku-band VSAT terminals; TracNet, an integrated hybrid two-way communication terminal with VSAT, 5G/LTE, and shore-based Wi-Fi; TracPhone, a two-way VSAT-only satellite communications system; TracVision, a satellite television antenna system for vessels, recreational vehicles; TVlink, a television programming delivery solution; and Starlink terminals and data services. It sells its mobile communications products through a network of independent retailers, chain stores, distributors, and service providers, as well as to manufacturers of vessels, maritime equipment, and vehicles. The company was founded in 1982 and is headquartered in Middletown, Rhode Island.

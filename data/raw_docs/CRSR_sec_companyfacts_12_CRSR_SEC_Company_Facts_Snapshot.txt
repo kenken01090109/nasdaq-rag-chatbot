@@ -1,0 +1,10 @@
+Company: Corsair Gaming Inc. Common Stock
+Ticker: CRSR
+CIK: 0001743759
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1035625000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -41950000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1198499000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 587924000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 600230000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11952000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

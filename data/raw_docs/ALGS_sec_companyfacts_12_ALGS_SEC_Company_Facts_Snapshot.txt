@@ -1,0 +1,11 @@
+Company: Aligos Therapeutics Inc. Common Stock
+Ticker: ALGS
+CIK: 0001799448
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2017000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -4312000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 109764000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 37931000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 71833000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -60758000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 41946000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

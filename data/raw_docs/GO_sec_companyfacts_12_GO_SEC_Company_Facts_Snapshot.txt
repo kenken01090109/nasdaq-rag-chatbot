@@ -1,0 +1,11 @@
+Company: Grocery Outlet Holding Corp. Common Stock
+Ticker: GO
+CIK: 0001771515
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3473492000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetIncomeLoss: -6751000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Assets: 3368638000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Liabilities: 2170031000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+StockholdersEquity: 1198607000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 149839000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 52125000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27

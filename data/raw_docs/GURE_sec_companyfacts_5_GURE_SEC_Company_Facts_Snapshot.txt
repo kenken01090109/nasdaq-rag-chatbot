@@ -1,0 +1,11 @@
+Company: Gulf Resources Inc. (NV) Common Stock
+Ticker: GURE
+CIK: 0000885462
+Latest SEC XBRL Facts:
+Revenues: 18992813 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -41067789 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 131907547 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 24445851 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 107461696 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4574613 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11237493 | unit=USD | filed=2024-11-19 | period_end=2024-09-30

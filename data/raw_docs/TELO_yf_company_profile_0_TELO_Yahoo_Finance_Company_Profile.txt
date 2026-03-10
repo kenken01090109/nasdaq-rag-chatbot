@@ -1,0 +1,9 @@
+Company: Telomir Pharmaceuticals Inc. Common Stock
+Ticker: TELO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Miami
+Website: https://telomirpharma.com
+Employees: 
+Business Summary: Telomir Pharmaceuticals, Inc., a preclinical-stage biotechnology company, focuses on reversing biological aging and degenerative diseases. It is developing Telomir-1, an oral small molecule metal ion regulator designed to protect against age-related conditions, including Progeria, Wilson's disease, and age-related macular degeneration (amd), as well as type 2 diabetes, cancer, and Alzheimer's disease. The company was formerly known as Metallo Therapies Inc. and changed its name to Telomir Pharmaceuticals, Inc. in October 2022. Telomir Pharmaceuticals, Inc. was incorporated in 2021 and is headquartered in Miami, Florida.

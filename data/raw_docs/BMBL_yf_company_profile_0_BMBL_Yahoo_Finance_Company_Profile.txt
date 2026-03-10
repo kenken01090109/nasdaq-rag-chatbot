@@ -1,0 +1,9 @@
+Company: Bumble Inc. Class A Common Stock
+Ticker: BMBL
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Austin
+Website: https://bumble.com
+Employees: 
+Business Summary: Bumble Inc. provides online dating and social networking applications in North America, Europe, internationally. It owns and operates websites and applications that offers subscription and in-app purchases of products. The company operates apps, including Bumble, a dating app built with women at the center, where women make the first move; Badoo, the web and mobile free-to-use dating app; Bumble BFF and Bumble Bizz Modes that have a format similar to the date mode requiring users to set up profiles and matching users through yes and no votes, similar to the dating platform; and Bumble for Friends, a friendship app where people in all stages of life can meet people nearby and create meaningful platonic connections, as well as Geneva app where users can create and join chat, forum, audio, video, and broadcast rooms. The company was founded in 2020 in and is headquartered in Austin, Texas.

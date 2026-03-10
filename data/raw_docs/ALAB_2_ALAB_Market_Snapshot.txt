@@ -1,0 +1,10 @@
+Company: Astera Labs Inc. Common Stock
+Ticker: ALAB
+Market Cap: 20425740288
+Enterprise Value: 19267897344
+Trailing PE: 98.36066
+Forward PE: 34.071163
+Price To Book: 14.975665
+Beta: 
+52 Week High: 262.9
+52 Week Low: 47.125

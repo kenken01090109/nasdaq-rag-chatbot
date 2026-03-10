@@ -1,0 +1,9 @@
+Company: Marker Therapeutics Inc. Common Stock
+Ticker: MRKR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Houston
+Website: https://markertherapeutics.com
+Employees: 5
+Business Summary: Marker Therapeutics, Inc., a clinical-stage immuno-oncology company, engages in the development and commercialization of novel T cell-based immunotherapies for the treatment of hematological malignancies and solid tumor indications. Its multi tumor associated antigen-specific T cell technology is based on the manufacture of non-engineered tumor-specific T cells that recognize multiple tumor-associated antigens. The company also develops MT-401-OTS for the treatment of acute myeloid leukemia AND myelodysplastic syndromes; and MT-601 to treat lymphoma and pancreatic cancer. Marker Therapeutics, Inc. is headquartered in Houston, Texas.

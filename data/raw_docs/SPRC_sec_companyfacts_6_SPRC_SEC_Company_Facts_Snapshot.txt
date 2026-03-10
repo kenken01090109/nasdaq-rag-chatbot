@@ -1,0 +1,5 @@
+Company: SciSparc Ltd. Ordinary Shares
+Ticker: SPRC
+CIK: 0001611746
+Latest SEC XBRL Facts:
+Assets: 277000 | unit=USD | filed=2019-05-15 | period_end=2018-12-31

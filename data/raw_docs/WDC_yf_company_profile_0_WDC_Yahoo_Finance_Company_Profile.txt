@@ -1,0 +1,9 @@
+Company: Western Digital Corporation Common Stock
+Ticker: WDC
+Sector: Technology
+Industry: Computer Hardware
+Country: United States
+City: San Jose
+Website: https://www.westerndigital.com
+Employees: 40000
+Business Summary: Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California.

@@ -1,0 +1,11 @@
+Company: Farmmi Inc. Class A Ordinary Shares
+Ticker: FAMI
+CIK: 0001701261
+Latest SEC XBRL Facts:
+Revenues: 16144309 | unit=USD | filed=2025-08-01 | period_end=2025-03-31
+NetIncomeLoss: -44016 | unit=USD | filed=2025-08-01 | period_end=2025-03-31
+Assets: 230426167 | unit=USD | filed=2025-08-01 | period_end=2025-03-31
+Liabilities: 64196564 | unit=USD | filed=2025-08-01 | period_end=2025-03-31
+StockholdersEquity: 166410338 | unit=USD | filed=2025-08-01 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 14569967 | unit=USD | filed=2025-08-01 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 15272941 | unit=USD | filed=2022-08-22 | period_end=2022-03-31

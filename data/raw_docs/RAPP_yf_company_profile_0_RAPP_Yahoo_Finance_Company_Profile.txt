@@ -1,0 +1,9 @@
+Company: Rapport Therapeutics Inc. Common Stock
+Ticker: RAPP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.rapportrx.com
+Employees: 69
+Business Summary: Rapport Therapeutics, Inc., operates as a clinical-stage biopharmaceutical company that focuses on the discovery and development of transformational small molecule medicines for patients suffering from central nervous system (CNS) disorders. Its lead product candidate is receptor associated protein (RAP)-219, an investigational small molecule that is designed to inhibit TARPy8-containing AMPARs with picomolar affinity for the treatment of focal epilepsy and other CNS disorders, including peripheral neuropathic pain and bipolar disorder. The company also develops RAP-199, a TARPy8 targeted molecule with differentiated chemical and pharmacokinetic properties; and nicotinic acetylcholine receptor (nAChR) programs, such as a6 nAChR to treat chronic pain and a9a10 nAChR for the treatment of hearing disorders. The company was formerly known as Precision Neuroscience NewCo, Inc. and changed its name to Rapport Therapeutics, Inc. in October 2022. Rapport Therapeutics, Inc. was incorporated in 2022 and is based in Boston, Massachusetts.

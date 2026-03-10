@@ -1,0 +1,11 @@
+Company: Principal Financial Group Inc Common Stock
+Ticker: PFG
+CIK: 0001126328
+Latest SEC XBRL Facts:
+Revenues: 11048800000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 668100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 334491800000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 322363800000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 11665500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2793000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5137100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: EUDA Health Holdings Limited Warrant
+Ticker: EUDAW
+CIK: 0001847846
+Latest SEC XBRL Facts:
+Revenues: 1698734 | unit=USD | filed=2023-07-31 | period_end=2023-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3057323 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetIncomeLoss: -1204001 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Assets: 2122451 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Liabilities: 5848771 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+StockholdersEquity: -3709565 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1215423 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 376206 | unit=USD | filed=2024-10-18 | period_end=2024-06-30

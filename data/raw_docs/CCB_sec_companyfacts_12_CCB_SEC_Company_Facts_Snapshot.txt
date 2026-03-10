@@ -1,0 +1,9 @@
+Company: Coastal Financial Corporation Common Stock
+Ticker: CCB
+CIK: 0001437958
+Latest SEC XBRL Facts:
+NetIncomeLoss: 34350000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4553076000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 4077799000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 475277000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 196763000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

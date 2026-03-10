@@ -1,0 +1,25 @@
+Company: BrightSpring Health Services Inc. Tangible Equity Unit
+Ticker: BTSGU
+Market Cap: 
+Enterprise Value: 30835943424
+Total Revenue: 12910564352
+Revenue Per Share: 63.736
+EBITDA: 485328000
+Gross Margins: 0.11756
+Operating Margins: 0.030450001
+Profit Margins: 0.01477
+Free Cashflow: -334849888
+Operating Cashflow: 490168992
+Return On Assets: 0.03266
+Return On Equity: 0.05924
+Total Cash: 88370000
+Total Debt: 2708798976
+Debt To Equity: 143.599
+Current Ratio: 1.565
+Quick Ratio: 0.628
+Trailing PE: 
+Forward PE: 
+Price To Book: 14.938029
+Beta: 2.327
+52 Week High: 147.95
+52 Week Low: 56.77

@@ -1,0 +1,11 @@
+Company: Texas Capital Bancshares Inc. Common Stock
+Ticker: TCBI
+CIK: 0001077428
+Latest SEC XBRL Facts:
+Revenues: 1605000 | unit=USD | filed=2013-02-21 | period_end=2012-06-30
+NetIncomeLoss: 229585000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 32536980000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 28899882000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 3637098000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 229660000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5209270000 | unit=USD | filed=2019-10-17 | period_end=2019-09-30

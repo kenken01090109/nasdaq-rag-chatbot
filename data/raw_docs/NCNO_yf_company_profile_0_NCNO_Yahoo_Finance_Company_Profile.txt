@@ -1,0 +1,9 @@
+Company: nCino Inc. Common Stock
+Ticker: NCNO
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Wilmington
+Website: https://www.ncino.com
+Employees: 1833
+Business Summary: nCino, Inc., a software-as-a-service company, provides software solutions to financial institutions in the United States, the United Kingdom, and internationally. It offers solutions on the nCino Platform, including Onboarding solution that streamlines and enhances the customer onboarding process through a digital platform for credit and non-credit onboarding, commercial account opening, and enterprise-level onboarding; and Account Opening solution, which includes Deposit Account Opening solution for consumers and small businesses. The company also provides Lending solution, which provides a loan origination platform for commercial, consumer, small business, and mortgage lending, such as Commercial Loan Origination System that automates loan lifecycle; Consumer Lending solution, which offers an omnichannel solution with automated credit decisioning and integrations; and Small Business Loan Origination solution for automation and machine learning. In addition, it offers Portfolio Management solution to manage credit risks, monitor performance, and uncover growth opportunities through data-driven platform; and Portfolio Analytics solution, which offers customizable dashboards to track loan, deposit, and application data. The company serves community banks, credit unions, enterprise banks, independent mortgage banks, building societies, and mutuals directly through its business development managers, account executives, field sales engineers, and customer success managers. nCino, Inc. was founded in 2011 and is headquartered in Wilmington, North Carolina.

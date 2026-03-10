@@ -1,0 +1,25 @@
+Company: Assembly Biosciences Inc. Common Stock
+Ticker: ASMB
+Market Cap: 447150560
+Enterprise Value: 207700096
+Total Revenue: 37191000
+Revenue Per Share: 4.319
+EBITDA: -43320000
+Gross Margins: -0.66285
+Operating Margins: -1.00871
+Profit Margins: -1.03646
+Free Cashflow: -11571625
+Operating Cashflow: -55737000
+Return On Assets: -0.15962
+Return On Equity: -0.3694
+Total Cash: 232556992
+Total Debt: 2755000
+Debt To Equity: 1.508
+Current Ratio: 4.436
+Quick Ratio: 4.392
+Trailing PE: 
+Forward PE: -8.069466
+Price To Book: 2.4474072
+Beta: 1.157
+52 Week High: 39.71
+52 Week Low: 7.75

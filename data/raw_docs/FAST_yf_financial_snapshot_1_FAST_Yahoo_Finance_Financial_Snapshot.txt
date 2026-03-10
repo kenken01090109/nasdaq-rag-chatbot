@@ -1,0 +1,25 @@
+Company: Fastenal Company Common Stock
+Ticker: FAST
+Market Cap: 53344403456
+Enterprise Value: 54473977856
+Total Revenue: 8200500224
+Revenue Per Share: 7.146
+EBITDA: 1834899968
+Gross Margins: 0.45012
+Operating Margins: 0.18955
+Profit Margins: 0.15345
+Free Cashflow: 805237504
+Operating Cashflow: 1295900032
+Return On Assets: 0.21225001
+Return On Equity: 0.33291
+Total Cash: 276800000
+Total Debt: 441900000
+Debt To Equity: 11.205
+Current Ratio: 4.852
+Quick Ratio: 2.127
+Trailing PE: 42.62385
+Forward PE: 34.615585
+Price To Book: 13.525473
+Beta: 0.862
+52 Week High: 50.63
+52 Week Low: 35.305

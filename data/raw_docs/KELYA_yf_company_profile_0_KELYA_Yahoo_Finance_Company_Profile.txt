@@ -1,0 +1,9 @@
+Company: Kelly Services Inc. Class A Common Stock
+Ticker: KELYA
+Sector: Industrials
+Industry: Staffing & Employment Services
+Country: United States
+City: Troy
+Website: https://www.kellyservices.com
+Employees: 4900
+Business Summary: Kelly Services, Inc., together with its subsidiaries, provides workforce solutions to various industries in the Americas, Europe, Mexico, and the Asia-Pacific region. It operates in three segments: Enterprise Talent Management, Science, Engineering & Technology, and Education. The Enterprise Talent Management segment delivers temporary staffing, outcome-based, and permanent placement services providing administrative, accounting, and finance; light industrial; contact center staffing; and other workforce solutions. This segment also delivers talent solutions, including managed service provider, payroll process outsourcing, recruitment process outsourcing solutions, and executive coaching programs to customers on a global basis that includes its RocketPower and Sevenstep brands. The Science, Engineering & Technology segment offers temporary staffing, outcome-based, and permanent placement services in the areas of science and clinical research, engineering, technology, and telecommunications specialties. The Education segment provides staffing, permanent placement, and executive search services to pre-K-12 school districts and education organizations. Kelly Services, Inc. was founded in 1946 and is headquartered in Troy, Michigan.

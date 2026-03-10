@@ -1,0 +1,25 @@
+Company: TripAdvisor Inc. Common Stock
+Ticker: TRIP
+Market Cap: 1218184832
+Enterprise Value: 1420929792
+Total Revenue: 1891000064
+Revenue Per Share: 15.187
+EBITDA: 147000000
+Gross Margins: 0.62877
+Operating Margins: -0.00243
+Profit Margins: 0.02115
+Free Cashflow: 176500000
+Operating Cashflow: 245000000
+Return On Assets: 0.029649999
+Return On Equity: 0.050380003
+Total Cash: 1035000000
+Total Debt: 1251000064
+Debt To Equity: 193.953
+Current Ratio: 1.294
+Quick Ratio: 1.246
+Trailing PE: 33.612904
+Forward PE: 6.1538463
+Price To Book: 1.849157
+Beta: 0.951
+52 Week High: 20.16
+52 Week Low: 9.46

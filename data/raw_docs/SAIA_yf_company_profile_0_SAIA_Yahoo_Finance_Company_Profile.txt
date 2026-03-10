@@ -1,0 +1,9 @@
+Company: Saia Inc. Common Stock
+Ticker: SAIA
+Sector: Industrials
+Industry: Trucking
+Country: United States
+City: Johns Creek
+Website: https://www.saia.com
+Employees: 13734
+Business Summary: Saia, Inc., together with its subsidiaries, operates as a transportation company in North America. The company provides less-than-truckload services for shipments between 100 and 10,000 pounds. It also offers other value-added services, including brokered truckload, expedited transportation, and other logistics services. As of December 31, 2025, it operated 213 owned and leased terminals; and owned approximately 7,700 tractors and 26,500 trailers. The company was formerly known as SCS Transportation, Inc. and changed its name to Saia, Inc. in July 2002. Saia, Inc. was founded in 1924 and is headquartered in Johns Creek, Georgia.

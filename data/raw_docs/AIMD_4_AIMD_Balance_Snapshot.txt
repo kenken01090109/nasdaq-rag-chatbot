@@ -1,0 +1,8 @@
+Company: Ainos Inc. Common Stock
+Ticker: AIMD
+Total Cash: 1128217
+Total Debt: 11000000
+Debt To Equity: 109.508
+Current Ratio: 2.96
+Quick Ratio: 1.941
+Book Value: 2.095

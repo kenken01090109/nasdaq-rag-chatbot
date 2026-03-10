@@ -1,0 +1,10 @@
+Company: Bicara Therapeutics Inc. Common Stock
+Ticker: BCAX
+CIK: 0002023658
+Latest SEC XBRL Facts:
+NetIncomeLoss: -100564000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 424688000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 21908000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 402780000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -82948000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 171673000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

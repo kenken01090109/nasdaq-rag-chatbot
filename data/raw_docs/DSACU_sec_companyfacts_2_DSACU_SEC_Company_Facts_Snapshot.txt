@@ -1,0 +1,9 @@
+Company: Daedalus Special Acquisition Corp. Unit
+Ticker: DSACU
+CIK: 0002082149
+Latest SEC XBRL Facts:
+NetIncomeLoss: -66193 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+Assets: 151502 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+Liabilities: 192695 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+StockholdersEquity: -41193 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -51577 | unit=USD | filed=2026-01-20 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Ruanyun Edai Technology Inc. Ordinary shares
+Ticker: RYET
+CIK: 0001873454
+Latest SEC XBRL Facts:
+Revenues: 6685387 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+NetIncomeLoss: -396562 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Assets: 5874998 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Liabilities: 6381149 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+StockholdersEquity: -161800 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1819988 | unit=USD | filed=2025-07-31 | period_end=2025-03-31

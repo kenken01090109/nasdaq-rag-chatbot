@@ -1,0 +1,25 @@
+Company: ICZOOM Group Inc. Class A Ordinary Shares
+Ticker: IZM
+Market Cap: 7811772
+Enterprise Value: 21858814
+Total Revenue: 187048688
+Revenue Per Share: 16.19
+EBITDA: 1082318
+Gross Margins: 0.03312
+Operating Margins: 0.00475
+Profit Margins: 0.0063899998
+Free Cashflow: -1547481
+Operating Cashflow: 2746352
+Return On Assets: 0.015149999
+Return On Equity: 0.07756
+Total Cash: 1750420
+Total Debt: 15256647
+Debt To Equity: 98.93
+Current Ratio: 1.584
+Quick Ratio: 1.149
+Trailing PE: 6.4999995
+Forward PE: 
+Price To Book: 0.5050505
+Beta: 1.605
+52 Week High: 2.74
+52 Week Low: 0.62

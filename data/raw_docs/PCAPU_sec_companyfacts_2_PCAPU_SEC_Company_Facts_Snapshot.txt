@@ -1,0 +1,9 @@
+Company: ProCap Acquisition Corp Unit
+Ticker: PCAPU
+CIK: 0002056634
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3390355 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 255038659 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 11371124 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -10039559 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -347267 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

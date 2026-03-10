@@ -1,0 +1,25 @@
+Company: National Energy Services Reunited Corp Ordinary Shares
+Ticker: NESR
+Market Cap: 2102420608
+Enterprise Value: 2426059520
+Total Revenue: 1324046976
+Revenue Per Share: 13.45
+EBITDA: 240048992
+Gross Margins: 0.12441
+Operating Margins: 0.07704
+Profit Margins: 0.03862
+Free Cashflow: 94958376
+Operating Cashflow: 264242000
+Return On Assets: 0.0339
+Return On Equity: 0.05451
+Total Cash: 124797000
+Total Debt: 331523008
+Debt To Equity: 34.251
+Current Ratio: 1.042
+Quick Ratio: 0.791
+Trailing PE: 40.115387
+Forward PE: 8.579138
+Price To Book: 2.1720116
+Beta: 0.21
+52 Week High: 26.85
+52 Week Low: 5.2

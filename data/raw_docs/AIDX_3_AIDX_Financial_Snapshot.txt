@@ -1,0 +1,12 @@
+Company: 20/20 Biolabs Inc. Common Stock
+Ticker: AIDX
+Total Revenue: 2042943
+Revenue Per Share: 0.422
+Gross Margins: 0.32097998
+Operating Margins: -1.91439
+EBITDA: -3138820
+Profit Margins: -1.59334
+Free Cashflow: 
+Operating Cashflow: -1944504
+Return On Assets: 
+Return On Equity: 

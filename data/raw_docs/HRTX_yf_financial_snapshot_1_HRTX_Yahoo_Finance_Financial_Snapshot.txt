@@ -1,0 +1,25 @@
+Company: Heron Therapeutics Inc. Common Stock
+Ticker: HRTX
+Market Cap: 177238224
+Enterprise Value: 287364864
+Total Revenue: 154904000
+Revenue Per Share: 0.929
+EBITDA: -224000
+Gross Margins: 0.72641
+Operating Margins: 0.00093999994
+Profit Margins: -0.13036999
+Free Cashflow: -28462376
+Operating Cashflow: -27591000
+Return On Assets: -0.00649
+Return On Equity: 
+Total Cash: 46631000
+Total Debt: 140638000
+Debt To Equity: 981.218
+Current Ratio: 2.477
+Quick Ratio: 1.417
+Trailing PE: 
+Forward PE: 1.8952942
+Price To Book: 13.614084
+Beta: 1.299
+52 Week High: 2.61
+52 Week Low: 0.95

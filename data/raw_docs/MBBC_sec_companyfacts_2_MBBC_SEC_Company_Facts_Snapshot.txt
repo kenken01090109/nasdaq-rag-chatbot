@@ -1,0 +1,9 @@
+Company: Marathon Bancorp Inc. Common Stock
+Ticker: MBBC
+CIK: 0001835385
+Latest SEC XBRL Facts:
+NetIncomeLoss: 945689 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 248016026 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 201130591 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 46885435 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1877317 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

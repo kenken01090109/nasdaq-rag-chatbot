@@ -1,0 +1,11 @@
+Company: Aether Holdings Inc. Common Stock
+Ticker: ATHR
+CIK: 0002026353
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 338804 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -1297237 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 4006938 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 637092 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 3369846 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1008063 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 263316 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

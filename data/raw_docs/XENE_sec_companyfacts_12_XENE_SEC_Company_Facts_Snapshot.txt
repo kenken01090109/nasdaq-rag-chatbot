@@ -1,0 +1,12 @@
+Company: Xenon Pharmaceuticals Inc. Common Shares
+Ticker: XENE
+CIK: 0001582313
+Latest SEC XBRL Facts:
+Revenues: 295000 | unit=USD | filed=2017-11-07 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 295000 | unit=USD | filed=2018-11-06 | period_end=2017-09-30
+NetIncomeLoss: -240649000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 607836000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 48325000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 559511000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -197637000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 104514000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

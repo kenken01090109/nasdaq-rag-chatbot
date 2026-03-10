@@ -1,0 +1,12 @@
+Company: Electronic Arts Inc. Common Stock
+Ticker: EA
+CIK: 0000712515
+Latest SEC XBRL Facts:
+Revenues: 1671000000 | unit=USD | filed=2025-08-01 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5411000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: 426000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 13280000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 7128000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 6152000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1973000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2784000000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

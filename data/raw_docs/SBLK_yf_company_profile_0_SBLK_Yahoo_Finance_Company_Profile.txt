@@ -1,0 +1,9 @@
+Company: Star Bulk Carriers Corp. Common Shares
+Ticker: SBLK
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Marousi
+Website: https://www.starbulk.com
+Employees: 
+Business Summary: Star Bulk Carriers Corp., a shipping company, engages in the ocean transportation of dry bulk cargoes through the ownership and operation of dry bulk carrier vessels worldwide. Its vessels transport a range of bulk commodities, including iron ores, minerals and grains, bauxite, fertilizers, and steel products. As of December 31, 2024, the company owned a fleet of 151 dry bulk vessels with a combined carrying capacity of 14.6 million deadweight tonnage (dwt) consisting of Newcastlemax, Capesize, Post Panamax, Kamsarmax, Panamax, Ultramax, and Supramax vessels with carrying capacities between 53,489 deadweight tonnage and 209,537 deadweight tonnage. Star Bulk Carriers Corp. was incorporated in 2006 and is based in Marousi, Greece.

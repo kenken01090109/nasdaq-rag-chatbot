@@ -1,0 +1,25 @@
+Company: MicroCloud Hologram Inc. Warrant
+Ticker: HOLOW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 321228992
+Revenue Per Share: 113.071
+EBITDA: -2888287
+Gross Margins: 0.24207
+Operating Margins: 0.00419
+Profit Margins: 0.9192
+Free Cashflow: 4451880
+Operating Cashflow: 47180448
+Return On Assets: -0.00114
+Return On Equity: 0.16476
+Total Cash: 2911952896
+Total Debt: 57901272
+Debt To Equity: 2.019
+Current Ratio: 36.263
+Quick Ratio: 36.165
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0035033082
+Beta: 3.25
+52 Week High: 0.1
+52 Week Low: 0.09

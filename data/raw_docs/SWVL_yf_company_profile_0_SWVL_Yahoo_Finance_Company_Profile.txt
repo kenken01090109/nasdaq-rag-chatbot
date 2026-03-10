@@ -1,0 +1,9 @@
+Company: Swvl Holdings Corp Class A Common Shares
+Ticker: SWVL
+Sector: Industrials
+Industry: Railroads
+Country: United Arab Emirates
+City: Dubai
+Website: https://www.swvl.com
+Employees: 284
+Business Summary: Swvl Holdings Corp., a technology-driven disruptive mobility company, provides mass transit solutions in Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates. It offers B2C product, which provides riders with a network of minibuses and other vehicles operating on fixed and semi-fixed routes throughout and between the cities it serves; and Swvl Business, a transport as a service and software as a service product for businesses, schools, municipal transit agencies, and other customers available through its Swvl platform. The company was founded in 2017 and is headquartered in Dubai, the United Arab Emirates.

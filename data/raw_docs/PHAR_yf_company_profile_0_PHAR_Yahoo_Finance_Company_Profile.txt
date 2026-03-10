@@ -1,0 +1,9 @@
+Company: Pharming Group N.V. ADS each representing 10 ordinary shares
+Ticker: PHAR
+Sector: Healthcare
+Industry: Biotechnology
+Country: Netherlands
+City: Leiden
+Website: https://www.pharming.com
+Employees: 404
+Business Summary: Pharming Group N.V., a biopharmaceutical company, develops and commercializes protein replacement therapies and precision medicines for the treatment of rare diseases in the United States, Europe, and internationally. The company's lead product is RUCONEST, a recombinant C1 esterase inhibitor for the treatment of acute attacks in adult and adolescent patients with acute hereditary angioedema (HAE); and Joenja (leniolisib), an oral small molecule PI3K? inhibitor for the treatment of activated phosphoinositide 3-kinase delta syndrome. It also develops OTL-105, an investigational ex-vivo autologous hematopoietic stem cell gene therapy for the treatment of HAE. It has a development collaboration and license agreement with Novartis; and a strategic collaboration agreement with Orchard Therapeutics plc for research, development, manufacturing, and commercialization of OTL-105. Pharming Group N.V. was incorporated in 1988 and is headquartered in Leiden, the Netherlands.

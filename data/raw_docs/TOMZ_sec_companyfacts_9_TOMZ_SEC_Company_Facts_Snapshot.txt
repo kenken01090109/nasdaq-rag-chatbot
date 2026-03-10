@@ -1,0 +1,11 @@
+Company: TOMI Environmental Solutions Inc. Common Stock
+Ticker: TOMZ
+CIK: 0000314227
+Latest SEC XBRL Facts:
+Revenues: 4619229 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1943457 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 8045191 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5838709 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2206482 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -576780 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 490000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

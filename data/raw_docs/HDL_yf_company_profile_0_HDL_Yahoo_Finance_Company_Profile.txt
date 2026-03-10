@@ -1,0 +1,9 @@
+Company: SUPER HI INTERNATIONAL HOLDING LTD. American Depositary Shares
+Ticker: HDL
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: Singapore
+City: Singapore
+Website: https://www.superhiinternational.com
+Employees: 13057
+Business Summary: Super Hi International Holding Ltd., an investment holding company, engages in the restaurant operation, delivery business, and others in Asia, North America, Europe, Oceania, and internationally. It owns and operates Haidilao restaurants. The company also offers food delivery services; and sells hot pot condiment products and food under the Haidilao brand and secondary brands to local guests and retailers. The company was incorporated in 2022 and is headquartered in Singapore.

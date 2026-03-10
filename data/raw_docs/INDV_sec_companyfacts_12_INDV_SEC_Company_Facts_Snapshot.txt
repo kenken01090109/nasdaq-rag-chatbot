@@ -1,0 +1,11 @@
+Company: Indivior Pharmaceuticals Inc. Common Stock
+Ticker: INDV
+CIK: 0001625297
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 881000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 108000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1416000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1623000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: -207000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 194000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 445000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

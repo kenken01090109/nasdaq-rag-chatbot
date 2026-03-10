@@ -1,0 +1,25 @@
+Company: Alliant Energy Corporation Common Stock
+Ticker: LNT
+Market Cap: 18398427136
+Enterprise Value: 30115426304
+Total Revenue: 4361999872
+Revenue Per Share: 16.973
+EBITDA: 1852000000
+Gross Margins: 0.45667
+Operating Margins: 0.16729
+Profit Margins: 0.18569
+Free Cashflow: -1369250048
+Operating Cashflow: 1168999936
+Return On Assets: 0.02636
+Return On Equity: 0.11299
+Total Cash: 556000000
+Total Debt: 12327000064
+Debt To Equity: 168.08
+Current Ratio: 0.799
+Quick Ratio: 0.486
+Trailing PE: 22.786625
+Forward PE: 19.361229
+Price To Book: 2.50859
+Beta: 0.611
+52 Week High: 72.65
+52 Week Low: 57.09

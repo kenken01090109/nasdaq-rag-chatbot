@@ -1,0 +1,10 @@
+Company: MetroCity Bankshares Inc. Common Stock
+Ticker: MCBS
+CIK: 0001747068
+Latest SEC XBRL Facts:
+NetIncomeLoss: 50393000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3629463000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3183575000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 445888000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 42841000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 227158000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

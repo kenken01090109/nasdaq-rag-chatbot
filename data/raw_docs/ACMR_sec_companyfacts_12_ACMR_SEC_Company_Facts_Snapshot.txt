@@ -1,0 +1,12 @@
+Company: ACM Research Inc. Class A Common Stock
+Ticker: ACMR
+CIK: 0001680062
+Latest SEC XBRL Facts:
+Revenues: 49489000 | unit=USD | filed=2019-08-12 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 656879000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 86029000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2770643000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 885429000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1432680000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -44244000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1058909000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

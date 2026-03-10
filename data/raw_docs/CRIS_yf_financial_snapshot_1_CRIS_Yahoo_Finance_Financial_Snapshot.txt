@@ -1,0 +1,25 @@
+Company: Curis Inc. Common Stock
+Ticker: CRIS
+Market Cap: 13597590
+Enterprise Value: 34347564
+Total Revenue: 11650000
+Revenue Per Share: 1.046
+EBITDA: -34177000
+Gross Margins: -1.72146
+Operating Margins: -2.1801
+Profit Margins: 0.0
+Free Cashflow: -17354500
+Operating Cashflow: -30090000
+Return On Assets: -0.61197
+Return On Equity: 
+Total Cash: 9051000
+Total Debt: 30599000
+Debt To Equity: 
+Current Ratio: 0.698
+Quick Ratio: 0.617
+Trailing PE: 
+Forward PE: -0.6285714
+Price To Book: -0.8578856
+Beta: 2.982
+52 Week High: 3.18
+52 Week Low: 0.77

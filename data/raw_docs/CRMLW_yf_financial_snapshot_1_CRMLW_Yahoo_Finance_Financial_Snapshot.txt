@@ -1,0 +1,25 @@
+Company: Critical Metals Corp. Warrants
+Ticker: CRMLW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 560623
+Revenue Per Share: 0.006
+EBITDA: -47467392
+Gross Margins: 1.0
+Operating Margins: -130.28871
+Profit Margins: 0.0
+Free Cashflow: 10216527
+Operating Cashflow: -14497151
+Return On Assets: -0.25678
+Return On Equity: -1.28305
+Total Cash: 7297328
+Total Debt: 5880930
+Debt To Equity: 6.398
+Current Ratio: 0.128
+Quick Ratio: 0.113
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.714612
+Beta: 1.463
+52 Week High: 4.45
+52 Week Low: 4.05

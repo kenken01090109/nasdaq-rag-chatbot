@@ -1,0 +1,11 @@
+Company: Vistance Networks Inc. Common Stock
+Ticker: VISN
+CIK: 0001517228
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4130000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 924200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 7939100000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 9005100000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: -2344700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 41600000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 705300000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

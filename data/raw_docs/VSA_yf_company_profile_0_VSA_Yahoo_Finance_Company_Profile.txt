@@ -1,0 +1,9 @@
+Company: VisionSys AI Inc. American Depositary Shares
+Ticker: VSA
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: China
+City: Beijing
+Website: https://ir.tctm.cn
+Employees: 3854
+Business Summary: VisionSys AI Inc., through its subsidiaries, engages in the provision of STEM education services in Mainland China. It offers supplementary science, technology, engineering, and mathematics (STEM) education programs to young children aged between three and eighteen through online teaching models and instructors from online or offline learning centers. The company also operates an education platform that offers live distance instruction, classroom-based learning, and online learning modules. In addition, it operates 61it.cn, an online platform to facilitate the live instruction of STEM education courses; Tongcheng Online App; and Tarena Teaching System, a learning management system. The company was formerly known as TCTM Kids IT Education Inc. and changed its name to VisionSys AI Inc. in September 2025. VisionSys AI Inc. was founded in 2002 and is headquartered in Beijing, the People's Republic of China.

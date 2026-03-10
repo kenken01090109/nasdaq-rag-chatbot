@@ -1,0 +1,11 @@
+Company: Axon Enterprise Inc. Common Stock
+Ticker: AXON
+CIK: 0001069183
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1982812000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 121911000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 6657365000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 3629615000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 3027750000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5896000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1423871000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

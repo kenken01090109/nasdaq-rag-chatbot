@@ -1,0 +1,9 @@
+Company: Atea Pharmaceuticals Inc. Common Stock
+Ticker: AVIR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://ateapharma.com
+Employees: 
+Business Summary: Atea Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, discovers, develops, and commercializes oral antiviral therapeutics for patients with serious viral infections. Its lead product candidate is the regimen of bemnifosbuvir, a nucleotide NS5B inhibitor, and ruzasvir, an NS5A inhibitor, which is in Phase 3 clinical trial for the treatment of hepatitis C virus (HCV). It has a license agreement with MSD International GmbH for the development, manufacture, and commercialization of ruzasvir. Atea Pharmaceuticals, Inc. was incorporated in 2012 and is headquartered in Boston, Massachusetts.

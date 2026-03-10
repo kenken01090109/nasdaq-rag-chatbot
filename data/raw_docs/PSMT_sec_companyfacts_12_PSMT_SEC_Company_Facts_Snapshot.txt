@@ -1,0 +1,12 @@
+Company: PriceSmart Inc. Common Stock
+Ticker: PSMT
+CIK: 0001041803
+Latest SEC XBRL Facts:
+Revenues: 1054806000 | unit=USD | filed=2023-01-09 | period_end=2022-11-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1382729000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetIncomeLoss: 40166000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+Assets: 2393898000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+Liabilities: 1089108000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+StockholdersEquity: 1304790000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 71245000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 206419000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30

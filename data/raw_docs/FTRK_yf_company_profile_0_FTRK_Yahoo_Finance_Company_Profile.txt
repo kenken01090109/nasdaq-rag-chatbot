@@ -1,0 +1,9 @@
+Company: FAST TRACK GROUP Ordinary shares
+Ticker: FTRK
+Sector: Communication Services
+Industry: Entertainment
+Country: Singapore
+City: Singapore
+Website: https://www.fastrack-group.com
+Employees: 6
+Business Summary: Fast Track Group provides entertainment-focused event management and marketing services in Singapore, Malaysia, and Thailand. It operates in two segments, Live Entertainment and Agency. The Live Entertainment segment organizes and manages concerts and events. Its Agency segment provides agency services for artist endorsements, including artist broker and supply services; consultancy services; assistance with event management; and infrastructure and logistical support. The company also offers media planning, public relations management, technical production planning, celebrity sourcing, celebrity engagement consultancy, and event manpower support services. Fast Track Group was incorporated in 2012 and is headquartered in Singapore.

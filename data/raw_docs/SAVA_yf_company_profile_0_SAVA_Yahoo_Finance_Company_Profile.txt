@@ -1,0 +1,9 @@
+Company: Cassava Sciences Inc. Common Stock
+Ticker: SAVA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Austin
+Website: https://www.cassavasciences.com
+Employees: 30
+Business Summary: Cassava Sciences, Inc., a clinical stage biotechnology company, develops drugs for neurodegenerative diseases. Its lead therapeutic product candidate is simufilam, a small molecule drug, which is completed Phase 2 clinical trial; and investigational diagnostic product candidate is SavaDx, a blood-based biomarker/diagnostic to detect Alzheimer's disease. Cassava Sciences, Inc. was formerly known as Pain Therapeutics, Inc. and changed its name to Cassava Sciences, Inc. in March 2019. The company was incorporated in 1998 and is based in Austin, Texas.

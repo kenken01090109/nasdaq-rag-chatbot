@@ -1,0 +1,25 @@
+Company: argenx SE American Depositary Shares
+Ticker: ARGX
+Market Cap: 44419907584
+Enterprise Value: 40554938368
+Total Revenue: 4248049920
+Revenue Per Share: 2.7722
+EBITDA: 1094297984
+Gross Margins: 0.57278997
+Operating Margins: 0.28070998
+Profit Margins: 0.30415002
+Free Cashflow: 519504256
+Operating Cashflow: 685192000
+Return On Assets: 0.08953
+Return On Equity: 0.20154
+Total Cash: 4440038912
+Total Debt: 47160000
+Debt To Equity: 0.644
+Current Ratio: 5.226
+Quick Ratio: 4.618
+Trailing PE: 36.697342
+Forward PE: 21.78883
+Price To Book: 6.050899
+Beta: -0.184
+52 Week High: 934.62
+52 Week Low: 510.055

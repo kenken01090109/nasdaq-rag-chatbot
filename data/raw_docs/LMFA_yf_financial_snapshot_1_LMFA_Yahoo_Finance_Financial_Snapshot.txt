@@ -1,0 +1,25 @@
+Company: LM Funding America Inc. Common Stock
+Ticker: LMFA
+Market Cap: 5686172
+Enterprise Value: 11146442
+Total Revenue: 7567508
+Revenue Per Share: 1.263
+EBITDA: 
+Gross Margins: 0.16993
+Operating Margins: -1.93116
+Profit Margins: -0.9294
+Free Cashflow: 
+Operating Cashflow: -12024953
+Return On Assets: -0.14792
+Return On Equity: -0.18576
+Total Cash: 291571
+Total Debt: 8619280
+Debt To Equity: 17.806
+Current Ratio: 1.834
+Quick Ratio: 0.035
+Trailing PE: 
+Forward PE: -0.08723654
+Price To Book: 0.11528939
+Beta: 2.356
+52 Week High: 5.14
+52 Week Low: 0.29

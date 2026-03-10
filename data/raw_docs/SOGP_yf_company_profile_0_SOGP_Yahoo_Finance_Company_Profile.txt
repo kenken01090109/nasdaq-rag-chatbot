@@ -1,0 +1,9 @@
+Company: Sound Group Inc. American Depositary Shares
+Ticker: SOGP
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: Singapore
+City: Singapore
+Website: https://soundgroupinc.com
+Employees: 563
+Business Summary: Sound Group Inc. operates as an AI-powered audio company to help people connect better. The company leverages its voice AI technologies and R&D achievements across various audio products, such as automatic speech recognition, text-to-speech, and real-time audio intelligence. The company develops SoundSphereAI, a voice AI technology showcase and experience platform designed for a global audience. It also offers developers, creators, and partners a window into its voice technology capabilities and long-term technical roadmap. The company was formerly known as LIZHI INC. and changed its name to Sound Group Inc. in January 2024. Sound Group Inc. was founded in 2010 and is based in Singapore.

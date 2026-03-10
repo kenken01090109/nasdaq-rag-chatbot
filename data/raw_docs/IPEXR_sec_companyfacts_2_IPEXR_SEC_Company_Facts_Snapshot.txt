@@ -1,0 +1,10 @@
+Company: Inflection Point Acquisition Corp. V Rights
+Ticker: IPEXR
+CIK: 0002028355
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1312339 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 88835774 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4610725 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -4260639 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -437444 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 289580 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Verrica Pharmaceuticals Inc. Common Stock
+Ticker: VRCA
+Market Cap: 84906168
+Enterprise Value: 65032084
+Total Revenue: 30829000
+Revenue Per Share: 3.502
+EBITDA: -14958000
+Gross Margins: 0.67017996
+Operating Margins: 0.11343
+Profit Margins: -0.84382004
+Free Cashflow: -25019624
+Operating Cashflow: -29100000
+Return On Assets: -0.26279
+Return On Equity: 
+Total Cash: 21097000
+Total Debt: 35737000
+Debt To Equity: 
+Current Ratio: 1.255
+Quick Ratio: 0.983
+Trailing PE: 
+Forward PE: -2.375839
+Price To Book: -2.9565701
+Beta: 1.46
+52 Week High: 9.821
+52 Week Low: 3.28

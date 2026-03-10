@@ -1,0 +1,25 @@
+Company: Identiv Inc. Common Stock
+Ticker: INVE
+Market Cap: 78151936
+Enterprise Value: -49027500
+Total Revenue: 22015000
+Revenue Per Share: 0.927
+EBITDA: -20234000
+Gross Margins: -0.03648
+Operating Margins: -1.03414
+Profit Margins: -0.66486
+Free Cashflow: -18323000
+Operating Cashflow: -15652000
+Return On Assets: -0.0855
+Return On Equity: -0.12356
+Total Cash: 126266000
+Total Debt: 1457000
+Debt To Equity: 1.014
+Current Ratio: 21.079
+Quick Ratio: 19.378
+Trailing PE: 
+Forward PE: -5.823009
+Price To Book: 0.54344237
+Beta: 1.377
+52 Week High: 4.07
+52 Week Low: 2.86

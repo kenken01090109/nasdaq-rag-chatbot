@@ -1,0 +1,25 @@
+Company: Cantaloupe Inc. Common Stock
+Ticker: CTLP
+Market Cap: 757106432
+Enterprise Value: 753769408
+Total Revenue: 317555008
+Revenue Per Share: 4.322
+EBITDA: 47046000
+Gross Margins: 0.40405998
+Operating Margins: 0.06937
+Profit Margins: 0.17319
+Free Cashflow: 23077624
+Operating Cashflow: 41959000
+Return On Assets: 0.049489997
+Return On Equity: 0.24551001
+Total Cash: 52980000
+Total Debt: 46923000
+Debt To Equity: 18.388
+Current Ratio: 1.921
+Quick Ratio: 1.148
+Trailing PE: 14.068494
+Forward PE: 21.395834
+Price To Book: 2.9985404
+Beta: 1.067
+52 Week High: 11.16
+52 Week Low: 7.01

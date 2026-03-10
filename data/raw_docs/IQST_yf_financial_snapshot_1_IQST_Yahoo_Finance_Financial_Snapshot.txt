@@ -1,0 +1,25 @@
+Company: iQSTEL Inc. Common Stock
+Ticker: IQST
+Market Cap: 8768895
+Enterprise Value: 15400770
+Total Revenue: 331557632
+Revenue Per Share: 112.326
+EBITDA: -1147345
+Gross Margins: 0.027780002
+Operating Margins: -0.00496
+Profit Margins: -0.02498
+Free Cashflow: -2465099
+Operating Cashflow: -3005975
+Return On Assets: -0.031400003
+Return On Equity: -0.59224
+Total Cash: 2259432
+Total Debt: 4152016
+Debt To Equity: 23.256
+Current Ratio: 1.038
+Quick Ratio: 0.923
+Trailing PE: 
+Forward PE: -3.8998485
+Price To Book: 0.5560485
+Beta: 1.711
+52 Week High: 18.6824
+52 Week Low: 1.8

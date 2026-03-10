@@ -1,0 +1,12 @@
+Company: Robinhood Markets Inc. Class A Common Stock
+Ticker: HOOD
+CIK: 0001783879
+Latest SEC XBRL Facts:
+Revenues: 3190000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 871606000 | unit=USD | filed=2021-08-18 | period_end=2021-06-30
+NetIncomeLoss: 1278000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 41452000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 32885000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 8567000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2575000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4331000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

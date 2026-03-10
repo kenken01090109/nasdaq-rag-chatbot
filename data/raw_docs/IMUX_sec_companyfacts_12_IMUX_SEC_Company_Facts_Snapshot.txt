@@ -1,0 +1,10 @@
+Company: Immunic Inc. Common Stock
+Ticker: IMUX
+CIK: 0001280776
+Latest SEC XBRL Facts:
+NetIncomeLoss: -77872000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 40704000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 30205000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10499000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -66525000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35132000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

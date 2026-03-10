@@ -1,0 +1,10 @@
+Company: Tron Inc. Common Stock
+Ticker: TRON
+CIK: 0001956744
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3536856 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 12995535 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 244600657 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 4825835 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 239774822 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1015685 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

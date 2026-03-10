@@ -1,0 +1,11 @@
+Company: The Brand House Collective Inc. Common Stock
+Ticker: TBHC
+CIK: 0001056285
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 441360000 | unit=USD | filed=2025-05-02 | period_end=2025-02-01
+NetIncomeLoss: -35708000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+Assets: 229229000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+Liabilities: 273270000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+StockholdersEquity: -44041000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: -35989000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 6457000 | unit=USD | filed=2025-12-16 | period_end=2025-11-01

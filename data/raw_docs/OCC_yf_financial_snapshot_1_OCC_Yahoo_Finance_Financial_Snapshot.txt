@@ -1,0 +1,25 @@
+Company: Optical Cable Corporation Common Stock
+Ticker: OCC
+Market Cap: 53666188
+Enterprise Value: 66532600
+Total Revenue: 73038216
+Revenue Per Share: 9.077
+EBITDA: 354181
+Gross Margins: 0.30941
+Operating Margins: 0.01355
+Profit Margins: -0.019919999
+Free Cashflow: 1631374
+Operating Cashflow: 1414075
+Return On Assets: -0.0069999998
+Return On Equity: -0.07791
+Total Cash: 237508
+Total Debt: 10179062
+Debt To Equity: 61.665
+Current Ratio: 1.825
+Quick Ratio: 0.626
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.015952
+Beta: 0.613
+52 Week High: 11.5
+52 Week Low: 2.4

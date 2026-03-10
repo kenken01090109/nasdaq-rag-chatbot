@@ -1,0 +1,11 @@
+Company: Creative Medical Technology Holdings Inc. Common Stock
+Ticker: CELZ
+CIK: 0001187953
+Latest SEC XBRL Facts:
+Revenues: 3000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -4107334 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 5853003 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 261353 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 5591650 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3918891 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4507108 | unit=USD | filed=2023-11-14 | period_end=2023-09-30

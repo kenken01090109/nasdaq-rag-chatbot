@@ -1,0 +1,25 @@
+Company: World Acceptance Corporation Common Stock
+Ticker: WRLD
+Market Cap: 700141696
+Enterprise Value: 1434837504
+Total Revenue: 573381760
+Revenue Per Share: 112.483
+EBITDA: 111484944
+Gross Margins: 0.67768997
+Operating Margins: 0.08334
+Profit Margins: 0.07458
+Free Cashflow: 15970974
+Operating Cashflow: 255641008
+Return On Assets: 0.05673
+Return On Equity: 0.109680004
+Total Cash: 10000070
+Total Debt: 751926784
+Debt To Equity: 213.857
+Current Ratio: 21.655
+Quick Ratio: 20.937
+Trailing PE: 17.885458
+Forward PE: 12.951538
+Price To Book: 1.8804379
+Beta: 1.207
+52 Week High: 185.48
+52 Week Low: 104.99

@@ -1,0 +1,9 @@
+Company: Erayak Power Solution Group Inc. Class A Ordinary Shares
+Ticker: RAYA
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: China
+City: Wenzhou
+Website: https://erayakpower.com
+Employees: 360
+Business Summary: Erayak Power Solution Group Inc., through its subsidiaries, engages in the research and development, manufacture, and wholesale and retail of power solution products in China, Australia, Poland, the United Kingdom, Germany, and internationally. The company offers sine wave and off-grid inverters, inverter and gasoline generators, battery and smart chargers, and custom-designed products. Its products are used in agricultural and industrial vehicles, recreational vehicles, electrical appliances, and outdoor living products. The company was incorporated in 2019 and is based in Wenzhou, the People's Republic of China.

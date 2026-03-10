@@ -1,0 +1,12 @@
+Company: Lincoln Educational Services Corporation Common Stock
+Ticker: LINC
+CIK: 0001286613
+Latest SEC XBRL Facts:
+Revenues: 194452000 | unit=USD | filed=2017-11-13 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 375369000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 7298000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 466939000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 281085000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 185854000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15803000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13480000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

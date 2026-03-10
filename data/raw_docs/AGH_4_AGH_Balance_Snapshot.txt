@@ -1,0 +1,8 @@
+Company: Aureus Greenway Holdings Inc. Common Stock
+Ticker: AGH
+Total Cash: 29408326
+Total Debt: 693810
+Debt To Equity: 2.053
+Current Ratio: 35.485
+Quick Ratio: 34.85
+Book Value: 2.313

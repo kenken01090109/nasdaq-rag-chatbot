@@ -1,0 +1,9 @@
+Company: Gaxos.ai Inc. Common Stock
+Ticker: GXAI
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: United States
+City: Roseland
+Website: https://gaxos.ai
+Employees: 3
+Business Summary: Gaxos.ai Inc. engages in developing artificial intelligence applications. The company offers Gaxos Labs, a transformative generative AI service that provides AI-powered creativity, monetization, seamless integration, API, dynamic content generation, and customized solutions to game developers and publishers; and Gaxos, a gaming platform develop, design, acquire, and manage conventional games and combine these games with unconventional game mechanisms. The company was formerly known as The NFT Gaming Company, Inc. and changed its name to Gaxos.ai Inc. in January 2024. Gaxos.ai Inc. was incorporated in 2021 and is based in Roseland, New Jersey.

@@ -1,0 +1,9 @@
+Company: Data I/O Corporation Common Stock
+Ticker: DAIO
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Redmond
+Website: https://www.dataio.com
+Employees: 
+Business Summary: Data I/O Corporation, together with its subsidiaries, engages in the design, manufacture, and sale of programming and security deployment systems and services for electronic device manufacturers in the United States, Europe, and internationally. Its programming system products are used to program integrated circuits (ICs) with the specific data for the ICs. The company offers PSV systems off-line automated programming systems, such as PSV2800 automated programming system which focuses on high-volume manufacturing in a lower cost platform; PSV7000 automated programming system for security deployment upgrades; PSV5000 automated programming system that combines mid-range capacity and supports security deployment; and PSV3500 automated programming system which provides basic programming needs. It provides SentriX security deployment system; and LumenX and non-automated FlashPAK III programming systems. In addition, the company offers hardware support, system installation and repair, and device programming services. It markets and sells its products to original equipment manufacturers in automotive and consumer electronics, internet of things, and industrial, as well as electronic manufacturing service contract manufacturers through direct sales, and indirect sales representatives and distributors. Data I/O Corporation was incorporated in 1969 and is headquartered in Redmond, Washington.

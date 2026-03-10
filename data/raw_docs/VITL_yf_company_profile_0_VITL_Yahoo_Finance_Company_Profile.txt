@@ -1,0 +1,9 @@
+Company: Vital Farms Inc. Common Stock
+Ticker: VITL
+Sector: Consumer Defensive
+Industry: Farm Products
+Country: United States
+City: Austin
+Website: https://vitalfarms.com
+Employees: 739
+Business Summary: Vital Farms, Inc., a food company, packages, markets, and distributes shell eggs, butter, and other products in the United States. The company produces products sourced from animals raised on family farms, including shell eggs, stick butter, hard-boiled eggs, and liquid whole eggs under the Vital Farms brand and other trade names. It offers its products through third parties and direct to retailers, and commercial and non-commercial foodservice operators. The company was founded in 2007 and is headquartered in Austin, Texas.

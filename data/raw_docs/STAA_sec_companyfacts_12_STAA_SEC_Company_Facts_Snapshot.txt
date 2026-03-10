@@ -1,0 +1,12 @@
+Company: STAAR Surgical Company Common Stock
+Ticker: STAA
+CIK: 0000718937
+Latest SEC XBRL Facts:
+Revenues: 181641000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+RevenueFromContractWithCustomerExcludingAssessedTax: 7383000 | unit=USD | filed=2021-08-04 | period_end=2021-07-02
+NetIncomeLoss: -62139000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+Assets: 456362000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+Liabilities: 102582000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+StockholdersEquity: 353780000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: -30316000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 176155000 | unit=USD | filed=2025-11-05 | period_end=2025-09-26

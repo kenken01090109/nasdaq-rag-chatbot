@@ -1,0 +1,25 @@
+Company: Moleculin Biotech Inc. Common Stock
+Ticker: MBRX
+Market Cap: 6404796
+Enterprise Value: -1751421
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -24101000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -12177125
+Operating Cashflow: -22452000
+Return On Assets: -0.69184995
+Return On Equity: 
+Total Cash: 6703000
+Total Debt: 390000
+Debt To Equity: 
+Current Ratio: 1.388
+Quick Ratio: 1.181
+Trailing PE: 
+Forward PE: -0.017154638
+Price To Book: -0.15298617
+Beta: 1.738
+52 Week High: 33.0
+52 Week Low: 2.05

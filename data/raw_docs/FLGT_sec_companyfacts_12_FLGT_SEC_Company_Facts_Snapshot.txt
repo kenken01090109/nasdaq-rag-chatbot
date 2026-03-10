@@ -1,0 +1,12 @@
+Company: Fulgent Genetics Inc. Common Stock
+Ticker: FLGT
+CIK: 0001674930
+Latest SEC XBRL Facts:
+Revenues: 15678000 | unit=USD | filed=2018-11-09 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 239335000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -37095000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1214563000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 93806000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1125888000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23495000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 117641000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

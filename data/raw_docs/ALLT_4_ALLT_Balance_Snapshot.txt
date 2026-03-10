@@ -1,0 +1,8 @@
+Company: Allot Ltd. Ordinary Shares
+Ticker: ALLT
+Total Cash: 80870000
+Total Debt: 5740000
+Debt To Equity: 5.064
+Current Ratio: 2.65
+Quick Ratio: 2.295
+Book Value: 2.336

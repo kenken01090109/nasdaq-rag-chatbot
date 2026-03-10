@@ -1,0 +1,8 @@
+Company: Adobe Inc. Common Stock
+Ticker: ADBE
+Total Cash: 6597000192
+Total Debt: 6656000000
+Debt To Equity: 57.266
+Current Ratio: 0.996
+Quick Ratio: 0.877
+Book Value: 28.143

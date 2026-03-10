@@ -1,0 +1,12 @@
+Company: ATA Creativity Global American Depositary Shares
+Ticker: AACG
+Total Revenue: 279901344
+Revenue Per Share: 8.877
+Gross Margins: 0.52702
+Operating Margins: -0.15686
+EBITDA: 1292680
+Profit Margins: -0.030380001
+Free Cashflow: -13371401
+Operating Cashflow: -19349088
+Return On Assets: -0.032679997
+Return On Equity: -0.13603

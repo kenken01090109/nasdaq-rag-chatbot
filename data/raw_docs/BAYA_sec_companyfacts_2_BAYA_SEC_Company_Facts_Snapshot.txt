@@ -1,0 +1,10 @@
+Company: Bayview Acquisition Corp Ordinary Shares
+Ticker: BAYA
+CIK: 0001969475
+Latest SEC XBRL Facts:
+NetIncomeLoss: 240173 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 19852018 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5111453 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5047928 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -55278 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38342 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

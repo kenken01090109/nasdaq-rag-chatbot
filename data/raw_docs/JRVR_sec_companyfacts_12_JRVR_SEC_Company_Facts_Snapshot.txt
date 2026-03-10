@@ -1,0 +1,11 @@
+Company: James River Group Holdings Inc. Common Stock
+Ticker: JRVR
+CIK: 0001620459
+Latest SEC XBRL Facts:
+Revenues: 519867000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 15354000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 4950271000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 4313518000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 503638000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8010000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 238750000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Home Federal Bancorp Inc. of Louisiana Common Stock
+Ticker: HFBL
+CIK: 0001500375
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1303000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetIncomeLoss: 3274000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 621449000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 563700000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 57749000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 5631000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 7547000 | unit=USD | filed=2016-05-12 | period_end=2016-03-31

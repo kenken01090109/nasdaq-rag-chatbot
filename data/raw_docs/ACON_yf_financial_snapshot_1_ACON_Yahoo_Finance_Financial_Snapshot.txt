@@ -1,0 +1,25 @@
+Company: Aclarion Inc. Common Stock
+Ticker: ACON
+Market Cap: 3447793
+Enterprise Value: -9184956
+Total Revenue: 67483
+Revenue Per Share: 0.116
+EBITDA: -6647278
+Gross Margins: -0.07835
+Operating Margins: -96.6616
+Profit Margins: 0.0
+Free Cashflow: -4137211
+Operating Cashflow: -6459628
+Return On Assets: -0.52367
+Return On Equity: -0.97720003
+Total Cash: 11380339
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 17.013
+Quick Ratio: 16.309
+Trailing PE: 
+Forward PE: -0.23851204
+Price To Book: 0.15234102
+Beta: 1.441
+52 Week High: 48.33
+52 Week Low: 2.34

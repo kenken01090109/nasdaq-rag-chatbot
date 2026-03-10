@@ -1,0 +1,11 @@
+Company: Vuzix Corporation Common Stock
+Ticker: VUZI
+CIK: 0001463972
+Latest SEC XBRL Facts:
+Revenues: 4037598 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -23658106 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 42473242 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4587771 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 27885471 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13234835 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22608529 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

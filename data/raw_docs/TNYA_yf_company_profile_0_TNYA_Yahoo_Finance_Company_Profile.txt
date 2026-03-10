@@ -1,0 +1,9 @@
+Company: Tenaya Therapeutics Inc. Common Stock
+Ticker: TNYA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://www.tenayatherapeutics.com
+Employees: 97
+Business Summary: Tenaya Therapeutics, Inc., a clinical-stage biotechnology company, discovers, develops, and delivers therapies for heart disease in the United States. The company's lead product candidate includes TN-201, a gene therapy for myosin binding protein C3-associated hypertrophic cardiomyopathy that is in phase 2 clinical trial; TN-401, a gene therapy for plakophilin 2-associated arrhythmogenic right ventricular cardiomyopathy, which is in phase 1 clinical trial; and TN-301, a small molecule histone deacetylase-6 for heart failure with preserved ejection fraction that is in phase 1 clinical trial. It also develops an adeno-associated virus-based gene therapy designed to deliver the dworf gene for patient with dilated cardiomyopathy; and reprogramming program for heart failure due to prior myocardial infarction. The company develops its products through gene editing, cellular regeneration, gene silencing, and gene addition. The company has a research collaboration agreement with Alnylam Pharmaceuticals, Inc. for discovering novel human genetic targets for the potential development of disease-modifying treatments for cardiovascular diseases. Tenaya Therapeutics, Inc. was incorporated in 2016 and is headquartered in South San Francisco, California.

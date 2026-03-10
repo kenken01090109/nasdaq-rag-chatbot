@@ -1,0 +1,10 @@
+Company: Adicet Bio Inc. Common Stock
+Ticker: ACET
+Market Cap: 71616000
+Enterprise Value: -12168950
+Trailing PE: 
+Forward PE: -0.6725265
+Price To Book: 0.3917244
+Beta: 1.613
+52 Week High: 17.44
+52 Week Low: 6.407

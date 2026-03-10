@@ -1,0 +1,10 @@
+Company: Innoviz Technologies Ltd. Warrant
+Ticker: INVZW
+CIK: 0001835654
+Latest SEC XBRL Facts:
+Revenues: 42415000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -46540000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 151063000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 89667000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -38787000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7886000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,8 @@
+Company: AstroNova Inc. Common Stock
+Ticker: ALOT
+Total Cash: 3606000
+Total Debt: 42935000
+Debt To Equity: 55.847
+Current Ratio: 1.825
+Quick Ratio: 0.591
+Book Value: 10.065

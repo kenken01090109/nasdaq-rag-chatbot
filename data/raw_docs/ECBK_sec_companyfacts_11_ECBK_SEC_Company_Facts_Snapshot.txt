@@ -1,0 +1,9 @@
+Company: ECB Bancorp Inc. Common Stock
+Ticker: ECBK
+CIK: 0001914605
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5176000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1552653000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1383344000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 169309000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5289000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

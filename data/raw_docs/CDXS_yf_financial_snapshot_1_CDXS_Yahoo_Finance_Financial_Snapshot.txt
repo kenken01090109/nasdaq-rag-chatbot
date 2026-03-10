@@ -1,0 +1,25 @@
+Company: Codexis Inc. Common Stock
+Ticker: CDXS
+Market Cap: 111098992
+Enterprise Value: 123728720
+Total Revenue: 52932000
+Revenue Per Share: 0.624
+EBITDA: -54539000
+Gross Margins: -0.20218
+Operating Margins: -2.20312
+Profit Margins: -1.20817
+Free Cashflow: -37896500
+Operating Cashflow: -55936000
+Return On Assets: -0.27392998
+Return On Equity: -1.14255
+Total Cash: 58701000
+Total Debt: 68621000
+Debt To Equity: 178.033
+Current Ratio: 4.124
+Quick Ratio: 3.704
+Trailing PE: 
+Forward PE: -2.510204
+Price To Book: 2.8805623
+Beta: 2.502
+52 Week High: 3.87
+52 Week Low: 0.96

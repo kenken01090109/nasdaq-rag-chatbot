@@ -1,0 +1,25 @@
+Company: VCI Global Limited Ordinary Share
+Ticker: VCIG
+Market Cap: 4189962
+Enterprise Value: -20255686
+Total Revenue: 138600768
+Revenue Per Share: 5866.699
+EBITDA: 27265496
+Gross Margins: 0.51168996
+Operating Margins: 0.22945999
+Profit Margins: 0.19434999
+Free Cashflow: 18030450
+Operating Cashflow: 148657072
+Return On Assets: 0.03145
+Return On Equity: 0.060549997
+Total Cash: 23112344
+Total Debt: 2771523
+Debt To Equity: 0.401
+Current Ratio: 2.295
+Quick Ratio: 1.213
+Trailing PE: 0.0066947206
+Forward PE: 
+Price To Book: 0.00051995786
+Beta: 1.748
+52 Week High: 34632.0
+52 Week Low: 3.62

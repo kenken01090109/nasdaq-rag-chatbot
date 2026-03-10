@@ -1,0 +1,10 @@
+Company: Calavo Growers Inc. Common Stock
+Ticker: CVGW
+CIK: 0001133470
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 523753000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+NetIncomeLoss: 15979000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+Assets: 301249000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+StockholdersEquity: 206424000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: 19234000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 63754000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31

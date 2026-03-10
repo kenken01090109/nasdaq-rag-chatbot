@@ -1,0 +1,10 @@
+Company: Hope Bancorp Inc. Common Stock
+Ticker: HOPE
+CIK: 0001128361
+Latest SEC XBRL Facts:
+NetIncomeLoss: 24058000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 18507735000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 16251839000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2255896000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 87779000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1468949000 | unit=USD | filed=2020-08-07 | period_end=2020-06-30

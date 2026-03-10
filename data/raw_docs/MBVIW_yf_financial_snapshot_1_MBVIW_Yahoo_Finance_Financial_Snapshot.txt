@@ -1,0 +1,25 @@
+Company: M3-Brigade Acquisition VI Corp. Warrant
+Ticker: MBVIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.05155741
+Beta: 
+52 Week High: 0.3956
+52 Week Low: 0.3956

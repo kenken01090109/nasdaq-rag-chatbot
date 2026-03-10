@@ -1,0 +1,10 @@
+Company: aTyr Pharma Inc. Common Stock
+Ticker: ATYR
+CIK: 0001339970
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 190000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -60155000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 106652000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 80235000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -49790000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6150000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

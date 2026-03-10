@@ -1,0 +1,12 @@
+Company: Ambitions Enterprise Management Co. L.L.C Class A Ordinary Shares
+Ticker: AHMA
+Total Revenue: 19771050
+Revenue Per Share: 0.706
+Gross Margins: 0.22574
+Operating Margins: 0.03419
+EBITDA: 1308032
+Profit Margins: 0.05901
+Free Cashflow: -64093
+Operating Cashflow: 1097215
+Return On Assets: 0.07858
+Return On Equity: 0.19063

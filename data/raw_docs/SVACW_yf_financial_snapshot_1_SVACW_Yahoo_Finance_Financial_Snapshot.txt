@@ -1,0 +1,25 @@
+Company: Spring Valley Acquisition Corp. III Warrant
+Ticker: SVACW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -4.3773584
+Beta: 
+52 Week High: 1.2
+52 Week Low: 1.16

@@ -1,0 +1,11 @@
+Company: New Century Logistics (BVI) Limited Ordinary Shares
+Ticker: NCEW
+CIK: 0001968043
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 21389809 | unit=USD | filed=2025-09-30 | period_end=2025-03-31
+NetIncomeLoss: -1866274 | unit=USD | filed=2025-09-30 | period_end=2025-03-31
+Assets: 13945951 | unit=USD | filed=2025-09-30 | period_end=2025-03-31
+Liabilities: 6204023 | unit=USD | filed=2025-09-30 | period_end=2025-03-31
+StockholdersEquity: 7741928 | unit=USD | filed=2025-09-30 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -3415141 | unit=USD | filed=2026-02-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 288545 | unit=USD | filed=2025-09-30 | period_end=2025-03-31

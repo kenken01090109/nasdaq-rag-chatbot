@@ -1,0 +1,12 @@
+Company: RadNet Inc. Common Stock
+Ticker: RDNT
+CIK: 0000790526
+Latest SEC XBRL Facts:
+Revenues: 1352563000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1492498000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -18055000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 3665279000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2351320000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1058540000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 214656000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 804716000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

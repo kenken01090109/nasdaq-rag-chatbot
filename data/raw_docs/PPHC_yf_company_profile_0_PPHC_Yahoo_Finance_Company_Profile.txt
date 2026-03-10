@@ -1,0 +1,9 @@
+Company: Public Policy Holding Company Inc. Common Stock
+Ticker: PPHC
+Sector: Industrials
+Industry: Consulting Services
+Country: United States
+City: Washington
+Website: https://pphcompany.com
+Employees: 453
+Business Summary: Public Policy Holding Company, Inc. provides consulting services in the United States. It operates through three segments: Government Relations Consulting, Public Affairs Consulting, and Diversified Services. The Government Relations Consulting segment offers federal and state advocacy, strategic guidance, political intelligence, and issue monitoring services. The Public Affairs Consulting segment provides crisis communications, community relations, social media and digital podcasting, public opinion research, branding and messaging, relationship marketing, and litigation support. The Diversified Services segment offers lobbying compliance and legislative tracking services. The company was founded in 2014 and is headquartered in Washington, District Of Columbia.

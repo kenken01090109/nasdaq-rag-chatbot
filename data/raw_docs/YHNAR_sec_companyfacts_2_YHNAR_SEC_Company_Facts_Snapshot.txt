@@ -1,0 +1,9 @@
+Company: YHN Acquisition I Limited Right
+Ticker: YHNAR
+CIK: 0002020987
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1041201 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 63169556 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1944600 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -1799020 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -924108 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

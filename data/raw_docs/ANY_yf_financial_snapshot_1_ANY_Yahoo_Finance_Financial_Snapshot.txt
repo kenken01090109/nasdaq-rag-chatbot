@@ -1,0 +1,25 @@
+Company: Sphere 3D Corp. Common Shares
+Ticker: ANY
+Market Cap: 6004771
+Enterprise Value: -334541
+Total Revenue: 11099000
+Revenue Per Share: 4.165
+EBITDA: -7429000
+Gross Margins: 0.20416
+Operating Margins: -1.04537
+Profit Margins: -1.6746601
+Free Cashflow: -12867125
+Operating Cashflow: -14907000
+Return On Assets: -0.23492001
+Return On Equity: -0.52924
+Total Cash: 5277000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.28
+Quick Ratio: 3.34
+Trailing PE: 
+Forward PE: -0.55312496
+Price To Book: 0.17606683
+Beta: 3.847
+52 Week High: 12.6
+52 Week Low: 1.084

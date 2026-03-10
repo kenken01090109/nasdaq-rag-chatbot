@@ -1,0 +1,25 @@
+Company: The Simply Good Foods Company Common Stock
+Ticker: SMPL
+Market Cap: 1519036800
+Enterprise Value: 1774343424
+Total Revenue: 1449849984
+Revenue Per Share: 14.457
+EBITDA: 246795008
+Gross Margins: 0.34939998
+Operating Margins: 0.12787
+Profit Margins: 0.0626
+Free Cashflow: 147481504
+Operating Cashflow: 196530000
+Return On Assets: 0.05737
+Return On Equity: 0.05171
+Total Cash: 194051008
+Total Debt: 451086016
+Debt To Equity: 26.012
+Current Ratio: 5.007
+Quick Ratio: 3.15
+Trailing PE: 17.766666
+Forward PE: 7.308411
+Price To Book: 0.8759724
+Beta: 0.253
+52 Week High: 38.15
+52 Week Low: 15.3

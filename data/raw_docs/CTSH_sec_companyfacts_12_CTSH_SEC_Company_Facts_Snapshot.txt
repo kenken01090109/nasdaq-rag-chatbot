@@ -1,0 +1,12 @@
+Company: Cognizant Technology Solutions Corporation Class A Common Stock
+Ticker: CTSH
+CIK: 0001058290
+Latest SEC XBRL Facts:
+Revenues: 15775000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 15775000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 1582000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 20134000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 5237000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 14897000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2025000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2341000000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: Agios Pharmaceuticals Inc. Common Stock
+Ticker: AGIO
+CIK: 0001439222
+Latest SEC XBRL Facts:
+Revenues: 49176000 | unit=USD | filed=2018-08-02 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 34061000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -304742000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1385705000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 101375000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1284330000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -276764000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 92710000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

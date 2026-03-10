@@ -1,0 +1,25 @@
+Company: CVD Equipment Corporation Common Stock
+Ticker: CVV
+Market Cap: 25668154
+Enterprise Value: 18276258
+Total Revenue: 28250000
+Revenue Per Share: 4.117
+EBITDA: 105000
+Gross Margins: 0.29841
+Operating Margins: 0.04158
+Profit Margins: -0.0065499996
+Free Cashflow: -1620875
+Operating Cashflow: -1824000
+Return On Assets: -0.01258
+Return On Equity: -0.0072899996
+Total Cash: 8358000
+Total Debt: 203000
+Debt To Equity: 0.788
+Current Ratio: 4.757
+Quick Ratio: 4.112
+Trailing PE: 
+Forward PE: 9.02439
+Price To Book: 0.9959623
+Beta: 1.072
+52 Week High: 5.86
+52 Week Low: 2.46

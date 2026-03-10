@@ -1,0 +1,25 @@
+Company: FS Bancorp Inc. Common Stock
+Ticker: FSBW
+Market Cap: 296678528
+Enterprise Value: 451337024
+Total Revenue: 143136992
+Revenue Per Share: 18.672
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.32252
+Profit Margins: 0.23297001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01071
+Return On Equity: 0.11052
+Total Cash: 28219000
+Total Debt: 184855008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.198135
+Forward PE: 7.647287
+Price To Book: 0.94958484
+Beta: 0.678
+52 Week High: 44.22
+52 Week Low: 34.61

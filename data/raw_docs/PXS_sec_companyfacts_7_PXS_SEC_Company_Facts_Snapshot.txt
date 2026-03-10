@@ -1,0 +1,10 @@
+Company: Pyxis Tankers Inc. Common Stock
+Ticker: PXS
+CIK: 0001640043
+Latest SEC XBRL Facts:
+Revenues: 18756000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetIncomeLoss: -1237000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Assets: 186593000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+StockholdersEquity: 92011000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 7551000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 27445000 | unit=USD | filed=2025-08-11 | period_end=2025-06-30

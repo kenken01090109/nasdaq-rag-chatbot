@@ -1,0 +1,25 @@
+Company: Immunome Inc. Common Stock
+Ticker: IMNM
+Market Cap: 2321454336
+Enterprise Value: 1720513536
+Total Revenue: 6941000
+Revenue Per Share: 0.079
+EBITDA: -211647008
+Gross Margins: 0.0
+Operating Margins: -30.84757
+Profit Margins: 0.0
+Free Cashflow: -133619624
+Operating Cashflow: -190919008
+Return On Assets: -0.28983
+Return On Equity: -0.52089
+Total Cash: 653481984
+Total Debt: 3855000
+Debt To Equity: 0.608
+Current Ratio: 14.687
+Quick Ratio: 14.525
+Trailing PE: 
+Forward PE: -9.9543915
+Price To Book: 3.7524526
+Beta: 2.195
+52 Week High: 27.65
+52 Week Low: 5.15

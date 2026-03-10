@@ -1,0 +1,10 @@
+Company: Forafric Global PLC Ordinary Shares
+Ticker: AFRI
+Market Cap: 261214464
+Enterprise Value: 445087456
+Trailing PE: 
+Forward PE: 
+Price To Book: -57.117645
+Beta: 0.38
+52 Week High: 11.42
+52 Week Low: 7.47

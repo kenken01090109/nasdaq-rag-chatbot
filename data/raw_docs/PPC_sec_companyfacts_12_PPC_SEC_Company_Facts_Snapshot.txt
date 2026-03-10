@@ -1,0 +1,11 @@
+Company: Pilgrim's Pride Corporation Common Stock
+Ticker: PPC
+CIK: 0000802481
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13979716000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+NetIncomeLoss: 994366000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+Assets: 9952401000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+Liabilities: 6396724000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+StockholdersEquity: 3541934000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 1080440000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 612582000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28

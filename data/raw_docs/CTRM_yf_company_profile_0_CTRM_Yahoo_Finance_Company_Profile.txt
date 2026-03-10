@@ -1,0 +1,9 @@
+Company: Castor Maritime Inc. Common Shares
+Ticker: CTRM
+Sector: Industrials
+Industry: Marine Shipping
+Country: Cyprus
+City: Limassol
+Website: https://www.castormaritime.com
+Employees: 155
+Business Summary: Castor Maritime Inc. operates as a shipping and energy company worldwide. It operates through Dry Bulk, Containership, and Asset Management segments. The company offers seaborne transportation services for dry bulk and containership cargoes; and transportation of commodities, such as iron ore, coal, soybeans, etc. It also provides technical and commercial ship management and energy infrastructure project services. As of December 31, 2024, the company owned and operated a fleet of 13 vessels primarily consisting of four Kamsarmax, five Panamax, and one Ultramax dry bulk vessels, as well as two 2,700 TEU and one 1,850 TEU containerships. Castor Maritime Inc. was incorporated in 2017 and is based in Limassol, Cyprus.

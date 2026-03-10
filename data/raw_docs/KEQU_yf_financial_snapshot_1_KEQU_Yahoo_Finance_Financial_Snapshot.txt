@@ -1,0 +1,25 @@
+Company: Kewaunee Scientific Corporation Common Stock
+Ticker: KEQU
+Market Cap: 119958168
+Enterprise Value: 180525744
+Total Revenue: 285515008
+Revenue Per Share: 99.796
+EBITDA: 25655000
+Gross Margins: 0.29094
+Operating Margins: 0.058590002
+Profit Margins: 0.04113
+Free Cashflow: -11264000
+Operating Cashflow: 8667000
+Return On Assets: 0.07598
+Return On Equity: 0.18170999
+Total Cash: 12594000
+Total Debt: 73733000
+Debt To Equity: 102.811
+Current Ratio: 2.481
+Quick Ratio: 1.563
+Trailing PE: 10.621827
+Forward PE: 19.374998
+Price To Book: 1.7170639
+Beta: 0.582
+52 Week High: 60.89
+52 Week Low: 30.33

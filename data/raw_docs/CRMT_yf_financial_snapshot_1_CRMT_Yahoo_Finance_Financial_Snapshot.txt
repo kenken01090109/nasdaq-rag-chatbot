@@ -1,0 +1,25 @@
+Company: America's Car-Mart Inc Common Stock
+Ticker: CRMT
+Market Cap: 151960864
+Enterprise Value: 992864896
+Total Revenue: 1381481984
+Revenue Per Share: 172.086
+EBITDA: 65381000
+Gross Margins: 0.47856
+Operating Margins: -0.010670001
+Profit Margins: -0.01043
+Free Cashflow: -15019000
+Operating Cashflow: -8417000
+Return On Assets: 0.02175
+Return On Equity: -0.025980001
+Total Cash: 122362000
+Total Debt: 962766016
+Debt To Equity: 173.307
+Current Ratio: 18.08
+Quick Ratio: 14.984
+Trailing PE: 
+Forward PE: 11.0140505
+Price To Book: 0.27378017
+Beta: 1.122
+52 Week High: 62.72
+52 Week Low: 17.32

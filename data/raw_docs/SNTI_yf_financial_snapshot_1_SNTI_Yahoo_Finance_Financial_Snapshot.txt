@@ -1,0 +1,25 @@
+Company: Senti Biosciences Inc. Common Stock
+Ticker: SNTI
+Market Cap: 25368030
+Enterprise Value: 42008436
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -56180000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -23475124
+Operating Cashflow: -50073000
+Return On Assets: -0.67774004
+Return On Equity: -3.94617
+Total Cash: 12776000
+Total Debt: 30121000
+Debt To Equity: 370.903
+Current Ratio: 1.51
+Quick Ratio: 1.207
+Trailing PE: 
+Forward PE: -0.6941727
+Price To Book: 3.122654
+Beta: 2.133
+52 Week High: 5.1
+52 Week Low: 0.797

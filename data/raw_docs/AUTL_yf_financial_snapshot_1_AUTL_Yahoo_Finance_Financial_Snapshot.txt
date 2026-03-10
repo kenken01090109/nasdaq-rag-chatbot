@@ -1,0 +1,25 @@
+Company: Autolus Therapeutics plc American Depositary Share
+Ticker: AUTL
+Market Cap: 401876352
+Enterprise Value: 352989792
+Total Revenue: 51128000
+Revenue Per Share: 0.192
+EBITDA: -264679008
+Gross Margins: -2.6478798
+Operating Margins: -3.37931
+Profit Margins: 0.0
+Free Cashflow: -267752128
+Operating Cashflow: -254179008
+Return On Assets: -0.2299
+Return On Equity: -0.60559
+Total Cash: 367412992
+Total Debt: 325180000
+Debt To Equity: 122.5
+Current Ratio: 6.194
+Quick Ratio: 5.523
+Trailing PE: 
+Forward PE: -1.8101174
+Price To Book: 1.5145437
+Beta: 1.995
+52 Week High: 2.7
+52 Week Low: 1.105

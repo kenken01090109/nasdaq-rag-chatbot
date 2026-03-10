@@ -1,0 +1,25 @@
+Company: Byrna Technologies Inc. Common Stock
+Ticker: BYRN
+Market Cap: 271828704
+Enterprise Value: 258693680
+Total Revenue: 118120000
+Revenue Per Share: 5.211
+EBITDA: 13953000
+Gross Margins: 0.60506
+Operating Margins: 0.11215
+Profit Margins: 0.08201
+Free Cashflow: -16573250
+Operating Cashflow: -1572000
+Return On Assets: 0.094610006
+Return On Equity: 0.16128
+Total Cash: 15481000
+Total Debt: 2346000
+Debt To Equity: 3.568
+Current Ratio: 3.726
+Quick Ratio: 1.54
+Trailing PE: 29.974998
+Forward PE: 18.446154
+Price To Book: 4.1344824
+Beta: 2.364
+52 Week High: 34.3
+52 Week Low: 11.13

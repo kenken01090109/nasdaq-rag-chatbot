@@ -1,0 +1,9 @@
+Company: Cocrystal Pharma Inc. Common Stock
+Ticker: COCP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Bothell
+Website: https://www.cocrystalpharma.com
+Employees: 11
+Business Summary: Cocrystal Pharma, Inc., a biotechnology company, focuses on the discovery and development of antiviral therapeutic treatments for serious and/or chronic viral diseases in the United States. It employs structure-based technologies to create antiviral drugs including influenza virus, coronaviruses, such as SARS-CoV-2 and MERS-CoV, as well as norovirus, respiratory virus infections, and hepatitis C virus (HCV) infections. The company develops CC-42344, a novel PB2 inhibitor, which is in phase 2a clinical trial, as a potential treatment for pandemic and seasonal influenza A; and the inhaled CC-42344 for the potential prophylactic treatment of pandemic and seasonal influenza infections. It is also developing CDI-988, an oral pan-viral, which is phase 1 clinical trial to treat noroviruses and coronaviruses, including SARS-CoV-2 and its variants; and CC-31244, a HCV non-nucleoside inhibitor that has completed Phase 2a clinical trial to treat HCV. The company has a license and research collaboration agreement with Merck Sharp & Dohme Corp. to discover and develop proprietary influenza A/B antiviral agents; and a license agreement with Kansas State University Research Foundation to develop antiviral compounds for the treatment of norovirus and coronavirus infections. Cocrystal Pharma, Inc. was founded in 2006 and is based in Bothell, Washington.

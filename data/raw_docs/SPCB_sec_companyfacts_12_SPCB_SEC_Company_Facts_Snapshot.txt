@@ -1,0 +1,11 @@
+Company: SuperCom Ltd. Ordinary Shares (Israel)
+Ticker: SPCB
+CIK: 0001291855
+Latest SEC XBRL Facts:
+Revenues: 27635000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 5320000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Assets: 65479000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Liabilities: 34227000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 37251000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2176000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 15030000 | unit=USD | filed=2025-09-26 | period_end=2025-06-30

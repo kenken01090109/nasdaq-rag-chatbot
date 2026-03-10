@@ -1,0 +1,11 @@
+Company: Atlassian Corporation Class A Common Stock
+Ticker: TEAM
+CIK: 0001650372
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3018868000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -94515000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 6160381000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 4569532000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 1590849000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 306519000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1158122000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

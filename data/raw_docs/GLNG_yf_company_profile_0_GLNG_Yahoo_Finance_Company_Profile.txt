@@ -1,0 +1,9 @@
+Company: Golar Lng Ltd
+Ticker: GLNG
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: Bermuda
+City: Hamilton
+Website: https://www.golarlng.com
+Employees: 
+Business Summary: Golar LNG Limited designs, converts, owns, and operates marine infrastructure for the liquefaction of natural gas. The company operates through three segments: FLNG, Corporate and Other, and Shipping. It engages in the regasification, storage, and offloading of liquefied natural gas (LNG); operation of floating liquefaction natural gas (FLNG) vessels or projects; transportation of LNG carriers; and vessel management activities. The company was founded in 1946 and is headquartered in Hamilton, Bermuda.

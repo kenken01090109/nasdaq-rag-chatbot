@@ -1,0 +1,11 @@
+Company: Solid Biosciences Inc. Common Stock
+Ticker: SLDB
+CIK: 0001707502
+Latest SEC XBRL Facts:
+Revenues: 8094000 | unit=USD | filed=2023-03-23 | period_end=2022-12-31
+NetIncomeLoss: -53578000 | unit=USD | filed=2021-11-03 | period_end=2021-09-30
+Assets: 273914000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 55966000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 217948000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -102734000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 61364000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

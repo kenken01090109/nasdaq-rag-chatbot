@@ -1,0 +1,11 @@
+Company: Radcom Ltd. Ordinary Shares
+Ticker: RDCM
+CIK: 0001016838
+Latest SEC XBRL Facts:
+Revenues: 46051000 | unit=USD | filed=2023-03-30 | period_end=2022-12-31
+NetIncomeLoss: 6968000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31
+Assets: 130574000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31
+Liabilities: 34898000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31
+StockholdersEquity: 95676000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 11388000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 19243000 | unit=USD | filed=2025-03-26 | period_end=2024-12-31

@@ -1,0 +1,12 @@
+Company: Frontdoor Inc. Common Stock
+Ticker: FTDR
+CIK: 0001727263
+Latest SEC XBRL Facts:
+Revenues: 1660000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1660000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 253000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2227000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1385000000 | unit=USD | filed=2019-02-28 | period_end=2018-12-31
+StockholdersEquity: 316000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 315000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 563000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

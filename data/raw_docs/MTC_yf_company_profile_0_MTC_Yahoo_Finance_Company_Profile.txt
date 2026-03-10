@@ -1,0 +1,9 @@
+Company: MMTec Inc. Common Shares
+Ticker: MTC
+Sector: Technology
+Industry: Software - Application
+Country: Hong Kong
+City: Sheung Wan
+Website: https://www.haisc.com
+Employees: 34
+Business Summary: MMTec, Inc., together with its subsidiaries, develops and deploys platforms that enable financial institutions to engage in securities market transactions and settlements worldwide. It operates in two segments: Gujia, MM Future, HC Securities; and MM Global. The company offers securities dealers trading system, which supports securities registration and clearing, account management, risk management, trading and execution, and third-party access middleware; private fund investment management system, which supports multi-account management, fund valuation, risk management, quantitative trading access, liquidation, and requisition management; and mobile transaction individual client system and PC client system for Apple iOS, Android, PC, and web applications. It serves hedge funds, mutual funds, registered investment advisors, proprietary trading groups, and brokerage firms. The company was incorporated in 2018 and is headquartered in Sheung Wan, Hong Kong.

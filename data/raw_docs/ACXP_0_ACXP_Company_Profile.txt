@@ -1,0 +1,9 @@
+Company: Acurx Pharmaceuticals Inc. Common Stock
+Ticker: ACXP
+Long Business Summary: Acurx Pharmaceuticals, Inc., a clinical stage biopharmaceutical company, develops antibiotics to treat bacterial infections in the United States. The company's lead antibiotic candidate is ibezapolstat, a novel mechanism of action that targets the polymerase IIIC enzyme that is in Phase 2b clinical trial to treat patients with clostridium difficile infections. It also develops ACX-375C, a potential oral and parenteral treatment targeting gram-positive bacteria, including methicillin-resistant staphylococcus aureus, vancomycin-resistant enterococcus, and penicillin-resistant streptococcus pneumonia; and CCP, multiple product candidates for gram-positive infections. Acurx Pharmaceuticals, Inc. was incorporated in 2017 and is headquartered in Staten Island, New York.
+Industry: Biotechnology
+Sector: Healthcare
+Website: https://www.acurxpharma.com
+Country: United States
+City: Staten Island
+Full Time Employees: 4

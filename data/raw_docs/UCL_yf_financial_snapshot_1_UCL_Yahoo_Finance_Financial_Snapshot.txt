@@ -1,0 +1,25 @@
+Company: uCloudlink Group Inc. American Depositary Shares
+Ticker: UCL
+Market Cap: 62191708
+Enterprise Value: 586871808
+Total Revenue: 85239000
+Revenue Per Share: 2.256
+EBITDA: 10057000
+Gross Margins: 0.49767
+Operating Margins: 0.43694
+Profit Margins: 0.09231
+Free Cashflow: 1186500
+Operating Cashflow: -999000
+Return On Assets: 0.06834
+Return On Equity: 0.29045
+Total Cash: 45799000
+Total Debt: 9232000
+Debt To Equity: 29.093
+Current Ratio: 1.679
+Quick Ratio: 1.363
+Trailing PE: 16.526001
+Forward PE: 3.4429169
+Price To Book: 1.9791617
+Beta: 4.661
+52 Week High: 4.19
+52 Week Low: 0.8

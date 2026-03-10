@@ -1,0 +1,10 @@
+Company: Alarum Technologies Ltd. American Depositary Share
+Ticker: ALAR
+Market Cap: 56211968
+Enterprise Value: 541219008
+Trailing PE: 38.8
+Forward PE: 70.545456
+Price To Book: 17.757437
+Beta: 0.191
+52 Week High: 18.0
+52 Week Low: 5.45

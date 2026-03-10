@@ -1,0 +1,9 @@
+Company: FreightCar America Inc. Common Stock
+Ticker: RAIL
+Sector: Industrials
+Industry: Railroads
+Country: United States
+City: Chicago
+Website: https://freightcaramerica.com
+Employees: 2030
+Business Summary: FreightCar America, Inc., through its subsidiaries, engages in design, manufacture, and sale of railcars and railcar components for the transportation of bulk commodities and containerized freight products in the United States and Mexico. It operates through two segments: Manufacturing and Parts. The company offers a range of railcars, including boxcars, covered and open-top hopper cars, intermodal and non-intermodal flat cars, mill gondola cars, coil steel cars, coal cars, dynastack series, steel products, boxcars, aluminum coal cars, stainless steel and hybrid stainless steel cars, and other railcar types. It also sells used railcars; rebuilds, converts, and leases railcars; and sells forged, cast, and fabricated parts for various railcars. It serves shippers, railroads, and financial institutions. FreightCar America, Inc. was founded in 1901 and is headquartered in Chicago, Illinois.

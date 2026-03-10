@@ -1,0 +1,9 @@
+Company: Airgain Inc. Common Stock
+Ticker: AIRG
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: San Diego
+Website: https://www.airgain.com
+Employees: 
+Business Summary: Airgain, Inc. provides wireless connectivity solutions that offers embedded components, external antennas, and integrated systems worldwide. The company's products include MaxBeam embedded antennas; profile embedded antennas; profile contour embedded antennas; profile ceramic embedded antenna; ultra embedded antennas; SmartMax embedded antennas; and external antennas includes MULTIMAX, OMNIMAX, RECON, and ULTRAMAX antennas. It also offers embedded and NimbeLink embedded moderms; Skywire development kits; NimbeLink asset trackers; Lighthouse smart network controlled repeater; 5G vehicle gateway and fleet; and 5G portable connectivity. In addition, embedded IoT connectivity, smart repeaters, Lumos fixed wireless access; and partner solutions, and accessories. It serves public safety and first responders, transportation and logistics, energy and utilities, industrial and manufacturing, enterprise, hospitality and retail, venues, field services, and smart cities. The company was formerly known as AM Group and changed its name to Airgain, Inc. in 2004. Airgain, Inc. was incorporated in 1995 and is headquartered in San Diego, California.

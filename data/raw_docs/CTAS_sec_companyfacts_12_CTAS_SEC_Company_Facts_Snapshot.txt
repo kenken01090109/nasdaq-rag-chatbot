@@ -1,0 +1,11 @@
+Company: Cintas Corporation Common Stock
+Ticker: CTAS
+CIK: 0000723254
+Latest SEC XBRL Facts:
+Revenues: 5465536000 | unit=USD | filed=2020-03-31 | period_end=2020-02-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 5518114000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetIncomeLoss: 986483000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+Assets: 10132881000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+StockholdersEquity: 4455347000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 945704000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 200842000 | unit=USD | filed=2026-01-07 | period_end=2025-11-30

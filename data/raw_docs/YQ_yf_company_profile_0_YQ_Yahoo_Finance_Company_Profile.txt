@@ -1,0 +1,9 @@
+Company: 17 Education & Technology Group Inc. American Depositary Shares
+Ticker: YQ
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: China
+City: Beijing
+Website: https://ir.17zuoye.com
+Employees: 340
+Business Summary: 17 Education & Technology Group Inc., an education technology company, provides education and education technology services in the People's Republic of China. The company offers teaching and learning SaaS products, such as classroom solutions, question banks, homework assignments, self-directed learning, and multi-role reporting, etc. for regional educational authorities and schools. It also provides other educational products and services, including membership-based premium educational content subscriptions to its selected educational contents, light courses, Chinese reading, math oral arithmetic, reading machines, study plans, and associated services. 17 Education & Technology Group Inc. was incorporated in 2012 and is headquartered in Beijing, the People's Republic of China.

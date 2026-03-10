@@ -1,0 +1,25 @@
+Company: Diamondrock Hospitality Company Common Stock
+Ticker: DRH
+Market Cap: 1960491392
+Enterprise Value: 3178101504
+Total Revenue: 1120491008
+Revenue Per Share: 5.433
+EBITDA: 277198016
+Gross Margins: 0.27772
+Operating Margins: 0.14471
+Profit Margins: 0.09053001
+Free Cashflow: 276573760
+Operating Cashflow: 243650000
+Return On Assets: 0.03349
+Return On Equity: 0.06672
+Total Cash: 68084000
+Total Debt: 1218286976
+Debt To Equity: 83.611
+Current Ratio: 2.935
+Quick Ratio: 2.507
+Trailing PE: 21.818182
+Forward PE: 18.46154
+Price To Book: 1.350591
+Beta: 1.003
+52 Week High: 10.67
+52 Week Low: 6.19

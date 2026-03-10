@@ -1,0 +1,25 @@
+Company: Aurelion Inc. Class A Ordinary Shares
+Ticker: AURE
+Market Cap: 79577312
+Enterprise Value: 114658248
+Total Revenue: 1785569
+Revenue Per Share: 0.142
+EBITDA: 
+Gross Margins: -1.30107
+Operating Margins: -1.6151401
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.02159
+Return On Equity: -0.21604
+Total Cash: 3585197
+Total Debt: 40590796
+Debt To Equity: 37.998
+Current Ratio: 55.474
+Quick Ratio: 2.609
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6880048
+Beta: 
+52 Week High: 14.6
+52 Week Low: 1.5

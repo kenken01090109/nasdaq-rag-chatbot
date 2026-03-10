@@ -1,0 +1,25 @@
+Company: American Superconductor Corporation Common Stock
+Ticker: AMSC
+Market Cap: 1318860288
+Enterprise Value: 1338673920
+Total Revenue: 279404000
+Revenue Per Share: 6.824
+EBITDA: 22460000
+Gross Margins: 0.30871
+Operating Margins: 0.062319998
+Profit Margins: 0.46701
+Free Cashflow: -8896500
+Operating Cashflow: 20151000
+Return On Assets: 0.02027
+Return On Equity: 0.35773
+Total Cash: 141072000
+Total Debt: 11383000
+Debt To Equity: 2.12
+Current Ratio: 2.665
+Quick Ratio: 1.67
+Trailing PE: 9.111842
+Forward PE: 26.21443
+Price To Book: 2.4567628
+Beta: 3.077
+52 Week High: 70.49
+52 Week Low: 13.98

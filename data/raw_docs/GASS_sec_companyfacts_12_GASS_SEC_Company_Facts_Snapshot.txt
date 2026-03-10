@@ -1,0 +1,11 @@
+Company: StealthGas Inc. Common Stock
+Ticker: GASS
+CIK: 0001328919
+Latest SEC XBRL Facts:
+Revenues: 167262185 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: 69862177 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 732239864 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 105713050 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 626526814 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 103500055 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 80653398 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

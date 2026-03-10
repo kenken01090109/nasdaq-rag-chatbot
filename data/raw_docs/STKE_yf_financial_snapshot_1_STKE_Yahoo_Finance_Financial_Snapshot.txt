@@ -1,0 +1,25 @@
+Company: Sol Strategies Inc. Common Shares
+Ticker: STKE
+Market Cap: 42938780
+Enterprise Value: 93724712
+Total Revenue: 4760809
+Revenue Per Share: 0.212
+EBITDA: -14634388
+Gross Margins: 1.0
+Operating Margins: 2.54457
+Profit Margins: 0.0
+Free Cashflow: 19047236
+Operating Cashflow: -16252020
+Return On Assets: -0.16551
+Return On Equity: -0.71573997
+Total Cash: 222466
+Total Debt: 49834608
+Debt To Equity: 62.435
+Current Ratio: 0.1
+Quick Ratio: 0.062
+Trailing PE: 
+Forward PE: -3.6578948
+Price To Book: 0.6806264
+Beta: 1.127
+52 Week High: 24.4
+52 Week Low: 1.18

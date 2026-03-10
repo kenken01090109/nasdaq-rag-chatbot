@@ -1,0 +1,25 @@
+Company: Western Digital Corporation Common Stock
+Ticker: WDC
+Market Cap: 83850805248
+Enterprise Value: 
+Total Revenue: 10734000128
+Revenue Per Share: 31.023
+EBITDA: 3356999936
+Gross Margins: 0.42723998
+Operating Margins: 0.15403
+Profit Margins: 0.35644
+Free Cashflow: 3899375104
+Operating Cashflow: 2671000064
+Return On Assets: 0.09147
+Return On Equity: 0.41126
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 1.455
+Quick Ratio: 1.107
+Trailing PE: 23.202461
+Forward PE: 18.236357
+Price To Book: 11.726033
+Beta: 1.853
+52 Week High: 309.9
+52 Week Low: 28.83

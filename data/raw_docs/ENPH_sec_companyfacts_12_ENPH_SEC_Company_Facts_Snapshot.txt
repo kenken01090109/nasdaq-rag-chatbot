@@ -1,0 +1,11 @@
+Company: Enphase Energy Inc. Common Stock
+Ticker: ENPH
+CIK: 0001463101
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1129664000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 133420000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 3320488000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 2325466000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 995022000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 88961000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 401880000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

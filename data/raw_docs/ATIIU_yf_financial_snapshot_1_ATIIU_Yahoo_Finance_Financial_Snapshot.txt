@@ -1,0 +1,25 @@
+Company: Archimedes Tech SPAC Partners II Co. Unit
+Ticker: ATIIU
+Market Cap: 281611456
+Enterprise Value: 322009600
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -693978
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1409116
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 13.595
+Quick Ratio: 10.96
+Trailing PE: 
+Forward PE: 
+Price To Book: -50.601852
+Beta: 
+52 Week High: 12.57
+52 Week Low: 10.01

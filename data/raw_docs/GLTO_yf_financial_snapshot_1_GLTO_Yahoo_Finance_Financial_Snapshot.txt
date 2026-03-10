@@ -1,0 +1,25 @@
+Company: Galecto Inc. Common Stock
+Ticker: GLTO
+Market Cap: 1741540480
+Enterprise Value: 31446732
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -11862000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -7066875
+Operating Cashflow: -12228000
+Return On Assets: -0.43543997
+Return On Equity: -1.09488
+Total Cash: 7606000
+Total Debt: 72000
+Debt To Equity: 0.899
+Current Ratio: 3.731
+Quick Ratio: 3.278
+Trailing PE: 
+Forward PE: -30.436384
+Price To Book: 5.7555246
+Beta: 1.572
+52 Week High: 38.325
+52 Week Low: 2.01

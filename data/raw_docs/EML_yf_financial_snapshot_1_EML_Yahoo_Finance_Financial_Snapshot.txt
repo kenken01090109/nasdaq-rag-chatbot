@@ -1,0 +1,25 @@
+Company: Eastern Company (The) Common Stock
+Ticker: EML
+Market Cap: 112512776
+Enterprise Value: 154833376
+Total Revenue: 248970352
+Revenue Per Share: 40.866
+EBITDA: 19781348
+Gross Margins: 0.22878
+Operating Margins: 0.043759998
+Profit Margins: 0.02865
+Free Cashflow: 3407629
+Operating Cashflow: 8865383
+Return On Assets: 0.03649
+Return On Equity: 0.048639998
+Total Cash: 7412019
+Total Debt: 53856088
+Debt To Equity: 43.207
+Current Ratio: 3.594
+Quick Ratio: 1.359
+Trailing PE: 15.196722
+Forward PE: 
+Price To Book: 0.89864767
+Beta: 0.962
+52 Week High: 28.15
+52 Week Low: 17.61

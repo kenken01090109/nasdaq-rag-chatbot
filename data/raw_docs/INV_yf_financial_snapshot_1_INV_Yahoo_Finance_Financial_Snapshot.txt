@@ -1,0 +1,25 @@
+Company: Innventure Inc. Common Stock
+Ticker: INV
+Market Cap: 235149520
+Enterprise Value: 470157440
+Total Revenue: 1690000
+Revenue Per Share: 0.03
+EBITDA: -110444000
+Gross Margins: 0.0
+Operating Margins: -54.69101
+Profit Margins: 0.0
+Free Cashflow: -24899624
+Operating Cashflow: -85743000
+Return On Assets: -0.26134002
+Return On Equity: -2.6101098
+Total Cash: 9061000
+Total Debt: 65997000
+Debt To Equity: 16.232
+Current Ratio: 0.391
+Quick Ratio: 0.22
+Trailing PE: 
+Forward PE: -2.1214287
+Price To Book: 0.8753316
+Beta: 0.106
+52 Week High: 8.5
+52 Week Low: 2.36

@@ -1,0 +1,10 @@
+Company: AeroVironment Inc. Common Stock
+Ticker: AVAV
+CIK: 0001368622
+Latest SEC XBRL Facts:
+Revenues: 258897000 | unit=USD | filed=2021-03-10 | period_end=2021-01-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 927184000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+Assets: 5638466000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+StockholdersEquity: 621513000 | unit=USD | filed=2023-03-06 | period_end=2023-01-28
+NetCashProvidedByUsedInOperatingActivities: -168810000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 359434000 | unit=USD | filed=2025-12-10 | period_end=2025-11-01

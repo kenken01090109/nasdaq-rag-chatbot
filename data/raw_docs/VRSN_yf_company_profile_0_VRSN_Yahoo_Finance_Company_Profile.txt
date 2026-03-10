@@ -1,0 +1,9 @@
+Company: VeriSign Inc. Common Stock
+Ticker: VRSN
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Reston
+Website: https://www.verisign.com
+Employees: 926
+Business Summary: VeriSign, Inc., together with its subsidiaries, provides internet infrastructure and domain name registry services that enables internet navigation for various recognized domain names worldwide. The company provides root zone maintainer services, operating two of thirteen internet root servers; and offering registration services and authoritative resolution for the .com and .net domains, which supports global e-commerce. It operates directory for .name and .cc; and back-end systems for .edu, domain names. The company was incorporated in 1995 and is headquartered in Reston, Virginia.

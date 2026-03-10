@@ -1,0 +1,9 @@
+Company: SuRo Capital Corp. Common Stock
+Ticker: SSSS
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: San Francisco
+Website: https://www.surocap.com
+Employees: 10
+Business Summary: SuRo Capital Corp. is a venture capital, mezzanine, secondary(direct) and business development company specializing in growth capital, emerging growth, late stage and venture capital-backed private companies. It prefers to invest in energy and utilities, consumer, technology, media and communication sectors. The firm prefers to invest in United States of America and Canada. The firm only seeks minority stakes. SuRo Capital Corp. was founded in 2010 and is based in San Francisco, California.

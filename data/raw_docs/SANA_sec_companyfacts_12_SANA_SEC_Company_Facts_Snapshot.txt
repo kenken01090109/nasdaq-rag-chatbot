@@ -1,0 +1,10 @@
+Company: Sana Biotechnology Inc. Common Stock
+Ticker: SANA
+CIK: 0001770121
+Latest SEC XBRL Facts:
+NetIncomeLoss: -185341000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 435432000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 240124000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 195308000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -111187000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 103357000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

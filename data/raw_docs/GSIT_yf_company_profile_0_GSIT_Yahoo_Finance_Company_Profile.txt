@@ -1,0 +1,9 @@
+Company: GSI Technology Common Stock
+Ticker: GSIT
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Sunnyvale
+Website: https://gsitechnology.com
+Employees: 121
+Business Summary: GSI Technology, Inc. designs, develops, and markets semiconductor memory solutions for networking, industrial, test equipment, medical, aerospace, and military customers in the United States, China, Singapore, Germany, the Netherlands, and internationally. It offers associative processing unit products, which focuses on applications using similarity search in visual search queries for e-commerce, computer vision, drug discovery, cyber security, and service markets. The company also provides static random-access memory (SRAM) products, including SyncBurst, NBT, SigmaQuad, and SigmaDDR. In addition, it offers radiation-hardened and radiation-tolerant SRAMs for military/defense and aerospace applications, such as networking satellites and missiles. The company's products are used as components in the original equipment manufacturer customers' products, including routers, switches, and other networking and telecommunications products; military and aerospace applications, including radar and guidance systems and satellites; test and measurement applications; automotive applications comprising smart cruise control; medical applications, such as ultrasound and CAT scan equipment; and audio/video processing. The company markets its products through a network of independent sales representatives and distributors. GSI Technology, Inc. was incorporated in 1995 and is headquartered in Sunnyvale, California.

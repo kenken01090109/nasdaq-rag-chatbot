@@ -1,0 +1,9 @@
+Company: Shengfeng Development Limited Class A Ordinary Shares
+Ticker: SFWL
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: China
+City: Fuzhou
+Website: https://www.sfwl.com.cn
+Employees: 1263
+Business Summary: Shengfeng Development Limited, through its subsidiaries, provides contract logistics services in the People's Republic of China. The company offers business-to-business freight transportation services, such as full truckload and less than truckload; and cloud storage services, including warehouse management, order fulfillment, delivery process management, in-warehouse processing, and inventory optimization management services. It also provides value-added services comprising collection on delivery, customs declaration, delivery upstairs, packaging, pay-at-arrival, return proof of delivery, and shipment protection; and software engineering, supply chain management, and technical and development services. The company serves clients in various industries, including manufacturing, new energy, telecommunications, internet, fashion, fast moving consumer goods, publishing, agriculture, and e-commerce. Shengfeng Development Limited was founded in 2001 and is based in Fuzhou, the People's Republic of China.

@@ -1,0 +1,9 @@
+Company: Orion Digital Corp. Common Shares
+Ticker: ORIO
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Canada
+City: Vancouver
+Website: https://orion-digital.com
+Employees: 
+Business Summary: Orion Digital Corp. operates as a financial technology company in Canada, Europe, and internationally. The company's digital solutions to help its members improve their path to wealth creation and financial freedom. It also provides MogoTrade, a stock trading app; Moka; and MogoMoney that provides online personal loans. In addition, the company offers digital loans and mortgages; and operates a payments platform that powers next-generation card programs for companies in Europe and Canada. The company was formerly known as Mogo Inc. and changed its name to Orion Digital Corp. in December 2025. Orion Digital Corp. is headquartered in Vancouver, Canada.

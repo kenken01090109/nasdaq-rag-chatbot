@@ -1,0 +1,11 @@
+Company: Cre8 Enterprise Limited Class A Ordinary Shares
+Ticker: CRE
+CIK: 0002003977
+Latest SEC XBRL Facts:
+Revenues: 7485194 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+NetIncomeLoss: 1023441 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+Assets: 10196663 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+Liabilities: 7901479 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+StockholdersEquity: 2295184 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 112063 | unit=USD | filed=2025-12-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1439242 | unit=USD | filed=2025-12-01 | period_end=2025-06-30

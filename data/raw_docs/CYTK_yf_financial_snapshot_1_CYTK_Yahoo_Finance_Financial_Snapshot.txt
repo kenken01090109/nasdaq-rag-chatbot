@@ -1,0 +1,25 @@
+Company: Cytokinetics Incorporated Common Stock
+Ticker: CYTK
+Market Cap: 7386024448
+Enterprise Value: 8216116736
+Total Revenue: 88039000
+Revenue Per Share: 0.733
+EBITDA: -602132992
+Gross Margins: 0.0
+Operating Margins: -10.04596
+Profit Margins: 0.0
+Free Cashflow: -379618752
+Operating Cashflow: -510008992
+Return On Assets: -0.27079
+Return On Equity: 
+Total Cash: 882220992
+Total Debt: 1438843008
+Debt To Equity: 
+Current Ratio: 4.529
+Quick Ratio: 4.445
+Trailing PE: 
+Forward PE: -12.977443
+Price To Book: -11.260019
+Beta: 0.508
+52 Week High: 70.98
+52 Week Low: 29.31

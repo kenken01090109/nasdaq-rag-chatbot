@@ -1,0 +1,25 @@
+Company: ConnectOne Bancorp Inc. Common Stock
+Ticker: CNOB
+Market Cap: 1289009536
+Enterprise Value: 2159233792
+Total Revenue: 334708000
+Revenue Per Share: 7.406
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.52195
+Profit Margins: 0.24034001
+Free Cashflow: 
+Operating Cashflow: 106398000
+Return On Assets: 0.00674
+Return On Equity: 0.057150003
+Total Cash: 396494016
+Total Debt: 1139057024
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 15.730061
+Forward PE: 7.1820726
+Price To Book: 0.87946767
+Beta: 1.114
+52 Week High: 29.28
+52 Week Low: 20.61

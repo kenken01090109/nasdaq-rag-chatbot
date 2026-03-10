@@ -1,0 +1,25 @@
+Company: Monster Beverage Corporation
+Ticker: MNST
+Market Cap: 73967050752
+Enterprise Value: 72334172160
+Total Revenue: 8294343168
+Revenue Per Share: 8.499
+EBITDA: 2620094976
+Gross Margins: 0.55848
+Operating Margins: 0.29513
+Profit Margins: 0.22973
+Free Cashflow: 1490915712
+Operating Cashflow: 2098177024
+Return On Assets: 0.17687
+Return On Equity: 0.26815
+Total Cash: 2765200896
+Total Debt: 66007000
+Debt To Equity: 0.8
+Current Ratio: 3.703
+Quick Ratio: 3.028
+Trailing PE: 38.974224
+Forward PE: 29.551317
+Price To Book: 8.959592
+Beta: 0.437
+52 Week High: 87.38
+52 Week Low: 54.0

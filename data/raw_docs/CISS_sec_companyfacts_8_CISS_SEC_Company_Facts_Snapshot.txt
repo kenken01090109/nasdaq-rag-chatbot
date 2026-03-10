@@ -1,0 +1,11 @@
+Company: C3is Inc. Common Stock
+Ticker: CISS
+CIK: 0001951067
+Latest SEC XBRL Facts:
+Revenues: 19408005 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: 2588391 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 90103636 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 15512020 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 74591616 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 2947983 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 675771 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

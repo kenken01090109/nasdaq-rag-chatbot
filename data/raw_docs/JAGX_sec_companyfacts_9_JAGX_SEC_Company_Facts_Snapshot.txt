@@ -1,0 +1,12 @@
+Company: Jaguar Health Inc. Common Stock
+Ticker: JAGX
+CIK: 0001585608
+Latest SEC XBRL Facts:
+Revenues: 8276000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1688202 | unit=USD | filed=2018-08-13 | period_end=2018-06-30
+NetIncomeLoss: -30373000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 49472000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 45113000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 21552000 | unit=USD | filed=2021-11-17 | period_end=2021-09-30
+NetCashProvidedByUsedInOperatingActivities: -18198000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3527000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

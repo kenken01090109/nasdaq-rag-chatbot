@@ -1,0 +1,25 @@
+Company: Aligos Therapeutics Inc. Common Stock
+Ticker: ALGS
+Market Cap: 42952004
+Enterprise Value: -50817428
+Total Revenue: 2646000
+Revenue Per Share: 0.299
+EBITDA: -85820000
+Gross Margins: 0.0
+Operating Margins: -38.27395
+Profit Margins: 0.0
+Free Cashflow: -45352752
+Operating Cashflow: -79161000
+Return On Assets: -0.54704
+Return On Equity: -1.4182401
+Total Cash: 99096000
+Total Debt: 6065000
+Debt To Equity: 8.443
+Current Ratio: 4.704
+Quick Ratio: 4.507
+Trailing PE: 
+Forward PE: -1.1298174
+Price To Book: 0.5979099
+Beta: 2.751
+52 Week High: 13.689
+52 Week Low: 3.76

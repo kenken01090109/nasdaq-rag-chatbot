@@ -1,0 +1,9 @@
+Company: Critical Metals Corp. Ordinary Shares
+Ticker: CRML
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: British Virgin Islands
+City: Road Town
+Website: https://www.criticalmetalscorp.com
+Employees: 4
+Business Summary: Critical Metals Corp. operates as a mining exploration and development company in Austria and Southern Greenland. The company explores for lithium and rare earth element deposits. The company is based in Road Town, British Virgin Islands. Critical Metals Corp. is a subsidiary of European Lithium Limited.

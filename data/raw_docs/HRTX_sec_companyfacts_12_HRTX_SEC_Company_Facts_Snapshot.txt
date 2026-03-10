@@ -1,0 +1,10 @@
+Company: Heron Therapeutics Inc. Common Stock
+Ticker: HRTX
+CIK: 0000818033
+Latest SEC XBRL Facts:
+NetIncomeLoss: -17241000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 248950000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 234065000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 14885000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18407000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 43068000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Dyne Therapeutics Inc. Common Stock
+Ticker: DYN
+CIK: 0001818794
+Latest SEC XBRL Facts:
+NetIncomeLoss: -334259000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 867059000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 175276000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 691783000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -291375000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 573610000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

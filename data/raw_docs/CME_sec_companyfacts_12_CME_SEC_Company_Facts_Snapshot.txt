@@ -1,0 +1,11 @@
+Company: CME Group Inc. Class A Common Stock
+Ticker: CME
+CIK: 0001156375
+Latest SEC XBRL Facts:
+Revenues: 4871900000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 4072200000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+Assets: 187144600000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 158954300000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 28190300000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3143200000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2446800000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Rapid7 Inc. Common Stock
+Ticker: RPD
+Market Cap: 465864320
+Enterprise Value: 957585536
+Total Revenue: 859793984
+Revenue Per Share: 13.283
+EBITDA: 57537000
+Gross Margins: 0.70337
+Operating Margins: 0.010140001
+Profit Margins: 0.027190002
+Free Cashflow: 123466624
+Operating Cashflow: 153827008
+Return On Assets: 0.00448
+Return On Equity: 0.27118
+Total Cash: 474670016
+Total Debt: 968368000
+Debt To Equity: 625.844
+Current Ratio: 1.281
+Quick Ratio: 1.12
+Trailing PE: 19.63889
+Forward PE: 4.4366355
+Price To Book: 3.0085108
+Beta: 0.891
+52 Week High: 30.95
+52 Week Low: 5.92

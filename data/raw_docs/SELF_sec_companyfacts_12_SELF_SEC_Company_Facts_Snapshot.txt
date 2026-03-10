@@ -1,0 +1,11 @@
+Company: Global Self Storage Inc. Common Stock
+Ticker: SELF
+CIK: 0001031235
+Latest SEC XBRL Facts:
+Revenues: 9546353 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1715627 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 64836337 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 17901851 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 46934486 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3454021 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7457490 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

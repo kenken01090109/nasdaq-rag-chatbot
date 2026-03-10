@@ -1,0 +1,25 @@
+Company: Health Catalyst Inc Common Stock
+Ticker: HCAT
+Market Cap: 137925216
+Enterprise Value: 218504224
+Total Revenue: 316063008
+Revenue Per Share: 4.666
+EBITDA: -16847000
+Gross Margins: 0.47493
+Operating Margins: -0.10027
+Profit Margins: -0.34050998
+Free Cashflow: 4144250
+Operating Cashflow: -12708000
+Return On Assets: -0.04743
+Return On Equity: -0.31333
+Total Cash: 91540000
+Total Debt: 172119008
+Debt To Equity: 51.855
+Current Ratio: 1.881
+Quick Ratio: 1.729
+Trailing PE: 
+Forward PE: 5.6018386
+Price To Book: 0.41489366
+Beta: 1.783
+52 Week High: 5.062
+52 Week Low: 1.56

@@ -1,0 +1,25 @@
+Company: JX Luxventure Group Inc. Common Stock
+Ticker: JXG
+Market Cap: 7597156
+Enterprise Value: 10626570
+Total Revenue: 46835624
+Revenue Per Share: 253.328
+EBITDA: 6624884
+Gross Margins: 0.18104
+Operating Margins: 0.06904
+Profit Margins: 0.04047
+Free Cashflow: -3447759
+Operating Cashflow: -4591728
+Return On Assets: 0.06043
+Return On Equity: 0.09092
+Total Cash: 225489
+Total Debt: 2845752
+Debt To Equity: 11.875
+Current Ratio: 2.086
+Quick Ratio: 2.086
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.058603317
+Beta: 0.966
+52 Week High: 41.7
+52 Week Low: 3.01

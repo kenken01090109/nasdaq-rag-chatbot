@@ -1,0 +1,9 @@
+Company: Armada Acquisition Corp. II Units
+Ticker: XRPNU
+CIK: 0002044009
+Latest SEC XBRL Facts:
+NetIncomeLoss: 840656 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Assets: 232905857 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+Liabilities: 9353587 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+StockholdersEquity: -8580675 | unit=USD | filed=2025-08-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -282830 | unit=USD | filed=2025-08-11 | period_end=2025-06-30

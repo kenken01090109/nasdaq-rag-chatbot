@@ -1,0 +1,25 @@
+Company: Fifth Third Bancorp Depositary Shares
+Ticker: FITBI
+Market Cap: 17985146880
+Enterprise Value: 
+Total Revenue: 8126000128
+Revenue Per Share: 11.858
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.38489
+Profit Margins: 0.28452
+Free Cashflow: 
+Operating Cashflow: 3772999936
+Return On Assets: 0.011
+Return On Equity: 0.12485
+Total Cash: 6829000192
+Total Debt: 23142000640
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 7.3815675
+Forward PE: 
+Price To Book: 1.0229578
+Beta: 1.256
+52 Week High: 26.22
+52 Week Low: 24.75

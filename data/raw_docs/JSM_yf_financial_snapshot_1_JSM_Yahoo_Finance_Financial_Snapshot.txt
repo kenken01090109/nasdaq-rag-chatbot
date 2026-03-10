@@ -1,0 +1,25 @@
+Company: Navient Corporation 6% Senior Notes due December 15 2043
+Ticker: JSM
+Market Cap: 5312245248
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.110058
+Forward PE: 
+Price To Book: 1.4099964
+Beta: 
+52 Week High: 20.65
+52 Week Low: 16.51

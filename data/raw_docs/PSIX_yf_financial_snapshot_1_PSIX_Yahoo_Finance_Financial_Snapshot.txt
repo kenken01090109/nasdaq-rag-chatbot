@@ -1,0 +1,25 @@
+Company: Power Solutions International Inc. Common Stock
+Ticker: PSIX
+Market Cap: 1201584512
+Enterprise Value: 1354230272
+Total Revenue: 722404992
+Revenue Per Share: 31.379
+EBITDA: 115102000
+Gross Margins: 0.25595
+Operating Margins: 0.12677
+Profit Margins: 0.15779
+Free Cashflow: -7148500
+Operating Cashflow: 24113000
+Return On Assets: 0.18215
+Return On Equity: 0.93486
+Total Cash: 41250000
+Total Debt: 154904992
+Debt To Equity: 86.729
+Current Ratio: 3.153
+Quick Ratio: 1.67
+Trailing PE: 9.914449
+Forward PE: 10.955882
+Price To Book: 6.7272964
+Beta: 2.075
+52 Week High: 121.78
+52 Week Low: 18.1

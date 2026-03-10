@@ -1,0 +1,10 @@
+Company: Stardust Power Inc. Common Stock
+Ticker: SDST
+CIK: 0001831979
+Latest SEC XBRL Facts:
+NetIncomeLoss: -11973902 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 10039212 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 15159326 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -5120114 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6548760 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1585004 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

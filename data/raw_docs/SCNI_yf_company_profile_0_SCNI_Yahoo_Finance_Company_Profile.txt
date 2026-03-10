@@ -1,0 +1,9 @@
+Company: Scinai Immunotherapeutics Ltd. American Depositary Shares
+Ticker: SCNI
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Jerusalem
+Website: https://www.scinai.com
+Employees: 31
+Business Summary: Scinai Immunotherapeutics Ltd., a biopharmaceutical company, focuses on developing, manufacturing, and commercializing inflammation and immunology biological products for the treatment of infectious and autoimmune diseases in Israel. It develops nanosized VHH antibodies (nanoAbs) targeting diseases with unmet medical needs; and PC111, a monoclonal antibody for treating pemphigus, steven johnson's syndrome, and toxic epidermal necrolysis. The company also provides contract development and manufacturing organization services to biotech companies. It has licensing and collaboration agreement with Max Planck Society and University Medical Center Gottingen for the development and commercialization of COVID-19 nanosized antibody. The company was formerly known as BiondVax Pharmaceuticals Ltd. and changed its name to Scinai Immunotherapeutics Ltd. in September 2023. Scinai Immunotherapeutics Ltd. was incorporated in 2003 and is headquartered in Jerusalem, Israel.

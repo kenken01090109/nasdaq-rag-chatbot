@@ -1,0 +1,25 @@
+Company: Foresight Autonomous Holdings Ltd. American Depositary Shares
+Ticker: FRSX
+Market Cap: 3892091
+Enterprise Value: 266543680
+Total Revenue: 452000
+Revenue Per Share: 0.54
+EBITDA: -12554000
+Gross Margins: 0.59292
+Operating Margins: -23.05469
+Profit Margins: 0.0
+Free Cashflow: -7003625
+Operating Cashflow: -11303000
+Return On Assets: -0.66566
+Return On Equity: -1.46175
+Total Cash: 6367000
+Total Debt: 1562000
+Debt To Equity: 27.769
+Current Ratio: 4.024
+Quick Ratio: 3.995
+Trailing PE: 
+Forward PE: -10.68
+Price To Book: 46.034485
+Beta: 0.201
+52 Week High: 17.22
+52 Week Low: 2.325

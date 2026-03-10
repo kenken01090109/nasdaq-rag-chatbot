@@ -1,0 +1,12 @@
+Company: ViaSat Inc. Common Stock
+Ticker: VSAT
+CIK: 0000797721
+Latest SEC XBRL Facts:
+Revenues: 55800000 | unit=USD | filed=2023-02-09 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3468992000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -92910000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 14911274000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 10280531000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 4568940000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1267590000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1346136000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: LexinFintech Holdings Ltd. American Depositary Shares
+Ticker: LX
+Market Cap: 447580928
+Enterprise Value: 3483260672
+Total Revenue: 13767843840
+Revenue Per Share: 81.42
+EBITDA: 2075399040
+Gross Margins: 0.40443
+Operating Margins: 0.13963
+Profit Margins: 0.13261
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.053790003
+Return On Equity: 0.16412
+Total Cash: 2191290880
+Total Debt: 4767556096
+Debt To Equity: 40.319
+Current Ratio: 1.798
+Quick Ratio: 1.143
+Trailing PE: 1.7972974
+Forward PE: 2.0779798
+Price To Book: 0.2645533
+Beta: 0.745
+52 Week High: 11.635
+52 Week Low: 2.62

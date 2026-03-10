@@ -1,0 +1,25 @@
+Company: Eshallgo Inc. Class A Ordinary Shares
+Ticker: EHGO
+Market Cap: 6006264
+Enterprise Value: 3267276
+Total Revenue: 13472112
+Revenue Per Share: 0.61
+EBITDA: -9751413
+Gross Margins: 0.23024
+Operating Margins: -1.04295
+Profit Margins: -0.80153
+Free Cashflow: 2716179
+Operating Cashflow: -1283432
+Return On Assets: -0.28268
+Return On Equity: -0.64759004
+Total Cash: 10694508
+Total Debt: 3063913
+Debt To Equity: 18.505
+Current Ratio: 2.92
+Quick Ratio: 1.905
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.4199095
+Beta: 
+52 Week High: 1.34
+52 Week Low: 0.176

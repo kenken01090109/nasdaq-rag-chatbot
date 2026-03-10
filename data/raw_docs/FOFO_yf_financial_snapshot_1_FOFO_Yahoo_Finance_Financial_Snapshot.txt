@@ -1,0 +1,25 @@
+Company: Hang Feng Technology Innovation Co. Ltd. Ordinary Shares
+Ticker: FOFO
+Market Cap: 23637104
+Enterprise Value: 13852255
+Total Revenue: 3117608
+Revenue Per Share: 0.671
+EBITDA: 1936694
+Gross Margins: 0.77099
+Operating Margins: 0.36137
+Profit Margins: 0.54303
+Free Cashflow: 
+Operating Cashflow: 1760350
+Return On Assets: 
+Return On Equity: 
+Total Cash: 3710545
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 18.19
+Quick Ratio: 16.463
+Trailing PE: 15.636364
+Forward PE: 
+Price To Book: 4.1346154
+Beta: 
+52 Week High: 68.0
+52 Week Low: 2.86

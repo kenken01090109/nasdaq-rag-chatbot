@@ -1,0 +1,9 @@
+Company: TeraWulf Inc. Common Stock
+Ticker: WULF
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Easton
+Website: https://www.terawulf.com
+Employees: 141
+Business Summary: TeraWulf Inc., together with its subsidiaries, owns, develops, operates digital infrastructure in the United States. It also develops and operates bitcoin mining facilities for bitcoin mining and high-performance computing workloads, leveraging clean, cost-effective, and reliable energy. The company was founded in 2021 and is headquartered in Easton, Maryland.

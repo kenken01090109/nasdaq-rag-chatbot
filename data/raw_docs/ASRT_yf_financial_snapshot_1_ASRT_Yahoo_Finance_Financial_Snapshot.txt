@@ -1,0 +1,25 @@
+Company: Assertio Holdings Inc. Common Stock
+Ticker: ASRT
+Market Cap: 75204968
+Enterprise Value: 23608868
+Total Revenue: 137354000
+Revenue Per Share: 21.495
+EBITDA: 11002000
+Gross Margins: 0.65470004
+Operating Margins: 0.28715
+Profit Margins: -0.21058
+Free Cashflow: 20815876
+Operating Cashflow: 13334000
+Return On Assets: -0.0417
+Return On Equity: -0.24479
+Total Cash: 93427000
+Total Debt: 40355000
+Debt To Equity: 38.142
+Current Ratio: 1.58
+Quick Ratio: 1.407
+Trailing PE: 
+Forward PE: 7.8133335
+Price To Book: 0.71077687
+Beta: 0.793
+52 Week High: 15.15
+52 Week Low: 7.65

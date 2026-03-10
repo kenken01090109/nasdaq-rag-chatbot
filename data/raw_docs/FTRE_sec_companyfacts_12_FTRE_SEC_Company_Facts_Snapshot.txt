@@ -1,0 +1,11 @@
+Company: Fortrea Holdings Inc. Common Stock
+Ticker: FTRE
+CIK: 0001965040
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2062900000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -953700000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2742100000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2161300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 580800000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15600000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 131300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

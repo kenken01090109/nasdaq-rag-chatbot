@@ -1,0 +1,8 @@
+Company: Acco Group Holdings Limited Class A Ordinary Shares
+Ticker: ACCL
+Total Cash: 2522104
+Total Debt: 273814
+Debt To Equity: 12.521
+Current Ratio: 1.824
+Quick Ratio: 1.82
+Book Value: 0.175

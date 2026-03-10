@@ -1,0 +1,10 @@
+Company: Alumis Inc. Common Stock
+Ticker: ALMS
+Market Cap: 3446456576
+Enterprise Value: 2545506560
+Trailing PE: 
+Forward PE: -8.700934
+Price To Book: 7.4966097
+Beta: 
+52 Week High: 30.6
+52 Week Low: 2.76

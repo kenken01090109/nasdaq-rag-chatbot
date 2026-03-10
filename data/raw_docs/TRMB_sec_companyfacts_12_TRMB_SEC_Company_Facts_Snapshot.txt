@@ -1,0 +1,12 @@
+Company: Trimble Inc. Common Stock
+Ticker: TRMB
+CIK: 0000864749
+Latest SEC XBRL Facts:
+Revenues: 3798700000 | unit=USD | filed=2025-01-16 | period_end=2023-12-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 2617500000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03
+NetIncomeLoss: 267400000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03
+Assets: 9019600000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03
+Liabilities: 3229600000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03
+StockholdersEquity: 5790000000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03
+NetCashProvidedByUsedInOperatingActivities: 225900000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 232700000 | unit=USD | filed=2025-11-05 | period_end=2025-10-03

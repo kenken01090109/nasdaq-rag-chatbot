@@ -1,0 +1,8 @@
+Company: PowerFleet Inc. Common Stock
+Ticker: AIOT
+Total Cash: 31215000
+Total Debt: 289967008
+Debt To Equity: 59.765
+Current Ratio: 1.094
+Quick Ratio: 0.859
+Book Value: 3.637

@@ -1,0 +1,25 @@
+Company: Allot Ltd. Ordinary Shares
+Ticker: ALLT
+Market Cap: 329294208
+Enterprise Value: 262628944
+Total Revenue: 101993000
+Revenue Per Share: 2.314
+EBITDA: 7652000
+Gross Margins: 0.71134
+Operating Margins: 0.09053001
+Profit Margins: 0.03633
+Free Cashflow: 8732500
+Operating Cashflow: 17791000
+Return On Assets: 0.01442
+Return On Equity: 0.04542
+Total Cash: 80870000
+Total Debt: 5740000
+Debt To Equity: 5.064
+Current Ratio: 2.65
+Quick Ratio: 2.295
+Trailing PE: 85.00001
+Forward PE: 16.385544
+Price To Book: 2.910959
+Beta: 1.611
+52 Week High: 11.92
+52 Week Low: 4.37

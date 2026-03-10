@@ -1,0 +1,12 @@
+Company: Apple Inc. Common Stock
+Ticker: AAPL
+CIK: 0000320193
+Latest SEC XBRL Facts:
+Revenues: 265595000000 | unit=USD | filed=2018-11-05 | period_end=2018-09-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 143756000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+NetIncomeLoss: 42097000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+Assets: 379297000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+Liabilities: 291107000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+StockholdersEquity: 88190000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 53925000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 45317000000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27

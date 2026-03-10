@@ -1,0 +1,10 @@
+Company: XBiotech Inc. Common Stock
+Ticker: XBIT
+CIK: 0001626878
+Latest SEC XBRL Facts:
+NetIncomeLoss: -18648000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 172424000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 5344000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 167080000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16968000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 147367000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

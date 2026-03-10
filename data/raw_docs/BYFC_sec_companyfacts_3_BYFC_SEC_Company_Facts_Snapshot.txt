@@ -1,0 +1,11 @@
+Company: Broadway Financial Corporation Class A Common Stock
+Ticker: BYFC
+CIK: 0001001171
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 131000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+NetIncomeLoss: -25820000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+Assets: 1335565000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+Liabilities: 1073679000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+StockholdersEquity: 261687000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2487000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19731000 | unit=USD | filed=2026-02-13 | period_end=2025-09-30

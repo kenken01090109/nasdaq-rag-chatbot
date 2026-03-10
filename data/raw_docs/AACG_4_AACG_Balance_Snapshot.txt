@@ -1,0 +1,8 @@
+Company: ATA Creativity Global American Depositary Shares
+Ticker: AACG
+Total Cash: 96807264
+Total Debt: 65881080
+Debt To Equity: 112.003
+Current Ratio: 0.328
+Quick Ratio: 0.291
+Book Value: 0.2702241

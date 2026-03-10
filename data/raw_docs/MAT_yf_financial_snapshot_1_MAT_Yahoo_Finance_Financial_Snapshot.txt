@@ -1,0 +1,25 @@
+Company: Mattel Inc. Common Stock
+Ticker: MAT
+Market Cap: 4941720064
+Enterprise Value: 6284606976
+Total Revenue: 5347622912
+Revenue Per Share: 16.808
+EBITDA: 754852992
+Gross Margins: 0.48871
+Operating Margins: 0.078590006
+Profit Margins: 0.07435
+Free Cashflow: 393693888
+Operating Cashflow: 593254976
+Return On Assets: 0.05564
+Return On Equity: 0.17682
+Total Cash: 1242926976
+Total Debt: 2683268096
+Debt To Equity: 120.162
+Current Ratio: 2.147
+Quick Ratio: 1.605
+Trailing PE: 12.82258
+Forward PE: 10.395146
+Price To Book: 2.1460385
+Beta: 0.729
+52 Week High: 22.48
+52 Week Low: 13.95

@@ -1,0 +1,12 @@
+Company: AngioDynamics Inc. Common Stock
+Ticker: ANGO
+CIK: 0001275187
+Latest SEC XBRL Facts:
+Revenues: 214168000 | unit=USD | filed=2021-03-31 | period_end=2021-02-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 155144000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30
+NetIncomeLoss: -17253000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30
+Assets: 269681000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30
+Liabilities: 93348000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30
+StockholdersEquity: 176333000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -11253000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 41638000 | unit=USD | filed=2026-01-06 | period_end=2025-11-30

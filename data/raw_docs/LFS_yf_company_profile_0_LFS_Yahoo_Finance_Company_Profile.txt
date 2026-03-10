@@ -1,0 +1,9 @@
+Company: LEIFRAS Co. Ltd. American Depositary Shares
+Ticker: LFS
+Sector: Communication Services
+Industry: Entertainment
+Country: Japan
+City: Shibuya
+Website: https://leifras.co.jp
+Employees: 999
+Business Summary: Leifras Co., Ltd. operates as a sports and social business company in Japan. The company focuses on providing services related to operation of sports schools and organizing events for children; selling sports equipment; managing extracurricular activities in elementary and junior high schools; offering sports therapy for children with developmental disabilities; and providing health exercise guidance for the elderly. It is also involved in the management and operation of sports clubs, sports classes, and cultural classes; sports and healthcare facility management; travel business; and management of after-school childcare facilities. The company's sports schools offer soccer, baseball, basketball, track-and-field, rhythmic karate, kendo, volleyball, cheer dance, dance, table tennis, and tennis, as well as multi-discipline sports programs. Leifras Co., Ltd. was incorporated in 2001 and is headquartered in Shibuya, Japan.

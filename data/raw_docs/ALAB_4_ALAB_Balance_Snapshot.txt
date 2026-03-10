@@ -1,0 +1,8 @@
+Company: Astera Labs Inc. Common Stock
+Ticker: ALAB
+Total Cash: 1188816000
+Total Debt: 30974000
+Debt To Equity: 2.271
+Current Ratio: 10.238
+Quick Ratio: 9.561
+Book Value: 8.013

@@ -1,0 +1,25 @@
+Company: iBio Inc. Common Stock
+Ticker: IBIO
+Market Cap: 90158688
+Enterprise Value: 40947000
+Total Revenue: 300000
+Revenue Per Share: 0.019
+EBITDA: -24744000
+Gross Margins: 1.0
+Operating Margins: -84.91
+Profit Margins: 0.0
+Free Cashflow: -11346000
+Operating Cashflow: -18626000
+Return On Assets: -0.36986
+Return On Equity: -0.70221
+Total Cash: 52698000
+Total Debt: 2450000
+Debt To Equity: 4.332
+Current Ratio: 9.044
+Quick Ratio: 8.93
+Trailing PE: 
+Forward PE: -9.0
+Price To Book: 1.3868225
+Beta: 1.23
+52 Week High: 6.16
+52 Week Low: 0.56

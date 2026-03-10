@@ -1,0 +1,25 @@
+Company: Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock
+Ticker: LANDO
+Market Cap: 
+Enterprise Value: 1344270336
+Total Revenue: 88313000
+Revenue Per Share: 2.419
+EBITDA: 70289000
+Gross Margins: 0.72494006
+Operating Margins: 0.29228002
+Profit Margins: 0.15319
+Free Cashflow: 50398752
+Operating Cashflow: 6993000
+Return On Assets: 0.01201
+Return On Equity: 0.01993
+Total Cash: 16361000
+Total Debt: 541377984
+Debt To Equity: 81.805
+Current Ratio: 1.355
+Quick Ratio: 1.288
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.1212568
+Beta: 1.183
+52 Week High: 20.9
+52 Week Low: 18.5

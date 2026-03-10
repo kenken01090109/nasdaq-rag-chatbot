@@ -1,0 +1,7 @@
+Company: Bluerock Acquisition Corp. Unit
+Ticker: BLRKU
+CIK: 0002081532
+Latest SEC XBRL Facts:
+NetIncomeLoss: -49503 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+Assets: 571665 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+StockholdersEquity: -24503 | unit=USD | filed=2026-01-26 | period_end=2025-09-30

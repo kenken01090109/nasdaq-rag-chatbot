@@ -1,0 +1,12 @@
+Company: ADMA Biologics Inc Common Stock
+Ticker: ADMA
+CIK: 0001368514
+Latest SEC XBRL Facts:
+Revenues: 16048618 | unit=USD | filed=2021-05-12 | period_end=2021-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 371010000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 97551000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 568687000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 137501000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 431186000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14757000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 61385000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

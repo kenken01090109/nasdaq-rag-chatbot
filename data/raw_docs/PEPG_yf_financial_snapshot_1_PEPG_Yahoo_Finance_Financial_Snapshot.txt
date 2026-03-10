@@ -1,0 +1,25 @@
+Company: PepGen Inc. Common Stock
+Ticker: PEPG
+Market Cap: 390833664
+Enterprise Value: 318511008
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -96811000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -52229500
+Operating Cashflow: -85265000
+Return On Assets: -0.34088
+Return On Equity: -0.62248003
+Total Cash: 163664992
+Total Debt: 17438000
+Debt To Equity: 10.689
+Current Ratio: 13.147
+Quick Ratio: 12.946
+Trailing PE: 
+Forward PE: -4.6522093
+Price To Book: 2.3957016
+Beta: 1.867
+52 Week High: 7.8
+52 Week Low: 0.88

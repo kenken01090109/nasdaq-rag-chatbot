@@ -1,0 +1,9 @@
+Company: Centessa Pharmaceuticals plc American Depositary Shares
+Ticker: CNTA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: Altrincham
+Website: https://centessa.com
+Employees: 114
+Business Summary: Centessa Pharmaceuticals plc, a clinical-stage pharmaceutical company, discovers, develops, and delivers medicines. Its lead clinical-stage program includes ORX750, an orally administered OX2R agonist in a Phase 2a study for the treatment of idiopathic hypersomnia and narcolepsy type 1 and 2. The company also develops ORX142 for the treatment of neurological and neurodegenerative disorders, as well as other potential symptoms, including excessive daytime sleepiness, impaired attention, cognitive deficits, and fatigue; and ORX489 for the treatment of neuropsychiatric disorders. In addition, it offers LockBody, which is designed to selectively drive potent effector function activity, such as CD3, into the tumor microenvironment. Centessa Pharmaceuticals plc was incorporated in 2020 and is headquartered in Altrincham, the United Kingdom.

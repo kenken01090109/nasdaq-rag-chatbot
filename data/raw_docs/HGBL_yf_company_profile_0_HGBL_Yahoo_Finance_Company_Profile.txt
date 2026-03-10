@@ -1,0 +1,9 @@
+Company: Heritage Global Inc. Common Stock
+Ticker: HGBL
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: San Diego
+Website: https://hginc.com
+Employees: 86
+Business Summary: Heritage Global Inc., together with its subsidiaries, operates as an asset services company with focus on financial and industrial asset transactions in the United States. It operates through three segments: Auction and Liquidation, Refurbishment and Resale, and Brokerage. The company offers a suite of market making, acquisitions, refurbishment, dispositions, valuations, and secured lending services. It also involved in the identifying, valuing, acquiring, and monetizing underlying tangible assets. In addition, the company acts as an adviser, as well as a principal, acquiring, or brokering manufacturing facilities; surplus industrial machinery and equipment; industrial inventories; and charged-off receivable portfolios. The company was formerly known as Counsel RB Capital Inc. and changed its name to Heritage Global, Inc. in August 2013. Heritage Global, Inc. was founded in 1937 and is headquartered in San Diego, California.

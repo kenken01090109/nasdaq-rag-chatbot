@@ -1,0 +1,11 @@
+Company: Arm Holdings plc American Depositary Shares
+Ticker: ARM
+CIK: 0001973239
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3430000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 591000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 10176000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 2378000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 7798000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1264000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2807000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

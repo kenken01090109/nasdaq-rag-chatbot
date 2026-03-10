@@ -1,0 +1,9 @@
+Company: Casey's General Stores Inc. Common Stock
+Ticker: CASY
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: United States
+City: Ankeny
+Website: https://www.caseys.com
+Employees: 23338
+Business Summary: Casey's General Stores, Inc., together with its subsidiaries, operates convenience stores under the Casey's and Casey's General Store names in the United States. Its stores offer pizza, donuts, breakfast items, and sandwiches; and tobacco and nicotine products. The company's stores also provide soft drinks, energy, water, sports drinks, juices, coffee, and tea and dairy products; beer, wine, and spirits; snacks, candy, packaged bakery, and other food items; ice, ice cream, meals, and appetizers; health and beauty aids, automotive products, electronic accessories, and housewares; and breadsticks, wraps, chicken wings and tenders, breakfast croissants and biscuits, breakfast burritos, hash browns, burgers, cookies and brownies, and other seasonal items. In addition, its stores offer motor fuel for sale on a self-service basis; gasoline and diesel fuel; and ATM, lotto/lottery, and prepaid cards, as well as car wash services. The company also operates distribution centers. Casey's General Stores, Inc. was founded in 1959 and is headquartered in Ankeny, Iowa.

@@ -1,0 +1,11 @@
+Company: Rallybio Corporation Common Stock
+Ticker: RLYB
+CIK: 0001739410
+Latest SEC XBRL Facts:
+Revenues: 636000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -3126000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 67661000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4627000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 63034000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25134000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32122000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

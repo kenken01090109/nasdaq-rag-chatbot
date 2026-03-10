@@ -1,0 +1,25 @@
+Company: Landstar System Inc. Common Stock
+Ticker: LSTR
+Market Cap: 5214213120
+Enterprise Value: 5114913792
+Total Revenue: 4757445120
+Revenue Per Share: 137.035
+EBITDA: 228328000
+Gross Margins: 0.19121
+Operating Margins: 0.026730001
+Profit Margins: 0.02417
+Free Cashflow: 176275008
+Operating Cashflow: 224882000
+Return On Assets: 0.06593
+Return On Equity: 0.13009
+Total Cash: 452224992
+Total Debt: 134091000
+Debt To Equity: 16.853
+Current Ratio: 1.748
+Quick Ratio: 1.689
+Trailing PE: 46.006065
+Forward PE: 22.701887
+Price To Book: 6.498588
+Beta: 0.812
+52 Week High: 166.11
+52 Week Low: 119.32

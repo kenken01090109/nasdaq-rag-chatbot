@@ -1,0 +1,10 @@
+Company: Alnylam Pharmaceuticals Inc. Common Stock
+Ticker: ALNY
+Market Cap: 42507046912
+Enterprise Value: 42567356416
+Trailing PE: 136.9701
+Forward PE: 22.044603
+Price To Book: 53.75881
+Beta: 0.38
+52 Week High: 495.55
+52 Week Low: 205.87

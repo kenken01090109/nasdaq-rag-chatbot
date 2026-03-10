@@ -1,0 +1,25 @@
+Company: Ichor Holdings Ordinary Shares
+Ticker: ICHR
+Market Cap: 1386466176
+Enterprise Value: 1596298496
+Total Revenue: 947651968
+Revenue Per Share: 27.683
+EBITDA: 24675000
+Gross Margins: 0.11863
+Operating Margins: -0.0277
+Profit Margins: -0.0557
+Free Cashflow: 33107750
+Operating Cashflow: 29886000
+Return On Assets: -0.0046
+Return On Equity: -0.07749
+Total Cash: 98290000
+Total Debt: 160191008
+Debt To Equity: 24.129
+Current Ratio: 3.165
+Quick Ratio: 1.303
+Trailing PE: 
+Forward PE: 18.774014
+Price To Book: 2.075726
+Beta: 1.712
+52 Week High: 55.33
+52 Week Low: 13.12

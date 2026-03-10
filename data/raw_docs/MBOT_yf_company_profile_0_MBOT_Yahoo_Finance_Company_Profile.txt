@@ -1,0 +1,9 @@
+Company: Microbot Medical Inc. Common Stock
+Ticker: MBOT
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Hingham
+Website: https://microbotmedical.com
+Employees: 20
+Business Summary: Microbot Medical Inc. is a medical device company that focuses on transforming endovascular procedures through advanced robotic technology. The company offers LIBERTY, an endovascular robotic surgical system which allows physicians to conduct a catheter-based procedure from outside the catheterization laboratory, and avoid radiation exposure, physical strain, and the risk of cross contamination for use in cardiovascular, peripheral, endovascular, and neurovascular operations. It also provides NovaCross, an intellectual property and technology in the field of intraluminal revascularization devices with anchoring mechanism and integrated microcatheter. The company has a collaboration agreement with Corewell Health for the development of LIBERTY endovascular robotic system; and Emory University, in connection with autonomous robotics in endovascular procedures. Microbot Medical Inc. was founded in 2010 and is based in Hingham, Massachusetts

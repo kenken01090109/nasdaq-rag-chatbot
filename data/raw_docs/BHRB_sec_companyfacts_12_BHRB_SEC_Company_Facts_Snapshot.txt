@@ -1,0 +1,9 @@
+Company: Burke & Herbert Financial Services Corp. Common Stock
+Ticker: BHRB
+CIK: 0001964333
+Latest SEC XBRL Facts:
+NetIncomeLoss: 87062000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 7889037000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 7066806000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 822231000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 76990000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

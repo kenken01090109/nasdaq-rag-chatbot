@@ -1,0 +1,25 @@
+Company: AppFolio Inc. Class A Common Stock
+Ticker: APPF
+Market Cap: 6880194560
+Enterprise Value: 6621424128
+Total Revenue: 950822016
+Revenue Per Share: 26.402
+EBITDA: 167368000
+Gross Margins: 0.6368
+Operating Margins: 0.17557
+Profit Margins: 0.14821
+Free Cashflow: 193784128
+Operating Cashflow: 242104992
+Return On Assets: 0.14529
+Return On Equity: 0.26542
+Total Cash: 251223008
+Total Debt: 38160000
+Debt To Equity: 7.033
+Current Ratio: 3.307
+Quick Ratio: 2.95
+Trailing PE: 49.397934
+Forward PE: 24.0227
+Price To Book: 12.680419
+Beta: 0.801
+52 Week High: 326.04
+52 Week Low: 161.13

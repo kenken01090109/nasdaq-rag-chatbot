@@ -1,0 +1,9 @@
+Company: PowerBank Corporation Common Stock
+Ticker: SUUN
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: Canada
+City: Toronto
+Website: https://www.powerbankcorp.com
+Employees: 18
+Business Summary: PowerBank Corporation operates as an independent renewable and clean energy project developer, power producer, and asset operator in Canada and the United States. The company operates through Development & EPC, IPP Production and Other segments. It focuses on solar photovoltaic power generation projects, battery energy storage systems, and EV-charging projects, grid connected solar PV electricity power plants and battery energy storage system. The company provides expertise in the areas of site origination, utility grid interconnection, permitting, financing, engineering, procurement and construction, operation and maintenance, independent power producer facilities, and asset management of solar photovoltaic power plants to the renewable and clean energy industry. In addition, it develops solar projects that sells electricity to commercial, industrial, municipal, residential, and utility off-takers sectors. The company was formerly known as SolarBank Corporation and changed its name to PowerBank Corporation in July 2025. PowerBank Corporation was incorporated in 2013 and is headquartered in Toronto, Canada.

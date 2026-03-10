@@ -1,0 +1,25 @@
+Company: Paysign Inc. Common Stock
+Ticker: PAYS
+Market Cap: 209162976
+Enterprise Value: 210465296
+Total Revenue: 74879424
+Revenue Per Share: 1.386
+EBITDA: 13787816
+Gross Margins: 0.59823
+Operating Margins: 0.073249996
+Profit Margins: 0.10099
+Free Cashflow: -4178603
+Operating Cashflow: 18673368
+Return On Assets: 0.01983
+Return On Equity: 0.20365
+Total Cash: 7529047
+Total Debt: 6079225
+Debt To Equity: 13.286
+Current Ratio: 1.126
+Quick Ratio: 0.38
+Trailing PE: 29.23077
+Forward PE: 15.670102
+Price To Book: 4.572804
+Beta: 1.015
+52 Week High: 8.88
+52 Week Low: 1.8

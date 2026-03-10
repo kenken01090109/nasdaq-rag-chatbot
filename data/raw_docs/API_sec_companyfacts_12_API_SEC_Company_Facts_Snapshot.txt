@@ -1,0 +1,11 @@
+Company: Agora Inc. American Depositary Shares
+Ticker: API
+CIK: 0001802883
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 133256000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetIncomeLoss: -42727000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Assets: 699654000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Liabilities: 126993000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+StockholdersEquity: 572661000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -14129000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 27083000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31

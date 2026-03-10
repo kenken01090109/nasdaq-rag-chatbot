@@ -1,0 +1,10 @@
+Company: BioVie Inc. Class A Common Stock
+Ticker: BIVI
+CIK: 0001580149
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6069475 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 22503293 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 3238259 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 19265034 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -7461591 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 20540585 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

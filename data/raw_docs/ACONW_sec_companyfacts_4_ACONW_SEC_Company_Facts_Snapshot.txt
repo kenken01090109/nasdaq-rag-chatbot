@@ -1,0 +1,11 @@
+Company: Aclarion Inc. Warrant
+Ticker: ACONW
+CIK: 0001635077
+Latest SEC XBRL Facts:
+Revenues: 57251 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -5344487 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 13200298 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 699747 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 12500551 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5536766 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11341336 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

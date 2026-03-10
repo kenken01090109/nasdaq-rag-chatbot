@@ -1,0 +1,12 @@
+Company: Akso Health Group ADS
+Ticker: AHG
+CIK: 0001702318
+Latest SEC XBRL Facts:
+Revenues: 6998646 | unit=USD | filed=2026-02-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 11872421 | unit=USD | filed=2023-02-16 | period_end=2022-09-30
+NetIncomeLoss: -1275701 | unit=USD | filed=2026-02-10 | period_end=2025-09-30
+Assets: 212042947 | unit=USD | filed=2026-02-10 | period_end=2025-09-30
+Liabilities: 13732009 | unit=USD | filed=2026-02-10 | period_end=2025-09-30
+StockholdersEquity: 198303874 | unit=USD | filed=2026-02-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1232484 | unit=USD | filed=2026-02-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11128627 | unit=USD | filed=2026-02-10 | period_end=2025-09-30

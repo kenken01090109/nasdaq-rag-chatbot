@@ -1,0 +1,11 @@
+Company: CTW Cayman Class A Ordinary Shares
+Ticker: CTW
+CIK: 0002047148
+Latest SEC XBRL Facts:
+Revenues: 90370793 | unit=USD | filed=2025-11-17 | period_end=2025-07-31
+NetIncomeLoss: 3828563 | unit=USD | filed=2025-11-17 | period_end=2025-07-31
+Assets: 46502256 | unit=USD | filed=2025-11-17 | period_end=2025-07-31
+Liabilities: 18854199 | unit=USD | filed=2025-11-17 | period_end=2025-07-31
+StockholdersEquity: 27648057 | unit=USD | filed=2025-11-17 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: 111375 | unit=USD | filed=2025-11-17 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 12208630 | unit=USD | filed=2025-11-17 | period_end=2025-07-31

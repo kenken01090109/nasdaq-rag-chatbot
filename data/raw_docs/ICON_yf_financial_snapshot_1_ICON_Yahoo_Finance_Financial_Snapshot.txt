@@ -1,0 +1,25 @@
+Company: Icon Energy Corp. Common stock
+Ticker: ICON
+Market Cap: 3347480
+Enterprise Value: 31863608
+Total Revenue: 11256000
+Revenue Per Share: 28.297
+EBITDA: 3110000
+Gross Margins: 0.43817002
+Operating Margins: 0.03056
+Profit Margins: -0.37287
+Free Cashflow: -4424000
+Operating Cashflow: 799000
+Return On Assets: 0.0025799999
+Return On Equity: -0.25340998
+Total Cash: 3880000
+Total Debt: 34759000
+Debt To Equity: 162.592
+Current Ratio: 1.097
+Quick Ratio: 0.906
+Trailing PE: 
+Forward PE: -0.17254902
+Price To Book: 0.042730894
+Beta: 
+52 Week High: 44.6
+52 Week Low: 1.19

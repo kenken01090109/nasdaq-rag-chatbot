@@ -1,0 +1,10 @@
+Company: Avidbank Holdings Inc. Common stock
+Ticker: AVBH
+CIK: 0001443575
+Latest SEC XBRL Facts:
+Revenues: -58143000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -26502000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 2362454000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2089341000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 273113000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23081000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

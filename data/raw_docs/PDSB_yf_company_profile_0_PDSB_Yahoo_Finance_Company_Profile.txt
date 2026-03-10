@@ -1,0 +1,9 @@
+Company: PDS Biotechnology Corporation Common Stock
+Ticker: PDSB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Princeton
+Website: https://www.pdsbiotech.com
+Employees: 24
+Business Summary: PDS Biotechnology Corporation, a clinical-stage biopharmaceutical company, developing a pipeline of targeted cancer immunotherapies. The company's lead product candidate is Versamune HPV, which is in phase II clinical trial for the treatment of head and neck, cervical, anal, vaginal, vulvar, and penile cancers. It also develops various product candidates, which are in preclinical trials, including PDS0102, an investigational immunotherapy utilizing tumor-associated and immunologically active T cell receptor gamma alternate reading framed protein for treating acute myeloid leukemia, prostate, and breast cancer; and PDS0103 for ovarian, breast, colorectal, and lung cancers. In addition, the company is developing PDS01ADC, a novel investigational Interleukin 12 fused antibody-drug conjugate, tumor-targeting interleukin 12 immune-cytokine that enhances the proliferation, potency, and longevity of T cells in the tumor microenvironment. Further, the company provides PDS0202, a novel investigational influenza vaccine that protects against the strains predicted to be prevalent in an upcoming flu season. It has a license and collaboration agreements with National Institutes of Health, Merck Eprova AG, The U.S. Department of Health and Human Services, and MSD International GmbH. PDS Biotechnology Corporation was founded in 2005 and is based in Princeton, New Jersey.

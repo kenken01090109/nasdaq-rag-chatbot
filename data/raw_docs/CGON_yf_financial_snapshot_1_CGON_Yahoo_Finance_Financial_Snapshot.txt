@@ -1,0 +1,25 @@
+Company: CG Oncology Inc. Common stock
+Ticker: CGON
+Market Cap: 5224850432
+Enterprise Value: 4489716224
+Total Revenue: 4040000
+Revenue Per Share: 0.052
+EBITDA: -189328992
+Gross Margins: 0.0
+Operating Margins: -20.9733
+Profit Margins: 0.0
+Free Cashflow: -87615752
+Operating Cashflow: -132346000
+Return On Assets: -0.15421
+Return On Equity: -0.21669
+Total Cash: 742155008
+Total Debt: 7021000
+Debt To Equity: 0.933
+Current Ratio: 24.629
+Quick Ratio: 24.09
+Trailing PE: 
+Forward PE: -33.332256
+Price To Book: 6.6345024
+Beta: 1.191
+52 Week High: 63.58
+52 Week Low: 14.8

@@ -1,0 +1,12 @@
+Company: PowerFleet Inc. Common Stock
+Ticker: AIOT
+Total Revenue: 432924992
+Revenue Per Share: 3.246
+Gross Margins: 0.54633
+Operating Margins: 0.07643
+EBITDA: 81316000
+Profit Margins: -0.07005
+Free Cashflow: 36300124
+Operating Cashflow: 33992000
+Return On Assets: 0.01667
+Return On Equity: -0.06426

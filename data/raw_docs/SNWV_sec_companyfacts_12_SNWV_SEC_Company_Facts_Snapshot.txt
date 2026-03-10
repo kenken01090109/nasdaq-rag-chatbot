@@ -1,0 +1,12 @@
+Company: SANUWAVE Health Inc. Common Stock
+Ticker: SNWV
+CIK: 0001417663
+Latest SEC XBRL Facts:
+Revenues: 30957000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 30860000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 5704000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 35599000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 38530000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -2931000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 557000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9602000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

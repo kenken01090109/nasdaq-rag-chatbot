@@ -1,0 +1,10 @@
+Company: Financial Institutions Inc. Common Stock
+Ticker: FISI
+CIK: 0000862831
+Latest SEC XBRL Facts:
+NetIncomeLoss: 54887000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 6288052000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 5666332000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 621720000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2602000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 185945000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

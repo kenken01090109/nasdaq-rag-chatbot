@@ -1,0 +1,10 @@
+Company: Mid Penn Bancorp Common Stock
+Ticker: MPB
+CIK: 0000879635
+Latest SEC XBRL Facts:
+NetIncomeLoss: 36801000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6267349000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5471026000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 796323000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 66777000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 40960000 | unit=USD | filed=2016-08-12 | period_end=2016-06-30

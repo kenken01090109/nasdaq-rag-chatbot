@@ -1,0 +1,10 @@
+Company: Nano Dimension Ltd. American Depositary Shares
+Ticker: NNDM
+CIK: 0001643303
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 57775000 | unit=USD | filed=2025-08-20 | period_end=2024-12-31
+NetIncomeLoss: -98829000 | unit=USD | filed=2025-08-20 | period_end=2024-12-31
+Assets: 902540000 | unit=USD | filed=2025-08-20 | period_end=2024-12-31
+Liabilities: 41785000 | unit=USD | filed=2025-08-20 | period_end=2024-12-31
+StockholdersEquity: 860040000 | unit=USD | filed=2025-08-20 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -18908000 | unit=USD | filed=2025-08-20 | period_end=2024-12-31

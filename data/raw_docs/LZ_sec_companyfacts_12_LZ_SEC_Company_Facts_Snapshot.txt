@@ -1,0 +1,11 @@
+Company: LegalZoom.com Inc. Common Stock
+Ticker: LZ
+CIK: 0001286139
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 565777000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 9370000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 551104000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 349183000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 201921000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 144068000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 237154000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Fox Corporation Class B Common Stock
+Ticker: FOX
+CIK: 0001754301
+Latest SEC XBRL Facts:
+Revenues: 14913000000 | unit=USD | filed=2023-08-11 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 8920000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 21471000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 10928000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -799000000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2818000000 | unit=USD | filed=2019-05-10 | period_end=2019-03-31

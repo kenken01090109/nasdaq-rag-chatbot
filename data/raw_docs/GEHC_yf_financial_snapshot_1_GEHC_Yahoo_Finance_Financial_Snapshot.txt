@@ -1,0 +1,25 @@
+Company: GE HealthCare Technologies Inc. Common Stock
+Ticker: GEHC
+Market Cap: 33848532992
+Enterprise Value: 41333866496
+Total Revenue: 20625000448
+Revenue Per Share: 45.23
+EBITDA: 3641999872
+Gross Margins: 0.39985
+Operating Margins: 0.15725
+Profit Margins: 0.10104
+Free Cashflow: 1687000064
+Operating Cashflow: 1987000064
+Return On Assets: 0.05472
+Return On Equity: 0.22378
+Total Cash: 4492000256
+Total Debt: 10462999552
+Debt To Equity: 98.717
+Current Ratio: 1.373
+Quick Ratio: 1.015
+Trailing PE: 16.323076
+Forward PE: 13.337787
+Price To Book: 3.261175
+Beta: 1.181
+52 Week High: 89.77
+52 Week Low: 57.65

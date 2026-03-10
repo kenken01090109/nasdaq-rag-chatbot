@@ -1,0 +1,25 @@
+Company: Imperial Petroleum Inc. 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares
+Ticker: IMPPP
+Market Cap: 
+Enterprise Value: 786427392
+Total Revenue: 136071648
+Revenue Per Share: 4.104
+EBITDA: 53115700
+Gross Margins: 0.43969002
+Operating Margins: 0.22634001
+Profit Margins: 0.28611
+Free Cashflow: 28937684
+Operating Cashflow: 66094960
+Return On Assets: 0.04123
+Return On Equity: 0.08898
+Total Cash: 99321728
+Total Debt: 19263
+Debt To Equity: 0.004
+Current Ratio: 6.938
+Quick Ratio: 6.438
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.931935
+Beta: 1.158
+52 Week High: 27.78
+52 Week Low: 22.91

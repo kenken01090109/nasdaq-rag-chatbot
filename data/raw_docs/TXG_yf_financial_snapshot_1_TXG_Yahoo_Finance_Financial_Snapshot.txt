@@ -1,0 +1,25 @@
+Company: 10x Genomics Inc. Class A Common Stock
+Ticker: TXG
+Market Cap: 2658524416
+Enterprise Value: 2325510656
+Total Revenue: 642822976
+Revenue Per Share: 5.153
+EBITDA: -64086000
+Gross Margins: 0.6913
+Operating Margins: -0.09421
+Profit Margins: -0.06774
+Free Cashflow: 148385872
+Operating Cashflow: 136050000
+Return On Assets: -0.06396
+Return On Equity: -0.05781
+Total Cash: 523408992
+Total Debt: 84361000
+Debt To Equity: 10.594
+Current Ratio: 4.46
+Quick Ratio: 3.948
+Trailing PE: 
+Forward PE: 127.41076
+Price To Book: 3.337075
+Beta: 2.213
+52 Week High: 23.56
+52 Week Low: 6.78

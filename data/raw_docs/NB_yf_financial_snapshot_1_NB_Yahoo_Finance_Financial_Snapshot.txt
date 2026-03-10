@@ -1,0 +1,25 @@
+Company: NioCorp Developments Ltd. Common Stock
+Ticker: NB
+Market Cap: 680810368
+Enterprise Value: 312486592
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -29134000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -32027750
+Operating Cashflow: -16187000
+Return On Assets: -0.099700004
+Return On Equity: -0.37991002
+Total Cash: 306363008
+Total Debt: 413000
+Debt To Equity: 0.134
+Current Ratio: 31.454
+Quick Ratio: 31.322
+Trailing PE: 
+Forward PE: -13.008972
+Price To Book: 1.8661972
+Beta: -0.135
+52 Week High: 12.58
+52 Week Low: 1.59

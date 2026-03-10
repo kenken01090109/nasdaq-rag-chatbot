@@ -1,0 +1,12 @@
+Company: Nortech Systems Incorporated Common Stock
+Ticker: NSYS
+CIK: 0000722313
+Latest SEC XBRL Facts:
+Revenues: 12628000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 88052000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -1149000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 74757000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 41400000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 33357000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2865000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1271000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

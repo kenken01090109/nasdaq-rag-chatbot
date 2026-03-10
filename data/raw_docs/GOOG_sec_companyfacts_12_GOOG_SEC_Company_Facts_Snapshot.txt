@@ -1,0 +1,12 @@
+Company: Alphabet Inc. Class C Capital Stock
+Ticker: GOOG
+CIK: 0001652044
+Latest SEC XBRL Facts:
+Revenues: 289007000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 90234000000 | unit=USD | filed=2025-04-25 | period_end=2025-03-31
+NetIncomeLoss: 97715000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 536469000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 149602000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 386867000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 112311000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23090000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: PureCycle Technologies Inc. Warrant
+Ticker: PCTTW
+CIK: 0001830033
+Latest SEC XBRL Facts:
+Revenues: 5660000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -163778000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 989123000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 621600000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 68219000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -114052000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 234359000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

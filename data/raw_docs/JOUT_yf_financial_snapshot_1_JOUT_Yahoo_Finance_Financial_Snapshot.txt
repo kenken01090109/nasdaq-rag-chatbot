@@ -1,0 +1,25 @@
+Company: Johnson Outdoors Inc. Class A Common Stock
+Ticker: JOUT
+Market Cap: 478331744
+Enterprise Value: 397603872
+Total Revenue: 625700992
+Revenue Per Share: 60.91
+EBITDA: 22084000
+Gross Margins: 0.36361998
+Operating Margins: -0.020739999
+Profit Margins: -0.03565
+Free Cashflow: 31953376
+Operating Cashflow: 54700000
+Return On Assets: 0.0011999999
+Return On Equity: -0.05224
+Total Cash: 130731000
+Total Debt: 46823000
+Debt To Equity: 11.322
+Current Ratio: 3.781
+Quick Ratio: 1.995
+Trailing PE: 
+Forward PE: 18.90909
+Price To Book: 1.1379687
+Beta: 0.83
+52 Week High: 51.66
+52 Week Low: 21.33

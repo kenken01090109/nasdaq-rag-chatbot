@@ -1,0 +1,11 @@
+Company: Greenlight Capital Re Ltd. Class A Ordinary Shares
+Ticker: GLRE
+CIK: 0001385613
+Latest SEC XBRL Facts:
+Revenues: 519479000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 25551000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 2134055000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 1475166000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 658889000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 110000000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 68789000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Super League Enterprise Inc. Common Stock
+Ticker: SLE
+Market Cap: 5022800
+Enterprise Value: 6176618
+Total Revenue: 11568000
+Revenue Per Share: 221.681
+EBITDA: -12307000
+Gross Margins: 0.39626998
+Operating Margins: -1.25918
+Profit Margins: -1.3712801
+Free Cashflow: -6838375
+Operating Cashflow: -10107000
+Return On Assets: -0.85595
+Return On Equity: -20.95509
+Total Cash: 1061000
+Total Debt: 3304000
+Debt To Equity: 
+Current Ratio: 0.465
+Quick Ratio: 0.372
+Trailing PE: 
+Forward PE: -0.6115819
+Price To Book: -0.278224
+Beta: 1.538
+52 Week High: 215.52
+52 Week Low: 3.25

@@ -1,0 +1,25 @@
+Company: Galaxy Payroll Group Limited Class A Ordinary Shares
+Ticker: GLXG
+Market Cap: 4539150
+Enterprise Value: -26196426
+Total Revenue: 27429320
+Revenue Per Share: 15.192
+EBITDA: -27651496
+Gross Margins: 0.42587003
+Operating Margins: -1.44128
+Profit Margins: -1.00508
+Free Cashflow: -23402752
+Operating Cashflow: -27707982
+Return On Assets: -0.52795
+Return On Equity: -1.64223
+Total Cash: 32188712
+Total Debt: 1236952
+Debt To Equity: 4.565
+Current Ratio: 3.214
+Quick Ratio: 3.082
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.3098031
+Beta: 
+52 Week High: 16.8
+52 Week Low: 1.54

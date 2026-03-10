@@ -1,0 +1,11 @@
+Company: CBL International Limited Class B Ordinary Shares
+Ticker: BANL
+CIK: 0001914805
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 592517545 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+NetIncomeLoss: -3871413 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+Assets: 69291809 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+Liabilities: 46525076 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+StockholdersEquity: 22908668 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -1943216 | unit=USD | filed=2025-04-16 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 8020871 | unit=USD | filed=2025-04-16 | period_end=2024-12-31

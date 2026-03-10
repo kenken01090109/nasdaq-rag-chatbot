@@ -1,0 +1,11 @@
+Company: Gyrodyne LLC Common Stock
+Ticker: GYRO
+CIK: 0001589061
+Latest SEC XBRL Facts:
+Revenues: 1703652 | unit=USD | filed=2015-11-23 | period_end=2015-08-31
+NetIncomeLoss: -2501702 | unit=USD | filed=2016-03-30 | period_end=2015-08-31
+Assets: 40856335 | unit=USD | filed=2016-08-10 | period_end=2016-06-30
+Liabilities: 10867434 | unit=USD | filed=2016-08-10 | period_end=2016-06-30
+StockholdersEquity: 43916720 | unit=USD | filed=2015-11-23 | period_end=2015-08-31
+NetCashProvidedByUsedInOperatingActivities: -2293958 | unit=USD | filed=2015-11-23 | period_end=2015-08-31
+CashAndCashEquivalentsAtCarryingValue: 2200000 | unit=USD | filed=2020-03-26 | period_end=2019-12-31

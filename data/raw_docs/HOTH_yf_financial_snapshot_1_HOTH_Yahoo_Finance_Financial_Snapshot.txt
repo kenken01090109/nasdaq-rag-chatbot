@@ -1,0 +1,25 @@
+Company: Hoth Therapeutics Inc. Common Stock
+Ticker: HOTH
+Market Cap: 15405711
+Enterprise Value: 7835143
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6641136
+Operating Cashflow: -9681539
+Return On Assets: -0.84457
+Return On Equity: -1.51132
+Total Cash: 7847911
+Total Debt: 13599
+Debt To Equity: 0.165
+Current Ratio: 8.81
+Quick Ratio: 7.761
+Trailing PE: 
+Forward PE: -1.3985915
+Price To Book: 1.8253675
+Beta: 0.548
+52 Week High: 2.115
+52 Week Low: 0.655

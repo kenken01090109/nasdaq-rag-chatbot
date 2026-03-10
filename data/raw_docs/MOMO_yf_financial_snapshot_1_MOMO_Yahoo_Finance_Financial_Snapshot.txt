@@ -1,0 +1,25 @@
+Company: Hello Group Inc. American Depositary Shares
+Ticker: MOMO
+Market Cap: 989723904
+Enterprise Value: -6636719616
+Total Revenue: 10427823104
+Revenue Per Share: 59.707
+EBITDA: 1355508992
+Gross Margins: 0.37092
+Operating Margins: 0.13
+Profit Margins: 0.0723
+Free Cashflow: 4906811392
+Operating Cashflow: 1057038976
+Return On Assets: 0.050329998
+Return On Equity: 0.06716
+Total Cash: 8737957888
+Total Debt: 159906000
+Debt To Equity: 1.427
+Current Ratio: 5.205
+Quick Ratio: 4.708
+Trailing PE: 9.935484
+Forward PE: 6.4360557
+Price To Book: 0.59553677
+Beta: 0.493
+52 Week High: 9.22
+52 Week Low: 5.12

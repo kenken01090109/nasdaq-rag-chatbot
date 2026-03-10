@@ -1,0 +1,25 @@
+Company: Precision BioSciences Inc. Common Stock
+Ticker: DTIL
+Market Cap: 110970776
+Enterprise Value: 44311084
+Total Revenue: 698000
+Revenue Per Share: 0.069
+EBITDA: -87925000
+Gross Margins: 1.0
+Operating Margins: -1589.7692
+Profit Margins: 0.0
+Free Cashflow: -37418000
+Operating Cashflow: -73276000
+Return On Assets: -0.45337
+Return On Equity: -2.05158
+Total Cash: 44870000
+Total Debt: 29128000
+Debt To Equity: 175.111
+Current Ratio: 3.448
+Quick Ratio: 2.992
+Trailing PE: 
+Forward PE: -1.4823152
+Price To Book: 3.3478577
+Beta: 1.319
+52 Week High: 8.82
+52 Week Low: 3.53

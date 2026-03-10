@@ -1,0 +1,11 @@
+Company: Insight Enterprises Inc. Common Stock
+Ticker: NSIT
+CIK: 0000932696
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6198883000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 105393000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 8902047000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 7321314000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1580733000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 150057000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 547017000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

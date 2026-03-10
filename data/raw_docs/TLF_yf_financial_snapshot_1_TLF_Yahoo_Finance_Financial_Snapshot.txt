@@ -1,0 +1,25 @@
+Company: Tandy Leather Factory Inc. Common Stock
+Ticker: TLF
+Market Cap: 19536358
+Enterprise Value: 30506442
+Total Revenue: 76324000
+Revenue Per Share: 9.268
+EBITDA: -105000
+Gross Margins: 0.57045
+Operating Margins: -0.0275
+Profit Margins: 0.11925
+Free Cashflow: 880125
+Operating Cashflow: -556000
+Return On Assets: -0.00745
+Return On Equity: 0.16588
+Total Cash: 16087000
+Total Debt: 27380000
+Debt To Equity: 52.062
+Current Ratio: 5.162
+Quick Ratio: 1.685
+Trailing PE: 2.2
+Forward PE: 4.172414
+Price To Book: 0.3714505
+Beta: 0.652
+52 Week High: 3.78
+52 Week Low: 2.28

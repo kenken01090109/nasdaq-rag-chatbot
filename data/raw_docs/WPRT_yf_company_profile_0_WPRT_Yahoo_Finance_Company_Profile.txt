@@ -1,0 +1,9 @@
+Company: Westport Fuel Systems Inc Common Shares
+Ticker: WPRT
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: Canada
+City: Vancouver
+Website: https://wfsinc.com
+Employees: 1509
+Business Summary: Westport Fuel Systems Inc. engages in the engineering, manufacturing, and supplying alternative fuel systems and components for use in transportation applications in Europe, Asia, North America, South America, and internationally. The company operates through four segments: Cespira, Light-Duty, High-Pressure Controls and Systems, and Heavy-Duty OEM. It offers alternative fuel, such as hydrogen (H2), liquefied natural gas (LNG), biogas, biomethane, renewable natural gas (RNG), compressed natural gas (CNG), and liquefied petroleum gas (LPG); and pressure regulators, injectors, electronic control units, valves and filters, complete bi-fuel, mono-fuel and dual-fuel LPG and natural gas conversion kits, and high-pressure hydrogen components. The company also provides LNG HPDI fuel system products to engine manufacturers and commercial vehicle original equipment manufacturers. In addition, it offers direct injection engine technology and fuel storage solutions to original equipment manufacturers, delayed original equipment manufacturers, and independent aftermarkets. It provides its products under the BRC, Prins, Zavoli, OMVL, TA Gas Technology, Vialle, Valtek, Cespira, STAKO, AFS, Emer, and GFI brands. The company was formerly known as Westport Innovations Inc. and changed its name to Westport Fuel Systems Inc. in June 2016. Westport Fuel Systems Inc. was incorporated in 1995 and is headquartered in Vancouver, Canada.

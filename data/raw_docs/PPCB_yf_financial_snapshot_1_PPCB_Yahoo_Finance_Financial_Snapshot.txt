@@ -1,0 +1,25 @@
+Company: Propanc Biopharma Inc. Common Stock
+Ticker: PPCB
+Market Cap: 2680218
+Enterprise Value: 3626307
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -65101756
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 14254889
+Operating Cashflow: -3126589
+Return On Assets: -5.3573103
+Return On Equity: -18.11692
+Total Cash: 561237
+Total Debt: 649216
+Debt To Equity: 5.669
+Current Ratio: 2.127
+Quick Ratio: 0.16
+Trailing PE: 0.0032431395
+Forward PE: 
+Price To Book: 0.21750322
+Beta: 3.485
+52 Week High: 11.0
+52 Week Low: 0.1555

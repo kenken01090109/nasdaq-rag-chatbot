@@ -1,0 +1,9 @@
+Company: Acumen Pharmaceuticals Inc. Common Stock
+Ticker: ABOS
+Long Business Summary: Acumen Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, develops targeted therapies for the treatment of Alzheimer's disease. The company focuses on advancing a targeted immunotherapy drug candidate Sabirnetug (ACU193), a recombinant humanized immunoglobulin gamma 2, which has completed the INTERCEPT-AD phase 1 clinical trial and in ALTITUDE-AD phase 2 clinical trial to target soluble amyloid-beta oligomers. It has a collaboration and license agreement with Halozyme, Inc. for the development of a subcutaneous formulation of Sabirnetug. Acumen Pharmaceuticals, Inc. was incorporated in 1996 and is headquartered in Newton, Massachusetts.
+Industry: Biotechnology
+Sector: Healthcare
+Website: https://acumenpharm.com
+Country: United States
+City: Newton
+Full Time Employees: 61

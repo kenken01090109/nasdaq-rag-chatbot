@@ -1,0 +1,9 @@
+Company: POET Technologies Inc. Common Shares
+Ticker: POET
+Sector: Technology
+Industry: Semiconductors
+Country: Canada
+City: Toronto
+Website: https://www.poet-technologies.com
+Employees: 
+Business Summary: POET Technologies Inc., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products and services for commercial applications in the United States, Canada, Singapore, and China. The company offers photonic integrated packaging solutions based on the POET Optical Interposer, a novel platform that allows the seamless integration of electronic and photonic devices onto a single chip using advanced wafer-level semiconductor manufacturing techniques. It also designs and develops photonic integrated circuits and optical engines based on the POET Optical Interposer platform. The company serves the data center; tele-communications; 5G interconnect markets, such as PON and GPON, and edge computing for machine-to-machine communications; and sensing markets, including LIDAR, Optical Coherence Tomography for medical devices, and virtual reality systems, as well as light source markets. POET Technologies Inc. was formerly known as Opel Technologies Inc. and changed its name to POET Technologies Inc. in June 2013. POET Technologies Inc. was incorporated in 1972 and is headquartered in Toronto, Canada.

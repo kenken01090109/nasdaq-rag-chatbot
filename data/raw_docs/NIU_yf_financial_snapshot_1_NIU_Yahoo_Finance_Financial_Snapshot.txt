@@ -1,0 +1,25 @@
+Company: Niu Technologies American Depositary Shares
+Ticker: NIU
+Market Cap: 293924160
+Enterprise Value: -758700160
+Total Revenue: 4450797568
+Revenue Per Share: 55.845
+EBITDA: 26421686
+Gross Margins: 0.18926
+Operating Margins: 0.04335
+Profit Margins: -0.00535
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.01533
+Return On Equity: -0.0241
+Total Cash: 1582758400
+Total Debt: 224748384
+Debt To Equity: 22.731
+Current Ratio: 1.206
+Quick Ratio: 0.697
+Trailing PE: 
+Forward PE: 17.678469
+Price To Book: 2.1017845
+Beta: -0.243
+52 Week High: 5.67
+52 Week Low: 2.26

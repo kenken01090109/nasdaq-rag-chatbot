@@ -1,0 +1,9 @@
+Company: BV Financial Inc. Common Stock
+Ticker: BVFL
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Baltimore
+Website: https://www.bayvanguard.com
+Employees: 102
+Business Summary: BV Financial, Inc. operates as the holding company for BayVanguard Bank that provides various financial services to individuals and businesses in the United States. The company offers checking and money market accounts, savings accounts, and certificates of deposits. Its loan products include real estate, home equity, construction, lot, auto, boat, and other personal loans; personal credit cards; and commercial lending products, such as commercial equipment/installation, commercial real estate, construction, investment real estate, lines of credit, and SBA loans, as well as loans for short-term real estate purchase, renovation, and sale projects. It also provides ATM, overdraft, safe deposit, bill pay, positive pay, remote deposit capture, ACH origination, merchant, and online banking services. BV Financial, Inc. was founded in 1873 and is headquartered in Baltimore, Maryland.

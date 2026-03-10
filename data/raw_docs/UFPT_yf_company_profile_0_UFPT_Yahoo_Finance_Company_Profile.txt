@@ -1,0 +1,9 @@
+Company: UFP Technologies Inc. Common Stock
+Ticker: UFPT
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Newburyport
+Website: https://www.ufpt.com
+Employees: 4846
+Business Summary: UFP Technologies, Inc., together with its subsidiaries, designs and manufactures solutions for medical devices, sterile packaging, and other engineered custom products in the United States. The company provides protective drapes for robotic surgery, patient handling and comfort, advanced wound care, infection prevention, disposables for surgical and endoscopic procedures, packaging for medical devices, orthopedic implants, components for cardiac implants, dispenser coils for catheters, and biopharma drug manufacturing. It also offers equipment protection and packaging for firearms, unmanned aerial vehicles/drones, weapon systems, electronic devices communications equipment, and tools and repair kits; cushion and protective packaging; acoustic and thermal insulation components for automotive, aerospace, consumer, and industrial; filtration for small engines, air conditioners, humidifiers, refrigerators, electronic air cleaners, forced air appliances and industrial compressors; fluid management; and seals and gaskets for automotive manufacturing chemical processing, building and construction applications. In addition, the company provides uniform and tactical gear for backpack straps and padding, uniform knee and elbow pads, duty belts, holsters, and helmet padding and others; sports and leisure for custom helmet linings, athletic braces, and shoe insoles; and trim and structural components, such as load floors, sunshades, package trays, back panel, and seat backs. The company serves the medical, aerospace and defence, automotive, consumer, electronics, and industrial markets. It markets and sells its products through a direct sales force. The company was founded in 1963 and is headquartered in Newburyport, Massachusetts.

@@ -1,0 +1,9 @@
+Company: Crown Crafts Inc Common Stock
+Ticker: CRWS
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Gonzales
+Website: https://www.crowncrafts.com
+Employees: 168
+Business Summary: Crown Crafts, Inc., through its subsidiaries, operates in the consumer products industry in the United States and internationally. The company provides infant, toddler, and juvenile products, including infant and toddler beddings; diaper bags; blankets and swaddle blankets; dolls and plush toys; nursery and toddler accessories; room décors; reusable and disposable bibs; burp cloths; reusable and disposable placemats, and floor mats; disposable toilet seat covers and changing mats; developmental toys; feeding and care goods; and other infant, toddler, and juvenile soft goods. It sells its products primarily to mass merchants, large chain stores, mid-tier retailers, juvenile specialty stores, value channel stores, grocery and drug stores, restaurants, internet accounts, wholesale clubs and internet-based retailers through a network of sales force and independent commissioned sales representatives. Crown Crafts, Inc. was incorporated in 1957 and is headquartered in Gonzales, Louisiana.

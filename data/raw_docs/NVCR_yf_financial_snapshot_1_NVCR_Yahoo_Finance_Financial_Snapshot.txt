@@ -1,0 +1,25 @@
+Company: NovoCure Limited Ordinary Shares
+Ticker: NVCR
+Market Cap: 1483878912
+Enterprise Value: 1419973248
+Total Revenue: 655353024
+Revenue Per Share: 5.879
+EBITDA: -135159008
+Gross Margins: 0.74797
+Operating Margins: -0.21327
+Profit Margins: -0.20787
+Free Cashflow: -37975376
+Operating Cashflow: -49031000
+Return On Assets: -0.09064
+Return On Equity: -0.38886002
+Total Cash: 447673984
+Total Debt: 248352992
+Debt To Equity: 72.945
+Current Ratio: 2.897
+Quick Ratio: 2.509
+Trailing PE: 
+Forward PE: -11.199959
+Price To Book: 4.3078957
+Beta: 0.745
+52 Week High: 21.55
+52 Week Low: 9.82

@@ -1,0 +1,25 @@
+Company: Mirum Pharmaceuticals Inc. Common Stock
+Ticker: MIRM
+Market Cap: 5207481856
+Enterprise Value: 5236532736
+Total Revenue: 521312000
+Revenue Per Share: 10.385
+EBITDA: 2108000
+Gross Margins: 0.80772
+Operating Margins: -0.030669998
+Profit Margins: -0.04482
+Free Cashflow: 98558872
+Operating Cashflow: 55827000
+Return On Assets: -0.01828
+Return On Equity: -0.08648
+Total Cash: 383327008
+Total Debt: 319452000
+Debt To Equity: 101.513
+Current Ratio: 2.671
+Quick Ratio: 2.462
+Trailing PE: 
+Forward PE: -794.8789
+Price To Book: 14.23153
+Beta: 0.516
+52 Week High: 109.28
+52 Week Low: 36.88

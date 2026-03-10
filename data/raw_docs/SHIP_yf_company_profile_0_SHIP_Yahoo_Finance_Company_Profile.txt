@@ -1,0 +1,9 @@
+Company: Seanergy Maritime Holdings Corp. Common Stock
+Ticker: SHIP
+Sector: Industrials
+Industry: Marine Shipping
+Country: Greece
+City: Glyfada
+Website: https://www.seanergymaritime.com
+Employees: 
+Business Summary: Seanergy Maritime Holdings Corp., a shipping company, engages in the seaborne transportation of dry bulk commodities worldwide. It operates 18 Capesize and 2 Newcastlemax dry bulk vessels with a cargo-carrying capacity of approximately 3,633,861 deadweight tons. The company was formerly known as Seanergy Merger Corp. and changed its name to Seanergy Maritime Holdings Corp. in July 2008. Seanergy Maritime Holdings Corp. was incorporated in 2008 and is based in Glyfada, Greece.

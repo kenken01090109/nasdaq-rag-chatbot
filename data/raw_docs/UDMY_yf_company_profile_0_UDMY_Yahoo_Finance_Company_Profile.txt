@@ -1,0 +1,9 @@
+Company: Udemy Inc. Common Stock
+Ticker: UDMY
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: United States
+City: San Francisco
+Website: https://www.udemy.com
+Employees: 1380
+Business Summary: Udemy, Inc., a learning company, that operates a marketplace platform for learning skills in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. It operates through Enterprise and Consumer segments. The company offers courses related to technology, business and soft skills, and personal development topics through its platform. It also provides professional services; learning architecture development and skills mapping; AI transformation packages; and seat-based subscription plans, including team plan, enterprise plan, and leadership academy, as well as the Udemy Business Pro add-on service. The company's platform gives access to interactive learning tools comprising quizzes and exercises, as well as the ability to ask questions and engage with the instructor directly; and Udemy AI assistant, a natural-language chat interface to help learners discover and engage with the company's content. It serves organizations, including enterprise and government customers; and individuals. Udemy, Inc. was incorporated in 2010 and is headquartered in San Francisco, California.

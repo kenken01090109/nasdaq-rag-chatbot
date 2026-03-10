@@ -1,0 +1,9 @@
+Company: Pulsenmore Ltd. Ordinary Shares
+Ticker: PLSM
+Sector: Healthcare
+Industry: Medical Devices
+Country: Israel
+City: Omer
+Website: https://www.pulsenmore.com
+Employees: 58
+Business Summary: Pulsenmore Ltd. engages in the provision of self-scan ultrasound devices for remote clinical diagnosis and screening in Israel and Europe. The company offers Pulsenmore home ultrasound system, a handheld ultrasound cradle dock with the patient's smartphone; mobile app for uploading images to the cloud for review; and clinician dashboard for clinician to review a stored video or guide a scan in real-time. The company was incorporated in 2014 and is based in Omer, Israel.

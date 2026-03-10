@@ -1,0 +1,12 @@
+Company: Lands' End Inc. Common Stock
+Ticker: LE
+CIK: 0000799288
+Latest SEC XBRL Facts:
+Revenues: 760459000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 872774000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: -6765000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 852663000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 621647000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 231016000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -15181000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 36344000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

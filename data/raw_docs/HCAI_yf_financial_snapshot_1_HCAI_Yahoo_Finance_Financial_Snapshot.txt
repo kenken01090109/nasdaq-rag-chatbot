@@ -1,0 +1,25 @@
+Company: Huachen AI Parking Management Technology Holding Co. Ltd. Class A Ordinary Shares
+Ticker: HCAI
+Market Cap: 9802858
+Enterprise Value: 30761900
+Total Revenue: 19176988
+Revenue Per Share: 0.591
+EBITDA: 1860039
+Gross Margins: 0.23302999
+Operating Margins: 0.15669
+Profit Margins: 0.00603
+Free Cashflow: -4014574
+Operating Cashflow: -4058939
+Return On Assets: 0.00936
+Return On Equity: 0.00805
+Total Cash: 47495
+Total Debt: 11058341
+Debt To Equity: 30.779
+Current Ratio: 2.717
+Quick Ratio: 1.992
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.28660715
+Beta: 
+52 Week High: 10.974
+52 Week Low: 0.1926

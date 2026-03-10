@@ -1,0 +1,25 @@
+Company: Okta Inc. Class A Common Stock
+Ticker: OKTA
+Market Cap: 14306023424
+Enterprise Value: 11987124224
+Total Revenue: 2919000064
+Revenue Per Share: 16.596
+EBITDA: 249000000
+Gross Margins: 0.77355003
+Operating Margins: 0.0657
+Profit Margins: 0.08051
+Free Cashflow: 836124992
+Operating Cashflow: 884000000
+Return On Assets: 0.00999
+Return On Equity: 0.03506
+Total Cash: 2552999936
+Total Debt: 451000000
+Debt To Equity: 6.444
+Current Ratio: 1.427
+Quick Ratio: 1.278
+Trailing PE: 73.38182
+Forward PE: 19.106184
+Price To Book: 2.0454602
+Beta: 0.838
+52 Week High: 127.567
+52 Week Low: 68.77

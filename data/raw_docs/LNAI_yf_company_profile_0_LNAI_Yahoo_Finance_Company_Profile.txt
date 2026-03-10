@@ -1,0 +1,9 @@
+Company: Lunai Bioworks Inc. Common Stock
+Ticker: LNAI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Los Angeles
+Website: https://www.lunaibioworks.com
+Employees: 29
+Business Summary: Lunai Bioworks Inc., a pre-clinical stage biotechnology company, provides medicine, diagnostics, and biodefense products the United States and the Netherlands. It operates through three segments, RENB, BioSymetrics, and RENC. The company is developing a genetically modified allogeneic dendritic cell therapeutic vaccines, including RENB-DC11 to treat solid tumors primarily for pancreatic tumors; and RENB-DC20 for the treatment of breast cancer. It also develops an artificial intelligence platform technology for early cancer detection and its recurrence that uses a multi-omics approach to search for individual biomarkers that are present even in asymptomatic patients. The company was formerly known as Renovaro Inc. and changed its name to Lunai Bioworks Inc. in August 2025. Lunai Bioworks Inc. is headquartered in Los Angeles, California.

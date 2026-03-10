@@ -1,0 +1,12 @@
+Company: Allegiant Travel Company Common Stock
+Ticker: ALGT
+Total Revenue: 2606578944
+Revenue Per Share: 144.409
+Gross Margins: 0.22461
+Operating Margins: 0.07169
+EBITDA: 302792992
+Profit Margins: -0.01715
+Free Cashflow: 14951625
+Operating Cashflow: 389768000
+Return On Assets: 0.01985
+Return On Equity: -0.041729998

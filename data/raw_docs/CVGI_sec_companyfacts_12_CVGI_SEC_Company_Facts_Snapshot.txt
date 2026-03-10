@@ -1,0 +1,12 @@
+Company: Commercial Vehicle Group Inc. Common Stock
+Ticker: CVGI
+CIK: 0001290900
+Latest SEC XBRL Facts:
+Revenues: 215734000 | unit=USD | filed=2018-05-03 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 494240000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -16152000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 400265000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 263738000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 136527000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 32355000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 70260000 | unit=USD | filed=2014-08-08 | period_end=2014-06-30

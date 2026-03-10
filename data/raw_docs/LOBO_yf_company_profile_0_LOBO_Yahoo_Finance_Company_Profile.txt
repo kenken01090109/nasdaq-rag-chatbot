@@ -1,0 +1,9 @@
+Company: LOBO TECHNOLOGIES LTD. Class A Ordinary Shares
+Ticker: LOBO
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: China
+City: Wuxi
+Website: https://www.loboebike.com
+Employees: 93
+Business Summary: Lobo Technologies Ltd. engages in the design, development, manufacture, and sales of e-bicycles, e-mopeds, e-tricycles, and electric off-highway four-wheeled shuttles in the People's Republic of China. It operates through two segments, Electric Vehicles and Accessories Sales, and Software Royalties and Development and Design Services. The company offers two-wheeled electric vehicles, such as e-bicycles and e-mopeds; three-wheeled electric vehicles comprising e-tricycles; and electric off-highway four-wheeled shuttles, including golf carts and e-scooters for the elderly and disabled persons, as well as AI robotic products. It also provides automobile information and entertainment software development and design services for automotive electronics, such as multimedia interactive systems, multifunctional rear-view mirrors, dash-cams, and household solar electronic system. The company was formerly known as Lobo EV Technologies Ltd. and changed its name to Lobo Technologies Ltd. in August 2025. Lobo EV Technologies Ltd. was incorporated in 2021 and is headquartered in Wuxi, China. Lobo Technologies Ltd. operates as a subsidiary of Wealthford Capital Ltd.

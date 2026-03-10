@@ -1,0 +1,25 @@
+Company: Enanta Pharmaceuticals Inc. Common Stock
+Ticker: ENTA
+Market Cap: 392921920
+Enterprise Value: 400255904
+Total Revenue: 66980000
+Revenue Per Share: 2.885
+EBITDA: -68132000
+Gross Margins: 1.0
+Operating Margins: -0.60451
+Profit Margins: -1.06804
+Free Cashflow: -1043125
+Operating Cashflow: -14170000
+Return On Assets: -0.13467
+Return On Equity: -0.60012
+Total Cash: 185848992
+Total Debt: 193183008
+Debt To Equity: 152.604
+Current Ratio: 4.442
+Quick Ratio: 4.345
+Trailing PE: 
+Forward PE: -5.467018
+Price To Book: 3.1040807
+Beta: 0.972
+52 Week High: 17.15
+52 Week Low: 4.09

@@ -1,0 +1,9 @@
+Company: Clearmind Medicine Inc. Common Shares
+Ticker: CMND
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Vancouver
+Website: https://www.clearmindmedicine.com
+Employees: 
+Business Summary: Clearmind Medicine Inc., a clinical stage pharmaceutical company, develops novel psychedelic medicines to treat under-served health problems. The company develops treatments for alcohol use disorders, binge drinking, and eating disorders, as well as weight loss, obesity, and metabolic syndrome, anxiety disorders, post-traumatic stress disorder, depression, and treatment resistant depression. It develops MEAI compound for the treatment of alcohol use disorder, obesity, and metabolic disorders, as well as an alcohol substitute consumer product; and CM-CMND-001 which is in Phase I/IIa clinical trial for the treatment of alcohol use disorder. In addition, the company has a collaboration with SciSparc Ltd. to conduct a study evaluating the companies combination treatment for obesity and metabolic syndrome; Yissum Research Development Company of the Hebrew University of Jerusalem to develop, manufacture, and commercialize compounds targeted at treating post-traumatic stress disorder and other health conditions; and Polyrizon Ltd. to develop novel intranasal MEAI formulation. The company was formerly known as Cyntar Ventures Inc. and changed its name to Clearmind Medicine Inc. in March 2021. The company was incorporated in 2017 and is headquartered in Vancouver, Canada.

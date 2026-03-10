@@ -1,0 +1,25 @@
+Company: Bridgford Foods Corporation Common Stock
+Ticker: BRID
+Market Cap: 66124728
+Enterprise Value: 71323720
+Total Revenue: 230986000
+Revenue Per Share: 25.448
+EBITDA: -12516000
+Gross Margins: 0.17886999
+Operating Margins: -0.12758
+Profit Margins: -0.05783
+Free Cashflow: -1396500
+Operating Cashflow: -5692000
+Return On Assets: -0.07756
+Return On Equity: -0.109639995
+Total Cash: 876000
+Total Debt: 6075000
+Debt To Equity: 5.258
+Current Ratio: 2.981
+Quick Ratio: 1.201
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5722702
+Beta: -0.257
+52 Week High: 10.7
+52 Week Low: 7.0

@@ -1,0 +1,9 @@
+Company: Duos Technologies Group Inc. Common Stock
+Ticker: DUOT
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Jacksonville
+Website: https://www.duostechnologies.com
+Employees: 79
+Business Summary: Duos Technologies Group, Inc. designs, develops, deploys, and operates intelligent technology solutions in North America. The company provides solutions, such as Centraco, an enterprise information management software platform that consolidates data and events from multiple sources into a unified and distributive user interface; and truevue360, an integrated platform to develop and deploy artificial intelligence algorithms, including machine learning, computer vision, object detection, and deep neural network-based processing for real-time applications. Its proprietary applications include Railcar Inspection Portal that provides freight and transit railroad customers and select government agencies the ability to conduct automated railcar inspections of trains while they are moving at full speed. The company also develops Automated Logistics Information System, which automates gatehouse operations, as well as develops solutions for rail, trucking, aviation, and other vehicle-based processes. In addition, it provides consulting services, including consulting and auditing; software licensing with optional hardware sales; customer service training; and maintenance/support. The company offers its services under the duostech brand. Duos Technologies Group, Inc. is headquartered in Jacksonville, Florida.

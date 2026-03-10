@@ -1,0 +1,25 @@
+Company: Treasure Global Inc. Common Stock
+Ticker: TGL
+Market Cap: 7021288
+Enterprise Value: 2061308
+Total Revenue: 3084807
+Revenue Per Share: 8.859
+EBITDA: -9967411
+Gross Margins: 0.41361
+Operating Margins: -4.27723
+Profit Margins: 0.0
+Free Cashflow: -10200238
+Operating Cashflow: -12630541
+Return On Assets: -0.29141
+Return On Equity: -1.50933
+Total Cash: 5452456
+Total Debt: 123817
+Debt To Equity: 0.69
+Current Ratio: 4.385
+Quick Ratio: 4.27
+Trailing PE: 
+Forward PE: -8.38
+Price To Book: 0.3910406
+Beta: -0.012
+52 Week High: 186.0
+52 Week Low: 3.7

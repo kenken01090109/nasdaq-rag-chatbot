@@ -1,0 +1,11 @@
+Company: Eton Pharmaceuticals Inc. Common Stock
+Ticker: ETON
+CIK: 0001710340
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 58669000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -6084000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 104510000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 81384000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 23126000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22075000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37121000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

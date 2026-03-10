@@ -1,0 +1,10 @@
+Company: Range Capital Acquisition Corp II Units
+Ticker: RNGTU
+CIK: 0002078653
+Latest SEC XBRL Facts:
+NetIncomeLoss: -49800 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 299296 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 324096 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -24800 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -32783 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

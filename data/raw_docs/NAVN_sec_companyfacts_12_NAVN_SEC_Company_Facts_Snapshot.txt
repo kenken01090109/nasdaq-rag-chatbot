@@ -1,0 +1,11 @@
+Company: Navan Inc. Class A Common Stock
+Ticker: NAVN
+CIK: 0001639723
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 524347000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetIncomeLoss: -325269000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Assets: 1792657000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+Liabilities: 573836000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+StockholdersEquity: 1218821000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -1311000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 809080000 | unit=USD | filed=2025-12-15 | period_end=2025-10-31

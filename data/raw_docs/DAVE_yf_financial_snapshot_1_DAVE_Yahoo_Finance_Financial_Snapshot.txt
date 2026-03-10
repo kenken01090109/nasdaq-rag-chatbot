@@ -1,0 +1,25 @@
+Company: Dave Inc. Class A Common Stock
+Ticker: DAVE
+Market Cap: 2934842112
+Enterprise Value: 2900800512
+Total Revenue: 554182016
+Revenue Per Share: 41.462
+EBITDA: 191854000
+Gross Margins: 0.70219004
+Operating Margins: 0.39393002
+Profit Margins: 0.35342997
+Free Cashflow: 25525000
+Operating Cashflow: 290023008
+Return On Assets: 0.30366
+Return On Equity: 0.73107004
+Total Cash: 121311000
+Total Debt: 75204000
+Debt To Equity: 21.321
+Current Ratio: 3.831
+Quick Ratio: 1.064
+Trailing PE: 21.475296
+Forward PE: 12.348295
+Price To Book: 8.349213
+Beta: 3.866
+52 Week High: 286.45
+52 Week Low: 65.46

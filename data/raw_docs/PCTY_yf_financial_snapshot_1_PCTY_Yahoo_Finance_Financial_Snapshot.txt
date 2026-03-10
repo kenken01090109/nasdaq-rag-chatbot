@@ -1,0 +1,25 @@
+Company: Paylocity Holding Corporation Common Stock
+Ticker: PCTY
+Market Cap: 6531231232
+Enterprise Value: 6109615616
+Total Revenue: 1679591040
+Revenue Per Share: 30.506
+EBITDA: 380790016
+Gross Margins: 0.69144994
+Operating Margins: 0.05434
+Profit Margins: 0.14187
+Free Cashflow: 375084384
+Operating Cashflow: 476024992
+Return On Assets: 0.034590002
+Return On Equity: 0.20989001
+Total Cash: 206743008
+Total Debt: 67201000
+Debt To Equity: 14.09
+Current Ratio: 1.038
+Quick Ratio: 0.036
+Trailing PE: 28.325474
+Forward PE: 14.405696
+Price To Book: 5.8910093
+Beta: 0.602
+52 Week High: 201.971
+52 Week Low: 100.5

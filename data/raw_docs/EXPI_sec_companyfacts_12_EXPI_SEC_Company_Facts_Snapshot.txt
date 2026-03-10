@@ -1,0 +1,12 @@
+Company: eXp World Holdings Inc. Common Stock
+Ticker: EXPI
+CIK: 0001495932
+Latest SEC XBRL Facts:
+Revenues: 157033632 | unit=USD | filed=2019-05-10 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3580466000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -9818000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 458743000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 223478000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 235265000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 104817000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 112761000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: TherapeuticsMD Inc. Common Stock
+Ticker: TXMD
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Boca Raton
+Website: https://www.therapeuticsmd.com
+Employees: 1
+Business Summary: TherapeuticsMD, Inc. operates as a pharmaceutical royalty company in the United States. It has a license agreement with Mayne Pharma to commercialize the IMVEXXY, BIJUVA, and ANNOVERA prescription prenatal vitamin products sold under the BocaGreenMD and vitaMedMD brand names. The company sells its prescription pharmaceutical products and prenatal vitamin products through wholesale distributors and retail pharmacy distributors. TherapeuticsMD, Inc. was founded in 2008 and is headquartered in Boca Raton, Florida.

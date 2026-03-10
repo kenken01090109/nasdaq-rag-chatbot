@@ -1,0 +1,25 @@
+Company: Shopify Inc. Class A Subordinate Voting Shares
+Ticker: SHOP
+Market Cap: 169921888256
+Enterprise Value: 170122166272
+Total Revenue: 11555999744
+Revenue Per Share: 8.896
+EBITDA: 1928999936
+Gross Margins: 0.4807
+Operating Margins: 0.20289
+Profit Margins: 0.106520005
+Free Cashflow: 1286249984
+Operating Cashflow: 2032999936
+Return On Assets: 0.08149
+Return On Equity: 0.09836
+Total Cash: 5847000064
+Total Debt: 188000000
+Debt To Equity: 1.395
+Current Ratio: 5.96
+Quick Ratio: 4.584
+Trailing PE: 138.51064
+Forward PE: 56.83728
+Price To Book: 12.600406
+Beta: 2.9
+52 Week High: 182.19
+52 Week Low: 69.84

@@ -1,0 +1,25 @@
+Company: Ares Capital Corporation Common Stock
+Ticker: ARCC
+Market Cap: 13455748096
+Enterprise Value: 28950433792
+Total Revenue: 3052000000
+Revenue Per Share: 4.366
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.75284
+Profit Margins: 0.42562
+Free Cashflow: 689249984
+Operating Cashflow: -1716999936
+Return On Assets: 0.0473
+Return On Equity: 0.09388
+Total Cash: 715000000
+Total Debt: 16023000064
+Debt To Equity: 111.908
+Current Ratio: 0.561
+Quick Ratio: 0.461
+Trailing PE: 10.075269
+Forward PE: 9.724356
+Price To Book: 0.9397252
+Beta: 0.63
+52 Week High: 23.42
+52 Week Low: 18.17

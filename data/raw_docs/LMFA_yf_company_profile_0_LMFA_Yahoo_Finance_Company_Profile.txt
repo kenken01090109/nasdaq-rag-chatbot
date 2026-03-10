@@ -1,0 +1,9 @@
+Company: LM Funding America Inc. Common Stock
+Ticker: LMFA
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Tampa
+Website: https://www.lmfunding.com
+Employees: 9
+Business Summary: LM Funding America, Inc. operates as a cryptocurrency mining and specialty finance company. It operates through two segments, Specialty Finance and Bitcoin Mining Operations. The company also engages in Bitcoin mining operations; and provides funding to nonprofit community associations. LM Funding America, Inc. was founded in 2008 and is based in Tampa, Florida.

@@ -1,0 +1,8 @@
+Company: AbCellera Biologics Inc. Common Shares
+Ticker: ABCL
+Total Cash: 533825984
+Total Debt: 143218000
+Debt To Equity: 14.812
+Current Ratio: 11.324
+Quick Ratio: 10.074
+Book Value: 3.217

@@ -1,0 +1,8 @@
+Company: Avalon GloboCare Corp. Common Stock
+Ticker: ALBT
+Total Cash: 333931
+Total Debt: 7246874
+Debt To Equity: 
+Current Ratio: 0.154
+Quick Ratio: 0.107
+Book Value: -4.179

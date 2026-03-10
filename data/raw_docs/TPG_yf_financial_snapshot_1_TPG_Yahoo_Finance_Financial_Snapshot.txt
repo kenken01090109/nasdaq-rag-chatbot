@@ -1,0 +1,25 @@
+Company: TPG Inc. Class A Common Stock
+Ticker: TPG
+Market Cap: 16594306048
+Enterprise Value: 11445421056
+Total Revenue: 4670212096
+Revenue Per Share: 33.628
+EBITDA: 853857984
+Gross Margins: 0.32860002
+Operating Margins: 0.19957
+Profit Margins: 0.03952
+Free Cashflow: 1244588160
+Operating Cashflow: 1032395008
+Return On Assets: 0.0369
+Return On Equity: 0.15516
+Total Cash: 826105024
+Total Debt: 2415334912
+Debt To Equity: 58.393
+Current Ratio: 5.479
+Quick Ratio: 5.11
+Trailing PE: 95.71111
+Forward PE: 11.618874
+Price To Book: 5.8038
+Beta: 1.538
+52 Week High: 70.38
+52 Week Low: 37.52

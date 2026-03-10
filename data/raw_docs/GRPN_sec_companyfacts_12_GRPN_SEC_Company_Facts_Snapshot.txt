@@ -1,0 +1,12 @@
+Company: Groupon Inc. Common Stock
+Ticker: GRPN
+CIK: 0001490281
+Latest SEC XBRL Facts:
+Revenues: 612316000 | unit=USD | filed=2020-02-18 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 365714000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -90860000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 608177000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 667564000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -59552000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7891000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 238451000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

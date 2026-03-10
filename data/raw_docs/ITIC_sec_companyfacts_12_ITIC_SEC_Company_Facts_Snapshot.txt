@@ -1,0 +1,12 @@
+Company: Investors Title Company Common Stock
+Ticker: ITIC
+CIK: 0000720858
+Latest SEC XBRL Facts:
+Revenues: 203237000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 30741000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 27663000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 363322000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 85310000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 278012000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 25943000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22759000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

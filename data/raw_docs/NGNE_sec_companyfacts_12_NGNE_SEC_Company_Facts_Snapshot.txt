@@ -1,0 +1,11 @@
+Company: Neurogene Inc. Common Stock
+Ticker: NGNE
+CIK: 0001404644
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -65616000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 287832000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 22292000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 265540000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -59744000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 71005000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

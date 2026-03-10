@@ -1,0 +1,10 @@
+Company: Trailblazer Merger Corporation I Rights
+Ticker: TBMCR
+CIK: 0001934945
+Latest SEC XBRL Facts:
+NetIncomeLoss: -4384093 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+Assets: 28102696 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+Liabilities: 36123855 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+StockholdersEquity: -11867637 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2102438 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19183 | unit=USD | filed=2025-11-21 | period_end=2025-09-30

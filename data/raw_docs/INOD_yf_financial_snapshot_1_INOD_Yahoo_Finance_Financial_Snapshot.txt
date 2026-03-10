@@ -1,0 +1,25 @@
+Company: Innodata Inc. Common Stock
+Ticker: INOD
+Market Cap: 1438521984
+Enterprise Value: 1394115200
+Total Revenue: 251663008
+Revenue Per Share: 7.912
+EBITDA: 42762000
+Gross Margins: 0.40146
+Operating Margins: 0.15103
+Profit Margins: 0.12787
+Free Cashflow: 23489624
+Operating Cashflow: 46752000
+Return On Assets: 0.17672001
+Return On Equity: 0.37759998
+Total Cash: 82230000
+Total Debt: 4430000
+Debt To Equity: 4.138
+Current Ratio: 2.679
+Quick Ratio: 2.548
+Trailing PE: 44.702972
+Forward PE: 26.023056
+Price To Book: 13.628132
+Beta: 2.481
+52 Week High: 93.85
+52 Week Low: 26.41

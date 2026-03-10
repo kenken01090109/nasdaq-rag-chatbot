@@ -1,0 +1,9 @@
+Company: Quhuo Limited American Depository Shares
+Ticker: QH
+Sector: Technology
+Industry: Software - Application
+Country: China
+City: Beijing
+Website: https://www.quhuo.cn
+Employees: 421
+Business Summary: Quhuo Limited, through its subsidiaries, operates a gig economy platform for life services in the People's Republic of China. It operates through On-Demand Delivery Solutions and Others segments. The company offers on-demand delivery solutions focusing on preparing food and delivering of other items, such as grocery and fresh food; and mobility service solutions comprise ride-hailing solutions, shared-bike maintenance, freight service, and vehicle export solutions. It also provides housekeeping solutions for hotels, B&Bs, and short-term rental properties. In addition, the company offers Quhuo+, a technology infrastructure providing training, onboarding logistics, management support, and other value-added services for workers. Further, it engages in the development of computer software and applications; and B&B operations. Quhuo Limited was founded in 2012 and is based in Beijing, the People's Republic of China.

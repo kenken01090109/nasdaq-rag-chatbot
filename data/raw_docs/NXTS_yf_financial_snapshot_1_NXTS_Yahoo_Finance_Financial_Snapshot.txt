@@ -1,0 +1,25 @@
+Company: Nexentis Technologies Inc. Common Stock
+Ticker: NXTS
+Market Cap: 
+Enterprise Value: -2853703
+Total Revenue: 209000
+Revenue Per Share: 0.362
+EBITDA: -6024000
+Gross Margins: 0.64593005
+Operating Margins: -663.0
+Profit Margins: 0.0
+Free Cashflow: -3829648
+Operating Cashflow: -2803000
+Return On Assets: -0.44776002
+Return On Equity: -1.01611
+Total Cash: 6284000
+Total Debt: 1135000
+Debt To Equity: 13.082
+Current Ratio: 4.206
+Quick Ratio: 3.054
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.13976347
+Beta: 1.806
+52 Week High: 29.4
+52 Week Low: 0.77

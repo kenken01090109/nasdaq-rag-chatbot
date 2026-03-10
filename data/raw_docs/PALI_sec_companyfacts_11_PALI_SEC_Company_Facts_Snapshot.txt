@@ -1,0 +1,12 @@
+Company: Palisade Bio Inc. Common Stock
+Ticker: PALI
+CIK: 0001357459
+Latest SEC XBRL Facts:
+Revenues: 7500 | unit=USD | filed=2017-11-08 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetIncomeLoss: -7882000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 6973000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3761000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 3212000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7703000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5227000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

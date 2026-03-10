@@ -1,0 +1,25 @@
+Company: Casey's General Stores Inc. Common Stock
+Ticker: CASY
+Market Cap: 24634681344
+Enterprise Value: 27060291584
+Total Revenue: 16969580544
+Revenue Per Share: 456.988
+EBITDA: 1322883968
+Gross Margins: 0.24
+Operating Margins: 0.06628
+Profit Margins: 0.03578
+Free Cashflow: 508684000
+Operating Cashflow: 1258283008
+Return On Assets: 0.06903
+Return On Equity: 0.16989
+Total Cash: 492016000
+Total Debt: 2917623040
+Debt To Equity: 76.588
+Current Ratio: 1.05
+Quick Ratio: 0.61
+Trailing PE: 40.923645
+Forward PE: 34.347603
+Price To Book: 6.476699
+Beta: 0.646
+52 Week High: 690.0
+52 Week Low: 372.09

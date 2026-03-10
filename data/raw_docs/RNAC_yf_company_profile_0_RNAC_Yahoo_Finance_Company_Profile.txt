@@ -1,0 +1,9 @@
+Company: Cartesian Therapeutics Inc. Common Stock
+Ticker: RNAC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Frederick
+Website: https://www.cartesiantherapeutics.com
+Employees: 66
+Business Summary: Cartesian Therapeutics, Inc., a clinical-stage biotechnology company, provides mRNA cell therapies for the treatment of autoimmune diseases. The company's lead product candidate is Descartes-08, an autologous mRNA CAR-T directed against the B cell maturation antigen (BCMA), which is in Phase 2b clinical trials for the treatment of autoimmune diseases, generalized myasthenia gravis, and systemic lupus erythematosus, as well as rare pediatric disease designation for the treatment of juvenile dermatomyositis. It is also developing Descartes-15, an autologous anti-BCMA mRNA CAR-T to treat autoimmune diseases, such as relapsed/refractory multiple myeloma. The company is headquartered in Frederick, Maryland.

@@ -1,0 +1,11 @@
+Company: Red Rock Resorts Inc. Class A Common Stock
+Ticker: RRR
+CIK: 0001653653
+Latest SEC XBRL Facts:
+Revenues: 1499706000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 143407000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4096230000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3765372000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 219611000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 452956000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 129760000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

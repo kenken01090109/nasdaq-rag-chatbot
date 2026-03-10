@@ -1,0 +1,25 @@
+Company: Agora Inc. American Depositary Shares
+Ticker: API
+Market Cap: 393746528
+Enterprise Value: 1378813056
+Total Revenue: 141056992
+Revenue Per Share: 1.534
+EBITDA: -3474000
+Gross Margins: 0.66402
+Operating Margins: -0.02566
+Profit Margins: 0.06755
+Free Cashflow: -9502750
+Operating Cashflow: 27233000
+Return On Assets: -0.00828
+Return On Equity: 0.01678
+Total Cash: 219488992
+Total Debt: 82340000
+Debt To Equity: 14.629
+Current Ratio: 4.58
+Quick Ratio: 4.305
+Trailing PE: 62.000004
+Forward PE: -48.22222
+Price To Book: 0.6733902
+Beta: 0.656
+52 Week High: 5.71
+52 Week Low: 2.525

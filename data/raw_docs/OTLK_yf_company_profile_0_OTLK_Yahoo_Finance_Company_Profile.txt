@@ -1,0 +1,9 @@
+Company: Outlook Therapeutics Inc. Common Stock
+Ticker: OTLK
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Iselin
+Website: https://outlooktherapeutics.com
+Employees: 17
+Business Summary: Outlook Therapeutics, Inc., operates as a clinical-stage biopharmaceutical company, focuses on developing and commercializing monoclonal antibodies for ophthalmic indications. Its lead product candidate is ONS-5010, an ophthalmic bevacizumab product formulation of bevacizumab product candidate that is in Phase-III clinical trial for the treatment of wet age-related macular degeneration and other retina diseases. Outlook Therapeutics, Inc. has collaboration agreements with Cencora. Outlook Therapeutics, Inc. was formerly known as Oncobiologics, Inc. and changed its name to Outlook Therapeutics, Inc. in November 2018. Outlook Therapeutics, Inc. was incorporated in 2010 and is based in Iselin, New Jersey.

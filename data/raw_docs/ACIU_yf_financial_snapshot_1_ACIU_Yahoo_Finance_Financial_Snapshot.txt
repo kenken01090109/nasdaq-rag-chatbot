@@ -1,0 +1,25 @@
+Company: AC Immune SA Common Stock
+Ticker: ACIU
+Market Cap: 280673984
+Enterprise Value: 177686464
+Total Revenue: 4372000
+Revenue Per Share: 0.044
+EBITDA: -71652000
+Gross Margins: 0.0
+Operating Margins: -16.71885
+Profit Margins: 0.0
+Free Cashflow: -18465750
+Operating Cashflow: -46820000
+Return On Assets: -0.21965
+Return On Equity: -0.74628997
+Total Cash: 108468000
+Total Debt: 4661000
+Debt To Equity: 7.464
+Current Ratio: 1.157
+Quick Ratio: 1.124
+Trailing PE: 
+Forward PE: -3.813383
+Price To Book: 3.5197096
+Beta: 1.65
+52 Week High: 4.0
+52 Week Low: 1.43

@@ -1,0 +1,9 @@
+Company: Kentucky First Federal Bancorp Common Stock
+Ticker: KFFB
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Hazard
+Website: https://ffsbky.bank
+Employees: 54
+Business Summary: Kentucky First Federal Bancorp operates as the holding company for First Federal Savings and Loan Association of Hazard, Kentucky, and Frankfort First Bancorp, Inc. that provides various banking products and services in Kentucky. The company is involved in attracting deposits from the general public and applying those funds to the origination of loans for residential and consumer purposes. Its loan portfolio comprises one-to four-family, multi-family, and construction residential real estate loans; nonresidential real estate loans comprising of commercial office buildings, churches and properties used for other purposes; and consumer loans, including home equity lines of credit, loans secured by savings deposits, automobile loans, and unsecured loans, as well as commercial non-mortgage loans. Kentucky First Federal Bancorp was incorporated in 2005 and is based in Hazard, Kentucky. Kentucky First Federal Bancorp operates as a subsidiary of First Federal MHC.

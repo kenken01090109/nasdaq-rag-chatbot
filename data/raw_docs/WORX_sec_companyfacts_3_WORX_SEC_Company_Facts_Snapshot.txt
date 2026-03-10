@@ -1,0 +1,11 @@
+Company: SCWorx Corp. Common Stock
+Ticker: WORX
+CIK: 0001674227
+Latest SEC XBRL Facts:
+Revenues: 2108730 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -3694927 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 7175749 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1178419 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 5997330 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1414534 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72429 | unit=USD | filed=2023-11-14 | period_end=2023-09-30

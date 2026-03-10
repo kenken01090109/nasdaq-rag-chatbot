@@ -1,0 +1,11 @@
+Company: Optical Cable Corporation Common Stock
+Ticker: OCC
+CIK: 0001000230
+Latest SEC XBRL Facts:
+Revenues: 67555313 | unit=USD | filed=2018-09-11 | period_end=2018-07-31
+NetIncomeLoss: -1503467 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Assets: 40167958 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Liabilities: 18735906 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+StockholdersEquity: 18229727 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: 616745 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 421414 | unit=USD | filed=2025-09-11 | period_end=2025-07-31

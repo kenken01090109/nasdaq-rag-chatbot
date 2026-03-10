@@ -1,0 +1,9 @@
+Company: Trinity Capital Inc. Common Stock
+Ticker: TRIN
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Phoenix
+Website: https://www.trinitycapital.com
+Employees: 106
+Business Summary: Trinity Capital Inc. is a business development company specializing in term loans, equipment financing, and private equity-related investments. The firm provides tech lending, equipment financing, life sciences, warehouse lending, and sponsor finance sources. They provide investors with stable and consistent returns through access to the private credit market. Trinity Capital Inc. was founded in 2019 and is based in Phoenix, Arizona, with additional offices in San Diego, California.

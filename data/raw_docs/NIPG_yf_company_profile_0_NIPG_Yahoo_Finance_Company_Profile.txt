@@ -1,0 +1,9 @@
+Company: NIP Group Inc. American Depositary Shares
+Ticker: NIPG
+Sector: Communication Services
+Industry: Entertainment
+Country: Sweden
+City: Stockholm
+Website: https://nipg.com
+Employees: 339
+Business Summary: NIP Group Inc. enagges in the esports teams, operation, talent management service, and event production in the People's Republic of China and Sweden. It operates Ninjas in Pyjamas, a PC/console esports brand; and digital sports group ESV5, which includes eStar Gaming, a mobile esports entity. The company is also involved in esports team operations, talent management, event production, hospitality, and game publishing businesses. It operates in Abu Dhabi, United Arab Emirates, Stockholm, Sweden, Sao Paolo, Brazil, and both Shenzhen and Wuhan, China. The company is based in Stockholm, Sweden.

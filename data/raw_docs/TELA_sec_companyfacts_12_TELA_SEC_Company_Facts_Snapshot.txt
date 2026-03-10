@@ -1,0 +1,11 @@
+Company: TELA Bio Inc. Common Stock
+Ticker: TELA
+CIK: 0001561921
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 59406000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -29790000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 61587000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 60030000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1557000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23349000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29713000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

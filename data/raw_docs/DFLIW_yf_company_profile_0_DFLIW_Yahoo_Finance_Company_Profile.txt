@@ -1,0 +1,9 @@
+Company: Dragonfly Energy Holdings Corp. Warrant
+Ticker: DFLIW
+Sector: 
+Industry: 
+Country: United States
+City: Reno
+Website: https://dragonflyenergy.com
+Employees: 139
+Business Summary: Dragonfly Energy Holdings Corp. engages in the manufacturing and sale of deep cycle lithium-ion batteries for recreational vehicles, marine vessels, solar and off-grid residence industries, and industrial and energy storage markets. It operates in two segments, direct-to-consumers and original equipment manufacturers. The company provides lithium power systems comprising solar panels, chargers and inverters, system monitoring, alternator regulators, accessories, and others. It also offers battery management systems for monitoring and controlling of battery systems, and to protect battery cells from damage in various scenarios. The company provides its products under the Dragonfly Energy, Battle Born, and Wakespeed brand names. Dragonfly Energy Holdings Corp. is headquartered in Reno, Nevada.

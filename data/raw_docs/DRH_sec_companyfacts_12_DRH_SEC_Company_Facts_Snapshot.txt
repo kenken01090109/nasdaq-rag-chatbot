@@ -1,0 +1,11 @@
+Company: Diamondrock Hospitality Company Common Stock
+Ticker: DRH
+CIK: 0001298946
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 845957000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 75217000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3146403000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1568937000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1568366000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 175730000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 145336000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

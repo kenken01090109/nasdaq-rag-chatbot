@@ -1,0 +1,10 @@
+Company: Utah Medical Products Inc. Common Stock
+Ticker: UTMD
+CIK: 0000706698
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 29475000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 121975000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 3723000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 118252000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11215000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 84267000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

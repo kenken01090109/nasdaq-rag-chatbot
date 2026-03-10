@@ -1,0 +1,25 @@
+Company: Shenandoah Telecommunications Co Common Stock
+Ticker: SHEN
+Market Cap: 845009152
+Enterprise Value: 1556266368
+Total Revenue: 357854016
+Revenue Per Share: 6.495
+EBITDA: 109549000
+Gross Margins: 0.63639
+Operating Margins: -0.00774
+Profit Margins: -0.110080004
+Free Cashflow: -265930752
+Operating Cashflow: 100998000
+Return On Assets: -0.0075499997
+Return On Equity: -0.03344
+Total Cash: 27259000
+Total Debt: 643926976
+Debt To Equity: 66.433
+Current Ratio: 0.898
+Quick Ratio: 0.565
+Trailing PE: 
+Forward PE: -15.128713
+Price To Book: 0.9523809
+Beta: 0.704
+52 Week High: 15.92
+52 Week Low: 9.67

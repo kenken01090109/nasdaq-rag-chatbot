@@ -1,0 +1,12 @@
+Company: Robo.ai Inc. Warrant
+Ticker: AIIOW
+Total Revenue: 5742000
+Revenue Per Share: 0.02
+Gross Margins: 0.54528
+Operating Margins: -7.3588
+EBITDA: -83994000
+Profit Margins: 0.0
+Free Cashflow: -31292124
+Operating Cashflow: 53906000
+Return On Assets: -0.60959
+Return On Equity: 

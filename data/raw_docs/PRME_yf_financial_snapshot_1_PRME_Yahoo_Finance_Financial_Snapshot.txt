@@ -1,0 +1,25 @@
+Company: Prime Medicine Inc. Common Stock
+Ticker: PRME
+Market Cap: 723847744
+Enterprise Value: 634669952
+Total Revenue: 4632000
+Revenue Per Share: 0.031
+EBITDA: -201028992
+Gross Margins: 0.0
+Operating Margins: -58.004772
+Profit Margins: 0.0
+Free Cashflow: -85365752
+Operating Cashflow: -162564000
+Return On Assets: -0.40678
+Return On Equity: -1.4681
+Total Cash: 177680000
+Total Debt: 116427000
+Debt To Equity: 96.326
+Current Ratio: 4.841
+Quick Ratio: 4.745
+Trailing PE: 
+Forward PE: -4.93581
+Price To Book: 5.8711567
+Beta: 2.578
+52 Week High: 6.94
+52 Week Low: 1.11

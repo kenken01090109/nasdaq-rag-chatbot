@@ -1,0 +1,25 @@
+Company: Supernus Pharmaceuticals Inc. Common Stock
+Ticker: SUPN
+Market Cap: 3095233536
+Enterprise Value: 2857266432
+Total Revenue: 718952000
+Revenue Per Share: 12.736
+EBITDA: 44399000
+Gross Margins: 0.89629
+Operating Margins: -0.28904
+Profit Margins: -0.05362
+Free Cashflow: 55716500
+Operating Cashflow: 47331000
+Return On Assets: -0.0209
+Return On Equity: -0.036760002
+Total Cash: 308670016
+Total Debt: 40977000
+Debt To Equity: 3.86
+Current Ratio: 1.905
+Quick Ratio: 1.468
+Trailing PE: 
+Forward PE: 12.765403
+Price To Book: 2.9153585
+Beta: 0.718
+52 Week High: 59.68
+52 Week Low: 29.16

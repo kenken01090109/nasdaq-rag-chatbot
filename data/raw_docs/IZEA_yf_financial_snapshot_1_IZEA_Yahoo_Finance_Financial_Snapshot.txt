@@ -1,0 +1,25 @@
+Company: IZEA Worldwide Inc. Common Stock
+Ticker: IZEA
+Market Cap: 66447920
+Enterprise Value: 15075914
+Total Revenue: 36176492
+Revenue Per Share: 2.109
+EBITDA: -2671945
+Gross Margins: 0.45298
+Operating Margins: -0.04093
+Profit Margins: -0.09435
+Free Cashflow: -2320500
+Operating Cashflow: -363971
+Return On Assets: -0.03287
+Return On Equity: -0.06617
+Total Cash: 51390884
+Total Debt: 18880
+Debt To Equity: 0.038
+Current Ratio: 6.944
+Quick Ratio: 6.849
+Trailing PE: 
+Forward PE: -9.463415
+Price To Book: 1.3255894
+Beta: 1.251
+52 Week High: 5.859
+52 Week Low: 1.68

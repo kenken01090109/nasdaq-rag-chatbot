@@ -1,0 +1,11 @@
+Company: Bassett Furniture Industries Incorporated Common Stock
+Ticker: BSET
+CIK: 0000010329
+Latest SEC XBRL Facts:
+Revenues: 340208000 | unit=USD | filed=2018-09-27 | period_end=2018-08-25
+RevenueFromContractWithCustomerExcludingAssessedTax: 246613000 | unit=USD | filed=2025-10-08 | period_end=2025-08-30
+NetIncomeLoss: 4573000 | unit=USD | filed=2025-10-08 | period_end=2025-08-30
+Assets: 324241000 | unit=USD | filed=2025-10-08 | period_end=2025-08-30
+StockholdersEquity: 165718000 | unit=USD | filed=2025-10-08 | period_end=2025-08-30
+NetCashProvidedByUsedInOperatingActivities: 5726000 | unit=USD | filed=2025-10-08 | period_end=2025-08-30
+CashAndCashEquivalentsAtCarryingValue: 34413000 | unit=USD | filed=2025-10-08 | period_end=2025-08-30

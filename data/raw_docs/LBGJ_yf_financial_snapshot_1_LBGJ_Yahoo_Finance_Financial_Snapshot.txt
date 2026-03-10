@@ -1,0 +1,25 @@
+Company: Li Bang International Corporation Inc. Class A Ordinary Shares
+Ticker: LBGJ
+Market Cap: 1754812
+Enterprise Value: 8844291
+Total Revenue: 11106078
+Revenue Per Share: 0.611
+EBITDA: -929364
+Gross Margins: 0.2925
+Operating Margins: -0.02722
+Profit Margins: -0.09126
+Free Cashflow: -2449627
+Operating Cashflow: -926667
+Return On Assets: -0.03204
+Return On Equity: -0.16829
+Total Cash: 3587976
+Total Debt: 10654794
+Debt To Equity: 136.348
+Current Ratio: 1.177
+Quick Ratio: 0.938
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.22285715
+Beta: 
+52 Week High: 2.0
+52 Week Low: 0.081

@@ -1,0 +1,11 @@
+Company: Alkermes plc Ordinary Shares
+Ticker: ALKS
+CIK: 0001520262
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1091352000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 192323000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 2329512000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 596080000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 1733432000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 350685000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 616449000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

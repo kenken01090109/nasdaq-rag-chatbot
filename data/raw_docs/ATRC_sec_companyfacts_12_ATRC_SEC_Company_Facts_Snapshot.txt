@@ -1,0 +1,12 @@
+Company: AtriCure Inc. Common Stock
+Ticker: ATRC
+CIK: 0001323885
+Latest SEC XBRL Facts:
+Revenues: 98796000 | unit=USD | filed=2018-08-02 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 394028000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -13204000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 635442000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 158935000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 476507000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 37307000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 147865000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

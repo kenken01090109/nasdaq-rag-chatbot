@@ -1,0 +1,25 @@
+Company: Greenland Technologies Holding Corporation Class A Ordinary Shares
+Ticker: GTEC
+Market Cap: 16370403
+Enterprise Value: -24275408
+Total Revenue: 86168664
+Revenue Per Share: 5.672
+EBITDA: 13455593
+Gross Margins: 0.29165
+Operating Margins: 0.21646
+Profit Margins: 0.16374001
+Free Cashflow: 16338614
+Operating Cashflow: 12157424
+Return On Assets: 0.05631
+Return On Equity: 0.20955
+Total Cash: 33040642
+Total Debt: 1395733
+Debt To Equity: 1.998
+Current Ratio: 1.934
+Quick Ratio: 1.388
+Trailing PE: 0.75864583
+Forward PE: 2.4276664
+Price To Book: 0.16796586
+Beta: 0.036
+52 Week High: 2.58
+52 Week Low: 0.581

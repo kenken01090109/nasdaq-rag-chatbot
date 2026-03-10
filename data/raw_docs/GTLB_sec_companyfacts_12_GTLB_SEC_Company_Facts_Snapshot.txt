@@ -1,0 +1,11 @@
+Company: GitLab Inc. Class A Common Stock
+Ticker: GTLB
+CIK: 0001653482
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 694822000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetIncomeLoss: -53359000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Assets: 1570839000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+Liabilities: 602842000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+StockholdersEquity: 922715000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 187099000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 224231000 | unit=USD | filed=2025-12-03 | period_end=2025-10-31

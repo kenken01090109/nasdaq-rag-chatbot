@@ -1,0 +1,25 @@
+Company: DENTSPLY SIRONA Inc. Common Stock
+Ticker: XRAY
+Market Cap: 2544806400
+Enterprise Value: 4788658688
+Total Revenue: 3680000000
+Revenue Per Share: 18.455
+EBITDA: 597000000
+Gross Margins: 0.5
+Operating Margins: 0.017690001
+Profit Margins: -0.1625
+Free Cashflow: 106375000
+Operating Cashflow: 235000000
+Return On Assets: 0.027390001
+Return On Equity: -0.3643
+Total Cash: 354000000
+Total Debt: 2479000064
+Debt To Equity: 185.0
+Current Ratio: 1.506
+Quick Ratio: 0.812
+Trailing PE: 
+Forward PE: 8.199412
+Price To Book: 1.8992248
+Beta: 0.93
+52 Week High: 17.18
+52 Week Low: 9.85

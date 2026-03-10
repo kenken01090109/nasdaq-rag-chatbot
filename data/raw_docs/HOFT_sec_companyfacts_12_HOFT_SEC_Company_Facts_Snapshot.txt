@@ -1,0 +1,10 @@
+Company: Hooker Furnishings Corporation Common Stock
+Ticker: HOFT
+CIK: 0001077688
+Latest SEC XBRL Facts:
+NetIncomeLoss: -27503000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+Assets: 240237000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+Liabilities: 70481000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+StockholdersEquity: 169756000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+NetCashProvidedByUsedInOperatingActivities: 18107000 | unit=USD | filed=2025-09-12 | period_end=2025-08-03
+CashAndCashEquivalentsAtCarryingValue: 1354000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02

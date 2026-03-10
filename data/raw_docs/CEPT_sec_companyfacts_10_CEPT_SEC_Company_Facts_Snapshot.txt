@@ -1,0 +1,10 @@
+Company: Cantor Equity Partners II Inc. Class A Ordinary Share
+Ticker: CEPT
+CIK: 0002034269
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3773699 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 244407081 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 166331 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -3489533 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13659 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

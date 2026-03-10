@@ -1,0 +1,9 @@
+Company: Sidus Space Inc. Class A Common Stock
+Ticker: SIDU
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Merritt Island
+Website: https://www.sidusspace.com
+Employees: 104
+Business Summary: Sidus Space, Inc. engages in the design, manufacture, launch, and data collection of commercial satellite worldwide. The company's space services include satellite design and manufacturing, such as LizzieSat, LizzieSat-XL, and Lunar Lizzie. It also offers technology hosting and mission management AI-enhanced Data-as-a-Service, utilizing the Orlaith AI ecosystem, which includes FeatherEdge AI processor, and Cielo AI solutions from space, on the LizzieSat platform to deliver timely data insights from space. The company also provides space and defense manufacturing, a mission-critical components and systems engineered for space environments, including precision machining and assembly; 3D printing; mechanical/electrical assembly and test; and design engineering, as well as technology design and integration. It serves commercial space, aerospace, and defense industries. The company was founded in 2012 and is headquartered in Merritt Island, Florida.

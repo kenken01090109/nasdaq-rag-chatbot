@@ -1,0 +1,25 @@
+Company: ICF International Inc. Common Stock
+Ticker: ICFI
+Market Cap: 1400209024
+Enterprise Value: 1936770688
+Total Revenue: 1872850944
+Revenue Per Share: 101.708
+EBITDA: 203612000
+Gross Margins: 0.37162998
+Operating Margins: 0.06454
+Profit Margins: 0.048899997
+Free Cashflow: 64196000
+Operating Cashflow: 141870000
+Return On Assets: 0.04417
+Return On Equity: 0.09109
+Total Cash: 5297000
+Total Debt: 573398976
+Debt To Equity: 55.752
+Current Ratio: 1.272
+Quick Ratio: 1.108
+Trailing PE: 15.343434
+Forward PE: 9.920323
+Price To Book: 1.3475391
+Beta: 0.434
+52 Week High: 101.71
+52 Week Low: 72.03

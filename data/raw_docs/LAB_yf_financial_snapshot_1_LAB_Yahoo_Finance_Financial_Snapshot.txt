@@ -1,0 +1,25 @@
+Company: Standard BioTools Inc. Common Stock
+Ticker: LAB
+Market Cap: 380796672
+Enterprise Value: 161382048
+Total Revenue: 85331000
+Revenue Per Share: 0.224
+EBITDA: -82328000
+Gross Margins: 0.49855998
+Operating Margins: -0.29424
+Profit Margins: -0.87771004
+Free Cashflow: -166575872
+Operating Cashflow: -74350000
+Return On Assets: -0.09883001
+Return On Equity: -0.13131
+Total Cash: 28451000
+Total Debt: 111648000
+Debt To Equity: 118.026
+Current Ratio: 4.194
+Quick Ratio: 1.856
+Trailing PE: 
+Forward PE: -33.006668
+Price To Book: 0.8024311
+Beta: 1.373
+52 Week High: 1.72
+52 Week Low: 0.92

@@ -1,0 +1,9 @@
+Company: American Battery Technology Company Common Stock
+Ticker: ABAT
+Long Business Summary: American Battery Technology Company operates as a battery materials company in the United States. It explores for resources of battery metals, such as lithium, nickel, cobalt, and manganese; and develops and commercializes technologies for the extraction and refining of battery metals. It also commercializes an integrated process for the recycling of lithium-ion batteries. The company was formerly known as American Battery Metals Corporation and changed its name to American Battery Technology Company in August 2021. American Battery Technology Company was incorporated in 2011 and is headquartered in Reno, Nevada.
+Industry: Waste Management
+Sector: Industrials
+Website: https://americanbatterytechnology.com
+Country: United States
+City: Reno
+Full Time Employees: 157

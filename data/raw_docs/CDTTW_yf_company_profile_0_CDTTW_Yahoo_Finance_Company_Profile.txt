@@ -1,0 +1,9 @@
+Company: CDT Equity Inc. Warrant
+Ticker: CDTTW
+Sector: 
+Industry: 
+Country: United States
+City: Naples
+Website: https://www.conduitpharma.com
+Employees: 6
+Business Summary: CDT Equity Inc., a clinical-stage specialty biopharmaceutical company, develops pharmaceutical products that provides unmet medical needs in the areas of autoimmune diseases and idiopathic male infertility. Its pipeline includes AZD1656, which has completed Phase I trials for the treatment of type 2 diabetes, renal transplant, Hashimoto's thyroiditis, uveitis, and preterm labor; and AZD5904, which has completed Phase I clinical trials for the treatment of idiopathic male infertility. It has strategic services agreement with formulation development CDMO Agility Life Sciences to develop new solid oral-dosage form products. The company was formerly known as Conduit Pharmaceuticals Inc. and changed its name to CDT Equity Inc. in August 2025. The company was founded in 2019 and is based in Naples, Florida.

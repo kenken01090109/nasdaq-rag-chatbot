@@ -1,0 +1,12 @@
+Company: Garrett Motion Inc. Common Stock
+Ticker: GTX
+CIK: 0001735707
+Latest SEC XBRL Facts:
+Revenues: 2693000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2631000000 | unit=USD | filed=2024-10-24 | period_end=2024-09-30
+NetIncomeLoss: 226000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 2436000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 3249000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: -813000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 314000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 230000000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

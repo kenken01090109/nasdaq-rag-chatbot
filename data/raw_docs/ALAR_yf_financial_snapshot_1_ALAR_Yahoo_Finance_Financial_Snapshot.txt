@@ -1,0 +1,25 @@
+Company: Alarum Technologies Ltd. American Depositary Share
+Ticker: ALAR
+Market Cap: 53749072
+Enterprise Value: 517011008
+Total Revenue: 36305000
+Revenue Per Share: 5.01
+EBITDA: 484500
+Gross Margins: 0.62834
+Operating Margins: -0.01053
+Profit Margins: 0.032780003
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0092400005
+Return On Equity: 0.04245
+Total Cash: 14366000
+Total Debt: 3073000
+Debt To Equity: 9.883
+Current Ratio: 2.378
+Quick Ratio: 2.378
+Trailing PE: 37.1
+Forward PE: 67.454544
+Price To Book: 16.979404
+Beta: 0.191
+52 Week High: 18.0
+52 Week Low: 5.45

@@ -1,0 +1,9 @@
+Company: Peloton Interactive Inc. Class A Common Stock
+Ticker: PTON
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: United States
+City: New York
+Website: https://www.onepeloton.com
+Employees: 2605
+Business Summary: Peloton Interactive, Inc. provides fitness and wellness products and services in North America and internationally. The company offers connected fitness products, such as the Peloton Bike, Peloton Bike+, Peloton Tread, Peloton Tread+, and Peloton Row. It also provides all-access, rental, and Peloton App memberships. In addition, the company leases Peloton Bike+ products. The company sells its products through e-commerce and inside sales, retail showrooms, and third-party retailers. Peloton Interactive, Inc. was founded in 2012 and is headquartered in New York, New York.

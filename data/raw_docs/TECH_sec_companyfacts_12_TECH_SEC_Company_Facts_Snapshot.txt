@@ -1,0 +1,11 @@
+Company: Bio-Techne Corp Common Stock
+Ticker: TECH
+CIK: 0000842023
+Latest SEC XBRL Facts:
+Revenues: 582432000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 582432000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 76194000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 2522699000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 2010989000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 109996000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 172879000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

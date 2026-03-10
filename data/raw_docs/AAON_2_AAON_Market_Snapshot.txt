@@ -1,0 +1,10 @@
+Company: AAON Inc. Common Stock
+Ticker: AAON
+Market Cap: 7542986752
+Enterprise Value: 7567727616
+Trailing PE: 76.36363
+Forward PE: 31.19514
+Price To Book: 8.433735
+Beta: 1.13
+52 Week High: 116.04
+52 Week Low: 62.0

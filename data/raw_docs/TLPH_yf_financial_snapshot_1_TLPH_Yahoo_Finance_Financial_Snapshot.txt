@@ -1,0 +1,25 @@
+Company: Talphera Inc. Common Stock
+Ticker: TLPH
+Market Cap: 40433844
+Enterprise Value: 25984094
+Total Revenue: 28000
+Revenue Per Share: 0.001
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -3422.0
+Profit Margins: 0.0
+Free Cashflow: -6503875
+Operating Cashflow: -11182000
+Return On Assets: -0.31463
+Return On Equity: -0.86481005
+Total Cash: 21289000
+Total Debt: 6499000
+Debt To Equity: 33.89
+Current Ratio: 6.825
+Quick Ratio: 6.628
+Trailing PE: 
+Forward PE: -2.9913795
+Price To Book: 2.06057
+Beta: 0.494
+52 Week High: 1.57
+52 Week Low: 0.38

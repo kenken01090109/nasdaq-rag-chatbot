@@ -1,0 +1,12 @@
+Company: Wintrust Financial Corporation Common Stock
+Ticker: WTFC
+CIK: 0001015328
+Latest SEC XBRL Facts:
+Revenues: 1812261000 | unit=USD | filed=2024-11-08 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 265635000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: 600820000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 69629638000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 62583881000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 7045757000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 658689000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 270823000 | unit=USD | filed=2019-05-09 | period_end=2019-03-31

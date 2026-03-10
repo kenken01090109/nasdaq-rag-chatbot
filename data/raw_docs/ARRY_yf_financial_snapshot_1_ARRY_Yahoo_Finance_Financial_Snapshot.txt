@@ -1,0 +1,25 @@
+Company: Array Technologies Inc. Common Stock
+Ticker: ARRY
+Market Cap: 1040901632
+Enterprise Value: 2029434624
+Total Revenue: 1284141056
+Revenue Per Share: 8.419
+EBITDA: 143626000
+Gross Margins: 0.25548
+Operating Margins: -0.07904
+Profit Margins: -0.04068
+Free Cashflow: 68793376
+Operating Cashflow: 101785000
+Return On Assets: 0.04946
+Return On Equity: -0.19021
+Total Cash: 244388000
+Total Debt: 766193024
+Debt To Equity: 294.251
+Current Ratio: 2.305
+Quick Ratio: 1.369
+Trailing PE: 
+Forward PE: 7.737317
+Price To Book: -5.040711
+Beta: 1.822
+52 Week High: 12.23
+52 Week Low: 3.76

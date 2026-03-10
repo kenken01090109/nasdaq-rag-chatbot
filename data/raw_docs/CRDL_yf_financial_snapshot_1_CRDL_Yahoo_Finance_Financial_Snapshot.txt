@@ -1,0 +1,25 @@
+Company: Cardiol Therapeutics Inc. Class A Common Shares
+Ticker: CRDL
+Market Cap: 108419024
+Enterprise Value: 75967512
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -36409240
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -15344989
+Operating Cashflow: -24222644
+Return On Assets: -1.48826
+Return On Equity: -3.4798098
+Total Cash: 11622408
+Total Debt: 134199
+Debt To Equity: 1.404
+Current Ratio: 3.893
+Quick Ratio: 3.593
+Trailing PE: 
+Forward PE: -3.652901
+Price To Book: 12.176226
+Beta: 0.727
+52 Week High: 1.59
+52 Week Low: 0.771

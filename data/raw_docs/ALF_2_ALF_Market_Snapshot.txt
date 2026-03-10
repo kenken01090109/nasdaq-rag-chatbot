@@ -1,0 +1,10 @@
+Company: Centurion Acquisition Corp. Class A Ordinary Shares
+Ticker: ALF
+Market Cap: 387046880
+Enterprise Value: 386819968
+Trailing PE: 31.676472
+Forward PE: 
+Price To Book: -28.796791
+Beta: 
+52 Week High: 10.77
+52 Week Low: 10.18

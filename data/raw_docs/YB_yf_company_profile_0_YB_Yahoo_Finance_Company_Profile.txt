@@ -1,0 +1,9 @@
+Company: Yuanbao Inc. American Depositary Shares
+Ticker: YB
+Sector: Technology
+Industry: Software - Application
+Country: China
+City: Beijing
+Website: https://www.yuanbaobaoxian.cn
+Employees: 497
+Business Summary: Yuanbao Inc., through its subsidiaries, provides online insurance distribution and services in the People's Republic of China. The company offers medical, critical illness, life, and other insurance products. It also provides system services, including precise marketing, analytics, and other system services. Yuanbao Inc. was incorporated in 2019 and is headquartered in Beijing, the People's Republic of China.

@@ -1,0 +1,11 @@
+Company: Deswell Industries Inc. Common Shares
+Ticker: DSWL
+CIK: 0000946936
+Latest SEC XBRL Facts:
+Revenues: 67610000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31
+NetIncomeLoss: 11138000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31
+Assets: 120208000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31
+Liabilities: 18088000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31
+StockholdersEquity: 102120000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 13534000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 28133000 | unit=USD | filed=2025-07-29 | period_end=2025-03-31

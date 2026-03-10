@@ -1,0 +1,10 @@
+Company: Aeluma Inc. Common Stock
+Ticker: ALMU
+Market Cap: 283735104
+Enterprise Value: 246297088
+Trailing PE: 
+Forward PE: -71.454544
+Price To Book: 6.9373345
+Beta: -1.753
+52 Week High: 25.883
+52 Week Low: 5.79

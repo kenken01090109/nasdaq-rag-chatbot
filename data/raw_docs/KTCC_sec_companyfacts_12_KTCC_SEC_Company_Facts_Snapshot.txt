@@ -1,0 +1,11 @@
+Company: Key Tronic Corporation Common Stock
+Ticker: KTCC
+CIK: 0000719733
+Latest SEC XBRL Facts:
+Revenues: 195069000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27
+NetIncomeLoss: -10825000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27
+Assets: 325267000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27
+Liabilities: 219093000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27
+StockholdersEquity: 106174000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 13982000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 788000 | unit=USD | filed=2026-02-09 | period_end=2025-12-27

@@ -1,0 +1,10 @@
+Company: GigCapital8 Corp. Class A Ordinary Shares
+Ticker: GIW
+CIK: 0002080019
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -86973 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3460245 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3522218 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -61973 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

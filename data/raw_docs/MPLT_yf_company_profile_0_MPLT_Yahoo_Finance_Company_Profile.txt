@@ -1,0 +1,9 @@
+Company: MapLight Therapeutics Inc. Common Stock
+Ticker: MPLT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://www.maplightrx.com
+Employees: 114
+Business Summary: MapLight Therapeutics, Inc. operates as a clinical-stage biopharmaceutical company for patients suffering from debilitating central nervous system disorders. The company's products include ML-007C-MA, a fixed-dose combination of an M 1 /M 4 muscarinic agonist for the treatment of schizophrenia and Alzheimer's disease psychosis; ML-004 for the treatment of social communication deficit and/or irritability in autism spectrum disorder; ML-021 for the treatment of motor deficits in Parkinson's disease; and ML-009, a G-protein-coupled receptor 52 positive allosteric modulator for the treatment of hyperactivity, impulsivity and agitation-related disorders. The company also develops platform identifying neural circuits causally linked to disease and targeting those circuits for therapeutic modulation. MapLight Therapeutics, Inc. was formerly known as Alvarado Therapeutics, Inc. and changed its name to MapLight Therapeutics, Inc. in August 2019. MapLight Therapeutics, Inc. was incorporated in 2018 and is based in Redwood City, California.

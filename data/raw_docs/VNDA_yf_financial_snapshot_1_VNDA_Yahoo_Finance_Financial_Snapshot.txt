@@ -1,0 +1,25 @@
+Company: Vanda Pharmaceuticals Inc. Common Stock
+Ticker: VNDA
+Market Cap: 466362368
+Enterprise Value: 216319520
+Total Revenue: 216104992
+Revenue Per Share: 3.667
+EBITDA: -143058000
+Gross Margins: 0.93964
+Operating Margins: -0.70527
+Profit Margins: -1.02022
+Free Cashflow: -49359000
+Operating Cashflow: -109442000
+Return On Assets: -0.16500999
+Return On Equity: -0.50934
+Total Cash: 263847008
+Total Debt: 12622000
+Debt To Equity: 3.858
+Current Ratio: 2.392
+Quick Ratio: 2.194
+Trailing PE: 
+Forward PE: 39.449997
+Price To Book: 1.4252168
+Beta: 0.609
+52 Week High: 9.6
+52 Week Low: 3.81

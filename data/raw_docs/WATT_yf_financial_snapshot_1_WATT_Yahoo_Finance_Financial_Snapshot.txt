@@ -1,0 +1,25 @@
+Company: Energous Corporation Common Stock
+Ticker: WATT
+Market Cap: 23926606
+Enterprise Value: 11467452
+Total Revenue: 3018000
+Revenue Per Share: 2.971
+EBITDA: -10872000
+Gross Margins: 0.36382
+Operating Margins: -1.71619
+Profit Margins: 0.0
+Free Cashflow: -8638875
+Operating Cashflow: -12694000
+Return On Assets: -0.63289
+Return On Equity: -1.7508501
+Total Cash: 12898000
+Total Debt: 1309000
+Debt To Equity: 9.537
+Current Ratio: 4.882
+Quick Ratio: 4.163
+Trailing PE: 
+Forward PE: -5.5555553
+Price To Book: 1.4623771
+Beta: 0.817
+52 Week High: 18.36
+52 Week Low: 3.62

@@ -1,0 +1,12 @@
+Company: Aviat Networks Inc. Common Stock
+Ticker: AVNW
+CIK: 0001377789
+Latest SEC XBRL Facts:
+Revenues: 243858000 | unit=USD | filed=2019-08-27 | period_end=2019-06-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 274911000 | unit=USD | filed=2021-08-25 | period_end=2021-07-02
+NetIncomeLoss: 5880000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+Assets: 659355000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+Liabilities: 387744000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+StockholdersEquity: 271611000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+NetCashProvidedByUsedInOperatingActivities: 12175000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+CashAndCashEquivalentsAtCarryingValue: 86466000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26

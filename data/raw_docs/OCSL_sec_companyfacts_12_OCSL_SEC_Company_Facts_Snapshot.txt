@@ -1,0 +1,10 @@
+Company: Oaktree Specialty Lending Corporation Common Stock
+Ticker: OCSL
+CIK: 0001414932
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5608000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 3098251000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 1662064000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 1436187000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -83452000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 80813000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

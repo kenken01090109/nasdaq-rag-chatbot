@@ -1,0 +1,10 @@
+Company: First Community Corporation Common Stock
+Ticker: FCCO
+CIK: 0000932781
+Latest SEC XBRL Facts:
+NetIncomeLoss: 14375000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2066598000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1905030000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 161568000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15369000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38253000 | unit=USD | filed=2022-11-09 | period_end=2022-09-30

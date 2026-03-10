@@ -1,0 +1,25 @@
+Company: Cyclerion Therapeutics Inc. Common Stock
+Ticker: CYCN
+Market Cap: 5366759
+Enterprise Value: 798758
+Total Revenue: 2855000
+Revenue Per Share: 0.997
+EBITDA: 
+Gross Margins: 0.92644
+Operating Margins: -1.14971
+Profit Margins: -0.77023005
+Free Cashflow: -1446625
+Operating Cashflow: -1375000
+Return On Assets: -0.23514
+Return On Equity: -0.24797001
+Total Cash: 4568000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.775
+Quick Ratio: 5.323
+Trailing PE: 
+Forward PE: -1.0763359
+Price To Book: 0.5462999
+Beta: 1.018
+52 Week High: 3.79
+52 Week Low: 1.027

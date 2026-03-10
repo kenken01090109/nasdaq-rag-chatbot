@@ -1,0 +1,25 @@
+Company: GSI Technology Common Stock
+Ticker: GSIT
+Market Cap: 287318464
+Enterprise Value: 233379424
+Total Revenue: 24686000
+Revenue Per Share: 0.846
+EBITDA: -14290000
+Gross Margins: 0.54602003
+Operating Margins: -1.1366
+Profit Margins: -0.43150002
+Free Cashflow: -4750125
+Operating Cashflow: -12129000
+Return On Assets: -0.13069999
+Return On Equity: -0.18761
+Total Cash: 70672000
+Total Debt: 8772000
+Debt To Equity: 10.49
+Current Ratio: 10.418
+Quick Ratio: 9.671
+Trailing PE: 
+Forward PE: -14.436363
+Price To Book: 3.435742
+Beta: 1.485
+52 Week High: 18.15
+52 Week Low: 1.62

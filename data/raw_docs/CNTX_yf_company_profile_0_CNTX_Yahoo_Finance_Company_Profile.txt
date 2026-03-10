@@ -1,0 +1,9 @@
+Company: Context Therapeutics Inc. Common Stock
+Ticker: CNTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Philadelphia
+Website: https://www.contexttherapeutics.com
+Employees: 12
+Business Summary: Context Therapeutics Inc., a biopharmaceutical company, develops products for the treatment of solid tumors. Its lead program candidate is CTIM-76, an anti-Claudin 6 (CLDN6) x anti-CD3 bispecific antibody that is intended to redirect T-cell-mediated lysis toward malignant cells expressing CLDN6. The company has a collaboration and licensing agreement with Integral Molecular, Inc. for the development of a CLDN6 bispecific monoclonal antibody for cancer therapy. The company was incorporated in 2015 and is headquartered in Philadelphia, Pennsylvania.

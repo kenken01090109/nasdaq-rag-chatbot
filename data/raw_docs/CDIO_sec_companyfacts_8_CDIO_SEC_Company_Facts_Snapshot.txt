@@ -1,0 +1,11 @@
+Company: Cardio Diagnostics Holdings Inc. Common stock
+Ticker: CDIO
+CIK: 0001870144
+Latest SEC XBRL Facts:
+Revenues: 11270 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -5032799 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 8788902 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 637331 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 8151571 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4364984 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

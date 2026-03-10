@@ -1,0 +1,11 @@
+Company: Wingstop Inc. Common Stock
+Ticker: WING
+CIK: 0001636222
+Latest SEC XBRL Facts:
+Revenues: 521159000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetIncomeLoss: 147506000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Assets: 721033000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Liabilities: 1423649000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+StockholdersEquity: -702616000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 95750000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 237640000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27

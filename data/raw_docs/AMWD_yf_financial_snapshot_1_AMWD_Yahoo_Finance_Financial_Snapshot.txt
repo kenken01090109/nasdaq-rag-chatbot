@@ -1,0 +1,25 @@
+Company: American Woodmark Corporation Common Stock
+Ticker: AMWD
+Market Cap: 640770752
+Enterprise Value: 1096244736
+Total Revenue: 1522377984
+Revenue Per Share: 104.135
+EBITDA: 127762000
+Gross Margins: 0.15328
+Operating Margins: -0.00174
+Profit Margins: 0.011519999
+Free Cashflow: 37848000
+Operating Cashflow: 75883000
+Return On Assets: 0.02695
+Return On Equity: 0.01926
+Total Cash: 28261000
+Total Debt: 483735008
+Debt To Equity: 53.635
+Current Ratio: 2.371
+Quick Ratio: 0.88
+Trailing PE: 37.913795
+Forward PE: 24.478619
+Price To Book: 0.7104664
+Beta: 1.274
+52 Week High: 72.16
+52 Week Low: 42.6

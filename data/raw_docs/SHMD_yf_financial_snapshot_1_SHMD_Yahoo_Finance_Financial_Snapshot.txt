@@ -1,0 +1,25 @@
+Company: SCHMID Group N.V. Class A Ordinary Shares
+Ticker: SHMD
+Market Cap: 331949696
+Enterprise Value: 487681536
+Total Revenue: 60836000
+Revenue Per Share: 1.741
+EBITDA: -9023000
+Gross Margins: 0.19799
+Operating Margins: 1.8825799
+Profit Margins: -1.38259
+Free Cashflow: 2250750
+Operating Cashflow: -2578000
+Return On Assets: -0.07198
+Return On Equity: 
+Total Cash: 3791000
+Total Debt: 87127000
+Debt To Equity: 
+Current Ratio: 0.605
+Quick Ratio: 0.418
+Trailing PE: 
+Forward PE: 
+Price To Book: -3.6246364
+Beta: -0.612
+52 Week High: 10.65
+52 Week Low: 2.0

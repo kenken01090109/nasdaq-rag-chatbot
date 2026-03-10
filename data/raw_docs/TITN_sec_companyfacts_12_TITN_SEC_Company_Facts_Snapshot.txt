@@ -1,0 +1,11 @@
+Company: Titan Machinery Inc. Common Stock
+Ticker: TITN
+CIK: 0001409171
+Latest SEC XBRL Facts:
+Revenues: 1785273000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1785273000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+NetIncomeLoss: -18006000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+Assets: 1769360000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+StockholdersEquity: 612626000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 83884000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 146149000 | unit=USD | filed=2022-04-01 | period_end=2022-01-31

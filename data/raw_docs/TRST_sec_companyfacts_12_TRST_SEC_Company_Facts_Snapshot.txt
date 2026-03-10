@@ -1,0 +1,10 @@
+Company: TrustCo Bank Corp NY Common Stock
+Ticker: TRST
+CIK: 0000357301
+Latest SEC XBRL Facts:
+NetIncomeLoss: 45572000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 6349024000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 5657011000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 692013000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 41133000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 695556000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

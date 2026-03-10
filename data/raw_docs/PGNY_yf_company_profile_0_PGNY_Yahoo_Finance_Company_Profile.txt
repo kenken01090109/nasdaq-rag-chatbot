@@ -1,0 +1,9 @@
+Company: Progyny Inc. Common Stock
+Ticker: PGNY
+Sector: Healthcare
+Industry: Healthcare Plans
+Country: United States
+City: New York
+Website: https://www.progyny.com
+Employees: 835
+Business Summary: Progyny, Inc., a benefits management company, provides fertility, family building, and women's health benefits solutions in the United States. It offers fertility benefits solutions, such as differentiated benefits plan design that includes smart cycle treatment bundle; personalized concierge-style member support services; and a selective network of fertility specialists. The company also offers Progyny Rx, an integrated pharmacy benefits solution that provides access to the medications needed during their treatment and offers care management services, as well as pregnancy and postpartum, menopause and midlife, benefit and leave navigation, and parent and child wellbeing solutions. In addition, it provides assistance service program where various services can be offered through a reimbursement program, including adoption, surrogacy, doula, and travel reimbursement when travel is required to receive medical services. The company was formerly known as Auxogyn, Inc. and changed its name to Progyny, Inc. in 2015. Progyny, Inc. was incorporated in 2008 and is headquartered in New York, New York.

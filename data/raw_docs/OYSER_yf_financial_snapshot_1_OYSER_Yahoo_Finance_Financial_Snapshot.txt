@@ -1,0 +1,25 @@
+Company: Oyster Enterprises II Acquisition Corp Rights
+Ticker: OYSER
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 934755
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.78602624
+Beta: 
+52 Week High: 0.233
+52 Week Low: 0.11

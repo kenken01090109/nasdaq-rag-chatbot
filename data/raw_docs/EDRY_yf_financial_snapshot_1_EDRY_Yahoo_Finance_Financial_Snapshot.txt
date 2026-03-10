@@ -1,0 +1,25 @@
+Company: EuroDry Ltd. Common Shares
+Ticker: EDRY
+Market Cap: 58389052
+Enterprise Value: 151167280
+Total Revenue: 52264140
+Revenue Per Share: 18.964
+EBITDA: 12587067
+Gross Margins: 0.36019
+Operating Margins: 0.2674
+Profit Margins: -0.081590004
+Free Cashflow: 9860067
+Operating Cashflow: 12760620
+Return On Assets: 0.00051
+Return On Equity: -0.03641
+Total Cash: 20315532
+Total Debt: 102878544
+Debt To Equity: 100.362
+Current Ratio: 1.529
+Quick Ratio: 1.312
+Trailing PE: 
+Forward PE: 6.362205
+Price To Book: 0.62598777
+Beta: 0.842
+52 Week High: 23.98
+52 Week Low: 7.6

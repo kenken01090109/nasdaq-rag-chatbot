@@ -1,0 +1,11 @@
+Company: Gemini Space Station Inc. Class A Common Stock
+Ticker: GEMI
+CIK: 0002055592
+Latest SEC XBRL Facts:
+Revenues: 119229000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -441990000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2338210000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1684648000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 653562000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -80199000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 487462000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

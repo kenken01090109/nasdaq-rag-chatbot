@@ -1,0 +1,25 @@
+Company: Alset Inc. Common Stock (TX)
+Ticker: AEI
+Market Cap: 60303144
+Enterprise Value: 32133766
+Total Revenue: 12108028
+Revenue Per Share: 0.749
+EBITDA: -4713170
+Gross Margins: 0.44487998
+Operating Margins: -2.01005
+Profit Margins: -1.05021
+Free Cashflow: 5580628
+Operating Cashflow: 8416020
+Return On Assets: -0.02791
+Return On Equity: -0.10515001
+Total Cash: 39325816
+Total Debt: 2442238
+Debt To Equity: 1.486
+Current Ratio: 10.585
+Quick Ratio: 9.935
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.3893494
+Beta: 1.356
+52 Week High: 4.55
+52 Week Low: 0.7

@@ -1,0 +1,25 @@
+Company: BNB Plus Corp. Common Stock
+Ticker: BNBX
+Market Cap: 3813228
+Enterprise Value: 1035880
+Total Revenue: 1832038
+Revenue Per Share: 0.668
+EBITDA: -28339856
+Gross Margins: 0.29913
+Operating Margins: -32.48758
+Profit Margins: 0.0
+Free Cashflow: -17404216
+Operating Cashflow: -14737745
+Return On Assets: -0.97967005
+Return On Equity: -1.99142
+Total Cash: 2450536
+Total Debt: 48861
+Debt To Equity: 0.265
+Current Ratio: 2.318
+Quick Ratio: 1.359
+Trailing PE: 0.0024788412
+Forward PE: 
+Price To Book: 0.17734988
+Beta: 0.69
+52 Week High: 112.5
+52 Week Low: 0.61

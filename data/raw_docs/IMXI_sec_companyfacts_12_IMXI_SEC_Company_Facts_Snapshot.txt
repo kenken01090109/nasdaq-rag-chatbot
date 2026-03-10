@@ -1,0 +1,11 @@
+Company: International Money Express Inc. Common Stock
+Ticker: IMXI
+CIK: 0001683695
+Latest SEC XBRL Facts:
+Revenues: 151024000 | unit=USD | filed=2019-08-12 | period_end=2019-06-30
+NetIncomeLoss: 23739000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 478732000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 10533157 | unit=USD | filed=2018-08-14 | period_end=2018-06-30
+StockholdersEquity: 149688000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 52509000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 168682000 | unit=USD | filed=2026-03-06 | period_end=2025-12-31

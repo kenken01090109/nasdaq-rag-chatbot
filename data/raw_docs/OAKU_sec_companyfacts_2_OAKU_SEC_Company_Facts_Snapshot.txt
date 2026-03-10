@@ -1,0 +1,10 @@
+Company: Oak Woods Acquisition Corporation Class A Ordinary Shares
+Ticker: OAKU
+CIK: 0001945422
+Latest SEC XBRL Facts:
+NetIncomeLoss: -134546 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+Assets: 43345118 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+Liabilities: 9327366 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+StockholdersEquity: -9301424 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -422932 | unit=USD | filed=2026-01-26 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1930 | unit=USD | filed=2026-01-26 | period_end=2025-09-30

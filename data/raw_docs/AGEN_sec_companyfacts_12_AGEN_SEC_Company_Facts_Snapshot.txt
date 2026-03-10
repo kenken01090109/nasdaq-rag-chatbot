@@ -1,0 +1,11 @@
+Company: Agenus Inc. Common Stock
+Ticker: AGEN
+CIK: 0001098972
+Latest SEC XBRL Facts:
+Revenues: 1636041 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 79992000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -37730000 | unit=USD | filed=2021-03-16 | period_end=2020-12-31
+Assets: 233891000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -274137000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -60577000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3458000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

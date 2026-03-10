@@ -1,0 +1,25 @@
+Company: SIM Acquisition Corp. I Class A Ordinary Shares
+Ticker: SIMA
+Market Cap: 330586688
+Enterprise Value: 329497536
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -690941
+Return On Assets: 
+Return On Equity: 
+Total Cash: 169145
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 7.684
+Quick Ratio: 3.89
+Trailing PE: 
+Forward PE: 
+Price To Book: -31.337208
+Beta: 
+52 Week High: 10.78
+52 Week Low: 10.145

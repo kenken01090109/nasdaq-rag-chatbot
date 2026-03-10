@@ -1,0 +1,25 @@
+Company: Star Fashion Culture Holdings Limited Class A Ordinary Shares
+Ticker: STFS
+Market Cap: 4784550
+Enterprise Value: 6863733
+Total Revenue: 120789048
+Revenue Per Share: 12.079
+EBITDA: 
+Gross Margins: 0.056799997
+Operating Margins: -2.35121
+Profit Margins: -1.08314
+Free Cashflow: 12457176
+Operating Cashflow: -28401520
+Return On Assets: -1.10139
+Return On Equity: -3.82819
+Total Cash: 468731
+Total Debt: 5919329
+Debt To Equity: 12.89
+Current Ratio: 2.109
+Quick Ratio: 1.068
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.2099567
+Beta: 
+52 Week High: 2.6
+52 Week Low: 0.02

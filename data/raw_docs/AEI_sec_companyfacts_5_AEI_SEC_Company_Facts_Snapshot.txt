@@ -1,0 +1,12 @@
+Company: Alset Inc. Common Stock (TX)
+Ticker: AEI
+CIK: 0001750106
+Latest SEC XBRL Facts:
+Revenues: 450000 | unit=USD | filed=2025-08-14 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3166093 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -15042487 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 169106722 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4711668 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 155680858 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5491443 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25459416 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

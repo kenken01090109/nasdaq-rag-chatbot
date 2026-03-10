@@ -1,0 +1,12 @@
+Company: Open Lending Corporation Common Stock
+Ticker: LPRO
+CIK: 0001806201
+Latest SEC XBRL Facts:
+Revenues: 39497000 | unit=USD | filed=2020-08-14 | period_end=2020-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 73872000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -5918000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 287651000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 214826000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 72825000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8644000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 222134000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

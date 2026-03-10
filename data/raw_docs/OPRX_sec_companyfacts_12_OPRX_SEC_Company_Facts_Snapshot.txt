@@ -1,0 +1,12 @@
+Company: OptimizeRx Corporation Common Stock
+Ticker: OPRX
+CIK: 0001448431
+Latest SEC XBRL Facts:
+Revenues: 77190000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1025000 | unit=USD | filed=2023-03-10 | period_end=2022-12-31
+NetIncomeLoss: 112000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 170321000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 48058000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 122263000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11627000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19519000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

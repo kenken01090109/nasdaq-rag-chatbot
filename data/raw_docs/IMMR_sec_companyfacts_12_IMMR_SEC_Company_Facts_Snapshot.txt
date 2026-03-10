@@ -1,0 +1,12 @@
+Company: Immersion Corporation Common Stock
+Ticker: IMMR
+CIK: 0001058811
+Latest SEC XBRL Facts:
+Revenues: 91560000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1274500000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31
+NetIncomeLoss: 69789000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31
+Assets: 1370543000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31
+Liabilities: 804250000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31
+StockholdersEquity: 319166000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31
+NetCashProvidedByUsedInOperatingActivities: -107674000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31
+CashAndCashEquivalentsAtCarryingValue: 77690000 | unit=USD | filed=2025-03-12 | period_end=2025-01-31

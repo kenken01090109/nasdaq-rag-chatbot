@@ -1,0 +1,12 @@
+Company: Liberty Global Ltd. Class B Common Shares
+Ticker: LBTYB
+CIK: 0001570585
+Latest SEC XBRL Facts:
+Revenues: 11541500000 | unit=USD | filed=2020-02-13 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3647400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -4220900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 25394700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 12432700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 12743700000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 580200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1674200000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: 707 Cayman Holdings Limited Ordinary Shares
+Ticker: JEM
+Market Cap: 1475306
+Enterprise Value: -34728308
+Total Revenue: 106909248
+Revenue Per Share: 4.059
+EBITDA: -39775920
+Gross Margins: 0.19820999
+Operating Margins: -0.71571
+Profit Margins: -0.38301
+Free Cashflow: 10767883
+Operating Cashflow: -10380921
+Return On Assets: -0.45634997
+Return On Equity: -1.3340801
+Total Cash: 41196132
+Total Debt: 3978694
+Debt To Equity: 7.805
+Current Ratio: 2.815
+Quick Ratio: 2.613
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.32167143
+Beta: 
+52 Week High: 7.9
+52 Week Low: 0.065

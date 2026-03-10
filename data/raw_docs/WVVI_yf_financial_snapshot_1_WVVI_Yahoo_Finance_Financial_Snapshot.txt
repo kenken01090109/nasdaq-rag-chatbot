@@ -1,0 +1,25 @@
+Company: Willamette Valley Vineyards Inc. Common Stock
+Ticker: WVVI
+Market Cap: 13453874
+Enterprise Value: 87556416
+Total Revenue: 37366836
+Revenue Per Share: 7.527
+EBITDA: 2188121
+Gross Margins: 0.60542
+Operating Margins: -0.14528
+Profit Margins: -0.03312
+Free Cashflow: -190545
+Operating Cashflow: -2523617
+Return On Assets: -0.0053
+Return On Equity: -0.017860001
+Total Cash: 372566
+Total Debt: 29428182
+Debt To Equity: 43.537
+Current Ratio: 3.117
+Quick Ratio: 0.275
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.59665346
+Beta: 0.281
+52 Week High: 7.18
+52 Week Low: 2.49

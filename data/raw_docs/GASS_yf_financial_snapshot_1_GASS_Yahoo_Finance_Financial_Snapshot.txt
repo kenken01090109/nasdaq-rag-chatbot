@@ -1,0 +1,25 @@
+Company: StealthGas Inc. Common Stock
+Ticker: GASS
+Market Cap: 377559520
+Enterprise Value: 272979424
+Total Revenue: 173161472
+Revenue Per Share: 4.826
+EBITDA: 80335824
+Gross Margins: 0.53773
+Operating Margins: 0.25823
+Profit Margins: 0.35024
+Free Cashflow: -22048366
+Operating Cashflow: 85182680
+Return On Assets: 0.04769
+Return On Equity: 0.09211001
+Total Cash: 99077832
+Total Debt: 104801
+Debt To Equity: 0.015
+Current Ratio: 9.296
+Quick Ratio: 7.971
+Trailing PE: 6.0476193
+Forward PE: 6.7284765
+Price To Book: 0.53149194
+Beta: 0.205
+52 Week High: 10.52
+52 Week Low: 4.9

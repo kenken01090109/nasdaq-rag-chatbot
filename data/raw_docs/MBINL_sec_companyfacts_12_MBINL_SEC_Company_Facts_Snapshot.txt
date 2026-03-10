@@ -1,0 +1,10 @@
+Company: Merchants Bancorp Depositary Shares Each Representing a 1/40thInterest in a Share of 7.25% Fixed Rate Series E Non-CumulativePerpetual Preferred Stock without par value
+Ticker: MBINL
+CIK: 0001629019
+Latest SEC XBRL Facts:
+NetIncomeLoss: 150921000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 19354647000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 17129213000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 2225434000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 56651000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 377310000 | unit=USD | filed=2023-08-09 | period_end=2023-06-30

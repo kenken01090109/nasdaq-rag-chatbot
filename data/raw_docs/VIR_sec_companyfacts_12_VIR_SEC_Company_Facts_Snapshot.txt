@@ -1,0 +1,12 @@
+Company: Vir Biotechnology Inc. Common Stock
+Ticker: VIR
+CIK: 0001706431
+Latest SEC XBRL Facts:
+Revenues: 4486000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4486000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -395064000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1019453000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 223355000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 796098000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -365905000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 170084000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: BJ's Restaurants Inc. Common Stock
+Ticker: BJRI
+Market Cap: 745717056
+Enterprise Value: 1226472192
+Total Revenue: 1399126016
+Revenue Per Share: 63.655
+EBITDA: 126632000
+Gross Margins: 0.15455
+Operating Margins: 0.03736
+Profit Margins: 0.034879997
+Free Cashflow: 33561500
+Operating Cashflow: 110514000
+Return On Assets: 0.03002
+Return On Equity: 0.13259
+Total Cash: 23781000
+Total Debt: 490758016
+Debt To Equity: 134.016
+Current Ratio: 0.399
+Quick Ratio: 0.225
+Trailing PE: 16.287037
+Forward PE: 13.025867
+Price To Book: 2.0283673
+Beta: 1.321
+52 Week High: 47.02
+52 Week Low: 28.46

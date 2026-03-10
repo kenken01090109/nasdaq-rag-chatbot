@@ -1,0 +1,10 @@
+Company: Allarity Therapeutics Inc. Common Stock
+Ticker: ALLR
+Market Cap: 16402599
+Enterprise Value: 623123
+Trailing PE: 0.111964874
+Forward PE: -1.0515463
+Price To Book: 1.3691275
+Beta: 0.201
+52 Week High: 2.35
+52 Week Low: 0.614

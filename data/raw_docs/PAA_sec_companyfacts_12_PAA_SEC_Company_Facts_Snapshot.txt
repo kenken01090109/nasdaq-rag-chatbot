@@ -1,0 +1,10 @@
+Company: Plains All American Pipeline L.P. Common Units representing Limited Partner Interests
+Ticker: PAA
+CIK: 0001070423
+Latest SEC XBRL Facts:
+Revenues: 33698000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1093000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 28101000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 9230000000 | unit=USD | filed=2011-08-05 | period_end=2011-06-30
+NetCashProvidedByUsedInOperatingActivities: 2150000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1180000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

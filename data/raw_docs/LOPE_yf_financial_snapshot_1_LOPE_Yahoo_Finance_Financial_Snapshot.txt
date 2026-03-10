@@ -1,0 +1,25 @@
+Company: Grand Canyon Education Inc. Common Stock
+Ticker: LOPE
+Market Cap: 4657869824
+Enterprise Value: 4225936384
+Total Revenue: 1106070016
+Revenue Per Share: 39.698
+EBITDA: 343223008
+Gross Margins: 0.53194
+Operating Margins: 0.35077
+Profit Margins: 0.19544001
+Free Cashflow: 200567632
+Operating Cashflow: 273491008
+Return On Assets: 0.18856001
+Return On Equity: 0.28243
+Total Cash: 300079008
+Total Debt: 107323000
+Debt To Equity: 14.368
+Current Ratio: 3.646
+Quick Ratio: 3.524
+Trailing PE: 21.572538
+Forward PE: 14.82992
+Price To Book: 5.8983526
+Beta: 0.726
+52 Week High: 223.04
+52 Week Low: 149.37

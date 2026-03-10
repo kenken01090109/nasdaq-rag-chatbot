@@ -1,0 +1,12 @@
+Company: Aligos Therapeutics Inc. Common Stock
+Ticker: ALGS
+Total Revenue: 2646000
+Revenue Per Share: 0.299
+Gross Margins: 0.0
+Operating Margins: -38.27395
+EBITDA: -85820000
+Profit Margins: 0.0
+Free Cashflow: -45352752
+Operating Cashflow: -79161000
+Return On Assets: -0.54704
+Return On Equity: -1.4182401

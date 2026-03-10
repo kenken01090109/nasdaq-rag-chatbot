@@ -1,0 +1,25 @@
+Company: Happy City Holdings Limited Class A Ordinary shares
+Ticker: HCHL
+Market Cap: 20364718
+Enterprise Value: 20310534
+Total Revenue: 6799732
+Revenue Per Share: 0.373
+EBITDA: -1666922
+Gross Margins: 0.12603
+Operating Margins: -1.01624
+Profit Margins: -0.35728002
+Free Cashflow: -1170621
+Operating Cashflow: -1267366
+Return On Assets: -0.18962999
+Return On Equity: -1.73008
+Total Cash: 3686336
+Total Debt: 4592750
+Debt To Equity: 208.147
+Current Ratio: 0.832
+Quick Ratio: 0.748
+Trailing PE: 
+Forward PE: 
+Price To Book: 9.217391
+Beta: 
+52 Week High: 7.25
+52 Week Low: 0.8

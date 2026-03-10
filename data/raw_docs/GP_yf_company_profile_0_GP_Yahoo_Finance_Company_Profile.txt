@@ -1,0 +1,9 @@
+Company: GreenPower Motor Company Inc. Common Shares
+Ticker: GP
+Sector: Industrials
+Industry: Farm & Heavy Construction Machinery
+Country: Canada
+City: Vancouver
+Website: https://www.greenpowermotor.com
+Employees: 
+Business Summary: GreenPower Motor Company Inc. manufactures and distributes electric commercial vehicles and transit, school, and charter buses in the United States and Canada. The company offers school bus, commercial goods, and commercial passenger line vehicles. It also commercial vehicles for delivery, public transit, schools, vanpools, micro-transit, shuttles, and other sectors. GreenPower Motor Company Inc. was founded in 2010 and is headquartered in Vancouver, Canada.

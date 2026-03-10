@@ -1,0 +1,11 @@
+Company: Palomar Holdings Inc. Common stock
+Ticker: PLMR
+CIK: 0001761312
+Latest SEC XBRL Facts:
+Revenues: 622604000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 140905000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2943546000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2065436000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 878110000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 291705000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 111740000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

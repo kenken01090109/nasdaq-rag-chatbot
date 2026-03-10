@@ -1,0 +1,11 @@
+Company: LexinFintech Holdings Ltd. American Depositary Shares
+Ticker: LX
+CIK: 0001708259
+Latest SEC XBRL Facts:
+Revenues: 1945884000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetIncomeLoss: 91185000 | unit=USD | filed=2021-04-28 | period_end=2020-12-31
+Assets: 3046975000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Liabilities: 1575596000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+StockholdersEquity: 1259708000 | unit=USD | filed=2022-04-29 | period_end=2021-12-31
+NetCashProvidedByUsedInOperatingActivities: 148158000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 308826000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31

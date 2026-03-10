@@ -1,0 +1,25 @@
+Company: Apogee Enterprises Inc. Common Stock
+Ticker: APOG
+Market Cap: 758260352
+Enterprise Value: 1021919616
+Total Revenue: 1399073024
+Revenue Per Share: 65.389
+EBITDA: 162427008
+Gross Margins: 0.23828
+Operating Margins: 0.08687
+Profit Margins: 0.02859
+Free Cashflow: 54781876
+Operating Cashflow: 96654000
+Return On Assets: 0.060500003
+Return On Equity: 0.07734
+Total Cash: 48603000
+Total Debt: 312291008
+Debt To Equity: 60.96
+Current Ratio: 1.898
+Quick Ratio: 1.27
+Trailing PE: 18.850267
+Forward PE: 11.108205
+Price To Book: 1.4789796
+Beta: 1.057
+52 Week High: 49.99
+52 Week Low: 30.75

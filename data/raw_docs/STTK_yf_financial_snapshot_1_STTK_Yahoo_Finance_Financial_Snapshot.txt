@@ -1,0 +1,25 @@
+Company: Shattuck Labs Inc. Common Stock
+Ticker: STTK
+Market Cap: 379046240
+Enterprise Value: 215811664
+Total Revenue: 1000000
+Revenue Per Share: 0.018
+EBITDA: -53834000
+Gross Margins: 21.703999
+Operating Margins: -10.716
+Profit Margins: 0.0
+Free Cashflow: -28055500
+Operating Cashflow: -48762000
+Return On Assets: -0.33928
+Return On Equity: -0.5784
+Total Cash: 86132000
+Total Debt: 2630000
+Debt To Equity: 2.821
+Current Ratio: 17.002
+Quick Ratio: 16.142
+Trailing PE: 
+Forward PE: -12.562919
+Price To Book: 4.0582657
+Beta: 1.668
+52 Week High: 6.0
+52 Week Low: 0.692

@@ -1,0 +1,9 @@
+Company: NextNRG Inc. Common Stock
+Ticker: NXXT
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: United States
+City: Miami
+Website: https://nextnrg.com
+Employees: 163
+Business Summary: NextNRG, Inc. engages in mobile fueling operations in the United States. The company offers on-demand and subscription-based fuel delivery services to individual consumers, fleets, marine, and other specialty markets. It is also involved in developing and deploying wireless electric vehicle charging technology with battery storage and solar energy solutions. In addition, the company offers smart grid products. NextNRG, Inc. was incorporated in 2016 and is headquartered in Miami, Florida.

@@ -1,0 +1,10 @@
+Company: G-III Apparel Group LTD. Common Stock
+Ticker: GIII
+CIK: 0000821002
+Latest SEC XBRL Facts:
+NetIncomeLoss: 99291000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 2758713000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 969586000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 1789127000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 71557000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 184063000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

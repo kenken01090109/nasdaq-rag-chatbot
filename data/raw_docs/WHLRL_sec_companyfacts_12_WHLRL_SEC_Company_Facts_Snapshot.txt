@@ -1,0 +1,12 @@
+Company: Wheeler Real Estate Investment Trust Inc. 7.00% Senior Subordinated Convertible Notes Due 2031
+Ticker: WHLRL
+CIK: 0001527541
+Latest SEC XBRL Facts:
+Revenues: 74276000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 733000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 9589000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 625174000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 532766000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -3935000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18764000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 27093000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Globa Terra Acquisition Corporation Rights
+Ticker: GTERR
+CIK: 0002043766
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1312252 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 177494293 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 1203070 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -372436 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -256543 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

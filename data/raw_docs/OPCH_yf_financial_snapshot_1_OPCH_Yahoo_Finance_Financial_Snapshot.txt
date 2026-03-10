@@ -1,0 +1,25 @@
+Company: Option Care Health Inc. Common Stock
+Ticker: OPCH
+Market Cap: 4736583680
+Enterprise Value: 5703629312
+Total Revenue: 5649519104
+Revenue Per Share: 34.852
+EBITDA: 408596000
+Gross Margins: 0.19256
+Operating Margins: 0.06244
+Profit Margins: 0.03674
+Free Cashflow: 172745504
+Operating Cashflow: 258447008
+Return On Assets: 0.06142
+Return On Equity: 0.15204
+Total Cash: 238124992
+Total Debt: 1273346944
+Debt To Equity: 96.001
+Current Ratio: 1.525
+Quick Ratio: 0.901
+Trailing PE: 23.496063
+Forward PE: 14.002552
+Price To Book: 3.528855
+Beta: 0.883
+52 Week High: 36.8
+52 Week Low: 24.24

@@ -1,0 +1,9 @@
+Company: Woodward Inc. Common Stock
+Ticker: WWD
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Fort Collins
+Website: https://www.woodward.com
+Employees: 10200
+Business Summary: Woodward, Inc. designs, manufactures, and services control solutions for the aerospace and industrial markets worldwide. It operates through two segments, Aerospace and Industrial. The Aerospace segment offers fuel pumps, metering units, actuators, air valves, specialty valves, fuel nozzles, and thrust reverser actuation systems for turbine engines and nacelles, as well as flight deck controls, actuators, servocontrols, motors, and sensors for aircraft. This segment also provides aftermarket maintenance, repair and overhaul, and other services to commercial airlines, repair facilities, military depots, third party repair shops, and other end users. Its Industrial segment offers actuators, valves, pumps, fuel injection systems, solenoids, ignition systems, control systems, electronics and software, and sensors used on industrial gas turbines, steam turbines, compressors, and reciprocating engines, as well as aftermarket products and related services. The company primarily serves OEMs and equipment packagers. Woodward, Inc. was founded in 1870 and is headquartered in Fort Collins, Colorado.

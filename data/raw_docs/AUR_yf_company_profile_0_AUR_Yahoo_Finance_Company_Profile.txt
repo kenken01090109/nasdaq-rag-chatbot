@@ -1,0 +1,9 @@
+Company: Aurora Innovation Inc. Class A Common Stock
+Ticker: AUR
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: Pittsburgh
+Website: https://aurora.tech
+Employees: 1900
+Business Summary: Aurora Innovation, Inc. engages in the self-driving technology business in the United States. It focuses on developing Aurora Driver, a platform that brings a suite of self-driving hardware, software, and data services together to adapt and interoperate various vehicle types and applications. The company was founded in 2017 and is headquartered in Pittsburgh, Pennsylvania.

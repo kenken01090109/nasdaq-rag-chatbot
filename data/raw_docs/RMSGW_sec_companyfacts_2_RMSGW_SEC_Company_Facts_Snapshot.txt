@@ -1,0 +1,10 @@
+Company: Real Messenger Corporation Warrants
+Ticker: RMSGW
+CIK: 0001983324
+Latest SEC XBRL Facts:
+NetIncomeLoss: -3376410 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Assets: 4050797 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Liabilities: 349010 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+StockholdersEquity: 3701787 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -4012901 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 2575225 | unit=USD | filed=2025-07-31 | period_end=2025-03-31

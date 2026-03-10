@@ -1,0 +1,9 @@
+Company: Lyra Therapeutics Inc. Common Stock
+Ticker: LYRA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Watertown
+Website: https://lyratherapeutics.com
+Employees: 30
+Business Summary: Lyra Therapeutics, Inc., a clinical-stage biotechnology company, focuses on the development and commercialization of anti-inflammatory therapies for the treatment of patients with chronic rhinosinusitis. Its technology is designed to deliver medicines directly to the affected tissue for sustained periods with a single administration. The company's product candidates include LYR-210, an anti-inflammatory implantable drug matrix which is in Phase III clinical trial for the treatment of chronic rhinosinusitis (CRS); and LYR-220 for CRS patients who have failed previous medical management and continue to require treatment to manage CRS symptoms. It has a collaboration agreement with LianBio Inflammatory Limited to develop and commercialize LYR-210 in mainland China, Hong Kong, Taiwan, Macau, South Korea, Singapore, and Thailand. The company was formerly known as 480 Biomedical, Inc. and changed its name to Lyra Therapeutics, Inc. in July 2018. Lyra Therapeutics, Inc. was incorporated in 2005 and is headquartered in Watertown, Massachusetts.

@@ -1,0 +1,25 @@
+Company: Ziff Davis Inc. Common Stock
+Ticker: ZD
+Market Cap: 1671846144
+Enterprise Value: 1878233728
+Total Revenue: 1451267968
+Revenue Per Share: 35.416
+EBITDA: 426521984
+Gross Margins: 0.85764
+Operating Margins: 0.21156
+Profit Margins: 0.03263
+Free Cashflow: 290442624
+Operating Cashflow: 407068000
+Return On Assets: 0.03356
+Return On Equity: 0.02657
+Total Cash: 607011008
+Total Debt: 891708992
+Debt To Equity: 50.851
+Current Ratio: 1.275
+Quick Ratio: 1.185
+Trailing PE: 38.126125
+Forward PE: 5.6277866
+Price To Book: 0.926161
+Beta: 1.412
+52 Week High: 50.55
+52 Week Low: 22.45

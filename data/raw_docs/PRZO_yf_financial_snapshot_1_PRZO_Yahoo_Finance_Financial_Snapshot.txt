@@ -1,0 +1,25 @@
+Company: ParaZero Technologies Ltd. Ordinary Shares
+Ticker: PRZO
+Market Cap: 27103186
+Enterprise Value: 17336018
+Total Revenue: 1007440
+Revenue Per Share: 0.074
+EBITDA: -6963777
+Gross Margins: -0.088120006
+Operating Margins: -10.202459
+Profit Margins: 0.0
+Free Cashflow: -3600807
+Operating Cashflow: -5955492
+Return On Assets: -0.64868
+Return On Equity: -2.96624
+Total Cash: 4865582
+Total Debt: 360154
+Debt To Equity: 10.203
+Current Ratio: 4.682
+Quick Ratio: 4.073
+Trailing PE: 
+Forward PE: 
+Price To Book: 6.1835747
+Beta: 0.022
+52 Week High: 2.145
+52 Week Low: 0.526

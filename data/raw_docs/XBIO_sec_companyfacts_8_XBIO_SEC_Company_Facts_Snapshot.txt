@@ -1,0 +1,10 @@
+Company: Xenetic Biosciences Inc. Common Stock
+Ticker: XBIO
+CIK: 0001534525
+Latest SEC XBRL Facts:
+Revenues: 2210115 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -2101784 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 5067960 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1111775 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3956185 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2043969 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

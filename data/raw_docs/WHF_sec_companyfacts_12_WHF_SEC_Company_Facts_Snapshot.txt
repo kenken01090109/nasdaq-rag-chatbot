@@ -1,0 +1,10 @@
+Company: WhiteHorse Finance Inc. Common Stock
+Ticker: WHF
+CIK: 0001552198
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5958000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 626005000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 360760000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 265245000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 76313000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9539000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

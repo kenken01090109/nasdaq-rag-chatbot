@@ -1,0 +1,11 @@
+Company: Allogene Therapeutics Inc. Common Stock
+Ticker: ALLO
+CIK: 0001737287
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -152076000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 439771000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 124442000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 315329000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -121647000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37815000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

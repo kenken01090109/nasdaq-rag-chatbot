@@ -1,0 +1,9 @@
+Company: Global Water Resources Inc. Common Stock
+Ticker: GWRS
+Sector: Utilities
+Industry: Utilities - Regulated Water
+Country: United States
+City: Phoenix
+Website: https://www.gwresources.com
+Employees: 
+Business Summary: Global Water Resources, Inc., a water resource management company, owns, operates, and manages regulated water, wastewater, and recycled water systems in metropolitan Phoenix and Tucson, Arizona. It serves approximately 111,000 people in approximately 36,000 homes. Global Water Resources, Inc. was founded in 2003 and is based in Phoenix, Arizona.

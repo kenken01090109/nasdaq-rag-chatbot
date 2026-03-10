@@ -1,0 +1,12 @@
+Company: Impinj Inc. Common Stock
+Ticker: PI
+CIK: 0001114995
+Latest SEC XBRL Facts:
+Revenues: 33063000 | unit=USD | filed=2019-04-29 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 268226000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -9708000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 516459000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 321496000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 194963000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 43610000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 51726000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

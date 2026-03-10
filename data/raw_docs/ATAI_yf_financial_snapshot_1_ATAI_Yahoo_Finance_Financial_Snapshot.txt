@@ -1,0 +1,25 @@
+Company: AtaiBeckley Inc. Common Stock
+Ticker: ATAI
+Market Cap: 1231297536
+Enterprise Value: 1176703488
+Total Revenue: 3018000
+Revenue Per Share: 0.016
+EBITDA: -101424000
+Gross Margins: 0.83862996
+Operating Margins: -37.96529
+Profit Margins: 0.0
+Free Cashflow: -39028624
+Operating Cashflow: -79491000
+Return On Assets: -0.29246
+Return On Equity: -1.00776
+Total Cash: 114606000
+Total Debt: 5458000
+Debt To Equity: 3.413
+Current Ratio: 7.898
+Quick Ratio: 6.988
+Trailing PE: 
+Forward PE: -6.78
+Price To Book: 5.105422
+Beta: 1.616
+52 Week High: 6.75
+52 Week Low: 1.15

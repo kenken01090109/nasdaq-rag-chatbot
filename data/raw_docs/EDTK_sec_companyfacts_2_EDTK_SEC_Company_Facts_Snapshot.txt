@@ -1,0 +1,10 @@
+Company: Skillful Craftsman Education Technology Limited Ordinary Share
+Ticker: EDTK
+CIK: 0001782309
+Latest SEC XBRL Facts:
+NetIncomeLoss: -1000714 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+Assets: 14947654 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+Liabilities: 2098710 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+StockholdersEquity: 12848944 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1011462 | unit=USD | filed=2026-01-16 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17456245 | unit=USD | filed=2025-01-15 | period_end=2024-09-30

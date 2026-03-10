@@ -1,0 +1,25 @@
+Company: West Bancorporation Common Stock
+Ticker: WTBA
+Market Cap: 405392960
+Enterprise Value: 321793184
+Total Revenue: 95245000
+Revenue Per Share: 5.631
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.43150002
+Profit Margins: 0.34186
+Free Cashflow: 
+Operating Cashflow: 46479000
+Return On Assets: 0.00798
+Return On Equity: 0.13186
+Total Cash: 483871008
+Total Debt: 391462016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.463542
+Forward PE: 8.396492
+Price To Book: 1.5241067
+Beta: 0.818
+52 Week High: 26.6
+52 Week Low: 17.31

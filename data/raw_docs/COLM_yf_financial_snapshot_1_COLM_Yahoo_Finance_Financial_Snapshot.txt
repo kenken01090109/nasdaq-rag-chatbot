@@ -1,0 +1,25 @@
+Company: Columbia Sportswear Company Common Stock
+Ticker: COLM
+Market Cap: 3142800128
+Enterprise Value: 2831129088
+Total Revenue: 3397350912
+Revenue Per Share: 62.134
+EBITDA: 292873984
+Gross Margins: 0.50531
+Operating Margins: 0.10908
+Profit Margins: 0.05217
+Free Cashflow: 155870368
+Operating Cashflow: 282903008
+Return On Assets: 0.04998
+Return On Equity: 0.101560004
+Total Cash: 790793984
+Total Debt: 477688992
+Debt To Equity: 27.933
+Current Ratio: 2.593
+Quick Ratio: 1.569
+Trailing PE: 18.0
+Forward PE: 15.258866
+Price To Book: 1.8243243
+Beta: 0.853
+52 Week High: 89.0
+52 Week Low: 47.47

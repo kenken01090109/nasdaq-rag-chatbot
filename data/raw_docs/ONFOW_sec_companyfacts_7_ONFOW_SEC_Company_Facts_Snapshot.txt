@@ -1,0 +1,11 @@
+Company: Onfolio Holdings Inc. Warrant
+Ticker: ONFOW
+CIK: 0001825452
+Latest SEC XBRL Facts:
+Revenues: 8702185 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -2064694 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 8288819 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4554683 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2246213 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -540977 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 529777 | unit=USD | filed=2024-05-20 | period_end=2024-03-31

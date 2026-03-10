@@ -1,0 +1,9 @@
+Company: Bgin Blockchain Limited Class A Ordinary Shares
+Ticker: BGIN
+Sector: Technology
+Industry: Computer Hardware
+Country: Singapore
+City: Singapore
+Website: https://www.bgin.com
+Employees: 109
+Business Summary: Bgin Blockchain Limited, through its subsidiaries, operates as a digital asset technology company in Singapore, Hong Kong, the United States, and rest of Southeast Asia. It produces cryptocurrencies through its mining operations. The company also designs and sells mining machines for individual miners and distributors, as well as develops computer chips. In addition, it offers miner hosting, mining pool, and value-added services. The company was founded in 2019 and is based in Singapore.

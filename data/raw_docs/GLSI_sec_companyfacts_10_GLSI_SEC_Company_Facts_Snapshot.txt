@@ -1,0 +1,10 @@
+Company: Greenwich LifeSciences Inc. Common Stock
+Ticker: GLSI
+CIK: 0001799788
+Latest SEC XBRL Facts:
+NetIncomeLoss: -11435485 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 3806978 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1622001 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2184977 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6738796 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3806978 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

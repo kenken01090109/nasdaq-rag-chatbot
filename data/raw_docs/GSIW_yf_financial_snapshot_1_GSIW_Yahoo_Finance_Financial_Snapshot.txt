@@ -1,0 +1,25 @@
+Company: Garden Stage Limited Class A Ordinary Shares
+Ticker: GSIW
+Market Cap: 2081141376
+Enterprise Value: 771574
+Total Revenue: 8087497
+Revenue Per Share: 44.226
+EBITDA: 
+Gross Margins: 0.05337
+Operating Margins: -1.9219501
+Profit Margins: -0.93202
+Free Cashflow: 
+Operating Cashflow: -3751679
+Return On Assets: -0.31391
+Return On Equity: -0.56345004
+Total Cash: 10298435
+Total Debt: 140745
+Debt To Equity: 0.709
+Current Ratio: 2.513
+Quick Ratio: 1.343
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.52411824
+Beta: 2.298
+52 Week High: 358.0
+52 Week Low: 8.21

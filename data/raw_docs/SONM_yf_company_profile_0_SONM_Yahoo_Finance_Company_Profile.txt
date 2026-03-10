@@ -1,0 +1,9 @@
+Company: DNA X Inc. Common Stock
+Ticker: SONM
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: San Diego
+Website: https://www.sonimtech.com
+Employees: 131
+Business Summary: DNA X, Inc. provides enterprise 5G solutions in the United States, Canada, Europe, the Middle East, and the Asia Pacific. The company offers ruggedized cell phones for task workers, which include Sonim XP10, Sonim XP5plus, Sonim XP3plus, and Sonim XP Pro; XP100 4G and XP400 5G professional rugged phones; XP Pro 5G rugged smartphones; and XP3plus 5G rugged flip phones. It also provides connected solutions comprising fixed wireless access and mobile hotspot devices, such as Sonim H100 low- and mid-range mobile hotspots; Sonim H700; and Sonim H500-series of 5G mobile hotspots. In addition, the company offers SonimWare software and industrial-grade accessories. It sells its products through wireless carriers, distributors of data devices, communications system integrators, and electronics resellers. The company serves the transportation and logistics, construction, manufacturing, facilities management, energy and utility, mining, federal government, and public safety sectors. The company was formerly known as Sonim Technologies, Inc. and changed its name to DNA X, Inc. in January 2026. DNA X, Inc. was incorporated in 1999 and is headquartered in San Diego, California.

@@ -1,0 +1,25 @@
+Company: CF Bankshares Inc. Common Stock
+Ticker: CFBK
+Market Cap: 188673744
+Enterprise Value: 50738260
+Total Revenue: 52703000
+Revenue Per Share: 8.379
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.51079
+Profit Margins: 0.33283
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00839
+Return On Equity: 0.09942
+Total Cash: 259072000
+Total Debt: 121881000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.884758
+Forward PE: 6.7777777
+Price To Book: 1.019002
+Beta: 0.391
+52 Week High: 34.34
+52 Week Low: 19.22

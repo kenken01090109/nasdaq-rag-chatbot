@@ -1,0 +1,9 @@
+Company: ODDITY Tech Ltd. Class A Ordinary Shares
+Ticker: ODD
+Sector: Consumer Defensive
+Industry: Household & Personal Products
+Country: Israel
+City: Tel Aviv-Yafo
+Website: https://oddity.com
+Employees: 
+Business Summary: Oddity Tech Ltd. operates as a consumer tech company that builds digital-first brands for the beauty and wellness industries in the United States and internationally. It serves consumers through its AI-driven online platform, which uses data science, machine learning, and computer vision capabilities to identify consumer needs, and develop solutions in the form of beauty, wellness, and technology products. The company provides a portfolio of products, including face and complexion, eye, brow and lip products, makeup tools, skincare, haircare, and supplements under the IL MAKIAGE and SpoiledChild brands. In addition, it operates ODDITY LABS, a biotechnology center, which deploys AI-based molecule discovery technology to identify and launch novel ingredients that delivers performance and outcomes for consumers in beauty and wellness. Oddity Tech Ltd. was incorporated in 2013 and is headquartered in Tel Aviv-Yafo, Israel.

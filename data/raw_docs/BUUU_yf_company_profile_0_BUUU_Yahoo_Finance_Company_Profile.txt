@@ -1,0 +1,9 @@
+Company: BUUU Group Limited Class A Ordinary Share
+Ticker: BUUU
+Sector: Industrials
+Industry: Specialty Business Services
+Country: Hong Kong
+City: Cheung Sha Wan
+Website: https://bucreation.com
+Employees: 16
+Business Summary: BUUU Group Limited, through its subsidiaries, provides design, planning and production of face-to-face event in Hong Kong. The company operates through Event Management and Stage Production segments. The company curates and manages a range of events, including cultural, artistic, recreational, and corporate promotions. It also offers event management services, such as design and planning, project management, and on-site supervision. In addition, the company provides stage management and technical direction, fabrication, and installation of set elements, as well as sources lighting and visual and audio systems. BUUU Group Limited was founded in 2017 and is headquartered in Cheung Sha Wan, Hong Kong. BUUU Group Limited operates as a subsidiary of BUBI Services Limited.

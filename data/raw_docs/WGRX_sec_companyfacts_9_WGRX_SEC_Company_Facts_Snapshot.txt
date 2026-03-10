@@ -1,0 +1,11 @@
+Company: Wellgistics Health Inc. Common Stock
+Ticker: WGRX
+CIK: 0002030763
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 21667212 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -73421571 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 52779540 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 46001525 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 6778015 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4561776 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4228666 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

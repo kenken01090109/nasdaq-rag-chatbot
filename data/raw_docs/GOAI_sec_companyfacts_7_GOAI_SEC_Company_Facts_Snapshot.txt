@@ -1,0 +1,11 @@
+Company: Eva Live Inc. Common Stock
+Ticker: GOAI
+CIK: 0001983736
+Latest SEC XBRL Facts:
+Revenues: 12733550 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12733550 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 6445111 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 13265363 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 5253363 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 8012000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -265490 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

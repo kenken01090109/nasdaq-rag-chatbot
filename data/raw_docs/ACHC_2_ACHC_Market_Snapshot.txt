@@ -1,0 +1,10 @@
+Company: Acadia Healthcare Company Inc. Common Stock
+Ticker: ACHC
+Market Cap: 2273942272
+Enterprise Value: 4987184640
+Trailing PE: 
+Forward PE: 14.713867
+Price To Book: 1.1444749
+Beta: 0.735
+52 Week High: 31.43
+52 Week Low: 11.43

@@ -1,0 +1,12 @@
+Company: Velo3D Inc. Common stock
+Ticker: VELO
+CIK: 0001825079
+Latest SEC XBRL Facts:
+Revenues: 36532000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 36532000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -50992000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 93899000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 63743000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 30156000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19590000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11842000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

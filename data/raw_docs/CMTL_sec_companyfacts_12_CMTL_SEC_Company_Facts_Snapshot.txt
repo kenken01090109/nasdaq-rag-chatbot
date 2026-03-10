@@ -1,0 +1,11 @@
+Company: Comtech Telecommunications Corp. Common Stock
+Ticker: CMTL
+CIK: 0000023197
+Latest SEC XBRL Facts:
+Revenues: 111032000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetIncomeLoss: -15879000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Assets: 734120000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+Liabilities: 455078000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+StockholdersEquity: 85594000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 8076000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 43635000 | unit=USD | filed=2025-12-11 | period_end=2025-10-31

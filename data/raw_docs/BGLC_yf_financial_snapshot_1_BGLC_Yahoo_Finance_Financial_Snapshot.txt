@@ -1,0 +1,25 @@
+Company: BioNexus Gene Lab Corp Common stock
+Ticker: BGLC
+Market Cap: 5909590
+Enterprise Value: 1974057
+Total Revenue: 9465006
+Revenue Per Share: 5.268
+EBITDA: -2333958
+Gross Margins: 0.14774999
+Operating Margins: -0.30264
+Profit Margins: -0.24266
+Free Cashflow: -2021792
+Operating Cashflow: -2721241
+Return On Assets: -0.16430001
+Return On Equity: -0.28348
+Total Cash: 2894653
+Total Debt: 233722
+Debt To Equity: 3.429
+Current Ratio: 8.299
+Quick Ratio: 6.813
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6589352
+Beta: 2.281
+52 Week High: 15.6
+52 Week Low: 1.92

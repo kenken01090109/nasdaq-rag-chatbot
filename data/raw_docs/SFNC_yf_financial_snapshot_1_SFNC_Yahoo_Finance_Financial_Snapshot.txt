@@ -1,0 +1,25 @@
+Company: Simmons First National Corporation Class A Common Stock
+Ticker: SFNC
+Market Cap: 2816230912
+Enterprise Value: 2816676864
+Total Revenue: 37409000
+Revenue Per Share: 0.279
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.42446998
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 449503008
+Return On Assets: -0.01546
+Return On Equity: -0.114429995
+Total Cash: 782924992
+Total Debt: 697899008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 9.148235
+Price To Book: 0.8230313
+Beta: 0.921
+52 Week High: 22.18
+52 Week Low: 17.0

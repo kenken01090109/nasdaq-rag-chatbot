@@ -1,0 +1,11 @@
+Company: Caring Brands Inc. Common Stock
+Ticker: CABR
+CIK: 0002020737
+Latest SEC XBRL Facts:
+Revenues: 3795 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -2218121 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 3170991 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 572073 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2598918 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -631875 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16123 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

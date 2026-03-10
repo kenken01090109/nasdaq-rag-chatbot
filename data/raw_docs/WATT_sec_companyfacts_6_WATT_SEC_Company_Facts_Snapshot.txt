@@ -1,0 +1,11 @@
+Company: Energous Corporation Common Stock
+Ticker: WATT
+CIK: 0001575793
+Latest SEC XBRL Facts:
+Revenues: 25000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+NetIncomeLoss: -8267000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 17837000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4111000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 13726000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10012000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12898000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

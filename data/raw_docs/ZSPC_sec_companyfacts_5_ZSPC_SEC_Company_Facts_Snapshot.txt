@@ -1,0 +1,10 @@
+Company: zSpace Inc. Common stock
+Ticker: ZSPC
+CIK: 0001637147
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 23011000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -18103000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 13458000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 33143000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -19685000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14025000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

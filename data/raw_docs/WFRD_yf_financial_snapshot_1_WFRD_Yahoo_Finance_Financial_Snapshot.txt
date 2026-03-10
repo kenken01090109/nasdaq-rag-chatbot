@@ -1,0 +1,25 @@
+Company: Weatherford International plc Ordinary Shares
+Ticker: WFRD
+Market Cap: 6513086976
+Enterprise Value: 7412817408
+Total Revenue: 4918000128
+Revenue Per Share: 68.116
+EBITDA: 1011000000
+Gross Margins: 0.31192
+Operating Margins: 0.15981
+Profit Margins: 0.08764
+Free Cashflow: 383375008
+Operating Cashflow: 676000000
+Return On Assets: 0.08979999
+Return On Equity: 0.30681
+Total Cash: 987000000
+Total Debt: 1642000000
+Debt To Equity: 96.816
+Current Ratio: 2.194
+Quick Ratio: 1.491
+Trailing PE: 15.311974
+Forward PE: 12.8037
+Price To Book: 3.8265414
+Beta: 0.739
+52 Week High: 110.57
+52 Week Low: 36.735

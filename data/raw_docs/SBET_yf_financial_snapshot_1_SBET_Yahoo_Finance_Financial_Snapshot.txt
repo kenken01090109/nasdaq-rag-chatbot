@@ -1,0 +1,25 @@
+Company: Sharplink Inc. Common Stock
+Ticker: SBET
+Market Cap: 1447661824
+Enterprise Value: 1548648832
+Total Revenue: 13106030
+Revenue Per Share: 0.276
+EBITDA: -452498
+Gross Margins: 0.83322
+Operating Margins: 9.675839
+Profit Margins: -0.078600004
+Free Cashflow: -4622130
+Operating Cashflow: -9671028
+Return On Assets: -0.00018999999
+Return On Equity: -0.00068000006
+Total Cash: 11128231
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.749
+Quick Ratio: 2.508
+Trailing PE: 
+Forward PE: 4.460606
+Price To Book: 0.46100846
+Beta: 11.948
+52 Week High: 124.12
+52 Week Low: 2.28

@@ -1,0 +1,25 @@
+Company: OrthoPediatrics Corp. Common Stock
+Ticker: KIDS
+Market Cap: 452942912
+Enterprise Value: 516950112
+Total Revenue: 236348000
+Revenue Per Share: 10.075
+EBITDA: -7880000
+Gross Margins: 0.73054004
+Operating Margins: -0.089379996
+Profit Margins: -0.16775
+Free Cashflow: -10020875
+Operating Cashflow: -4851000
+Return On Assets: -0.03692
+Return On Equity: -0.11309
+Total Cash: 60851000
+Total Debt: 121519000
+Debt To Equity: 35.061
+Current Ratio: 5.551
+Quick Ratio: 2.483
+Trailing PE: 
+Forward PE: -25.971222
+Price To Book: 1.3068346
+Beta: 1.111
+52 Week High: 26.4
+52 Week Low: 15.28

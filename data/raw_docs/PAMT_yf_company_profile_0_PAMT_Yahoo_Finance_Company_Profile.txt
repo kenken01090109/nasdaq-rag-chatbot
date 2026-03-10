@@ -1,0 +1,9 @@
+Company: PAMT CORP Common Stock
+Ticker: PAMT
+Sector: Industrials
+Industry: Trucking
+Country: United States
+City: Tontitown
+Website: https://www.pamtransport.com
+Employees: 
+Business Summary: PAMT CORP, through its subsidiaries, operates as a truckload transportation and logistics company in the United States, Mexico, and Canada. The company provides truckload dry van carrier services that transports general commodities, such as automotive parts; expedited goods; consumer goods, such as general retail store merchandise; and manufactured goods, including heating and air conditioning units. The company also offers brokerage and logistics services. As of December 31, 2024, it operated a fleet of 2,222 trucks, which included 519 independent contractor trucks; and 8,703 trailers. The company was formerly known as P.A.M. Transportation Services, Inc., and changed its name to PAMT CORP in November 2024. The company was founded in 1980 and is headquartered in Tontitown, Arkansas.

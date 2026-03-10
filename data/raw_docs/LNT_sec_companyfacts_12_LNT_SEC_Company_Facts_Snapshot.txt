@@ -1,0 +1,11 @@
+Company: Alliant Energy Corporation Common Stock
+Ticker: LNT
+CIK: 0000352541
+Latest SEC XBRL Facts:
+Revenues: 3298000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3298000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 668000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 24627000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 7307000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 900000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 503000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Kalaris Therapeutics Inc. Common Stock
+Ticker: KLRS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Palo Alto
+Website: https://kalaristx.com
+Employees: 14
+Business Summary: Kalaris Therapeutics, Inc., a clinical-stage ophthalmology biotech company, engages in developing therapies for the treatment of neovascular retinal diseases. Kalaris Therapeutics, Inc. was formerly known as Theia Therapeutics, Inc. and changed its name to Kalaris Therapeutics, Inc. in May 2024. The company was incorporated in 2019 and is based in Palo Alto, California.

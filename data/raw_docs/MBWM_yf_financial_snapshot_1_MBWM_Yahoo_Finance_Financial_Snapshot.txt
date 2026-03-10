@@ -1,0 +1,25 @@
+Company: Mercantile Bank Corporation Common Stock
+Ticker: MBWM
+Market Cap: 869261696
+Enterprise Value: 1157056896
+Total Revenue: 238452000
+Revenue Per Share: 14.685
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.48092
+Profit Margins: 0.3722
+Free Cashflow: 
+Operating Cashflow: 17973000
+Return On Assets: 0.01377
+Return On Equity: 0.13555999
+Total Cash: 496536000
+Total Debt: 756608000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 9.200183
+Forward PE: 8.515229
+Price To Book: 1.1927899
+Beta: 0.878
+52 Week High: 55.77
+52 Week Low: 37.76

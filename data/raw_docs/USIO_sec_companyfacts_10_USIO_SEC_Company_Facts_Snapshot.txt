@@ -1,0 +1,12 @@
+Company: Usio Inc. Common Stock
+Ticker: USIO
+CIK: 0001088034
+Latest SEC XBRL Facts:
+Revenues: 28200535 | unit=USD | filed=2020-03-30 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 63150373 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -1016710 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 99401100 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 80712546 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 18688554 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1414156 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7746456 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

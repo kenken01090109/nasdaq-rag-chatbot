@@ -1,0 +1,25 @@
+Company: Namib Minerals Ordinary Shares
+Ticker: NAMM
+Market Cap: 170694240
+Enterprise Value: 177673648
+Total Revenue: 80348000
+Revenue Per Share: 1.497
+EBITDA: 11106000
+Gross Margins: 0.47567
+Operating Margins: -0.03686
+Profit Margins: -0.21763
+Free Cashflow: 42352876
+Operating Cashflow: 13506000
+Return On Assets: 0.069520004
+Return On Equity: 
+Total Cash: 1330000
+Total Debt: 4552000
+Debt To Equity: 
+Current Ratio: 0.136
+Quick Ratio: 0.057
+Trailing PE: 
+Forward PE: 2.6280992
+Price To Book: -1.1146163
+Beta: -0.017
+52 Week High: 55.0
+52 Week Low: 0.914

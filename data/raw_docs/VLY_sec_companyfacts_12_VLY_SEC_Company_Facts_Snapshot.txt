@@ -1,0 +1,10 @@
+Company: Valley National Bancorp Common Stock
+Ticker: VLY
+CIK: 0000714310
+Latest SEC XBRL Facts:
+NetIncomeLoss: 402580000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 63018614000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 55323240000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 7695374000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 147191000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 356379000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30

@@ -1,0 +1,25 @@
+Company: Atea Pharmaceuticals Inc. Common Stock
+Ticker: AVIR
+Market Cap: 460166848
+Enterprise Value: 121275040
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -180471008
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -93027376
+Operating Cashflow: -132031000
+Return On Assets: -0.28993
+Return On Equity: -0.44337
+Total Cash: 301830016
+Total Debt: 843000
+Debt To Equity: 0.306
+Current Ratio: 7.817
+Quick Ratio: 7.587
+Trailing PE: 
+Forward PE: -4.674603
+Price To Book: 1.6709219
+Beta: 
+52 Week High: 5.9
+52 Week Low: 2.455

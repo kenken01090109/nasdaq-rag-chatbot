@@ -1,0 +1,10 @@
+Company: Middleby Corporation (The) Common Stock
+Ticker: MIDD
+CIK: 0000769520
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2866617000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetIncomeLoss: -314670000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Assets: 6354660000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+StockholdersEquity: 2937785000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 439478000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 175130000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27

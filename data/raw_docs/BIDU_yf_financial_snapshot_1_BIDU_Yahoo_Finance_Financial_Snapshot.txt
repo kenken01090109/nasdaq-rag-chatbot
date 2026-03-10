@@ -1,0 +1,25 @@
+Company: Baidu Inc. ADS
+Ticker: BIDU
+Market Cap: 41501499392
+Enterprise Value: 326093537280
+Total Revenue: 129079001088
+Revenue Per Share: 378.809
+EBITDA: 18274000896
+Gross Margins: 0.43882
+Operating Margins: 0.06692
+Profit Margins: 0.0433
+Free Cashflow: 4497375232
+Operating Cashflow: -3012999936
+Return On Assets: 0.014780001
+Return On Equity: 0.01904
+Total Cash: 115267002368
+Total Debt: 97077002240
+Debt To Equity: 33.506
+Current Ratio: 1.76
+Quick Ratio: 1.494
+Trailing PE: 69.61988
+Forward PE: 12.709518
+Price To Book: 1.0487441
+Beta: 0.389
+52 Week High: 165.3
+52 Week Low: 74.71

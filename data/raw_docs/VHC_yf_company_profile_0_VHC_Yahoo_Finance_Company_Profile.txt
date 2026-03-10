@@ -1,0 +1,9 @@
+Company: VirnetX Holding Corp Common Stock
+Ticker: VHC
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Zephyr Cove
+Website: https://www.virnetx.com
+Employees: 23
+Business Summary: VirnetX Holding Corporation, through its subsidiary VirnetX, Inc., operates as an Internet security software and technology company primarily in the United States. The company develops software and technology solutions, including secure domain name registry and GABRIEL Connection Technology that are designed to secure communications over the Internet using zero trust network access. It also offers a portfolio of licenses and services, such as VirnetX One, a security-as-a-service platform that protects enterprise applications, services, and infrastructure from cyber-attacks; GABRIEL Connection Technology software development kit to assist with rapid integration of its techniques into existing software implementations; War Room software that offers safe and secure video conferencing meeting environment where sensitive communications and data is invisible to those not authorized to view it; and VirnetX Matrix that provides security for internet-enabled enterprise applications and their connected devices. It serves domain infrastructure and communication service providers, and system integrators; and enterprise customers, developers, and original equipment manufacturers of chips, servers, desktops, smart phones, tablets, laptops, net books, and other devices in the IP-telephony, mobility, fixed-mobile convergence, and unified communications markets. VirnetX Holding Corporation was incorporated in 2005 and is headquartered in Zephyr Cove, Nevada.

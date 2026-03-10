@@ -1,0 +1,25 @@
+Company: Bitcoin Infrastructure Acquisition Corp Ltd. Class A Ordinary Shares
+Ticker: BIXI
+Market Cap: 301627360
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -3303.3333
+Beta: 
+52 Week High: 9.95
+52 Week Low: 9.8

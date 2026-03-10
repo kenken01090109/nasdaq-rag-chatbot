@@ -1,0 +1,25 @@
+Company: Intellia Therapeutics Inc. Common Stock
+Ticker: NTLA
+Market Cap: 1587714816
+Enterprise Value: 1196901120
+Total Revenue: 67671000
+Revenue Per Share: 0.624
+EBITDA: -431223008
+Gross Margins: 0.0
+Operating Margins: -4.28857
+Profit Margins: 0.0
+Free Cashflow: -233285744
+Operating Cashflow: -394736000
+Return On Assets: -0.27113
+Return On Equity: -0.5348
+Total Cash: 449884000
+Total Debt: 93329000
+Debt To Equity: 13.901
+Current Ratio: 5.08
+Quick Ratio: 4.422
+Trailing PE: 
+Forward PE: -4.6011324
+Price To Book: 2.3284824
+Beta: 2.023
+52 Week High: 28.25
+52 Week Low: 5.9

@@ -1,0 +1,12 @@
+Company: Chaince Digital Holdings Inc. Ordinary Shares
+Ticker: CD
+CIK: 0001527762
+Latest SEC XBRL Facts:
+Revenues: 863438 | unit=USD | filed=2023-04-25 | period_end=2022-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1007430 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -4534397 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 35691313 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 11602495 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 24088818 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3574217 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 23915856 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

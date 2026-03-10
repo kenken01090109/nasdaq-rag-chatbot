@@ -1,0 +1,10 @@
+Company: Envirotech Vehicles Inc. Common Stock
+Ticker: EVTV
+CIK: 0001563568
+Latest SEC XBRL Facts:
+NetIncomeLoss: -25540675 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Assets: 18195570 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Liabilities: 16333472 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+StockholdersEquity: 1862098 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6295792 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 77595 | unit=USD | filed=2025-11-20 | period_end=2025-09-30

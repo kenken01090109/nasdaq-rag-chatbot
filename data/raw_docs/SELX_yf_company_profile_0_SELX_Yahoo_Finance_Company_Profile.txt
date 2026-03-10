@@ -1,0 +1,9 @@
+Company: Semilux International Ltd. Ordinary Shares
+Ticker: SELX
+Sector: Technology
+Industry: Electronic Components
+Country: Taiwan
+City: Taichung
+Website: https://www.semilux.com
+Employees: 58
+Business Summary: Semilux International Ltd., through its subsidiaries, develops, manufactures, and sells laser module and its components. It is an optical technology company, which engages in customization design and supply of optical components. It designs and produces high-precision optics and fluorescent modules; and engages in sale of artificial intelligence related products, as well as 	investment holding activities. It offers laser lights modules and related optical components use in commercial projectors, car lights, and optical sensors; laser lights module consists of laser diodes and fluorescent chips; color filters use in optical/laser modules; color filter wheels; fluorescent chip and wheel; and wafer level optics. The company was founded in 2009 and is based in Taichung, Taiwan.

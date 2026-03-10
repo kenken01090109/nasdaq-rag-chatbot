@@ -1,0 +1,11 @@
+Company: Casey's General Stores Inc. Common Stock
+Ticker: CASY
+CIK: 0000726958
+Latest SEC XBRL Facts:
+Revenues: 9073190000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: 421691000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 8585167000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 4775639000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 3809528000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 719486000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 492016000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

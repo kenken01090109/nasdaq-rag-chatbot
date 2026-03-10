@@ -1,0 +1,9 @@
+Company: Service Properties Trust Common Stock
+Ticker: SVC
+Sector: Real Estate
+Industry: REIT - Hotel & Motel
+Country: United States
+City: Newton
+Website: https://www.svcreit.com
+Employees: 
+Business Summary: Service Properties Trust is a real estate investment trust, or REIT, with over $10 billion invested in two asset categories: hotels and service-focused retail net lease properties. As of September 30, 2025, SVC owned 160 hotels with over 29,000 guest rooms throughout the United States and in Puerto Rico and Canada. As of September 30, 2025, SVC also owned 752 service-focused retail net lease properties with over 13.1 million square feet throughout the United States. SVC is managed by The RMR Group (Nasdaq: RMR), a leading U.S. alternative asset management company with approximately $39 billion in assets under management as of September 30, 2025, and more than 35 years of institutional experience in buying, selling, financing and operating commercial real estate. SVC is headquartered in Newton, MA.

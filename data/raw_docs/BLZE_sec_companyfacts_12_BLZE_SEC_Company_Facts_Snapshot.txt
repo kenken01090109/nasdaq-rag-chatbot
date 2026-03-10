@@ -1,0 +1,11 @@
+Company: Backblaze Inc. Class A Common Stock
+Ticker: BLZE
+CIK: 0001462056
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 108073000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -20199000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 191530000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 108701000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 82829000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14231000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29077000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

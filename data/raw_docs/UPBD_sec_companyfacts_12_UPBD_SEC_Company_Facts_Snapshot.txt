@@ -1,0 +1,11 @@
+Company: Upbound Group Inc. Common Stock
+Ticker: UPBD
+CIK: 0000933036
+Latest SEC XBRL Facts:
+Revenues: 3498616000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 53499000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 3211634000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 2524330000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 687304000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 263987000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 107021000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

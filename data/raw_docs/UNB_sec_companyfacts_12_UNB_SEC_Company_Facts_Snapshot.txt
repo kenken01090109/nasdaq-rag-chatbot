@@ -1,0 +1,9 @@
+Company: Union Bankshares Inc. Common Stock
+Ticker: UNB
+CIK: 0000706863
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8332000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1573917000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1496238000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 77679000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14057000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Gibraltar Industries Inc. Common Stock
+Ticker: ROCK
+Market Cap: 1188501248
+Enterprise Value: 1160180480
+Total Revenue: 1135501056
+Revenue Per Share: 38.008
+EBITDA: 171687008
+Gross Margins: 0.27142
+Operating Margins: 0.110240005
+Profit Margins: -0.03909
+Free Cashflow: 58693752
+Operating Cashflow: 167000992
+Return On Assets: 0.06303
+Return On Equity: 0.097629994
+Total Cash: 115724000
+Total Debt: 57679000
+Debt To Equity: 6.069
+Current Ratio: 1.718
+Quick Ratio: 0.832
+Trailing PE: 9.020179
+Forward PE: 8.496304
+Price To Book: 1.2506995
+Beta: 1.337
+52 Week High: 75.08
+52 Week Low: 39.495

@@ -1,0 +1,25 @@
+Company: Pharvaris N.V. Ordinary Shares
+Ticker: PHVS
+Market Cap: 1683099520
+Enterprise Value: 1354392448
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -167259872
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -76153248
+Operating Cashflow: -134074560
+Return On Assets: -0.32074
+Return On Equity: -0.53764
+Total Cash: 329285632
+Total Debt: 578657
+Debt To Equity: 0.185
+Current Ratio: 12.863
+Quick Ratio: 12.673
+Trailing PE: 
+Forward PE: -8.155773
+Price To Book: 4.643718
+Beta: -2.708
+52 Week High: 29.797
+52 Week Low: 11.51

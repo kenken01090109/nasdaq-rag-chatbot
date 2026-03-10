@@ -1,0 +1,25 @@
+Company: Prothena Corporation plc Ordinary Shares
+Ticker: PRTA
+Market Cap: 516258336
+Enterprise Value: 210102016
+Total Revenue: 9684000
+Revenue Per Share: 0.18
+EBITDA: -183664992
+Gross Margins: 0.0
+Operating Margins: -1295.7618
+Profit Margins: 0.0
+Free Cashflow: -78525000
+Operating Cashflow: -163580000
+Return On Assets: -0.26399
+Return On Equity: -0.63615
+Total Cash: 307531008
+Total Debt: 8373000
+Debt To Equity: 2.985
+Current Ratio: 7.717
+Quick Ratio: 7.53
+Trailing PE: 
+Forward PE: -9.59
+Price To Book: 1.840691
+Beta: -0.279
+52 Week High: 15.14
+52 Week Low: 4.32

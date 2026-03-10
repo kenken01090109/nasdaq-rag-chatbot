@@ -1,0 +1,9 @@
+Company: Canadian Solar Inc. Common Shares (ON)
+Ticker: CSIQ
+Sector: Technology
+Industry: Solar
+Country: Canada
+City: Kitchener
+Website: https://www.canadiansolar.com
+Employees: 17113
+Business Summary: Canadian Solar Inc., together with its subsidiaries, provides solar energy and battery energy storage products and solutions in Asia, the Americas, Europe, and internationally. It operates through two segments, CSI Solar and Recurrent Energy. The CSI Solar segment designs, develops, and manufactures solar ingots, wafers, cells, modules, and other solar power and battery storage products. It also offers standard solar modules and battery storage solutions, solar system kits, such as splar modules, inverters, racking systems, and other accessories; power electronic products; and engineering, procurement, and construction (EPC) services, as well as operates battery energy storage projects. The Recurrent Energy segment engages in the development, construction, maintenance, and sale of solar power and battery energy storage projects; operates solar power plants; and sells electricity and related services. This segment provides operation and maintenance (O&M) services, including monitoring, inspections, repair, and replacement of plant equipment, and site management and administrative support services for solar projects, as well as asset management services. It has a fleet of solar and battery energy storage plants in operation with an aggregate capacity of approximately 3929 MWh. It serves distributors, system integrators, project developers, and installers/EPC companies. Additionally, it caters to utility companies, public utilities, licensed suppliers, corporate offtakers, and commercial, industrial, or government end users primarily under its Canadian Solar brand name. Canadian Solar Inc. was incorporated in 2001 and is based in Kitchener, Canada.

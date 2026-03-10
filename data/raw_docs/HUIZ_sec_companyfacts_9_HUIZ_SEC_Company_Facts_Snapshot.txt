@@ -1,0 +1,11 @@
+Company: Huize Holding Limited American Depositary Shares
+Ticker: HUIZ
+CIK: 0001778982
+Latest SEC XBRL Facts:
+Revenues: 171101000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetIncomeLoss: -89000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Assets: 121136000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Liabilities: 62329000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+StockholdersEquity: 55998000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -2593000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 31949000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31

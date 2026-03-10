@@ -1,0 +1,8 @@
+Company: ITHAX Acquisition Corp III Warrants
+Ticker: ITHAW
+CIK: 0002080985
+Latest SEC XBRL Facts:
+NetIncomeLoss: -37638 | unit=USD | filed=2026-01-27 | period_end=2025-09-30
+Assets: 30900 | unit=USD | filed=2026-01-27 | period_end=2025-09-30
+Liabilities: 43538 | unit=USD | filed=2026-01-27 | period_end=2025-09-30
+StockholdersEquity: -12638 | unit=USD | filed=2026-01-27 | period_end=2025-09-30

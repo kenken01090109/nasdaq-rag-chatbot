@@ -1,0 +1,11 @@
+Company: Orion Energy Systems Inc. Common Stock
+Ticker: OESX
+CIK: 0001409375
+Latest SEC XBRL Facts:
+Revenues: 60583000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -1665000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 48251000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 36412000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 11839000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 407000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4721000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

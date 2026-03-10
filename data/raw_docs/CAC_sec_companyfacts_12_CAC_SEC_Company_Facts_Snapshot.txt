@@ -1,0 +1,11 @@
+Company: Camden National Corporation Common Stock
+Ticker: CAC
+CIK: 0000750686
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 30431000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 42601000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6981522000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6305078000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 676444000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 43162000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 139568000 | unit=USD | filed=2019-05-09 | period_end=2019-03-31

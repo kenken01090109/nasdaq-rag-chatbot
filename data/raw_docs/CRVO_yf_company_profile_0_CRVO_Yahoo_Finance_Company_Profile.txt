@@ -1,0 +1,9 @@
+Company: CervoMed Inc. Common Stock
+Ticker: CRVO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.cervomed.com
+Employees: 15
+Business Summary: CervoMed Inc., a a clinical-stage biotechnology company, engages in the development and commercialization of treatments for age-related neurologic disorders. The company is developing neflamapimod, an orally administered small molecule brain penetrant that inhibits p38 mitogen-activated protein kinase alpha. Neflamapimod has the potential to treat synaptic dysfunction, the reversible aspect of the underlying neurodegenerative processes that cause disease in DLB and certain other major neurological disorders. It is being evaluated in a Phase 2b study in patients with DLB. The company develops EIP200 for central nervous system which is in preclinical trials. CervoMed Inc. was founded in 2010 and is headquartered in Boston, Massachusetts.

@@ -1,0 +1,11 @@
+Company: Reading International Inc Class B Common Stock
+Ticker: RDIB
+CIK: 0000716634
+Latest SEC XBRL Facts:
+Revenues: 152716000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -11580000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 435186000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 448198000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -12062000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5856000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8090000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: LINKBANCORP Inc. Common Stock
+Ticker: LNKB
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Camp Hill
+Website: https://www.linkbank.com
+Employees: 
+Business Summary: LINKBANCORP, Inc. operates as a bank holding company for LINKBANK that provides various banking products and services in Pennsylvania. Its deposit products include noninterest-bearing and interest-bearing demand, savings, and money market accounts; and time and brokered time deposits, as well as certificates of deposit. The company also offers commercial real estate, commercial business, construction and land development, residential real estate, home equity, consumer, agricultural, and municipal loans. In addition, the company provides online banking, mobile banking, direct and remote deposit, and cash management services. It serves individuals, families, nonprofits, municipalities, and business customers. LINKBANCORP, Inc. was founded in 1934 and is headquartered in Camp Hill, Pennsylvania.

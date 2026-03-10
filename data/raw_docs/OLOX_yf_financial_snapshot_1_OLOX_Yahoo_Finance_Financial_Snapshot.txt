@@ -1,0 +1,25 @@
+Company: Olenox Industries Inc. Common Stock
+Ticker: OLOX
+Market Cap: 7603567
+Enterprise Value: 19622686
+Total Revenue: 3382896
+Revenue Per Share: 18.374
+EBITDA: -10233119
+Gross Margins: -0.63437
+Operating Margins: -2.38566
+Profit Margins: 0.0
+Free Cashflow: 1460190
+Operating Cashflow: -4800834
+Return On Assets: -0.21801001
+Return On Equity: -2.28409
+Total Cash: 3021757
+Total Debt: 12194025
+Debt To Equity: 48.902
+Current Ratio: 0.183
+Quick Ratio: 0.138
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.044655822
+Beta: 2.002
+52 Week High: 96.0
+52 Week Low: 0.793

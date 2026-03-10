@@ -1,0 +1,25 @@
+Company: YSX Tech. Co. Ltd Class A Ordinary Shares
+Ticker: YSXT
+Market Cap: 38477848
+Enterprise Value: 40036472
+Total Revenue: 78350176
+Revenue Per Share: 3.389
+EBITDA: 5403731
+Gross Margins: 0.099630006
+Operating Margins: 0.07108
+Profit Margins: 0.06093
+Free Cashflow: -14836077
+Operating Cashflow: -13513699
+Return On Assets: 0.08422
+Return On Equity: 0.18361
+Total Cash: 319103
+Total Debt: 7543076
+Debt To Equity: 24.462
+Current Ratio: 3.227
+Quick Ratio: 2.465
+Trailing PE: 6.9
+Forward PE: 
+Price To Book: 1.0486323
+Beta: 
+52 Week High: 9.96
+52 Week Low: 1.03

@@ -1,0 +1,11 @@
+Company: Ekso Bionics Holdings Inc. Common Stock
+Ticker: EKSO
+CIK: 0001549084
+Latest SEC XBRL Facts:
+Revenues: 5486000 | unit=USD | filed=2018-08-07 | period_end=2018-06-30
+NetIncomeLoss: -7021000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 21661000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 11982000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 9679000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7470000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2722000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

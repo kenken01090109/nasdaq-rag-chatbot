@@ -1,0 +1,25 @@
+Company: Rand Capital Corporation Common Stock
+Ticker: RAND
+Market Cap: 34895316
+Enterprise Value: 31696104
+Total Revenue: 6474892
+Revenue Per Share: 2.198
+EBITDA: 5423749
+Gross Margins: 1.0
+Operating Margins: 0.5017
+Profit Margins: -1.24166
+Free Cashflow: -1770016
+Operating Cashflow: 11251648
+Return On Assets: 0.05371
+Return On Equity: -0.13683
+Total Cash: 4208948
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 7.502
+Quick Ratio: 7.045
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.66871554
+Beta: 
+52 Week High: 26.0
+52 Week Low: 10.05

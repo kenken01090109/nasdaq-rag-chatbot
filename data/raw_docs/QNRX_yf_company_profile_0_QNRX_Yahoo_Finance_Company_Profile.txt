@@ -1,0 +1,9 @@
+Company: Quoin Pharmaceuticals Ltd. American Depositary Shares
+Ticker: QNRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Ashburn
+Website: https://quoinpharma.com
+Employees: 3
+Business Summary: Quoin Pharmaceuticals, Ltd., a late stage specialty pharmaceutical company, focuses on the development and commercialization of therapeutic products for rare and orphan diseases in the United States. The company's lead product is QRX003, a topical lotion to treat Netherton Syndrome (NS). It also developing QRX004 for the treatment of recessive dystrophic epidermolysis bullosa; QRX007 to treat Netherton Syndrome; and QRX008 for the treatment of scleroderma. It has a research agreement with Queensland University of Technology; a license agreement with Skinvisible Inc.; consulting agreements with Axella Research LLC; and a Master Service Agreement with Therapeutics Inc. Quoin Pharmaceuticals, Ltd. was founded in 2018 and is based in Ashburn, Virginia. Quoin Pharmaceuticals, Ltd. is a subsidiary of Skinvisible, Inc.

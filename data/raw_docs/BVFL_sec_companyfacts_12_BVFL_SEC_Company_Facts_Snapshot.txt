@@ -1,0 +1,10 @@
+Company: BV Financial Inc. Common Stock
+Ticker: BVFL
+CIK: 0001302387
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8690000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 909386000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 719176000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 190210000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15585000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63546000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

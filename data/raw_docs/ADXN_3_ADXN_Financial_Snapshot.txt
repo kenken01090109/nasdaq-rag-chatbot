@@ -1,0 +1,12 @@
+Company: Addex Therapeutics Ltd American Depositary Shares
+Ticker: ADXN
+Total Revenue: 158538
+Revenue Per Share: 0.24
+Gross Margins: 0.0
+Operating Margins: -14.0357895
+EBITDA: -2456840
+Profit Margins: 0.0
+Free Cashflow: -599840
+Operating Cashflow: -1575307
+Return On Assets: -0.15904
+Return On Equity: -0.72837996

@@ -1,0 +1,9 @@
+Company: Ideal Power Inc. Common Stock
+Ticker: IPWR
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Austin
+Website: https://www.idealpower.com
+Employees: 16
+Business Summary: Ideal Power Inc. focuses on the development and commercialization of its bidirectional bipolar junction TRANsistor solid-state switch technology. It offers SymCool Power Module designed to meet low conduction loss needs of the solid-state circuit breaker market. The company serves electric and hybrid electric vehicles, electric vehicle charging, renewable energy and energy storage system power converters, uninterruptible power supplies for data centers, industrial motor drives, solid-state circuit breakers, distribution and transmission switches and controls, and other industrial and military markets. The company was formerly known as Ideal Power Converters Inc. and changed its name to Ideal Power Inc. in July 2013. The company was incorporated in 2007 and is headquartered in Austin, Texas.

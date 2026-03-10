@@ -1,0 +1,11 @@
+Company: BioAtla Inc. Common Stock
+Ticker: BCAB
+CIK: 0001826892
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2023-11-07 | period_end=2023-09-30
+NetIncomeLoss: -49823000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 15908000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 47145000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -31237000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -40289000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8320000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: SiNtx Technologies Inc. Common Stock
+Ticker: SINT
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Salt Lake City
+Website: https://www.sintx.com
+Employees: 20
+Business Summary: Sintx Technologies, Inc., an advanced ceramics company, engages in the research, development, and commercialization of medical devices manufactured with silicon nitride for biomedical, technical, and antipathogenic applications in the United States. The company offers solid and porous silicon nitride; silicon nitrite powder; and silicon nitride coating products, as well as silicon nitride composite materials, polyether ether ketone, and polyetherketoneketone. The company was formerly known as Amedica Corporation. Sintx Technologies, Inc. was incorporated in 1996 and is headquartered in Salt Lake City, Utah.

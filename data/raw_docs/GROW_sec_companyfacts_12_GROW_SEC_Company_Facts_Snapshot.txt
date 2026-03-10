@@ -1,0 +1,11 @@
+Company: U.S. Global Investors Inc. Class A Common Stock
+Ticker: GROW
+CIK: 0000754811
+Latest SEC XBRL Facts:
+Revenues: 15241018 | unit=USD | filed=2013-05-08 | period_end=2013-03-31
+NetIncomeLoss: 661000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Assets: 47220000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+Liabilities: 3050000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+StockholdersEquity: 44170000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 224000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 25227000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31

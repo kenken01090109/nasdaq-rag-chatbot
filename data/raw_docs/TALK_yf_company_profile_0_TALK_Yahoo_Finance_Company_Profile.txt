@@ -1,0 +1,9 @@
+Company: Talkspace Inc. Common Stock
+Ticker: TALK
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: New York
+Website: https://www.talkspace.com
+Employees: 
+Business Summary: Talkspace, Inc. operates as a virtual behavioral healthcare company that connects patients with licensed mental health providers in the United States. The company provides psychotherapy and psychiatry services to treat various mental health conditions, such as depression, anxiety, trauma, and other fields of human challenges by operating an online platform for one-on-one therapy delivered through messaging, audio, and video channels. It serves health insurance plans and employee assistance programs, direct-to-enterprise customers, and individual subscribers. Talkspace, Inc. was formerly known as Groop Internet Platform Inc. and changed its name to Talkspace, Inc. in June 2021. The company was founded in 2012 and is headquartered in New York, New York.

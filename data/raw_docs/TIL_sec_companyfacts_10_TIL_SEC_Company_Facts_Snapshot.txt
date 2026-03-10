@@ -1,0 +1,11 @@
+Company: Instil Bio Inc. Common Stock
+Ticker: TIL
+CIK: 0001789769
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+NetIncomeLoss: -63181000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 211768000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 91346000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 120422000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -29543000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5801000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

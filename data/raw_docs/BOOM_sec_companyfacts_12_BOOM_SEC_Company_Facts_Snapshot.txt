@@ -1,0 +1,11 @@
+Company: DMC Global Inc. Common Stock
+Ticker: BOOM
+CIK: 0000034067
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 466309000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -2288000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 644143000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 204089000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 252974000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38340000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26412000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

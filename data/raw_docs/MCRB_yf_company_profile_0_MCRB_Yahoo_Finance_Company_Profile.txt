@@ -1,0 +1,9 @@
+Company: Seres Therapeutics Inc. Common Stock
+Ticker: MCRB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.serestherapeutics.com
+Employees: 103
+Business Summary: Seres Therapeutics, Inc., a clinical-stage company, focuses on developing biotherapeutics for serious diseases. The company develops SER-155, an investigational oral live biotherapeutic to decolonize gastrointestinal pathogens, enhance epithelial barrier integrity, and regulate immune response to prevent bacterial bloodstream infections, as well as other pathogen-associated negative clinical outcomes in patients undergoing allogeneic hematopoietic stem cell transplantation. Its other pipeline programs include SER-147, a live biotherapeutic composition to prevent bacterial bloodstream and spontaneous bacterial peritonitis infections in patients with metabolic disease, including chronic liver disease; and SER-287 and SER-301, which are in clinical trials for the treatment of mild-to-moderate ulcerative colitis. The company was formerly known as Seres Health, Inc. and changed its name to Seres Therapeutics, Inc. in May 2015. Seres Therapeutics, Inc. was incorporated in 2010 and is headquartered in Cambridge, Massachusetts.

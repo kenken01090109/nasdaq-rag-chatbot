@@ -1,0 +1,11 @@
+Company: Heartflow Inc. Common Stock
+Ticker: HTFL
+CIK: 0001464521
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 126904000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -92396000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 364398000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 109830000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 254568000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43427000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 291167000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

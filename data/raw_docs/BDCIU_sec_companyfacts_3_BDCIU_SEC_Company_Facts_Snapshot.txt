@@ -1,0 +1,8 @@
+Company: BTC Development Corp. Unit
+Ticker: BDCIU
+CIK: 0002042292
+Latest SEC XBRL Facts:
+NetIncomeLoss: -98107 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 5657308 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 5782059 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -124751 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

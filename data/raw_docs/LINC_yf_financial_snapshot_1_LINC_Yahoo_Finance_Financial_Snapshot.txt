@@ -1,0 +1,25 @@
+Company: Lincoln Educational Services Corporation Common Stock
+Ticker: LINC
+Market Cap: 1133396864
+Enterprise Value: 1321075072
+Total Revenue: 518240992
+Revenue Per Share: 16.749
+EBITDA: 49811000
+Gross Margins: 0.60368
+Operating Margins: 0.11807
+Profit Margins: 0.03859
+Free Cashflow: -41817752
+Operating Cashflow: 59311000
+Return On Assets: 0.03896
+Return On Equity: 0.10582
+Total Cash: 28519000
+Total Debt: 203864000
+Debt To Equity: 102.091
+Current Ratio: 0.864
+Quick Ratio: 0.746
+Trailing PE: 56.0
+Forward PE: 35.137257
+Price To Book: 5.676275
+Beta: 0.904
+52 Week High: 37.85
+52 Week Low: 14.1

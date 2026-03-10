@@ -1,0 +1,9 @@
+Company: GlucoTrack Inc. Common Stock
+Ticker: GCTK
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Rutherford
+Website: https://glucotrack.com
+Employees: 11
+Business Summary: GlucoTrack, Inc., a medical device company, focuses on the development of an implantable continuous blood glucose monitor (CBGM) for people with diabetes in the United States. The company develops the GlucoTrack, a non-invasive glucose monitoring device that helps people with diabetes and pre-diabetics to obtain blood glucose level readings without the pain through a small sensor clipped onto the earlobe. It is also developing the GlucoTrack CBGM, a long-term implantable blood-based CBGM for use by Type 1 diabetes patients and insulin-dependent Type 2 diabetes patients. The company was formerly known as Integrity Applications, Inc. and changed its name to GlucoTrack, Inc. in November 2021. GlucoTrack, Inc. was founded in 2001 and is based in Rutherford, New Jersey.

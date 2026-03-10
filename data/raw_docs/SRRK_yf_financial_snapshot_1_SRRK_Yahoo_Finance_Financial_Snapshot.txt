@@ -1,0 +1,25 @@
+Company: Scholar Rock Holding Corporation Common Stock
+Ticker: SRRK
+Market Cap: 4619917824
+Enterprise Value: 4944407552
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -382987008
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -162622256
+Operating Cashflow: -300035008
+Return On Assets: -0.54687
+Return On Equity: -1.23083
+Total Cash: 367563008
+Total Debt: 108915000
+Debt To Equity: 44.367
+Current Ratio: 6.95
+Quick Ratio: 6.683
+Trailing PE: 
+Forward PE: -22.518896
+Price To Book: 20.013258
+Beta: 0.746
+52 Week High: 49.82
+52 Week Low: 22.71

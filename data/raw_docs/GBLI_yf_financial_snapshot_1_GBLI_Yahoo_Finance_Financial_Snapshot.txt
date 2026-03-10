@@ -1,0 +1,25 @@
+Company: Global Indemnity Group LLC Class A Common Stock
+Ticker: GBLI
+Market Cap: 408232704
+Enterprise Value: 324610112
+Total Revenue: 441716992
+Revenue Per Share: 31.477
+EBITDA: 37638000
+Gross Margins: 0.15399
+Operating Margins: 0.14067
+Profit Margins: 0.06316
+Free Cashflow: 67269872
+Operating Cashflow: 1678000
+Return On Assets: 0.012920001
+Return On Equity: 0.040120002
+Total Cash: 75360000
+Total Debt: 8922000
+Debt To Equity: 1.267
+Current Ratio: 1.231
+Quick Ratio: 0.754
+Trailing PE: 14.6907215
+Forward PE: 8.878505
+Price To Book: 0.5830725
+Beta: 0.402
+52 Week High: 37.0
+52 Week Low: 25.88

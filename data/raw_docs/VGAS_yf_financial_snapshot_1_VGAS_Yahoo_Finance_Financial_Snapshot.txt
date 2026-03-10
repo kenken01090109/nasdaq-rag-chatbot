@@ -1,0 +1,25 @@
+Company: Verde Clean Fuels Inc. Class A Common Stock
+Ticker: VGAS
+Market Cap: 62814964
+Enterprise Value: -1098503
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -12120759
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -12158013
+Operating Cashflow: -9788184
+Return On Assets: -0.16296
+Return On Equity: -0.23732
+Total Cash: 59440000
+Total Debt: 281000
+Debt To Equity: 0.439
+Current Ratio: 19.778
+Quick Ratio: 19.554
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.8159722
+Beta: -0.377
+52 Week High: 4.15
+52 Week Low: 0.92

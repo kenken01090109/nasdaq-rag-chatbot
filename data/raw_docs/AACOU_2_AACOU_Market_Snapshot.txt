@@ -1,0 +1,10 @@
+Company: Abony Acquisition Corp. I Units
+Ticker: AACOU
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -4972.4995
+Beta: 
+52 Week High: 10.01
+52 Week Low: 9.93

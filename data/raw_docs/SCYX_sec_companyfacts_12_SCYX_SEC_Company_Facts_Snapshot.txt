@@ -1,0 +1,12 @@
+Company: SCYNEXIS Inc. Common Stock
+Ticker: SCYX
+CIK: 0001178253
+Latest SEC XBRL Facts:
+Revenues: 193000 | unit=USD | filed=2017-11-07 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1955000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -20867000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 51071000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 14641000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 36430000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23684000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14797000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

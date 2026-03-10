@@ -1,0 +1,9 @@
+Company: ParaZero Technologies Ltd. Ordinary Shares
+Ticker: PRZO
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: Israel
+City: Kfar Saba
+Website: https://parazero.com
+Employees: 22
+Business Summary: ParaZero Technologies Ltd., an aerospace company, designs, develops, manufactures, markets, and sells autonomous parachute safety systems for commercial drones in the United States, Israel, Canada, Europe, and internationally. The company offers SafeAir system, a smart parachute system that monitors unmanned aerial systems flight in real-time, as well as identifies critical failures and autonomously triggers a parachute in the event of an emergency. Its autonomous parachute system portfolio includes SafeAir Mavic 2, SafeAir Mavic 3, SafeAir Anzu Raptor, SafeAir M-300 Pro, SafeAir 350 Pro, SafeAir V1EX, SafeAir eVTOL, and Custom Integrations. It also offers DefendAir technology, including DefendAir Drone/FPV and Personal DefendAir Gun; and the DropAir Precision Airdrop System. The company sells directly to customers through system manufacturers, resellers, and online stores. ParaZero Technologies Ltd. was incorporated in 2013 and is headquartered in Kfar Saba, Israel.

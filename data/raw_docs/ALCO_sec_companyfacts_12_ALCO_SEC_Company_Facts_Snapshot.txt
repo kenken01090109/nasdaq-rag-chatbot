@@ -1,0 +1,12 @@
+Company: Alico Inc. Common Stock
+Ticker: ALCO
+CIK: 0000003545
+Latest SEC XBRL Facts:
+Revenues: 1031000 | unit=USD | filed=2022-12-13 | period_end=2022-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 43264000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+NetIncomeLoss: -138841000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+Assets: 210560000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+Liabilities: 93860000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+StockholdersEquity: 111731000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 22841000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 42073000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30

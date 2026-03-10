@@ -1,0 +1,8 @@
+Company: Leapfrog Acquisition Corporation Units
+Ticker: LFACU
+CIK: 0002084563
+Latest SEC XBRL Facts:
+NetIncomeLoss: -60889 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+Assets: 295429 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+StockholdersEquity: -35889 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 0 | unit=USD | filed=2026-01-20 | period_end=2025-09-30

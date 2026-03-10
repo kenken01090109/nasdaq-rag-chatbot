@@ -1,0 +1,7 @@
+Company: Alkami Technology Inc. Common Stock
+Ticker: ALKT
+Business Summary: Alkami Technology, Inc. provides a cloud-based digital sales and service platform for financial institutions in the United States. The company offers the Alkami digital sales & service platform, which includes the Alkami digital banking platform, onboarding & account opening, and data & marketing modules. Its solutions enable financial institutions to onboard and engage new users, accelerate revenues, and enhance operational efficiency, with the support of proprietary, cloud-based, and multi-tenant architecture. It serves community, regional, super-regional credit unions, and banks. The company was founded in 2009 and is based in Plano, Texas.
+Sector: Technology
+Industry: Software - Application
+Exchange: NMS
+Quote Type: EQUITY

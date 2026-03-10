@@ -1,0 +1,12 @@
+Company: Logitech International S.A. Ordinary Shares
+Ticker: LOGI
+CIK: 0001032975
+Latest SEC XBRL Facts:
+Revenues: 2164014000 | unit=USD | filed=2019-01-24 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3755238000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+NetIncomeLoss: 567724000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+Assets: 4095689000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+Liabilities: 1759966000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+StockholdersEquity: 2335723000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 834414000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1817820000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31

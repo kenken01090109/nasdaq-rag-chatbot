@@ -1,0 +1,25 @@
+Company: Palladyne AI Corp Warrants
+Ticker: PDYNW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 5246000
+Revenue Per Share: 0.135
+EBITDA: -31312000
+Gross Margins: 0.48723
+Operating Margins: -5.60747
+Profit Margins: 1.91365
+Free Cashflow: -17015500
+Operating Cashflow: -27637000
+Return On Assets: -0.26654
+Return On Equity: 0.30822
+Total Cash: 47055000
+Total Debt: 10783000
+Debt To Equity: 14.44
+Current Ratio: 9.276
+Quick Ratio: 8.931
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.052748613
+Beta: 3.783
+52 Week High: 0.1099
+52 Week Low: 0.078

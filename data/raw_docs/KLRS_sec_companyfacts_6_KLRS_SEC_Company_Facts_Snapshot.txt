@@ -1,0 +1,11 @@
+Company: Kalaris Therapeutics Inc. Common Stock
+Ticker: KLRS
+CIK: 0001754068
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 165000 | unit=USD | filed=2020-11-10 | period_end=2019-09-30
+NetIncomeLoss: -33440000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 81175000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 39310000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 41865000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31313000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42387000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

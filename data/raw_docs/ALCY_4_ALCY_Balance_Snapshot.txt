@@ -1,0 +1,8 @@
+Company: Alchemy Investments Acquisition Corp 1 Class A Ordinary Shares
+Ticker: ALCY
+Total Cash: 319258
+Total Debt: 1710000
+Debt To Equity: 
+Current Ratio: 0.106
+Quick Ratio: 0.094
+Book Value: -1.931

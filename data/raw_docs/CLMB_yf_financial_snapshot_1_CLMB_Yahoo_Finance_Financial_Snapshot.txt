@@ -1,0 +1,25 @@
+Company: Climb Global Solutions Inc. Common Stock
+Ticker: CLMB
+Market Cap: 401923520
+Enterprise Value: 360955840
+Total Revenue: 652516992
+Revenue Per Share: 144.235
+EBITDA: 37720000
+Gross Margins: 0.16133
+Operating Margins: 0.04947
+Profit Margins: 0.03269
+Free Cashflow: 9034875
+Operating Cashflow: 16604000
+Return On Assets: 0.04034
+Return On Equity: 0.20592
+Total Cash: 36563000
+Total Debt: 2198000
+Debt To Equity: 1.885
+Current Ratio: 1.109
+Quick Ratio: 1.069
+Trailing PE: 18.735483
+Forward PE: 14.854221
+Price To Book: 3.3946385
+Beta: 1.126
+52 Week High: 145.02
+52 Week Low: 80.08

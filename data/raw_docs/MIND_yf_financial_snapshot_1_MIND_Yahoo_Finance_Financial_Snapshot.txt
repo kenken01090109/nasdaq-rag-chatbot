@@ -1,0 +1,25 @@
+Company: MIND Technology Inc. Common Stock (DE)
+Ticker: MIND
+Market Cap: 70406656
+Enterprise Value: 52286660
+Total Revenue: 46195000
+Revenue Per Share: 5.786
+EBITDA: 6435000
+Gross Margins: 0.45942003
+Operating Margins: 0.07989
+Profit Margins: 0.06607
+Free Cashflow: 5668250
+Operating Cashflow: 5861000
+Return On Assets: 0.08331
+Return On Equity: 0.09369001
+Total Cash: 19387000
+Total Debt: 1267000
+Debt To Equity: 3.172
+Current Ratio: 6.277
+Quick Ratio: 4.401
+Trailing PE: 
+Forward PE: 12.564516
+Price To Book: 1.7501684
+Beta: 0.616
+52 Week High: 14.5
+52 Week Low: 4.45

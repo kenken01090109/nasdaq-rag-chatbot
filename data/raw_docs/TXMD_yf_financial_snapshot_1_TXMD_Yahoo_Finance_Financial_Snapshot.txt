@@ -1,0 +1,25 @@
+Company: TherapeuticsMD Inc. Common Stock
+Ticker: TXMD
+Market Cap: 26042316
+Enterprise Value: 25410314
+Total Revenue: 2796000
+Revenue Per Share: 0.242
+EBITDA: -1323000
+Gross Margins: 1.0
+Operating Margins: -0.37755
+Profit Margins: 0.108009994
+Free Cashflow: -1394750
+Operating Cashflow: 2068000
+Return On Assets: -0.02733
+Return On Equity: 0.0026800002
+Total Cash: 7115000
+Total Debt: 6483000
+Debt To Equity: 23.623
+Current Ratio: 2.933
+Quick Ratio: 2.18
+Trailing PE: 225.0
+Forward PE: 6.4285717
+Price To Book: 0.9489667
+Beta: 0.537
+52 Week High: 2.95
+52 Week Low: 0.72

@@ -1,0 +1,9 @@
+Company: Jupiter Neurosciences Inc. Common Stock
+Ticker: JUNS
+CIK: 0001679628
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6069866 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2576259 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2518842 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 57417 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3045713 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

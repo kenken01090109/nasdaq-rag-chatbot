@@ -1,0 +1,25 @@
+Company: IBEX Limited Common Shares
+Ticker: IBEX
+Market Cap: 411018176
+Enterprise Value: 452655264
+Total Revenue: 603273984
+Revenue Per Share: 45.083
+EBITDA: 74282000
+Gross Margins: 0.30364
+Operating Margins: 0.09309
+Profit Margins: 0.073470004
+Free Cashflow: 31422500
+Operating Cashflow: 59079000
+Return On Assets: 0.12444
+Return On Equity: 0.33648998
+Total Cash: 15460000
+Total Debt: 64341000
+Debt To Equity: 41.641
+Current Ratio: 1.833
+Quick Ratio: 1.687
+Trailing PE: 10.139535
+Forward PE: 8.338798
+Price To Book: 2.6548364
+Beta: 0.667
+52 Week High: 42.99
+52 Week Low: 21.64

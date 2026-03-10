@@ -1,0 +1,9 @@
+Company: Stagwell Inc. Class A Common Stock
+Ticker: STGW
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: United States
+City: New York
+Website: https://www.stagwellglobal.com
+Employees: 11857
+Business Summary: Stagwell Inc. provides digital transformation, performance media and data, consumer insights and strategy, and creativity and communications services in the United States, the United Kingdom, and internationally. The company develops in-house software and related technology products, including AI-enabled communications, research, and media technology, cookie-less data platforms, software tools for e-commerce applications, specialty media solutions in the augmented reality space, and applications of text-messaging for consumer engagement; designs and builds digital platforms and experiences that support the delivery of content, commerce, service, and sales; creates websites, mobile applications, back-end systems, content and data management systems, and other digital environments; and designs and implements technology and data strategies. It also develops omnichannel media strategies and provide coordinated execution for the placement of advertisements; and provides audience analysis, and media buying and planning services, as well as strategic insights and guidance services that offers business content, product, communications, and media strategies. Further, it offers Stagwell Marketing Cloud, a suite of software-as-a-service (SaaS) and data-as-a-service (DaaS) technology solutions, including research and insights, communications technology, media studios, and advance media platform; and a suite of marketing services, as well as self-service technology-driven solutions for in-house marketers. Stagwell Inc. was founded in 2015 and is headquartered in New York, New York.

@@ -1,0 +1,11 @@
+Company: Perpetuals.com Ltd American Depositary Shares
+Ticker: PDC
+CIK: 0001944399
+Latest SEC XBRL Facts:
+Revenues: 1476755 | unit=USD | filed=2025-03-03 | period_end=2024-10-31
+NetIncomeLoss: -723108 | unit=USD | filed=2025-03-03 | period_end=2024-10-31
+Assets: 2495266 | unit=USD | filed=2025-03-03 | period_end=2024-10-31
+Liabilities: 1047552 | unit=USD | filed=2025-03-03 | period_end=2024-10-31
+StockholdersEquity: 1447714 | unit=USD | filed=2025-03-03 | period_end=2024-10-31
+NetCashProvidedByUsedInOperatingActivities: -626527 | unit=USD | filed=2025-03-03 | period_end=2024-10-31
+CashAndCashEquivalentsAtCarryingValue: 1394769 | unit=USD | filed=2025-03-03 | period_end=2024-10-31

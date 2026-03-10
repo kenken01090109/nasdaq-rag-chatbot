@@ -1,0 +1,11 @@
+Company: IDEXX Laboratories Inc. Common Stock
+Ticker: IDXX
+CIK: 0000874716
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3213123000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 811276000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 3386712000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 1825526000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1561186000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 826045000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 208166000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

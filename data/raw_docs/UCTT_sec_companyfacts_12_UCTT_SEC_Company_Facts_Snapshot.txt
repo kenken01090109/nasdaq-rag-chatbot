@@ -1,0 +1,12 @@
+Company: Ultra Clean Holdings Inc. Common Stock
+Ticker: UCTT
+CIK: 0001275014
+Latest SEC XBRL Facts:
+Revenues: 1289800000 | unit=USD | filed=2023-11-07 | period_end=2023-09-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 2097600000 | unit=USD | filed=2025-02-25 | period_end=2024-12-27
+NetIncomeLoss: -177900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+Assets: 1720500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+Liabilities: 939200000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+StockholdersEquity: 709900000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+NetCashProvidedByUsedInOperatingActivities: 57500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26
+CashAndCashEquivalentsAtCarryingValue: 314100000 | unit=USD | filed=2025-10-29 | period_end=2025-09-26

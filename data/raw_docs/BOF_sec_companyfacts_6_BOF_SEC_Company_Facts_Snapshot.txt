@@ -1,0 +1,12 @@
+Company: BranchOut Food Inc. Common Stock
+Ticker: BOF
+CIK: 0001962481
+Latest SEC XBRL Facts:
+Revenues: 1470836 | unit=USD | filed=2024-05-14 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 9713287 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -4094090 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 14657328 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 9544563 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 5112765 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5064017 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

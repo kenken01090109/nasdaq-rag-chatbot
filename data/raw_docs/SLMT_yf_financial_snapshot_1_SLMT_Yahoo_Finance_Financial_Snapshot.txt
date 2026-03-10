@@ -1,0 +1,25 @@
+Company: Brera Holdings PLC Class B Ordinary Shares
+Ticker: SLMT
+Market Cap: 90390688
+Enterprise Value: 5418265
+Total Revenue: 2667448
+Revenue Per Share: 1.692
+EBITDA: -6770354
+Gross Margins: 0.89472
+Operating Margins: -14.99295
+Profit Margins: -1.3249
+Free Cashflow: -330547
+Operating Cashflow: -4547696
+Return On Assets: -0.24917
+Return On Equity: -0.88214
+Total Cash: 658136
+Total Debt: 2749312
+Debt To Equity: 29.769
+Current Ratio: 0.282
+Quick Ratio: 0.243
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.25761333
+Beta: 2.788
+52 Week High: 52.95
+52 Week Low: 0.992

@@ -1,0 +1,11 @@
+Company: Leslie's Inc. Common Stock
+Ticker: LESL
+CIK: 0001821806
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 147128000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03
+NetIncomeLoss: -82971000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03
+Assets: 649439000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03
+Liabilities: 1139289000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03
+StockholdersEquity: -489850000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03
+NetCashProvidedByUsedInOperatingActivities: -81134000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03
+CashAndCashEquivalentsAtCarryingValue: 3622000 | unit=USD | filed=2026-02-18 | period_end=2026-01-03

@@ -1,0 +1,9 @@
+Company: Nuvalent Inc. Class A Common Stock
+Ticker: NUVL
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://nuvalent.com
+Employees: 228
+Business Summary: Nuvalent, Inc., a clinical-stage biopharmaceutical company, engages in the development of therapies for patients with cancer. Its lead product candidates are Zidesamtinib (NVL-520), a novel ROS1-selective inhibitor to address the clinical challenges of emergent treatment resistance, central nervous system (CNS)-related adverse events, and brain metastases that may limit the use of ROS1 tyrosine kinase inhibitors (TKIs) for patients with ROS proto-oncogene 1 (ROS1)-positive non-small cell lung cancer (NSCLC) which is under the Phase 2 portion of the ARROS-1 Phase 1/2 clinical trial; Neladalkib (NVL-655), a brain-penetrant ALK-selective inhibitor, to address the clinical challenges of emergent treatment resistance, CNS-related adverse events, and brain metastases that might limit the use of first-, second-, and third-generation ALK inhibitors that is under the Phase 2 portion of the ALKOVE-1 clinical trial; and NVL-330, a brain-penetrant human epidermal growth factor receptor 2 (HER2)-selective inhibitor designed to treat tumors driven by HER2ex20, brain metastases, and avoiding treatment-limiting adverse events including due to off-target inhibition of wild-type EGFR that is in Phase 1a/1b clinical trial. The company was incorporated in 2017 and is headquartered in Cambridge, Massachusetts.

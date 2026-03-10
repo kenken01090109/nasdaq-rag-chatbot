@@ -1,0 +1,9 @@
+Company: Healthcare Services Group Inc. Common Stock
+Ticker: HCSG
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: United States
+City: Bensalem
+Website: https://www.hcsgcorp.com
+Employees: 36000
+Business Summary: Healthcare Services Group, Inc. provides management, administrative, and operating services to the housekeeping, laundry, linen, facility maintenance, and dietary service departments of nursing homes, retirement complexes, rehabilitation centers, and hospitals in the United States. The company operates in two segments, Environmental Services and Dietary. Its Environmental Services segment engages in cleaning, disinfecting, and sanitizing of resident rooms and common areas of the customers' facilities, as well as the laundering and processing of the bed linens, uniforms, resident personal clothing, and other assorted linen items utilized at the customers' facilities. The Dietary segment is involved in the management of the customers' dietary departments, which focus on food purchasing, meal preparation, and professional dietitian services, such as the development of menus that meet the dietary needs of residents; and the provision of on-site management and clinical consulting services. It serves long-term and post-acute care facilities, hospitals, and the healthcare industry through referrals and solicitation of target facilities. The company was incorporated in 1976 and is headquartered in Bensalem, Pennsylvania.

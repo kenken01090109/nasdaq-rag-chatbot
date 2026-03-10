@@ -1,0 +1,12 @@
+Company: Advantage Solutions Inc. Class A Common Stock
+Ticker: ADV
+CIK: 0001776661
+Latest SEC XBRL Facts:
+Revenues: 2610511000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2610511000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -66005000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2993522000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2285023000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 932531000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 15902000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 201137000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: TSS Inc. Common Stock
+Ticker: TSSI
+CIK: 0001320760
+Latest SEC XBRL Facts:
+Revenues: 184812000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 184812000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 2965000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 165412000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 102002000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 63410000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18544000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 70696000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

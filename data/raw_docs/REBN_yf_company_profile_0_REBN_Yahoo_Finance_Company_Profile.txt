@@ -1,0 +1,9 @@
+Company: Reborn Coffee Inc. Common Stock
+Ticker: REBN
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Brea
+Website: https://www.reborncoffee.com
+Employees: 
+Business Summary: Reborn Coffee, Inc., through its subsidiaries, operates and franchises retail locations, kiosks, and cafes that focus on serving specialty-roasted coffee in California and Europe. It purchases, roasts, and sells coffee, tea and other beverages, and various food items. It offers products in various form factors, such as whole bean roasted coffee bags, single-serve drip bags, pour over packs, and cold brew concentrates. The company also offers its products online. Reborn Coffee, Inc. was founded in 2014 and is based in Brea, California.

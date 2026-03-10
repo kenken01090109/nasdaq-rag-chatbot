@@ -1,0 +1,8 @@
+Company: Alchemy Investments Acquisition Corp 1 Warrants
+Ticker: ALCYW
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: -1.931

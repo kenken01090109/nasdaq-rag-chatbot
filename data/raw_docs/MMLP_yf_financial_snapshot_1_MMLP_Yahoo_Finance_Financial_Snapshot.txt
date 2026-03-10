@@ -1,0 +1,25 @@
+Company: Martin Midstream Partners L.P. Limited Partnership
+Ticker: MMLP
+Market Cap: 115603064
+Enterprise Value: 610452416
+Total Revenue: 716113024
+Revenue Per Share: 18.414
+EBITDA: 97055000
+Gross Margins: 0.19419001
+Operating Margins: 0.063990004
+Profit Margins: -0.02009
+Free Cashflow: 33510376
+Operating Cashflow: 46126000
+Return On Assets: 0.055209998
+Return On Equity: 
+Total Cash: 49000
+Total Debt: 498457984
+Debt To Equity: 
+Current Ratio: 1.046
+Quick Ratio: 0.543
+Trailing PE: 
+Forward PE: 19.733334
+Price To Book: -1.3297395
+Beta: 0.56
+52 Week High: 3.9
+52 Week Low: 2.21

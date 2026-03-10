@@ -1,0 +1,25 @@
+Company: Skyline Builders Group Holding Limited Class A Ordinary Shares
+Ticker: SKBL
+Market Cap: 42219180
+Enterprise Value: 93954032
+Total Revenue: 46009520
+Revenue Per Share: 1.597
+EBITDA: 2356876
+Gross Margins: 0.06345
+Operating Margins: 0.02111
+Profit Margins: 0.01581
+Free Cashflow: -4668872
+Operating Cashflow: -3005991
+Return On Assets: 0.03964
+Return On Equity: 0.12505999
+Total Cash: 803516
+Total Debt: 12243302
+Debt To Equity: 142.494
+Current Ratio: 1.129
+Quick Ratio: 0.78
+Trailing PE: 98.333336
+Forward PE: 
+Price To Book: 10.387323
+Beta: 
+52 Week High: 14.25
+52 Week Low: 0.42

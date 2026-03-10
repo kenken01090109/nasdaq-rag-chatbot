@@ -1,0 +1,25 @@
+Company: James River Group Holdings Inc. Common Stock
+Ticker: JRVR
+Market Cap: 297398976
+Enterprise Value: 505086688
+Total Revenue: 687614016
+Revenue Per Share: 14.958
+EBITDA: 74443664
+Gross Margins: 0.37872002
+Operating Margins: 0.18195999
+Profit Margins: 0.068969995
+Free Cashflow: 1023887360
+Operating Cashflow: -18786000
+Return On Assets: 0.009380001
+Return On Equity: 0.07875
+Total Cash: 260940992
+Total Debt: 336875008
+Debt To Equity: 50.185
+Current Ratio: 1.86
+Quick Ratio: 0.277
+Trailing PE: 
+Forward PE: 5.308805
+Price To Book: 0.5526608
+Beta: -0.056
+52 Week High: 7.2
+52 Week Low: 3.735

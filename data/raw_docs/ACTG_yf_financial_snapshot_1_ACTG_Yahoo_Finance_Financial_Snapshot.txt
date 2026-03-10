@@ -1,0 +1,25 @@
+Company: Acacia Research Corporation (Acacia Tech) Common Stock
+Ticker: ACTG
+Market Cap: 393558336
+Enterprise Value: 173761344
+Total Revenue: 283948992
+Revenue Per Share: 2.943
+EBITDA: 53683000
+Gross Margins: 0.30524
+Operating Margins: -0.108100004
+Profit Margins: 0.017029999
+Free Cashflow: 29569500
+Operating Cashflow: 41830000
+Return On Assets: 0.00617
+Return On Equity: 0.00982
+Total Cash: 365723008
+Total Debt: 106699000
+Debt To Equity: 18.497
+Current Ratio: 8.632
+Quick Ratio: 7.696
+Trailing PE: 68.0
+Forward PE: -7.6981134
+Price To Book: 0.7321012
+Beta: 0.542
+52 Week High: 4.32
+52 Week Low: 2.7

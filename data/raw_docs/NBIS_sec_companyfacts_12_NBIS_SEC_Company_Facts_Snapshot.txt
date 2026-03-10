@@ -1,0 +1,11 @@
+Company: Nebius Group N.V. Class A Ordinary Shares
+Ticker: NBIS
+CIK: 0001513845
+Latest SEC XBRL Facts:
+Revenues: 117500000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -641400000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 3548600000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 294900000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 3253700000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 245600000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 2449600000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

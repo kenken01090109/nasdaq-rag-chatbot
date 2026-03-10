@@ -1,0 +1,25 @@
+Company: Tyra Biosciences Inc. Common Stock
+Ticker: TYRA
+Market Cap: 1870158336
+Enterprise Value: 1610377216
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -132216000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -54550248
+Operating Cashflow: -95142000
+Return On Assets: -0.25683
+Return On Equity: -0.39828
+Total Cash: 256003008
+Total Debt: 5810000
+Debt To Equity: 2.242
+Current Ratio: 14.671
+Quick Ratio: 14.254
+Trailing PE: 
+Forward PE: -13.768173
+Price To Book: 7.260671
+Beta: 1.064
+52 Week High: 35.96
+52 Week Low: 6.42

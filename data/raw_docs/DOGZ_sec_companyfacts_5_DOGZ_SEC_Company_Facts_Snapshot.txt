@@ -1,0 +1,12 @@
+Company: Dogness (International) Corporation Class A Common Stock
+Ticker: DOGZ
+CIK: 0001707303
+Latest SEC XBRL Facts:
+Revenues: 101455 | unit=USD | filed=2025-10-17 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20707707 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetIncomeLoss: -5101237 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Assets: 116846586 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Liabilities: 19093761 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+StockholdersEquity: 97752782 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 567088 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 12831485 | unit=USD | filed=2025-10-17 | period_end=2025-06-30

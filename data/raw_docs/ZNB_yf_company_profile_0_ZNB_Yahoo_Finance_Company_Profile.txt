@@ -1,0 +1,9 @@
+Company: Zeta Network Group Class A Ordinary Shares
+Ticker: ZNB
+Sector: Communication Services
+Industry: Entertainment
+Country: China
+City: Beijing
+Website: https://ir.thezetanetwork.com
+Employees: 14
+Business Summary: Zeta Network Group, a digital infrastructure and financial technology company, engages in the cryptocurrency mining business. It engages in the cryptocurrency mining by providing computing power in a third-party operated mining pool. The company also offers construction management consulting services, as well as sells and co-hosts concerts and entertainment events. The company was formerly known as Color Star Technology Co., Ltd. and changed its name to Zeta Network Group in August 2025. Zeta Network Group was founded in 2002 and is headquartered in Beijing, the People's Republic of China.

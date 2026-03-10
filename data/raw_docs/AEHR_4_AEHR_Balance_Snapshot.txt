@@ -1,0 +1,8 @@
+Company: Aehr Test Systems Common Stock
+Ticker: AEHR
+Total Cash: 30835000
+Total Debt: 10163000
+Debt To Equity: 7.771
+Current Ratio: 10.619
+Quick Ratio: 5.18
+Book Value: 4.27

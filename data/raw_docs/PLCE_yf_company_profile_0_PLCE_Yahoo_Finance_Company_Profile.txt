@@ -1,0 +1,9 @@
+Company: Children's Place Inc. (The) Common Stock
+Ticker: PLCE
+Sector: Consumer Cyclical
+Industry: Apparel Manufacturing
+Country: United States
+City: Secaucus
+Website: https://www.childrensplace.com
+Employees: 2530
+Business Summary: The Children's Place, Inc. operates an omni-channel children's specialty portfolio of brands in North America. It operates through two segments, The Children's Place U.S. and The Children's Place International. The company designs, contracts to manufacture, and sells apparel, accessories, and footwear primarily under The Children's Place, Gymboree, Sugar & Jade, and PJ Place brands. It offers its products through digital storefronts; physical stores in the North America; wholesale marketplaces; and international franchise partners. The company also sells it products through online, such as www.childrensplace.com and www.gymboree.com. The company was formerly known as The Children's Place Retail Stores, Inc. and changed its name to The Children's Place, Inc. in June 2014. The Children's Place, Inc. was founded in 1969 and is headquartered in Secaucus, New Jersey.

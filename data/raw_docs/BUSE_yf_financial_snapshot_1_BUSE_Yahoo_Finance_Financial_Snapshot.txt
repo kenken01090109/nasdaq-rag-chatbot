@@ -1,0 +1,25 @@
+Company: First Busey Corporation Class A Common Stock
+Ticker: BUSE
+Market Cap: 2165171200
+Enterprise Value: 2375642368
+Total Revenue: 666841024
+Revenue Per Share: 7.938
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.17586
+Profit Margins: 0.20284
+Free Cashflow: 
+Operating Cashflow: 192571008
+Return On Assets: 0.00897
+Return On Equity: 0.07022
+Total Cash: 321739008
+Total Debt: 532209984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.081633
+Forward PE: 9.212279
+Price To Book: 0.8911524
+Beta: 0.73
+52 Week High: 27.65
+52 Week Low: 18.4

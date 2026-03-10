@@ -1,0 +1,12 @@
+Company: Bloomin' Brands Inc. Common Stock
+Ticker: BLMN
+CIK: 0001546417
+Latest SEC XBRL Facts:
+Revenues: 1116465000 | unit=USD | filed=2018-05-08 | period_end=2018-04-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 2980773000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetIncomeLoss: 21712000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Assets: 3280063000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Liabilities: 2932056000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+StockholdersEquity: 344088000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 157553000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 66479000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28

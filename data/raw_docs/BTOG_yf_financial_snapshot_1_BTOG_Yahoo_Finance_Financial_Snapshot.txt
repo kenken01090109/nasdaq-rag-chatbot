@@ -1,0 +1,25 @@
+Company: Bit Origin Limited Class A Ordinary Shares
+Ticker: BTOG
+Market Cap: 3768796
+Enterprise Value: 1695543
+Total Revenue: 39495
+Revenue Per Share: 0.103
+EBITDA: -2090755
+Gross Margins: 1.0
+Operating Margins: -27.47407
+Profit Margins: 0.0
+Free Cashflow: 569498
+Operating Cashflow: -2290607
+Return On Assets: -0.36587003
+Return On Equity: -3.19921
+Total Cash: 55639
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 9.504
+Quick Ratio: 2.933
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.63760084
+Beta: 1.959
+52 Week High: 60.6
+52 Week Low: 2.14

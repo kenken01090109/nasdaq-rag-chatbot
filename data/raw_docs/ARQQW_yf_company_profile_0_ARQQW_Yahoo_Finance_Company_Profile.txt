@@ -1,0 +1,9 @@
+Company: Arqit Quantum Inc. Warrants
+Ticker: ARQQW
+Sector: 
+Industry: 
+Country: United Kingdom
+City: London
+Website: https://arqit.uk
+Employees: 87
+Business Summary: Arqit Quantum Inc. provides cybersecurity services through satellite and terrestrial platforms in the United Kingdom. It offers QuantumCloud, a Platform as a Service that creates unbreakable software encryption keys. The company also provides maintenance and support, and professional services. The company has a strategic collaboration with RAD for the development of a joint quantum-safe encryption solution for telecom networks. Arqit Quantum Inc. is based in London, the United Kingdom.

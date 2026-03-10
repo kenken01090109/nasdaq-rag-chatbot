@@ -1,0 +1,25 @@
+Company: Korro Bio Inc. Common Stock
+Ticker: KRRO
+Market Cap: 105285360
+Enterprise Value: 55308380
+Total Revenue: 7371000
+Revenue Per Share: 0.786
+EBITDA: -89615000
+Gross Margins: 0.00624
+Operating Margins: -17.64862
+Profit Margins: 0.0
+Free Cashflow: -41200876
+Operating Cashflow: -68354000
+Return On Assets: -0.2916
+Return On Equity: -0.63458
+Total Cash: 92479000
+Total Debt: 44668000
+Debt To Equity: 45.105
+Current Ratio: 6.71
+Quick Ratio: 6.374
+Trailing PE: 
+Forward PE: -1.3528967
+Price To Book: 1.0609224
+Beta: 2.542
+52 Week High: 55.89
+52 Week Low: 5.204

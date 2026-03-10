@@ -1,0 +1,10 @@
+Company: Aeva Technologies Inc. Warrants
+Ticker: AEVAW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.024200913
+Beta: 2.16
+52 Week High: 0.0086
+52 Week Low: 0.0051

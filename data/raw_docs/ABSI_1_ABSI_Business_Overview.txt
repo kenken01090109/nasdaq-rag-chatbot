@@ -1,0 +1,7 @@
+Company: Absci Corporation Common Stock
+Ticker: ABSI
+Business Summary: Absci Corporation operates as a data-first generative artificial intelligence (AI) drug creation company in the United States. The company combines AI with scalable wet lab technologies to design differentiated antibody therapeutics. Its preclinical development programs include ABS-101 for the treatment of inflammatory bowel disease; ABS-201 for treating androgenic alopecia; ABS-301 for the treatment of immuno-oncology; and ABS-501 for treating oncology. Absci Corporation has collaboration agreements with PrecisionLife, Memorial Sloan Kettering Cancer Center, Twist Bioscience, Owkin, Oracle Corporation, and Advanced Micro Devices, Inc. for joint research and development activities. The company was founded in 2011 and is headquartered in Vancouver, Washington.
+Sector: Healthcare
+Industry: Biotechnology
+Exchange: NMS
+Quote Type: EQUITY

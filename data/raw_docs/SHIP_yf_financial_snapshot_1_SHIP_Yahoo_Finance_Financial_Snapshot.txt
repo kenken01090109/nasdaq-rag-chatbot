@@ -1,0 +1,25 @@
+Company: Seanergy Maritime Holdings Corp. Common Stock
+Ticker: SHIP
+Market Cap: 280395200
+Enterprise Value: 525965120
+Total Revenue: 158099008
+Revenue Per Share: 7.723
+EBITDA: 77254000
+Gross Margins: 0.62486
+Operating Margins: 0.37488997
+Profit Margins: 0.13436
+Free Cashflow: 
+Operating Cashflow: 52607000
+Return On Assets: 0.04458
+Return On Equity: 0.07816
+Total Cash: 62653000
+Total Debt: 290160000
+Debt To Equity: 103.119
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.148515
+Forward PE: 5.761388
+Price To Book: 0.985017
+Beta: 0.948
+52 Week High: 14.93
+52 Week Low: 4.78

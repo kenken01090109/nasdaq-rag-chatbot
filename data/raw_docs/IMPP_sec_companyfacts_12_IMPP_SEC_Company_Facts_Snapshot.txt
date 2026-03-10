@@ -1,0 +1,10 @@
+Company: Imperial Petroleum Inc. Common Shares
+Ticker: IMPP
+CIK: 0001876581
+Latest SEC XBRL Facts:
+NetIncomeLoss: 24050420 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 594779126 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 149370811 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 445408315 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 42412854 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 127683611 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

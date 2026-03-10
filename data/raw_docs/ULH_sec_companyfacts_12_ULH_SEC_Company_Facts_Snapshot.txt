@@ -1,0 +1,11 @@
+Company: Universal Logistics Holdings Inc. Common Stock
+Ticker: ULH
+CIK: 0001308208
+Latest SEC XBRL Facts:
+Revenues: 1136067000 | unit=USD | filed=2019-11-07 | period_end=2019-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 1172970000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetIncomeLoss: -60442000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Assets: 1817108000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+StockholdersEquity: 578072000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 135922000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 27381000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27

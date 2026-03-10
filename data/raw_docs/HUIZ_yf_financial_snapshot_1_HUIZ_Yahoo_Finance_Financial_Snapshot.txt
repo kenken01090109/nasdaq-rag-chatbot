@@ -1,0 +1,25 @@
+Company: Huize Holding Limited American Depositary Shares
+Ticker: HUIZ
+Market Cap: 19168294
+Enterprise Value: 1786035456
+Total Revenue: 1336185984
+Revenue Per Share: 132.872
+EBITDA: 11418000
+Gross Margins: 0.29248
+Operating Margins: 0.03605
+Profit Margins: 0.01353
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00071999995
+Return On Equity: 0.03689
+Total Cash: 241703008
+Total Debt: 92038000
+Debt To Equity: 21.433
+Current Ratio: 1.481
+Quick Ratio: 1.218
+Trailing PE: 6.5517244
+Forward PE: 2.9124799
+Price To Book: 0.32205823
+Beta: 0.405
+52 Week High: 4.53
+52 Week Low: 1.5

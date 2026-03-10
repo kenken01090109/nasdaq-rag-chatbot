@@ -1,0 +1,25 @@
+Company: MEDIROM Healthcare Technologies Inc. American Depositary Share
+Ticker: MRM
+Market Cap: 10272536
+Enterprise Value: 4151080704
+Total Revenue: 8067224064
+Revenue Per Share: 1221.72
+EBITDA: 149076000
+Gross Margins: 0.25054002
+Operating Margins: -0.25843
+Profit Margins: 0.0050199996
+Free Cashflow: 312530880
+Operating Cashflow: -897873024
+Return On Assets: -0.01779
+Return On Equity: 0.53191
+Total Cash: 32663000
+Total Debt: 3917701888
+Debt To Equity: 786.417
+Current Ratio: 0.243
+Quick Ratio: 0.14
+Trailing PE: 3.4210525
+Forward PE: 
+Price To Book: 6.665004
+Beta: 1.011
+52 Week High: 4.45
+52 Week Low: 0.34

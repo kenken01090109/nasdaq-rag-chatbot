@@ -1,0 +1,9 @@
+Company: The Beachbody Company Inc. Class A Common Stock
+Ticker: BODI
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: El Segundo
+Website: https://thebeachbodycompany.com
+Employees: 355
+Business Summary: The Beachbody Company, Inc., together with its subsidiaries, operates as a fitness and nutrition company in the United States, Canada, the United Kingdom, and France. The company operates Beachbody on Demand Interactive, a streaming service through subscription that provides fitness and nutrition content, including P90X, Insanity, 21 Day Fix, 80 Day Obsession, Morning Meltdown 100, LIIFT4, Unstress Meditations, Portion Fix, 4 Weeks of Focus, Sure Thing, Dig Deeper, 2B Mindset, and other brands. It also provides nutritional products, such as Shakeology, a nutrition shake; Beachbody Performance supplements comprising pre-workout energize, hydrate, post-workout recover, and protein supplement recharge products; BEACHBAR, a low-sugar snack bar; and Belle Vitale, a hormone health solution for women to address symptoms of hormone imbalance. The Beachbody Company, Inc. was founded in 1998 and is headquartered in El Segundo, California.

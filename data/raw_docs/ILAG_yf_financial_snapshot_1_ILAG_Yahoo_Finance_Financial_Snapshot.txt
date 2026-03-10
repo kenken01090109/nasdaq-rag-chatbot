@@ -1,0 +1,25 @@
+Company: Intelligent Living Application Group Inc. Ordinary Shares
+Ticker: ILAG
+Market Cap: 5148539
+Enterprise Value: 5759328
+Total Revenue: 5338785
+Revenue Per Share: 2.808
+EBITDA: -6101552
+Gross Margins: 0.16025
+Operating Margins: -2.32758
+Profit Margins: -1.2683101
+Free Cashflow: -362516
+Operating Cashflow: -2737185
+Return On Assets: -0.29143
+Return On Equity: -0.53674
+Total Cash: 793969
+Total Debt: 1734578
+Debt To Equity: 15.655
+Current Ratio: 4.271
+Quick Ratio: 0.566
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.4645361
+Beta: 1.54
+52 Week High: 9.8
+52 Week Low: 2.04

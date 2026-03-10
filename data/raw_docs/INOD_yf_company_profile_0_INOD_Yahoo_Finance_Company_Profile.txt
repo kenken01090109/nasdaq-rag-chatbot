@@ -1,0 +1,9 @@
+Company: Innodata Inc. Common Stock
+Ticker: INOD
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: Ridgefield Park
+Website: https://www.innodata.com
+Employees: 10020
+Business Summary: Innodata Inc. operates as a data engineering company in the United States, the United Kingdom, the Netherlands, Canada, and internationally. The company operates through three segments: Digital Data Solutions (DDS), Synodex, and Agility. The DDS segment engages in the provision of artificial intelligence (AI) training and post-training data, model evaluation, alignment, safety, AI model deployment and integration, and AI-enabled platforms. The Synodex segment offers an industry platform that transforms medical records into structured digital data for insurance and healthcare workflows. The company also provides Agility PR Solutions platform that provides media intelligence and public relations workflow software enhanced with AI-driven monitoring, analytics, and content capabilities. It serves banking, insurance, financial services, technology, digital retailing, and information media sectors through its professional staff, senior management, and direct sales personnel. The company was formerly known as Innodata Isogen Inc. and changed its name to Innodata Inc. in November 2003. Innodata Inc. was incorporated in 1988 and is headquartered in Ridgefield Park, New Jersey.

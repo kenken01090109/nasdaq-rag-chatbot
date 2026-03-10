@@ -1,0 +1,11 @@
+Company: Mercury Systems Inc Common Stock
+Ticker: MRCY
+CIK: 0001049521
+Latest SEC XBRL Facts:
+Revenues: 458081000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+NetIncomeLoss: -27610000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+Assets: 2502104000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+Liabilities: 1042116000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+StockholdersEquity: 1459988000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+NetCashProvidedByUsedInOperatingActivities: 53793000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26
+CashAndCashEquivalentsAtCarryingValue: 334990000 | unit=USD | filed=2026-02-03 | period_end=2025-12-26

@@ -1,0 +1,9 @@
+Company: Amicus Therapeutics Inc. Common Stock
+Ticker: FOLD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Princeton
+Website: https://amicusrx.com
+Employees: 511
+Business Summary: Amicus Therapeutics, Inc., a biotechnology company, focuses on discovering, developing, and delivering novel medicines for rare diseases in the United States and internationally. The company's commercial product and product candidates consist of Galafold, an orally administered monotherapy for the treatment of adults with a confirmed diagnosis of Fabry disease and an amenable galactosidase alpha gene variant; Pombiliti + Opfolda, a novel two-component treatment program for adults living with late-onset Pompe disease; and DMX-200, a small molecule inhibitor of the chemokine receptor 2 that is in a pivotal Phase 3 study for the treatment of focal segmental glomerulosclerosis (FSGS) kidney disease. It has collaboration and license agreement with GlaxoSmithKline to develop and commercialize Galafold; and Dimerix Limited for the commercialization of DMX-200 for the treatment of FSGS and other indications. Amicus Therapeutics, Inc. was incorporated in 2002 and is headquartered in Princeton, New Jersey.

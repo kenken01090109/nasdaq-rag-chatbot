@@ -1,0 +1,9 @@
+Company: Crane Harbor Acquistion Corp. Rights
+Ticker: CHACR
+CIK: 0002054174
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3077648 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 224854509 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 9138635 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -8127497 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -982916 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

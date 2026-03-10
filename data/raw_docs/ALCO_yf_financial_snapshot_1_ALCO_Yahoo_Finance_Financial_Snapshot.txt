@@ -1,0 +1,25 @@
+Company: Alico Inc. Common Stock
+Ticker: ALCO
+Market Cap: 307797184
+Enterprise Value: 363390176
+Total Revenue: 29059000
+Revenue Per Share: 3.802
+EBITDA: -15474000
+Gross Margins: -0.66761
+Operating Margins: -4.3698997
+Profit Margins: 0.0
+Free Cashflow: 9813875
+Operating Cashflow: 22254000
+Return On Assets: -0.0665
+Return On Equity: -0.80757004
+Total Cash: 34756000
+Total Debt: 85501000
+Debt To Equity: 81.847
+Current Ratio: 14.387
+Quick Ratio: 10.695
+Trailing PE: 
+Forward PE: -108.64865
+Price To Book: 3.0899308
+Beta: 1.054
+52 Week High: 43.2
+52 Week Low: 27.02

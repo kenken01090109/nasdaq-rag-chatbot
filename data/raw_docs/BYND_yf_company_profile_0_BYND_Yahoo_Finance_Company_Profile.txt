@@ -1,0 +1,9 @@
+Company: Beyond Meat Inc. Common Stock
+Ticker: BYND
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: El Segundo
+Website: https://www.beyondmeat.com
+Employees: 754
+Business Summary: Beyond Meat, Inc., a plant-based meat company, engages in the development, manufacture, marketing, and sale of plant-based meat products under the Beyond brand name in the United States and internationally. The company sells a range of plant-based meat products that replicates beef, pork, and poultry meats. It sells its products through grocery, mass merchandiser, club stores, and natural retailer channels, as well as various food-away-from-home channels, including restaurants, foodservice outlets, and schools. The company was formerly known as Savage River, Inc. and changed its name to Beyond Meat, Inc. in September 2018. The company was incorporated in 2008 and is headquartered in El Segundo, California.

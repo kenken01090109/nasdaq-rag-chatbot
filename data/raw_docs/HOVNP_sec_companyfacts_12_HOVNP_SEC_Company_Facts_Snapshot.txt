@@ -1,0 +1,11 @@
+Company: Hovnanian Enterprises Inc Dep Shr Srs A Pfd
+Ticker: HOVNP
+CIK: 0000357294
+Latest SEC XBRL Facts:
+Revenues: 631952000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+NetIncomeLoss: -17452000 | unit=USD | filed=2019-03-07 | period_end=2019-01-31
+Assets: 2734676000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+Liabilities: 1897042000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+StockholdersEquity: 835739000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 140886000 | unit=USD | filed=2026-03-02 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 221939000 | unit=USD | filed=2018-09-10 | period_end=2018-07-31

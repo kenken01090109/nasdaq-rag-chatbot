@@ -1,0 +1,11 @@
+Company: Upstream Bio Inc. Common Stock
+Ticker: UPB
+CIK: 0002022626
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2186000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -100984000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 391195000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 12611000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 378584000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -102644000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72164000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

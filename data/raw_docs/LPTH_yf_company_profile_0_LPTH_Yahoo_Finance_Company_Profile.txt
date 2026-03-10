@@ -1,0 +1,9 @@
+Company: LightPath Technologies Inc. Class A Common Stock
+Ticker: LPTH
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Orlando
+Website: https://www.lightpath.com
+Employees: 345
+Business Summary: LightPath Technologies, Inc. designs, develops, manufactures, and distributes optical systems and assemblies in the United States. It offers precision molded glass aspheric optics, molded and diamond-turned infrared aspheric lenses, spherical lenses, and other optical components used to produce products that manipulate light; and infrared products, including catalog and custom infrared optics. The company also offers cooled and uncooled camera systems and modules for long range surveillance and detection, and engineering services. The company's products are used in defense products, border security, perimeter security, night vision systems, medical devices, laser aided industrial tools, automotive safety applications, telecommunications, machine vision and sensors, and other sectors. It sells its products directly to customers in Europe and Asia. LightPath Technologies, Inc. was founded in 1985 and is headquartered in Orlando, Florida.

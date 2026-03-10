@@ -1,0 +1,8 @@
+Company: Absci Corporation Common Stock
+Ticker: ABSI
+Total Cash: 152475008
+Total Debt: 6220000
+Debt To Equity: 2.957
+Current Ratio: 5.89
+Quick Ratio: 5.166
+Book Value: 1.405

@@ -1,0 +1,11 @@
+Company: Cheesecake Factory Incorporated (The) Common Stock
+Ticker: CAKE
+CIK: 0000887596
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2790248000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 119652000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 3241354000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 2816005000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 425349000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 226374000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 189978000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

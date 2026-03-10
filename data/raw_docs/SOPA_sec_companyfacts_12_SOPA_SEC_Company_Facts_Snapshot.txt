@@ -1,0 +1,12 @@
+Company: Society Pass Incorporated Common Stock
+Ticker: SOPA
+CIK: 0001817511
+Latest SEC XBRL Facts:
+Revenues: 5355380 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5355380 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -6481069 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 32934375 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 19602879 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 13910711 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22521547 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6552702 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

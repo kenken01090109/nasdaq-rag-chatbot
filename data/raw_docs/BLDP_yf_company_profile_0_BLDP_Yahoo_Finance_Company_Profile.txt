@@ -1,0 +1,9 @@
+Company: Ballard Power Systems Inc. Common Shares
+Ticker: BLDP
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: Canada
+City: Burnaby
+Website: https://www.ballard.com
+Employees: 887
+Business Summary: Ballard Power Systems Inc. engages in the design, development, manufacture, sale, and service of proton exchange membrane (PEM) fuel cell products. The company offers its products for power product comprising for bus, truck, rail, marine, stationary power, and emerging market, such as material handling, off-road, and other applications. It also engages in the delivery of services, including technology solutions, after sales services, and training services; and provision of engineering services, product and systems integration services, and related technology transfer for various PEM fuel cell applications. It operates in the United States, Germany, Canada, China, Poland, the United Kingdom, the Netherlands, France, Denmark, Belgium, India, Taiwan, Korea, Spain, Norway, Australia, Japan, and internationally. Ballard Power Systems Inc. was founded in 1979 and is headquartered in Burnaby, Canada.

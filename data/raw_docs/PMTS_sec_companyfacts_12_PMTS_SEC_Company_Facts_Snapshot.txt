@@ -1,0 +1,12 @@
+Company: CPI Card Group Inc. Common Stock
+Ticker: PMTS
+CIK: 0001641614
+Latest SEC XBRL Facts:
+Revenues: 312189000 | unit=USD | filed=2021-02-25 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 390480000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 7600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 407060000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 432719000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -25659000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19911000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15955000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

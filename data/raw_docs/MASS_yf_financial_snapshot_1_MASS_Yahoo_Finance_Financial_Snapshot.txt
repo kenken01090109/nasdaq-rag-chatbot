@@ -1,0 +1,25 @@
+Company: 908 Devices Inc. Common Stock
+Ticker: MASS
+Market Cap: 226568032
+Enterprise Value: 148202992
+Total Revenue: 56197000
+Revenue Per Share: 1.565
+EBITDA: -20870000
+Gross Margins: 0.51179004
+Operating Margins: -0.18215999
+Profit Margins: 0.3468
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.09062
+Return On Equity: -0.25767002
+Total Cash: 112970000
+Total Debt: 16706000
+Debt To Equity: 11.626
+Current Ratio: 4.244
+Quick Ratio: 3.649
+Trailing PE: 
+Forward PE: -21.22034
+Price To Book: 1.5776211
+Beta: 0.495
+52 Week High: 9.34
+52 Week Low: 2.67

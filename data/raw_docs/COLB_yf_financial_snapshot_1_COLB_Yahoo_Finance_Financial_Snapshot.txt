@@ -1,0 +1,25 @@
+Company: Columbia Banking System Inc. Common Stock
+Ticker: COLB
+Market Cap: 8166002176
+Enterprise Value: 10014418944
+Total Revenue: 2151000064
+Revenue Per Share: 9.037
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.52882
+Profit Margins: 0.2557
+Free Cashflow: 
+Operating Cashflow: 746000000
+Return On Assets: 0.00929
+Return On Equity: 0.08489
+Total Cash: 2448000000
+Total Debt: 4187000064
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.869565
+Forward PE: 8.078979
+Price To Book: 1.0287135
+Beta: 0.684
+52 Week High: 32.7
+52 Week Low: 19.61

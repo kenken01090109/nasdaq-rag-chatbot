@@ -1,0 +1,25 @@
+Company: Inventiva S.A. American Depository Shares
+Ticker: IVA
+Market Cap: 1273432448
+Enterprise Value: 851875200
+Total Revenue: 16970000
+Revenue Per Share: 0.192
+EBITDA: -95789000
+Gross Margins: 0.95185995
+Operating Margins: -9.91889
+Profit Margins: 0.0
+Free Cashflow: -77385752
+Operating Cashflow: -91311000
+Return On Assets: -0.56769
+Return On Equity: 
+Total Cash: 122513000
+Total Debt: 132798000
+Debt To Equity: 
+Current Ratio: 2.956
+Quick Ratio: 2.486
+Trailing PE: 
+Forward PE: -4.9623976
+Price To Book: -82.51882
+Beta: 0.916
+52 Week High: 7.983
+52 Week Low: 2.7

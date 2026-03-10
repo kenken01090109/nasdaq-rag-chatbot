@@ -1,0 +1,11 @@
+Company: Creative Global Technology Holdings Limited Class A Ordinary Shares
+Ticker: CGTL
+CIK: 0001967822
+Latest SEC XBRL Facts:
+Revenues: 21150042 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetIncomeLoss: -13369749 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Assets: 18288950 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Liabilities: 251460 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+StockholdersEquity: 18037490 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4811035 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 185240 | unit=USD | filed=2026-01-30 | period_end=2025-09-30

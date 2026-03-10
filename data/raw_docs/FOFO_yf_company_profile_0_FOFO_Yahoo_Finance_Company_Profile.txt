@@ -1,0 +1,9 @@
+Company: Hang Feng Technology Innovation Co. Ltd. Ordinary Shares
+Ticker: FOFO
+Sector: Industrials
+Industry: Consulting Services
+Country: Hong Kong
+City: Central
+Website: 
+Employees: 13
+Business Summary: Hang Feng Technology Innovation Co., Ltd. provides corporate management consulting and asset management services to address the specific needs of clients. The company's Corporate Management Consulting Services segment offers strategic insights and recommendations to drive business growth, delivering performance management reports, advising on key performance indicators, and how to measure and optimize performance effectively; and regulatory and compliance consulting services, assisting to mitigate compliance risks and adopt practices for corporate governance, and ensuring compliance during company setup and maintaining statutory records to uphold proper corporate governance. Its Asset Management Services segment provides fund subscription, fund management, and receive subscription and management services. The company was incorporated in 2024 and is headquartered in Central, Hong Kong. Hang Feng Technology Innovation Co., Ltd. is a subsidiary of Hang Feng International Holdings Co., Limited.

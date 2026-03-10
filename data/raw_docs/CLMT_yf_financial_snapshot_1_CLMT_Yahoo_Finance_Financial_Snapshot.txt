@@ -1,0 +1,25 @@
+Company: Calumet Inc. Common Stock
+Ticker: CLMT
+Market Cap: 2638007040
+Enterprise Value: 5217607168
+Total Revenue: 4137100032
+Revenue Per Share: 47.684
+EBITDA: 227300000
+Gross Margins: 0.06331
+Operating Margins: -0.03264
+Profit Margins: -0.008169999
+Free Cashflow: -74237504
+Operating Cashflow: 108900000
+Return On Assets: 0.01815
+Return On Equity: 
+Total Cash: 125100000
+Total Debt: 2459099904
+Debt To Equity: 
+Current Ratio: 1.02
+Quick Ratio: 0.425
+Trailing PE: 
+Forward PE: -77.94872
+Price To Book: -3.6001894
+Beta: 1.043
+52 Week High: 31.41
+52 Week Low: 7.68

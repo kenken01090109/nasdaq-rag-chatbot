@@ -1,0 +1,12 @@
+Company: Halozyme Therapeutics Inc. Common Stock
+Ticker: HALO
+CIK: 0001159036
+Latest SEC XBRL Facts:
+Revenues: 121703000 | unit=USD | filed=2021-02-23 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 944844000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 458480000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 2221232000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 1717317000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 503915000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 432529000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 419665000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

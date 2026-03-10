@@ -1,0 +1,11 @@
+Company: Iterum Therapeutics plc Ordinary Share
+Ticker: ITRM
+CIK: 0001659323
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 390000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -20379000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 32503000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 39884000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7381000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15258000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11002000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

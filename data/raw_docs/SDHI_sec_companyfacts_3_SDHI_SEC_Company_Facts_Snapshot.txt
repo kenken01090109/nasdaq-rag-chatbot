@@ -1,0 +1,9 @@
+Company: Siddhi Acquisition Corp Class A Common stock
+Ticker: SDHI
+CIK: 0002034037
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2807335 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 284135310 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 16659446 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: -15768291 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -509070 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

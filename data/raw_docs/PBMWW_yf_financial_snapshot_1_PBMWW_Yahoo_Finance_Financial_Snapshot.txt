@@ -1,0 +1,25 @@
+Company: Psyence Biomedical Ltd. Warrant
+Ticker: PBMWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -4145455
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4006023
+Operating Cashflow: -4247508
+Return On Assets: -0.34442002
+Return On Equity: -0.74286
+Total Cash: 7149985
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.09
+Quick Ratio: 7.766
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.000484616
+Beta: 0.36
+52 Week High: 0.02
+52 Week Low: 0.0192

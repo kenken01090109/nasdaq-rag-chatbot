@@ -1,0 +1,9 @@
+Company: Jefferson Capital Inc. Common Stock
+Ticker: JCAP
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Minneapolis
+Website: https://www.jcap.com
+Employees: 1205
+Business Summary: Jefferson Capital, Inc. provides debt recovery solutions and other related services in the United States, the United Kingdom, Canada, and Latin America. It primarily purchases portfolios of previously charged-off consumer receivables at deep discounts to face value and manage them by working with individuals as they repay their obligations and work toward financial recovery. The company offers consumer receivables, including credit card, secured and unsecured automotive, utilities, telecom, and other receivables. It also provides debt servicing and other portfolio management services to credit originators for nonperforming loans. Jefferson Capital, Inc. was founded in 2002 and is headquartered in Minneapolis, Minnesota.

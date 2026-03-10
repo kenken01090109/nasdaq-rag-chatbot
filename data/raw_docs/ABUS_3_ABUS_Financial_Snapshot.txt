@@ -1,0 +1,12 @@
+Company: Arbutus Biopharma Corporation Common Stock
+Ticker: ABUS
+Total Revenue: 14606000
+Revenue Per Share: 0.076
+Gross Margins: -0.98857003
+Operating Margins: -15.67675
+EBITDA: -30670000
+Profit Margins: -2.8945
+Free Cashflow: -24302000
+Operating Cashflow: -45272000
+Return On Assets: -0.16458
+Return On Equity: -0.45881

@@ -1,0 +1,9 @@
+Company: AirJoule Technologies Corporation Warrant
+Ticker: AIRJW
+Long Business Summary: AirJoule Technologies Corporation operates as an atmospheric renewable energy and water harvesting technology company. It provides energy and dehumidification, evaporative cooling, and atmospheric water generation through its AirJoule technology. The company also offers solutions, such as water from air, water recovery, cooling systems, and moisture control. The company was founded in 2018 and is headquartered in Ronan, Montana.
+Industry: 
+Sector: 
+Website: https://airjouletech.com
+Country: United States
+City: Ronan
+Full Time Employees: 17

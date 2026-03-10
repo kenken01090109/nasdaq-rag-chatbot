@@ -1,0 +1,11 @@
+Company: RYTHM Inc. Common Stock
+Ticker: RYM
+CIK: 0001800637
+Latest SEC XBRL Facts:
+Revenues: 6623000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -19651000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 115154000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 103432000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 11722000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20519000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 40956000 | unit=USD | filed=2025-08-08 | period_end=2025-06-30

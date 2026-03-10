@@ -1,0 +1,25 @@
+Company: Bicara Therapeutics Inc. Common Stock
+Ticker: BCAX
+Market Cap: 1011822592
+Enterprise Value: 725274048
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -141042000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -75155376
+Operating Cashflow: -112980000
+Return On Assets: -0.18591
+Return On Equity: -0.26639998
+Total Cash: 290167008
+Total Debt: 1975000
+Debt To Equity: 0.49
+Current Ratio: 14.142
+Quick Ratio: 13.799
+Trailing PE: 3.4330852
+Forward PE: -6.2419734
+Price To Book: 2.5044067
+Beta: 
+52 Week High: 19.71
+52 Week Low: 7.8

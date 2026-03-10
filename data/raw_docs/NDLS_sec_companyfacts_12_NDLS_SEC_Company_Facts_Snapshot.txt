@@ -1,0 +1,11 @@
+Company: Noodles & Company Class A Common Stock
+Ticker: NDLS
+CIK: 0001275158
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 372313000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -35760000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 280572000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 319471000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -38899000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8357000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4694000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

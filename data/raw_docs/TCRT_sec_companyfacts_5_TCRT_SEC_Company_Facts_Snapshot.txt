@@ -1,0 +1,12 @@
+Company: Alaunos Therapeutics Inc. Common Stock
+Ticker: TCRT
+CIK: 0001107421
+Latest SEC XBRL Facts:
+Revenues: 15900000 | unit=USD | filed=2020-03-02 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -3283000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 3724000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 921000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 2803000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2317000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1938000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

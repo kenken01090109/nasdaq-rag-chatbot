@@ -1,0 +1,9 @@
+Company: BranchOut Food Inc. Common Stock
+Ticker: BOF
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Bend
+Website: https://branchoutfood.com
+Employees: 185
+Business Summary: BranchOut Food Inc., together with its subsidiaries, develops, markets, sells, and distributes plant-based dehydrated fruit and vegetable snacks, and powders in the United States and Latin America. The company offers dehydrated fruit and vegetable-based snacks, including avocado chips, chewy banana bites, pineapple chips, brussels sprout crisps, bell pepper crisps, and sweet potato sticks; private label products comprising prunes, carrots, brussels sprouts, and raisins; and industrial ingredients, such as banana, mango, blueberry, pineapple, cherry tomato, avocado, and other products. It sells its products to big box retail customers, as well as through its online platform. The company was formerly known as AvoLov, LLC and changed its name to BranchOut Food Inc. in November 2021. BranchOut Food Inc. was incorporated in 2017 and is headquartered in Bend, Oregon.

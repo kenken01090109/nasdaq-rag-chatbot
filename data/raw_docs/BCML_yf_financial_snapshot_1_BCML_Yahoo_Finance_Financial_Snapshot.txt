@@ -1,0 +1,25 @@
+Company: BayCom Corp Common Stock
+Ticker: BCML
+Market Cap: 316362080
+Enterprise Value: 131639944
+Total Revenue: 96472000
+Revenue Per Share: 8.778
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.3695
+Profit Margins: 0.24806
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0091
+Return On Equity: 0.0722
+Total Cash: 206514000
+Total Debt: 22385000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.316514
+Forward PE: 10.068219
+Price To Book: 0.9272687
+Beta: 0.308
+52 Week High: 33.15
+52 Week Low: 22.22

@@ -1,0 +1,11 @@
+Company: U.S. Gold Corp. Common Stock
+Ticker: USAU
+CIK: 0000027093
+Latest SEC XBRL Facts:
+Revenues: 13085947 | unit=USD | filed=2017-03-15 | period_end=2017-01-31
+NetIncomeLoss: -6560050 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Assets: 27071829 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Liabilities: 2490470 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+StockholdersEquity: 24581359 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -7110379 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 13992772 | unit=USD | filed=2021-03-17 | period_end=2021-01-31

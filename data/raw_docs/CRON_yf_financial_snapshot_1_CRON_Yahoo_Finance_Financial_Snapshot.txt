@@ -1,0 +1,25 @@
+Company: Cronos Group Inc. Common Share
+Ticker: CRON
+Market Cap: 988470592
+Enterprise Value: 192938336
+Total Revenue: 146587008
+Revenue Per Share: 0.382
+EBITDA: -3353000
+Gross Margins: 0.39841
+Operating Margins: -0.101169996
+Profit Margins: -0.06445
+Free Cashflow: -51218376
+Operating Cashflow: 25866000
+Return On Assets: -0.009
+Return On Equity: -0.0026
+Total Cash: 831793984
+Total Debt: 1509000
+Debt To Equity: 0.132
+Current Ratio: 19.592
+Quick Ratio: 18.449
+Trailing PE: 
+Forward PE: -64.25
+Price To Book: 0.89640737
+Beta: 1.239
+52 Week High: 3.43
+52 Week Low: 1.6

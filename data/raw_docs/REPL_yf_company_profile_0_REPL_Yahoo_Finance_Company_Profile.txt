@@ -1,0 +1,9 @@
+Company: Replimune Group Inc. Common Stock
+Ticker: REPL
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Woburn
+Website: https://www.replimune.com
+Employees: 479
+Business Summary: Replimune Group, Inc., a clinical-stage biotechnology company, focuses on the development and commercialization of oncolytic immunotherapies to treat cancer. The company's proprietary oncolytic immunotherapy product candidates are designed and intended to activate the immune system against cancer. Its lead product candidate is RP1, a selectively replicating version of HSV-1 that expresses GALV-GP R(-) and human GM-CSF for a range of solid tumors. The company is also developing RP2 that express an anti-CTLA-4 antibody-like protein to block the inhibition of the immune response otherwise caused by CTLA-4; and RP3, which express immune-activating proteins that stimulate T cells. Replimune Group, Inc. was founded in 2015 and is headquartered in Woburn, Massachusetts.

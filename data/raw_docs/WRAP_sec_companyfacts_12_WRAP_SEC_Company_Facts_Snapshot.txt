@@ -1,0 +1,11 @@
+Company: Wrap Technologies Inc. Common Stock
+Ticker: WRAP
+CIK: 0001702924
+Latest SEC XBRL Facts:
+Revenues: 3268000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -6391000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 18237000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4111000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 14126000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7624000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5965000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

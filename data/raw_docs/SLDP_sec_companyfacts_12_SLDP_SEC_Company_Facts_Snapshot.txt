@@ -1,0 +1,12 @@
+Company: Solid Power Inc. Class A Common Stock
+Ticker: SLDP
+CIK: 0001844862
+Latest SEC XBRL Facts:
+Revenues: 18116000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 15342000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -66355000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 416144000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 34646000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 381195000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -55002000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47286000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

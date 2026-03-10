@@ -1,0 +1,10 @@
+Company: Alchemy Investments Acquisition Corp 1 Warrants
+Ticker: ALCYW
+CIK: 0001901336
+Latest SEC XBRL Facts:
+NetIncomeLoss: -863650 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 9024646 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 8586062 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: -8124241 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1041916 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 319258 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

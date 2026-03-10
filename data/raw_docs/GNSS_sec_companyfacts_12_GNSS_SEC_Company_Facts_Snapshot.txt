@@ -1,0 +1,11 @@
+Company: Genasys Inc. Common Stock
+Ticker: GNSS
+CIK: 0000924383
+Latest SEC XBRL Facts:
+Revenues: 23011082 | unit=USD | filed=2018-08-14 | period_end=2018-06-30
+NetIncomeLoss: -817000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Assets: 67646000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Liabilities: 65840000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: 1806000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 7200000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 10286000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31

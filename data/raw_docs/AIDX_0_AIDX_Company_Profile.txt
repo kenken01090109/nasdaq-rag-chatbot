@@ -1,0 +1,9 @@
+Company: 20/20 Biolabs Inc. Common Stock
+Ticker: AIDX
+Long Business Summary: 20/20 GeneSystems, Inc. operates as a clinical laboratory testing company focused on cancer screening and viral testing services. The company provides multi-cancer early detection blood testing, including a test called OneTest, and offers viral testing services such as rapid COVID-19 test kits, including the Assure COVID-19 IgG/IgM rapid test. It operates the Clinical Lab Innovation Axcelerator (CLIAx), a shared laboratory facility that supports diagnostic test developers in bringing products to the U.S. market. The company also delivers its cancer screening algorithm technology through a software as a service (SaaS) platform in partnership with healthcare providers and supports diagnostic startups by offering access to shared laboratory space and resources. The company was founded in 2000 and is based in Gaithersburg, Maryland.
+Industry: Medical Devices
+Sector: Healthcare
+Website: https://2020biolabs.com
+Country: United States
+City: Gaithersburg
+Full Time Employees: 13

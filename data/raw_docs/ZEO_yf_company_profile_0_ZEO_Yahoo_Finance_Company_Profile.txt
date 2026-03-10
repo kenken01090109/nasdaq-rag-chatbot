@@ -1,0 +1,9 @@
+Company: Zeo Energy Corporation Class A Common Stock
+Ticker: ZEO
+Sector: Technology
+Industry: Solar
+Country: United States
+City: New Port Richey
+Website: https://zeoenergy.com
+Employees: 190
+Business Summary: Zeo Energy Corp. provides residential solar energy systems in the United States. It engages in the design, procurement, sale, installation, and maintenance of residential solar energy systems for homeowners to supplement electricity required to power their homes. The company also provides roofing and insulation services, energy appliances, and battery storage systems for the residential market. It markets its products and services to customers directly through in-home visits carried out by its internal sales agents, as well as indirectly through external sales dealers. The company was founded in 2005 and is headquartered in New Port Richey, Florida.

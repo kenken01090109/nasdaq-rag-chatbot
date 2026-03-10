@@ -1,0 +1,11 @@
+Company: Versus Systems Inc. Common Stock
+Ticker: VS
+CIK: 0001701963
+Latest SEC XBRL Facts:
+Revenues: 23348 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -827227 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 3072675 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2483 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 11135031 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1484267 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2432219 | unit=USD | filed=2025-05-15 | period_end=2025-03-31

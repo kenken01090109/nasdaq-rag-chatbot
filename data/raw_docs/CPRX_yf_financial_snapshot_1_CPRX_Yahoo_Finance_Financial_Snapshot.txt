@@ -1,0 +1,25 @@
+Company: Catalyst Pharmaceuticals Inc. Common Stock
+Ticker: CPRX
+Market Cap: 2979396096
+Enterprise Value: 2263668736
+Total Revenue: 588988992
+Revenue Per Share: 4.816
+EBITDA: 295651008
+Gross Margins: 0.83028
+Operating Margins: 0.40525
+Profit Margins: 0.36389
+Free Cashflow: 171340256
+Operating Cashflow: 208670000
+Return On Assets: 0.16479
+Return On Equity: 0.25486
+Total Cash: 709171008
+Total Debt: 2787000
+Debt To Equity: 0.292
+Current Ratio: 6.076
+Quick Ratio: 5.691
+Trailing PE: 14.428572
+Forward PE: 7.7803526
+Price To Book: 3.112081
+Beta: 0.707
+52 Week High: 26.58
+52 Week Low: 19.05

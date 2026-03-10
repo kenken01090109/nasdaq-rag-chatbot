@@ -1,0 +1,25 @@
+Company: C4 Therapeutics Inc. Common Stock
+Ticker: CCCC
+Market Cap: 294619808
+Enterprise Value: 108082656
+Total Revenue: 35947000
+Revenue Per Share: 0.434
+EBITDA: -102530000
+Gross Margins: 0.75027
+Operating Margins: -2.1010299
+Profit Margins: -2.9208
+Free Cashflow: -54302624
+Operating Cashflow: -98694000
+Return On Assets: -0.1843
+Return On Equity: -0.44435
+Total Cash: 248536992
+Total Debt: 59982000
+Debt To Equity: 23.377
+Current Ratio: 7.814
+Quick Ratio: 7.597
+Trailing PE: 
+Forward PE: -2.4765785
+Price To Book: 1.1480362
+Beta: 2.937
+52 Week High: 3.65
+52 Week Low: 1.085

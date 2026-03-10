@@ -1,0 +1,9 @@
+Company: Gladstone Capital Corporation Common Stock
+Ticker: GLAD
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: McLean
+Website: https://www.gladstonecapital.com
+Employees: 
+Business Summary: Gladstone Capital Corporation is a business development company specializing in lower middle market, growth capital, add on acquisitions, change of control, buy & build strategies, debt refinancing, debt investments in senior term loans, revolving loans, secured first and second lien term loans, senior subordinated loans, unitranche loans, junior subordinated loans, and mezzanine loans and equity investments in the form of common stock, preferred stock, limited liability company interests, or warrants. It operates as a business development company. The fund also makes private equity investments in acquisitions, buyouts and recapitalizations, and refinancing existing debts. It targets small and medium-sized companies in United States. It is industry agnostic and seeks to invest in companies engaged in the business services, light and specialty manufacturing, niche industrial products and services, specialty consumer products and services, energy services, transportation and logistics, healthcare and education services, specialty chemicals, media and communications and aerospace and defense. The fund seeks to invest in debt between $8 million and $40 million in companies that have between $20 million and $150 million in sales and EBITDA between $3 million and $25 million. It prefers to acquire minority stakes. It seeks to exit its investments through strategic acquisitions by other industry participants or financial buyers, initial public offerings of common stock, or other capital market transactions.

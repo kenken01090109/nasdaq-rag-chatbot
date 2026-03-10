@@ -1,0 +1,9 @@
+Company: Spruce Biosciences Inc. Common Stock
+Ticker: SPRB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: South San Francisco
+Website: https://sprucebio.com
+Employees: 9
+Business Summary: Spruce Biosciences, Inc. is a biopharmaceutical company focused on developing and commercializing novel therapies for neurological disorders. The company develops TA-ERT, a fusion protein comprised of recombinant human alpha-N-acetylglucosaminidase, which is an enzyme replacement therapy for patients with Sanfilippo Syndrome Type B. It also develops Tildacerfont for treating a highly debilitating mental disorder characterized by depressed mood with cognitive-affective and somatic changes, including anhedonia, weight alterations, and altered sleeping patterns. In addition, the company develops SPR202 for the treatment of Congenital Adrenal Hyperplasia (CAH), a chronic and potentially life-threatening rare disease with no cure, and SPR204, a monoclonal antibody antagonist for Post-Bariatric Hypoglycemia. The company has a license agreement with Eli Lilly and Company to research, develop, and commercialize various pharmaceutical compounds. It also has a collaboration and license agreement with Kaken Pharmaceutical Co. Ltd. to develop, manufacture, and commercialize Tildacerfont for the treatment of CAH in Japan. Spruce Biosciences, Inc. was incorporated in 2014 and is headquartered in South San Francisco, California.

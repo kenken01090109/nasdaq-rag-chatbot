@@ -1,0 +1,25 @@
+Company: Epsilon Energy Ltd. Common Share
+Ticker: EPSN
+Market Cap: 170392560
+Enterprise Value: 111638632
+Total Revenue: 45709604
+Revenue Per Share: 2.079
+EBITDA: 27085900
+Gross Margins: 0.74480003
+Operating Margins: 0.17483999
+Profit Margins: 0.12862
+Free Cashflow: 11260358
+Operating Cashflow: 25905712
+Return On Assets: 0.05368
+Return On Equity: 0.05921
+Total Cash: 12766167
+Total Debt: 387062
+Debt To Equity: 0.386
+Current Ratio: 1.928
+Quick Ratio: 1.741
+Trailing PE: 21.111109
+Forward PE: 15.405405
+Price To Book: 1.2546774
+Beta: -0.049
+52 Week High: 8.5
+52 Week Low: 4.2

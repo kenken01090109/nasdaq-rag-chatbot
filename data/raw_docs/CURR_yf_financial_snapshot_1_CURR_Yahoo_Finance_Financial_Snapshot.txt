@@ -1,0 +1,25 @@
+Company: Currenc Group Inc. Ordinary Shares
+Ticker: CURR
+Market Cap: 174674080
+Enterprise Value: 162748640
+Total Revenue: 40227052
+Revenue Per Share: 0.87
+EBITDA: -12206157
+Gross Margins: 0.37216
+Operating Margins: 0.45762002
+Profit Margins: -0.84723
+Free Cashflow: -28778504
+Operating Cashflow: 2716154
+Return On Assets: -0.08885
+Return On Equity: -35.03989
+Total Cash: 50689972
+Total Debt: 14414520
+Debt To Equity: 58.433
+Current Ratio: 1.153
+Quick Ratio: 0.856
+Trailing PE: 
+Forward PE: -9.12
+Price To Book: 569.99994
+Beta: 0.017
+52 Week High: 4.68
+52 Week Low: 0.327

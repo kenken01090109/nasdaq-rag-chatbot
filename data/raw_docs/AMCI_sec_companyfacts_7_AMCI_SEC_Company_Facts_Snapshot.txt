@@ -1,0 +1,10 @@
+Company: AMC Robotics Corporation Common Stock
+Ticker: AMCI
+CIK: 0001937891
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2619286 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 18955577 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 5264797 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -5238909 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -502 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3713 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

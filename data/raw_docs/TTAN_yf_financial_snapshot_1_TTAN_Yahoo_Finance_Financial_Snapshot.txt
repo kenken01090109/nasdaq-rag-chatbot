@@ -1,0 +1,25 @@
+Company: ServiceTitan Inc. Class A Common Stock
+Ticker: TTAN
+Market Cap: 7767987712
+Enterprise Value: 6993642496
+Total Revenue: 916259008
+Revenue Per Share: 10.782
+EBITDA: -195500000
+Gross Margins: 0.68648005
+Operating Margins: -0.16497
+Profit Margins: -0.23908001
+Free Cashflow: 124609000
+Operating Cashflow: 84977000
+Return On Assets: -0.09733
+Return On Equity: -0.16856001
+Total Cash: 493238016
+Total Debt: 158095008
+Debt To Equity: 10.505
+Current Ratio: 4.139
+Quick Ratio: 3.855
+Trailing PE: 
+Forward PE: 75.490074
+Price To Book: 5.1611495
+Beta: 
+52 Week High: 131.33
+52 Week Low: 58.01

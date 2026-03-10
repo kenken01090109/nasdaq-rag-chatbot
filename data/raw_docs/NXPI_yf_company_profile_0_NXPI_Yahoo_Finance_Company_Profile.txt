@@ -1,0 +1,9 @@
+Company: NXP Semiconductors N.V. Common Stock
+Ticker: NXPI
+Sector: Technology
+Industry: Semiconductors
+Country: Netherlands
+City: Eindhoven
+Website: https://www.nxp.com
+Employees: 32169
+Business Summary: NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally. The company's product portfolio includes microcontrollers; application processors; communication processors; wireless connectivity solutions, such as near field communications, ultra-wideband, Bluetooth low-energy, Zigbee, Thread, and Wi-Fi and Wi-Fi/Bluetooth integrated SoCs; analog and interface products; radio frequency devices, and security controllers, as well as semiconductor-based environmental and inertial sensors, including pressure, inertial, magnetic, and gyroscopic sensors. Its products are used in various applications, including automotive, industrial and Internet of Things, mobile, and communication infrastructure. The company markets its products to direct sales offices and independent distributors. NXP Semiconductors N.V. was incorporated in 2006 and is headquartered in Eindhoven, the Netherlands.

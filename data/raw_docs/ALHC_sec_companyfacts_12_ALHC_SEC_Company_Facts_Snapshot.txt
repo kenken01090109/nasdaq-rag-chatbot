@@ -1,0 +1,12 @@
+Company: Alignment Healthcare Inc. Common Stock
+Ticker: ALHC
+CIK: 0001832466
+Latest SEC XBRL Facts:
+Revenues: 2935915000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1341924000 | unit=USD | filed=2023-11-02 | period_end=2023-09-30
+NetIncomeLoss: 10282000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1102614000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 940743000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 161871000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 190302000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 618067000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

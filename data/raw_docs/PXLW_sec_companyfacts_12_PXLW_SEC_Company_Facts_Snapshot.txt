@@ -1,0 +1,12 @@
+Company: Pixelworks Inc.  Common Stock
+Ticker: PXLW
+CIK: 0001040161
+Latest SEC XBRL Facts:
+Revenues: 24115000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 24115000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -18900000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 50521000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 23596000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -23932000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14128000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14611000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

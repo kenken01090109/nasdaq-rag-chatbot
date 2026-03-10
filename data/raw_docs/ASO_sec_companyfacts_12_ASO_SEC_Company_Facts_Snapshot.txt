@@ -1,0 +1,11 @@
+Company: Academy Sports and Outdoors Inc. Common Stock
+Ticker: ASO
+CIK: 0001817358
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4334942000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+NetIncomeLoss: 243080000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+Assets: 5413984000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+Liabilities: 3267715000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+StockholdersEquity: 2146269000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 285066000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 289487000 | unit=USD | filed=2025-12-09 | period_end=2025-11-01

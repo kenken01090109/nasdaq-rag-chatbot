@@ -1,0 +1,11 @@
+Company: Cognyte Software Ltd. Ordinary Shares
+Ticker: CGNT
+CIK: 0001824814
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 350632000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31
+NetIncomeLoss: -12051000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31
+Assets: 497820000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31
+Liabilities: 280717000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31
+StockholdersEquity: 198192000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31
+NetCashProvidedByUsedInOperatingActivities: 46782000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31
+CashAndCashEquivalentsAtCarryingValue: 112719000 | unit=USD | filed=2025-04-02 | period_end=2025-01-31

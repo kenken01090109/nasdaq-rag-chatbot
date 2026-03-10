@@ -1,0 +1,25 @@
+Company: Polaryx Therapeutics Inc. Common Stock
+Ticker: PLYX
+Market Cap: 129720632
+Enterprise Value: 117473136
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -3314000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 5745000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.773
+Quick Ratio: 8.424
+Trailing PE: 
+Forward PE: 
+Price To Book: 24.247787
+Beta: 
+52 Week High: 48.91
+52 Week Low: 2.2

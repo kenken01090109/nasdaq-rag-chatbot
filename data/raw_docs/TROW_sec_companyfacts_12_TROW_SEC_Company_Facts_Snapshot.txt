@@ -1,0 +1,12 @@
+Company: T. Rowe Price Group Inc. Common Stock
+Ticker: TROW
+CIK: 0001113169
+Latest SEC XBRL Facts:
+Revenues: 2077900000 | unit=USD | filed=2011-10-25 | period_end=2011-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5380700000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 1641800000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 14730400000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 2761000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 10814500000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1772100000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3634800000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

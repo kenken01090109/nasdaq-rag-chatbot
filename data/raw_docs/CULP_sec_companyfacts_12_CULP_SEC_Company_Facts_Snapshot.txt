@@ -1,0 +1,11 @@
+Company: Culp Inc. Common Stock
+Ticker: CULP
+CIK: 0000723603
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 103893000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+NetIncomeLoss: 8211000 | unit=USD | filed=2018-03-09 | period_end=2018-01-28
+Assets: 125249000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+Liabilities: 71662000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+StockholdersEquity: 128362000 | unit=USD | filed=2021-03-12 | period_end=2021-01-31
+NetCashProvidedByUsedInOperatingActivities: -1166000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02
+CashAndCashEquivalentsAtCarryingValue: 10728000 | unit=USD | filed=2025-12-12 | period_end=2025-11-02

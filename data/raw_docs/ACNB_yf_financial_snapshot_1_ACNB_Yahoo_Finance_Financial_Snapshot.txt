@@ -1,0 +1,25 @@
+Company: ACNB Corporation Common Stock
+Ticker: ACNB
+Market Cap: 493278560
+Enterprise Value: 751600896
+Total Revenue: 146684000
+Revenue Per Share: 14.298
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.41877997
+Profit Margins: 0.25259
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01318
+Return On Equity: 0.102460004
+Total Cash: 65648000
+Total Debt: 324567008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.194445
+Forward PE: 9.187621
+Price To Book: 1.1731291
+Beta: 0.852
+52 Week High: 53.89
+52 Week Low: 35.7

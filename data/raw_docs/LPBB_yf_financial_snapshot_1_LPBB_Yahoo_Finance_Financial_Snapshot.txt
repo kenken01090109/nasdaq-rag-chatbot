@@ -1,0 +1,25 @@
+Company: Launch Two Acquisition Corp. Class A Ordinary Shares
+Ticker: LPBB
+Market Cap: 303312512
+Enterprise Value: 302811904
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -769172
+Return On Assets: 
+Return On Equity: 
+Total Cash: 500596
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.132
+Quick Ratio: 3.204
+Trailing PE: 
+Forward PE: 
+Price To Book: -28.983517
+Beta: 
+52 Week High: 10.58
+52 Week Low: 10.04

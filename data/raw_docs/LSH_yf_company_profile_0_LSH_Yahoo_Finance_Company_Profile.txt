@@ -1,0 +1,9 @@
+Company: Lakeside Holding Limited Common Stock
+Ticker: LSH
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: United States
+City: Itasca
+Website: https://www.lakeside-holding.com
+Employees: 94
+Business Summary: Lakeside Holding Limited, through its subsidiaries, provides cross-border supply chain solutions in the United States, China, and South Korea. It provides cross-border ocean freight solutions and cross-border airfreight solutions, including cross-border freight consolidation and forwarding, customs clearance, container unloading, warehousing and distribution, unpacking and packing, and ground transportation. The company serves logistics service companies serving e-commerce platforms, social commerce platforms, and manufacturers to sell and transport consumer and industrial goods. Lakeside Holding Limited was founded in 2018 and is headquartered in Itasca, Illinois.

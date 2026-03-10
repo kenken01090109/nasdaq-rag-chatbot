@@ -1,0 +1,25 @@
+Company: monday.com Ltd. Ordinary Shares
+Ticker: MNDY
+Market Cap: 4057100032
+Enterprise Value: 2559662336
+Total Revenue: 1231997056
+Revenue Per Share: 23.948
+EBITDA: 12057000
+Gross Margins: 0.89195997
+Operating Margins: 0.00714
+Profit Margins: 0.096379995
+Free Cashflow: 255467504
+Operating Cashflow: 333644000
+Return On Assets: -0.00058
+Return On Equity: 0.10429
+Total Cash: 1665457024
+Total Debt: 168767008
+Debt To Equity: 13.536
+Current Ratio: 2.503
+Quick Ratio: 2.372
+Trailing PE: 35.133926
+Forward PE: 15.642825
+Price To Book: 3.2624466
+Beta: 1.305
+52 Week High: 316.98
+52 Week Low: 68.68

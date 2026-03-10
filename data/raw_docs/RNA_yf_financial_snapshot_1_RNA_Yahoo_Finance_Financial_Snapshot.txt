@@ -1,0 +1,25 @@
+Company: Atrium Therapeutics Inc. Common Stock
+Ticker: RNA
+Market Cap: 229931808
+Enterprise Value: 
+Total Revenue: 18618000
+Revenue Per Share: 1.2
+EBITDA: -49308000
+Gross Margins: -1.37765
+Operating Margins: -33.87893
+Profit Margins: -2.65877
+Free Cashflow: -11653375
+Operating Cashflow: -41129000
+Return On Assets: -3.99245
+Return On Equity: 
+Total Cash: 
+Total Debt: 3672000
+Debt To Equity: 
+Current Ratio: 0.068
+Quick Ratio: 0.002
+Trailing PE: 
+Forward PE: -3.6743832
+Price To Book: -3.6665018
+Beta: 
+52 Week High: 16.77
+52 Week Low: 13.06

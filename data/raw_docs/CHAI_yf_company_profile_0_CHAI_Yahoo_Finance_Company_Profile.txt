@@ -1,0 +1,9 @@
+Company: Core AI Holdings Inc. Common Shares
+Ticker: CHAI
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Wilmington
+Website: https://www.coregaming.co
+Employees: 
+Business Summary: Core AI Holdings, Inc. develops and publishes AI based mobile games worldwide. The company was formerly known as Siyata Mobile Inc. and change its name to Core AI Holdings, Inc. The company is based in Wilmington, Delaware.

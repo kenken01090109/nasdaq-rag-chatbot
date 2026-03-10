@@ -1,0 +1,11 @@
+Company: Pinnacle Food Group Limited Class A Common Shares
+Ticker: PFAI
+CIK: 0002032755
+Latest SEC XBRL Facts:
+Revenues: 3289862 | unit=USD | filed=2025-07-15 | period_end=2024-12-31
+NetIncomeLoss: 286142 | unit=USD | filed=2025-07-15 | period_end=2024-12-31
+Assets: 5604664 | unit=USD | filed=2025-07-15 | period_end=2024-12-31
+Liabilities: 3053862 | unit=USD | filed=2025-07-15 | period_end=2024-12-31
+StockholdersEquity: 466571 | unit=USD | filed=2025-07-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 204347 | unit=USD | filed=2025-07-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 685796 | unit=USD | filed=2025-07-15 | period_end=2024-12-31

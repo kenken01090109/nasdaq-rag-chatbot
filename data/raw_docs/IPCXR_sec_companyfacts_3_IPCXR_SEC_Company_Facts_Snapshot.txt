@@ -1,0 +1,11 @@
+Company: Inflection Point Acquisition Corp. III Rights
+Ticker: IPCXR
+CIK: 0002012318
+Latest SEC XBRL Facts:
+Revenues: 100000000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1388538 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 259097852 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 14871273 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -13037379 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1027255 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1270446 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

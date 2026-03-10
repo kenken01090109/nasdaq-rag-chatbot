@@ -1,0 +1,11 @@
+Company: Lee Enterprises Incorporated Common Stock
+Ticker: LEE
+CIK: 0000058361
+Latest SEC XBRL Facts:
+Revenues: 258905000 | unit=USD | filed=2019-05-10 | period_end=2019-03-31
+NetIncomeLoss: -5611000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+Assets: 592557000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+Liabilities: 638997000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+StockholdersEquity: -48742000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 4471000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 12625000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28

@@ -1,0 +1,11 @@
+Company: Vivos Therapeutics Inc. Common Stock
+Ticker: VVOS
+CIK: 0001716166
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13619000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -14276000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 25644000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 23112000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 2532000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11451000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3087000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Aspire Biopharma Holdings Inc. Warrant
+Ticker: ASBPW
+CIK: 0001847345
+Latest SEC XBRL Facts:
+NetIncomeLoss: -19773114 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2403129 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 13870407 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -11467278 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3995647 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

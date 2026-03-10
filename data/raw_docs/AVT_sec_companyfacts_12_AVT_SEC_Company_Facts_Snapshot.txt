@@ -1,0 +1,11 @@
+Company: Avnet Inc. Common Stock
+Ticker: AVT
+CIK: 0000008858
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 12217527000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+NetIncomeLoss: 113478000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+Assets: 13153175000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+Liabilities: 8215241000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+StockholdersEquity: 4937934000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 63658000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 286547000 | unit=USD | filed=2026-01-30 | period_end=2025-12-27

@@ -1,0 +1,11 @@
+Company: Hurco Companies Inc. Common Stock
+Ticker: HURC
+CIK: 0000315374
+Latest SEC XBRL Facts:
+Revenues: 42868000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+NetIncomeLoss: -3468000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+Assets: 261535000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+Liabilities: 66446000 | unit=USD | filed=2014-09-05 | period_end=2014-07-31
+StockholdersEquity: 195031000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: -616000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 48011000 | unit=USD | filed=2026-03-06 | period_end=2026-01-31

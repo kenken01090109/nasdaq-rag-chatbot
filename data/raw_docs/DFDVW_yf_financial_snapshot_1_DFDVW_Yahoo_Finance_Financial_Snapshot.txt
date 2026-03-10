@@ -1,0 +1,25 @@
+Company: DeFi Development Corp. Warrant
+Ticker: DFDVW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 7526660
+Revenue Per Share: 0.525
+EBITDA: 90433720
+Gross Margins: 0.98274004
+Operating Margins: 16.00951
+Profit Margins: 9.326079
+Free Cashflow: -23553848
+Operating Cashflow: -7220284
+Return On Assets: 0.23143
+Return On Equity: 0.56663
+Total Cash: 10178000
+Total Debt: 131711000
+Debt To Equity: 54.023
+Current Ratio: 2.039
+Quick Ratio: 0.12
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.09663484
+Beta: -6.34
+52 Week High: 5.0
+52 Week Low: 0.35

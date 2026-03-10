@@ -1,0 +1,25 @@
+Company: Soligenix Inc. Common Stock
+Ticker: SNGX
+Market Cap: 12002495
+Enterprise Value: 1458768
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -12080094
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -5953901
+Operating Cashflow: -9754306
+Return On Assets: -0.69378
+Return On Equity: -1.65099
+Total Cash: 10525335
+Total Debt: 385054
+Debt To Equity: 5.068
+Current Ratio: 3.18
+Quick Ratio: 3.076
+Trailing PE: 
+Forward PE: -1.4
+Price To Book: 1.5454546
+Beta: 2.028
+52 Week High: 6.23
+52 Week Low: 1.02

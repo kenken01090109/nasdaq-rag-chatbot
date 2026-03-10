@@ -1,0 +1,25 @@
+Company: Bank OZK Common Stock
+Ticker: OZK
+Market Cap: 5044572160
+Enterprise Value: 3118942208
+Total Revenue: 1555342976
+Revenue Per Share: 13.792
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.5856
+Profit Margins: 0.46001
+Free Cashflow: 
+Operating Cashflow: 837729984
+Return On Assets: 0.018099999
+Return On Equity: 0.12089
+Total Cash: 2833820928
+Total Debt: 636275968
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 7.296117
+Forward PE: 6.953065
+Price To Book: 0.8594792
+Beta: 0.94
+52 Week High: 53.66
+52 Week Low: 35.71

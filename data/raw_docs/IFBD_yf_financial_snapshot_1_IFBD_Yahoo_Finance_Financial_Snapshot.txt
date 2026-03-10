@@ -1,0 +1,25 @@
+Company: Infobird Co. Ltd Ordinary Shares
+Ticker: IFBD
+Market Cap: 8108326
+Enterprise Value: 4676346
+Total Revenue: 4861442
+Revenue Per Share: 1.623
+EBITDA: 
+Gross Margins: 0.38512
+Operating Margins: -0.31753
+Profit Margins: -0.59330004
+Free Cashflow: 26590804
+Operating Cashflow: 41982
+Return On Assets: -0.01853
+Return On Equity: -0.044159997
+Total Cash: 5940589
+Total Debt: 485293
+Debt To Equity: 0.706
+Current Ratio: 2.547
+Quick Ratio: 2.482
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.12158644
+Beta: 1.659
+52 Week High: 1.729
+52 Week Low: 0.66

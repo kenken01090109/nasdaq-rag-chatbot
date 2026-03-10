@@ -1,0 +1,25 @@
+Company: Monolithic Power Systems Inc. Common Stock
+Ticker: MPWR
+Market Cap: 50255572992
+Enterprise Value: 51738374144
+Total Revenue: 2790458880
+Revenue Per Share: 58.092
+EBITDA: 781148992
+Gross Margins: 0.55179
+Operating Margins: 0.26617
+Profit Margins: 0.22272
+Free Cashflow: 408796512
+Operating Cashflow: 838201984
+Return On Assets: 0.11813
+Return On Equity: 0.19173999
+Total Cash: 1256545024
+Total Debt: 24103000
+Debt To Equity: 0.683
+Current Ratio: 5.912
+Quick Ratio: 4.256
+Trailing PE: 79.74747
+Forward PE: 39.58816
+Price To Book: 14.112163
+Beta: 1.49
+52 Week High: 1256.22
+52 Week Low: 438.86

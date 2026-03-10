@@ -1,0 +1,10 @@
+Company: 1st Source Corporation Common Stock
+Ticker: SRCE
+CIK: 0000034782
+Latest SEC XBRL Facts:
+NetIncomeLoss: 22196000 | unit=USD | filed=2019-04-18 | period_end=2019-03-31
+Assets: 9056691000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 7765260000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 1236472000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 167692000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 127485000 | unit=USD | filed=2019-10-17 | period_end=2019-09-30

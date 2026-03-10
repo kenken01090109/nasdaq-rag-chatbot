@@ -1,0 +1,25 @@
+Company: Verastem Inc. Common Stock
+Ticker: VSTM
+Market Cap: 480540320
+Enterprise Value: 422364896
+Total Revenue: 30914000
+Revenue Per Share: 0.446
+EBITDA: -169400992
+Gross Margins: 0.85120004
+Operating Margins: -2.36527
+Profit Margins: 0.0
+Free Cashflow: -82332872
+Operating Cashflow: -137508992
+Return On Assets: -0.61113
+Return On Equity: -14.80151
+Total Cash: 204990000
+Total Debt: 87169000
+Debt To Equity: 152.401
+Current Ratio: 3.091
+Quick Ratio: 2.964
+Trailing PE: 
+Forward PE: -5.8
+Price To Book: 8.668478
+Beta: 0.395
+52 Week High: 11.25
+52 Week Low: 4.01

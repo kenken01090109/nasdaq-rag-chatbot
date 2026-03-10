@@ -1,0 +1,9 @@
+Company: BioLineRx Ltd. American Depositary Shares
+Ticker: BLRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Hevel Modi'in
+Website: https://www.biolinerx.com
+Employees: 28
+Business Summary: BioLineRx Ltd., a commercial stage biopharmaceutical company, develops and commercializes therapeutics for oncology and rare diseases. The company's pipeline includes APHEXDA (motixafortide), a peptide that is in Phase 1 clinical trial for the treatment of sickle cell disease, and Phase 2b clinical trial for the treatment of pancreatic cancer, as well as completed Phase 3 clinical trial for the treatment of multiple myeloma. It develops BL-5010, a pen-like applicator containing an acidic aqueous solution for the non-surgical removal of skin lesions. BioLineRx Ltd. was incorporated in 2003 and is headquartered in Hevel Modi'in, Israel.

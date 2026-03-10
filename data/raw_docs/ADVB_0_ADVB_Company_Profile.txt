@@ -1,0 +1,9 @@
+Company: Advanced Biomed Inc. Common Stock
+Ticker: ADVB
+Long Business Summary: Advanced Biomed Inc., an investment holding company, engages in the research and development of microfluidic biochip technologies for precision oncology detection, diagnosis, and treatment in Taiwan. Its devices include A+Pre, an automated sample preparation system that enables pre-concentration of diluted blood samples; AC-1000, a rare cell device to solve the problem of detection of hypercoagulable state samples of tumor patients; A+SCDrop, a circulating tumor cell (CTC) single-cell capture device; and A+CellScan, an analyzer with an immunostaining chip for immunostaining/analysis of the AC-1000 product. The company also offers microfluidic biochips, such as A+Pre, AC-1000 CTC enrichment, and A+CellScan chips to provide assay products and services to cancer patients. In addition, its immunochromogenic kits include A+CTCE kit to identify epithelial circulating tumor cells and determined by the immunochromogenicity of EpCAM, CK (pan), CD45, and CD14 antibodies; A+CTCM kit to identify mesenchymal circulating tumor cells based on the immunochromogenicity of Vimentin, CD45, and CD14 antibodies; A+EMT to identify epithelial-to-mesenchymal circulating tumor cells determined by the immunochromogenicity of cell-surface Vimentin, and CD45 and CD14 antibodies; and A+CM to identify tumor-associated macrophages based on the immunochromogenicity of PD-L1, CD45, and CD14 antibodies. Further, the company is developing A+LCGuard for early screening of lung cancer. Additionally, it establishes and operates medical clinics in the People's Republic of China. The company was founded in 2014 and is headquartered in New York, New York.
+Industry: Diagnostics & Research
+Sector: Healthcare
+Website: https://www.advanbiomed.com
+Country: United States
+City: New York
+Full Time Employees: 31

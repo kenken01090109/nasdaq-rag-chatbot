@@ -1,0 +1,4 @@
+Company: D-Market Electronic Services & Trading American Depositary Shares
+Ticker: HEPS
+CIK: 0001850235
+Latest SEC XBRL Facts:

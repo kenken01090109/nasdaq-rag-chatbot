@@ -1,0 +1,10 @@
+Company: Waterstone Financial Inc. Common Stock (MD)
+Ticker: WSBF
+CIK: 0001569994
+Latest SEC XBRL Facts:
+NetIncomeLoss: 18689000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2269169000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1923674000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 345495000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21010000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 104833000 | unit=USD | filed=2019-05-03 | period_end=2019-03-31

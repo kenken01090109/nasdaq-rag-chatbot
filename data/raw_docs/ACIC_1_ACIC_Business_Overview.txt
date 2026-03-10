@@ -1,0 +1,7 @@
+Company: American Coastal Insurance Corporation Common Stock
+Ticker: ACIC
+Business Summary: American Coastal Insurance Corporation, through its subsidiaries, primarily engages in the commercial and personal property and casualty insurance business in the United States. The company provides structure, content, and liability coverage for standard single-family homeowners, renters, and condominium unit owners. It also offers commercial multi-peril property insurance for residential condominium associations and apartments, as well as coverage to policyholders for loss or damage to dwellings and buildings, inventory, detached structures, and equipment caused by fire, wind, hail, water, theft, and vandalism. In addition, the company provides equipment breakdown, identity theft, and cyber security policies. The company markets and distributes its products through a network of independent agencies. The company was formerly known as United Insurance Holdings Corp. and changed its name to American Coastal Insurance Corporation in August 2023. American Coastal Insurance Corporation was founded in 1999 and is based in Saint Petersburg, Florida.
+Sector: Financial Services
+Industry: Insurance - Property & Casualty
+Exchange: NCM
+Quote Type: EQUITY

@@ -1,0 +1,9 @@
+Company: KALA BIO Inc. Common Stock
+Ticker: KALA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Arlington
+Website: https://www.kalarx.com
+Employees: 38
+Business Summary: KALA BIO, Inc. a clinical-stage biopharmaceutical company, engages in the research, development, and commercialization of therapies for rare and severe eye diseases. The company's lead product candidates include KPI-012, which is in Phase 2b clinical trial for the treatment of persistent corneal epithelial defects; and limbal stem cell deficiency and other rare corneal diseases. Its preclinical development product consists of KPI-014 for the treatment of rare inherited retinal diseases. The company was formerly known as Kala Pharmaceuticals, Inc. and changed its name to KALA BIO, Inc. in August 2023. KALA BIO, Inc. was incorporated in 2009 and is headquartered in Arlington, Massachusetts.

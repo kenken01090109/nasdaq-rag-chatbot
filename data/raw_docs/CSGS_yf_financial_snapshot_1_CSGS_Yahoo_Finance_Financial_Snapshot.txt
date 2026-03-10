@@ -1,0 +1,25 @@
+Company: CSG Systems International Inc. Common Stock
+Ticker: CSGS
+Market Cap: 2278788608
+Enterprise Value: 2609735168
+Total Revenue: 1223288960
+Revenue Per Share: 44.172
+EBITDA: 193348000
+Gross Margins: 0.49025002
+Operating Margins: 0.13028
+Profit Margins: 0.045679998
+Free Cashflow: 213514624
+Operating Cashflow: 155939008
+Return On Assets: 0.06664
+Return On Equity: 0.19737
+Total Cash: 180011008
+Total Debt: 576841024
+Debt To Equity: 203.329
+Current Ratio: 1.441
+Quick Ratio: 0.847
+Trailing PE: 40.353535
+Forward PE: 14.613626
+Price To Book: 7.7633114
+Beta: 0.9
+52 Week High: 80.67
+52 Week Low: 54.65

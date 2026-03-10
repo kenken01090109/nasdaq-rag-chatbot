@@ -1,0 +1,9 @@
+Company: DiaMedica Therapeutics Inc. Common Stock
+Ticker: DMAC
+CIK: 0001401040
+Latest SEC XBRL Facts:
+NetIncomeLoss: -24026000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 57047000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 51622000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -21297000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3326000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

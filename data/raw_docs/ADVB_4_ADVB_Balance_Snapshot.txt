@@ -1,0 +1,8 @@
+Company: Advanced Biomed Inc. Common Stock
+Ticker: ADVB
+Total Cash: 2604666
+Total Debt: 714692
+Debt To Equity: 7.538
+Current Ratio: 8.561
+Quick Ratio: 2.149
+Book Value: 8.763

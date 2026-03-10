@@ -1,0 +1,9 @@
+Company: Immersion Corporation Common Stock
+Ticker: IMMR
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Aventura
+Website: https://www.immersion.com
+Employees: 
+Business Summary: Immersion Corporation, together with its subsidiaries, engages in the business of intellectual property (IP) that engages users' sense of touch when operating digital devices in North America, Europe, and Asia. The company offers software, related tools and technical assistance related to integrating its patented technology; educational content and general merchandise, and digital and physical textbooks through its bookstore locations, including virtual bookstores, and bookstore-affiliated e-commerce websites; and marketing services, including promotional activities and advertisements, as well as operates as a textbook wholesaler, and bookstore management hardware and software provider. It serves various markets, such as mobile devices, wearables, consumer, mobile entertainment, and other content; console gaming; automotive; medical; and commercial. Immersion Corporation was incorporated in 1993 and is headquartered in Aventura, Florida.

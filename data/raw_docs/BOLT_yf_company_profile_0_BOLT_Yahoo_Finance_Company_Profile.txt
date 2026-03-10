@@ -1,0 +1,9 @@
+Company: Bolt Biotherapeutics Inc. Common Stock
+Ticker: BOLT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://www.boltbio.com
+Employees: 40
+Business Summary: Bolt Biotherapeutics, Inc., a clinical-stage biopharmaceutical company, engages in the development of immunotherapies for the treatment of cancer. The company dBDC-3042, develops dan agonist antibody targeting Dectin-2 for range of tumors, such as head and neck, non-small cell lung, ovarian, triple-negative breast, and other cancer; and BDC-4182, an next-generation boltbody technology platform that targets claudin 18.2, which is overexpressed in gastric/gastroesophageal junction cancer, pancreatic cancer, and other tumor types. The company has collaboration agreements with Toray Industries, Genmab A/S, Innovent Biologics, Inc.; and license agreement with Stanford University. The company was formerly known as Bolt Therapeutics, Inc. and changed its name to Bolt Biotherapeutics, Inc. in July 2015. Bolt Biotherapeutics, Inc. was incorporated in 2015 and is headquartered in Redwood City, California.

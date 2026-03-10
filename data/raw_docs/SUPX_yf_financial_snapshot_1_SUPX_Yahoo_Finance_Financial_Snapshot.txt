@@ -1,0 +1,25 @@
+Company: SuperX AI Technology Limited Ordinary Shares
+Ticker: SUPX
+Market Cap: 462285856
+Enterprise Value: 315367200
+Total Revenue: 3596575
+Revenue Per Share: 0.239
+EBITDA: -11941446
+Gross Margins: 0.10158
+Operating Margins: -2.01132
+Profit Margins: 0.0
+Free Cashflow: 4879382
+Operating Cashflow: -8334584
+Return On Assets: -0.25027
+Return On Equity: -1.58356
+Total Cash: 17206992
+Total Debt: 1758802
+Debt To Equity: 8.87
+Current Ratio: 1.226
+Quick Ratio: 0.549
+Trailing PE: 
+Forward PE: 
+Price To Book: 11.957494
+Beta: 
+52 Week High: 76.5
+52 Week Low: 4.3

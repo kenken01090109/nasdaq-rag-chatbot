@@ -1,0 +1,12 @@
+Company: VSE Corporation Tangible Equity Units
+Ticker: VSECU
+CIK: 0000102752
+Latest SEC XBRL Facts:
+Revenues: 760113000 | unit=USD | filed=2018-03-07 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 811093000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetIncomeLoss: -1864000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Assets: 1560447000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Liabilities: 577107000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+StockholdersEquity: 983340000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10652000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8784000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30

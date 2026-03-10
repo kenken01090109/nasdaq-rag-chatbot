@@ -1,0 +1,11 @@
+Company: Qorvo Inc. Common Stock
+Ticker: QRVO
+CIK: 0001604778
+Latest SEC XBRL Facts:
+Revenues: 2870240000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+NetIncomeLoss: 309259000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+Assets: 6163979000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+Liabilities: 2465671000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+StockholdersEquity: 3698308000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 532367000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 1318510000 | unit=USD | filed=2026-01-28 | period_end=2025-12-27

@@ -1,0 +1,10 @@
+Company: Agencia Comercial Spirits Ltd Class A Ordinary Shares
+Ticker: AGCC
+Market Cap: 305899328
+Enterprise Value: 274337920
+Trailing PE: 384.75003
+Forward PE: 
+Price To Book: 81.86171
+Beta: 
+52 Week High: 16.588
+52 Week Low: 3.66

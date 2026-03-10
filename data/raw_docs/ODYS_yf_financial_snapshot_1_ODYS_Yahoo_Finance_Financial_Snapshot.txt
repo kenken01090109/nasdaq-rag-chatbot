@@ -1,0 +1,25 @@
+Company: Odysight.ai Inc. Common Stock
+Ticker: ODYS
+Market Cap: 94218208
+Enterprise Value: 58126564
+Total Revenue: 3880000
+Revenue Per Share: 0.259
+EBITDA: -17349000
+Gross Margins: 0.29768
+Operating Margins: -31.590601
+Profit Margins: 0.0
+Free Cashflow: -6854500
+Operating Cashflow: -12516000
+Return On Assets: -0.36953
+Return On Equity: -0.65211
+Total Cash: 29482000
+Total Debt: 844000
+Debt To Equity: 2.899
+Current Ratio: 9.775
+Quick Ratio: 9.306
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.2323234
+Beta: 0.061
+52 Week High: 7.02
+52 Week Low: 2.6

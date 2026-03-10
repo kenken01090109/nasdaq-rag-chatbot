@@ -1,0 +1,12 @@
+Company: Editas Medicine Inc. Common Stock
+Ticker: EDIT
+CIK: 0001650664
+Latest SEC XBRL Facts:
+Revenues: 2069000 | unit=USD | filed=2019-05-08 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 15779000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -154440000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 201751000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 188298000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 13453000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -128854000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 165648000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: LeonaBio Inc. Common Stock
+Ticker: LONA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Bothell
+Website: https://leonabio.com
+Employees: 26
+Business Summary: LeonaBio, Inc., clinical-stage biopharmaceutical company, focuses on developing small molecules to restore neuronal health and slow neurodegradation. Its product pipeline includes ATH-1105 for the treatment of amyotrophic lateral sclerosis, which is in phase 1 clinical trial; ATH-1020 for the treatment of neurodegenerative diseases, which is phase 1 clinical trial, as well as early compounds which is in preclinical phase. The company was formerly known as Athira Pharma, Inc. and changed its name to LeonaBio, Inc. in January 2026. LeonaBio, Inc. was incorporated in 2011 and is headquartered in Bothell, Washington.

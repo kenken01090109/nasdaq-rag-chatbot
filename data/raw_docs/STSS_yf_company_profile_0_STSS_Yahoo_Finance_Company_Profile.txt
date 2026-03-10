@@ -1,0 +1,9 @@
+Company: Sharps Technology Inc. Common Stock
+Ticker: STSS
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Melville
+Website: https://sharpstechnology.com
+Employees: 55
+Business Summary: Sharps Technology, Inc., a medical device and pharmaceutical packaging company, provides smart-safety syringe products to the healthcare industry. Its product lines focus on providing waste capabilities that incorporate syringe technologies. The company, through a digital asset treasury strategy, focuses on accumulating Solana (SOL), the native digital asset of the Solana blockchain. The company was incorporated in 2017 and is based in Melville, New York.

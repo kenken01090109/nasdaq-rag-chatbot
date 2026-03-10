@@ -1,0 +1,25 @@
+Company: Information Services Group Inc. Common Stock
+Ticker: III
+Market Cap: 218325488
+Enterprise Value: 
+Total Revenue: 244724992
+Revenue Per Share: 5.081
+EBITDA: 22346666
+Gross Margins: 0.4307
+Operating Margins: 0.08408
+Profit Margins: 0.03817
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.09782
+Total Cash: 
+Total Debt: 
+Debt To Equity: 72.351
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 23.842106
+Forward PE: 8.882354
+Price To Book: 2.293671
+Beta: 
+52 Week High: 6.45
+52 Week Low: 3.12

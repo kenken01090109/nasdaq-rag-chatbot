@@ -1,0 +1,25 @@
+Company: Firefly Aerospace Inc. Common Stock
+Ticker: FLY
+Market Cap: 3142024448
+Enterprise Value: 2294849792
+Total Revenue: 111216000
+Revenue Per Share: 3.313
+EBITDA: -223272992
+Gross Margins: -0.04908
+Operating Margins: -1.8478501
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -177922000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 995161984
+Total Debt: 44474000
+Debt To Equity: 4.687
+Current Ratio: 6.201
+Quick Ratio: 6.065
+Trailing PE: 
+Forward PE: -23.24732
+Price To Book: 3.0804057
+Beta: 
+52 Week High: 73.8
+52 Week Low: 16.0

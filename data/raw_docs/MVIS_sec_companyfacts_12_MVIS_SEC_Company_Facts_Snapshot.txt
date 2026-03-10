@@ -1,0 +1,12 @@
+Company: MicroVision Inc. Common Stock
+Ticker: MVIS
+CIK: 0000065770
+Latest SEC XBRL Facts:
+Revenues: 2300000 | unit=USD | filed=2025-03-26 | period_end=2023-01-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 985000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -57225000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 150822000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 60103000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 90719000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43315000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72832000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Dave & Buster's Entertainment Inc. Common Stock
+Ticker: PLAY
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: Coppell
+Website: https://daveandbusters.com
+Employees: 23420
+Business Summary: Dave & Buster's Entertainment, Inc. owns and operates entertainment and dining venues for adults and families in North America. Its venues offer a menu of entrées and appetizers, as well as a selection of alcoholic and non-alcoholic beverages; and an assortment of entertainment attractions centered on playing games and watching live sports, and other televised events. The company also offers food, drinks, and entertainment, including bowling, laser tag, arcade games, and virtual reality. The company operates its venues under the Dave & Buster's and Main Event brands. Dave & Buster's Entertainment, Inc. was founded in 1982 and is headquartered in Coppell, Texas.

@@ -1,0 +1,11 @@
+Company: Life360 Inc. Common Stock
+Ticker: LIF
+CIK: 0001581760
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 343502000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 21177000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 787454000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 396007000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 391447000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51830000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 455733000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

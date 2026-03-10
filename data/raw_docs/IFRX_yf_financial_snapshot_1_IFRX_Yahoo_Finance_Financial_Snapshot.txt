@@ -1,0 +1,25 @@
+Company: InflaRx N.V. Common Stock
+Ticker: IFRX
+Market Cap: 65714716
+Enterprise Value: 18932758
+Total Revenue: 62839
+Revenue Per Share: 0.001
+EBITDA: -47140536
+Gross Margins: 0.0
+Operating Margins: -420.1519
+Profit Margins: 0.0
+Free Cashflow: 8980449
+Operating Cashflow: -42503528
+Return On Assets: -0.40691003
+Return On Equity: -0.72486997
+Total Cash: 44372240
+Total Debt: 970862
+Debt To Equity: 2.14
+Current Ratio: 3.331
+Quick Ratio: 2.432
+Trailing PE: 
+Forward PE: -1.2182044
+Price To Book: 1.2472959
+Beta: 1.531
+52 Week High: 1.94
+52 Week Low: 0.711

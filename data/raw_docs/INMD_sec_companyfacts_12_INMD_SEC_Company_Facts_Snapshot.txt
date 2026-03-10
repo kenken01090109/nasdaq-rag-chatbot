@@ -1,0 +1,11 @@
+Company: InMode Ltd. Ordinary Shares
+Ticker: INMD
+CIK: 0001742692
+Latest SEC XBRL Facts:
+Revenues: 370495000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetIncomeLoss: 197919000 | unit=USD | filed=2024-02-13 | period_end=2023-12-31
+Assets: 766429000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Liabilities: 83231000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: 683198000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 85257000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 302543000 | unit=USD | filed=2026-02-10 | period_end=2025-12-31

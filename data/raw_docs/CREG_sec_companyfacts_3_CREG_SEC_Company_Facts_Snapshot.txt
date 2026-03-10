@@ -1,0 +1,11 @@
+Company: Smart Powerr Corp. Common Stock
+Ticker: CREG
+CIK: 0000721693
+Latest SEC XBRL Facts:
+Revenues: 173659 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -2429650 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 132973469 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 14754746 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 118218723 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 64443002 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 138813673 | unit=USD | filed=2023-05-08 | period_end=2022-12-31

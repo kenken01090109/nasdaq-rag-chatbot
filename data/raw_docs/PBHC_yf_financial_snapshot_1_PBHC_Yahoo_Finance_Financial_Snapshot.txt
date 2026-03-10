@@ -1,0 +1,25 @@
+Company: Pathfinder Bancorp Inc. Common Stock (MD)
+Ticker: PBHC
+Market Cap: 83877336
+Enterprise Value: 158321056
+Total Revenue: 30488000
+Revenue Per Share: 4.952
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -13.17488
+Profit Margins: -0.11208
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.00236
+Return On Equity: -0.02819
+Total Cash: 31170000
+Total Debt: 105923000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.69339335
+Beta: 0.101
+52 Week High: 17.0
+52 Week Low: 12.06

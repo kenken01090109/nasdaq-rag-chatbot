@@ -1,0 +1,25 @@
+Company: Anika Therapeutics Inc. Common Stock
+Ticker: ANIK
+Market Cap: 203627632
+Enterprise Value: 157985600
+Total Revenue: 112819000
+Revenue Per Share: 7.868
+EBITDA: -5471000
+Gross Margins: 0.56557
+Operating Margins: 0.0211
+Profit Margins: -0.09644
+Free Cashflow: 13277125
+Operating Cashflow: 11188000
+Return On Assets: -0.035150003
+Return On Equity: -0.0671
+Total Cash: 57481000
+Total Debt: 26248000
+Debt To Equity: 18.296
+Current Ratio: 4.718
+Quick Ratio: 3.705
+Trailing PE: 
+Forward PE: 35.3
+Price To Book: 1.3670248
+Beta: 0.297
+52 Week High: 17.21
+52 Week Low: 7.87

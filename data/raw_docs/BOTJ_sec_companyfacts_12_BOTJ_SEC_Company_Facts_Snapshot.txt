@@ -1,0 +1,10 @@
+Company: Bank of the James Financial Group Inc. Common Stock
+Ticker: BOTJ
+CIK: 0001275101
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6299000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 1020125000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 943153000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 76972000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9686000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 50464000 | unit=USD | filed=2018-11-09 | period_end=2018-09-30

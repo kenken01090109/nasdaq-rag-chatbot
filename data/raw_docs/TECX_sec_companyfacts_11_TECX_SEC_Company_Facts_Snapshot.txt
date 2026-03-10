@@ -1,0 +1,10 @@
+Company: Tectonic Therapeutic Inc. Common Stock
+Ticker: TECX
+CIK: 0001681087
+Latest SEC XBRL Facts:
+NetIncomeLoss: -54925000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 277001000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 9473000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 267528000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -45617000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 268435000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

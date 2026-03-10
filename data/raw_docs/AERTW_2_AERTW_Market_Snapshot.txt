@@ -1,0 +1,10 @@
+Company: Aeries Technology Inc. Warrant
+Ticker: AERTW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.8916667
+Beta: -0.283
+52 Week High: 0.0214
+52 Week Low: 0.02

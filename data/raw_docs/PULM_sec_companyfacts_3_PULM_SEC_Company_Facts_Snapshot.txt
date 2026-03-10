@@ -1,0 +1,12 @@
+Company: Pulmatrix Inc. Common Stock
+Ticker: PULM
+CIK: 0001574235
+Latest SEC XBRL Facts:
+Revenues: 6225000 | unit=USD | filed=2019-11-01 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7803000 | unit=USD | filed=2025-10-16 | period_end=2024-09-30
+NetIncomeLoss: -4234000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+Assets: 4982000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+Liabilities: 249000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+StockholdersEquity: 4733000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4727000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4794000 | unit=USD | filed=2025-10-16 | period_end=2025-09-30

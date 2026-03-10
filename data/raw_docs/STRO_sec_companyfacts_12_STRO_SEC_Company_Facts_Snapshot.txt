@@ -1,0 +1,12 @@
+Company: Sutro Biopharma Inc. Common Stock
+Ticker: STRO
+CIK: 0001382101
+Latest SEC XBRL Facts:
+Revenues: 11305000 | unit=USD | filed=2020-03-16 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 90837000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -144324000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 209658000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 296926000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -87268000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -150796000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65927000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

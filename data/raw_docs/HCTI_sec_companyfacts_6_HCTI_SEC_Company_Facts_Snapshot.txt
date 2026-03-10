@@ -1,0 +1,11 @@
+Company: Healthcare Triangle Inc. Common Stock
+Ticker: HCTI
+CIK: 0001839285
+Latest SEC XBRL Facts:
+Revenues: 10752000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -4973000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 13838000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5112000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10209000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -9689000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1629000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

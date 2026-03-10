@@ -1,0 +1,9 @@
+Company: Movano Inc. Common Stock
+Ticker: MOVE
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Pleasanton
+Website: https://movano.com
+Employees: 32
+Business Summary: Movano Inc., a technology company, engages in the development of a platform to deliver healthcare solutions at the intersection of medical and consumer devices. It offers Evie Ring, a wearable device for women that combines health and wellness metrics comprising resting heart rate, heart rate variability (HRV), blood oxygen saturation (SpO2), respiration rate, skin temperature variability, period and ovulation tracking, and menstrual symptom tracking, as well as activity profile, including steps, active minutes and calories burned, sleep stages and duration, and mood tracking. The company develops System-on-a-Chip (SoC) for blood pressure or continuous glucose monitoring (CGM) systems. It sells its products through its website, retail or other distribution channels, value-added resellers (VARs), as well as partnering with OEMs. The company was formerly known as Maestro Sensors Inc. and changed its name to Movano Inc. in August 2018. Movano Inc. was incorporated in 2018 and is headquartered in Pleasanton, California.

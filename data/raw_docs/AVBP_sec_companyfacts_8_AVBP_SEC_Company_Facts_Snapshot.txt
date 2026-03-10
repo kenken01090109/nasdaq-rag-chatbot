@@ -1,0 +1,10 @@
+Company: ArriVent BioPharma Inc. Common Stock
+Ticker: AVBP
+CIK: 0001868279
+Latest SEC XBRL Facts:
+NetIncomeLoss: -130764000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 326555000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 21558000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 304997000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -129930000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 112672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

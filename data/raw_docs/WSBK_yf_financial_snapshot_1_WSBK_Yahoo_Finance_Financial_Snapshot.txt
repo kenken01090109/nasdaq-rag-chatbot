@@ -1,0 +1,25 @@
+Company: Winchester Bancorp Inc. Common Stock
+Ticker: WSBK
+Market Cap: 116131232
+Enterprise Value: 209279072
+Total Revenue: 22131000
+Revenue Per Share: 2.381
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.2493
+Profit Margins: 0.06421
+Free Cashflow: 
+Operating Cashflow: 5650000
+Return On Assets: 0.00149
+Return On Equity: 0.0143099995
+Total Cash: 54785000
+Total Debt: 143596000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 76.23529
+Forward PE: 
+Price To Book: 1.0187879
+Beta: 
+52 Week High: 13.385
+52 Week Low: 8.76

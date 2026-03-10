@@ -1,0 +1,11 @@
+Company: American Coastal Insurance Corporation Common Stock
+Ticker: ACIC
+CIK: 0001401521
+Latest SEC XBRL Facts:
+Revenues: 355201000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+NetIncomeLoss: 23069000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+Assets: 2317662000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+Liabilities: 1772928000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+StockholdersEquity: 544734000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+NetCashProvidedByUsedInOperatingActivities: 78587000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30
+CashAndCashEquivalentsAtCarryingValue: 208675000 | unit=USD | filed=2018-08-03 | period_end=2018-06-30

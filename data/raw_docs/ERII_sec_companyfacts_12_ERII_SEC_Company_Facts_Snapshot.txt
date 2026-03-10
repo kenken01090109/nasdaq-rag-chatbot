@@ -1,0 +1,11 @@
+Company: Energy Recovery Inc. Common Stock
+Ticker: ERII
+CIK: 0001421517
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 68116000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -3952000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 209645000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 28813000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 180832000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11693000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47103000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

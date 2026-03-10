@@ -1,0 +1,11 @@
+Company: Arrowhead Pharmaceuticals Inc. Common Stock
+Ticker: ARWR
+CIK: 0000879407
+Latest SEC XBRL Facts:
+Revenues: 4887321 | unit=USD | filed=2018-08-07 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 264033000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 30811000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 1604181000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 568422000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 13481000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 69400000 | unit=USD | filed=2024-08-08 | period_end=2024-06-30

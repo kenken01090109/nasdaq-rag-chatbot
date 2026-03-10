@@ -1,0 +1,10 @@
+Company: Orrstown Financial Services Inc. Common Stock
+Ticker: ORRF
+CIK: 0000826154
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 27312000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetIncomeLoss: 59364000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 5470233000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4898297000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 571936000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 58245000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

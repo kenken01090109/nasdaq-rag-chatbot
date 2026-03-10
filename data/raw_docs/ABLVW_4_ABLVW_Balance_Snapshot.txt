@@ -1,0 +1,8 @@
+Company: Able View Global Inc. Warrant
+Ticker: ABLVW
+Total Cash: 6283350
+Total Debt: 11497127
+Debt To Equity: 119.063
+Current Ratio: 1.439
+Quick Ratio: 0.883
+Book Value: 0.196

@@ -1,0 +1,10 @@
+Company: Acurx Pharmaceuticals Inc. Common Stock
+Ticker: ACXP
+Market Cap: 3692739
+Enterprise Value: -2883025
+Trailing PE: 
+Forward PE: -0.39136305
+Price To Book: 0.71782184
+Beta: -1.158
+52 Week High: 21.0
+52 Week Low: 1.41

@@ -1,0 +1,11 @@
+Company: ServiceTitan Inc. Class A Common Stock
+Ticker: TTAN
+CIK: 0001638826
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 706978000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: -118116000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Assets: 1816571000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 311651000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 1504920000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 69550000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 493238000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

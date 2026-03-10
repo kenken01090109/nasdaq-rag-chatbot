@@ -1,0 +1,11 @@
+Company: HF Foods Group Inc. Common Stock
+Ticker: HFFG
+CIK: 0001680873
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 920259000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -1545000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 595083000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 354221000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 239208000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4483000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12690265 | unit=USD | filed=2020-05-18 | period_end=2020-03-31

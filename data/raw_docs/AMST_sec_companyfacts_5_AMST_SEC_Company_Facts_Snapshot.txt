@@ -1,0 +1,10 @@
+Company: Amesite Inc. Common Stock
+Ticker: AMST
+CIK: 0001807166
+Latest SEC XBRL Facts:
+Revenues: 202346 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -1374814 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 1997983 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 1508193 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1036849 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1165369 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

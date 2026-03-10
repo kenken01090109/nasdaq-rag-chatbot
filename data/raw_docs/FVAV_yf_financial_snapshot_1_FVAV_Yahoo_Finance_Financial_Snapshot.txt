@@ -1,0 +1,25 @@
+Company: Fortress Value Acquisition Corp. V Class A Ordinary Shares
+Ticker: FVAV
+Market Cap: 325494368
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -1256.25
+Beta: 
+52 Week High: 10.1
+52 Week Low: 10.0

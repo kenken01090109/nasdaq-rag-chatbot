@@ -1,0 +1,12 @@
+Company: MeiraGTx Holdings plc Ordinary Shares
+Ticker: MGTX
+CIK: 0001735438
+Latest SEC XBRL Facts:
+Revenues: 6027000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 11977000 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+NetIncomeLoss: -129289000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 189471000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 230028000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -40557000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -92990000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14841000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Niagen Bioscience Inc. Common Stock
+Ticker: NAGE
+CIK: 0001386570
+Latest SEC XBRL Facts:
+Revenues: 95584000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 13250000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 98139000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 27463000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 70676000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 12825000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64100000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

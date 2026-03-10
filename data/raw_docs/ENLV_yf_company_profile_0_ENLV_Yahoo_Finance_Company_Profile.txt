@@ -1,0 +1,9 @@
+Company: Enlivex Ltd. Ordinary Shares
+Ticker: ENLV
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Ness Ziona
+Website: https://www.enlivex.com
+Employees: 
+Business Summary: Enlivex Ltd., together with its subsidiaries, operates as a clinical-stage macrophage reprogramming immunotherapy company in Israel. Its product pipeline is the Allocetra (ENX-CL-02-002), which is in phase II clinical trial for the treatment of organ dysfunction and failure caused by sepsis; and Allocetra (ENX-CL-05-001), which is in phase I/II clinical trial to treat moderate knee osteoarthritis. The company also develops 0189-22-KMC, which is in phase I/II clinical trial to treat end-stage knee osteoarthritis; 0006-24-KMC, which is in phase I/II clinical trial for the treatment of Basal thumb osteoarthritis; and ENX-CL-06-001 to treat Psoriatic arthritis and is in phase I/II clinical trial. Enlivex Ltd. was formerly known as Enlivex Therapeutics Ltd. and changed its name to Enlivex Ltd. in February 2026. The company was founded in 2005 and is headquartered in Ness Ziona, Israel.

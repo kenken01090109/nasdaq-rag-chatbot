@@ -1,0 +1,25 @@
+Company: Booking Holdings Inc. Common Stock
+Ticker: BKNG
+Market Cap: 146677727232
+Enterprise Value: 148329021440
+Total Revenue: 26916999168
+Revenue Per Share: 829.44
+EBITDA: 10110000128
+Gross Margins: 0.87357
+Operating Margins: 0.32446
+Profit Margins: 0.20076999
+Free Cashflow: 6550750208
+Operating Cashflow: 9409000448
+Return On Assets: 0.20815
+Return On Equity: 
+Total Cash: 17202999296
+Total Debt: 19413999616
+Debt To Equity: 
+Current Ratio: 1.333
+Quick Ratio: 1.259
+Trailing PE: 27.475126
+Forward PE: 14.532298
+Price To Book: -26.018663
+Beta: 1.227
+52 Week High: 5839.41
+52 Week Low: 3765.45

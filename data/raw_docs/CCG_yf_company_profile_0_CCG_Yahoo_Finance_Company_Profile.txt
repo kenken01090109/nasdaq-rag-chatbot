@@ -1,0 +1,9 @@
+Company: Cheche Group Inc. Class A Ordinary Shares
+Ticker: CCG
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: China
+City: Beijing
+Website: https://www.chechegroup.com
+Employees: 548
+Business Summary: Cheche Group Inc. provides auto insurance transaction services. The company offers digital insurance transaction products, such as Easy-Insur that provides a range of auto and non-auto insurance products underwritten by insurance carriers; and NEV Insurance Solution which assists NEV manufacturers in building a full-stack digital insurance service, including NEV insurance, one-click renewal, intelligent claims, business management, and interface operation and maintenance, as well as offers customized system deployment and one-stop operation services for various business models of NEV manufacturers. It also provides insurance SaaS solution products comprising Digital Surge, a cloud-based software for insurance intermediaries; and Sky Frontier, an AI-based software for auto insurance carriers. The company was founded in 2014 and is headquartered in Beijing, China.

@@ -1,0 +1,12 @@
+Company: Taoping Inc. Ordinary Shares
+Ticker: TAOP
+CIK: 0001552670
+Latest SEC XBRL Facts:
+Revenues: 2294400 | unit=USD | filed=2024-09-05 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 17602821 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetIncomeLoss: -4679549 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Assets: 30316279 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+Liabilities: 15840456 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+StockholdersEquity: 14475823 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1478313 | unit=USD | filed=2025-10-01 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2172690 | unit=USD | filed=2025-10-01 | period_end=2025-06-30

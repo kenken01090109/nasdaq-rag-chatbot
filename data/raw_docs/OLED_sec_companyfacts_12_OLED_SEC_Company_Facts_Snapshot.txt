@@ -1,0 +1,12 @@
+Company: Universal Display Corporation Common Stock
+Ticker: OLED
+CIK: 0001005284
+Latest SEC XBRL Facts:
+Revenues: 477684000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 477684000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 175733000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1947451000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 202645000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1744806000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 179681000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 121609000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

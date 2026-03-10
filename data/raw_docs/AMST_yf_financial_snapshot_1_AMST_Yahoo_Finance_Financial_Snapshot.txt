@@ -1,0 +1,25 @@
+Company: Amesite Inc. Common Stock
+Ticker: AMST
+Market Cap: 8002248
+Enterprise Value: 6836879
+Total Revenue: 288795
+Revenue Per Share: 0.065
+EBITDA: -2927428
+Gross Margins: 1.0
+Operating Margins: -6.8973
+Profit Margins: 0.0
+Free Cashflow: -1187298
+Operating Cashflow: -2153386
+Return On Assets: -0.89279
+Return On Equity: -2.14992
+Total Cash: 1165369
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.719
+Quick Ratio: 2.394
+Trailing PE: 
+Forward PE: 
+Price To Book: 5.30303
+Beta: 1.202
+52 Week High: 4.78
+52 Week Low: 1.57

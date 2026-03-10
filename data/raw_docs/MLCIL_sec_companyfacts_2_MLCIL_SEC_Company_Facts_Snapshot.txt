@@ -1,0 +1,10 @@
+Company: Mount Logan Capital Inc. 8.00% Notes Due 2031
+Ticker: MLCIL
+CIK: 0002051820
+Latest SEC XBRL Facts:
+Revenues: 43619000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -21075000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1641186000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1509943000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 131243000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25640000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Mount Logan Capital Inc. Common Stock
+Ticker: MLCI
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: New York
+Website: https://www.mountlogancap.com
+Employees: 21
+Business Summary: Mount Logan Capital Inc., through its subsidiaries, provides insurance solutions in the United States. It operates through Asset Management and Insurance segments. The company engages in the insurance and reinsurance of long-term care policies and annuity products. It is also involved in the sourcing, evaluation, underwriting, management, monitoring, and investment in loans, public and private debt securities, and other credit-oriented instruments; alternative asset management; and investment advisory activities. The company was formerly known as Marret Resource Corp. and changed its name to Mount Logan Capital Inc. in October 2018. Mount Logan Capital Inc. is headquartered in New York, New York.

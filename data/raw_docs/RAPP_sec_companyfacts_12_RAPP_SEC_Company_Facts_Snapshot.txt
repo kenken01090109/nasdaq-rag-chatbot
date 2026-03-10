@@ -1,0 +1,10 @@
+Company: Rapport Therapeutics Inc. Common Stock
+Ticker: RAPP
+CIK: 0002012593
+Latest SEC XBRL Facts:
+NetIncomeLoss: -77720000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 535323000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 23706000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 511617000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -62772000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 251359000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

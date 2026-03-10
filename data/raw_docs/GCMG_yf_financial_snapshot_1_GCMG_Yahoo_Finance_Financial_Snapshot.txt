@@ -1,0 +1,25 @@
+Company: GCM Grosvenor Inc. Class A Common Stock
+Ticker: GCMG
+Market Cap: 2106137728
+Enterprise Value: 1063775744
+Total Revenue: 554363008
+Revenue Per Share: 10.67
+EBITDA: 137876000
+Gross Margins: 0.42396998
+Operating Margins: 0.31008
+Profit Margins: 0.08184
+Free Cashflow: 94213624
+Operating Cashflow: 183539008
+Return On Assets: 0.11694
+Return On Equity: 7.6585903
+Total Cash: 242116000
+Total Debt: 490923008
+Debt To Equity: 385.243
+Current Ratio: 2.988
+Quick Ratio: 2.866
+Trailing PE: 26.833336
+Forward PE: 10.612053
+Price To Book: 25.325844
+Beta: 0.828
+52 Week High: 13.55
+52 Week Low: 9.86

@@ -1,0 +1,9 @@
+Company: Zai Lab Limited American Depositary Shares
+Ticker: ZLAB
+Sector: Healthcare
+Industry: Biotechnology
+Country: China
+City: Pudong
+Website: https://www.zailaboratory.com
+Employees: 1784
+Business Summary: Zai Lab Limited, a biopharmaceutical company, focuses on discovering, developing, and commercializing products that address medical conditions in the areas of oncology, immunology, neuroscience, and infectious diseases. Its commercial products include Zejula, an orally administered poly (ADP-ribose) polymerase 1/2 inhibitor for treating ovarian cancer; VYVGART, a human IgG1 antibody fragment for generalized myasthenia gravis and chronic inflammatory demyelinating polyneuropathy; NUZYRA for community-acquired bacterial pneumonia and acute bacterial skin and skin structure infections; Optune for glioblastoma multiforme; Qinlock for gastrointestinal stromal tumors; Xacduro for treating hospital-acquired and ventilator-associated bacterial pneumonia caused by a cinetobacter baumannii-calcoaceticus complex; and Augtyro for the treatment of ROS proto-oncogene 1 and non-small cell lung cancer. Zai Lab Limited has license and collaboration agreements with Tesaro, Inc. to develop, manufacture, and commercialize niraparib; NovoCure Ltd. to develop and commercialize Tumor Treating Fields; Deciphera Pharmaceuticals, LLC to develop and commercialize ripretinib; Paratek Bermuda Ltd. to develop, manufacture, and commercialize omadacycline; argenx BV to develop and commercialize efgartigimod; Turning Point Therapeutics, Inc. to develop and commercialize products containing repotrectinib; Entasis Therapeutics Holdings Inc. to develop and commercialize Durlobactam with Sulbactam; and Karuna Therapeutics, Inc. to develop and commercialize Xanomeline and trospium chloride, as well as strategic collaboration with Pfizer Inc. for Tisotumab Vedotin. The company was incorporated in 2013 and is based in Pudong, China.

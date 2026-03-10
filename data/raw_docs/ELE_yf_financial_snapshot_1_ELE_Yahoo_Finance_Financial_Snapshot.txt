@@ -1,0 +1,25 @@
+Company: Elemental Royalty Corporation Common Stock
+Ticker: ELE
+Market Cap: 1453725056
+Enterprise Value: 546687424
+Total Revenue: 33115000
+Revenue Per Share: 1.365
+EBITDA: 22825000
+Gross Margins: 0.99046
+Operating Margins: 0.26184
+Profit Margins: 0.15446
+Free Cashflow: 7899000
+Operating Cashflow: 22163000
+Return On Assets: 0.02888
+Return On Equity: 0.028350001
+Total Cash: 14536000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 10.329
+Quick Ratio: 10.273
+Trailing PE: 113.75
+Forward PE: 
+Price To Book: 2.7412941
+Beta: 0.353
+52 Week High: 26.96
+52 Week Low: 7.8

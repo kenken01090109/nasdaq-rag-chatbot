@@ -1,0 +1,25 @@
+Company: Cadence Design Systems Inc. Common Stock
+Ticker: CDNS
+Market Cap: 81918468096
+Enterprise Value: 81262477312
+Total Revenue: 5296758784
+Revenue Per Share: 19.521
+EBITDA: 1908109056
+Gross Margins: 0.86364
+Operating Margins: 0.32824
+Profit Margins: 0.20934999
+Free Cashflow: 1510117504
+Operating Cashflow: 1728781056
+Return On Assets: 0.10981
+Return On Equity: 0.21855
+Total Cash: 3155529984
+Total Debt: 2666328064
+Debt To Equity: 48.707
+Current Ratio: 2.856
+Quick Ratio: 2.507
+Trailing PE: 73.31851
+Forward PE: 31.589363
+Price To Book: 14.743061
+Beta: 1.025
+52 Week High: 376.45
+52 Week Low: 221.56

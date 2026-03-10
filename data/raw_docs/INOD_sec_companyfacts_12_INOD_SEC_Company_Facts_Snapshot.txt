@@ -1,0 +1,12 @@
+Company: Innodata Inc. Common Stock
+Ticker: INOD
+CIK: 0000903651
+Latest SEC XBRL Facts:
+Revenues: 59057000 | unit=USD | filed=2024-08-09 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 179287000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 23348000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 152916000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 55676000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 97323000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 33871000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73859000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

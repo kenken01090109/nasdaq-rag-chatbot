@@ -1,0 +1,25 @@
+Company: U.S. Global Investors Inc. Class A Common Stock
+Ticker: GROW
+Market Cap: 42073884
+Enterprise Value: 7143108
+Total Revenue: 8825000
+Revenue Per Share: 0.68
+EBITDA: -2443000
+Gross Margins: 0.42470002
+Operating Margins: -0.03426
+Profit Margins: 0.0111
+Free Cashflow: -1476875
+Operating Cashflow: -215000
+Return On Assets: -0.03195
+Return On Equity: 0.00212
+Total Cash: 34442000
+Total Debt: 161000
+Debt To Equity: 0.365
+Current Ratio: 19.415
+Quick Ratio: 18.583
+Trailing PE: Infinity
+Forward PE: 
+Price To Book: 0.94188374
+Beta: 0.611
+52 Week High: 3.65
+52 Week Low: 2.02

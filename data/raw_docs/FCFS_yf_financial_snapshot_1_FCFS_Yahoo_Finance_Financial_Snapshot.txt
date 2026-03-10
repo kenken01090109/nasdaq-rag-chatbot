@@ -1,0 +1,25 @@
+Company: FirstCash Holdings Inc. Common Stock
+Ticker: FCFS
+Market Cap: 8399170560
+Enterprise Value: 10670359552
+Total Revenue: 3661042944
+Revenue Per Share: 82.616
+EBITDA: 685033984
+Gross Margins: 0.58992
+Operating Margins: 0.17302999
+Profit Margins: 0.09024
+Free Cashflow: 232380368
+Operating Cashflow: 585942016
+Return On Assets: 0.07328
+Return On Equity: 0.15257
+Total Cash: 125197000
+Total Debt: 2568658944
+Debt To Equity: 112.821
+Current Ratio: 4.552
+Quick Ratio: 2.998
+Trailing PE: 25.613728
+Forward PE: 15.508076
+Price To Book: 3.6759253
+Beta: 0.463
+52 Week High: 197.92
+52 Week Low: 111.46

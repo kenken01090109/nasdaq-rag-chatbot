@@ -1,0 +1,25 @@
+Company: Strategy Inc Common Stock Class A
+Ticker: MSTR
+Market Cap: 44565999616
+Enterprise Value: 59527606272
+Total Revenue: 477232992
+Revenue Per Share: 1.719
+EBITDA: -5443467776
+Gross Margins: 0.68691003
+Operating Margins: -44.016068
+Profit Margins: 0.0
+Free Cashflow: -3363319552
+Operating Cashflow: -67241000
+Return On Assets: -0.07779
+Return On Equity: -0.111099996
+Total Cash: 2301469952
+Total Debt: 8247597056
+Debt To Equity: 16.158
+Current Ratio: 5.617
+Quick Ratio: 5.523
+Trailing PE: 
+Forward PE: 1.9385889
+Price To Book: 0.944389
+Beta: 3.633
+52 Week High: 457.22
+52 Week Low: 104.17

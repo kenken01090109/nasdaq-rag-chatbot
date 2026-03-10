@@ -1,0 +1,25 @@
+Company: Eva Live Inc. Common Stock
+Ticker: GOAI
+Market Cap: 128503368
+Enterprise Value: 115046576
+Total Revenue: 15656703
+Revenue Per Share: 0.5
+EBITDA: 7961777
+Gross Margins: 0.62113
+Operating Margins: 0.37904
+Profit Margins: 0.49862
+Free Cashflow: -4122884
+Operating Cashflow: -1047003
+Return On Assets: 0.61584
+Return On Equity: 1.99847
+Total Cash: 349282
+Total Debt: 996520
+Debt To Equity: 12.438
+Current Ratio: 2.522
+Quick Ratio: 2.503
+Trailing PE: 15.769231
+Forward PE: 
+Price To Book: 16.015623
+Beta: 1.581
+52 Week High: 18.0
+52 Week Low: 2.75

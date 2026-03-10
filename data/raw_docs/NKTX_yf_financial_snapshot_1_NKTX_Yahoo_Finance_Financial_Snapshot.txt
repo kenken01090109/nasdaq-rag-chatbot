@@ -1,0 +1,25 @@
+Company: Nkarta Inc. Common Stock
+Ticker: NKTX
+Market Cap: 177573776
+Enterprise Value: -30964400
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -106944000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -57524000
+Operating Cashflow: -91803000
+Return On Assets: -0.15138
+Return On Equity: -0.26694
+Total Cash: 282331008
+Total Debt: 76634000
+Debt To Equity: 22.679
+Current Ratio: 15.235
+Quick Ratio: 14.98
+Trailing PE: 
+Forward PE: -1.8867924
+Price To Book: 0.52543086
+Beta: 0.575
+52 Week High: 2.81
+52 Week Low: 1.31

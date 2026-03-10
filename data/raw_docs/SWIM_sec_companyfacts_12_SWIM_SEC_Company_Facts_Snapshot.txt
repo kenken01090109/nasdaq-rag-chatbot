@@ -1,0 +1,10 @@
+Company: Latham Group Inc. Common Stock
+Ticker: SWIM
+CIK: 0001833197
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 445962000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetIncomeLoss: 18135000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Assets: 844422000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Liabilities: 436065000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+StockholdersEquity: 408357000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 40121000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27

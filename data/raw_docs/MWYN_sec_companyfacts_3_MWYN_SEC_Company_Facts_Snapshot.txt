@@ -1,0 +1,11 @@
+Company: Marwynn Holdings Inc. Common stock
+Ticker: MWYN
+CIK: 0002030522
+Latest SEC XBRL Facts:
+Revenues: 85000 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+NetIncomeLoss: -3616040 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+Assets: 12294556 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+Liabilities: 9466889 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+StockholdersEquity: 2827667 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -337410 | unit=USD | filed=2025-12-22 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 1361469 | unit=USD | filed=2025-12-22 | period_end=2025-10-31

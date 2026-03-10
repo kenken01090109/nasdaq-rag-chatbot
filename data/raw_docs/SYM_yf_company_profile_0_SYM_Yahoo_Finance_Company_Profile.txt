@@ -1,0 +1,9 @@
+Company: Symbotic Inc. Class A Common Stock
+Ticker: SYM
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: United States
+City: Wilmington
+Website: https://www.symbotic.com
+Employees: 2000
+Business Summary: Symbotic Inc., an automation technology company, develops technologies to enhance operating efficiencies in modern warehouses. The company automates the processing of pallets, cases, and individual items in warehouses. Its systems enhance operations at the front end of the supply chain. The company is headquartered in Wilmington, Massachusetts.

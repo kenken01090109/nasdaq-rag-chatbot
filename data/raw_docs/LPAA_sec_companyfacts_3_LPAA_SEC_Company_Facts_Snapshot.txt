@@ -1,0 +1,9 @@
+Company: Launch One Acquisition Corp. Class A Ordinary shares
+Ticker: LPAA
+CIK: 0002015502
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6220473 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 243472003 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11671292 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -11282033 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -752686 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

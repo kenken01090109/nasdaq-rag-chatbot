@@ -1,0 +1,11 @@
+Company: SBA Communications Corporation Class A Common Stock
+Ticker: SBAC
+CIK: 0001034054
+Latest SEC XBRL Facts:
+Revenues: 2095556000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 191132000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 683342000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 11260239000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -4933983000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 987303000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 430306000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

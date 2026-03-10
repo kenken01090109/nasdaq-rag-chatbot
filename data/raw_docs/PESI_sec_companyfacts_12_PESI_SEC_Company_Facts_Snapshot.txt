@@ -1,0 +1,12 @@
+Company: Perma-Fix Environmental Services Inc. Common Stock
+Ticker: PESI
+CIK: 0000891532
+Latest SEC XBRL Facts:
+Revenues: 60030000 | unit=USD | filed=2023-03-23 | period_end=2022-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 45959000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -8124000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 91155000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 35793000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 55362000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8629000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1988000 | unit=USD | filed=2023-11-02 | period_end=2023-09-30

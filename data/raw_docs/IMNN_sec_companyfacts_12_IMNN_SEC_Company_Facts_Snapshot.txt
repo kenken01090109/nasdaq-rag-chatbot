@@ -1,0 +1,12 @@
+Company: Imunon Inc. Common Stock
+Ticker: IMNN
+CIK: 0000749647
+Latest SEC XBRL Facts:
+Revenues: 125000 | unit=USD | filed=2016-03-30 | period_end=2015-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 375000 | unit=USD | filed=2023-11-14 | period_end=2022-09-30
+NetIncomeLoss: -10272178 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 8987733 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4906009 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 4081724 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10239523 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5250929 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

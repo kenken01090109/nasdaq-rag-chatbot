@@ -1,0 +1,25 @@
+Company: Trimble Inc. Common Stock
+Ticker: TRMB
+Market Cap: 16673501184
+Enterprise Value: 17790365696
+Total Revenue: 3587300096
+Revenue Per Share: 14.997
+EBITDA: 818000000
+Gross Margins: 0.71081
+Operating Margins: 0.22499001
+Profit Margins: 0.118190005
+Free Cashflow: 522812512
+Operating Cashflow: 386200000
+Return On Assets: 0.041100003
+Return On Equity: 0.07322
+Total Cash: 253400000
+Total Debt: 1561100032
+Debt To Equity: 26.749
+Current Ratio: 1.085
+Quick Ratio: 0.738
+Trailing PE: 39.818184
+Forward PE: 17.330536
+Price To Book: 2.8338053
+Beta: 1.574
+52 Week High: 87.5
+52 Week Low: 52.91

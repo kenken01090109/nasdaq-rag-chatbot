@@ -1,0 +1,11 @@
+Company: TOYO Co. Ltd Ordinary Shares
+Ticker: TOYO
+CIK: 0001985273
+Latest SEC XBRL Facts:
+Revenues: 139105223 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+NetIncomeLoss: 3467011 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+Assets: 353623350 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+Liabilities: 283380559 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+StockholdersEquity: 67008617 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 40045122 | unit=USD | filed=2025-09-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 13654445 | unit=USD | filed=2025-05-12 | period_end=2024-12-31

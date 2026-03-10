@@ -1,0 +1,11 @@
+Company: TOP Financial Group Limited Class A Ordinary Shares
+Ticker: TOP
+CIK: 0001848275
+Latest SEC XBRL Facts:
+Revenues: 2868935 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+NetIncomeLoss: 190540 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+Assets: 64068336 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+Liabilities: 29114602 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+StockholdersEquity: 34953734 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7291169 | unit=USD | filed=2026-01-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 14785446 | unit=USD | filed=2026-01-20 | period_end=2025-09-30

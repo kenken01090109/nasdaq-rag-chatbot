@@ -1,0 +1,11 @@
+Company: Medalist Diversified Inc. Common Stock
+Ticker: MDRR
+CIK: 0001654595
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7573054 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -1921433 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 92104371 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 67109218 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 10377783 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2271897 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1886677 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

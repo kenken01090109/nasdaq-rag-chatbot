@@ -1,0 +1,12 @@
+Company: PAVmed Inc. Common Stock
+Ticker: PAVM
+CIK: 0001624326
+Latest SEC XBRL Facts:
+Revenues: 3000000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 19000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 1664000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 38069000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 12282000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 32520000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3655000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 765000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

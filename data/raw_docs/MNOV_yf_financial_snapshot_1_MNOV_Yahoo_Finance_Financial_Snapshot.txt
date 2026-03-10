@@ -1,0 +1,25 @@
+Company: Medicinova Inc Common Stock
+Ticker: MNOV
+Market Cap: 66940896
+Enterprise Value: 36345876
+Total Revenue: 409657
+Revenue Per Share: 0.008
+EBITDA: -13262903
+Gross Margins: 0.0758
+Operating Margins: -20.37974
+Profit Margins: 0.0
+Free Cashflow: -6088045
+Operating Cashflow: -9810061
+Return On Assets: -0.16362
+Return On Equity: -0.25503
+Total Cash: 30806476
+Total Debt: 211460
+Debt To Equity: 0.508
+Current Ratio: 8.161
+Quick Ratio: 8.112
+Trailing PE: 
+Forward PE: -3.4
+Price To Book: 1.6094674
+Beta: 0.603
+52 Week High: 1.96
+52 Week Low: 1.13

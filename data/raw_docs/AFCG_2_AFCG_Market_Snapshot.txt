@@ -1,0 +1,10 @@
+Company: Advanced Flower Capital Inc. Common Stock
+Ticker: AFCG
+Market Cap: 58067972
+Enterprise Value: 120390352
+Trailing PE: 
+Forward PE: 2.8397791
+Price To Book: 0.34289527
+Beta: 1.053
+52 Week High: 8.55
+52 Week Low: 2.06

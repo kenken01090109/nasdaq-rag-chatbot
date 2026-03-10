@@ -1,0 +1,25 @@
+Company: Dogwood Therapeutics Inc. Common Stock
+Ticker: DWTX
+Market Cap: 92718328
+Enterprise Value: 36936880
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -19494932
+Operating Cashflow: -18112972
+Return On Assets: -0.42036998
+Return On Equity: -9.30963
+Total Cash: 10126710
+Total Debt: 174778
+Debt To Equity: 2.408
+Current Ratio: 4.488
+Quick Ratio: 3.9
+Trailing PE: 
+Forward PE: -0.4536892
+Price To Book: -0.2003883
+Beta: 1.968
+52 Week High: 14.69
+52 Week Low: 2.6

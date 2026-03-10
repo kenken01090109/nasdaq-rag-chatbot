@@ -1,0 +1,12 @@
+Company: Celldex Therapeutics Inc.
+Ticker: CLDX
+CIK: 0000744218
+Latest SEC XBRL Facts:
+Revenues: 1764000 | unit=USD | filed=2019-03-07 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1424000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -177440000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 648439000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 50076000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 598363000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -147005000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36037000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

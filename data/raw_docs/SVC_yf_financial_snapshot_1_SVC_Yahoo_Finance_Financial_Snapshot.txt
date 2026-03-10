@@ -1,0 +1,25 @@
+Company: Service Properties Trust Common Stock
+Ticker: SVC
+Market Cap: 371470528
+Enterprise Value: 5523034112
+Total Revenue: 1814838016
+Revenue Per Share: 10.936
+EBITDA: 511334016
+Gross Margins: 0.30416
+Operating Margins: 0.08039
+Profit Margins: -0.11148
+Free Cashflow: 119132128
+Operating Cashflow: 117808000
+Return On Assets: 0.018029999
+Return On Equity: -0.27012
+Total Cash: 346812992
+Total Debt: 5481626112
+Debt To Equity: 848.386
+Current Ratio: 1.981
+Quick Ratio: 1.479
+Trailing PE: 
+Forward PE: -2.104762
+Price To Book: 0.57492197
+Beta: 1.414
+52 Week High: 3.08
+52 Week Low: 1.55

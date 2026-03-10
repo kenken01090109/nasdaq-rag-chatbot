@@ -1,0 +1,25 @@
+Company: Eledon Pharmaceuticals Inc. Common Stock
+Ticker: ELDN
+Market Cap: 221372224
+Enterprise Value: 73932552
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -37047376
+Operating Cashflow: -67237000
+Return On Assets: -0.44216
+Return On Equity: -0.95489
+Total Cash: 93401000
+Total Debt: 722000
+Debt To Equity: 0.793
+Current Ratio: 6.736
+Quick Ratio: 6.586
+Trailing PE: 
+Forward PE: -2.9496021
+Price To Book: 1.831357
+Beta: 0.962
+52 Week High: 4.6
+52 Week Low: 1.35

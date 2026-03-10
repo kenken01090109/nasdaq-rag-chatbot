@@ -1,0 +1,25 @@
+Company: Future Vision II Acquisition Corporation Right
+Ticker: FVNNR
+Market Cap: 
+Enterprise Value: 23477
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -353498
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1108123
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.666
+Quick Ratio: 5.477
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.32123455
+Beta: 
+52 Week High: 0.23
+52 Week Low: 0.1191

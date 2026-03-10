@@ -1,0 +1,12 @@
+Company: Medpace Holdings Inc. Common Stock
+Ticker: MEDP
+CIK: 0001668397
+Latest SEC XBRL Facts:
+Revenues: 163077000 | unit=USD | filed=2018-05-01 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1821784000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetIncomeLoss: 315990000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 1753012000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 1459371000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 293641000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 520571000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 285351000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

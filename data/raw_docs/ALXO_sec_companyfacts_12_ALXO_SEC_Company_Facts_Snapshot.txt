@@ -1,0 +1,11 @@
+Company: ALX Oncology Holdings Inc. Common Stock
+Ticker: ALXO
+CIK: 0001810182
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-03-09 | period_end=2022-12-31
+NetIncomeLoss: -78847000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 82723000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 37923000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 44800000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -65162000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23442000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Hitek Global Inc. Class A Ordinary Share
+Ticker: HKIT
+Market Cap: 26955416
+Enterprise Value: -261137
+Total Revenue: 1812901
+Revenue Per Share: 0.065
+EBITDA: -2436327
+Gross Margins: 0.12485
+Operating Margins: -1.8172799
+Profit Margins: -1.06705
+Free Cashflow: 5359352
+Operating Cashflow: -289061
+Return On Assets: -0.04022
+Return On Equity: -0.061669998
+Total Cash: 29799052
+Total Debt: 2582500
+Debt To Equity: 7.465
+Current Ratio: 14.272
+Quick Ratio: 13.024
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7790009
+Beta: 1.389
+52 Week High: 4.18
+52 Week Low: 0.531

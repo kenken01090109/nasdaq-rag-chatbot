@@ -1,0 +1,25 @@
+Company: Zumiez Inc. Common Stock
+Ticker: ZUMZ
+Market Cap: 381196000
+Enterprise Value: 511348832
+Total Revenue: 916908992
+Revenue Per Share: 52.796
+EBITDA: 39287000
+Gross Margins: 0.35244998
+Operating Margins: 0.14923
+Profit Margins: 0.00936
+Free Cashflow: 43217752
+Operating Cashflow: 50496000
+Return On Assets: 0.017239999
+Return On Equity: 0.027880002
+Total Cash: 294483008
+Total Debt: 267886000
+Debt To Equity: 57.202
+Current Ratio: 1.823
+Quick Ratio: 0.684
+Trailing PE: 54.853657
+Forward PE: 19.72807
+Price To Book: 1.0592003
+Beta: 0.897
+52 Week High: 31.7
+52 Week Low: 11.31

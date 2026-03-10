@@ -1,0 +1,11 @@
+Company: Phio Pharmaceuticals Corp. Common Stock
+Ticker: PHIO
+CIK: 0001533040
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2020-11-10 | period_end=2020-09-30
+NetIncomeLoss: -6327000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 11505000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1666000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9839000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5900000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10705000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

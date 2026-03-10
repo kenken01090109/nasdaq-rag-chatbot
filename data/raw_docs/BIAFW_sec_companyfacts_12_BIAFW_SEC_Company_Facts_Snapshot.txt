@@ -1,0 +1,12 @@
+Company: bioAffinity Technologies Inc. Warrant
+Ticker: BIAFW
+CIK: 0001712762
+Latest SEC XBRL Facts:
+Revenues: 5639186 | unit=USD | filed=2024-11-14 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4569146 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -11772288 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 11546369 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2644171 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 8902198 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6769279 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7669195 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

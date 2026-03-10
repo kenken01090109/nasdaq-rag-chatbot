@@ -1,0 +1,10 @@
+Company: Lifetime Brands Inc. Common Stock
+Ticker: LCUT
+CIK: 0000874396
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 443859000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -45089000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 581124000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 184645000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3870000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12125000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

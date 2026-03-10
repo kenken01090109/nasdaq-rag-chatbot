@@ -1,0 +1,10 @@
+Company: Cingulate Inc. Common Stock
+Ticker: CING
+CIK: 0001862150
+Latest SEC XBRL Facts:
+NetIncomeLoss: -16177001 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 10518892 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7045206 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 3473686 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13647893 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6118710 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

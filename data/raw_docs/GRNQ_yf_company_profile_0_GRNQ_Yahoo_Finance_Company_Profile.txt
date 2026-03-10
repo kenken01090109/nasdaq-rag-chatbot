@@ -1,0 +1,9 @@
+Company: Greenpro Capital Corp. Common Stock
+Ticker: GRNQ
+Sector: Industrials
+Industry: Consulting Services
+Country: Malaysia
+City: Kuala Lumpur
+Website: https://www.greenprocapital.com
+Employees: 48
+Business Summary: Greenpro Capital Corp. provides financial consulting and corporate advisory services to small and medium-sized businesses primarily in Hong Kong, China, Malaysia, Singapore, Indonesia, Thailand, Japan, Taiwan, the United Kingdom, and the United States. The company operates through Service Business, Digital Business, and Real Estate Business segments. It offers business consulting and corporate advisory services, including cross-border listing advisory, tax planning, bookkeeping, advisory and transaction, record management, and accounting outsourcing services, as well as company review, bank loan advisory, and bank product analysis; and venture capital investment, and related education and support services. The company also provides company formation advisory, company secretarial, insurance brokerage, financial, wealth planning, administration, charity, trusteeship, and risk management, investment planning and management, business support, asset protection, and performance monitoring services. In addition, the company is involved in the digital banking business; provision of a digital platform; and trading of digital assets. The company was formerly known as Greenpro, Inc. and changed its name to Greenpro Capital Corp. in May 2015. Greenpro Capital Corp. was incorporated in 2013 and is headquartered in Kuala Lumpur, Malaysia.

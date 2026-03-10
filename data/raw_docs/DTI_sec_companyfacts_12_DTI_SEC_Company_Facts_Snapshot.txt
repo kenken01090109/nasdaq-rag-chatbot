@@ -1,0 +1,12 @@
+Company: Drilling Tools International Corporation Common Stock
+Ticker: DTI
+CIK: 0001884516
+Latest SEC XBRL Facts:
+Revenues: 154446000 | unit=USD | filed=2025-03-14 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 121118000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -4977000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 227397000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 106277000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 121109000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 14588000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4373000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

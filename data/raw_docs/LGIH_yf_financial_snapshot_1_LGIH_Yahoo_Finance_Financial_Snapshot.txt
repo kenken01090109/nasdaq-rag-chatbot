@@ -1,0 +1,25 @@
+Company: LGI Homes Inc. Common Stock
+Ticker: LGIH
+Market Cap: 1027109056
+Enterprise Value: 2684017408
+Total Revenue: 1705504000
+Revenue Per Share: 73.548
+EBITDA: 87557000
+Gross Margins: 0.20933
+Operating Margins: 0.040349998
+Profit Margins: 0.042540003
+Free Cashflow: -131216128
+Operating Cashflow: -139972992
+Return On Assets: 0.01354
+Return On Equity: 0.035099998
+Total Cash: 61247000
+Total Debt: 1661942016
+Debt To Equity: 79.28
+Current Ratio: 50.997
+Quick Ratio: 1.317
+Trailing PE: 14.23077
+Forward PE: 12.906977
+Price To Book: 0.48996347
+Beta: 1.794
+52 Week High: 77.38
+52 Week Low: 39.7

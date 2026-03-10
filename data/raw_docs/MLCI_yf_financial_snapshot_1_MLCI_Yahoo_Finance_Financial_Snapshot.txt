@@ -1,0 +1,25 @@
+Company: Mount Logan Capital Inc. Common Stock
+Ticker: MLCI
+Market Cap: 64737144
+Enterprise Value: 4105903
+Total Revenue: 104823000
+Revenue Per Share: 15.142
+EBITDA: 
+Gross Margins: -0.0104
+Operating Margins: -1.5773101
+Profit Margins: -0.12473
+Free Cashflow: 
+Operating Cashflow: 24026000
+Return On Assets: -0.00767
+Return On Equity: -0.14355
+Total Cash: 151906000
+Total Debt: 91055000
+Debt To Equity: 69.379
+Current Ratio: 7.247
+Quick Ratio: 6.841
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.48713952
+Beta: -0.006
+52 Week High: 8.74
+52 Week Low: 3.15

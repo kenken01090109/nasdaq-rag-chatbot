@@ -1,0 +1,11 @@
+Company: TTM Technologies Inc. Common Stock
+Ticker: TTMI
+CIK: 0001116942
+Latest SEC XBRL Facts:
+Revenues: 2906345000 | unit=USD | filed=2026-02-17 | period_end=2025-12-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 2132025000 | unit=USD | filed=2025-10-31 | period_end=2025-09-29
+NetIncomeLoss: 126763000 | unit=USD | filed=2025-10-31 | period_end=2025-09-29
+Assets: 3720528000 | unit=USD | filed=2025-10-31 | period_end=2025-09-29
+StockholdersEquity: 1701448000 | unit=USD | filed=2025-10-31 | period_end=2025-09-29
+NetCashProvidedByUsedInOperatingActivities: 228952000 | unit=USD | filed=2025-10-31 | period_end=2025-09-29
+CashAndCashEquivalentsAtCarryingValue: 491120000 | unit=USD | filed=2025-10-31 | period_end=2025-09-29

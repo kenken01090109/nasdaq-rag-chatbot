@@ -1,0 +1,11 @@
+Company: reAlpha Tech Corp. Common Stock
+Ticker: AIRE
+CIK: 0001859199
+Latest SEC XBRL Facts:
+Revenues: 3623153 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -12744638 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 19727093 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 8827515 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 10889183 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8847162 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 587311 | unit=USD | filed=2025-08-15 | period_end=2025-06-30

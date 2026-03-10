@@ -1,0 +1,11 @@
+Company: Karyopharm Therapeutics Inc. Common Stock
+Ticker: KPTI
+CIK: 0001503802
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 111988000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -93841000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 96232000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 365490000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: -269258000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -63541000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37672000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

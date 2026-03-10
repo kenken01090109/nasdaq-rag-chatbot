@@ -1,0 +1,12 @@
+Company: Aeluma Inc. Common Stock
+Ticker: ALMU
+Total Revenue: 5229000
+Revenue Per Share: 0.336
+Gross Margins: 0.50181997
+Operating Margins: -1.6360099
+EBITDA: -5066000
+Profit Margins: -0.52457
+Free Cashflow: 487764
+Operating Cashflow: -882000
+Return On Assets: -0.13909
+Return On Equity: -0.13793999

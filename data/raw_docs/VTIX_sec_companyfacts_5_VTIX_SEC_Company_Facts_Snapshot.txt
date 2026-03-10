@@ -1,0 +1,11 @@
+Company: Virtuix Holdings Inc. Class A Common Stock
+Ticker: VTIX
+CIK: 0001606242
+Latest SEC XBRL Facts:
+Revenues: 2980765 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+NetIncomeLoss: -6892302 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+Assets: 6355674 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+Liabilities: 9308500 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+StockholdersEquity: -2952826 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5535794 | unit=USD | filed=2026-03-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1074638 | unit=USD | filed=2026-03-06 | period_end=2025-12-31

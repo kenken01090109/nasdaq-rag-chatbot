@@ -1,0 +1,25 @@
+Company: Koss Corporation Common Stock
+Ticker: KOSS
+Market Cap: 38907060
+Enterprise Value: 25501998
+Total Revenue: 12797373
+Revenue Per Share: 1.358
+EBITDA: -2747705
+Gross Margins: 0.36376
+Operating Margins: -0.35458001
+Profit Margins: -0.06807
+Free Cashflow: -1147796
+Operating Cashflow: -162666
+Return On Assets: -0.05084
+Return On Equity: -0.02842
+Total Cash: 15470430
+Total Debt: 2444025
+Debt To Equity: 8.063
+Current Ratio: 12.837
+Quick Ratio: 9.764
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.2835728
+Beta: 1.522
+52 Week High: 8.59
+52 Week Low: 4.0

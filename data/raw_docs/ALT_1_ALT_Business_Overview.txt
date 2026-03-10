@@ -1,0 +1,7 @@
+Company: Altimmune Inc. Common Stock
+Ticker: ALT
+Business Summary: Altimmune, Inc., a clinical stage biopharmaceutical company, focuses on developing treatments for obesity, metabolic, and liver diseases. Its lead product candidate is pemvidutide, a GLP-1/glucagon dual receptor agonist, which is in Phase 3 trial for the treatment of obesity and metabolic associated steatohepatitis. The company was founded in 1997 and is headquartered in Gaithersburg, Maryland.
+Sector: Healthcare
+Industry: Biotechnology
+Exchange: NGM
+Quote Type: EQUITY

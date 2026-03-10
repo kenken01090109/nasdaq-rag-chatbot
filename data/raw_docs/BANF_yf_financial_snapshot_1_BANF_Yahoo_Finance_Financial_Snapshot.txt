@@ -1,0 +1,25 @@
+Company: BancFirst Corporation Common Stock
+Ticker: BANF
+Market Cap: 3650052864
+Enterprise Value: -615159040
+Total Revenue: 684958016
+Revenue Per Share: 20.566
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49208
+Profit Margins: 0.35127997
+Free Cashflow: 
+Operating Cashflow: 285278016
+Return On Assets: 0.01695
+Return On Equity: 0.13847
+Total Cash: 4517270016
+Total Debt: 162168000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 15.30661
+Forward PE: 15.249409
+Price To Book: 1.9685979
+Beta: 0.63
+52 Week High: 138.77
+52 Week Low: 97.02

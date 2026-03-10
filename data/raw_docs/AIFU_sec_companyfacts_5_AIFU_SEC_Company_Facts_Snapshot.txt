@@ -1,0 +1,11 @@
+Company: AIFU Inc. Class A Ordinary Share
+Ticker: AIFU
+CIK: 0001413855
+Latest SEC XBRL Facts:
+Revenues: 247809000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetIncomeLoss: 62330000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Assets: 568687000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+Liabilities: 208315000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+StockholdersEquity: 348872000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 19570000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 26320000 | unit=USD | filed=2025-04-25 | period_end=2024-12-31

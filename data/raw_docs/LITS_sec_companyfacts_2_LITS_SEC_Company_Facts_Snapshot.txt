@@ -1,0 +1,11 @@
+Company: Lite Strategy Inc. Common Stock
+Ticker: LITS
+CIK: 0001262104
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+NetIncomeLoss: -13257000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+Assets: 20779000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+Liabilities: 1238000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+StockholdersEquity: 19541000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -18383000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 20472000 | unit=USD | filed=2025-05-13 | period_end=2025-03-31

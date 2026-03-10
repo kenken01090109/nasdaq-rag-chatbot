@@ -1,0 +1,12 @@
+Company: Golar Lng Ltd
+Ticker: GLNG
+CIK: 0001207179
+Latest SEC XBRL Facts:
+Revenues: 143537000 | unit=USD | filed=2018-04-16 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 260710000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 55318000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 4675485000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2364271000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 1896926000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 340902000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 611176000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

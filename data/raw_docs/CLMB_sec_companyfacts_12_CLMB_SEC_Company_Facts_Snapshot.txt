@@ -1,0 +1,12 @@
+Company: Climb Global Solutions Inc. Common Stock
+Ticker: CLMB
+CIK: 0000945983
+Latest SEC XBRL Facts:
+Revenues: 458671000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 92422000 | unit=USD | filed=2024-05-02 | period_end=2024-03-31
+NetIncomeLoss: 14346000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 376091000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 266829000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 109262000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 28495000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49842000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

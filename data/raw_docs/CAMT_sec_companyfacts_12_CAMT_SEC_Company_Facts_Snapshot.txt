@@ -1,0 +1,11 @@
+Company: Camtek Ltd. Ordinary Shares
+Ticker: CAMT
+CIK: 0001109138
+Latest SEC XBRL Facts:
+Revenues: 241955000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30
+NetIncomeLoss: 68006000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30
+Assets: 974741000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30
+Liabilities: 348257000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30
+StockholdersEquity: 626484000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 47125000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 192028000 | unit=USD | filed=2025-09-11 | period_end=2025-06-30

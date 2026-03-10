@@ -1,0 +1,25 @@
+Company: Clene Inc. Common Stock
+Ticker: CLNN
+Market Cap: 63072840
+Enterprise Value: 68157096
+Total Revenue: 214000
+Revenue Per Share: 0.023
+EBITDA: -22703000
+Gross Margins: 0.82242996
+Operating Margins: -376.53333
+Profit Margins: 0.0
+Free Cashflow: -13295375
+Operating Cashflow: -18612000
+Return On Assets: -0.56243
+Return On Equity: 
+Total Cash: 7925000
+Total Debt: 21312000
+Debt To Equity: 
+Current Ratio: 1.526
+Quick Ratio: 1.02
+Trailing PE: 
+Forward PE: -2.9342465
+Price To Book: -4.4292803
+Beta: 0.624
+52 Week High: 13.5
+52 Week Low: 2.28

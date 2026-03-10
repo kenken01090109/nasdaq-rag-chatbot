@@ -1,0 +1,25 @@
+Company: Token Cat Limited American Depositary Shares
+Ticker: TC
+Market Cap: 21665054
+Enterprise Value: 89232187392
+Total Revenue: 36648000
+Revenue Per Share: 297.284
+EBITDA: 
+Gross Margins: 0.7327
+Operating Margins: -2.0697799
+Profit Margins: 0.0
+Free Cashflow: -155091744
+Operating Cashflow: -193134000
+Return On Assets: -0.338
+Return On Equity: -10.85256
+Total Cash: 4210000
+Total Debt: 41704000
+Debt To Equity: 126.429
+Current Ratio: 1.489
+Quick Ratio: 0.152
+Trailing PE: 
+Forward PE: 18.826725
+Price To Book: 3.8589313
+Beta: 0.763
+52 Week High: 22.46
+52 Week Low: 6.5

@@ -1,0 +1,12 @@
+Company: Veracyte Inc. Common Stock
+Ticker: VCYT
+CIK: 0001384101
+Latest SEC XBRL Facts:
+Revenues: 66258000 | unit=USD | filed=2018-10-29 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 376509000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 25204000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1367787000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 110120000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1257667000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 83724000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 315573000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

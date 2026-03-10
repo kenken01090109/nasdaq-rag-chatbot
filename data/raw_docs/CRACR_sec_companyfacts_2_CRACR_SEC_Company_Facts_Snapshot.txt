@@ -1,0 +1,8 @@
+Company: Crown Reserve Acquisition Corp. I Rights
+Ticker: CRACR
+CIK: 0002070887
+Latest SEC XBRL Facts:
+NetIncomeLoss: 149 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 530147 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 25149 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 149 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

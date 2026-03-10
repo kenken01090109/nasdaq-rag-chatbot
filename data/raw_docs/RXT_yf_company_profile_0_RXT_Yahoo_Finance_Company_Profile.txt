@@ -1,0 +1,9 @@
+Company: Rackspace Technology Inc. Common Stock
+Ticker: RXT
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: San Antonio
+Website: https://www.rackspace.com
+Employees: 
+Business Summary: Rackspace Technology, Inc. operates as a cloud and artificial intelligence solutions company in the Americas, Europe, the Middle East, Africa, the Asia Pacific, and Japan. The company operates in two segments, Public Cloud and Private Cloud. It offers programmatic infrastructure, including hardware and services for compute, network, storage, and data protection services; cloud operating systems; platform-as-a-service; private cloud solutions; and private cloud services, such as managed services, professional services, elastic engineering services, and security services, as well as an email platform for customers and carriers. The company also provides cloud platform, which provides platform-related services comprising cloud strategy and architecture, platform and infrastructure migrations, and modern cloud infrastructure; cloud apps that build and manage applications within a cloud technology stack; cloud security that provides fully-integrated security solutions in security threat assessment and prevention, proactive threat detection and response, rapid remediation, governance, risk and compliance assistance across multiple cloud platforms, and privacy and data protection services, including detailed access restrictions and reporting; and cloud data, which helps accelerate the adoption of modern data solutions enabling business transformation. Rackspace Technology, Inc. was founded in 1998 and is headquartered in San Antonio, Texas.

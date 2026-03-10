@@ -1,0 +1,10 @@
+Company: Ares Capital Corporation Common Stock
+Ticker: ARCC
+CIK: 0001287750
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1006000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 30806000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 16484000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 14322000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1290000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1036000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

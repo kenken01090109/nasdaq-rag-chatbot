@@ -1,0 +1,25 @@
+Company: Moderna Inc. Common Stock
+Ticker: MRNA
+Market Cap: 20742217728
+Enterprise Value: 16765589504
+Total Revenue: 1944000000
+Revenue Per Share: 4.997
+EBITDA: -2859000064
+Gross Margins: -1.05761
+Operating Margins: -1.26401
+Profit Margins: -1.4516499
+Free Cashflow: -1326499968
+Operating Cashflow: -1872999936
+Return On Assets: -0.14511
+Return On Equity: -0.28868
+Total Cash: 5799000064
+Total Debt: 1304999936
+Debt To Equity: 15.087
+Current Ratio: 3.293
+Quick Ratio: 3.061
+Trailing PE: 
+Forward PE: -11.505533
+Price To Book: 2.3922746
+Beta: 1.352
+52 Week High: 59.55
+52 Week Low: 22.28

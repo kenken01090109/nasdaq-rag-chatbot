@@ -1,0 +1,11 @@
+Company: iQSTEL Inc. Common Stock
+Ticker: IQST
+CIK: 0001527702
+Latest SEC XBRL Facts:
+Revenues: 232683605 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5819244 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 46886200 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 29032924 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 17853276 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2602320 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2259432 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

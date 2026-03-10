@@ -1,0 +1,9 @@
+Company: Esperion Therapeutics Inc. Common Stock
+Ticker: ESPR
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Ann Arbor
+Website: https://www.esperion.com
+Employees: 304
+Business Summary: Esperion Therapeutics, Inc., a pharmaceutical company, develops and commercializes medicines for the treatment of patients with elevated low density lipoprotein cholesterol (LDL-C) in the United States. The company's marketed products include NEXLETOL (bempedoic acid) and NEXLIZET (bempedoic acid and ezetimibe) tablets that are oral, once-daily, non-statin medicines for the treatment of primary hyperlipidemia in adults with heterozygous familial hypercholesterolemia or atherosclerotic cardiovascular disease who require additional lowering of LDL-C. Its products also include NILEMDO, an ATP Citrate Lyase (ACL) inhibitor that lowers LDL-C and cardiovascular risk by reducing cholesterol biosynthesis and up-regulating the LDL receptors; and NUSTENDI, a bempedoic acid and ezetimibe tablet to treat elevated LDL-C. It has license and collaboration agreements with Daiichi Sankyo Co. Ltd to; Otsuka Pharmaceutical Co., Ltd; and Daiichi Sankyo Europe GmbH. Esperion Therapeutics, Inc. was incorporated in 2008 and is headquartered in Ann Arbor, Michigan.

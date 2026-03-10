@@ -1,0 +1,10 @@
+Company: Alector Inc. Common Stock
+Ticker: ALEC
+Market Cap: 218517920
+Enterprise Value: -1273089
+Trailing PE: 
+Forward PE: -2.0
+Price To Book: 7.1223025
+Beta: 0.547
+52 Week High: 3.4
+52 Week Low: 0.87

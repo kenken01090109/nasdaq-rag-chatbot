@@ -1,0 +1,5 @@
+Company: Mainz Biomed N.V. Ordinary Shares
+Ticker: MYNZ
+CIK: 0001874252
+Latest SEC XBRL Facts:
+Revenues: 1 | unit=USD | filed=2023-05-16 | period_end=2023-03-31

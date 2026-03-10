@@ -1,0 +1,9 @@
+Company: AleAnna Inc. Warrant
+Ticker: ANNAW
+Sector: 
+Industry: 
+Country: United States
+City: Dallas
+Website: https://www.aleannainc.com
+Employees: 7
+Business Summary: AleAnna, Inc., a development-stage natural gas resource company, focuses on delivering critical natural gas supplies in Europe and Italy. The company operates through onshore conventional natural gas exploration and renewable natural gas development. AleAnna, Inc. was founded in 2007 and is headquartered in Dallas, Texas.

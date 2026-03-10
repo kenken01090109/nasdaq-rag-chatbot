@@ -1,0 +1,25 @@
+Company: Docebo Inc. Common Shares
+Ticker: DCBO
+Market Cap: 559181248
+Enterprise Value: 475910848
+Total Revenue: 242687008
+Revenue Per Share: 8.458
+EBITDA: 30974000
+Gross Margins: 0.80224997
+Operating Margins: 0.15371999
+Profit Margins: 0.15457
+Free Cashflow: 6786500
+Operating Cashflow: 28173000
+Return On Assets: 0.09333
+Return On Equity: 0.569
+Total Cash: 74037000
+Total Debt: 2560000
+Debt To Equity: 3.455
+Current Ratio: 1.224
+Quick Ratio: 1.051
+Trailing PE: 15.187501
+Forward PE: 10.005971
+Price To Book: 7.543656
+Beta: 0.841
+52 Week High: 33.7
+52 Week Low: 16.07

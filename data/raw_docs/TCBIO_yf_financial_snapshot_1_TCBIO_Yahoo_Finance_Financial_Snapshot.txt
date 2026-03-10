@@ -1,0 +1,25 @@
+Company: Texas Capital Bancshares Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B
+Ticker: TCBIO
+Market Cap: 
+Enterprise Value: 395813504
+Total Revenue: 1200779008
+Revenue Per Share: 26.309
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.42518002
+Profit Margins: 0.27502
+Free Cashflow: 
+Operating Cashflow: 360153984
+Return On Assets: 0.01061
+Return On Equity: 0.09436
+Total Cash: 2114434048
+Total Debt: 1206108032
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 5.6760798
+Forward PE: 
+Price To Book: 0.29851088
+Beta: 0.687
+52 Week High: 22.945
+52 Week Low: 18.11

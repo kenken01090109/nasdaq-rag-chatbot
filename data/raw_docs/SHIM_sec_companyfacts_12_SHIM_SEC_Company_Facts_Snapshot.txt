@@ -1,0 +1,10 @@
+Company: Shimmick Corporation Common Stock
+Ticker: SHIM
+CIK: 0001887944
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 392432000 | unit=USD | filed=2025-11-13 | period_end=2025-10-03
+NetIncomeLoss: -22691000 | unit=USD | filed=2025-11-13 | period_end=2025-10-03
+Assets: 218489000 | unit=USD | filed=2025-11-13 | period_end=2025-10-03
+Liabilities: 271145000 | unit=USD | filed=2025-11-13 | period_end=2025-10-03
+NetCashProvidedByUsedInOperatingActivities: -65732000 | unit=USD | filed=2025-11-13 | period_end=2025-10-03
+CashAndCashEquivalentsAtCarryingValue: 17597000 | unit=USD | filed=2025-11-13 | period_end=2025-10-03

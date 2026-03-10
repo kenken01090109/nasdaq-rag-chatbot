@@ -1,0 +1,25 @@
+Company: STAK Inc. Class A Ordinary Shares
+Ticker: STAK
+Market Cap: 18115358
+Enterprise Value: 18347092
+Total Revenue: 24914618
+Revenue Per Share: 2.321
+EBITDA: -2796615
+Gross Margins: 0.30865
+Operating Margins: -0.67511004
+Profit Margins: -0.22929001
+Free Cashflow: -3655595
+Operating Cashflow: -2878901
+Return On Assets: -0.085810006
+Return On Equity: -0.48659
+Total Cash: 1022625
+Total Debt: 6159367
+Debt To Equity: 47.748
+Current Ratio: 1.746
+Quick Ratio: 0.231
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.96618855
+Beta: 
+52 Week High: 4.24
+52 Week Low: 0.29

@@ -1,0 +1,10 @@
+Company: PhenixFIN Corporation Common Stock
+Ticker: PFX
+CIK: 0001490349
+Latest SEC XBRL Facts:
+NetIncomeLoss: -4770176 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 307381161 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 151559913 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 155821248 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -2038150 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3400000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

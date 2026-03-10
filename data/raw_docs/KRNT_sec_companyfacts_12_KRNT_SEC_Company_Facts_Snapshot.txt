@@ -1,0 +1,11 @@
+Company: Kornit Digital Ltd. Ordinary Shares
+Ticker: KRNT
+CIK: 0001625791
+Latest SEC XBRL Facts:
+Revenues: 203825000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+NetIncomeLoss: -16800000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+Assets: 787484000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+Liabilities: 60585000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+StockholdersEquity: 726899000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 48725000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 35003000 | unit=USD | filed=2025-03-27 | period_end=2024-12-31

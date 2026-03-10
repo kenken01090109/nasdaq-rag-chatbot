@@ -1,0 +1,9 @@
+Company: Crexendo Inc. Common Stock
+Ticker: CXDO
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Tempe
+Website: https://www.crexendo.com
+Employees: 187
+Business Summary: Crexendo, Inc. provides cloud communication platform software and unified communications as a service in the United States and internationally. It operates through two segments, Cloud Telecommunications Services and Software Solutions. The company offers hardware, software, and unified internet protocol or cloud technology for businesses using user interfaces, such as a Crexendo branded and third party desktop phones and/or mobile and desktop applications; develop end user portals for account management, license management, billing and customer support, and adopt other cloud technologies; and sale and lease of cloud telecommunications equipment. It also provides unified communications, video conferencing, and collaboration and contact center solutions comprising SNAPsolution, an IP-based platform that provides a broad suite of unified communications services, including hosted Private Branch Exchange, auto-attendant, call center, conferencing, and mobility; and SNAPaccel, a software-as-a-service based software. In addition, the company offers subscription maintenance and support services; and professional services, including consulting, technical support, resident engineer, and design and installation services. The company was formerly known as iMergent, Inc. and changed its name to Crexendo, Inc. in May 2011. The company was incorporated in 1995 and is headquartered in Tempe, Arizona.

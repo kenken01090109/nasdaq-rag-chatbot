@@ -1,0 +1,9 @@
+Company: Odysight.ai Inc. Common Stock
+Ticker: ODYS
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: Israel
+City: Omer
+Website: https://www.odysight.ai
+Employees: 61
+Business Summary: Odysight.ai Inc., together with its subsidiaries, develops, produces, and markets visual monitoring AI solutions in Israel, the United States, and internationally. It offers predictive maintenance (PdM), Condition-based Monitoring (CBM), and related system health monitoring solutions. The company also provides TruVision, to monitor safety critical elements in real-time; FLVID, technician ground-tool dashboard; multiple vision-based sensors; and cloud-computing, management, and data analytics services. It serves aerospace and aviation, defense, transportation, energy, industry 4.0, and medical markets, as well as government clients. Odysight.ai Inc. was founded in 2019 and is based in Omer, Israel.

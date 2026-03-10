@@ -1,0 +1,9 @@
+Company: Cytosorbents Corporation Common Stock
+Ticker: CTSO
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Princeton
+Website: https://www.cytosorbents.com
+Employees: 149
+Business Summary: Cytosorbents Corporation engages in the research, development, and commercialization of medical devices with its blood purification technology platform incorporating a proprietary adsorbent and porous polymer technology in the United States, Germany, and internationally. The company's flagship product is CytoSorb, an extracorporeal blood purification cartridge for the treatment of massive inflammation, organ failure, cardiothoracic surgery to remove antithrombotic drugs and inflammatory mediators that can lead to postoperative complications, such as severe bleeding, shock, failure to wean from mechanical ventilation, sepsis, and multiple organ failure; DrugSorb-ATR, an antithrombotic removal system; VetResQ, a broad-spectrum blood purification adsorber for the treatment of septic shock, toxic shock syndrome, toxin-mediated diseases, pancreatitis, trauma, liver failure, heat stroke, and lung injury in animals; PuriFi, an advanced hemoperfusion pump for blood purification therapies; and ECOS-300CY, an ex vivo organ perfusion system to preserve or improve the health and quality of harvested solid organs to be transplanted. In addition, it develops HemoDefend-BGA, a blood purification technology platform to reduce anti-A and anti-B antibodies in plasma and whole blood. The company was formerly known as MedaSorb Technologies Corporation and changed its name to Cytosorbents Corporation in May 2010. Cytosorbents Corporation was founded in 1997 and is headquartered in Princeton, New Jersey.

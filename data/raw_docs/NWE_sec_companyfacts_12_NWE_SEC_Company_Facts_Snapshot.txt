@@ -1,0 +1,11 @@
+Company: NorthWestern Energy Group Inc. Common Stock
+Ticker: NWE
+CIK: 0001993004
+Latest SEC XBRL Facts:
+Revenues: 1196295000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 136401000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 8298732000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 5418758000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 2879974000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 338274000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6203000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: PureTech Health plc American Depositary Shares
+Ticker: PRTC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.puretechhealth.com
+Employees: 56
+Business Summary: PureTech Health plc, engages in the development and commercialization of biotechnology and pharmaceutical solutions in the United States. It is developing LYT-100, which is under Phase 2 stage, to treat idiopathic pulmonary fibrosis (IPF); and LYT-200, a IgG4 monoclonal antibody, currently under Phase 1/2 stage, targeting galectin-9 for treating solid tumors and hematological malignancies. The company also develops SPT-300, an oral drug of allopregnanolone for the treatment of anxious depression; and delivers transformative medicines for patients with psychiatric and neurological conditions. In addition, the company develops hydrogels to enable the oral administration of peptide therapeutics in preclinical development; oral therapies based on defined bacterial consortia that is in phase 3 clinical stage; and engineering hematopoietic stem cells to enable targeted therapies for patients with blood cancers. Further, it develops voice-based technology platform that detects changes in the sound of voice that are linked with health conditions, including depression, anxiety, and respiratory disease. The company was incorporated in 2015 and is based in Boston, Massachusetts.

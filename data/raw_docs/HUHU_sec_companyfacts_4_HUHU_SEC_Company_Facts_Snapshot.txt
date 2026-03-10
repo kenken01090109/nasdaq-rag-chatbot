@@ -1,0 +1,10 @@
+Company: HUHUTECH International Group Inc. Ordinary Shares
+Ticker: HUHU
+CIK: 0001945415
+Latest SEC XBRL Facts:
+Revenues: 9817472 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetIncomeLoss: -8731241 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Assets: 22452011 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Liabilities: 15510298 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+StockholdersEquity: 6941713 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -523403 | unit=USD | filed=2025-09-19 | period_end=2025-06-30

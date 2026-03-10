@@ -1,0 +1,11 @@
+Company: IDEAYA Biosciences Inc. Common Stock
+Ticker: IDYA
+CIK: 0001676725
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 207834000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -30425000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1185136000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 93102000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1092034000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19398000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 298927000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

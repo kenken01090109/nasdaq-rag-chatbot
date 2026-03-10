@@ -1,0 +1,10 @@
+Company: Milestone Pharmaceuticals Inc. Common Shares
+Ticker: MIST
+CIK: 0001408443
+Latest SEC XBRL Facts:
+NetIncomeLoss: -45649000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 87750000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 67249000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 20501000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36266000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46685000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

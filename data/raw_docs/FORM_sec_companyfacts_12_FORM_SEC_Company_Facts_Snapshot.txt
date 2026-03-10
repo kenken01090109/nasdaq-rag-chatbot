@@ -1,0 +1,12 @@
+Company: FormFactor Inc. FormFactor Inc. Common Stock
+Ticker: FORM
+CIK: 0001039399
+Latest SEC XBRL Facts:
+Revenues: 272805000 | unit=USD | filed=2017-08-10 | period_end=2017-07-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 569830000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetIncomeLoss: 31143000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Assets: 1202992000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Liabilities: 193377000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+StockholdersEquity: 1009615000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 69423000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 97678000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27

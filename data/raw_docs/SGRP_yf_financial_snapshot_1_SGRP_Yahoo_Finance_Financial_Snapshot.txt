@@ -1,0 +1,25 @@
+Company: SPAR Group Inc. Common Stock
+Ticker: SGRP
+Market Cap: 18101404
+Enterprise Value: 35672628
+Total Revenue: 147130000
+Revenue Per Share: 6.26
+EBITDA: -2437000
+Gross Margins: 0.18009001
+Operating Margins: -0.11976
+Profit Margins: -0.0952
+Free Cashflow: -1432500
+Operating Cashflow: -15897000
+Return On Assets: -0.024360001
+Return On Equity: -0.58027
+Total Cash: 8206000
+Total Debt: 26235000
+Debt To Equity: 158.147
+Current Ratio: 1.195
+Quick Ratio: 1.141
+Trailing PE: 
+Forward PE: 6.2983336
+Price To Book: 1.0381868
+Beta: 0.096
+52 Week High: 1.6
+52 Week Low: 0.73

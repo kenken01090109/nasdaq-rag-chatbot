@@ -1,0 +1,25 @@
+Company: Blue Bird Corporation Common Stock
+Ticker: BLBD
+Market Cap: 1730714880
+Enterprise Value: 1576755712
+Total Revenue: 1499310976
+Revenue Per Share: 47.224
+EBITDA: 186890000
+Gross Margins: 0.20971
+Operating Margins: 0.11303
+Profit Margins: 0.086540006
+Free Cashflow: 127193128
+Operating Cashflow: 186383008
+Return On Assets: 0.18361999
+Return On Equity: 0.57531
+Total Cash: 241739008
+Total Debt: 89154000
+Debt To Equity: 32.854
+Current Ratio: 1.811
+Quick Ratio: 1.074
+Trailing PE: 13.823233
+Forward PE: 10.837458
+Price To Book: 6.390381
+Beta: 1.412
+52 Week High: 62.9
+52 Week Low: 30.04

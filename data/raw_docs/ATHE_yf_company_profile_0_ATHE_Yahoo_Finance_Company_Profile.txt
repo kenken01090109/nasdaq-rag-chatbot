@@ -1,0 +1,9 @@
+Company: Alterity Therapeutics Limited American Depositary Shares
+Ticker: ATHE
+Sector: Healthcare
+Industry: Biotechnology
+Country: Australia
+City: Melbourne
+Website: https://alteritytherapeutics.com
+Employees: 9
+Business Summary: Alterity Therapeutics Limited engages in the research and development of therapeutic drugs to treat Alzheimer's disease, Huntington disease, Parkinson's disease, and other neurological disorders in Australia. The company's lead drug candidate is ATH434, a small molecule drug candidate that has completed Phase I clinical trial for the treatment of Parkinson's disease. It is also developing ATH434-201, which is in Phase II clinical trial to treat multiple system atrophy early stage; and ATH434-202 that is in Phase II clinical trial to treat multiple system atrophy, as well as biomarkers of progression in multiple system atrophy. The company was formerly known as Prana Biotechnology Limited and changed its name to Alterity Therapeutics Limited in April 2019. Alterity Therapeutics Limited was incorporated in 1997 and is based in Melbourne, Australia.

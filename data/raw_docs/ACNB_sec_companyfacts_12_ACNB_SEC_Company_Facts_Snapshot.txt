@@ -1,0 +1,11 @@
+Company: ACNB Corporation Common Stock
+Ticker: ACNB
+CIK: 0000715579
+Latest SEC XBRL Facts:
+Revenues: 144633000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 26246000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3250838000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2842196000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 408642000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 40888000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 102139000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

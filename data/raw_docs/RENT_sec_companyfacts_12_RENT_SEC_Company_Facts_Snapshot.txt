@@ -1,0 +1,12 @@
+Company: Rent the Runway Inc. Class A Common Stock
+Ticker: RENT
+CIK: 0001468327
+Latest SEC XBRL Facts:
+Revenues: 238100000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 29900000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetIncomeLoss: 24000000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Assets: 231000000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+Liabilities: 266100000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+StockholdersEquity: -35100000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -3600000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 50700000 | unit=USD | filed=2025-12-12 | period_end=2025-10-31

@@ -1,0 +1,11 @@
+Company: Sprouts Farmers Market Inc. Common Stock
+Ticker: SFM
+CIK: 0001575515
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6657468000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28
+NetIncomeLoss: 433845000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28
+Assets: 4013122000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28
+Liabilities: 2578564000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28
+StockholdersEquity: 1434558000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 577471000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 322415000 | unit=USD | filed=2025-10-29 | period_end=2025-09-28

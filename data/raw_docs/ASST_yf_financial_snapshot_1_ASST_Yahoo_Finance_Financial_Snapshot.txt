@@ -1,0 +1,25 @@
+Company: Strive Inc. Class A Common Stock
+Ticker: ASST
+Market Cap: 548522112
+Enterprise Value: 271696160
+Total Revenue: 5512106
+Revenue Per Share: 2.311
+EBITDA: -60449720
+Gross Margins: 0.0
+Operating Margins: -30.6429
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -38237504
+Return On Assets: 
+Return On Equity: 
+Total Cash: 109069000
+Total Debt: 3604000
+Debt To Equity: 0.462
+Current Ratio: 11.967
+Quick Ratio: 11.429
+Trailing PE: 
+Forward PE: -14.499999
+Price To Book: 0.3721766
+Beta: 
+52 Week High: 268.4
+52 Week Low: 7.02

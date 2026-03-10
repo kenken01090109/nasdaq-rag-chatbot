@@ -1,0 +1,10 @@
+Company: Shuttle Pharmaceuticals Holdings Inc. Common Stock
+Ticker: SHPH
+CIK: 0001757499
+Latest SEC XBRL Facts:
+NetIncomeLoss: -9106774 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 3542927 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2148766 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 1394161 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8508633 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2094643 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

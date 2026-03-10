@@ -1,0 +1,11 @@
+Company: Farmers National Banc Corp. Common Stock
+Ticker: FMNB
+CIK: 0000709337
+Latest SEC XBRL Facts:
+Revenues: 208406000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 39949000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 5235575000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4769626000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 465949000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 40400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26587000 | unit=USD | filed=2013-08-08 | period_end=2013-06-30

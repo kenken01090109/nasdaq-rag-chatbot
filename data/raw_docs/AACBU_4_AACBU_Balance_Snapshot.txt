@@ -1,0 +1,8 @@
+Company: Artius II Acquisition Inc. Units
+Ticker: AACBU
+Total Cash: 141921
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: -0.45

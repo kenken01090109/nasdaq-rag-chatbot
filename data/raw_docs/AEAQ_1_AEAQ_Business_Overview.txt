@@ -1,0 +1,7 @@
+Company: Activate Energy Acquisition Corp. Class A Ordinary Share
+Ticker: AEAQ
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

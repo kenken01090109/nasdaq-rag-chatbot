@@ -1,0 +1,25 @@
+Company: First Citizens BancShares Inc. 5.625% Non-Cumulative Perpetual Preferred Stock Series C
+Ticker: FCNCO
+Market Cap: 
+Enterprise Value: 18257092608
+Total Revenue: 9036000256
+Revenue Per Share: 694.946
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.37584
+Profit Margins: 0.24413
+Free Cashflow: 
+Operating Cashflow: 2923000064
+Return On Assets: 0.00973
+Return On Equity: 0.09922
+Total Cash: 21368000512
+Total Debt: 37979000832
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 0.39239228
+Forward PE: 
+Price To Book: 0.013120741
+Beta: 0.655
+52 Week High: 23.91
+52 Week Low: 20.57

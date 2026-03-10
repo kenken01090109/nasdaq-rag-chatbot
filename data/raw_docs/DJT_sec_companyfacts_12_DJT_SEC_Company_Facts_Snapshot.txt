@@ -1,0 +1,11 @@
+Company: Trump Media & Technology Group Corp. Common Stock
+Ticker: DJT
+CIK: 0001849635
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2677400 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -31726600 | unit=USD | filed=2025-05-09 | period_end=2025-03-31
+Assets: 3265266500 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 986982400 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 2278094100 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2638800 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 166072700 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

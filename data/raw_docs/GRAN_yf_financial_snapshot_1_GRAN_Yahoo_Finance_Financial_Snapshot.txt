@@ -1,0 +1,25 @@
+Company: Grande Group Limited Class A Ordinary Shares
+Ticker: GRAN
+Market Cap: 44831248
+Enterprise Value: 36004456
+Total Revenue: 2882713
+Revenue Per Share: 0.134
+EBITDA: 191811
+Gross Margins: 0.70267
+Operating Margins: -4.08725
+Profit Margins: -0.09766
+Free Cashflow: 558167
+Operating Cashflow: 727222
+Return On Assets: 0.013049999
+Return On Equity: -0.058130004
+Total Cash: 11689937
+Total Debt: 1949812
+Debt To Equity: 20.394
+Current Ratio: 4.693
+Quick Ratio: 4.68
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.8387094
+Beta: 
+52 Week High: 6.7
+52 Week Low: 1.22

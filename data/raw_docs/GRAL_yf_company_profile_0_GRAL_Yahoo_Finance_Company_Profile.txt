@@ -1,0 +1,9 @@
+Company: GRAIL Inc. Common Stock
+Ticker: GRAL
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: Menlo Park
+Website: https://grail.com
+Employees: 
+Business Summary: GRAIL, Inc., a commercial-stage healthcare company, provides multi-cancer early detection testing and services in the United States and internationally. It offers Galleri, a cancer screening test for asymptomatic individuals over 50 years of age; and DAC, a diagnostic aid for cancer tests to accelerate diagnostic resolution for patients for whom there is a clinical suspicion of cancer. The company also provides development services, including support for ongoing clinical studies, pilot testing, research, and therapy development. In addition, it develops minimal residual disease post-diagnostic tests. The company was incorporated in 2015 and is headquartered in Menlo Park, California.

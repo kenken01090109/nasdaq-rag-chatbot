@@ -1,0 +1,25 @@
+Company: Magic Empire Global Limited Class A Ordinary Shares
+Ticker: MEGL
+Market Cap: 5469175
+Enterprise Value: -113587040
+Total Revenue: 10176630
+Revenue Per Share: 2.01
+EBITDA: 
+Gross Margins: 0.53486
+Operating Margins: -1.25932
+Profit Margins: -0.97397006
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.07407
+Return On Equity: -0.07628
+Total Cash: 122536552
+Total Debt: 3829760
+Debt To Equity: 3.064
+Current Ratio: 33.365
+Quick Ratio: 33.105
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.3421696
+Beta: 2.886
+52 Week High: 2.62
+52 Week Low: 0.87

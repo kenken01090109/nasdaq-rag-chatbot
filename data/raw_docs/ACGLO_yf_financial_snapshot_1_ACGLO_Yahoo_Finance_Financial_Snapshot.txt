@@ -1,0 +1,25 @@
+Company: Arch Capital Group Ltd. Depositary Shares Each Representing 1/1000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares Series F
+Ticker: ACGLO
+Market Cap: 11953325056
+Enterprise Value: 7376019456
+Total Revenue: 19928999936
+Revenue Per Share: 54.096
+EBITDA: 5522999808
+Gross Margins: 0.37162
+Operating Margins: 0.2953
+Profit Margins: 0.22073
+Free Cashflow: -17002250240
+Operating Cashflow: 6172000256
+Return On Assets: 0.04437
+Return On Equity: 0.19540001
+Total Cash: 3681999872
+Total Debt: 2884999936
+Debt To Equity: 11.919
+Current Ratio: 1.077
+Quick Ratio: 0.498
+Trailing PE: 4.3700705
+Forward PE: 
+Price To Book: 0.3135947
+Beta: 0.365
+52 Week High: 22.2
+52 Week Low: 19.99

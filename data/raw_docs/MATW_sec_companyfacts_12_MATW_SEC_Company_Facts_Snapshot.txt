@@ -1,0 +1,11 @@
+Company: Matthews International Corporation Class A Common Stock
+Ticker: MATW
+CIK: 0000063296
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1795737000 | unit=USD | filed=2024-11-22 | period_end=2024-09-30
+NetIncomeLoss: 43629000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 1552866000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 1009650000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 513832000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -51992000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 31357000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

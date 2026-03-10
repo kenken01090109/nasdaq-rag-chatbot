@@ -1,0 +1,25 @@
+Company: T Stamp Inc. Class A Common Stock
+Ticker: IDAI
+Market Cap: 13953379
+Enterprise Value: 12330324
+Total Revenue: 3727824
+Revenue Per Share: 1.597
+EBITDA: -6648481
+Gross Margins: 0.65213996
+Operating Margins: -2.02963
+Profit Margins: 0.0
+Free Cashflow: -5182205
+Operating Cashflow: -6750963
+Return On Assets: -0.39113
+Return On Equity: -2.00021
+Total Cash: 5372021
+Total Debt: 3330121
+Debt To Equity: 53.513
+Current Ratio: 1.978
+Quick Ratio: 1.897
+Trailing PE: 
+Forward PE: -2.8602152
+Price To Book: 1.7374265
+Beta: 0.503
+52 Week High: 5.28
+52 Week Low: 1.43

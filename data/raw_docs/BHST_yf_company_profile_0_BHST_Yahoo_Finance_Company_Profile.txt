@@ -1,0 +1,9 @@
+Company: BioHarvest Sciences Inc. Common Stock
+Ticker: BHST
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: Canada
+City: Vancouver
+Website: https://www.bioharvest.com
+Employees: 
+Business Summary: BioHarvest Sciences Inc. operates as a biotechnology company in Israel and the United States. It operates through Nutraceuticals and Pharmaceuticals segments. The company develops botanical synthesis platform technology to produce plant cells with higher concentrations of active ingredients. It is involved in the research, development, manufacturing, marketing, and sale of science based health and wellness nutraceutical solutions that are manufactured and sold as dietary supplements and functional foods, as well as manufacturing, marketing, and sale of science-based health and cosmeceutical solutions. The company also provides contract development and manufacturing operation services. Further, it offers VINIA, a red grape cell dietary supplement containing the matrix of polyphenols contained in red wine. The company is based in Vancouver, Canada.

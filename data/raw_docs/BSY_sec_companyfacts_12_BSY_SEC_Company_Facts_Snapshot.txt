@@ -1,0 +1,12 @@
+Company: Bentley Systems Incorporated Class B Common Stock
+Ticker: BSY
+CIK: 0001031308
+Latest SEC XBRL Facts:
+Revenues: 734849000 | unit=USD | filed=2021-03-02 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1110197000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 219223000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3464448000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2269098000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1195303000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 396876000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 165411000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

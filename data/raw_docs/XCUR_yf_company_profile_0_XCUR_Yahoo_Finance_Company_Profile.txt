@@ -1,0 +1,9 @@
+Company: Exicure Inc. Common Stock
+Ticker: XCUR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://www.exicuretx.com
+Employees: 7
+Business Summary: Exicure, Inc. does not have significant operations. Previously, the company focused on developing of nucleic acid therapies targeting ribonucleic acid against validated targets. Exicure, Inc. was founded in 2011 and is headquartered in Redwood City, California.

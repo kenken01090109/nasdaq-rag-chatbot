@@ -1,0 +1,9 @@
+Company: SUNation Energy Inc. Common Stock
+Ticker: SUNE
+Sector: Technology
+Industry: Solar
+Country: United States
+City: Ronkonkoma
+Website: https://www.sunation.com/corporate
+Employees: 189
+Business Summary: SUNation Energy Inc. engages in the design, installation, and maintenance of photovoltaic solar energy systems and battery storage systems in the United States. Its brand portfolio includes SUNation, SUNation Energy, Hawaii Energy Connection, E-Gear, Sungevity, and Horizon Solar Power. The company also develops and offers energy management software and hardware, such as energy management control devices on solar systems that are paired with batteries. It also serves residential homeowners, as well as commercial owners, other municipal customers, energy services companies, and other utilities. Additionally, the company offers energy and grid services. SUNation Energy Inc. was founded in 1969 and is headquartered in Ronkonkoma, New York.

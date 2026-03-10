@@ -1,0 +1,12 @@
+Company: Advanced Energy Industries Inc. Common Stock
+Ticker: AEIS
+Total Revenue: 1798800000
+Revenue Per Share: 47.84
+Gross Margins: 0.38476002
+Operating Margins: 0.13343
+EBITDA: 255600000
+Profit Margins: 0.0825
+Free Cashflow: 119962496
+Operating Cashflow: 233300000
+Return On Assets: 0.05034
+Return On Equity: 0.11637

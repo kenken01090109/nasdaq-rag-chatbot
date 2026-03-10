@@ -1,0 +1,11 @@
+Company: Rush Enterprises Inc. Common Stock Cl A
+Ticker: RUSHA
+CIK: 0001012019
+Latest SEC XBRL Facts:
+Revenues: 5662302000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5385621000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 199450000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4553062000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 2214499000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 748945000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 242005000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

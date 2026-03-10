@@ -1,0 +1,9 @@
+Company: Biomea Fusion Inc. Common Stock
+Ticker: BMEA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Carlos
+Website: https://biomeafusion.com
+Employees: 42
+Business Summary: Biomea Fusion, Inc., a clinical-stage diabetes and obesity medicines company, focuses on the discovery and development of oral covalent small molecule drugs to treat patients with metabolic diseases in the United States. It's lead product candidate icovamenib, an orally bioavailable, potent, and covalent inhibitor of menin, a ubiquitously expressed scaffold protein that functions in histone modification and epigenetic gene regulation to impact multiple cellular processes including cell cycle control, apoptosis, and DNA damage repair. Biomea Fusion, Inc. was incorporated in 2017 and is headquartered in San Carlos, California.

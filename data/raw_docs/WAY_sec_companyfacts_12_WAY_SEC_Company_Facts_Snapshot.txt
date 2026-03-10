@@ -1,0 +1,11 @@
+Company: Waystar Holding Corp. Common Stock
+Ticker: WAY
+CIK: 0001990354
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 795740000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 92101000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 4746356000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 1523760000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 3222596000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 243039000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 421056000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

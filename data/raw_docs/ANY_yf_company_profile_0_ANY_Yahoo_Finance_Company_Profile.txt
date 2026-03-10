@@ -1,0 +1,9 @@
+Company: Sphere 3D Corp. Common Shares
+Ticker: ANY
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Stamford
+Website: https://sphere3d.com
+Employees: 2
+Business Summary: Sphere 3D Corp. engages in the bitcoin mining business. The company is involved with bitcoin mining pool operators as its customers to provide a service to perform hash calculations for the mining pool operators. The company is based in Stamford, Connecticut.

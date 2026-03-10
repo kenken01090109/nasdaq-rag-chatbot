@@ -1,0 +1,9 @@
+Company: Elemental Royalty Corporation Common Stock
+Ticker: ELE
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: Canada
+City: Vancouver
+Website: https://elementalroyalty.com
+Employees: 
+Business Summary: Elemental Royalty Corporation engages in the acquisition and generation of precious metal royalties. The company holds royalties in gold, silver, and copper projects. It operates in North America; South America; Australia; Africa; and internationally. The company was formerly known as Elemental Altus Royalties Corp. and changed its name to Elemental Royalty Corporation in November 2025. The company is headquartered in Vancouver, Canada.

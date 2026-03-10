@@ -1,0 +1,11 @@
+Company: Euro Tech Holdings Company Limited Common Stock
+Ticker: CLWT
+CIK: 0001026662
+Latest SEC XBRL Facts:
+Revenues: 15383000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 845000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 20708000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 4014000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 15743000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 781000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 5805000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

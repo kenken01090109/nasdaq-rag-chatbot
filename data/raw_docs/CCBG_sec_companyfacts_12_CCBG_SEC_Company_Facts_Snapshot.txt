@@ -1,0 +1,9 @@
+Company: Capital City Bank Group Common Stock
+Ticker: CCBG
+CIK: 0000726601
+Latest SEC XBRL Facts:
+NetIncomeLoss: 47852000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 4323774000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 3783139000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 540635000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 76054000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: AirSculpt Technologies Inc. Common Stock
+Ticker: AIRS
+Market Cap: 130492640
+Enterprise Value: 209299648
+Total Revenue: 157554000
+Revenue Per Share: 2.64
+EBITDA: 4623000
+Gross Margins: 0.63973
+Operating Margins: -0.07467
+Profit Margins: -0.11414
+Free Cashflow: 2018000
+Operating Cashflow: 8340000
+Return On Assets: -0.02625
+Return On Equity: -0.21846001
+Total Cash: 5405000
+Total Debt: 84212000
+Debt To Equity: 102.566
+Current Ratio: 0.506
+Quick Ratio: 0.367
+Trailing PE: 
+Forward PE: Infinity
+Price To Book: 1.5893534
+Beta: 2.798
+52 Week High: 12.0
+52 Week Low: 1.51

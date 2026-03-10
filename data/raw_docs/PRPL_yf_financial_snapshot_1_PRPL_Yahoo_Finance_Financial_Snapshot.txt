@@ -1,0 +1,25 @@
+Company: Purple Innovation Inc. Common Stock
+Ticker: PRPL
+Market Cap: 76659728
+Enterprise Value: 247314624
+Total Revenue: 457012000
+Revenue Per Share: 4.235
+EBITDA: -10515000
+Gross Margins: 0.41232
+Operating Margins: -0.05756
+Profit Margins: -0.12403
+Free Cashflow: -22092250
+Operating Cashflow: -21269000
+Return On Assets: -0.06641
+Return On Equity: -102.705246
+Total Cash: 32358000
+Total Debt: 202851008
+Debt To Equity: 
+Current Ratio: 1.405
+Quick Ratio: 0.593
+Trailing PE: 
+Forward PE: -2.8047523
+Price To Book: -2.8441765
+Beta: 1.888
+52 Week High: 1.26
+52 Week Low: 0.56

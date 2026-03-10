@@ -1,0 +1,10 @@
+Company: PepGen Inc. Common Stock
+Ticker: PEPG
+CIK: 0001835597
+Latest SEC XBRL Facts:
+NetIncomeLoss: -71315000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 190057000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 26917000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 163140000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -65790000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 142775000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

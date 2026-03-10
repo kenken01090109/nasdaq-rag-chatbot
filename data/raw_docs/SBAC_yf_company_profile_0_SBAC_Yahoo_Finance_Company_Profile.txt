@@ -1,0 +1,9 @@
+Company: SBA Communications Corporation Class A Common Stock
+Ticker: SBAC
+Sector: Real Estate
+Industry: REIT - Specialty
+Country: United States
+City: Boca Raton
+Website: https://www.sbasite.com
+Employees: 1844
+Business Summary: SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure. It includes towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC. Our organization is part of the S&P 500 and one of the top Real Estate Investment Trusts (REITs) by market capitalization.

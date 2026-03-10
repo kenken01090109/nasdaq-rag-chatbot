@@ -1,0 +1,25 @@
+Company: MIND C.T.I. Ltd. Ordinary Shares
+Ticker: MNDO
+Market Cap: 25457908
+Enterprise Value: 13797850
+Total Revenue: 19770000
+Revenue Per Share: 0.968
+EBITDA: 2847000
+Gross Margins: 0.51098
+Operating Margins: 0.13352999
+Profit Margins: 0.14628
+Free Cashflow: 2292000
+Operating Cashflow: 3081000
+Return On Assets: 0.05488
+Return On Equity: 0.12732
+Total Cash: 12495000
+Total Debt: 961000
+Debt To Equity: 4.332
+Current Ratio: 3.53
+Quick Ratio: 3.347
+Trailing PE: 8.928572
+Forward PE: 
+Price To Book: 1.1606314
+Beta: 0.559
+52 Week High: 2.12
+52 Week Low: 0.98

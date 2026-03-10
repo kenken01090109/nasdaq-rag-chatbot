@@ -1,0 +1,12 @@
+Company: Franklin Wireless Corp. Common Stock
+Ticker: FKWL
+CIK: 0000722572
+Latest SEC XBRL Facts:
+Revenues: 24673824 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 37680312 | unit=USD | filed=2020-05-15 | period_end=2020-03-31
+NetIncomeLoss: 1174100 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 53028467 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 14764268 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 35130451 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5574688 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 14618062 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

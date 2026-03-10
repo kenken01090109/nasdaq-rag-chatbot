@@ -1,0 +1,9 @@
+Company: Anghami Inc. Warrants
+Ticker: ANGHW
+Sector: 
+Industry: 
+Country: United Arab Emirates
+City: Abu Dhabi
+Website: https://www.anghami.com
+Employees: 186
+Business Summary: Anghami Inc. operates a music-streaming platform in the Middle East and North Africa. The company offers digital entertainment and online streaming services, including music, podcasts, music videos, live events, movies, and series. It also provides a library of approximately 18,000 hours of premium video, including HBO content; and approximately 100 million Arabic and international songs and podcasts. In addition, the company offers various devices and payment methods. It offers its services through the Anghami Music and OSN+ Video apps. The company was founded in 2012 and is headquartered in Abu Dhabi, United Arab Emirates.

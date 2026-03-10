@@ -1,0 +1,11 @@
+Company: DirectBooking Technology Co. Ltd. Class A Ordinary Shares
+Ticker: ZDAI
+CIK: 0001966678
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 19275673 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+NetIncomeLoss: -6981068 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+Assets: 15702285 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+Liabilities: 6961069 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+StockholdersEquity: 8741216 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -2819237 | unit=USD | filed=2025-08-14 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 455953 | unit=USD | filed=2025-08-14 | period_end=2025-03-31

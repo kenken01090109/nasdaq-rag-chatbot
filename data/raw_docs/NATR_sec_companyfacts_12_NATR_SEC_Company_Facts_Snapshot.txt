@@ -1,0 +1,11 @@
+Company: Nature's Sunshine Products Inc. Common Stock
+Ticker: NATR
+CIK: 0000275053
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 356337000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 15414000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 264805000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 98101000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 136603000 | unit=USD | filed=2014-11-06 | period_end=2014-09-30
+NetCashProvidedByUsedInOperatingActivities: 25423000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 95554000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

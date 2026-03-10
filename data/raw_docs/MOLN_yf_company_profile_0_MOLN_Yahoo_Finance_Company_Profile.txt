@@ -1,0 +1,9 @@
+Company: Molecular Partners AG American Depositary Shares
+Ticker: MOLN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Switzerland
+City: Schlieren
+Website: https://www.molecularpartners.com
+Employees: 158
+Business Summary: Molecular Partners AG, a clinical-stage biotechnology company, designs and develops designed ankyrin repeat proteins therapeutics for the treatment of oncology diseases in Switzerland. Its product pipeline comprises MP0317, which is in Phase 1 clinical trial for the treatment of advanced solid tumors; MP053, novel tetra-specific T cell-engaging DARPin, which is phase 1 clinical trial for the treatment of acute myeloid leukemia; and MP0712, a 212Pb Radio-DARPin therapy (RDT) candidate targeting the tumor-associated protein delta-like ligand 3 (DLL3) which is in preclinical trial to treat SCLC and neuroendocrine tumors. It also researches for Switch-DARPin T cell engager to treat CD3 x costim x; and Radio-DARPin Therapy to treat ovarian disease. In addition, the company develops MP0621, a molecular partners' first Switch-DARPin program, which is in preclinical trial designed to induce killing of hematopoietic stem cells (HSCs) as a next-generation conditioning regimen for HSC transplantation (HSCT); and Radio-DARPin Therapy (RDT) platform, a delivery system for effective and selective delivery of radioactive payloads to solid tumors. It has collaboration agreement with Orano Med SAS to develop novel Radio-DARPin therapeutics and an additional six targeted alpha therapeutics candidates and Eckert & Ziegler SE to develop Radio-DARPin therapeutics. Molecular Partners AG was incorporated in 2004 and is headquartered in Schlieren, Switzerland.

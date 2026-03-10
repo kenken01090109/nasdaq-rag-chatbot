@@ -1,0 +1,25 @@
+Company: Fractyl Health Inc. Common Stock
+Ticker: GUTS
+Market Cap: 73618584
+Enterprise Value: 52857356
+Total Revenue: 3000
+Revenue Per Share: 0.0
+EBITDA: -97669000
+Gross Margins: 1.0
+Operating Margins: -32914.0
+Profit Margins: 0.0
+Free Cashflow: -49940752
+Operating Cashflow: -86026000
+Return On Assets: -0.51173
+Return On Equity: -5.18399
+Total Cash: 77657000
+Total Debt: 62184000
+Debt To Equity: 
+Current Ratio: 4.266
+Quick Ratio: 4.157
+Trailing PE: 
+Forward PE: -0.6956522
+Price To Book: -20.0
+Beta: 1.506
+52 Week High: 3.03
+52 Week Low: 0.377

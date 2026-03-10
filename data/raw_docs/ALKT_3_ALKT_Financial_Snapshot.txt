@@ -1,0 +1,12 @@
+Company: Alkami Technology Inc. Common Stock
+Ticker: ALKT
+Total Revenue: 443639008
+Revenue Per Share: 4.27
+Gross Margins: 0.5784
+Operating Margins: -0.07592
+EBITDA: -38206000
+Profit Margins: -0.10741
+Free Cashflow: 85282496
+Operating Cashflow: 42906000
+Return On Assets: -0.04721
+Return On Equity: -0.13254

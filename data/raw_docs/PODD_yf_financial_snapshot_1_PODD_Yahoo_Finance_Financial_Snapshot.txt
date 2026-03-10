@@ -1,0 +1,25 @@
+Company: Insulet Corporation Common Stock
+Ticker: PODD
+Market Cap: 16684519424
+Enterprise Value: 17247774720
+Total Revenue: 2708100096
+Revenue Per Share: 38.496
+EBITDA: 564200000
+Gross Margins: 0.71633005
+Operating Margins: 0.18665001
+Profit Margins: 0.091239996
+Free Cashflow: 154900000
+Operating Cashflow: 569299968
+Return On Assets: 0.09434
+Return On Equity: 0.18124
+Total Cash: 716099968
+Total Debt: 1002700032
+Debt To Equity: 66.176
+Current Ratio: 2.814
+Quick Ratio: 1.813
+Trailing PE: 68.30259
+Forward PE: 29.307928
+Price To Book: 11.0104065
+Beta: 1.435
+52 Week High: 354.88
+52 Week Low: 230.05

@@ -1,0 +1,9 @@
+Company: Tevogen Bio Holdings Inc. Common Stock
+Ticker: TVGN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Warren
+Website: https://tevogen.com
+Employees: 18
+Business Summary: Tevogen Bio Holdings Inc., a clinical-stage specialty immunotherapy company, develops off-the-shelf precision T cell therapies for the treatment of infectious diseases, cancers, and other disorders. The company develops TVGN 489, which has completed Phase 1 clinical trial for the treatment of ambulatory high-risk adult COVID-19 patients; and in phase 1 clinical trial to treat acute SARS-CoV-2 patients with B-cell cancer immune suppression, and other B cell immune suppressed acute SARS-CoV-2 patients with a B cell cancer indication, as well as Long COVID prevention and treatment. It is also developing TVGN 920 which is in preclinical trial for treating cervical cancer; TVGN 960 which is in preclinical trial for treating oropharyngeal cancer; TVGN 601 which is in preclinical trial for treating multiple sclerosis; TVGN 930 which is in preclinical trial for treating Epstein-Barr virus associated lymphomas; and TVGN 116 a product candidate targeted at hepatitis B and is in preclinical trial. Tevogen Bio Holdings Inc. was formerly known as Tevogen Bio Inc. and changed its name to Tevogen Bio Holdings Inc. in February 2024. The company was founded in 2020 and is headquartered in Warren, New Jersey.

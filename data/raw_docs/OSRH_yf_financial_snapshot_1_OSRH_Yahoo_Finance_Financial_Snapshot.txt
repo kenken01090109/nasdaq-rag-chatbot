@@ -1,0 +1,25 @@
+Company: OSR Holdings Inc. Common Stock
+Ticker: OSRH
+Market Cap: 13180410
+Enterprise Value: 66456116
+Total Revenue: -90515
+Revenue Per Share: -0.006
+EBITDA: 3502625
+Gross Margins: 0.0
+Operating Margins: -6.0589204
+Profit Margins: 0.0
+Free Cashflow: 5328368
+Operating Cashflow: -3777543
+Return On Assets: -0.01801
+Return On Equity: -0.08946
+Total Cash: 2177309
+Total Debt: 4380226
+Debt To Equity: 3.265
+Current Ratio: 0.213
+Quick Ratio: 0.18
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.14829579
+Beta: 1.546
+52 Week High: 4.33
+52 Week Low: 0.38

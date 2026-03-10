@@ -1,0 +1,10 @@
+Company: Real Asset Acquisition Corp. Class A Ordinary Share
+Ticker: RAAQ
+CIK: 0002052161
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2684336 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 176770259 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7043489 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -5739298 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 117422 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1180426 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

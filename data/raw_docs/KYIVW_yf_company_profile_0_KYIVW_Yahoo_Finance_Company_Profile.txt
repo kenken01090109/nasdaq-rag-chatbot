@@ -1,0 +1,9 @@
+Company: Kyivstar Group Ltd. Warrant
+Ticker: KYIVW
+Sector: 
+Industry: 
+Country: United Arab Emirates
+City: Dubai
+Website: https://www.kyivstar.ua
+Employees: 5058
+Business Summary: Kyivstar Group Ltd. provides a range of mobile communication and home Internet services in Ukraine. It offers mobile services, such as voice, messaging and data, mobile and computer Internet, roaming, abroad calling, payment, and other services; fixed telephone communication services; fixed Internet and data transfer services; and mobile virtual PBX services, as well as operates data centers, commercial contact centers, and M2M contact centers. The company also provides loyalty programs, as well as sells telecommunications equipment. The company was founded in 1994 and is based in Dubai, the United Arab Emirates. Kyivstar Group Ltd. operates as a subsidiary of Vimpelcom Amsterdam B.V.

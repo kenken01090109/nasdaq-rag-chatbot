@@ -1,0 +1,9 @@
+Company: Calamos Dynamic Convertible & Income Fund Common Stock
+Ticker: CCD
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Naperville
+Website: https://www.calamos.com/FundInvestor/ClosedEndFunds/CEFund.aspx?name=CCD
+Employees: 
+Business Summary: Calamos Dynamic Convertible and Income Fund is a closed ended fixed income mutual fund launched by Calamos Investments LLC. It is managed by Calamos Advisors LLC. The fund invests in the fixed income markets of the United States. It primarily invests in a portfolio of convertible securities, investment grade and below investment grade bonds, loans, equity-linked notes, and floating rate securities. The fund also invests through derivatives such as options. It employs fundamental analysis with a top-down global macroeconomic approach to create its portfolio. Calamos Dynamic Convertible and Income Fund was formed on March 11, 2014 and is domiciled in the United States.

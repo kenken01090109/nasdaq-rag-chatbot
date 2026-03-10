@@ -1,0 +1,11 @@
+Company: Satellogic Inc. Class A Common Stock
+Ticker: SATL
+CIK: 0001874315
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 11460000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -35266000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 70874000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 127760000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -56886000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17435000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28288000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

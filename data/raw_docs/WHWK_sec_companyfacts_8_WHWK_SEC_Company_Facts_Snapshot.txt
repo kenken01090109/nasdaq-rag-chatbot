@@ -1,0 +1,11 @@
+Company: Whitehawk Therapeutics Inc. Common Stock
+Ticker: WHWK
+CIK: 0001422142
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7145000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 2655000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 167017000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 9849000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 157168000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -80199000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37931000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

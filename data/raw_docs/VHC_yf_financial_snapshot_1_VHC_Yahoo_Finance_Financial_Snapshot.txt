@@ -1,0 +1,25 @@
+Company: VirnetX Holding Corp Common Stock
+Ticker: VHC
+Market Cap: 74530384
+Enterprise Value: 54264160
+Total Revenue: 106000
+Revenue Per Share: 0.029
+EBITDA: -18783000
+Gross Margins: 1.0
+Operating Margins: -71.44828
+Profit Margins: 0.0
+Free Cashflow: -9795500
+Operating Cashflow: -15346000
+Return On Assets: -0.25120002
+Return On Equity: -0.47772
+Total Cash: 28193000
+Total Debt: 7931000
+Debt To Equity: 27.077
+Current Ratio: 13.723
+Quick Ratio: 13.616
+Trailing PE: 
+Forward PE: 9.53552
+Price To Book: 2.544474
+Beta: 2.269
+52 Week High: 29.0
+52 Week Low: 6.6

@@ -1,0 +1,9 @@
+Company: NextTrip Inc. Common Stock
+Ticker: NTRP
+Sector: Consumer Cyclical
+Industry: Travel Services
+Country: United States
+City: Santa Fe
+Website: https://www.nexttrip.com
+Employees: 16
+Business Summary: NextTrip, Inc., a technology-driven travel company, develops an integrated travel booking and media platform to connect leisure, group, and business travelers in the United States and internationally. The company offers NXT2.0, a booking engine platform that enables to book customized travel options. Its product portfolio consists of NextTrip Leisure, a booking engine for customized vacation packages, flights, hotels, tours, wellness vacations, cruise, and group travel options; NextTrip Luxury and Business, a platform that provides access to hotels; NextTrip Cruises, an integrated cruise booking engine; NextTrip Solutions, a travel agent platform; and NextTrip Media, a travel content platform. The company also markets its travel services through various brands, including NextTrip Vacations for direct-to-consumer leisure travel; Five Star Alliance for luxury and cruise bookings; NextTrip Business for small-to-mid-sized corporate travel; and PayDlay, a delayed payment booking option. In addition, its booking engine includes media properties, which consists of Journy.tv, Compass.tv, and Travel Magazine. The company was formerly known as Sigma Additive Solutions, Inc. and changed its name to NextTrip, Inc. in March 2024. NextTrip, Inc. is based in Santa Fe, New Mexico.

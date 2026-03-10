@@ -1,0 +1,10 @@
+Company: Dawson Geophysical Company Common Stock
+Ticker: DWSN
+CIK: 0000799165
+Latest SEC XBRL Facts:
+Revenues: 22000 | unit=USD | filed=2024-11-13 | period_end=2024-09-30
+NetIncomeLoss: -2510000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 40575000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 15189000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11891000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5081000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

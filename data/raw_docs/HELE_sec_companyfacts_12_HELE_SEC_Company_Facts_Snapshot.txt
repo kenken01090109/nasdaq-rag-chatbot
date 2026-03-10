@@ -1,0 +1,12 @@
+Company: Helen of Troy Limited Common Stock
+Ticker: HELE
+CIK: 0000916789
+Latest SEC XBRL Facts:
+Revenues: 1478845000 | unit=USD | filed=2020-04-29 | period_end=2018-02-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 1316265000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetIncomeLoss: -843417000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Assets: 2340809000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Liabilities: 1488551000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+StockholdersEquity: 852258000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 59813000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 27137000 | unit=USD | filed=2026-01-08 | period_end=2025-11-30

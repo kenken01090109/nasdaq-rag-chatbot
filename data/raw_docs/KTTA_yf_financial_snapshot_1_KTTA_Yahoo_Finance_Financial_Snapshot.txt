@@ -1,0 +1,25 @@
+Company: Pasithea Therapeutics Corp. Common Stock
+Ticker: KTTA
+Market Cap: 18392032
+Enterprise Value: 1757472
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -13194081
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -7940062
+Operating Cashflow: -12257704
+Return On Assets: -0.53696
+Return On Equity: -0.89902997
+Total Cash: 4122953
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.015
+Quick Ratio: 2.994
+Trailing PE: 
+Forward PE: -1.1713235
+Price To Book: 0.48567075
+Beta: 0.199
+52 Week High: 3.79
+52 Week Low: 0.281

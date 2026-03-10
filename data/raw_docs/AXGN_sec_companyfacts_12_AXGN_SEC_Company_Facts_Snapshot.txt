@@ -1,0 +1,11 @@
+Company: Axogen Inc. Common Stock
+Ticker: AXGN
+CIK: 0000805928
+Latest SEC XBRL Facts:
+Revenues: 165304000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -2547000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 216400000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 95595000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 120805000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2226000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23902000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

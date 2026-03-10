@@ -1,0 +1,8 @@
+Company: Align Technology Inc. Common Stock
+Ticker: ALGN
+Total Cash: 1094908032
+Total Debt: 114446000
+Debt To Equity: 2.826
+Current Ratio: 1.363
+Quick Ratio: 1.173
+Book Value: 56.739

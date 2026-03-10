@@ -1,0 +1,10 @@
+Company: Forafric Global PLC Warrants
+Ticker: AFRIW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -4.5
+Beta: 0.38
+52 Week High: 0.765
+52 Week Low: 0.765

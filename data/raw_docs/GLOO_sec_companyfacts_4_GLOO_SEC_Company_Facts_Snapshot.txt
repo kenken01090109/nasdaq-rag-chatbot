@@ -1,0 +1,11 @@
+Company: Gloo Holdings Inc. Class A Common Stock
+Ticker: GLOO
+CIK: 0002069785
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 61027000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+NetIncomeLoss: -107799000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+Assets: 206700000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+Liabilities: 264829000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+StockholdersEquity: -444368000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -62954000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 15134000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31

@@ -1,0 +1,10 @@
+Company: Affinity Bancshares Inc. Common Stock (MD)
+Ticker: AFBI
+CIK: 0001823406
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6201000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 925221000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 799816000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 125405000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9379000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 84845000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

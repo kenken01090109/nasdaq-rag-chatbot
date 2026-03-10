@@ -1,0 +1,10 @@
+Company: Silver Pegasus Acquisition Corp Class A Ordinary Shares
+Ticker: SPEG
+CIK: 0002028735
+Latest SEC XBRL Facts:
+NetIncomeLoss: -1013443 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 116646461 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 8500723 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7844138 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -339500 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 452101 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

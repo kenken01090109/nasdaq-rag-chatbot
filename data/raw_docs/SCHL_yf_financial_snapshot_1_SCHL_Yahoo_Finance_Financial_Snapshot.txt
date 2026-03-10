@@ -1,0 +1,25 @@
+Company: Scholastic Corporation Common Stock
+Ticker: SCHL
+Market Cap: 917172992
+Enterprise Value: 1203762432
+Total Revenue: 1620400000
+Revenue Per Share: 62.084
+EBITDA: 96200000
+Gross Margins: 0.56122
+Operating Margins: 0.16766001
+Profit Margins: -0.0021
+Free Cashflow: -250587504
+Operating Cashflow: 86300000
+Return On Assets: 0.015319999
+Return On Equity: -0.0035499998
+Total Cash: 99300000
+Total Debt: 400900000
+Debt To Equity: 43.052
+Current Ratio: 1.67
+Quick Ratio: 0.636
+Trailing PE: 
+Forward PE: 16.536695
+Price To Book: 0.9849457
+Beta: 1.178
+52 Week High: 36.24
+52 Week Low: 15.77

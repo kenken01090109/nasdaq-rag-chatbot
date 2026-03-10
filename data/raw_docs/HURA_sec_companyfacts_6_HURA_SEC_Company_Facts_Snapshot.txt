@@ -1,0 +1,11 @@
+Company: TuHURA Biosciences Inc. Common Stock
+Ticker: HURA
+CIK: 0001498382
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -23290661 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 25697048 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 8919089 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 16777959 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22073128 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2697416 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

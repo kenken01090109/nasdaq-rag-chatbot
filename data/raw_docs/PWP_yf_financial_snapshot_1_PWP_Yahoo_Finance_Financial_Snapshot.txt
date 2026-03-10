@@ -1,0 +1,25 @@
+Company: Perella Weinberg Partners Class A Common Stock
+Ticker: PWP
+Market Cap: 1527917056
+Enterprise Value: 1588420224
+Total Revenue: 750902976
+Revenue Per Share: 11.695
+EBITDA: 
+Gross Margins: 0.96974
+Operating Margins: 0.088640004
+Profit Margins: 0.04725
+Free Cashflow: 
+Operating Cashflow: 34789000
+Return On Assets: 0.057340004
+Return On Equity: 0.19573
+Total Cash: 255906000
+Total Debt: 186066000
+Debt To Equity: 71.361
+Current Ratio: 1.343
+Quick Ratio: 1.168
+Trailing PE: 36.595745
+Forward PE: 10.087976
+Price To Book: -9.014675
+Beta: 1.694
+52 Week High: 25.925
+52 Week Low: 14.12

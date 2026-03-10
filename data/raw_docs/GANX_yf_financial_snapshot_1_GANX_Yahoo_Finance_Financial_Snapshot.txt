@@ -1,0 +1,25 @@
+Company: Gain Therapeutics Inc. Common Stock
+Ticker: GANX
+Market Cap: 117309352
+Enterprise Value: 82402744
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -17553668
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -9535148
+Operating Cashflow: -17301580
+Return On Assets: -0.86793
+Return On Equity: -2.6171799
+Total Cash: 8807353
+Total Debt: 605278
+Debt To Equity: 10.243
+Current Ratio: 2.522
+Quick Ratio: 2.301
+Trailing PE: 
+Forward PE: -4.295775
+Price To Book: 18.59756
+Beta: -0.022
+52 Week High: 4.34
+52 Week Low: 1.41

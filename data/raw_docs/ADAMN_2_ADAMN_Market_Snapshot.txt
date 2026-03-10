@@ -1,0 +1,10 @@
+Company: Adamas Trust Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+Ticker: ADAMN
+Market Cap: 
+Enterprise Value: 13405892608
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.324776
+Beta: 1.144
+52 Week High: 23.1
+52 Week Low: 19.21

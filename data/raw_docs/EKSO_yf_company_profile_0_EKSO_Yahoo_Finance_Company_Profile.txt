@@ -1,0 +1,9 @@
+Company: Ekso Bionics Holdings Inc. Common Stock
+Ticker: EKSO
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: San Rafael
+Website: https://www.eksobionics.com
+Employees: 50
+Business Summary: Ekso Bionics Holdings, Inc. designs, develops, distributes, and commercializes exoskeleton products in the Americas, Europe, the Middle East, Africa, the Asia Pacific, and internationally. The company provides EksoNR, a wearable robotic exoskeleton; Ekso Indego Therapy, a powered exoskeleton; Ekso Indego Personal, a powered lower limb orthosis; and Ekso EVO, a wearable upper body exoskeleton. It also develops Ekso Nomad, a power Knee Ankle Foot Orthosis or KAFO; and MediTouch BalanceTutor rehabilitation system, a multidirectional perturbation treadmill outfitted. Ekso Bionics Holdings, Inc. was founded in 2005 and is headquartered in San Rafael, California.

@@ -1,0 +1,9 @@
+Company: Forward Air Corporation Common Stock
+Ticker: FWRD
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: United States
+City: Greeneville
+Website: https://www.forwardair.com
+Employees: 6000
+Business Summary: Forward Air Corporation, together with its subsidiaries, operates as an asset-light freight and logistics company in the United States, Mexico, Europe, Asia, and Canada. It operates through three segments: Expedited Freight, Omni Logistics, and Intermodal. The Expedited Freight segment provides expedited regional, inter-regional, and national less-than-truckload services; local pick-up and delivery services; and other services, which include shipment consolidation and deconsolidation, warehousing, customs brokerage, and other handling. This segment offers expedited truckload brokerage, dedicated fleet, and high security and temperature-controlled logistics services. Its Omni Logistics segment offers full suite of global logistics services, such as air and ocean freight consolidation and forwarding, customs brokerage, warehousing and distribution, time-definite transportation services, and other supply chain solutions. The Intermodal segment provides intermodal container drayage services; and contract and container freight station warehouse and handling services. It serves freight forwarders, third-party logistics companies, integrated air cargo carriers and passenger, passenger and cargo airlines, steamship lines, and retailers. Forward Air Corporation was founded in 1981 and is headquartered in Greeneville, Tennessee.

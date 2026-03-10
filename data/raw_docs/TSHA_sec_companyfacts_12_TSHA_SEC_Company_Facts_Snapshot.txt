@@ -1,0 +1,11 @@
+Company: Taysha Gene Therapies Inc. Common Stock
+Ticker: TSHA
+CIK: 0001806310
+Latest SEC XBRL Facts:
+Revenues: 4288000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -81144000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 316554000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 97565000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 218989000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -66368000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 297344000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

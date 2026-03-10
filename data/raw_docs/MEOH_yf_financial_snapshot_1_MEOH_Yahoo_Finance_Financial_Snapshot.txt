@@ -1,0 +1,25 @@
+Company: Methanex Corporation Common Stock
+Ticker: MEOH
+Market Cap: 3853828352
+Enterprise Value: 7778422784
+Total Revenue: 3589223936
+Revenue Per Share: 49.485
+EBITDA: 948206016
+Gross Margins: 0.25327998
+Operating Margins: 0.04901
+Profit Margins: 0.022249999
+Free Cashflow: 454992000
+Operating Cashflow: 1015560000
+Return On Assets: 0.045229997
+Return On Equity: 0.05669
+Total Cash: 425331008
+Total Debt: 3508082944
+Debt To Equity: 128.659
+Current Ratio: 2.06
+Quick Ratio: 1.231
+Trailing PE: 16.721478
+Forward PE: 13.053901
+Price To Book: 1.5773481
+Beta: 
+52 Week High: 57.725
+52 Week Low: 25.46

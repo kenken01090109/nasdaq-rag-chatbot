@@ -1,0 +1,25 @@
+Company: 22nd Century Group Inc. Common Stock
+Ticker: XXII
+Market Cap: 2066221
+Enterprise Value: 907647
+Total Revenue: 20346000
+Revenue Per Share: 311.215
+EBITDA: -11790000
+Gross Margins: -0.17478001
+Operating Margins: -2.14419
+Profit Margins: -0.33431998
+Free Cashflow: -17341250
+Operating Cashflow: -14870000
+Return On Assets: -0.27169
+Return On Equity: -1.18652
+Total Cash: 4846000
+Total Debt: 1175000
+Debt To Equity: 5.568
+Current Ratio: 2.174
+Quick Ratio: 1.644
+Trailing PE: 
+Forward PE: -0.26539975
+Price To Book: 0.10269804
+Beta: 0.99
+52 Week High: 841.8
+52 Week Low: 3.61

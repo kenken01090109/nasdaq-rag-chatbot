@@ -1,0 +1,9 @@
+Company: Terrestrial Energy Inc. Common Stock
+Ticker: IMSR
+Sector: Utilities
+Industry: Utilities - Regulated Electric
+Country: United States
+City: Charlotte
+Website: https://www.terrestrialenergy.com
+Employees: 
+Business Summary: Terrestrial Energy Inc. produces carbon free nuclear energy in North Carolina and internationally. The company was founded in 2013 and is headquartered in Charlotte, North Carolina.

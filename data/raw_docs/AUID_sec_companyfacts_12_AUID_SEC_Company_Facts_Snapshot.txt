@@ -1,0 +1,11 @@
+Company: authID Inc. Common Stock
+Ticker: AUID
+CIK: 0001534154
+Latest SEC XBRL Facts:
+Revenues: 1634709 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -13897567 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 10729416 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1816010 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 8913406 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11789465 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 569597 | unit=USD | filed=2020-11-09 | period_end=2020-09-30

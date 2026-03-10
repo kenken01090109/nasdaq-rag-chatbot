@@ -1,0 +1,25 @@
+Company: Personalis Inc. Common Stock
+Ticker: PSNL
+Market Cap: 696226112
+Enterprise Value: 699709504
+Total Revenue: 69648000
+Revenue Per Share: 0.78
+EBITDA: -78011000
+Gross Margins: 0.22652
+Operating Margins: -1.45667
+Profit Margins: -1.16687
+Free Cashflow: -42980752
+Operating Cashflow: -74946000
+Return On Assets: -0.18211001
+Return On Equity: -0.35019
+Total Cash: 239952992
+Total Debt: 44014000
+Debt To Equity: 16.852
+Current Ratio: 6.761
+Quick Ratio: 6.464
+Trailing PE: 
+Forward PE: -8.40003
+Price To Book: 3.075716
+Beta: 2.107
+52 Week High: 11.5
+52 Week Low: 2.826

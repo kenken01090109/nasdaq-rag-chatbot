@@ -1,0 +1,25 @@
+Company: ExlService Holdings Inc. Common Stock
+Ticker: EXLS
+Market Cap: 5159365120
+Enterprise Value: 5161449472
+Total Revenue: 2087678976
+Revenue Per Share: 12.965
+EBITDA: 359329984
+Gross Margins: 0.38372
+Operating Margins: 0.14358
+Profit Margins: 0.12024
+Free Cashflow: 257523248
+Operating Cashflow: 350716992
+Return On Assets: 0.11801
+Return On Equity: 0.27247
+Total Cash: 328367008
+Total Debt: 405782016
+Debt To Equity: 44.459
+Current Ratio: 2.561
+Quick Ratio: 2.221
+Trailing PE: 21.11039
+Forward PE: 13.28077
+Price To Book: 5.571551
+Beta: 0.905
+52 Week High: 48.79
+52 Week Low: 26.94

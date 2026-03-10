@@ -1,0 +1,9 @@
+Company: Kingstone Companies Inc. Common Stock
+Ticker: KINS
+Sector: Financial Services
+Industry: Insurance - Property & Casualty
+Country: United States
+City: Kingston
+Website: https://www.kingstonecompanies.com
+Employees: 99
+Business Summary: Kingstone Companies, Inc., through its subsidiary, Kingstone Insurance Company ("KICO"), provides property and casualty insurance products in the United States. It offers personal line of insurance products, such as homeowners, dwelling fire, cooperative/condominiums, renters, and personal umbrella policies; and commercial auto insurance products. It also provides for-hire vehicle physical damage only policies for livery and car service vehicles and taxicabs; and canine legal liability policies. In addition, the company offers reinsurance products. It underwrites its products through retail and wholesale agents and brokers. The company was formerly known as DCAP Group, Inc. and changed its name to Kingstone Companies, Inc. in July 2009. Kingstone Companies, Inc. was founded in 1886 and is headquartered in Kingston, New York.

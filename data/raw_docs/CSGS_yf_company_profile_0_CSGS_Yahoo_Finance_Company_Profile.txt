@@ -1,0 +1,9 @@
+Company: CSG Systems International Inc. Common Stock
+Ticker: CSGS
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Englewood
+Website: https://www.csgi.com
+Employees: 5500
+Business Summary: CSG Systems International, Inc., together with its subsidiaries, provides revenue management and digital monetization, customer experience, and payment solutions primarily to the communications industry in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company offers Advanced Convergent Platform, a private SaaS platform; and related solutions, including service technician management, analytics, electronic bill presentment, etc. It also provides a public SaaS-based revenue management and payments platform. In addition, the company offers managed services; and professional services to implement, configure, and maintain its solutions, as well as licenses various solutions, such as mediation, partner management, rating, and charging. Further, it provides operational services, including infrastructure management comprised of hardware, application, and environmental management; application configuration management, such as configuration development, release, and deployment; and business operations management, which includes event processing, revenue management, and settlement. The company serves retail, financial services, healthcare, insurance, and government entities. CSG Systems International, Inc. was incorporated in 1994 and is headquartered in Englewood, Colorado.

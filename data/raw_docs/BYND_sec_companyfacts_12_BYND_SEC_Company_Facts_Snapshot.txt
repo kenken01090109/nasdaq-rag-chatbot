@@ -1,0 +1,10 @@
+Company: Beyond Meat Inc. Common Stock
+Ticker: BYND
+CIK: 0001655210
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 213907000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+NetIncomeLoss: -192846000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+Assets: 599669000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+StockholdersEquity: -784065000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -98138000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 117296000 | unit=USD | filed=2025-11-12 | period_end=2025-09-27

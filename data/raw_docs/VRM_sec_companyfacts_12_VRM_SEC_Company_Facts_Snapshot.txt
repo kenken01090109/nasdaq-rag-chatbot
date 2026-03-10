@@ -1,0 +1,11 @@
+Company: Vroom Inc. Common Stock
+Ticker: VRM
+CIK: 0001580864
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 657279000 | unit=USD | filed=2023-11-07 | period_end=2023-09-30
+NetIncomeLoss: -41647000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 949188000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 822576000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 126612000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 53908000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12412000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

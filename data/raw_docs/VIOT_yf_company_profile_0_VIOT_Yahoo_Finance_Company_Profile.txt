@@ -1,0 +1,9 @@
+Company: Viomi Technology Co. Ltd American Depositary Shares
+Ticker: VIOT
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: China
+City: Guangzhou
+Website: https://www.viomi.com.cn
+Employees: 521
+Business Summary: Viomi Technology Co., Ltd, through its subsidiaries, develops and sells Internet-of-things-enabled (IoT-enabled) smart home products in the People's Republic of China. The company offers smart water purification systems; kitchen appliances and others, such as range hoods, water heaters, and gas stoves; and other smart products comprising air conditioning systems, dishwashers, washing machines, water heaters, kettles, interactive smart screens (TVs), sweeper robots, smart locks, blenders, and other smart devices, as well as water quality meters. It also provides a suite of complementary consumable products and small appliances, such as portable fans, rice cookers, water quality meters, water filter pitchers, rice cooker, smart home security kit, smart magic mirror, smart clothes rack, smart speaker, smart toilet; and product installation and rental services. The company sells its products directly to consumers through its online platform, Viomi mobile app, and e-commerce channels, including Youpin, JD.com, Tmall, Pinduoduo, and others, as well as offline experience stores. Viomi Technology Co., Ltd was founded in 2014 and is headquartered in Guangzhou, China.

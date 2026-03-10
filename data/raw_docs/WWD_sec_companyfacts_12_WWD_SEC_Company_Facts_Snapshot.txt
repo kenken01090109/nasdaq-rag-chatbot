@@ -1,0 +1,11 @@
+Company: Woodward Inc. Common Stock
+Ticker: WWD
+CIK: 0000108312
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 996454000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 133719000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 4733897000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 2146409000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 2587488000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 114437000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 454245000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

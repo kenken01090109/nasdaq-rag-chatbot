@@ -1,0 +1,25 @@
+Company: Bridgeline Digital Inc. Common Stock
+Ticker: BLIN
+Market Cap: 11772067
+Enterprise Value: 10624131
+Total Revenue: 15505000
+Revenue Per Share: 1.333
+EBITDA: -1168000
+Gross Margins: 0.66391
+Operating Margins: -0.03731
+Profit Margins: -0.12706
+Free Cashflow: -221000
+Operating Cashflow: -1321000
+Return On Assets: -0.07796
+Return On Equity: -0.20392999
+Total Cash: 1481000
+Total Debt: 723000
+Debt To Equity: 7.558
+Current Ratio: 0.706
+Quick Ratio: 0.588
+Trailing PE: 
+Forward PE: 7.7858334
+Price To Book: 1.194757
+Beta: 0.848
+52 Week High: 2.22
+52 Week Low: 0.69

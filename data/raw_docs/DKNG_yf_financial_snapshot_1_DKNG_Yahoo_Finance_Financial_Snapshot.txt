@@ -1,0 +1,25 @@
+Company: DraftKings Inc. Class A Common Stock
+Ticker: DKNG
+Market Cap: 12518978560
+Enterprise Value: 13313841152
+Total Revenue: 6054524928
+Revenue Per Share: 12.216
+EBITDA: 272884000
+Gross Margins: 0.76111
+Operating Margins: 0.08293
+Profit Margins: 0.00061
+Free Cashflow: 605934400
+Operating Cashflow: 662854976
+Return On Assets: -0.00037
+Return On Equity: 0.00452
+Total Cash: 1127544960
+Total Debt: 1889826048
+Debt To Equity: 299.278
+Current Ratio: 1.034
+Quick Ratio: 0.702
+Trailing PE: 
+Forward PE: 13.251977
+Price To Book: 19.710032
+Beta: 1.682
+52 Week High: 48.78
+52 Week Low: 21.01

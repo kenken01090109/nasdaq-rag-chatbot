@@ -1,0 +1,9 @@
+Company: Cullinan Therapeutics Inc. Common Stock
+Ticker: CGEM
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://cullinantherapeutics.com
+Employees: 111
+Business Summary: Cullinan Therapeutics, Inc., a clinical-stage biopharmaceutical company, develops therapies for autoimmune diseases and cancer in the United States. The company develops zipalertinib, a bioavailable small molecule in Phase 3 trial for the treatment of patients with non-small cell lung cancer; CLN-978, a T cell engager to treat systemic lupus erythematosus and rheumatoid arthritis; and CLN-619, a monoclonal antibody in Phase 1 trial for the treatment of solid tumors and multiple myeloma. Its development products also include CLN-049, a humanized bispecific antibody in Phase 1 trial for the treatment of acute myeloid leukemia (AML) or myelodysplastic syndrome, as well as measurable residual disease positive AML; and CLN-617, a fusion protein in Phase 1 trial for the treatment of solid tumors. It has a collaboration agreement with Adimab, LLC to discover and/or optimize antibodies; and co-development agreement with Taiho Pharmaceutical Co., Ltd to develop zipalertinib. The company was formerly known as Cullinan Oncology, Inc. and changed its name to Cullinan Therapeutics, Inc. in April 2024. Cullinan Therapeutics, Inc. was incorporated in 2016 and is headquartered in Cambridge, Massachusetts.

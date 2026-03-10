@@ -1,0 +1,9 @@
+Company: XBiotech Inc. Common Stock
+Ticker: XBIT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Austin
+Website: https://www.xbiotech.com
+Employees: 88
+Business Summary: XBiotech Inc., a biopharmaceutical company, discovers, develops, and commercializes true human monoclonal antibodies for treating various diseases. It develops a pipeline of product candidates targeting inflammatory and infectious diseases. The company is also developing interleukin-1 alpha therapies to various medical conditions, such as cancer, stroke, heart attack, or arthritis; and mediates tissue breakdown, angiogenesis, the formation of blood clots, malaise, muscle wasting, and general inflammation. The company was incorporated in 2005 and is headquartered in Austin, Texas.

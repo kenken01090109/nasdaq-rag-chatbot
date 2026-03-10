@@ -1,0 +1,25 @@
+Company: Lakeland Financial Corporation Common Stock
+Ticker: LKFN
+Market Cap: 1452074240
+Enterprise Value: 1520023552
+Total Revenue: 257188000
+Revenue Per Share: 10.012
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.53291
+Profit Margins: 0.40188998
+Free Cashflow: 
+Operating Cashflow: 114887000
+Return On Assets: 0.01512
+Return On Equity: 0.14292
+Total Cash: 141318000
+Total Debt: 205902000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 14.184538
+Forward PE: 12.668152
+Price To Book: 1.8815123
+Beta: 0.734
+52 Week High: 69.4
+52 Week Low: 50.0

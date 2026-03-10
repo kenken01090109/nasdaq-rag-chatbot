@@ -1,0 +1,12 @@
+Company: Token Cat Limited American Depositary Shares
+Ticker: TC
+CIK: 0001743340
+Latest SEC XBRL Facts:
+Revenues: 2761000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 183188000 | unit=CNY | filed=2023-09-27 | period_end=2022-12-31
+NetIncomeLoss: -93000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30
+Assets: 28437000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30
+Liabilities: 23833000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30
+StockholdersEquity: 4604000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -23661000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 150000 | unit=USD | filed=2025-09-15 | period_end=2025-06-30

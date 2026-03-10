@@ -1,0 +1,11 @@
+Company: Azenta Inc.
+Ticker: AZTA
+CIK: 0000933974
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 148642000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -15432000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 2074435000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 359603000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 1714832000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 20847000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 336631000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

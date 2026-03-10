@@ -1,0 +1,25 @@
+Company: Shore Bancshares Inc Common Stock
+Ticker: SHBI
+Market Cap: 601347328
+Enterprise Value: 348345504
+Total Revenue: 216690000
+Revenue Per Share: 6.489
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.41566002
+Profit Margins: 0.27461
+Free Cashflow: 
+Operating Cashflow: 62391000
+Return On Assets: 0.00953
+Return On Equity: 0.105229996
+Total Cash: 355668000
+Total Debt: 100148000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.106742
+Forward PE: 8.205245
+Price To Book: 1.0190326
+Beta: 0.871
+52 Week High: 20.68
+52 Week Low: 11.47

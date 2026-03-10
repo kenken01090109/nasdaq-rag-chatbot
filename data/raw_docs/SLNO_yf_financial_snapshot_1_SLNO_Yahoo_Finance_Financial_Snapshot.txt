@@ -1,0 +1,25 @@
+Company: Soleno Therapeutics Inc. Common Stock
+Ticker: SLNO
+Market Cap: 2131213824
+Enterprise Value: 1795536512
+Total Revenue: 190404992
+Revenue Per Share: 3.747
+EBITDA: 16967000
+Gross Margins: 0.98582
+Operating Margins: 0.44076002
+Profit Margins: 0.10971
+Free Cashflow: 48272248
+Operating Cashflow: 46798000
+Return On Assets: 0.02088
+Return On Equity: 0.060100004
+Total Cash: 305472000
+Total Debt: 52553000
+Debt To Equity: 11.675
+Current Ratio: 5.799
+Quick Ratio: 5.438
+Trailing PE: 
+Forward PE: -17.480177
+Price To Book: 4.60913
+Beta: -3.027
+52 Week High: 90.32
+52 Week Low: 32.63

@@ -1,0 +1,9 @@
+Company: Gulf Resources Inc. (NV) Common Stock
+Ticker: GURE
+Sector: Basic Materials
+Industry: Chemicals
+Country: China
+City: Shouguang
+Website: https://www.gulfresourcesinc.com
+Employees: 367
+Business Summary: Gulf Resources, Inc., through its subsidiaries, manufactures and trades in bromine and crude salt in the People's Republic of China. The company operates through four segments: Bromine, Crude Salt, Chemical Products, and Natural Gas. It provides bromine for the manufacturing of various bromine compounds for applications in industry and agriculture, intermediates in organic synthesis, brominated flame retardants, fumigants, water purification compounds, dyes, medicines, and disinfectants. The company also offers crude salt for applications in alkali and chlorine alkali production, as well as chemical, food and beverage, and other industries. In addition, it manufactures and sells chemical products for use in oil and gas field exploration, oil and gas distribution, oil field drilling, papermaking chemical agents, and inorganic chemicals; and materials that are used for human and animal antibiotics. Gulf Resources, Inc. is headquartered in Shouguang, the People's Republic of China.

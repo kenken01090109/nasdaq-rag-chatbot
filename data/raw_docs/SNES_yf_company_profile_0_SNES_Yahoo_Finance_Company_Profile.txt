@@ -1,0 +1,9 @@
+Company: SenesTech Inc. Common Stock
+Ticker: SNES
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United States
+City: Phoenix
+Website: https://www.senestech.com
+Employees: 23
+Business Summary: SenesTech, Inc. engages in the development and commercialization of a technology for managing animal pest populations through fertility control. It offers ContraPest, a liquid bait containing the active ingredients 4-vinylcyclohexene diepoxide and triptolide; and Evolve, a soft bait containing the active ingredient, cottonseed oil that limits the reproduction of male and female rats beginning with the first breeding cycles following consumption, as well as Evolve Mouse, a modified version of its bait technology containing the active ingredient cottonseed oil that limits reproduction of male and female mice after one to two breeding cycles following consumption. The company also provides teleconsulting and technical advisory services. The company was incorporated in 2004 and is headquartered in Phoenix, Arizona.

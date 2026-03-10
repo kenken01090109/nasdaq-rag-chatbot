@@ -1,0 +1,25 @@
+Company: Amneal Pharmaceuticals Inc. Class A Common Stock
+Ticker: AMRX
+Market Cap: 4165689088
+Enterprise Value: 6645026304
+Total Revenue: 3018759936
+Revenue Per Share: 9.633
+EBITDA: 644270016
+Gross Margins: 0.37382
+Operating Margins: 0.14061
+Profit Margins: 0.02387
+Free Cashflow: 197065376
+Operating Cashflow: 339992000
+Return On Assets: 0.07324
+Return On Equity: 
+Total Cash: 286465984
+Total Debt: 2689046016
+Debt To Equity: 45095.523
+Current Ratio: 2.168
+Quick Ratio: 1.391
+Trailing PE: 60.181816
+Forward PE: 11.331154
+Price To Book: -58.844444
+Beta: 1.296
+52 Week High: 15.42
+52 Week Low: 6.685

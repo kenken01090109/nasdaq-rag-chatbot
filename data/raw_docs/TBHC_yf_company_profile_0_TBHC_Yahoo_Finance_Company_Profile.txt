@@ -1,0 +1,9 @@
+Company: The Brand House Collective Inc. Common Stock
+Ticker: TBHC
+Sector: Consumer Cyclical
+Industry: Home Improvement Retail
+Country: United States
+City: Brentwood
+Website: https://www.kirklands.com
+Employees: 835
+Business Summary: The Brand House Collective, Inc. operates as a specialty retailer of home décor and furnishings in the United States. It offers holiday décor, furniture, textiles, ornamental wall décor, decorative accessories, art, mirrors, home fragrance, lighting, floral, housewares, outdoor, and gifts. The company operates its stores under the Kirkland's, Kirkland's Home, Kirkland's Home Outlet, Kirkland's Outlet, and Kirkland Collection names. It also operates an e-commerce website, kirklands.com. The Brand House Collective, Inc. was formerly known as Kirkland's, Inc. and changed its name to The Brand House Collective, Inc. in July 2025. The company was founded in 1966 and is based in Brentwood, Tennessee.

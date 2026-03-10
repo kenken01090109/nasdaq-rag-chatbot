@@ -1,0 +1,9 @@
+Company: SkyWater Technology Inc. Common Stock
+Ticker: SKYT
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Bloomington
+Website: https://www.skywatertechnology.com
+Employees: 
+Business Summary: SkyWater Technology, Inc., together with its subsidiaries, operates as a pure-play technology foundry that offers semiconductor development, manufacturing, and packaging services in the United States. The company offers engineering and process development support services to co-create technologies with customers for various microelectronics and related micro- and nanotechnology applications; and semiconductor manufacturing services for various silicon-based analog and mixed-signal, micro-electromechanical systems, and rad-hard integrated circuits. It serves customers operating in the advanced computation, aerospace and defense, automotive, bio-health, and industrial sectors. SkyWater Technology, Inc. was incorporated in 2016 and is headquartered in Bloomington, Minnesota.

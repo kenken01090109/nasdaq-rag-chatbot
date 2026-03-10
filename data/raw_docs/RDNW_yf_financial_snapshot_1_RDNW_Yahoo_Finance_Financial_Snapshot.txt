@@ -1,0 +1,25 @@
+Company: RideNow Group Inc. Class B Common Stock
+Ticker: RDNW
+Market Cap: 246677424
+Enterprise Value: 845821760
+Total Revenue: 1095200000
+Revenue Per Share: 29.276
+EBITDA: 38600000
+Gross Margins: 0.26899
+Operating Margins: 0.03523
+Profit Margins: -0.0935
+Free Cashflow: 34812500
+Operating Cashflow: 46300000
+Return On Assets: 0.02247
+Return On Equity: -2.68063
+Total Cash: 35400000
+Total Debt: 636600000
+Debt To Equity: 
+Current Ratio: 1.121
+Quick Ratio: 0.216
+Trailing PE: 
+Forward PE: 
+Price To Book: -35.801105
+Beta: 1.208
+52 Week High: 7.17
+52 Week Low: 1.46

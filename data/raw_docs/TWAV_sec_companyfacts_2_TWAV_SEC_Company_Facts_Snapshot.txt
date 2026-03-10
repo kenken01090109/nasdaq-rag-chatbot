@@ -1,0 +1,11 @@
+Company: TaoWeave Inc. Common Stock
+Ticker: TWAV
+CIK: 0000746210
+Latest SEC XBRL Facts:
+Revenues: 13935 | unit=USD | filed=2011-08-09 | period_end=2011-06-30
+NetIncomeLoss: -3567000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 10894000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1070000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 9824000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2271000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3737000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

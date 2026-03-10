@@ -1,0 +1,9 @@
+Company: Loop Industries Inc. Common Stock
+Ticker: LOOP
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: Canada
+City: Terrebonne
+Website: https://www.loopindustries.com
+Employees: 40
+Business Summary: Loop Industries, Inc., a technology company, focuses on depolymerizing waste polyethylene terephthalate (PET) plastics and polyester fibers into its base building block monomers. The company's technology depolymerizes plastic bottles, packaging, carpets, and clothing into dimethyl terephthalate and monoethylene glycol. Its polymerized monomers are used to create virgin-quality PET resins for use in food-grade plastic packaging, such as plastic bottles for water and carbonated soft drinks, containers for food, and other consumer products; and polyester fibers, including textiles, clothing, and apparel. Loop Industries, Inc. was founded in 2010 and is headquartered in Terrebonne, Canada.

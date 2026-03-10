@@ -1,0 +1,10 @@
+Company: Hanover Bancorp Inc. Common Stock
+Ticker: HNVR
+CIK: 0001828588
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7455000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2331580000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2129747000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 201833000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4801000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 167569000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

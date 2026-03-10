@@ -1,0 +1,10 @@
+Company: Commercial Bancgroup Inc. Common Stock
+Ticker: CBK
+CIK: 0001981546
+Latest SEC XBRL Facts:
+NetIncomeLoss: 27057347 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2214408255 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1969254929 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 245153326 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27993255 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 154786944 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

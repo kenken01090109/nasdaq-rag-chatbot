@@ -1,0 +1,9 @@
+Company: Marine Petroleum Trust Units of Beneficial Interest
+Ticker: MARPS
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: United States
+City: Dallas
+Website: https://marps-marine.com
+Employees: 
+Business Summary: Marine Petroleum Trust, together with its subsidiary, Marine Petroleum Corporation, operates as a royalty trust primarily in the United States. It has overriding royalty interest in oil and natural gas leases in the Central and Western areas of the Gulf of America off the coasts of Louisiana and Texas. The company was founded in 1956 and is based in Dallas, Texas.

@@ -1,0 +1,10 @@
+Company: Rambus Inc. Common Stock
+Ticker: RMBS
+CIK: 0000917273
+Latest SEC XBRL Facts:
+NetIncomeLoss: 166615000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 1406372000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 117874000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 1288498000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 260202000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 79200000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

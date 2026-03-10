@@ -1,0 +1,9 @@
+Company: SS Innovations International Inc. Common Stock
+Ticker: SSII
+Sector: Healthcare
+Industry: Medical Devices
+Country: India
+City: Gurugram
+Website: https://ssinnovations.com
+Employees: 378
+Business Summary: SS Innovations International, Inc., together with its subsidiaries, operates as a commercial-stage surgical robotics company in India and internationally. It offers SSi Mantra, a surgical robotic system; and SSi Mudra, a range of stapling, energy, and core instrumentations for surgical systems. The company also develops NADI  Automated Coronary Anastomotic Connector, a micro stapling device; SSi Multi-Fire Clip Applier, a cartridge-based clip applicator; SSi Robotic Stapler; SSi Maya  XR Pre-Operative Simulator, a robotic surgery platform; SSi Holographic Anatomy, an augmented reality tool; SSi Chitrasa  Advanced DICOM Viewer, an AI enabled application viewer; and SSi Mixed Reality Headset, a medical-grade device. In addition, it offers instrument tips, including forceps, scissors, electrocautery tools, scalpels, and other surgical tools. Further, the company provides accessory products, such as sterile drapes, 3d stereo endoscopes, cannulas, and seals, as well as tele proctoring and telesurgery products. Additionally, it offers installation, repair, maintenance, 24/7 technical support, and proactive system health monitoring services. The company sells its products through direct sales organizations and distributor networks. SS Innovations International, Inc. is headquartered in Gurugram, India.

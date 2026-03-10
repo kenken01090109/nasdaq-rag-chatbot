@@ -1,0 +1,25 @@
+Company: Beam Therapeutics Inc. Common Stock
+Ticker: BEAM
+Market Cap: 2703265024
+Enterprise Value: 1443365248
+Total Revenue: 139743008
+Revenue Per Share: 1.413
+EBITDA: -361399008
+Gross Margins: -1.9312199
+Operating Margins: -0.15288
+Profit Margins: -0.57242
+Free Cashflow: -220311120
+Operating Cashflow: -345102016
+Return On Assets: -0.18554
+Return On Equity: -0.08113
+Total Cash: 1245209984
+Total Debt: 154123008
+Debt To Equity: 12.446
+Current Ratio: 13.088
+Quick Ratio: 12.846
+Trailing PE: 
+Forward PE: -6.194191
+Price To Book: 2.1260915
+Beta: 2.17
+52 Week High: 36.44
+52 Week Low: 13.525

@@ -1,0 +1,12 @@
+Company: Outlook Therapeutics Inc. Common Stock
+Ticker: OTLK
+CIK: 0001649989
+Latest SEC XBRL Facts:
+Revenues: 2292586 | unit=USD | filed=2020-08-14 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1505322 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetIncomeLoss: -23058135 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 18238574 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 56788039 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: -38549465 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -14939111 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 8677424 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

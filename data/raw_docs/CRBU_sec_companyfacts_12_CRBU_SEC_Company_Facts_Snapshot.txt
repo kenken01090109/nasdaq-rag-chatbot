@@ -1,0 +1,12 @@
+Company: Caribou Biosciences Inc. Common Stock
+Ticker: CRBU
+CIK: 0001619856
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2021-09-02 | period_end=2021-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7218000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -121637000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 194984000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 53139000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 141845000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -90168000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11144000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

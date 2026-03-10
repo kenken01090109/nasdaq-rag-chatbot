@@ -1,0 +1,25 @@
+Company: Zoom Communications Inc. Class A Common Stock
+Ticker: ZM
+Market Cap: 22947823616
+Enterprise Value: 15028157440
+Total Revenue: 4868768768
+Revenue Per Share: 16.202
+EBITDA: 1274663936
+Gross Margins: 0.7739
+Operating Margins: 0.21499
+Profit Margins: 0.39027
+Free Cashflow: 1963544576
+Operating Cashflow: 1989048064
+Return On Assets: 0.06219
+Return On Equity: 0.20275
+Total Cash: 7816907776
+Total Debt: 58475000
+Debt To Equity: 0.596
+Current Ratio: 4.331
+Quick Ratio: 4.159
+Trailing PE: 12.540453
+Forward PE: 12.616232
+Price To Book: 2.3351111
+Beta: 0.971
+52 Week High: 97.58
+52 Week Low: 64.41

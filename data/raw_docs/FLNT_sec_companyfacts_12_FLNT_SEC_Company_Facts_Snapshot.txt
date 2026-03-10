@@ -1,0 +1,11 @@
+Company: Fluent Inc. Common Stock
+Ticker: FLNT
+CIK: 0001460329
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 146945000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -23048000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 76060000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 54474000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 21586000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4257000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9247000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

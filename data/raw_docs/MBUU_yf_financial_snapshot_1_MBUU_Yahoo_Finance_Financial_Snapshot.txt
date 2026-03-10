@@ -1,0 +1,25 @@
+Company: Malibu Boats Inc. Class A Common Stock
+Ticker: MBUU
+Market Cap: 495469088
+Enterprise Value: 513557344
+Total Revenue: 819056000
+Revenue Per Share: 42.359
+EBITDA: 63058000
+Gross Margins: 0.16057
+Operating Margins: -0.016139999
+Profit Margins: 0.01758
+Free Cashflow: 23566750
+Operating Cashflow: 55683000
+Return On Assets: 0.02012
+Return On Equity: 0.029089998
+Total Cash: 28209000
+Total Debt: 26158000
+Debt To Equity: 5.239
+Current Ratio: 1.559
+Quick Ratio: 0.398
+Trailing PE: 34.824326
+Forward PE: 13.168115
+Price To Book: 0.9683237
+Beta: 1.215
+52 Week High: 39.65
+52 Week Low: 24.07

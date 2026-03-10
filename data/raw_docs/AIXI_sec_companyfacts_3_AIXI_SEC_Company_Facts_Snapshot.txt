@@ -1,0 +1,11 @@
+Company: XIAO-I Corporation American Depositary Shares
+Ticker: AIXI
+CIK: 0001935172
+Latest SEC XBRL Facts:
+Revenues: 71861 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetIncomeLoss: -14505464 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Assets: 85511474 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+Liabilities: 101279447 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+StockholdersEquity: -12202414 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -15138249 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 846593 | unit=USD | filed=2025-05-15 | period_end=2024-12-31

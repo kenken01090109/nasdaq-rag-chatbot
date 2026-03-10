@@ -1,0 +1,25 @@
+Company: RxSight Inc. Common Stock
+Ticker: RXST
+Market Cap: 317338112
+Enterprise Value: 105202080
+Total Revenue: 134479008
+Revenue Per Share: 3.292
+EBITDA: -44925000
+Gross Margins: 0.76599
+Operating Margins: -0.34768
+Profit Margins: -0.28959
+Free Cashflow: -1625250
+Operating Cashflow: -15511000
+Return On Assets: -0.09556
+Return On Equity: -0.13984999
+Total Cash: 228128000
+Total Debt: 11040000
+Debt To Equity: 4.005
+Current Ratio: 10.95
+Quick Ratio: 9.58
+Trailing PE: 
+Forward PE: -13.728956
+Price To Book: 1.1503366
+Beta: 1.151
+52 Week High: 27.13
+52 Week Low: 6.32

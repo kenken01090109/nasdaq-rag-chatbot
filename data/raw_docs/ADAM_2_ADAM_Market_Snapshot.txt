@@ -1,0 +1,10 @@
+Company: Adamas Trust Inc. Common Stock
+Ticker: ADAM
+Market Cap: 740984832
+Enterprise Value: 12082252800
+Trailing PE: 7.445454
+Forward PE: 7.3244014
+Price To Book: 0.834352
+Beta: 1.144
+52 Week High: 8.76
+52 Week Low: 5.01

@@ -1,0 +1,12 @@
+Company: Hallador Energy Company Common Stock
+Ticker: HNRG
+CIK: 0000788965
+Latest SEC XBRL Facts:
+Revenues: 367522000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 204733000 | unit=USD | filed=2022-11-14 | period_end=2022-09-30
+NetIncomeLoss: 42111000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 409461000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 263273000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 146188000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 72978000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12663000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Krystal Biotech Inc. Common Stock
+Ticker: KRYS
+CIK: 0001711279
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 282025000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 153431000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 1240094000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 102218000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 1137876000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 123357000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 392604000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Uranium Royalty Corp. Common Stock
+Ticker: UROY
+Sector: Energy
+Industry: Uranium
+Country: Canada
+City: Vancouver
+Website: https://www.uraniumroyalty.com
+Employees: 14
+Business Summary: Uranium Royalty Corp. operates as a pure-play uranium royalty company in Canada, the United States, Namibia, and Spain. It engages in the acquisition and assembly of a portfolio of royalties; investment in companies with exposure to uranium and physical uranium; and purchase and sale of physical uranium. The company also owns and manages a portfolio of geographically diversified uranium interests. Uranium Royalty Corp. was incorporated in 2017 and is headquartered in Vancouver, Canada.

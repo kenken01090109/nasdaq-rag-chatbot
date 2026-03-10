@@ -1,0 +1,25 @@
+Company: Cirrus Logic Inc. Common Stock
+Ticker: CRUS
+Market Cap: 6652831232
+Enterprise Value: 6164221440
+Total Revenue: 1973312000
+Revenue Per Share: 38.189
+EBITDA: 508135008
+Gross Margins: 0.52869
+Operating Margins: 0.26338
+Profit Margins: 0.20467
+Free Cashflow: 471304128
+Operating Cashflow: 629564992
+Return On Assets: 0.118269995
+Return On Equity: 0.19865999
+Total Cash: 822363008
+Total Debt: 137312000
+Debt To Equity: 6.529
+Current Ratio: 7.652
+Quick Ratio: 5.979
+Trailing PE: 17.221928
+Forward PE: 14.142474
+Price To Book: 3.1613278
+Beta: 1.124
+52 Week High: 146.88
+52 Week Low: 75.83

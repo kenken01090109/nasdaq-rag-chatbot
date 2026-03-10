@@ -1,0 +1,25 @@
+Company: Century Casinos Inc. Common Stock
+Ticker: CNTY
+Market Cap: 44182952
+Enterprise Value: 1139060224
+Total Revenue: 572755968
+Revenue Per Share: 18.797
+EBITDA: 99112000
+Gross Margins: 0.42705002
+Operating Margins: 0.11141
+Profit Margins: -0.2336
+Free Cashflow: -18076000
+Operating Cashflow: 4547000
+Return On Assets: 0.02458
+Return On Equity: -1.57298
+Total Cash: 77692000
+Total Debt: 1079261952
+Debt To Equity: 8734.72
+Current Ratio: 1.44
+Quick Ratio: 1.181
+Trailing PE: 
+Forward PE: -2.88
+Price To Book: -0.54319125
+Beta: 1.847
+52 Week High: 2.85
+52 Week Low: 1.23

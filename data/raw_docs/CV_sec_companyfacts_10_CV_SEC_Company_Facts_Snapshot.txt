@@ -1,0 +1,10 @@
+Company: CapsoVision Inc. Common Stock
+Ticker: CV
+CIK: 0001378325
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 9636000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -17921000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 25661000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5219000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 20442000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15178000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

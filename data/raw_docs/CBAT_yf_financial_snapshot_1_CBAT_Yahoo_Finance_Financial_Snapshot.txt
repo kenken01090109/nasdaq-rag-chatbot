@@ -1,0 +1,25 @@
+Company: CBAK Energy Technology Inc. Common Stock
+Ticker: CBAT
+Market Cap: 89532296
+Enterprise Value: 114087720
+Total Revenue: 161757680
+Revenue Per Share: 1.806
+EBITDA: -9592242
+Gross Margins: 0.107889995
+Operating Margins: -0.06621
+Profit Margins: -0.04025
+Free Cashflow: -9106051
+Operating Cashflow: 28373088
+Return On Assets: -0.03146
+Return On Equity: -0.06955
+Total Cash: 10563146
+Total Debt: 38071532
+Debt To Equity: 32.14
+Current Ratio: 0.692
+Quick Ratio: 0.297
+Trailing PE: 
+Forward PE: 3.060606
+Price To Book: 0.73722625
+Beta: 1.309
+52 Week High: 1.25
+52 Week Low: 0.57

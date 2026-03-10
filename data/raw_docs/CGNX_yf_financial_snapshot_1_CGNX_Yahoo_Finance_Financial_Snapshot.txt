@@ -1,0 +1,25 @@
+Company: Cognex Corporation Common Stock
+Ticker: CGNX
+Market Cap: 8194256896
+Enterprise Value: 8232155136
+Total Revenue: 994358976
+Revenue Per Share: 5.917
+EBITDA: 193359008
+Gross Margins: 0.66917
+Operating Margins: 0.1398
+Profit Margins: 0.11509
+Free Cashflow: 190512752
+Operating Cashflow: 245514000
+Return On Assets: 0.050679997
+Return On Equity: 0.07606
+Total Cash: 336961984
+Total Debt: 76586000
+Debt To Equity: 5.133
+Current Ratio: 3.799
+Quick Ratio: 2.749
+Trailing PE: 72.72059
+Forward PE: 32.45922
+Price To Book: 5.5350347
+Beta: 1.47
+52 Week High: 59.88
+52 Week Low: 22.67

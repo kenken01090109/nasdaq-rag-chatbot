@@ -1,0 +1,10 @@
+Company: Lantern Pharma Inc. Common Stock
+Ticker: LTRN
+CIK: 0001763950
+Latest SEC XBRL Facts:
+NetIncomeLoss: -13045221 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 13626810 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4039972 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 9586838 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12884867 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8389486 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

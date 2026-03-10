@@ -1,0 +1,11 @@
+Company: Elong Power Holding Limited Class A Ordinary Shares
+Ticker: ELPW
+CIK: 0002015691
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 214039 | unit=USD | filed=2025-11-10 | period_end=2025-06-30
+NetIncomeLoss: -2655477 | unit=USD | filed=2025-11-10 | period_end=2025-06-30
+Assets: 27187528 | unit=USD | filed=2025-11-10 | period_end=2025-06-30
+Liabilities: 46584492 | unit=USD | filed=2025-11-10 | period_end=2025-06-30
+StockholdersEquity: -19396964 | unit=USD | filed=2025-11-10 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1609906 | unit=USD | filed=2025-11-10 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 74623 | unit=USD | filed=2025-11-10 | period_end=2025-06-30

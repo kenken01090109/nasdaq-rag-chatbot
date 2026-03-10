@@ -1,0 +1,11 @@
+Company: Forward Industries Inc. Common Stock
+Ticker: FWDI
+CIK: 0000038264
+Latest SEC XBRL Facts:
+Revenues: 21435250 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -585651086 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 892946117 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 12084535 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 880861582 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -7929151 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 5235202 | unit=USD | filed=2016-08-12 | period_end=2016-06-30

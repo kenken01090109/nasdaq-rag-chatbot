@@ -1,0 +1,10 @@
+Company: Adamas Trust Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+Ticker: ADAMM
+Market Cap: 
+Enterprise Value: 13644744704
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.5937245
+Beta: 1.144
+52 Week High: 25.5
+52 Week Low: 22.5

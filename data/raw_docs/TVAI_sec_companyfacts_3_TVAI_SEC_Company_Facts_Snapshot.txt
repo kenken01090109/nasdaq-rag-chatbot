@@ -1,0 +1,10 @@
+Company: Thayer Ventures Acquisition Corporation II Class A Ordinary Shares
+Ticker: TVAI
+CIK: 0001872228
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2297662 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 205092344 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 8505167 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7789563 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 877178 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

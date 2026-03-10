@@ -1,0 +1,10 @@
+Company: MDB Capital Holdings LLC Class A common
+Ticker: MDBH
+CIK: 0001934642
+Latest SEC XBRL Facts:
+NetIncomeLoss: -19491804 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 61511325 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1880125 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 59737268 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5323638 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15094286 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

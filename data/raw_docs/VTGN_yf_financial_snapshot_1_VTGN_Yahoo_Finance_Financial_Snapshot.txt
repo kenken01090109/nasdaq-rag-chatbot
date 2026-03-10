@@ -1,0 +1,25 @@
+Company: Vistagen Therapeutics Inc. Common Stock
+Ticker: VTGN
+Market Cap: 24077266
+Enterprise Value: -36265732
+Total Revenue: 789000
+Revenue Per Share: 0.022
+EBITDA: -69717000
+Gross Margins: 1.0
+Operating Margins: -64.508255
+Profit Margins: 0.0
+Free Cashflow: -36167000
+Operating Cashflow: -60298000
+Return On Assets: -0.55527997
+Return On Equity: -1.01553
+Total Cash: 61770000
+Total Debt: 1427000
+Debt To Equity: 2.802
+Current Ratio: 4.675
+Quick Ratio: 4.566
+Trailing PE: 
+Forward PE: -0.5366004
+Price To Book: 0.4729183
+Beta: 0.327
+52 Week High: 5.14
+52 Week Low: 0.43

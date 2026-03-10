@@ -1,0 +1,12 @@
+Company: Red Robin Gourmet Burgers Inc. Common Stock
+Ticker: RRGB
+CIK: 0001171759
+Latest SEC XBRL Facts:
+Revenues: 1315014000 | unit=USD | filed=2020-02-25 | period_end=2019-12-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 941182000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05
+NetIncomeLoss: -13177000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05
+Assets: 574219000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05
+Liabilities: 670309000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05
+StockholdersEquity: -96090000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05
+NetCashProvidedByUsedInOperatingActivities: 26003000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05
+CashAndCashEquivalentsAtCarryingValue: 21671000 | unit=USD | filed=2025-11-10 | period_end=2025-10-05

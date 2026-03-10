@@ -1,0 +1,9 @@
+Company: Sangamo Therapeutics Inc. Common Stock
+Ticker: SGMO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Richmond
+Website: https://www.sangamo.com
+Employees: 183
+Business Summary: Sangamo Therapeutics, Inc., a clinical-stage genomic medicine company, focuses on translating science into medicines that transform the lives of patients and families afflicted with serious diseases in the United States. The company's clinical-stage product candidates are ST-920, a gene therapy product candidate, which is in Phase 1/2 clinical study for the treatment of Fabry disease; TX200, a chimeric antigen receptor engineered regulatory T cell (CAR-Treg) therapy product candidate that is in Phase 1/2 clinical study for the prevention of immune-mediated rejection in HLA-A2 mismatched kidney transplantation; and SB-525, a gene therapy product candidate, which is in Phase 3 clinical trial for the treatment of moderately severe to severe hemophilia A. Its preclinical development products focus on tauopathies, ALS/FTD, and huntington's diseases Sangamo Therapeutics, Inc. has collaborative and strategic partnerships with Biogen MA, Inc.; Kite Pharma, Inc.; Pfizer Inc.; Sanofi S.A.; Novartis Institutes for BioMedical Research, Inc.; Shire International GmbH; Dow AgroSciences LLC; Sigma-Aldrich Corporation; Genentech, Inc.; and Open Monoclonal Technology, Inc. The company was formerly known as Sangamo BioSciences, Inc. and changed its name to Sangamo Therapeutics, Inc. in January 2017. The company was incorporated in 1995 and is headquartered in Richmond, California.

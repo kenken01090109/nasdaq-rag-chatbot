@@ -1,0 +1,25 @@
+Company: Freshworks Inc. Class A Common Stock
+Ticker: FRSH
+Market Cap: 2452086784
+Enterprise Value: 1713218688
+Total Revenue: 838809024
+Revenue Per Share: 2.882
+EBITDA: 32057000
+Gross Margins: 0.84961
+Operating Margins: 0.17839001
+Profit Margins: 0.21903
+Free Cashflow: 160126256
+Operating Cashflow: 242370000
+Return On Assets: 0.00529
+Return On Equity: 0.16929
+Total Cash: 781371008
+Total Debt: 42503000
+Debt To Equity: 4.116
+Current Ratio: 2.203
+Quick Ratio: 1.875
+Trailing PE: 13.698413
+Forward PE: 12.479935
+Price To Book: 2.3689268
+Beta: 0.928
+52 Week High: 16.48
+52 Week Low: 6.79

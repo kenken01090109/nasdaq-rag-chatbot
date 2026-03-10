@@ -1,0 +1,12 @@
+Company: Daktronics Inc. Common Stock
+Ticker: DAKT
+CIK: 0000915779
+Latest SEC XBRL Facts:
+Revenues: 271011000 | unit=USD | filed=2020-12-03 | period_end=2020-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 630096000 | unit=USD | filed=2026-03-04 | period_end=2026-01-31
+NetIncomeLoss: 36961000 | unit=USD | filed=2026-03-04 | period_end=2026-01-31
+Assets: 546376000 | unit=USD | filed=2026-03-04 | period_end=2026-01-31
+Liabilities: 176774000 | unit=USD | filed=2018-08-24 | period_end=2018-07-28
+StockholdersEquity: 293738000 | unit=USD | filed=2026-03-04 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 54322000 | unit=USD | filed=2026-03-04 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 144424000 | unit=USD | filed=2026-03-04 | period_end=2026-01-31

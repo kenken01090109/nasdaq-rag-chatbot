@@ -1,0 +1,9 @@
+Company: iQIYI Inc. American Depositary Shares
+Ticker: IQ
+Sector: Communication Services
+Industry: Entertainment
+Country: China
+City: Beijing
+Website: https://www.iqiyi.com
+Employees: 
+Business Summary: iQIYI, Inc., through its subsidiaries, provides online entertainment video services in the People's Republic of China. The company offers various products and services, including online video, online games, online literature, comics, and others. It operates a platform that provides a collection of internet video content, such as professionally produced content licensed from professional content providers and self-produced content. The company also offers membership, online advertising, and content distribution services. In addition, it is involved in the talent agency and IP licensing activities. The company was formerly known as Qiyi.com, Inc. and changed its name to iQIYI, Inc. in November 2017. iQIYI, Inc. was incorporated in 2009 and is based in Beijing, the People's Republic of China. iQIYI, Inc. operates as a subsidiary of Baidu Holdings Limited.

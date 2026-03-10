@@ -1,0 +1,9 @@
+Company: Contineum Therapeutics Inc. Class A Common Stock
+Ticker: CTNM
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.contineum-tx.com
+Employees: 41
+Business Summary: Contineum Therapeutics, Inc., a clinical stage biopharmaceutical company, engages in developing of small molecules different therapies for neuroscience, inflammation, and immunology indications with high unmet need in the United States. The company's lead asset is PIPE-791, a novel, brain penetrant, small molecule inhibitor of the lysophosphatidic acid 1 receptor (LPA1R) for the treatment of idiopathic pulmonary fibrosis, progressive multiple sclerosis, and chronic pain. It also develops PIPE-307, a novel, small molecule selective inhibitor of the muscarinic type 1 M1 receptor which is in Phase 2 clinical trial to treat depression and relapse remitting MS; and CTX-343, a peripherally restricted LPA1R antagonist which is a brain penetrant drug candidate. The company was formerly known as Pipeline Therapeutics, Inc. and changed its name to Contineum Therapeutics, Inc. in November 2023. Contineum Therapeutics, Inc. was incorporated in 2009 and is headquartered in San Diego, California.

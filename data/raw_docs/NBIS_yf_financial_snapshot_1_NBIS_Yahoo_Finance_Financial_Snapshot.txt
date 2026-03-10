@@ -1,0 +1,25 @@
+Company: Nebius Group N.V. Class A Ordinary Shares
+Ticker: NBIS
+Market Cap: 22602006528
+Enterprise Value: 25411172352
+Total Revenue: 529800000
+Revenue Per Share: 2.094
+EBITDA: -192200000
+Gross Margins: 0.6863
+Operating Margins: -1.02986
+Profit Margins: 0.19195999
+Free Cashflow: -3610350080
+Operating Cashflow: 384800000
+Return On Assets: -0.04658
+Return On Equity: 0.00737
+Total Cash: 3678099968
+Total Debt: 4888200192
+Debt To Equity: 105.961
+Current Ratio: 3.084
+Quick Ratio: 2.965
+Trailing PE: 812.09094
+Forward PE: -63.53485
+Price To Book: 4.8993583
+Beta: 1.16
+52 Week High: 141.1
+52 Week Low: 18.31

@@ -1,0 +1,12 @@
+Company: Goosehead Insurance Inc. Class A Common Stock
+Ticker: GSHD
+CIK: 0001726978
+Latest SEC XBRL Facts:
+Revenues: 260046000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2026-02-19 | period_end=2024-12-31
+NetIncomeLoss: 15400000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 403596000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 574316000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: -104978000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 68605000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 51587000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: CPI Card Group Inc. Common Stock
+Ticker: PMTS
+Market Cap: 176734592
+Enterprise Value: 466671680
+Total Revenue: 543534016
+Revenue Per Share: 47.985
+EBITDA: 77302000
+Gross Margins: 0.31294
+Operating Margins: 0.09275
+Profit Margins: 0.027509999
+Free Cashflow: 23409376
+Operating Cashflow: 59504000
+Return On Assets: 0.09106
+Return On Equity: 
+Total Cash: 21700000
+Total Debt: 286668000
+Debt To Equity: 
+Current Ratio: 2.437
+Quick Ratio: 1.393
+Trailing PE: 12.933333
+Forward PE: 4.4855494
+Price To Book: -10.257767
+Beta: 
+52 Week High: 31.85
+52 Week Low: 10.81

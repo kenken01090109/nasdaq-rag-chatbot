@@ -1,0 +1,10 @@
+Company: Ascentage Pharma Group International American Depository Shares
+Ticker: AAPG
+Market Cap: 2087107200
+Enterprise Value: 7733120000
+Trailing PE: 
+Forward PE: -46.40762
+Price To Book: 79.40862
+Beta: 0.869
+52 Week High: 48.45
+52 Week Low: 17.555

@@ -1,0 +1,9 @@
+Company: Coeptis Therapeutics Holdings Inc. Common Stock
+Ticker: COEP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Wexford
+Website: https://coeptistx.com
+Employees: 5
+Business Summary: Coeptis Therapeutics Holdings, Inc., together with its subsidiaries, operates as a biopharmaceutical company. The company is developing cell therapy platforms for cancer, autoimmune, and infectious diseases. Its product portfolio and rights are licensed from Deverra Therapeutics, including an allogeneic cellular immunotherapy platform; and DVX201, a clinical-stage, natural killer cell therapy technology. Its product pipeline consists of CD38-GEAR-NK, a cell therapy for the treatment of CD38-related cancers, including multiple myeloma, chronic lymphocytic leukemia, and acute myeloid leukemia; CD38-Diagnostic, an in vitro screening tool to analyze if cancer patients might be appropriate candidates for anti-CD38 mAb therapy; and SNAP-CAR, a CAR T cell therapy platform co-administered with tagged, tumor-specific antibodies to potentially target different tumor types, including hematological and solid tumors. In addition, the company offers its drugs for acute myeloid leukemia and acute respiratory diseases. Coeptis Therapeutics Holdings, Inc. has co-development agreement Vici Health Sciences, LLC to co-develop and share ownership rights to CPT60621 for the treatment of Parkinson's Disease. The company was founded in 2017 and is headquartered in Wexford, Pennsylvania.

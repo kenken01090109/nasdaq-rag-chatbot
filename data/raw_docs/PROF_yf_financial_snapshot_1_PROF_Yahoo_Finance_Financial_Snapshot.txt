@@ -1,0 +1,25 @@
+Company: Profound Medical Corp. Common Stock
+Ticker: PROF
+Market Cap: 192715680
+Enterprise Value: 206081008
+Total Revenue: 14297000
+Revenue Per Share: 0.492
+EBITDA: -41541000
+Gross Margins: 0.72490996
+Operating Margins: -1.6852001
+Profit Margins: -2.75177
+Free Cashflow: -23121750
+Operating Cashflow: -37520000
+Return On Assets: -0.62441003
+Return On Equity: -1.24486
+Total Cash: 24826000
+Total Debt: 4757000
+Debt To Equity: 14.799
+Current Ratio: 4.178
+Quick Ratio: 3.32
+Trailing PE: 
+Forward PE: -6.8737864
+Price To Book: 4.985915
+Beta: 0.387
+52 Week High: 8.95
+52 Week Low: 3.76

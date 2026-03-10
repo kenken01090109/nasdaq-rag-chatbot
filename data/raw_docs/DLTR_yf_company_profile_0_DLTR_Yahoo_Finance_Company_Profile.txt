@@ -1,0 +1,9 @@
+Company: Dollar Tree Inc. Common Stock
+Ticker: DLTR
+Sector: Consumer Defensive
+Industry: Discount Stores
+Country: United States
+City: Chesapeake
+Website: https://www.dollartree.com
+Employees: 64434
+Business Summary: Dollar Tree, Inc. operates retail discount stores under the Dollar Tree and Dollar Tree Canada brands in the United States and Canada. The company offers consumable merchandise comprising everyday consumables, such as household paper and chemicals, food, candy, health, personal care products, and frozen and refrigerated food; variety merchandise consisting of toys, durable housewares, gifts, stationery, party goods, greeting cards, softlines, arts and crafts supplies, and other items; and seasonal goods, including Christmas, Easter, Halloween, and Valentine's Day merchandise. Dollar Tree, Inc. was founded in 1986 and is based in Chesapeake, Virginia.

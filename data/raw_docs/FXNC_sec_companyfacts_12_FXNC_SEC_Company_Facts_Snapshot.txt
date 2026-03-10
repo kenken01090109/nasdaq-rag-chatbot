@@ -1,0 +1,11 @@
+Company: First National Corporation Common Stock
+Ticker: FXNC
+CIK: 0000719402
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1830000 | unit=USD | filed=2019-05-09 | period_end=2019-03-31
+NetIncomeLoss: 12199000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 2030754000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1849545000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 181209000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 16665000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 189317000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

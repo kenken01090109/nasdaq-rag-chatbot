@@ -1,0 +1,12 @@
+Company: Cal-Maine Foods Inc. Common Stock
+Ticker: CALM
+CIK: 0000016160
+Latest SEC XBRL Facts:
+Revenues: 999189000 | unit=USD | filed=2021-03-29 | period_end=2021-02-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 1692100000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+NetIncomeLoss: 302099000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+Assets: 3144064000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+Liabilities: 446298000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+StockholdersEquity: 2691461000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+NetCashProvidedByUsedInOperatingActivities: 373357000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+CashAndCashEquivalentsAtCarryingValue: 369450000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29

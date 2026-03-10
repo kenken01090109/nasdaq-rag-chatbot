@@ -1,0 +1,9 @@
+Company: Cypherpunk Technologies Inc. Common Stock
+Ticker: CYPH
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Cambridge
+Website: https://www.leaptx.com
+Employees: 52
+Business Summary: Cypherpunk Technologies Inc., a biopharmaceutical company, acquires and develops antibody therapies for the treatment of cancer. Its lead clinical stage drug candidate includes DKN-01, a monoclonal antibody that inhibits Dickkopf-related protein 1, which is in various ongoing clinical trials for treating esophagogastric and gynecologic cancers, and colorectal cancer. The company also develops FL-501, a monoclonal antibody that inhibits GDF-15 protein that is in preclinical trial. It has an option and license agreement with Adimab, LLC and BeiGene, Ltd. to develop and commercialize DKN-01 in Asia (excluding Japan), Australia, and New Zealand. The company was formerly known as Leap Therapeutics, Inc. and changed its name to Cypherpunk Technologies Inc. in November 2025. The company was incorporated in 2011 and is based in Cambridge, Massachusetts.

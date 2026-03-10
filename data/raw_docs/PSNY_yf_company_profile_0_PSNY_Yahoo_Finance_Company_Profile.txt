@@ -1,0 +1,9 @@
+Company: Polestar Automotive Holding UK PLC Class A ADS
+Ticker: PSNY
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: Sweden
+City: Gothenburg
+Website: https://www.polestar.com
+Employees: 2547
+Business Summary: Polestar Automotive Holding UK PLC engages in the research and development, marketing, commercialization, and sale of battery electric vehicles and related technology solutions. The company offers battery electric vehicles, including Polestar 2 (PS2), a fast-back sedan; Polestar 3 (PS3), an aero sport-utility vehicle; Polestar 4 (PS4), a sport utility vehicle; Polestar 5 (PS5), a sport grand-touring sedan; and Polestar 6 (PS6), a roadster. It also provides vehicle accessories; software and performance engineered kits; and carbon credits, as well as vehicle leasing. The company was founded in 2017 and is headquartered in Gothenburg, Sweden.

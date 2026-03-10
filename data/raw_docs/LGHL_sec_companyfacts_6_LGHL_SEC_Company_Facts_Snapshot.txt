@@ -1,0 +1,12 @@
+Company: Lion Group Holding Ltd. American Depositary Share
+Ticker: LGHL
+CIK: 0001806524
+Latest SEC XBRL Facts:
+Revenues: 7096522 | unit=USD | filed=2025-03-07 | period_end=2024-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3586572 | unit=USD | filed=2022-12-02 | period_end=2022-06-30
+NetIncomeLoss: -7579465 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 46888129 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 42457495 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 7831941 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -529422 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 22871940 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

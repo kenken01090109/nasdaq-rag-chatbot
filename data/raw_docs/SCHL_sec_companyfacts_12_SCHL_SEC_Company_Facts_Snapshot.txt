@@ -1,0 +1,11 @@
+Company: Scholastic Corporation Common Stock
+Ticker: SCHL
+CIK: 0000866729
+Latest SEC XBRL Facts:
+Revenues: 898900000 | unit=USD | filed=2021-03-19 | period_end=2021-02-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 776700000 | unit=USD | filed=2025-12-19 | period_end=2025-11-30
+NetIncomeLoss: -15200000 | unit=USD | filed=2025-12-19 | period_end=2025-11-30
+Assets: 1994400000 | unit=USD | filed=2025-12-19 | period_end=2025-11-30
+StockholdersEquity: 997600000 | unit=USD | filed=2024-03-22 | period_end=2024-02-29
+NetCashProvidedByUsedInOperatingActivities: -8600000 | unit=USD | filed=2025-12-19 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 99300000 | unit=USD | filed=2025-12-19 | period_end=2025-11-30

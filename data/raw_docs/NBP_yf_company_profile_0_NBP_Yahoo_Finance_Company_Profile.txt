@@ -1,0 +1,9 @@
+Company: NovaBridge Biosciences American Depositary Shares
+Ticker: NBP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Rockville
+Website: https://www.novabridge.com
+Employees: 32
+Business Summary: NovaBridge Biosciences, a biotech company, focuses on the development of immuno-oncology agents for the treatment of cancer in the United States. The company is developing givastomig, a bispecific antibody, which is in Phase 1b clinical trial for the treatment of gastric cancer; uliledlimab, a CD73 neutralizing antibody; and ragistomig, a bispecific antibody, which is in phase 1 clinical trial for the treatment of solid tumors. It has a strategic licensing agreement with Ferring International Center SA to research, develop, make, have made, import, use, sell, and offer to sell FE301, an interleukin-6 inhibitor. The company also has collaborations with Bristol Myers Squibb for the development of givastomig; ABL Bio, Inc. for the development of givastomig and ragistomig; and TJ Bio for the development of uliledlimab. The company was formerly known as I-Mab and change its name to NovaBridge Biosciences in October 2025. NovaBridge Biosciences was founded in 2014 and is headquartered in Rockville, Maryland.

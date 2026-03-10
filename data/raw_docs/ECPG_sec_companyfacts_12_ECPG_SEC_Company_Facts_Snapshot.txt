@@ -1,0 +1,12 @@
+Company: Encore Capital Group Inc Common Stock
+Ticker: ECPG
+CIK: 0001084961
+Latest SEC XBRL Facts:
+Revenues: 1295250000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 67022000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 180177000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 5257943000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 4305029000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 988127000 | unit=USD | filed=2024-08-07 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: 136388000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 172488000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

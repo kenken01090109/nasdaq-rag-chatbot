@@ -1,0 +1,25 @@
+Company: Alumis Inc. Common Stock
+Ticker: ALMS
+Market Cap: 3354185216
+Enterprise Value: 2468255488
+Total Revenue: 22121000
+Revenue Per Share: 0.305
+EBITDA: -439332000
+Gross Margins: 1.0
+Operating Margins: -53.72314
+Profit Margins: 0.0
+Free Cashflow: -190766128
+Operating Cashflow: -372380000
+Return On Assets: -0.61458
+Return On Equity: -0.66876
+Total Cash: 377724000
+Total Debt: 37797000
+Debt To Equity: 9.823
+Current Ratio: 6.012
+Quick Ratio: 5.83
+Trailing PE: 
+Forward PE: -8.467987
+Price To Book: 7.295904
+Beta: 
+52 Week High: 30.6
+52 Week Low: 2.76

@@ -1,0 +1,9 @@
+Company: Polyrizon Ltd. Ordinary Shares
+Ticker: PLRZ
+CIK: 0001893645
+Latest SEC XBRL Facts:
+NetIncomeLoss: -177000 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+Assets: 18739000 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+StockholdersEquity: 18375000 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1821000 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 15828000 | unit=USD | filed=2025-09-17 | period_end=2025-06-30

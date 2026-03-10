@@ -1,0 +1,25 @@
+Company: Richtech Robotics Inc. Class B Common Stock
+Ticker: RR
+Market Cap: 527686464
+Enterprise Value: 213168256
+Total Revenue: 4935000
+Revenue Per Share: 0.033
+EBITDA: -23696000
+Gross Margins: 0.55826
+Operating Margins: -10.29555
+Profit Margins: 0.0
+Free Cashflow: 133000
+Operating Cashflow: -7049000
+Return On Assets: -0.08063
+Return On Equity: -0.106300004
+Total Cash: 328494016
+Total Debt: 607000
+Debt To Equity: 0.179
+Current Ratio: 35.735
+Quick Ratio: 35.498
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4880202
+Beta: -3.158
+52 Week High: 7.43
+52 Week Low: 1.37

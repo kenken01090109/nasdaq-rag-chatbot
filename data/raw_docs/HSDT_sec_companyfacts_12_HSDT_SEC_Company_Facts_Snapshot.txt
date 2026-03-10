@@ -1,0 +1,12 @@
+Company: Solana Company Class A Common Stock (DE)
+Ticker: HSDT
+CIK: 0001610853
+Latest SEC XBRL Facts:
+Revenues: 789000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 71000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetIncomeLoss: -366441000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 475920000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 628312000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: -152392000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10337000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 124051000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

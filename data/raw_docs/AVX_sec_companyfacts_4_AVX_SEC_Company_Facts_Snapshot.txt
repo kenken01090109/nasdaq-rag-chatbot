@@ -1,0 +1,12 @@
+Company: Avax One Technology Ltd. Common Shares
+Ticker: AVX
+CIK: 0001826397
+Latest SEC XBRL Facts:
+Revenues: 1251124 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1251124 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -16557023 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 16509585 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 4359046 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 12150539 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5434274 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 894701 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Neumora Therapeutics Inc. Common Stock
+Ticker: NMRA
+CIK: 0001885522
+Latest SEC XBRL Facts:
+NetIncomeLoss: -177478000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 177833000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 45672000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 132161000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -158485000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 129071000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

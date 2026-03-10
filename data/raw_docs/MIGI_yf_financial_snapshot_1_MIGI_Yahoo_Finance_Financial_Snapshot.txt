@@ -1,0 +1,25 @@
+Company: Mawson Infrastructure Group Inc. Common Stock
+Ticker: MIGI
+Market Cap: 3178262
+Enterprise Value: 28200676
+Total Revenue: 51587944
+Revenue Per Share: 52.482
+EBITDA: -4148136
+Gross Margins: 0.44731
+Operating Margins: 0.21101
+Profit Margins: -0.24280001
+Free Cashflow: -1922076
+Operating Cashflow: -2977324
+Return On Assets: -0.11253
+Return On Equity: 
+Total Cash: 2276656
+Total Debt: 27276206
+Debt To Equity: 
+Current Ratio: 0.353
+Quick Ratio: 0.268
+Trailing PE: 
+Forward PE: 30.888887
+Price To Book: -0.30919808
+Beta: 4.184
+52 Week High: 40.0
+52 Week Low: 2.01

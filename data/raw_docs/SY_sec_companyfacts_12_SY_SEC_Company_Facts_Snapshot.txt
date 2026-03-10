@@ -1,0 +1,11 @@
+Company: So-Young International Inc. American Depository Shares
+Ticker: SY
+CIK: 0001758530
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1151637000 | unit=CNY | filed=2020-04-27 | period_end=2019-12-31
+NetIncomeLoss: -80764000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Assets: 374715000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Liabilities: 106369000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+StockholdersEquity: 251960000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -3510000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 80521000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31

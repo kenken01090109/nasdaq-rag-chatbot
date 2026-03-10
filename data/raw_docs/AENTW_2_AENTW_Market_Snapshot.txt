@@ -1,0 +1,10 @@
+Company: Alliance Entertainment Holding Corporation Warrant
+Ticker: AENTW
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.29042047
+Beta: 0.513
+52 Week High: 0.67
+52 Week Low: 0.6043

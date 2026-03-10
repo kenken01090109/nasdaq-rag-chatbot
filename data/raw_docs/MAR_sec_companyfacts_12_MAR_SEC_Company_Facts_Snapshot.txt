@@ -1,0 +1,10 @@
+Company: Marriott International Class A Common Stock
+Ticker: MAR
+CIK: 0001048286
+Latest SEC XBRL Facts:
+Revenues: 19496000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 2156000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 27833000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -3119000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2383000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 678000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

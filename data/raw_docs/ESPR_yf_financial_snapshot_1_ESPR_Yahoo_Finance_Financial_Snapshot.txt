@@ -1,0 +1,25 @@
+Company: Esperion Therapeutics Inc. Common Stock
+Ticker: ESPR
+Market Cap: 650252544
+Enterprise Value: 1165219840
+Total Revenue: 303801984
+Revenue Per Share: 1.538
+EBITDA: -29274000
+Gross Margins: 0.43416
+Operating Margins: -0.11407
+Profit Margins: -0.34835997
+Free Cashflow: -78274248
+Operating Cashflow: -93288000
+Return On Assets: -0.05416
+Return On Equity: 
+Total Cash: 92447000
+Total Debt: 600985024
+Debt To Equity: 
+Current Ratio: 1.004
+Quick Ratio: 0.589
+Trailing PE: 
+Forward PE: 21.25
+Price To Book: -1.2380519
+Beta: 1.111
+52 Week High: 4.18
+52 Week Low: 0.69

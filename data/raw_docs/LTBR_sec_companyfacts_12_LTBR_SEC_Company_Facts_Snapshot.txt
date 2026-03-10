@@ -1,0 +1,11 @@
+Company: Lightbridge Corporation Common Stock
+Ticker: LTBR
+CIK: 0001084554
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-05-12 | period_end=2025-03-31
+NetIncomeLoss: -12390691 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 155065765 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1389124 | unit=USD | filed=2018-11-09 | period_end=2018-09-30
+StockholdersEquity: 153505668 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8115197 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29235892 | unit=USD | filed=2023-10-31 | period_end=2023-09-30

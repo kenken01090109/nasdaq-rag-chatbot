@@ -1,0 +1,25 @@
+Company: Aspire Biopharma Holdings Inc. Common Stock
+Ticker: ASBP
+Market Cap: 5828004
+Enterprise Value: 10196349
+Total Revenue: 1941
+Revenue Per Share: 0.002
+EBITDA: 
+Gross Margins: 0.45543998
+Operating Margins: -590.15814
+Profit Margins: 0.0
+Free Cashflow: 16946968
+Operating Cashflow: -3516078
+Return On Assets: -1.9511399
+Return On Equity: 
+Total Cash: 1948271
+Total Debt: 8624743
+Debt To Equity: 
+Current Ratio: 0.173
+Quick Ratio: 0.141
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.12524292
+Beta: 0.885
+52 Week High: 36.48
+52 Week Low: 1.14

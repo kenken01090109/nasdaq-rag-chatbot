@@ -1,0 +1,9 @@
+Company: Northeast Bank Common Stock
+Ticker: NBN
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Portland
+Website: https://www.northeastbank.com
+Employees: 211
+Business Summary: Northeast Bank provides various banking services to individual and corporate customers in Maine. The company's deposit products include demand deposit, NOW, money market, savings, certificate of deposit, and checking accounts. Its loan portfolio comprises residential mortgage loans; multi-family and other commercial real estate loans; commercial and industrial loans, such as term loans, lines of credit and equipment, and receivables financing; and consumer loans, including mobile home and overdraft, and deposit-secured loans. The company also provides telephone banking, online banking and bill payment, mobile banking, and remote deposit capture services, as well as debit and credit card, ATM, electronic transfer, and check services. Northeast Bank was founded in 1872 and is headquartered in Portland, Maine.

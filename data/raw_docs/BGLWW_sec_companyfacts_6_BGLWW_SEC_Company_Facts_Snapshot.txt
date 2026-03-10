@@ -1,0 +1,10 @@
+Company: Blue Gold Limited Warrant
+Ticker: BGLWW
+CIK: 0002019435
+Latest SEC XBRL Facts:
+NetIncomeLoss: -7835939 | unit=USD | filed=2025-10-21 | period_end=2025-06-30
+Assets: 33792559 | unit=USD | filed=2025-10-21 | period_end=2025-06-30
+Liabilities: 48323667 | unit=USD | filed=2025-10-21 | period_end=2025-06-30
+StockholdersEquity: -14531108 | unit=USD | filed=2025-10-21 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4499012 | unit=USD | filed=2025-10-21 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 307699 | unit=USD | filed=2025-10-21 | period_end=2025-06-30

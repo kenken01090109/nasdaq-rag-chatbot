@@ -1,0 +1,25 @@
+Company: Ekso Bionics Holdings Inc. Common Stock
+Ticker: EKSO
+Market Cap: 40551276
+Enterprise Value: 41710080
+Total Revenue: 12799000
+Revenue Per Share: 5.276
+EBITDA: -11003000
+Gross Margins: 0.53481
+Operating Margins: -1.19713
+Profit Margins: -0.91374
+Free Cashflow: -4496125
+Operating Cashflow: -11801000
+Return On Assets: -0.33616
+Return On Equity: -1.07619
+Total Cash: 1169000
+Total Debt: 4644000
+Debt To Equity: 51.446
+Current Ratio: 1.627
+Quick Ratio: 0.982
+Trailing PE: 
+Forward PE: -59.894737
+Price To Book: 4.487382
+Beta: 0.837
+52 Week High: 13.274
+52 Week Low: 2.73

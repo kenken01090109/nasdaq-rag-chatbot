@@ -1,0 +1,11 @@
+Company: PLAYSTUDIOS Inc. Warrant
+Ticker: MYPSW
+CIK: 0001823878
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 179695000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -14946000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 299153000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 60228000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 238925000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22601000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 106320000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

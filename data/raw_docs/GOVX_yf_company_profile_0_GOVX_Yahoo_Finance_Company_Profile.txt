@@ -1,0 +1,9 @@
+Company: GeoVax Labs Inc. Common Stock
+Ticker: GOVX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Smyrna
+Website: https://www.geovax.com
+Employees: 17
+Business Summary: GeoVax Labs, Inc., a clinical-stage biotechnology company, develops human vaccines and immunotherapies against infectious diseases and solid tumor cancers using novel proprietary platforms in the United States. The company is developing various preventive vaccines against (COVID-19), human immunodeficiency virus (HIV); Zika virus; malaria; and hemorrhagic fever viruses, such as Ebola, Sudan, Marburg, and Lassa, as well as therapeutic vaccines for HIV, chronic Hepatitis B infections, and solid tumor cancers. It also developing GEO-CM04S1, a vaccine candidate that is in Phase 2 clinical trial for the treatment of preventive COVID-19; Gedeptin, a novel patented product/technology for the treatment of solid tumors, and Phase 1/2 clinical trial for the treatment of advanced head and neck squamous cell carcinoma; and GEO-CM02, a pan-coronavirus vaccine. In addition, the company offers GEO-MVA-MUC1, a vaccine candidate, which is in preclinical trial for the treatment of solid tumor cancers; GEO-ZM02, a vaccine candidate, which is in preclinical trial for the treatment of Zika; GEO-EMO1-Z, which is in preclinical trial for the treatment of Ebola Zaire; GEO-EMO1-S, which is in preclinical trial for the treatment of Ebola Sudan; GEO-MM01 treatment for marburg; and GEO-MVA for the treatment of Mpox and small pox. It has collaboration and partnership agreements with the National Institute of Allergy and Infectious Diseases of the National Institutes of Health; U.S. Department of Defense; and the Burnet Institute. GeoVax Labs, Inc. was incorporated in 1988 and is headquartered in Smyrna, Georgia.

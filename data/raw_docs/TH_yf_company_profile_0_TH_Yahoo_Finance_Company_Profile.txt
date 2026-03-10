@@ -1,0 +1,9 @@
+Company: Target Hospitality Corp. Common Stock
+Ticker: TH
+Sector: Industrials
+Industry: Specialty Business Services
+Country: United States
+City: The Woodlands
+Website: https://www.targethospitality.com
+Employees: 770
+Business Summary: Target Hospitality Corp. operates as a specialty rental and hospitality services company in North America. It operates in two segments, Hospitality & Facilities Services - South and Government. The company owns a network of specialty rental accommodation units. It also provides catering and food, maintenance, housekeeping, grounds-keeping, security, health and recreation facilities, workforce community management, concierge, and laundry services. It serves the U.S. government contractors and investment grade natural resource development companies. Target Hospitality Corp. was founded in 1978 and is headquartered in The Woodlands, Texas.

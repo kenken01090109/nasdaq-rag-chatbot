@@ -1,0 +1,25 @@
+Company: DMC Global Inc. Common Stock
+Ticker: BOOM
+Market Cap: 111806328
+Enterprise Value: 357206528
+Total Revenue: 609840000
+Revenue Per Share: 30.627
+EBITDA: 40079000
+Gross Margins: 0.22178
+Operating Margins: -0.069070004
+Profit Margins: -0.022060001
+Free Cashflow: 43482124
+Operating Cashflow: 53534000
+Return On Assets: 0.00585
+Return On Equity: -0.027090002
+Total Cash: 31898000
+Total Debt: 90786000
+Debt To Equity: 21.156
+Current Ratio: 2.505
+Quick Ratio: 1.099
+Trailing PE: 
+Forward PE: 14.675675
+Price To Book: 0.4602865
+Beta: 1.658
+52 Week High: 9.2
+52 Week Low: 5.41

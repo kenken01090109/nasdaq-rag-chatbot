@@ -1,0 +1,11 @@
+Company: BuzzFeed Inc. Class A Common Stock
+Ticker: BZFD
+CIK: 0001828972
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 128732000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -30926000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 211211000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 134555000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 75866000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7019000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34292000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

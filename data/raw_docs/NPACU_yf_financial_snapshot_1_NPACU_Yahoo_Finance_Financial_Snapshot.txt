@@ -1,0 +1,25 @@
+Company: New Providence Acquisition Corp. III Units
+Ticker: NPACU
+Market Cap: 
+Enterprise Value: 399114368
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -372240
+Return On Assets: 
+Return On Equity: 
+Total Cash: 918036
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.335
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -34.2671
+Beta: 
+52 Week High: 10.873
+52 Week Low: 9.98

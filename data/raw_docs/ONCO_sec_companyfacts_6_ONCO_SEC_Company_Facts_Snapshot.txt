@@ -1,0 +1,12 @@
+Company: Onconetix Inc. Common Stock
+Ticker: ONCO
+CIK: 0001782107
+Latest SEC XBRL Facts:
+Revenues: 511775 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1812140 | unit=USD | filed=2024-12-10 | period_end=2024-09-30
+NetIncomeLoss: -19702029 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 19678868 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 16303023 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 33911843 | unit=USD | filed=2024-12-10 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -6587805 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29136716 | unit=USD | filed=2022-11-14 | period_end=2022-09-30

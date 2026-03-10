@@ -1,0 +1,25 @@
+Company: Flex Ltd. Ordinary Shares
+Ticker: FLEX
+Market Cap: 22154139648
+Enterprise Value: 25311971328
+Total Revenue: 26834999296
+Revenue Per Share: 71.656
+EBITDA: 1978000000
+Gross Margins: 0.09268
+Operating Margins: 0.05667
+Profit Margins: 0.03175
+Free Cashflow: 934499968
+Operating Cashflow: 1704999936
+Return On Assets: 0.04531
+Return On Equity: 0.1685
+Total Cash: 3056999936
+Total Debt: 5017999872
+Debt To Equity: 97.989
+Current Ratio: 1.396
+Quick Ratio: 0.716
+Trailing PE: 26.86547
+Forward PE: 16.413115
+Price To Book: 4.3007894
+Beta: 1.248
+52 Week High: 72.22
+52 Week Low: 25.11

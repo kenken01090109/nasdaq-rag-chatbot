@@ -1,0 +1,9 @@
+Company: Barfresh Food Group Inc. Common Stock
+Ticker: BRFH
+Sector: Consumer Defensive
+Industry: Beverages - Non-Alcoholic
+Country: United States
+City: Los Angeles
+Website: https://www.barfresh.com
+Employees: 11
+Business Summary: Barfresh Food Group, Inc., together with its subsidiaries, manufactures and distributes ready-to-drink and ready-to-blend frozen beverages in the United States. The company offers smoothies, shakes, and frappes. It provides ready-to-drink smoothies under the Twist & Go name; a no sugar added version of the bulk format products under the Easy Pour name; juice concentrates under the WHIRLZ name; and ready-to-eat juice pop under the Pop & Go name. The company distributes its products primarily through distributors to school districts and institutional customers. Barfresh Food Group, Inc. was founded in 2009 and is headquartered in Los Angeles, California.

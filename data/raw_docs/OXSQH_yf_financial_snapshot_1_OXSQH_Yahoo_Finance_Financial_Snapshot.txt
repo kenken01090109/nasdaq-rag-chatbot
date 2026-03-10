@@ -1,0 +1,25 @@
+Company: Oxford Square Capital Corp. 7.75% Notes due 2030
+Ticker: OXSQH
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 40243556
+Revenue Per Share: 0.582
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.78272
+Profit Margins: -0.033469997
+Free Cashflow: 5713792
+Operating Cashflow: 3376209
+Return On Assets: 0.07081
+Return On Equity: -0.0087
+Total Cash: 29794174
+Total Debt: 113949480
+Debt To Equity: 72.384
+Current Ratio: 9.234
+Quick Ratio: 9.234
+Trailing PE: 
+Forward PE: 
+Price To Book: 12.295399
+Beta: 0.704
+52 Week High: 28.24
+52 Week Low: 24.7

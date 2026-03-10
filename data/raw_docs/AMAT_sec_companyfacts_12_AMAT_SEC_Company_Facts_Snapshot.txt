@@ -1,0 +1,12 @@
+Company: Applied Materials Inc. Common Stock
+Ticker: AMAT
+CIK: 0000006951
+Latest SEC XBRL Facts:
+Revenues: 5162000000 | unit=USD | filed=2021-02-25 | period_end=2021-01-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 7012000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25
+NetIncomeLoss: 2026000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25
+Assets: 37644000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25
+Liabilities: 15927000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25
+StockholdersEquity: 21717000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25
+NetCashProvidedByUsedInOperatingActivities: 1686000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25
+CashAndCashEquivalentsAtCarryingValue: 7218000000 | unit=USD | filed=2026-02-19 | period_end=2026-01-25

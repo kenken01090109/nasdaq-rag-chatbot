@@ -1,0 +1,11 @@
+Company: GRAVITY Co. Ltd. American Depository Shares
+Ticker: GRVY
+CIK: 0001313310
+Latest SEC XBRL Facts:
+Revenues: 42698000 | unit=USD | filed=2017-04-28 | period_end=2016-12-31
+NetIncomeLoss: 207000 | unit=USD | filed=2017-04-28 | period_end=2016-12-31
+Assets: 45849000 | unit=USD | filed=2017-04-28 | period_end=2016-12-31
+Liabilities: 20849000 | unit=USD | filed=2017-04-28 | period_end=2016-12-31
+StockholdersEquity: 25467000 | unit=USD | filed=2017-04-28 | period_end=2016-12-31
+NetCashProvidedByUsedInOperatingActivities: -683000 | unit=USD | filed=2013-05-10 | period_end=2012-12-31
+CashAndCashEquivalentsAtCarryingValue: 13890000 | unit=USD | filed=2017-04-28 | period_end=2016-12-31

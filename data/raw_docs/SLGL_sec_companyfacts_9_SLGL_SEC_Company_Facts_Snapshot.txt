@@ -1,0 +1,11 @@
+Company: Sol-Gel Technologies Ltd. Ordinary Shares
+Ticker: SLGL
+CIK: 0001684693
+Latest SEC XBRL Facts:
+Revenues: 18292000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30
+NetIncomeLoss: 2802000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30
+Assets: 39307000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30
+Liabilities: 7425000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30
+StockholdersEquity: 31882000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 599000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 10221000 | unit=USD | filed=2025-08-15 | period_end=2025-06-30

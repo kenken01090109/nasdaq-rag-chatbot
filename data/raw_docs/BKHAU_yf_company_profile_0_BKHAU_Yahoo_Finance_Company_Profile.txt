@@ -1,0 +1,9 @@
+Company: Black Hawk Acquisition Corporation Units
+Ticker: BKHAU
+Sector: Financial Services
+Industry: Shell Companies
+Country: United States
+City: Danville
+Website: https://www.bhspac.com
+Employees: 
+Business Summary: Black Hawk Acquisition Corporation is a blank check company focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses or entities. Black Hawk Acquisition Corporation was incorporated in 2023 and is based in Danville, California.

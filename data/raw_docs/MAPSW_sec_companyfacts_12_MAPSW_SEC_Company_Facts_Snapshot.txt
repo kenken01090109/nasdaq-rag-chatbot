@@ -1,0 +1,10 @@
+Company: WM Technology Inc. Warrants
+Ticker: MAPSW
+CIK: 0001779474
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 131635000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 5534000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 192911000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 57553000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 56908000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23142000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

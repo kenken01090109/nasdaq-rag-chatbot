@@ -1,0 +1,11 @@
+Company: National Energy Services Reunited Corp Ordinary Shares
+Ticker: NESR
+CIK: 0001698514
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 925785000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 43329000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1809123000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 852472000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 956651000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 125652000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 69683000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

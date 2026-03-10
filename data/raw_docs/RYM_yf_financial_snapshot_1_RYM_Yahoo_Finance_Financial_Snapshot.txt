@@ -1,0 +1,25 @@
+Company: RYTHM Inc. Common Stock
+Ticker: RYM
+Market Cap: 39178604
+Enterprise Value: 89291912
+Total Revenue: 16303000
+Revenue Per Share: 8.676
+EBITDA: -24988000
+Gross Margins: 0.17247999
+Operating Margins: -2.19837
+Profit Margins: -2.6995
+Free Cashflow: -14186875
+Operating Cashflow: -25852000
+Return On Assets: -0.22569999
+Return On Equity: -3.74655
+Total Cash: 35573000
+Total Debt: 90621000
+Debt To Equity: 773.085
+Current Ratio: 1.989
+Quick Ratio: 1.729
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.114642
+Beta: 10.022
+52 Week High: 53.65
+52 Week Low: 13.22

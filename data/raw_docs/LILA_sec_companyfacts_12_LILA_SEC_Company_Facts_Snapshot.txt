@@ -1,0 +1,10 @@
+Company: Liberty Latin America Ltd. Class A Common Stock
+Ticker: LILA
+CIK: 0001712184
+Latest SEC XBRL Facts:
+NetIncomeLoss: -556400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 12045400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 10890400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 628900000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 344000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 596700000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

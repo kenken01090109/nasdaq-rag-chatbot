@@ -1,0 +1,9 @@
+Company: Petco Health and Wellness Company Inc. Class A Common Stock
+Ticker: WOOF
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: United States
+City: San Diego
+Website: https://corporate.petco.com
+Employees: 29000
+Business Summary: Petco Health and Wellness Company, Inc., operates as a health and wellness company, focuses on enhancing the lives of pets, pet parents, and its Petco partners in the United States, Mexico, and Puerto Rico. The company provides veterinary care, grooming, training, tele-health, and Vital Care and pet health insurance services, as well as veterinary services through Vetco mobile clinics. It also offers pet consumables, supplies, and services through its petco.com, petcoach.co, petinsurancequotes.com, and pupbox.com websites. The company offers its products under the WholeHearted, Reddy, and Well & Good brands. Petco Health and Wellness Company, Inc. was founded in 1965 and is headquartered in San Diego, California.

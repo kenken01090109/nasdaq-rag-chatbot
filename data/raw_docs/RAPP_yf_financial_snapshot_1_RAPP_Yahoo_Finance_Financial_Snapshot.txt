@@ -1,0 +1,25 @@
+Company: Rapport Therapeutics Inc. Common Stock
+Ticker: RAPP
+Market Cap: 1441272704
+Enterprise Value: 911998720
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -109099000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -49008376
+Operating Cashflow: -77218000
+Return On Assets: -0.15885
+Return On Equity: -0.23409
+Total Cash: 513025984
+Total Debt: 11872000
+Debt To Equity: 2.32
+Current Ratio: 36.369
+Quick Ratio: 35.836
+Trailing PE: 
+Forward PE: -8.812653
+Price To Book: 2.8164291
+Beta: 
+52 Week High: 42.269
+52 Week Low: 7.73

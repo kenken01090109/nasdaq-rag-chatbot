@@ -1,0 +1,9 @@
+Company: lululemon athletica inc. Common Stock
+Ticker: LULU
+Sector: Consumer Cyclical
+Industry: Apparel Retail
+Country: Canada
+City: Vancouver
+Website: https://shop.lululemon.com
+Employees: 39000
+Business Summary: lululemon athletica inc., together with its subsidiaries, designs, distributes, and retails technical athletic apparel, footwear, and accessories for women and men under the lululemon brand in the United States, Canada, Mexico, China Mainland, Hong Kong, Taiwan, Macau, and internationally. The company offers pants, shorts, tops, and jackets for athletic activities, such as yoga, running, training, and other activities. It also provides fitness-inspired accessories. The company sells its products through company-operated stores; seasonal stores, pop-ups, university campus retailers, and yoga and fitness studios; outlets; Like New, a re-commerce program; and its e-commerce website. lululemon athletica inc. was founded in 1998 and is based in Vancouver, Canada.

@@ -1,0 +1,10 @@
+Company: Illumina Inc. Common Stock
+Ticker: ILMN
+CIK: 0001110803
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3184000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-28
+NetIncomeLoss: 516000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-28
+Assets: 6177000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-28
+StockholdersEquity: 2381000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 758000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 1346000000 | unit=USD | filed=2018-10-24 | period_end=2018-09-30

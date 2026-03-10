@@ -1,0 +1,25 @@
+Company: Mobix Labs Inc Warrants
+Ticker: MOBXW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 8618000
+Revenue Per Share: 0.167
+EBITDA: -29252000
+Gross Margins: 0.45266
+Operating Margins: -4.71093
+Profit Margins: 0.0
+Free Cashflow: -2172625
+Operating Cashflow: -13948000
+Return On Assets: -0.55666
+Return On Equity: -44.73833
+Total Cash: 268000
+Total Debt: 6545000
+Debt To Equity: 140.24
+Current Ratio: 0.114
+Quick Ratio: 0.051
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.4264703
+Beta: -0.073
+52 Week High: 0.3249
+52 Week Low: 0.1405

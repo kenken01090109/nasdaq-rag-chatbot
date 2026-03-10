@@ -1,0 +1,25 @@
+Company: NewAmsterdam Pharma Company N.V. Warrant
+Ticker: NAMSW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 22503000
+Revenue Per Share: 0.19
+EBITDA: -225463008
+Gross Margins: 1.0
+Operating Margins: -2061.875
+Profit Margins: 0.0
+Free Cashflow: -112909872
+Operating Cashflow: -147783008
+Return On Assets: -0.17266001
+Return On Equity: -0.2829
+Total Cash: 636241024
+Total Debt: 202000
+Debt To Equity: 0.03
+Current Ratio: 7.876
+Quick Ratio: 7.686
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.1134918
+Beta: 0.066
+52 Week High: 29.99
+52 Week Low: 5.45

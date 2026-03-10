@@ -1,0 +1,12 @@
+Company: American Superconductor Corporation Common Stock
+Ticker: AMSC
+CIK: 0000880807
+Latest SEC XBRL Facts:
+Revenues: 5300000 | unit=USD | filed=2020-02-05 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 41618000 | unit=USD | filed=2019-02-05 | period_end=2018-12-31
+NetIncomeLoss: 129280000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 719534000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 182698000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 536836000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 13861000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 141072000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: Tandem Diabetes Care Inc. Common Stock
+Ticker: TNDM
+Market Cap: 1444410112
+Enterprise Value: 1702924672
+Total Revenue: 1014736000
+Revenue Per Share: 15.081
+EBITDA: -60456000
+Gross Margins: 0.53808
+Operating Margins: 0.02856
+Profit Margins: -0.20174
+Free Cashflow: -44731124
+Operating Cashflow: -9721000
+Return On Assets: -0.05282
+Return On Equity: -0.97885
+Total Cash: 292665984
+Total Debt: 449375008
+Debt To Equity: 289.602
+Current Ratio: 2.547
+Quick Ratio: 1.888
+Trailing PE: 
+Forward PE: -881.9357
+Price To Book: 9.304577
+Beta: 1.671
+52 Week High: 29.65
+52 Week Low: 9.98

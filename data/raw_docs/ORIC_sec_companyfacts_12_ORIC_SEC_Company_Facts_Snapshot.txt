@@ -1,0 +1,10 @@
+Company: Oric Pharmaceuticals Inc. Common Stock
+Ticker: ORIC
+CIK: 0001796280
+Latest SEC XBRL Facts:
+NetIncomeLoss: -98963000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 431192000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 24273000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 406919000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -88487000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49668000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

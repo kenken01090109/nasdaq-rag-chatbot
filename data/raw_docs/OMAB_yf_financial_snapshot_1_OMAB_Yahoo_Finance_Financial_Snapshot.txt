@@ -1,0 +1,25 @@
+Company: Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS
+Ticker: OMAB
+Market Cap: 5352307712
+Enterprise Value: 54516457472
+Total Revenue: 15964413952
+Revenue Per Share: 330.72
+EBITDA: 9818624000
+Gross Margins: 0.75585
+Operating Margins: 0.51798
+Profit Margins: 0.3346
+Free Cashflow: 2854826752
+Operating Cashflow: 7527959040
+Return On Assets: 0.19213
+Return On Equity: 0.4884
+Total Cash: 3098092032
+Total Debt: 13586979840
+Debt To Equity: 118.906
+Current Ratio: 1.324
+Quick Ratio: 1.165
+Trailing PE: 17.65605
+Forward PE: 11.263142
+Price To Book: 67.34675
+Beta: 0.62
+52 Week High: 134.99
+52 Week Low: 70.24

@@ -1,0 +1,8 @@
+Company: AIFU Inc. Class A Ordinary Share
+Ticker: AIFU
+Total Cash: 621137984
+Total Debt: 137340992
+Debt To Equity: 6.57
+Current Ratio: 3.722
+Quick Ratio: 3.681
+Book Value: 55.383614

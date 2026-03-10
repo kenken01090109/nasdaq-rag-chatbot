@@ -1,0 +1,12 @@
+Company: BitVentures Limited Ordinary Shares
+Ticker: BVC
+CIK: 0001785680
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 28023000 | unit=USD | filed=2025-05-13 | period_end=2024-06-30
+NetIncomeLoss: -5369000 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Assets: 9889000 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+Liabilities: 158000 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+StockholdersEquity: 9731000 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -6482000 | unit=USD | filed=2025-10-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 950000 | unit=USD | filed=2025-10-17 | period_end=2025-06-30

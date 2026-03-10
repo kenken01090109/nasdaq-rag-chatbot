@@ -1,0 +1,11 @@
+Company: Wing Yip Food Holdings Group Limited American Depositary Shares
+Ticker: WYHG
+CIK: 0001999860
+Latest SEC XBRL Facts:
+Revenues: 144629055 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 11249703 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 193491088 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 37746096 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 155744992 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 12483808 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 87927726 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

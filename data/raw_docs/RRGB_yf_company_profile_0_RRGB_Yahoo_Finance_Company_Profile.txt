@@ -1,0 +1,9 @@
+Company: Red Robin Gourmet Burgers Inc. Common Stock
+Ticker: RRGB
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Englewood
+Website: https://www.redrobin.com
+Employees: 18852
+Business Summary: Red Robin Gourmet Burgers, Inc., together with its subsidiaries, develops, operates, and franchises casual dining restaurants in North America and one Canadian province. Its restaurants primarily offer burgers and pizza, appetizers, salads, other entrees, desserts, wings, milkshakes, alcoholic and non-alcoholic specialty drinks, cocktails, wine, and beers. The company was founded in 1969 and is headquartered in Englewood, Colorado.

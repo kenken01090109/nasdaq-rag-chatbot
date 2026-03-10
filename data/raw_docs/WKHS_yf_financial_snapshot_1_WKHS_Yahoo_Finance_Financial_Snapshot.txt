@@ -1,0 +1,25 @@
+Company: Workhorse Group Inc. Common Stock
+Ticker: WKHS
+Market Cap: 30270514
+Enterprise Value: 132434896
+Total Revenue: 17419374
+Revenue Per Share: 2.948
+EBITDA: -36666780
+Gross Margins: -0.39586
+Operating Margins: -0.96648
+Profit Margins: 0.0
+Free Cashflow: -29551714
+Operating Cashflow: -35052308
+Return On Assets: -0.33685002
+Return On Equity: 
+Total Cash: 3784581
+Total Debt: 103711720
+Debt To Equity: 
+Current Ratio: 0.286
+Quick Ratio: 0.076
+Trailing PE: 0.04396728
+Forward PE: -1.9217877
+Price To Book: -0.39649612
+Beta: 
+52 Week High: 67.32
+52 Week Low: 3.22

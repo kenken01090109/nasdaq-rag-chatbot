@@ -1,0 +1,9 @@
+Company: ATN International Inc. Common Stock
+Ticker: ATNI
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Beverly
+Website: https://www.atni.com
+Employees: 
+Business Summary: ATN International, Inc., through its subsidiaries, provides digital infrastructure and communications services to residential, business, and government customers in the United States, Guyana, the US Virgin Islands, Bermuda, and internationally. It operates through International Telecom and US Telecom segments. The company offers fixed data and voice telecommunication services comprising fiber broadband and data solutions; carrier telecommunication services consisting of the leasing of tower and transport facilities, wholesale roaming and long-distance voice services, site maintenance, and international long-distance services; and mobile telecommunication services over wireless networks. It also provides information technology managed services, such as network, application, infrastructure, and hosting services; and repairs and sells handsets and other accessories. The company was formerly known as Atlantic Tele-Network, Inc. and changed its name to ATN International, Inc. in June 2016. ATN International, Inc. was founded in 1987 and is headquartered in Beverly, Massachusetts.

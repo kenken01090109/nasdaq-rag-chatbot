@@ -1,0 +1,25 @@
+Company: Century Aluminum Company Common Stock
+Ticker: CENX
+Market Cap: 5313646080
+Enterprise Value: 5876916736
+Total Revenue: 2527899904
+Revenue Per Share: 26.835
+EBITDA: 249900000
+Gross Margins: 0.09811
+Operating Margins: 0.05208
+Profit Margins: 0.01582
+Free Cashflow: 47300000
+Operating Cashflow: 185000000
+Return On Assets: 0.04502
+Return On Equity: 0.016139999
+Total Cash: 134200000
+Total Debt: 572899968
+Debt To Equity: 61.609
+Current Ratio: 1.97
+Quick Ratio: 0.925
+Trailing PE: 127.833336
+Forward PE: 8.638777
+Price To Book: 6.595823
+Beta: 2.123
+52 Week High: 56.96
+52 Week Low: 13.05

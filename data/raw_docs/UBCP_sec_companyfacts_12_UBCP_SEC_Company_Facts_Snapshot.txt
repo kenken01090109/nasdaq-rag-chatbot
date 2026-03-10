@@ -1,0 +1,10 @@
+Company: United Bancorp Inc. Common Stock
+Ticker: UBCP
+CIK: 0000731653
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5717000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 866756000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 800286000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 66470000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8010000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45652000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

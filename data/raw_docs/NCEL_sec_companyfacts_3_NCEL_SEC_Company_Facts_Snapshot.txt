@@ -1,0 +1,10 @@
+Company: NewcelX Ltd. Ordinary Shares
+Ticker: NCEL
+CIK: 0001783036
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2220671 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+Assets: 4337628 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+Liabilities: 1455121 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+StockholdersEquity: 2882507 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2073801 | unit=USD | filed=2025-10-06 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 3072376 | unit=USD | filed=2025-10-06 | period_end=2025-06-30

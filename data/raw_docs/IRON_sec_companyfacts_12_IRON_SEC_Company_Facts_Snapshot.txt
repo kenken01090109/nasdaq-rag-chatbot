@@ -1,0 +1,10 @@
+Company: Disc Medicine Inc. Common Stock
+Ticker: IRON
+CIK: 0001816736
+Latest SEC XBRL Facts:
+NetIncomeLoss: -151653000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 630456000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 57065000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 573391000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -137093000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 140664000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

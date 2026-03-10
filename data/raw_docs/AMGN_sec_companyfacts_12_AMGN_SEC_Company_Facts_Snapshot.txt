@@ -1,0 +1,11 @@
+Company: Amgen Inc. Common Stock
+Ticker: AMGN
+CIK: 0000318154
+Latest SEC XBRL Facts:
+Revenues: 12427000000 | unit=USD | filed=2021-08-04 | period_end=2021-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 26885000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 6378000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 90141000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 9619000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8355000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9445000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

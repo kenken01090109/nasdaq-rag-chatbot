@@ -1,0 +1,10 @@
+Company: Aprea Therapeutics Inc. Common stock
+Ticker: APRE
+CIK: 0001781983
+Latest SEC XBRL Facts:
+NetIncomeLoss: -10143939 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 14321316 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 3950821 | unit=USD | filed=2023-08-10 | period_end=2023-06-30
+StockholdersEquity: 10912848 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9933147 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13718052 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

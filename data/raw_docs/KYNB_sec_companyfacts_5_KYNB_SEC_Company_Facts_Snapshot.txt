@@ -1,0 +1,12 @@
+Company: Kyntra Bio Inc. Common Stock
+Ticker: KYNB
+CIK: 0000921299
+Latest SEC XBRL Facts:
+Revenues: 29621000 | unit=USD | filed=2025-03-17 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5163000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 197672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 137014000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 119529000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -17028000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 13554000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 117975000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

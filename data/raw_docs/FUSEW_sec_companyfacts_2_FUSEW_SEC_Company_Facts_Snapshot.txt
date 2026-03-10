@@ -1,0 +1,9 @@
+Company: Fusemachines Inc. Warrants
+Ticker: FUSEW
+CIK: 0002033383
+Latest SEC XBRL Facts:
+NetIncomeLoss: -22105674 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+Assets: 12352651 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+Liabilities: 43910706 | unit=USD | filed=2025-11-28 | period_end=2025-09-30
+StockholdersEquity: -11599956 | unit=USD | filed=2025-11-28 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -240767 | unit=USD | filed=2025-11-28 | period_end=2025-09-30

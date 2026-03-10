@@ -1,0 +1,12 @@
+Company: Laureate Education Inc. Common Stock
+Ticker: LAUR
+CIK: 0000912766
+Latest SEC XBRL Facts:
+Revenues: 1484288000 | unit=USD | filed=2024-02-22 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1160542000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 110074000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 2116550000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 997037000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1118666000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 272810000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 240994000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

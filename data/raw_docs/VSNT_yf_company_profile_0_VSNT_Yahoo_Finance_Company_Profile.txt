@@ -1,0 +1,9 @@
+Company: Versant Media Group Inc. Class A Common Stock
+Ticker: VSNT
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: New York
+Website: https://www.versantmedia.com
+Employees: 4400
+Business Summary: Versant Media Group, Inc. engages in the media and entertainment business in the United States. It produces, licenses, and acquires content that is distributed through various outlets, including networks and digital platforms. The company delivers news, sports and entertainment content through its portfolio of brands, which includes MS NOW, CNBC, USA Network, Golf Channel, GolfNow, SportsEngine, E!, SYFY, Oxygen True Crime, Fandango, and Free TV Networks. The company serves political news and opinion, business news and personal finance, golf and athletics participation, and sports and genre entertainment markets through television networks and digital platforms. The company was incorporated in 2025 and is based in New York, New York.

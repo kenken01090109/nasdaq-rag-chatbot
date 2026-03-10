@@ -1,0 +1,12 @@
+Company: FG Nexus Inc. 8.00% Cumulative Preferred Stock
+Ticker: FGNXP
+CIK: 0001591890
+Latest SEC XBRL Facts:
+Revenues: 15890000 | unit=USD | filed=2025-08-07 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1337000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 10255000 | unit=USD | filed=2022-11-09 | period_end=2022-09-30
+Assets: 244737000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 13716000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 83200000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -4751000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7495000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

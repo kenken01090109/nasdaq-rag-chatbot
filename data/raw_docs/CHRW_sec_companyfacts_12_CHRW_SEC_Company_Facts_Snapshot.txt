@@ -1,0 +1,12 @@
+Company: C.H. Robinson Worldwide Inc. Common Stock
+Ticker: CHRW
+CIK: 0001043277
+Latest SEC XBRL Facts:
+Revenues: 1991452000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12320129000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 450760000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 5227854000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 3370813000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 1857041000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 609105000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 136837000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

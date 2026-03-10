@@ -1,0 +1,25 @@
+Company: Laureate Education Inc. Common Stock
+Ticker: LAUR
+Market Cap: 4667181568
+Enterprise Value: 4925967872
+Total Revenue: 1701929984
+Revenue Per Share: 11.513
+EBITDA: 505596992
+Gross Margins: 0.38592997
+Operating Margins: 0.33153
+Profit Margins: 0.16548
+Free Cashflow: 332065632
+Operating Cashflow: 366192000
+Return On Assets: 0.13245
+Return On Equity: 0.26435
+Total Cash: 146703008
+Total Debt: 515471008
+Debt To Equity: 43.362
+Current Ratio: 0.673
+Quick Ratio: 0.601
+Trailing PE: 16.756615
+Forward PE: 12.833085
+Price To Book: 3.8106124
+Beta: 0.67
+52 Week High: 37.91
+52 Week Low: 17.908

@@ -1,0 +1,25 @@
+Company: Concentrix Corporation Common Stock
+Ticker: CNXC
+Market Cap: 2188971520
+Enterprise Value: 7378468352
+Total Revenue: 9825770496
+Revenue Per Share: 155.935
+EBITDA: 1265699968
+Gross Margins: 0.34959
+Operating Margins: 0.03382
+Profit Margins: -0.13016
+Free Cashflow: 705487744
+Operating Cashflow: 806966976
+Return On Assets: 0.03325
+Return On Equity: -0.37704
+Total Cash: 327347008
+Total Debt: 5540054016
+Debt To Equity: 201.872
+Current Ratio: 1.404
+Quick Ratio: 1.059
+Trailing PE: 
+Forward PE: 2.640036
+Price To Book: 0.7909833
+Beta: 0.434
+52 Week High: 66.0
+52 Week Low: 29.35

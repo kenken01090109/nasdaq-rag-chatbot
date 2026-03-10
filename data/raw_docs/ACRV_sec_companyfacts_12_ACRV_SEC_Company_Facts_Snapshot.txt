@@ -1,0 +1,10 @@
+Company: Acrivon Therapeutics Inc. Common Stock
+Ticker: ACRV
+CIK: 0001781174
+Latest SEC XBRL Facts:
+NetIncomeLoss: -58920000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 145299000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 16696000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 128603000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -48428000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35405000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

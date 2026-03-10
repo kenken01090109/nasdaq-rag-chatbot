@@ -1,0 +1,25 @@
+Company: Spruce Biosciences Inc. Common Stock
+Ticker: SPRB
+Market Cap: 59801572
+Enterprise Value: 48243500
+Total Revenue: 697000
+Revenue Per Share: 1.201
+EBITDA: -49462000
+Gross Margins: 0.0
+Operating Margins: -71.0
+Profit Margins: 0.0
+Free Cashflow: -30859876
+Operating Cashflow: -47548000
+Return On Assets: -0.76924
+Return On Equity: -1.6792599
+Total Cash: 10669000
+Total Debt: 1348000
+Debt To Equity: 25.028
+Current Ratio: 1.54
+Quick Ratio: 1.132
+Trailing PE: 
+Forward PE: -1.9914453
+Price To Book: 5.845365
+Beta: 3.818
+52 Week High: 2030.625
+52 Week Low: 7.0

@@ -1,0 +1,25 @@
+Company: FitLife Brands Inc. Common Stock
+Ticker: FTLF
+Market Cap: 137109664
+Enterprise Value: 184625088
+Total Revenue: 70561000
+Revenue Per Share: 7.588
+EBITDA: 13145000
+Gross Margins: 0.41266
+Operating Margins: 0.15031
+Profit Margins: 0.09575
+Free Cashflow: -1461250
+Operating Cashflow: 8152000
+Return On Assets: 0.096049994
+Return On Equity: 0.17767
+Total Cash: 3512000
+Total Debt: 47271000
+Debt To Equity: 112.84
+Current Ratio: 1.132
+Quick Ratio: 0.398
+Trailing PE: 21.470589
+Forward PE: 10.695971
+Price To Book: 3.2728088
+Beta: 0.342
+52 Week High: 20.98
+52 Week Low: 9.83

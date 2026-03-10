@@ -1,0 +1,11 @@
+Company: Fathom Holdings Inc. Common Stock
+Ticker: FTHM
+CIK: 0001753162
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 329871000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -13594000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 83237000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 39856000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 43381000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8633000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9756000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Top KingWin Ltd Class A Ordinary Shares
+Ticker: WAI
+CIK: 0001938865
+Latest SEC XBRL Facts:
+Revenues: 3417018 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+NetIncomeLoss: -3163291 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+Assets: 42284208 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+Liabilities: 5404680 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+StockholdersEquity: 36879528 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1126058 | unit=USD | filed=2025-09-10 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 3098787 | unit=USD | filed=2025-01-21 | period_end=2024-06-30

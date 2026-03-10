@@ -1,0 +1,10 @@
+Company: Webull Corporation Class A Ordinary Shares
+Ticker: BULL
+CIK: 0001866364
+Latest SEC XBRL Facts:
+NetIncomeLoss: -15188220 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+Assets: 2624646318 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+Liabilities: 1872091132 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+StockholdersEquity: 751555450 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 272061853 | unit=USD | filed=2025-09-09 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 476682552 | unit=USD | filed=2025-09-09 | period_end=2025-06-30

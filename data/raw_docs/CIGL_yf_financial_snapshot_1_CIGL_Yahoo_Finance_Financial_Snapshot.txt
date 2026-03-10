@@ -1,0 +1,25 @@
+Company: Concorde International Group Ltd Class A Ordinary Shares
+Ticker: CIGL
+Market Cap: 46954716
+Enterprise Value: 42490640
+Total Revenue: 11072733
+Revenue Per Share: 0.524
+EBITDA: -3328443
+Gross Margins: 0.36543
+Operating Margins: -0.48039
+Profit Margins: -0.2807
+Free Cashflow: -2735654
+Operating Cashflow: -3181251
+Return On Assets: -0.17233999
+Return On Equity: -0.91541
+Total Cash: 2361689
+Total Debt: 6530512
+Debt To Equity: 154.862
+Current Ratio: 1.341
+Quick Ratio: 0.933
+Trailing PE: 
+Forward PE: 
+Price To Book: 9.405405
+Beta: 
+52 Week High: 31.055
+52 Week Low: 1.4

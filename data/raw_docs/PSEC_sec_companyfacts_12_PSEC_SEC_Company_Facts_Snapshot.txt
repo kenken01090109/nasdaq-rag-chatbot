@@ -1,0 +1,10 @@
+Company: Prospect Capital Corporation Common Stock
+Ticker: PSEC
+CIK: 0001287032
+Latest SEC XBRL Facts:
+NetIncomeLoss: 101700000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 6534578000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 1952326000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 2958755000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 364594000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 38059000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

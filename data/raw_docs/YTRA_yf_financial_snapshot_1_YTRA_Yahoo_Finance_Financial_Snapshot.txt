@@ -1,0 +1,25 @@
+Company: Yatra Online Inc. Ordinary Shares
+Ticker: YTRA
+Market Cap: 73248560
+Enterprise Value: 1625089920
+Total Revenue: 10373519360
+Revenue Per Share: 166.159
+EBITDA: 112132000
+Gross Margins: 0.27231002
+Operating Margins: -0.04665
+Profit Margins: -0.0124
+Free Cashflow: -212704128
+Operating Cashflow: 357460992
+Return On Assets: -0.00254
+Return On Equity: 0.00823
+Total Cash: 2001795968
+Total Debt: 916176000
+Debt To Equity: 11.701
+Current Ratio: 2.024
+Quick Ratio: 1.634
+Trailing PE: 
+Forward PE: 12.477714
+Price To Book: 1.3110111
+Beta: 0.802
+52 Week High: 2.0
+52 Week Low: 0.58

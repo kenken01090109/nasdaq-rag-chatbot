@@ -1,0 +1,9 @@
+Company: Grand Canyon Education Inc. Common Stock
+Ticker: LOPE
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: United States
+City: Phoenix
+Website: https://www.gce.com
+Employees: 
+Business Summary: Grand Canyon Education, Inc. operates as an education services company in the United States. The company provides technology services, including learning management system, internal administration, infrastructure, and support services; and academic services, such as program and curriculum, faculty and related training and development, class scheduling, and skills and simulation lab sites. It also offers counseling services and support, which includes admission services, financial aid, counseling services, and field experience counseling; marketing and communication services, including lead acquisition, digital communications strategy, brand identity, media planning and strategy, video, business intelligence, analytics, and data science, and market research and insights; and back-office services, such as finance and accounting, human resources, audit, and procurement services. In addition, it provides education services to 20 university partners. Grand Canyon Education, Inc. was formerly known as Significant Education, Inc. and changed its name to Grand Canyon Education, Inc. in August 2005. The company was founded in 1949 and is headquartered in Phoenix, Arizona.

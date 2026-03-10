@@ -1,0 +1,9 @@
+Company: Perceptive Capital Solutions Corp Class A Ordinary Shares
+Ticker: PCSC
+CIK: 0002017526
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1578036 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 92200869 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 4384557 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -3121435 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -551775 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

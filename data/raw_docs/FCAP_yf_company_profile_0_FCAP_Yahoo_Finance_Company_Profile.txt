@@ -1,0 +1,9 @@
+Company: First Capital Inc. Common Stock
+Ticker: FCAP
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Corydon
+Website: https://www.firstharrison.com
+Employees: 
+Business Summary: First Capital, Inc. operates as the bank holding company for First Harrison Bank that provides various banking services to individuals and business customers in Indiana and Kentucky, the United States. The company offers various deposit instruments, including non-interest-bearing checking accounts, negotiable order of withdrawal accounts, money market accounts, regular savings accounts, certificates of deposit, and retirement savings plans. It also provides residential mortgage loans; construction loans for residential and commercial properties; and commercial real estate and business loans. In addition, the company originates residential mortgage, multi-family residential, commercial real estate and business, and consumer loans. Further, it offers various secured or guaranteed consumer loans, including automobile and truck, home equity, home improvement, boat, and mobile home loans; unsecured consumer loans; and loans secured by savings deposits. Additionally, the company invests in mortgage-backed securities and collateralized mortgage obligations. First Capital, Inc. was founded in 1891 and is based in Corydon, Indiana.

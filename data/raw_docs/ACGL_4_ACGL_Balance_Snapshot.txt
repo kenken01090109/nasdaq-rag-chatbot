@@ -1,0 +1,8 @@
+Company: Arch Capital Group Ltd. Common Stock
+Ticker: ACGL
+Total Cash: 3681999872
+Total Debt: 2884999936
+Debt To Equity: 11.919
+Current Ratio: 1.077
+Quick Ratio: 0.498
+Book Value: 65.371

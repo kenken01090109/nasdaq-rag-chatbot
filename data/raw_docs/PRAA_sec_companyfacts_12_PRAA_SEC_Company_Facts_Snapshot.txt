@@ -1,0 +1,12 @@
+Company: PRA Group Inc. Common Stock
+Ticker: PRAA
+CIK: 0001185348
+Latest SEC XBRL Facts:
+Revenues: 868447000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14419000 | unit=USD | filed=2022-11-04 | period_end=2022-09-30
+NetIncomeLoss: -361670000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 4999209000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 4015237000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 928493000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -75622000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 107454000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

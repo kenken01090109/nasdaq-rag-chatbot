@@ -1,0 +1,10 @@
+Company: Park-Ohio Holdings Corp. Common Stock
+Ticker: PKOH
+CIK: 0000076282
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1204100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 22800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1436600000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 374800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31400000 | unit=USD | filed=2022-11-08 | period_end=2022-09-30
+CashAndCashEquivalentsAtCarryingValue: 50800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

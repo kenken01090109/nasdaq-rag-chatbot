@@ -1,0 +1,9 @@
+Company: SaverOne 2014 Ltd. American Depositary Shares
+Ticker: SVRE
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: Israel
+City: Petah Tikva
+Website: https://saver.one
+Employees: 50
+Business Summary: SaverOne 2014 Ltd., a technology company, engages in the design, development, and commercialization of transportation and safety solutions to save lives by preventing car accidents in Israel and Europe. It is developing SaverOne Driver Distraction Prevention Solution (DDPS), an advanced driver safety solution that can identify and monitor mobile phones located in the driver's vicinity and selectively block use of life-threatening applications; and solutions for detection of vulnerable road users. SaverOne 2014 Ltd. was incorporated in 2014 and is headquartered in Petah Tikva, Israel.

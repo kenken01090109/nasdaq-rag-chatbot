@@ -1,0 +1,8 @@
+Company: Acadia Healthcare Company Inc. Common Stock
+Ticker: ACHC
+Total Cash: 133242000
+Total Debt: 2654892032
+Debt To Equity: 124.028
+Current Ratio: 1.55
+Quick Ratio: 1.292
+Book Value: 21.547

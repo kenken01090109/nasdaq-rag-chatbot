@@ -1,0 +1,25 @@
+Company: LightPath Technologies Inc. Class A Common Stock
+Ticker: LPTH
+Market Cap: 638834240
+Enterprise Value: 624764608
+Total Revenue: 52787352
+Revenue Per Share: 1.21
+EBITDA: -2827804
+Gross Margins: 0.30041
+Operating Margins: -0.06351
+Profit Margins: -0.43451
+Free Cashflow: 4090927
+Operating Cashflow: -4212853
+Return On Assets: -0.04847
+Return On Equity: -0.33033
+Total Cash: 73572472
+Total Debt: 10266127
+Debt To Equity: 9.152
+Current Ratio: 3.972
+Quick Ratio: 3.364
+Trailing PE: 
+Forward PE: 85.15385
+Price To Book: 7.7304463
+Beta: 1.066
+52 Week High: 15.24
+52 Week Low: 1.61

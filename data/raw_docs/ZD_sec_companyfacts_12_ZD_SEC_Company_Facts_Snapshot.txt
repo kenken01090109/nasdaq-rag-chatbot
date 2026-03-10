@@ -1,0 +1,12 @@
+Company: Ziff Davis Inc. Common Stock
+Ticker: ZD
+CIK: 0001084048
+Latest SEC XBRL Facts:
+Revenues: 974143000 | unit=USD | filed=2023-11-09 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1044556000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 46984000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3476934000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1678025000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1798909000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 215986000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 503368000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

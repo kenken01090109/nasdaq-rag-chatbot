@@ -1,0 +1,8 @@
+Company: Altimmune Inc. Common Stock
+Ticker: ALT
+Total Cash: 210776000
+Total Debt: 15905000
+Debt To Equity: 8.569
+Current Ratio: 17.183
+Quick Ratio: 16.831
+Book Value: 1.941

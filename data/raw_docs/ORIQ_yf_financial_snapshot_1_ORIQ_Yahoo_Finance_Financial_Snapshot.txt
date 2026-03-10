@@ -1,0 +1,25 @@
+Company: Origin Investment Corp I Ordinary Shares
+Ticker: ORIQ
+Market Cap: 88147512
+Enterprise Value: 90883144
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1429005
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.066
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 68.13333
+Beta: 
+52 Week High: 10.24
+52 Week Low: 9.98

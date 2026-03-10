@@ -1,0 +1,10 @@
+Company: Inflection Point Acquisition Corp. IV Class A Ordinary Shares
+Ticker: BACQ
+CIK: 0002028707
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4809256 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 261074868 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 11874541 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -10529853 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1057906 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2107309 | unit=USD | filed=2025-03-10 | period_end=2024-12-31

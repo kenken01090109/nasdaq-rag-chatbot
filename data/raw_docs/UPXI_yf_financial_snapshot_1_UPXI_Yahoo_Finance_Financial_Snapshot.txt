@@ -1,0 +1,25 @@
+Company: Upexi Inc. Common Stock
+Ticker: UPXI
+Market Cap: 62409916
+Enterprise Value: 278989760
+Total Revenue: 24741124
+Revenue Per Share: 0.679
+EBITDA: -114581064
+Gross Margins: 0.80667
+Operating Margins: -21.60229
+Profit Margins: 0.0
+Free Cashflow: -216210592
+Operating Cashflow: -17526292
+Return On Assets: -0.49861
+Return On Equity: -4.68502
+Total Cash: 1616765
+Total Debt: 213475920
+Debt To Equity: 438.198
+Current Ratio: 2.2
+Quick Ratio: 0.058
+Trailing PE: 
+Forward PE: -3.1578946
+Price To Book: 1.1597937
+Beta: -0.346
+52 Week High: 22.57
+52 Week Low: 0.54

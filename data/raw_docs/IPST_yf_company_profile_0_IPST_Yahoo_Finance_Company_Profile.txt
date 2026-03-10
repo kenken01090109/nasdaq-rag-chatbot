@@ -1,0 +1,9 @@
+Company: IP Strategy Holdings Inc. Common Stock
+Ticker: IPST
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: Gig Harbor
+Website: https://ir.ipstrategy.co
+Employees: 62
+Business Summary: IP Strategy Holdings, Inc. holds IP tokens as a primary reserve asset. It offers public market investors exposure to the $80 trillion programmable intellectual property economy. The company's treasury reserve of IP tokens provides direct participation in the Story blockchain ecosystem, which enables on-chain registration, licensing, and monetization of intellectual property. The company was formerly known as Heritage Distilling Holding Company, Inc. and change its name to IP Strategy Holdings, Inc. in February 2026. The company was founded in 2011 and is based in Gig Harbor, Washington.

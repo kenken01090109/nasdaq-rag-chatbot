@@ -1,0 +1,11 @@
+Company: EHang Holdings Limited ADS
+Ticker: EH
+CIK: 0001759783
+Latest SEC XBRL Facts:
+Revenues: 62493000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetIncomeLoss: -31479000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Assets: 217075000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Liabilities: 86129000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+StockholdersEquity: 130923000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 21639000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 83690000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31

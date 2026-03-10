@@ -1,0 +1,25 @@
+Company: Inspira Technologies Oxy B.H.N. Ltd. Ordinary Shares
+Ticker: IINN
+Market Cap: 25963106
+Enterprise Value: 15721969
+Total Revenue: 289000
+Revenue Per Share: 0.012
+EBITDA: -12519000
+Gross Margins: 0.0069199996
+Operating Margins: -25.0346
+Profit Margins: 0.0
+Free Cashflow: -6414000
+Operating Cashflow: -9594000
+Return On Assets: -1.14387
+Return On Equity: -3.3865
+Total Cash: 2126000
+Total Debt: 640000
+Debt To Equity: 50.078
+Current Ratio: 1.152
+Quick Ratio: 0.752
+Trailing PE: 
+Forward PE: -0.8571429
+Price To Book: 13.333333
+Beta: 2.289
+52 Week High: 1.65
+52 Week Low: 0.403

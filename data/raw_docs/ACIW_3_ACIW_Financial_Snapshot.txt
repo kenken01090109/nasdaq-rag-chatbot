@@ -1,0 +1,12 @@
+Company: ACI Worldwide Inc. Common Stock
+Ticker: ACIW
+Total Revenue: 1759782016
+Revenue Per Share: 16.928
+Gross Margins: 0.48991
+Operating Margins: 0.23138
+EBITDA: 372761984
+Profit Margins: 0.1288
+Free Cashflow: 303421376
+Operating Cashflow: 322831008
+Return On Assets: 0.06909
+Return On Equity: 0.15401

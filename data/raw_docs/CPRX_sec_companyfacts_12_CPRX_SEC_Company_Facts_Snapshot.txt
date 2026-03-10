@@ -1,0 +1,12 @@
+Company: Catalyst Pharmaceuticals Inc. Common Stock
+Ticker: CPRX
+CIK: 0001369568
+Latest SEC XBRL Facts:
+Revenues: 88057894 | unit=USD | filed=2020-11-09 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 436376000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 161628000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1051602000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 131357000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 920245000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 163779000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 689892000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

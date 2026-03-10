@@ -1,0 +1,12 @@
+Company: Amarin Corporation plc
+Ticker: AMRN
+CIK: 0000897448
+Latest SEC XBRL Facts:
+Revenues: 43919000 | unit=USD | filed=2018-05-02 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 164427000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -37574000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 659814000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 200920000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 458894000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8550000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 122802000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

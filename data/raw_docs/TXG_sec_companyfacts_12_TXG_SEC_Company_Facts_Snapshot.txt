@@ -1,0 +1,12 @@
+Company: 10x Genomics Inc. Class A Common Stock
+Ticker: TXG
+CIK: 0001770787
+Latest SEC XBRL Facts:
+Revenues: 71905000 | unit=USD | filed=2020-05-12 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 476793000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -27292000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1027361000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 242241000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 785120000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 95273000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 344067000 | unit=USD | filed=2025-02-13 | period_end=2024-12-31

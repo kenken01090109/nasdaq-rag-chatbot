@@ -1,0 +1,10 @@
+Company: CNS Pharmaceuticals Inc. Common Stock
+Ticker: CNSP
+CIK: 0001729427
+Latest SEC XBRL Facts:
+NetIncomeLoss: -9894762 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 11869258 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 1959117 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 9910141 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10759337 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9864087 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

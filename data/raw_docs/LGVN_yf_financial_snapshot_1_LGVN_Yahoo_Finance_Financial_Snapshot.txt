@@ -1,0 +1,25 @@
+Company: Longeveron Inc. Class A Common Stock
+Ticker: LGVN
+Market Cap: 10316581
+Enterprise Value: 2317975
+Total Revenue: 1437000
+Revenue Per Share: 0.091
+EBITDA: -20979000
+Gross Margins: 0.74878
+Operating Margins: -53.357662
+Profit Margins: 0.0
+Free Cashflow: -9926625
+Operating Cashflow: -16722000
+Return On Assets: -0.60949004
+Return On Equity: -1.19917
+Total Cash: 9244000
+Total Debt: 983000
+Debt To Equity: 9.864
+Current Ratio: 2.093
+Quick Ratio: 1.882
+Trailing PE: 
+Forward PE: -0.31607842
+Price To Book: 1.0224102
+Beta: 0.282
+52 Week High: 1.92
+52 Week Low: 0.475

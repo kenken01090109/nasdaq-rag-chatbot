@@ -1,0 +1,25 @@
+Company: Amicus Therapeutics Inc. Common Stock
+Ticker: FOLD
+Market Cap: 4502770176
+Enterprise Value: 4648457216
+Total Revenue: 634209984
+Revenue Per Share: 2.057
+EBITDA: 41951000
+Gross Margins: 0.88501
+Operating Margins: 0.0861
+Profit Margins: -0.04275
+Free Cashflow: 47844500
+Operating Cashflow: 33145000
+Return On Assets: 0.02485
+Return On Equity: -0.11578
+Total Cash: 293536000
+Total Debt: 442363008
+Debt To Equity: 161.304
+Current Ratio: 2.843
+Quick Ratio: 1.719
+Trailing PE: 
+Forward PE: 15.618363
+Price To Book: 16.258503
+Beta: 0.492
+52 Week High: 14.38
+52 Week Low: 5.51

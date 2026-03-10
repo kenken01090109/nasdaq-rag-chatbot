@@ -1,0 +1,11 @@
+Company: Daily Journal Corp. (S.C.) Common Stock
+Ticker: DJCO
+CIK: 0000783412
+Latest SEC XBRL Facts:
+Revenues: 10252000 | unit=USD | filed=2018-02-08 | period_end=2017-12-31
+NetIncomeLoss: -7977000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 529479000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 146359000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 383120000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1938000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 16562000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

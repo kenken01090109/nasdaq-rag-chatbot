@@ -1,0 +1,25 @@
+Company: Ross Stores Inc. Common Stock
+Ticker: ROST
+Market Cap: 68866662400
+Enterprise Value: 69306187776
+Total Revenue: 22750558208
+Revenue Per Share: 70.606
+EBITDA: 3216748032
+Gross Margins: 0.27706
+Operating Margins: 0.12269
+Profit Margins: 0.094289996
+Free Cashflow: 1660640128
+Operating Cashflow: 3026883072
+Return On Assets: 0.11112001
+Return On Equity: 0.36678
+Total Cash: 4594392064
+Total Debt: 5212338176
+Debt To Equity: 84.241
+Current Ratio: 1.583
+Quick Ratio: 0.989
+Trailing PE: 33.085938
+Forward PE: 26.182478
+Price To Book: 10.942022
+Beta: 0.98
+52 Week High: 216.8
+52 Week Low: 122.36

@@ -1,0 +1,25 @@
+Company: Mama's Creations Inc. Common Stock
+Ticker: MAMA
+Market Cap: 675658496
+Enterprise Value: 638596544
+Total Revenue: 151312000
+Revenue Per Share: 3.968
+EBITDA: 11426000
+Gross Margins: 0.25225002
+Operating Margins: 0.03857
+Profit Margins: 0.03076
+Free Cashflow: 3536500
+Operating Cashflow: 7343000
+Return On Assets: 0.0685
+Return On Equity: 0.12821999
+Total Cash: 18068000
+Total Debt: 15968000
+Debt To Equity: 32.195
+Current Ratio: 1.851
+Quick Ratio: 1.316
+Trailing PE: 138.50002
+Forward PE: 55.4
+Price To Book: 13.6229515
+Beta: 0.66
+52 Week High: 17.85
+52 Week Low: 5.63

@@ -1,0 +1,12 @@
+Company: Nauticus Robotics Inc. Common stock
+Ticker: KITT
+CIK: 0001849820
+Latest SEC XBRL Facts:
+Revenues: 5542749 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4217617 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -21661311 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 42813211 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 46936197 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -4122986 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18943935 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5492350 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

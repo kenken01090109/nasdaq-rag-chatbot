@@ -1,0 +1,9 @@
+Company: MIND Technology Inc. Common Stock (DE)
+Ticker: MIND
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: The Woodlands
+Website: https://mind-technology.com
+Employees: 146
+Business Summary: MIND Technology, Inc., together with its subsidiaries, provides technology to the oceanographic, hydrographic, defense, seismic, and maritime security industries in the United States, China, Norway, Turkey, Singapore, Canada, and internationally. The company's primary products include the GunLink seismic source acquisition and control systems that provide operators of marine seismic surveys with precise monitoring and control of energy sources; the BuoyLink RGPS tracking system, which is used to offer precise positioning of marine seismic energy sources and streamers; Sleeve Gun energy sources; and SeaLink towed seismic streamer system. It also provides streamer weight collars, depth and pressure transducers, air control valves, and source array systems; spare and replacement parts; and repair and engineering services, training and field service operations, and umbilical terminations. The company was formerly known as Mitcham Industries, Inc. MIND Technology, Inc. was incorporated in 1987 and is headquartered in The Woodlands, Texas.

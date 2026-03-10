@@ -1,0 +1,9 @@
+Company: Arq Inc. Common Stock
+Ticker: ARQ
+Sector: Industrials
+Industry: Pollution & Treatment Controls
+Country: United States
+City: Greenwood Village
+Website: https://www.arq.com
+Employees: 200
+Business Summary: Arq, Inc., an environmental technology company, engages in the sale of consumable air, water, and soil treatment solutions based on activated carbon in the United States and Canada. The company's products include granular activated carbon, powdered activated carbon, and colloidal carbon products; Arq Powder Wetcake, a fine and low-ash coal waste-derived particle; and additives for air emissions control. Its products are used in various applications, including water treatment, ground water remediation, soil sediments, air emissions, and asphalt additives. The company was formerly known as Advanced Emissions Solutions, Inc. and changed its name to Arq, Inc. in February 2024. Arq, Inc. was founded in 1997 and is headquartered in Greenwood Village, Colorado.

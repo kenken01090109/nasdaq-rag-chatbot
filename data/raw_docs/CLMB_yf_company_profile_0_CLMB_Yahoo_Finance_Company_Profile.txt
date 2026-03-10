@@ -1,0 +1,9 @@
+Company: Climb Global Solutions Inc. Common Stock
+Ticker: CLMB
+Sector: Technology
+Industry: Electronics & Computer Distribution
+Country: United States
+City: Eatontown
+Website: https://www.climbglobalsolutions.com
+Employees: 392
+Business Summary: Climb Global Solutions, Inc. operates as a value-added information technology (IT) distribution and solutions company in the United States, Canada, Europe, and the United Kingdom. The company operates through two segments, Distribution and Solutions. It distributes technical software to corporate and value-added resellers, consultants, and systems integrators under the name Climb Channel Solutions; and provides cloud solutions and resells software, hardware, and services under the name Grey Matter. The company also resells computer software and hardware developed by others, as well as provides technical services to end user customers. In addition, it offers a line of products from various software vendors; and tools for virtualization/cloud computing, security, networking, storage and infrastructure management, application lifecycle management, and other technically sophisticated domains, as well as computer hardware. The company markets its products through its own web sites, local seminars, events, webinars, and social media, as well as direct email and printed materials. The company was formerly known as Wayside Technology Group, Inc. and changed its name to Climb Global Solutions, Inc. in October 2022. Climb Global Solutions, Inc. was incorporated in 1982 and is headquartered in Eatontown, New Jersey.

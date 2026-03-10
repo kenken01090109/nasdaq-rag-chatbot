@@ -1,0 +1,25 @@
+Company: Calavo Growers Inc. Common Stock
+Ticker: CVGW
+Market Cap: 462581184
+Enterprise Value: 426510176
+Total Revenue: 648433984
+Revenue Per Share: 36.337
+EBITDA: 27094000
+Gross Margins: 0.098179996
+Operating Margins: -0.013830001
+Profit Margins: 0.03053
+Free Cashflow: 18680000
+Operating Cashflow: 21542000
+Return On Assets: 0.04131
+Return On Equity: 0.09734
+Total Cash: 61155000
+Total Debt: 23466000
+Debt To Equity: 11.252
+Current Ratio: 2.471
+Quick Ratio: 1.617
+Trailing PE: 23.315313
+Forward PE: 17.369127
+Price To Book: 2.2329593
+Beta: 0.377
+52 Week High: 28.72
+52 Week Low: 18.4

@@ -1,0 +1,11 @@
+Company: MIND C.T.I. Ltd. Ordinary Shares
+Ticker: MNDO
+CIK: 0001119083
+Latest SEC XBRL Facts:
+Revenues: 21446000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+NetIncomeLoss: 4630000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+Assets: 30702000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+Liabilities: 6406000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+StockholdersEquity: 24296000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 4114000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 4452000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31

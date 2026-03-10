@@ -1,0 +1,10 @@
+Company: AGM Group Holdings Inc. Class A Ordinary Shares
+Ticker: AGMH
+Market Cap: 2942633
+Enterprise Value: -1792407
+Trailing PE: 0.03927585
+Forward PE: 
+Price To Book: 0.07067138
+Beta: 2.362
+52 Week High: 18.1
+52 Week Low: 1.1

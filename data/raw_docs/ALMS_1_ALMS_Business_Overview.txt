@@ -1,0 +1,7 @@
+Company: Alumis Inc. Common Stock
+Ticker: ALMS
+Business Summary: Alumis Inc., a clinical stage biopharmaceutical company, focuses on the development and commercialization of medicines for autoimmune disorders. The company's clinical asset comprises ESK-001, an allosteric tyrosine kinase 2 (TYK2) inhibitor for the treatment of plaque psoriasis and systemic lupus erythematosus; and A-005, a central nervous system-penetrant allosteric TYK2 inhibitor for neuroinflammatory and neurodegenerative diseases. It also develops interferon regulatory factor 5 (IRF5) to address immune dysfunction. The company was formerly known as Esker Therapeutics, Inc. and changed its name to Alumis Inc. in January 2022. The company was incorporated in 2021 and is headquartered in South San Francisco, California.
+Sector: Healthcare
+Industry: Biotechnology
+Exchange: NMS
+Quote Type: EQUITY

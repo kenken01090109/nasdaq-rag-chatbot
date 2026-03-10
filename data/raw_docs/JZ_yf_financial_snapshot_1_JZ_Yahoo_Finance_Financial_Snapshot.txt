@@ -1,0 +1,25 @@
+Company: Jianzhi Education Technology Group Company Limited American Depositary Shs
+Ticker: JZ
+Market Cap: 11926499
+Enterprise Value: 113774608
+Total Revenue: 47202424
+Revenue Per Share: 20.52
+EBITDA: -54339100
+Gross Margins: 0.14205
+Operating Margins: -1.1529499
+Profit Margins: -1.4641299
+Free Cashflow: 6563328
+Operating Cashflow: -13589656
+Return On Assets: -0.33080003
+Return On Equity: -1.9584199
+Total Cash: 8142866
+Total Debt: 8106201
+Debt To Equity: 38.962
+Current Ratio: 0.9
+Quick Ratio: 0.676
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.82468665
+Beta: 2.058
+52 Week High: 14.6
+52 Week Low: 0.532

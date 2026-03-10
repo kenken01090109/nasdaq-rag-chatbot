@@ -1,0 +1,25 @@
+Company: Sportsman's Warehouse Holdings Inc. Common Stock
+Ticker: SPWH
+Market Cap: 53488724
+Enterprise Value: 606254784
+Total Revenue: 1214722944
+Revenue Per Share: 31.753
+EBITDA: 29506000
+Gross Margins: 0.31438
+Operating Margins: 0.024820002
+Profit Margins: -0.0305
+Free Cashflow: -17718124
+Operating Cashflow: -17675000
+Return On Assets: -0.0065499996
+Return On Equity: -0.16354999
+Total Cash: 2246000
+Total Debt: 553088000
+Debt To Equity: 263.981
+Current Ratio: 1.204
+Quick Ratio: 0.02
+Trailing PE: 
+Forward PE: -2.941799
+Price To Book: 0.25528008
+Beta: 0.594
+52 Week High: 4.331
+52 Week Low: 0.92

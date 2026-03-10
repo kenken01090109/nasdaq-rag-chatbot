@@ -1,0 +1,25 @@
+Company: CLPS Incorporation Common Stock
+Ticker: CLPS
+Market Cap: 30040886
+Enterprise Value: 36885880
+Total Revenue: 164481408
+Revenue Per Share: 5.974
+EBITDA: -3370915
+Gross Margins: 0.22073
+Operating Margins: -0.06618
+Profit Margins: -0.042859998
+Free Cashflow: -3457192
+Operating Cashflow: -2544043
+Return On Assets: -0.02875
+Return On Equity: -0.10578
+Total Cash: 29070108
+Total Debt: 33866892
+Debt To Equity: 58.812
+Current Ratio: 1.578
+Quick Ratio: 1.361
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5090726
+Beta: 0.538
+52 Week High: 1.88
+52 Week Low: 0.8

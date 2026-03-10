@@ -1,0 +1,8 @@
+Company: OneIM Acquisition Corp. Units
+Ticker: OIMAU
+CIK: 0002088325
+Latest SEC XBRL Facts:
+NetIncomeLoss: -48286 | unit=USD | filed=2026-02-27 | period_end=2025-09-30
+Assets: 196107 | unit=USD | filed=2026-02-27 | period_end=2025-09-30
+Liabilities: 219393 | unit=USD | filed=2026-02-27 | period_end=2025-09-30
+StockholdersEquity: -23286 | unit=USD | filed=2026-02-27 | period_end=2025-09-30

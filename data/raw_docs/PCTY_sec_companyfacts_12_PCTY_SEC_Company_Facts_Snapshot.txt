@@ -1,0 +1,12 @@
+Company: Paylocity Holding Corporation Common Stock
+Ticker: PCTY
+CIK: 0001591698
+Latest SEC XBRL Facts:
+Revenues: 824306000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 765838000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: 98188000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 6972784000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 5874469000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 1098315000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 203455000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 162495000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

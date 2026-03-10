@@ -1,0 +1,25 @@
+Company: UFP Technologies Inc. Common Stock
+Ticker: UFPT
+Market Cap: 1611462656
+Enterprise Value: 1694812928
+Total Revenue: 602796992
+Revenue Per Share: 78.235
+EBITDA: 112181000
+Gross Margins: 0.2827
+Operating Margins: 0.14104
+Profit Margins: 0.11333
+Free Cashflow: 65668376
+Operating Cashflow: 91905000
+Return On Assets: 0.090500005
+Return On Equity: 0.17820999
+Total Cash: 20301000
+Total Debt: 154482000
+Debt To Equity: 36.445
+Current Ratio: 2.685
+Quick Ratio: 1.45
+Trailing PE: 23.849314
+Forward PE: 18.242304
+Price To Book: 3.8017251
+Beta: 1.146
+52 Week High: 274.93
+52 Week Low: 178.26

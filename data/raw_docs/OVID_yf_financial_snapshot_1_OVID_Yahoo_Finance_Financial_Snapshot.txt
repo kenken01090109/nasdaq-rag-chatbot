@@ -1,0 +1,25 @@
+Company: Ovid Therapeutics Inc. Common Stock
+Ticker: OVID
+Market Cap: 136015584
+Enterprise Value: 124175592
+Total Revenue: 6610000
+Revenue Per Share: 0.093
+EBITDA: -38652000
+Gross Margins: 1.0
+Operating Margins: -94.87121
+Profit Margins: 0.0
+Free Cashflow: -25465250
+Operating Cashflow: -37934000
+Return On Assets: -0.2933
+Return On Equity: -0.60056
+Total Cash: 25603000
+Total Debt: 13763000
+Debt To Equity: 30.791
+Current Ratio: 4.241
+Quick Ratio: 3.767
+Trailing PE: 
+Forward PE: -5.144781
+Price To Book: 3.0414011
+Beta: 0.157
+52 Week High: 2.01
+52 Week Low: 0.243

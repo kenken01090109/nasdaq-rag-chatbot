@@ -1,0 +1,11 @@
+Company: Pattern Group Inc. Series A Common Stock
+Ticker: PTRN
+CIK: 0001811935
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1778211000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -12476000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 843109000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 301736000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 541373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 90913000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 312803000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: CorVel Corp. Common Stock
+Ticker: CRVL
+CIK: 0000874866
+Latest SEC XBRL Facts:
+Revenues: 709979000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 709979000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 79315000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 644785000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 269063000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 375722000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 126172000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 230033000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

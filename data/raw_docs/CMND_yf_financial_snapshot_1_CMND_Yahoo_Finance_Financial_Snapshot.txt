@@ -1,0 +1,25 @@
+Company: Clearmind Medicine Inc. Common Shares
+Ticker: CMND
+Market Cap: 2046078
+Enterprise Value: -3626392
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -5656223
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3819282
+Operating Cashflow: -4734498
+Return On Assets: -0.53109
+Return On Equity: -1.79388
+Total Cash: 5585465
+Total Debt: 1778866
+Debt To Equity: 149.159
+Current Ratio: 1.216
+Quick Ratio: 1.208
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15111347
+Beta: -1.054
+52 Week High: 52.4
+52 Week Low: 1.05

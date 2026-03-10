@@ -1,0 +1,25 @@
+Company: Datasea Inc. Common Stock
+Ticker: DTSS
+Market Cap: 9193495
+Enterprise Value: 12802507
+Total Revenue: 56887888
+Revenue Per Share: 6.975
+EBITDA: -829752
+Gross Margins: 0.07368
+Operating Margins: -0.03975
+Profit Margins: -0.04794
+Free Cashflow: -1213787
+Operating Cashflow: 753886
+Return On Assets: -0.23125
+Return On Equity: -0.81445
+Total Cash: 671785
+Total Debt: 3995383
+Debt To Equity: 115.09
+Current Ratio: 0.6
+Quick Ratio: 0.481
+Trailing PE: 
+Forward PE: 17.6
+Price To Book: 2.5655978
+Beta: 0.844
+52 Week High: 2.8
+52 Week Low: 0.64

@@ -1,0 +1,25 @@
+Company: Generation Income Properties Inc Warrant
+Ticker: GIPRW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 9953920
+Revenue Per Share: 1.832
+EBITDA: 3909888
+Gross Margins: 0.74067
+Operating Margins: -0.21736
+Profit Margins: -1.0322
+Free Cashflow: -1927240
+Operating Cashflow: 654404
+Return On Assets: -0.0063
+Return On Equity: -0.20795
+Total Cash: 325196
+Total Debt: 69239680
+Debt To Equity: 239.368
+Current Ratio: 1.762
+Quick Ratio: 0.106
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.059916783
+Beta: 0.078
+52 Week High: 0.0432
+52 Week Low: 0.0421

@@ -1,0 +1,25 @@
+Company: EquipmentShare.com Inc Class A Common Stock
+Ticker: EQPT
+Market Cap: 6990690304
+Enterprise Value: 7056997888
+Total Revenue: 4360500224
+Revenue Per Share: 55.976
+EBITDA: 576700032
+Gross Margins: 0.33118
+Operating Margins: 0.06865
+Profit Margins: -0.003
+Free Cashflow: 
+Operating Cashflow: 163700000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 468500000
+Total Debt: 4691100160
+Debt To Equity: 572.225
+Current Ratio: 2.199
+Quick Ratio: 1.502
+Trailing PE: 
+Forward PE: 71.59585
+Price To Book: 49.76744
+Beta: 
+52 Week High: 35.5
+52 Week Low: 27.61

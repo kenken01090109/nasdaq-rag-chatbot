@@ -1,0 +1,25 @@
+Company: Atlas Lithium Corporation Common Stock
+Ticker: ATLX
+Market Cap: 133833832
+Enterprise Value: 108519096
+Total Revenue: 180454
+Revenue Per Share: 0.01
+EBITDA: -34521632
+Gross Margins: -0.35979
+Operating Margins: -192.8923
+Profit Margins: 0.0
+Free Cashflow: -20365972
+Operating Cashflow: -19937836
+Return On Assets: -0.32797
+Return On Equity: -1.21339
+Total Cash: 20977192
+Total Debt: 10595264
+Debt To Equity: 29.785
+Current Ratio: 3.691
+Quick Ratio: 3.516
+Trailing PE: 
+Forward PE: -8.262295
+Price To Book: 3.2040687
+Beta: -0.09
+52 Week High: 8.25
+52 Week Low: 3.54

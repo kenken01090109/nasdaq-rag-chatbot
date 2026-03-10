@@ -1,0 +1,25 @@
+Company: MaxCyte Inc. Common Stock
+Ticker: MXCT
+Market Cap: 83461744
+Enterprise Value: 1569803
+Total Revenue: 34419000
+Revenue Per Share: 0.324
+EBITDA: -46208000
+Gross Margins: 0.79973
+Operating Margins: -1.6241001
+Profit Margins: -1.32575
+Free Cashflow: -18346250
+Operating Cashflow: -39542000
+Return On Assets: -0.13665
+Return On Equity: -0.23188
+Total Cash: 105728000
+Total Debt: 18161000
+Debt To Equity: 10.074
+Current Ratio: 7.741
+Quick Ratio: 7.082
+Trailing PE: 
+Forward PE: -2.6276195
+Price To Book: 0.46295857
+Beta: 1.43
+52 Week High: 3.58
+52 Week Low: 0.643

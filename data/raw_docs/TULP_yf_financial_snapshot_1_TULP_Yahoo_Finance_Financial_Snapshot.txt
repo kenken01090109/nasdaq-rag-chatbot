@@ -1,0 +1,25 @@
+Company: Bloomia Holdings Inc. Common Stock
+Ticker: TULP
+Market Cap: 7281422
+Enterprise Value: 90487512
+Total Revenue: 70316000
+Revenue Per Share: 39.727
+EBITDA: 11356000
+Gross Margins: 0.25778
+Operating Margins: -0.33966
+Profit Margins: 0.0274
+Free Cashflow: 
+Operating Cashflow: 13614000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1209000
+Total Debt: 83053000
+Debt To Equity: 929.837
+Current Ratio: 1.677
+Quick Ratio: 0.27
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.9618739
+Beta: 2.941
+52 Week High: 6.19
+52 Week Low: 3.11

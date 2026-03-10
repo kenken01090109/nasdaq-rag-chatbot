@@ -1,0 +1,9 @@
+Company: Mesoblast Limited American Depositary Shares
+Ticker: MESO
+Sector: Healthcare
+Industry: Biotechnology
+Country: Australia
+City: Melbourne
+Website: https://www.mesoblast.com
+Employees: 81
+Business Summary: Mesoblast Limited, together with its subsidiaries, engages in the development of regenerative medicine products in Australia, the United States, Singapore, and Switzerland. The company's proprietary regenerative medicine technology platform is based on specialized cells known as mesenchymal lineage cells. It offers Remestemcel-L, which is in Phase III clinical trials for the treatment of systemic inflammatory diseases, including steroid refractory acute graft versus host disease and biologic refractory inflammatory bowel disease, as well as ulcerative colitis and Crohn's disease; and Remestemcel-L, which is in Phase III clinical trials to treat chronic heart failure and chronic low back pain due to degenerative disc disease. The company is also developing MPC-300-IV to treat biologic refractory rheumatoid arthritis diabetic nephropathy. It has strategic partnerships with Tasly Pharmaceutical Group to offer MPC-150-IM for the treatment or prevention of chronic heart failure; MPC-25-IC for the treatment or prevention of acute myocardial infarction; and Ryoncil for the treatment of pediatric SR-aGVHD; JCR Pharmaceuticals Co. Ltd. to treat wound healing in patients with epidermolysis bullosa and for the treatment of neonatal hypoxic ischemic encephalopathy; and Grünenthal to develops and commercializes cell therapy for the treatment of chronic low back pain. The company was incorporated in 2004 and is headquartered in Melbourne, Australia.

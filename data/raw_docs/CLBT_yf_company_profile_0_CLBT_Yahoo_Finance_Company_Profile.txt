@@ -1,0 +1,9 @@
+Company: Cellebrite DI Ltd. Ordinary Shares
+Ticker: CLBT
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Israel
+City: Petah Tikva
+Website: https://www.cellebrite.com
+Employees: 
+Business Summary: Cellebrite DI Ltd. develops solutions for legally sanctioned investigations in Europe, the Middle East, Africa, the Americas, and the Asia-Pacific. The company's DI suite of solutions allows users to access, collect, review, extract, decode, decrypt, analyze, share, and manage digital data across the investigative lifecycle with respect to legally sanctioned investigations used in various cases, including child exploitation, homicide, anti-terror, border control, sexual crimes, organized crime, human trafficking, corporate security, cryptocurrency, and intellectual property theft. It provides Inseyets, a digital forensics software that collects and reviews digital evidence from various digital sources when conducting legally sanctioned investigations. The company's digital forensics software also offers data extraction, decoding capabilities, workflows, and automation capabilities. In addition, it provides Cellebrite Pathfinder, which reduces the time spent manually reviewing digital evidence by automating data analysis and visualization; Smart Search, an open source intelligence tool that automates the collection and review of publicly available online data; and Guardian, a case and evidence management solution. Further, the company offers digital forensic software for enterprises and service providers, including Inseyets for Enterprise, Endpoint Inspector, and Endpoint Mobile Now; and professional services, such as training and certification services, and advanced services. It serves federal and state and local agencies. The company was founded in 1999 and is headquartered in Petah Tikva, Israel.

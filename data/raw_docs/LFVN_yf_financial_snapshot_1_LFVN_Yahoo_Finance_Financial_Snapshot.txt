@@ -1,0 +1,25 @@
+Company: Lifevantage Corporation Common Stock (Delaware)
+Ticker: LFVN
+Market Cap: 62431592
+Enterprise Value: 60638788
+Total Revenue: 210047008
+Revenue Per Share: 16.901
+EBITDA: 11772000
+Gross Margins: 0.78745
+Operating Margins: 0.00452
+Profit Margins: 0.03742
+Free Cashflow: -454500
+Operating Cashflow: 3748000
+Return On Assets: 0.085360005
+Return On Equity: 0.25002
+Total Cash: 10181000
+Total Debt: 10691000
+Debt To Equity: 32.41
+Current Ratio: 2.028
+Quick Ratio: 0.798
+Trailing PE: 8.133333
+Forward PE: 7.956565
+Price To Book: 1.8914729
+Beta: 0.366
+52 Week High: 17.64
+52 Week Low: 3.9

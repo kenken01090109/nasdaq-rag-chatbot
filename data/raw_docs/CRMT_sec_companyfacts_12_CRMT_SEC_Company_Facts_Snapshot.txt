@@ -1,0 +1,12 @@
+Company: America's Car-Mart Inc Common Stock
+Ticker: CRMT
+CIK: 0000799850
+Latest SEC XBRL Facts:
+Revenues: 691282000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 562553000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetIncomeLoss: 51343000 | unit=USD | filed=2020-06-24 | period_end=2020-04-30
+Assets: 1717920000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+Liabilities: 1162394000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+StockholdersEquity: 555026000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 3141000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 122362000 | unit=USD | filed=2025-12-09 | period_end=2025-10-31

@@ -1,0 +1,9 @@
+Company: Laureate Education Inc. Common Stock
+Ticker: LAUR
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: United States
+City: Miami
+Website: https://www.laureate.net
+Employees: 33900
+Business Summary: Laureate Education, Inc., together with its subsidiaries, offers higher education programs and services to students through a portfolio of higher education institutions in Mexico, Peru, and the United States. The company offers a range of undergraduate, graduate, and specialized degree programs in the areas of medicine and health sciences, engineering and information technology, and business and management through campus-based, online, and hybrid programs. It also operates universities and technical-vocational institutions, as well as provides high school education services. The company was formerly known as Sylvan Learning Systems, Inc. and changed its name to Laureate Education, Inc. in May 2004. Laureate Education, Inc. was founded in 1989 and is headquartered in Miami, Florida.

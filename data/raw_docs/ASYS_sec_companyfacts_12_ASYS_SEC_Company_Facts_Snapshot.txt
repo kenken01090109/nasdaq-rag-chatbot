@@ -1,0 +1,11 @@
+Company: Amtech Systems Inc. Common Stock
+Ticker: ASYS
+CIK: 0000720500
+Latest SEC XBRL Facts:
+Revenues: 79364000 | unit=USD | filed=2025-12-10 | period_end=2025-09-30
+NetIncomeLoss: 108000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 94145000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 40049000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 54096000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 4103000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 22078000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

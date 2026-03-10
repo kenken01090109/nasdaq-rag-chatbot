@@ -1,0 +1,9 @@
+Company: InMed Pharmaceuticals Inc. Common Shares
+Ticker: INM
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Canada
+City: Vancouver
+Website: https://www.inmedpharma.com
+Employees: 13
+Business Summary: InMed Pharmaceuticals Inc., a clinical stage pharmaceutical company, develops a pipeline of prescription-based products in the United States. The company operates through two segments, InMed Pharmaceuticals and BayMedica Commercial. The InMed Pharmaceuticals segment researches and develops cannabinoid-based pharmaceuticals products. The BayMedica Commercial segment develops proprietary manufacturing technologies to produce and sell rare cannabinoids for the health and wellness industry. Its prescription-based products include rare cannabinoids and novel cannabinoid analogs for the treatment of diseases with unmet medical needs. The company's lead product consists of INM-755, a cannabinol topical skin cream that has completed Phase 2 clinical trial for the treatment of epidermolysis bullosa. It also develops INM-089, a small molecule compound that acts as a selective dual CB1/CB2 agonist; and INM-900 for neurodegenerative diseases, as well as INM-901, a small molecule for treatment of Alzheimer's disease. In addition, the company offers IntegraSyn, an integrated biosynthesis-based manufacturing approach for pharmaceutical-grade cannabinoids; and cannabichromene, cannabicitran, cannabidivarin, and tetrahydrocannabivarin. The company was formerly known as Cannabis Technologies Inc. and changed its name to InMed Pharmaceuticals Inc. in October 2014. InMed Pharmaceuticals Inc. was incorporated in 1981 and is headquartered in Vancouver, Canada.

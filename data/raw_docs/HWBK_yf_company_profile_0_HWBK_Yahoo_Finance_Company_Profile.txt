@@ -1,0 +1,9 @@
+Company: Hawthorn Bancshares Inc. Common Stock
+Ticker: HWBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Jefferson City
+Website: https://www.hawthornbancshares.com
+Employees: 
+Business Summary: Hawthorn Bancshares, Inc. operates as the bank holding company for Hawthorn Bank that provides various banking products and services to families and businesses. It offers checking and savings accounts, and certificates of deposit. The company also provides commercial and industrial, single payment personal, mortgage, installment, and commercial and residential real estate loans. In addition, it provides trust, consumer banking, wealth and treasury management, and brokerage services; and safety deposit boxes, debit cards, and internet banking services. The company was formerly known as Exchange National Bancshares, Inc. and changed its name to Hawthorn Bancshares, Inc. in 2007. Hawthorn Bancshares, Inc. was founded in 1865 and is headquartered in Jefferson City, Missouri.

@@ -1,0 +1,9 @@
+Company: Quipt Home Medical Corp. Common Shares
+Ticker: QIPT
+Sector: Healthcare
+Industry: Medical Distribution
+Country: United States
+City: Wilder
+Website: https://quipthomemedical.com
+Employees: 1500
+Business Summary: Quipt Home Medical Corp., through its subsidiaries, engages in the provision of durable and home medical equipment and supplies in the United States. The company offers nebulizers; invasive ventilation; and sleep apnea and pap treatment, home ventilation, equipment solutions, daily and ambulatory aids, power mobility, respiratory equipment rental, oxygen therapy services. It also provides solutions that supports patients dealing with heart and pulmonary disease, reduced mobility, obesity, and other chronic health conditions. The company was formerly known as Protech Home Medical Corp. and changed its name to Quipt Home Medical Corp. in May 2021. Quipt Home Medical Corp. is headquartered in Wilder, Kentucky.

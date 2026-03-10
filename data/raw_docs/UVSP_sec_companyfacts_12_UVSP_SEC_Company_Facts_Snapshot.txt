@@ -1,0 +1,10 @@
+Company: Univest Financial Corporation Common Stock
+Ticker: UVSP
+CIK: 0000102212
+Latest SEC XBRL Facts:
+Revenues: 243485000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 68012000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 8573616000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 7640397000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 933219000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 70842000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

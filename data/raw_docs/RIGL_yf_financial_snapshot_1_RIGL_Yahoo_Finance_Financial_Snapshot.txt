@@ -1,0 +1,25 @@
+Company: Rigel Pharmaceuticals Inc. Common Stock
+Ticker: RIGL
+Market Cap: 524029312
+Enterprise Value: 443674784
+Total Revenue: 294281984
+Revenue Per Share: 16.361
+EBITDA: 127881000
+Gross Margins: 0.82018995
+Operating Margins: 0.33194
+Profit Margins: 1.24718
+Free Cashflow: 74607248
+Operating Cashflow: 75655000
+Return On Assets: 0.23146
+Return On Equity: 1.85944
+Total Cash: 154955008
+Total Debt: 53303000
+Debt To Equity: 13.616
+Current Ratio: 2.42
+Quick Ratio: 2.083
+Trailing PE: 4.6639743
+Forward PE: 6.0193615
+Price To Book: 1.3503275
+Beta: 1.169
+52 Week High: 52.24
+52 Week Low: 15.5

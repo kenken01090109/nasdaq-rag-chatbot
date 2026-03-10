@@ -1,0 +1,5 @@
+Company: argenx SE American Depositary Shares
+Ticker: ARGX
+CIK: 0001697862
+Latest SEC XBRL Facts:
+NetIncomeLoss: -162965000 | unit=EUR | filed=2020-03-31 | period_end=2019-12-31

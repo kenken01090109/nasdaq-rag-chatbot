@@ -1,0 +1,12 @@
+Company: Phillips Edison & Company Inc. Common Stock
+Ticker: PECO
+CIK: 0001476204
+Latest SEC XBRL Facts:
+Revenues: 538733000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9373000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 63778000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 5262354000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Liabilities: 2682630000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 2277793000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 252085000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4076000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

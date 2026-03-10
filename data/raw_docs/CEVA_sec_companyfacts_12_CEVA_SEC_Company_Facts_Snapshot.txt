@@ -1,0 +1,11 @@
+Company: CEVA Inc. Common Stock
+Ticker: CEVA
+CIK: 0001173489
+Latest SEC XBRL Facts:
+Revenues: 17569000 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 56476000 | unit=USD | filed=2018-11-09 | period_end=2018-09-30
+NetIncomeLoss: -9540000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 306014000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 268719000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12080000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17270000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Ohmyhome Limited Class A Ordinary Shares
+Ticker: OMH
+Market Cap: 28740296
+Enterprise Value: 24217094
+Total Revenue: 13070617
+Revenue Per Share: 0.934
+EBITDA: -2534019
+Gross Margins: 0.36931
+Operating Margins: -0.17918
+Profit Margins: -0.33708
+Free Cashflow: 184534
+Operating Cashflow: -1623303
+Return On Assets: -0.16398
+Return On Equity: -0.59667
+Total Cash: 6309371
+Total Debt: 483550
+Debt To Equity: 6.019
+Current Ratio: 2.403
+Quick Ratio: 2.311
+Trailing PE: 
+Forward PE: -12.043011
+Price To Book: 4.3204336
+Beta: -0.419
+52 Week High: 4.33
+52 Week Low: 0.25

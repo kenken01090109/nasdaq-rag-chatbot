@@ -1,0 +1,11 @@
+Company: Heidmar Maritime Holdings Corp. Common Stock
+Ticker: HMR
+CIK: 0002029471
+Latest SEC XBRL Facts:
+Revenues: 15151822 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: -19758486 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 72575385 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 59769939 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 12805446 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 6759303 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 11282772 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Axon Enterprise Inc. Common Stock
+Ticker: AXON
+Market Cap: 46149066752
+Enterprise Value: 45942755328
+Total Revenue: 2779535872
+Revenue Per Share: 35.598
+EBITDA: 53508000
+Gross Margins: 0.59823
+Operating Margins: -0.03063
+Profit Margins: 0.044850003
+Free Cashflow: 230031120
+Operating Cashflow: 211339008
+Return On Assets: -0.0032300001
+Return On Equity: 0.04476
+Total Cash: 1733777024
+Total Debt: 1916653952
+Debt To Equity: 59.107
+Current Ratio: 2.526
+Quick Ratio: 2.104
+Trailing PE: 387.8446
+Forward PE: 54.311337
+Price To Book: 14.199031
+Beta: 1.524
+52 Week High: 885.92
+52 Week Low: 396.41

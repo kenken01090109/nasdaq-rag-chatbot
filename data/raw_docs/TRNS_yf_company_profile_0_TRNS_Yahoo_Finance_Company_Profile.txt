@@ -1,0 +1,9 @@
+Company: Transcat Inc. Common Stock
+Ticker: TRNS
+Sector: Industrials
+Industry: Specialty Business Services
+Country: United States
+City: Rochester
+Website: https://www.transcat.com
+Employees: 1245
+Business Summary: Transcat, Inc. provides calibration and laboratory instrument services in the United States, Canada, and internationally. It operates through two segments, Service and Distribution. The Service segment offers calibration, repair, inspection, analytical qualification, preventative maintenance, consulting, and other related services. This segment also provides CalTrak, a proprietary document and asset management system that is used to manage the workflow of its calibration service centers and customers' assets; and Compliance, Control, and Cost, an online customer portal that provides its customers with web-based asset management capability, as well as a safe and secure off-site archive of calibration and other service records. The Distribution segment sells and rents test, measurement, and control instruments for customers' test and measurement instrumentation needs, as well as value-added services, such as calibration/certification of equipment purchase, equipment rental, used equipment for sale, and equipment kitting. This segment markets and sells its products through website, digital and print advertising, proactive outbound sales, and an inbound call center. The company provides services and products to highly regulated industries, principally life science, which includes companies in the pharmaceutical, biotechnology, medical device, and other FDA-regulated industries; and additional industries, including aerospace and defense, industrial manufacturing, energy and utilities, chemical manufacturing, and other industries that require accuracy in processes and confirmation of the capabilities of their equipment. Transcat, Inc. was incorporated in 1964 and is headquartered in Rochester, New York.

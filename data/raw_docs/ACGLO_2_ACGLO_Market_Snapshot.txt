@@ -1,0 +1,10 @@
+Company: Arch Capital Group Ltd. Depositary Shares Each Representing 1/1000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares Series F
+Ticker: ACGLO
+Market Cap: 12081604608
+Enterprise Value: 7376019456
+Trailing PE: 4.4169683
+Forward PE: 
+Price To Book: 0.3169601
+Beta: 0.365
+52 Week High: 22.2
+52 Week Low: 19.99

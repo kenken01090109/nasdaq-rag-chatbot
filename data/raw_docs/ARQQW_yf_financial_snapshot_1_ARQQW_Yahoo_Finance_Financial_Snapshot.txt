@@ -1,0 +1,25 @@
+Company: Arqit Quantum Inc. Warrants
+Ticker: ARQQW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 530000
+Revenue Per Share: 0.038
+EBITDA: -34692000
+Gross Margins: 0.37736
+Operating Margins: -65.89057
+Profit Margins: 0.0
+Free Cashflow: -11289250
+Operating Cashflow: -29553000
+Return On Assets: -0.62746
+Return On Equity: -1.81436
+Total Cash: 36978000
+Total Debt: 719000
+Debt To Equity: 2.64
+Current Ratio: 2.686
+Quick Ratio: 2.629
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.07372263
+Beta: 2.433
+52 Week High: 0.37
+52 Week Low: 0.13

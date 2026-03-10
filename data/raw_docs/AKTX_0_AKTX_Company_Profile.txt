@@ -1,0 +1,9 @@
+Company: Akari Therapeutics plc ADS
+Ticker: AKTX
+Long Business Summary: Akari Therapeutics, Plc, an oncology company, develops next-generation antibody-drug conjugates (ADC) for cancer-killing toxins. Its lead payload is PH1 to disrupt the function of spliceosomes and to trigger an immune response that leads to additional cancer cell killing. The company's lead product candidate is AKTX-101, a preclinical stage trop2-targeting ADC that combines PH1 with the trop2 antibody to treat solid tumor cancer types, including lung, breast, colon, and prostate. Its payloads include PH5, which inhibits DNA mismatch repair (MMR) and DNA damage response (DDR) to generate neoepitopes, and PH6, which inhibits DNA transcription in cancer cells and co-opted immune cells. The company also develops AKTX-102, a novel bispecific ADC that utilizes PH1 as its payload to treat various solid tumor cancers. Akari Therapeutics, Plc is headquartered in Boston, Massachusetts.
+Industry: Biotechnology
+Sector: Healthcare
+Website: https://www.akaritx.com
+Country: United States
+City: Boston
+Full Time Employees: 8

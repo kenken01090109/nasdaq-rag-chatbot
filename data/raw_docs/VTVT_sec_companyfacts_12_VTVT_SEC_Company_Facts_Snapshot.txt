@@ -1,0 +1,11 @@
+Company: vTv Therapeutics Inc. Class A Common Stock
+Ticker: VTVT
+CIK: 0001641489
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -19836000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 99494000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 28951000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 70543000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16004000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 98504000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

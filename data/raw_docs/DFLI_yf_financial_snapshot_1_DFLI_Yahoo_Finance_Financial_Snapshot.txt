@@ -1,0 +1,25 @@
+Company: Dragonfly Energy Holdings Corp. Common Stock (NV)
+Ticker: DFLI
+Market Cap: 31283866
+Enterprise Value: 96939848
+Total Revenue: 57783000
+Revenue Per Share: 27.762
+EBITDA: -17927000
+Gross Margins: 0.27356002
+Operating Margins: -0.23661
+Profit Margins: -0.60126996
+Free Cashflow: -15489625
+Operating Cashflow: -13742000
+Return On Assets: -0.15944
+Return On Equity: 
+Total Cash: 3838000
+Total Debt: 69494000
+Debt To Equity: 
+Current Ratio: 1.344
+Quick Ratio: 0.336
+Trailing PE: 
+Forward PE: -6.317073
+Price To Book: -0.74105865
+Beta: -0.099
+52 Week High: 26.1
+52 Week Low: 1.5

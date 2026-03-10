@@ -1,0 +1,12 @@
+Company: Sera Prognostics Inc. Class A Common Stock
+Ticker: SERA
+CIK: 0001534969
+Latest SEC XBRL Facts:
+Revenues: 71000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 71000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -24047000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 108125000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 25943000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 82182000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19503000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4081000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

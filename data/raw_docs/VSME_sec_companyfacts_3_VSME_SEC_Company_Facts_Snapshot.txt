@@ -1,0 +1,11 @@
+Company: VS Media Holdings Limited Class A Ordinary Shares
+Ticker: VSME
+CIK: 0001951294
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3259037 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetIncomeLoss: -4444519 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 13247186 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 5572183 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 7675003 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2155713 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 7401775 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

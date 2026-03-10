@@ -1,0 +1,25 @@
+Company: Belite Bio Inc American Depositary Shares
+Ticker: BLTE
+Market Cap: 6501285888
+Enterprise Value: 6364651520
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -67405000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 103463000
+Operating Cashflow: -31204000
+Return On Assets: -0.21215999
+Return On Equity: -0.32301
+Total Cash: 275614016
+Total Debt: 510000
+Debt To Equity: 0.186
+Current Ratio: 34.368
+Quick Ratio: 34.171
+Trailing PE: 
+Forward PE: 220.76433
+Price To Book: 22.062382
+Beta: -1.461
+52 Week High: 200.0
+52 Week Low: 49.0

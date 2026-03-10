@@ -1,0 +1,9 @@
+Company: AiRWA Inc. Common Stock
+Ticker: YYAI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Smyrna
+Website: https://yuanyuenterprise.com
+Employees: 
+Business Summary: AiRWA Inc. through its subsidiaries, operates artificial intelligence software that provides online matchmaking and dating experiences in Hong Kong, the United States, and the United Kingdom. The company was formerly known as Connexa Sports Technologies Inc. and changed its name to AiRWA Inc. in October 2025. AiRWA Inc. was founded in 2021 and is headquartered in Smyrna, Delaware.

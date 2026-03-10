@@ -1,0 +1,25 @@
+Company: AMC Robotics Corporation Common Stock
+Ticker: AMCI
+Market Cap: 142350928
+Enterprise Value: 143459792
+Total Revenue: 6878315
+Revenue Per Share: 0.853
+EBITDA: 
+Gross Margins: 0.28417
+Operating Margins: 0.45616
+Profit Margins: 0.23638001
+Free Cashflow: -9480662
+Operating Cashflow: -6222695
+Return On Assets: -0.14917
+Return On Equity: 
+Total Cash: 3015102
+Total Debt: 4123967
+Debt To Equity: 134.451
+Current Ratio: 1.65
+Quick Ratio: 0.918
+Trailing PE: 
+Forward PE: 
+Price To Book: 16.890081
+Beta: -0.336
+52 Week High: 42.0
+52 Week Low: 2.5

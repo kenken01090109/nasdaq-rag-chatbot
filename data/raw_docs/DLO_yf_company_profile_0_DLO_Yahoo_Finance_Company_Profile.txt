@@ -1,0 +1,9 @@
+Company: DLocal Limited Class A Common Shares
+Ticker: DLO
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Uruguay
+City: Montevideo
+Website: https://www.dlocal.com
+Employees: 1095
+Business Summary: DLocal Limited, together with its subsidiaries, operates a payment processing platform worldwide. The company offers a robust pay-in solution that allows businesses to get paid for their products and services through various payment methods, including international and local cards, online bank transfers, direct debit, cash, and hundreds of alternative payment methods (APMs). It also provides a pay-out solution used by merchants to scale their pay-out operations. In addition, the company offers dLocal for Platforms, an end-to-end payment solution that provides a range of services to help platforms manage global payments. It serves its products to the commerce, streaming, ride-hailing, financial services, remittances, advertising, SaaS, travel, e-learning, on-demand delivery, gaming, and crypto industries. The company was founded in 2016 and is headquartered in Montevideo, Uruguay.

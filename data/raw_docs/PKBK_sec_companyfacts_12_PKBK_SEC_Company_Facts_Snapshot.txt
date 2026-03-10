@@ -1,0 +1,10 @@
+Company: Parke Bancorp Inc. Common Stock
+Ticker: PKBK
+CIK: 0001315399
+Latest SEC XBRL Facts:
+NetIncomeLoss: 26691000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2172134000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1857297000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 314837000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 25113000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 86735000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30

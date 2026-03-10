@@ -1,0 +1,25 @@
+Company: ARKO Corp. Common Stock
+Ticker: ARKO
+Market Cap: 680963776
+Enterprise Value: 3061157632
+Total Revenue: 6545247232
+Revenue Per Share: 57.763
+EBITDA: 233371008
+Gross Margins: 0.18042
+Operating Margins: 0.01647
+Profit Margins: 0.00347
+Free Cashflow: 36206000
+Operating Cashflow: 192584992
+Return On Assets: 0.01684
+Return On Equity: 0.06113
+Total Cash: 311468992
+Total Debt: 2577338112
+Debt To Equity: 701.815
+Current Ratio: 1.657
+Quick Ratio: 1.108
+Trailing PE: 54.909092
+Forward PE: 120.799995
+Price To Book: 2.5051847
+Beta: 0.815
+52 Week High: 6.705
+52 Week Low: 3.51

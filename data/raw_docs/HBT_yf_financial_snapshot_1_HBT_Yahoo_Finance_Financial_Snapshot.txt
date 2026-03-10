@@ -1,0 +1,25 @@
+Company: HBT Financial Inc. Common Stock
+Ticker: HBT
+Market Cap: 825716672
+Enterprise Value: 768657664
+Total Revenue: 233924000
+Revenue Per Share: 7.426
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4674
+Profit Margins: 0.32919997
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.015240001
+Return On Equity: 0.13276
+Total Cash: 122269000
+Total Debt: 65210000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.766394
+Forward PE: 8.684298
+Price To Book: 1.3415381
+Beta: 0.556
+52 Week High: 29.88
+52 Week Low: 19.46

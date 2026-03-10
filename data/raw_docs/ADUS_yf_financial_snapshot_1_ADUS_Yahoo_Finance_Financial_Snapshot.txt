@@ -1,0 +1,25 @@
+Company: Addus HomeCare Corporation Common Stock
+Ticker: ADUS
+Market Cap: 1911270784
+Enterprise Value: 1961692800
+Total Revenue: 1422530048
+Revenue Per Share: 78.797
+EBITDA: 156227008
+Gross Margins: 0.32467997
+Operating Margins: 0.11252
+Profit Margins: 0.06742
+Free Cashflow: 72156872
+Operating Cashflow: 111507000
+Return On Assets: 0.06132
+Return On Equity: 0.093310006
+Total Cash: 81617000
+Total Debt: 171362000
+Debt To Equity: 15.789
+Current Ratio: 1.803
+Quick Ratio: 1.631
+Trailing PE: 19.772032
+Forward PE: 13.86199
+Price To Book: 1.7247949
+Beta: 0.934
+52 Week High: 124.44
+52 Week Low: 88.96

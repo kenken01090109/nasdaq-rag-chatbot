@@ -1,0 +1,9 @@
+Company: Innoviva Inc. Common Stock
+Ticker: INVA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Burlingame
+Website: https://www.inva.com
+Employees: 159
+Business Summary: Innoviva, Inc. operates as a biopharmaceutical company in the United States and internationally. Its royalty portfolio includes RELVAR/BREO ELLIPTA, a once-daily combination medicine consisting of a LABA, vilanterol, and an inhaled corticosteroid, and fluticasone furoate; ANORO ELLIPTA, a once-daily medicine combining a long-acting muscarinic antagonist, umeclidinium bromide, and ABA, VI. The company also markets GIAPREZA for increasing blood pressure in adults with septic or other distributive shock; XACDURO, a co-packaged for intravenous use for the treatment of hospital-acquired and ventilator-associated bacterial pneumonia caused by Acinetobacter; XERAVA for the treatment of complicated intra-abdominal infections in adults; ZEVTERA an advanced-generation cephalosporin antibiotic for the treatment of staphylococcus aureus bacteremia, as well as with right-sided endocarditis, acute bacterial skin and skin structure infections, and community-acquired bacterial pneumonia; NUZOLVENCE for the treatment of uncomplicated urogenital gonorrhea in adults and adolescents. In addition, the company develops bacteriophages with potential use in a range of infectious and other serious diseases. It has a strategic partnership with Sarissa Capital Management LP; and LABA Collaboration Agreement with Glaxo Group Limited to develop and commercialize once-daily products for the treatment of chronic obstructive pulmonary disease and asthma. The company was formerly known as Theravance, Inc. and changed its name to Innoviva, Inc. in January 2016. Innoviva, Inc. was incorporated in 1996 and is headquartered in Burlingame, California.

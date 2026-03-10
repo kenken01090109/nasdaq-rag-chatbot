@@ -1,0 +1,12 @@
+Company: Conduent Incorporated Common Stock
+Ticker: CNDT
+CIK: 0001677703
+Latest SEC XBRL Facts:
+Revenues: 2272000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2272000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 426000000 | unit=USD | filed=2025-02-19 | period_end=2024-12-31
+Assets: 2500000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1641000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 717000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -112000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 248000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

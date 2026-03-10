@@ -1,0 +1,25 @@
+Company: TriSalus Life Sciences Inc. Warrant
+Ticker: TLSIW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 45151000
+Revenue Per Share: 1.191
+EBITDA: -26320000
+Gross Margins: 0.84573996
+Operating Margins: -0.24771
+Profit Margins: -0.8688
+Free Cashflow: -17890250
+Operating Cashflow: -18012000
+Return On Assets: -0.56798
+Return On Equity: 
+Total Cash: 20439000
+Total Debt: 34441000
+Debt To Equity: 
+Current Ratio: 2.804
+Quick Ratio: 2.348
+Trailing PE: 
+Forward PE: 
+Price To Book: -2.3042836
+Beta: 
+52 Week High: 5.0
+52 Week Low: 0.42

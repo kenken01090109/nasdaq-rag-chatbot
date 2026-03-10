@@ -1,0 +1,9 @@
+Company: Apogee Therapeutics Inc. Common Stock
+Ticker: APGE
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Waltham
+Website: https://www.apogeetherapeutics.com
+Employees: 261
+Business Summary: Apogee Therapeutics, Inc., a clinical stage biotechnology company, develops novel biologics for the treatment of atopic dermatitis, asthma, eosinophilic esophagitis, chronic obstructive pulmonary disease, and other inflammatory and immunology indications in the United States. The company develops Zumilokibart (APG777), a subcutaneous (SQ) extended half-life monoclonal antibody (mAb) for the treatment of atopic dermatitis, which is in phase 2 clinical trials; and for the treatment of asthma and eosinophilic esophagitis which is in phase 1 clinical trial. It also develops APG279 which is in phase 1 clinical trial for the treatment of atopic dermatitis; APG273 which is in phase 1 clinical trial for the treatment of asthma and chronic obstructive pulmonary disease; and APG808, an SQ extended half-life mAb targeting IL-4Ra for the treatment of Type 2 allergic diseases. Apogee Therapeutics, Inc. was incorporated in 2022 and is headquartered in Waltham, Massachusetts.

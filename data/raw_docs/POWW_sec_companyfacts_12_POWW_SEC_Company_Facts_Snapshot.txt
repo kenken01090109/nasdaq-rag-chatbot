@@ -1,0 +1,12 @@
+Company: Outdoor Holding Company Common Stock
+Ticker: POWW
+CIK: 0001015383
+Latest SEC XBRL Facts:
+Revenues: 3201967 | unit=USD | filed=2019-02-14 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 37236005 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -2823249 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 271653271 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 34385362 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 237267909 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -8619446 | unit=USD | filed=2025-05-20 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 69857730 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

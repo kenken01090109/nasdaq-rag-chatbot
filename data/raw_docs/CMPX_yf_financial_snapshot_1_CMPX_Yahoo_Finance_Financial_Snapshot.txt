@@ -1,0 +1,25 @@
+Company: Compass Therapeutics Inc. Common Stock
+Ticker: CMPX
+Market Cap: 980020160
+Enterprise Value: 802007360
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -71024000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -22006376
+Operating Cashflow: -45051000
+Return On Assets: -0.23469
+Return On Equity: -0.37818
+Total Cash: 219895008
+Total Debt: 9867000
+Debt To Equity: 4.707
+Current Ratio: 17.815
+Quick Ratio: 17.716
+Trailing PE: 
+Forward PE: -10.203704
+Price To Book: 4.669492
+Beta: 1.292
+52 Week High: 6.88
+52 Week Low: 1.33

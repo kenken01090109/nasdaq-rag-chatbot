@@ -1,0 +1,10 @@
+Company: Axcelis Technologies Inc. Common Stock
+Ticker: ACLS
+Market Cap: 2639053568
+Enterprise Value: 2336601344
+Trailing PE: 22.607897
+Forward PE: 19.040337
+Price To Book: 2.5504694
+Beta: 1.761
+52 Week High: 102.93
+52 Week Low: 40.4

@@ -1,0 +1,25 @@
+Company: Energy Recovery Inc. Common Stock
+Ticker: ERII
+Market Cap: 562033920
+Enterprise Value: 501031584
+Total Revenue: 134987008
+Revenue Per Share: 2.509
+EBITDA: 28315000
+Gross Margins: 0.65139997
+Operating Margins: 0.46491
+Profit Margins: 0.17011
+Free Cashflow: 8585875
+Operating Cashflow: 18770000
+Return On Assets: 0.06471
+Return On Equity: 0.11034001
+Total Cash: 75249000
+Total Debt: 9429000
+Debt To Equity: 4.573
+Current Ratio: 10.442
+Quick Ratio: 8.752
+Trailing PE: 25.261906
+Forward PE: 11.449598
+Price To Book: 2.7170293
+Beta: 1.1
+52 Week High: 18.32
+52 Week Low: 9.59

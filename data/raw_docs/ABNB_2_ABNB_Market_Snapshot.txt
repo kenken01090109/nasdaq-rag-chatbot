@@ -1,0 +1,10 @@
+Company: Airbnb Inc. Class A Common Stock
+Ticker: ABNB
+Market Cap: 81443979264
+Enterprise Value: 72700968960
+Trailing PE: 33.70968
+Forward PE: 23.359264
+Price To Book: 9.974303
+Beta: 1.163
+52 Week High: 143.88
+52 Week Low: 99.88

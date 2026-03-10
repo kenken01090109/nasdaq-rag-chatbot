@@ -1,0 +1,25 @@
+Company: authID Inc. Common Stock
+Ticker: AUID
+Market Cap: 23208080
+Enterprise Value: 16207014
+Total Revenue: 1834458
+Revenue Per Share: 0.151
+EBITDA: -18875040
+Gross Margins: 1.0
+Operating Margins: 49.3002
+Profit Margins: 0.0
+Free Cashflow: -8451371
+Operating Cashflow: -14935116
+Return On Assets: -0.83226997
+Return On Equity: -1.50908
+Total Cash: 4899658
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.528
+Quick Ratio: 2.986
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.3227754
+Beta: 1.61
+52 Week High: 9.584
+52 Week Low: 0.84

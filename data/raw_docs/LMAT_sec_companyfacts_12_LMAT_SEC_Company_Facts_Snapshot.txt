@@ -1,0 +1,11 @@
+Company: LeMaitre Vascular Inc. Common Stock
+Ticker: LMAT
+CIK: 0001158895
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 249602000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: 42152000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 598069000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 219146000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 378923000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 58094000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25494000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

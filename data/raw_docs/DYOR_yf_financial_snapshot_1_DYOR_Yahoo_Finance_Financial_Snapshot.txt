@@ -1,0 +1,25 @@
+Company: Insight Digital Partners II Class A Ordinary Shares
+Ticker: DYOR
+Market Cap: 228850000
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -1990.0
+Beta: 
+52 Week High: 10.47
+52 Week Low: 9.87

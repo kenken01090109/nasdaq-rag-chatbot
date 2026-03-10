@@ -1,0 +1,25 @@
+Company: Calamos Convertible Opportunities and Income Fund Common Stock
+Ticker: CHI
+Market Cap: 888644992
+Enterprise Value: 
+Total Revenue: 20358642
+Revenue Per Share: 0.256
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.37331
+Profit Margins: 8.47563
+Free Cashflow: -10333343
+Operating Cashflow: 67112136
+Return On Assets: 0.00489
+Return On Equity: 0.20987
+Total Cash: 
+Total Debt: 433937280
+Debt To Equity: 49.022
+Current Ratio: 5.249
+Quick Ratio: 0.925
+Trailing PE: 5.09589
+Forward PE: 
+Price To Book: 1.003868
+Beta: 1.098
+52 Week High: 11.75
+52 Week Low: 8.41

@@ -1,0 +1,9 @@
+Company: Kaltura Inc. Common Stock
+Ticker: KLTR
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: New York
+Website: https://kaltura.com
+Employees: 563
+Business Summary: Kaltura, Inc. provides various software-as-a-service (SaaS) products and solutions and a platform-as-a-service (PaaS) in the United States, Europe, the Middle East, Africa, and internationally. The company operates through two segments, Enterprise, Education, and Technology (EE&T); and Media and Telecom (M&T). It offers video products, such as virtual and hybrid events, webinars, video portals, online learning, and content portals for training, marketing, virtual and hybrid events, communication, collaboration, sales, and customer care; and education solutions, such as learning management system video and lecture capture solutions. The company provides online video experiences, including for over-the-top (OTT) television, cloud TV, web video publishing, video-based teaching, learning, training, video-based marketing, and video-based collaboration. In addition, it offers application programming interfaces (APIs), software development kits, and experience components, including live, real-time and on-demand video, ingestion, transcoding, enrichment, management, distribution, engagement, monetization, and deep viewer analytics, as well as video player, video editor, video capture tool, and chat and networking widgets. The company serves a range of industries, including financial services, high technology, healthcare and pharmaceuticals, education, public sector, media, telecommunications, information technology (IT) and professional services, retail, and manufacturing. The company was incorporated in 2006 and is headquartered in New York, New York.

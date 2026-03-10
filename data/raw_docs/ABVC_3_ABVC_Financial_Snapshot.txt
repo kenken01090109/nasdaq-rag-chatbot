@@ -1,0 +1,12 @@
+Company: ABVC BioPharma Inc. Common Stock
+Ticker: ABVC
+Total Revenue: 797916
+Revenue Per Share: 0.046
+Gross Margins: 1.0
+Operating Margins: -1.4651899
+EBITDA: -4880031
+Profit Margins: 0.0
+Free Cashflow: -1543949
+Operating Cashflow: -2269398
+Return On Assets: -0.17221001
+Return On Equity: -0.47713003

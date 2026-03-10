@@ -1,0 +1,11 @@
+Company: First Hawaiian Inc. Common Stock
+Ticker: FHB
+CIK: 0000036377
+Latest SEC XBRL Facts:
+Revenues: 654935000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 206335000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 24098728000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 21364807000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 2733921000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 230175000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2399082000 | unit=USD | filed=2021-11-01 | period_end=2021-09-30

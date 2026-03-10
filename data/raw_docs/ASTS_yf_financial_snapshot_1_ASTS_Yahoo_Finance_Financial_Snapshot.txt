@@ -1,0 +1,25 @@
+Company: AST SpaceMobile Inc. Class A Common Stock
+Ticker: ASTS
+Market Cap: 34008961024
+Enterprise Value: 27921590272
+Total Revenue: 70918000
+Revenue Per Share: 0.277
+EBITDA: -236602000
+Gross Margins: 0.50343
+Operating Margins: -1.33095
+Profit Margins: 0.0
+Free Cashflow: -1240983040
+Operating Cashflow: -71517000
+Return On Assets: -0.06025
+Return On Equity: -0.30117
+Total Cash: 2335683072
+Total Debt: 2239510016
+Debt To Equity: 93.612
+Current Ratio: 16.353
+Quick Ratio: 15.787
+Trailing PE: 
+Forward PE: 6446.325
+Price To Book: 13.869942
+Beta: 2.867
+52 Week High: 129.89
+52 Week Low: 18.22

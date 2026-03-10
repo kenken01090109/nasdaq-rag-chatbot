@@ -1,0 +1,9 @@
+Company: Pantages Capital Acquisition Corporation Right
+Ticker: PGACR
+CIK: 0002030829
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2090753 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 89685276 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1437265 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -980378 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -641488 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

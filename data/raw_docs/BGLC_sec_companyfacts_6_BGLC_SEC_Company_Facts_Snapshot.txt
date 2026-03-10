@@ -1,0 +1,11 @@
+Company: BioNexus Gene Lab Corp Common stock
+Ticker: BGLC
+CIK: 0001737523
+Latest SEC XBRL Facts:
+Revenues: 6941151 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1948490 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 7621228 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 804966 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 6816262 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2799444 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1844322 | unit=USD | filed=2022-05-16 | period_end=2022-03-31

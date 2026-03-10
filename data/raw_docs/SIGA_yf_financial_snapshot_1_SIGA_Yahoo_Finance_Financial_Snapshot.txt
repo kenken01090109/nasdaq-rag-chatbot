@@ -1,0 +1,25 @@
+Company: SIGA Technologies Inc. Common Stock
+Ticker: SIGA
+Market Cap: 415345568
+Enterprise Value: 275813504
+Total Revenue: 172249648
+Revenue Per Share: 2.41
+EBITDA: 90834656
+Gross Margins: 0.65686995
+Operating Margins: -3.9017498
+Profit Margins: 0.43233
+Free Cashflow: 88438232
+Operating Cashflow: 116642360
+Return On Assets: 0.26434
+Return On Equity: 0.39938
+Total Cash: 171955584
+Total Debt: 914548
+Debt To Equity: 0.449
+Current Ratio: 9.168
+Quick Ratio: 7.022
+Trailing PE: 5.631068
+Forward PE: 3.8410597
+Price To Book: 2.0415347
+Beta: 0.991
+52 Week High: 9.62
+52 Week Low: 4.95

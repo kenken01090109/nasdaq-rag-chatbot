@@ -1,0 +1,9 @@
+Company: PodcastOne Inc. Common Stock
+Ticker: PODC
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: United States
+City: Beverly Hills
+Website: https://www.podcastone.com
+Employees: 40
+Business Summary: PodcastOne, Inc. operates as a podcast platform and publisher. The company provides its content to audiences through podcasting distribution platforms, including its website, Apple Podcasts, Spotify, Amazon Music, and others. It also produces vodcasts, branded podcasts, merchandise, and live events. In addition, the company builds, owns, and operates LaunchPadOne, a self-publishing podcast hosting, distribution, and monetization platform for independent podcasters. The company was formerly known as Courtside Group, Inc. and changed its name to PodcastOne, Inc. in September 2023. PodcastOne, Inc. was incorporated in 2014 and is headquartered in Beverly Hills, California. PodcastOne, Inc. is a subsidiary of LiveOne, Inc.

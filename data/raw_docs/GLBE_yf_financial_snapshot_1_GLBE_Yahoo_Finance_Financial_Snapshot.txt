@@ -1,0 +1,25 @@
+Company: Global-E Online Ltd. Ordinary Shares
+Ticker: GLBE
+Market Cap: 6006605824
+Enterprise Value: 5639814656
+Total Revenue: 962195008
+Revenue Per Share: 5.664
+EBITDA: 158648992
+Gross Margins: 0.45339
+Operating Margins: 0.18792
+Profit Margins: 0.07095
+Free Cashflow: 213034880
+Operating Cashflow: 283782016
+Return On Assets: 0.03286
+Return On Equity: 0.07477
+Total Cash: 622835968
+Total Debt: 23502000
+Debt To Equity: 2.52
+Current Ratio: 1.935
+Quick Ratio: 1.687
+Trailing PE: 90.74359
+Forward PE: 19.150433
+Price To Book: 6.455673
+Beta: 1.245
+52 Week High: 43.21
+52 Week Low: 26.64

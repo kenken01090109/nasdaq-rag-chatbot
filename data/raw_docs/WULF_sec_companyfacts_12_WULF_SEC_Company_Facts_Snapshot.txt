@@ -1,0 +1,12 @@
+Company: TeraWulf Inc. Common Stock
+Ticker: WULF
+CIK: 0001083301
+Latest SEC XBRL Facts:
+Revenues: 132619000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12068208 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+NetIncomeLoss: -534838000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 2454445000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2207104000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 247341000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -35009000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 711315000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

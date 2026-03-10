@@ -1,0 +1,25 @@
+Company: Amgen Inc. Common Stock
+Ticker: AMGN
+Market Cap: 199201669120
+Enterprise Value: 244467269632
+Total Revenue: 36750999552
+Revenue Per Share: 68.31
+EBITDA: 16616999936
+Gross Margins: 0.70783997
+Operating Margins: 0.30549
+Profit Margins: 0.20982
+Free Cashflow: 7501875200
+Operating Cashflow: 9957999616
+Return On Assets: 0.07931
+Return On Equity: 1.0610299
+Total Cash: 9128999936
+Total Debt: 55435001856
+Debt To Equity: 640.275
+Current Ratio: 1.14
+Quick Ratio: 0.734
+Trailing PE: 25.968378
+Forward PE: 15.889062
+Price To Book: 22.996452
+Beta: 0.425
+52 Week High: 391.29
+52 Week Low: 261.43

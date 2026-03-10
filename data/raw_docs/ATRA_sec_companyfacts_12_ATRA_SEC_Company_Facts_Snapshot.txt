@@ -1,0 +1,11 @@
+Company: Atara Biotherapeutics Inc. Common Stock
+Ticker: ATRA
+CIK: 0001604464
+Latest SEC XBRL Facts:
+Revenues: 119177000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 36094000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 30167000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 66801000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -36634000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -45243000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5742000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

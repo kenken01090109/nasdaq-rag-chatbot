@@ -1,0 +1,9 @@
+Company: Garrett Motion Inc. Common Stock
+Ticker: GTX
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: Switzerland
+City: Rolle
+Website: https://www.garrettmotion.com
+Employees: 6300
+Business Summary: Garrett Motion Inc., together with its subsidiaries, designs, manufactures, and sells engineered turbocharging and high-speed electric motor technologies for original equipment manufacturers, distributors, and industrial fields in the United States, Europe, Asia, and internationally. The company offers air and fluid compression, cutting-edge technology for mobility and industrial space, including light vehicles, commercial vehicles, and industrial applications. It also provides mechanical and electrical products for turbocharging for gasoline, diesel, natural gas, hydrogen, internal combustion engines, as well as zero-emission technologies using hydrogen fuel cell systems, both for mobility and industrial use; boosting internal combustion engines, as well as for compressing air and refrigerants for industrial and mobility use; and e-powertrain and e-cooling compressor technologies for electric vehicles and industrial applications. It offers its products in the aftermarket through distributors. Garrett Motion Inc. was incorporated in 2018 and is based in Rolle, Switzerland.

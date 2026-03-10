@@ -1,0 +1,25 @@
+Company: Ryvyl Inc. Common Stock
+Ticker: RVYL
+Market Cap: 6903144
+Enterprise Value: 7727097
+Total Revenue: 48858000
+Revenue Per Share: 124.396
+EBITDA: -3866000
+Gross Margins: 0.4106
+Operating Margins: -0.43216
+Profit Margins: -0.40867
+Free Cashflow: -7690625
+Operating Cashflow: -4128000
+Return On Assets: -0.03839
+Return On Equity: -8.65269
+Total Cash: 1155000
+Total Debt: 3263000
+Debt To Equity: 
+Current Ratio: 0.824
+Quick Ratio: 0.083
+Trailing PE: 
+Forward PE: 19.464285
+Price To Book: -1.5535917
+Beta: 2.651
+52 Week High: 81.55
+52 Week Low: 4.5

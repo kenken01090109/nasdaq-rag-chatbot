@@ -1,0 +1,11 @@
+Company: Organogenesis Holdings Inc. Class A Common Stock
+Ticker: ORGO
+CIK: 0001661181
+Latest SEC XBRL Facts:
+Revenues: 338562000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -6668000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 509827000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 123848000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 255128000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -49729000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63745000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

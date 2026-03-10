@@ -1,0 +1,9 @@
+Company: Satellogic Inc. Warrant
+Ticker: SATLW
+Sector: 
+Industry: 
+Country: United States
+City: Davidson
+Website: https://satellogic.com
+Employees: 137
+Business Summary: Satellogic Inc. operates as an integrated geospatial company in Europe, the Asia Pacific, North America, and South America. It offers Constellation-as-a-Service services for government that controls satellites for specific areas; and satellite sales and support services. The company also tasks satellites with monitoring assets for government and commercial customers. Satellogic Inc. was founded in 2010 and is headquartered in Davidson, North Carolina.

@@ -1,0 +1,9 @@
+Company: TEN Holdings Inc. Common Stock
+Ticker: XHLD
+Sector: Communication Services
+Industry: Broadcasting
+Country: United States
+City: Langhorne
+Website: https://www.tenholdingsinc.com
+Employees: 38
+Business Summary: TEN Holdings, Inc. provides event planning, production, and broadcasting services in the United States. The company organize virtual, hybrid, and physical events, including conferences, marketing events, product launches, trainings, and investors and shareholder meetings. Its events are enabled by its Xyvid Pro Platform, an internet-based broadcast platform with interactive engagement tools designed to provide web broadcast audiences with a dynamic, interactive, and engaging virtual event experience. The company also provides live streaming and video recording for physical events; video editing and production; and a custom on-demand video library for finished video content to be viewed and downloaded. It serves a range of industries, such as technology firms, healthcare organizations, educational institutions, and marketing and advertising agencies, as well as nonprofits and associations. The company was formerly known as The Events Network, Inc. and changed its name to TEN Holdings, Inc. in June 2024. The company was founded in 2011 and is based in Langhorne, Pennsylvania. TEN Holdings, Inc. is a subsidiary of V-cube, Inc.

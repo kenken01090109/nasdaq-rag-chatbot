@@ -1,0 +1,11 @@
+Company: Ideal Power Inc. Common Stock
+Ticker: IPWR
+CIK: 0001507957
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2019-08-14 | period_end=2019-06-30
+NetIncomeLoss: -8680439 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 12226038 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2152197 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10073841 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6973275 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8394113 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

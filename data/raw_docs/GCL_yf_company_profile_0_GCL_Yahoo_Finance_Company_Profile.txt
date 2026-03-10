@@ -1,0 +1,9 @@
+Company: GCL Global Holdings Ltd Ordinary Shares
+Ticker: GCL
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: Singapore
+City: Singapore
+Website: https://www.gclglobalholdings.com
+Employees: 
+Business Summary: GCL Global Holdings Ltd., together with its subsidiaries, develops, publishes, distributes, and markets video games and other entertainment content in Asia, Europe, the United States, and Latin America. The company operates through three segments: Distribution and Sale of PC and Console Games; Game Publishing; and Video Marketing Campaign and Social Media Advertising Services. It offers a portfolio of digital and physical content to bridge cultures and audiences by introducing Asian-developed IP to a global audience across consoles, PCs, and streaming platforms, as well as media and content advertising services for small and medium-sized enterprises and government agencies. The company is headquartered in Singapore.

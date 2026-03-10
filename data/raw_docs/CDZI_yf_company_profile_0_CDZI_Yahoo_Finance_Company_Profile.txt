@@ -1,0 +1,9 @@
+Company: CADIZ Inc. Common Stock
+Ticker: CDZI
+Sector: Utilities
+Industry: Utilities - Regulated Water
+Country: United States
+City: Los Angeles
+Website: https://www.cadizinc.com
+Employees: 25
+Business Summary: Cadiz Inc., together with its subsidiaries, provides water solutions in the United States. The company operates in two segments, Land and Water Resources; and Water Filtration Technology. It offers water supply, water storage, water conveyance, and water filtration services. The company also provides water filtration solutions for impaired or contaminated groundwater sources. In addition, it is involved in the cultivation of grain crops, including alfalfa. The company serves public and private water systems, government agencies, and commercial businesses. Cadiz Inc. was founded in 1983 and is based in Los Angeles, California.

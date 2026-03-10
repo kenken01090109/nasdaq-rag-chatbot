@@ -1,0 +1,25 @@
+Company: Royal Gold Inc. Common Stock
+Ticker: RGLD
+Market Cap: 23733256192
+Enterprise Value: 18002184192
+Total Revenue: 645169024
+Revenue Per Share: 9.842
+EBITDA: 517396000
+Gross Margins: 0.84738
+Operating Margins: 0.50526
+Profit Margins: 0.42476
+Free Cashflow: -594125
+Operating Cashflow: 461870016
+Return On Assets: 0.07435
+Return On Equity: 0.10985
+Total Cash: 143551008
+Total Debt: 6688000
+Debt To Equity: 0.257
+Current Ratio: 3.516
+Quick Ratio: 3.297
+Trailing PE: 41.829594
+Forward PE: 19.899704
+Price To Book: 7.0874276
+Beta: 0.647
+52 Week High: 306.25
+52 Week Low: 150.75

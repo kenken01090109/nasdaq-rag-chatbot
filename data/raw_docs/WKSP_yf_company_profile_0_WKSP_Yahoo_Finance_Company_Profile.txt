@@ -1,0 +1,9 @@
+Company: Worksport Ltd. Common Stock
+Ticker: WKSP
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: United States
+City: West Seneca
+Website: https://www.worksport.com
+Employees: 80
+Business Summary: Worksport Ltd., together with its subsidiary, designs and distributes truck tonneau covers in Canada and the United States. The company offers soft tonneau covers, such as vinyl wrapped tri- and quad-fold tonneau covers; and hard tonneau covers, including tri- and quad-fold aluminum covers. It also offers energy products, such as Worksport SOLIS, a tonneau cover with integrated solar panels; and Worksport COR energy storage system, a modular, portable power station. It serves its products to automotive accessories, consumer electronics, and residential and commercial HVAC system markets. The company is based in West Seneca, New York.

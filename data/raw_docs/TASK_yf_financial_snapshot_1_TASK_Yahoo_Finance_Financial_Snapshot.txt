@@ -1,0 +1,25 @@
+Company: TaskUs Inc. Class A Common Stock
+Ticker: TASK
+Market Cap: 987360448
+Enterprise Value: 1116646272
+Total Revenue: 1183547008
+Revenue Per Share: 13.147
+EBITDA: 202660000
+Gross Margins: 0.37784
+Operating Margins: 0.12353
+Profit Margins: 0.08641
+Free Cashflow: 52641752
+Operating Cashflow: 137215008
+Return On Assets: 0.08804
+Return On Equity: 0.18648
+Total Cash: 211676000
+Total Debt: 297727008
+Debt To Equity: 49.622
+Current Ratio: 3.119
+Quick Ratio: 2.856
+Trailing PE: 9.927273
+Forward PE: 7.252633
+Price To Book: 1.6460658
+Beta: 2.116
+52 Week High: 18.39
+52 Week Low: 9.55

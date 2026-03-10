@@ -1,0 +1,25 @@
+Company: Sound Financial Bancorp Inc. Common Stock
+Ticker: SFBC
+Market Cap: 99827040
+Enterprise Value: -9795964
+Total Revenue: 38764000
+Revenue Per Share: 15.197
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.27045
+Profit Margins: 0.18466
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00686
+Return On Equity: 0.06719
+Total Cash: 138452992
+Total Debt: 21472000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.923333
+Forward PE: 
+Price To Book: 0.9739321
+Beta: 0.057
+52 Week High: 51.99
+52 Week Low: 41.75

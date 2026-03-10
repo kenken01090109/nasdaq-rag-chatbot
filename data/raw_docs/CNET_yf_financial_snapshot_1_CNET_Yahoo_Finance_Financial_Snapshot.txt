@@ -1,0 +1,25 @@
+Company: ZW Data Action Technologies Inc. Common Stock
+Ticker: CNET
+Market Cap: 2319305
+Enterprise Value: 890593
+Total Revenue: 6166000
+Revenue Per Share: 2.46
+EBITDA: -1568000
+Gross Margins: 0.048010003
+Operating Margins: -0.08911
+Profit Margins: -0.3336
+Free Cashflow: 188500
+Operating Cashflow: -1611000
+Return On Assets: -0.118360005
+Return On Equity: -0.49507
+Total Cash: 1761000
+Total Debt: 184000
+Debt To Equity: 5.397
+Current Ratio: 1.407
+Quick Ratio: 0.495
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5640699
+Beta: 0.923
+52 Week High: 2.78
+52 Week Low: 0.6

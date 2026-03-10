@@ -1,0 +1,12 @@
+Company: SemiLEDS Corporation Common Stock
+Ticker: LEDS
+CIK: 0001333822
+Latest SEC XBRL Facts:
+Revenues: 2569000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 43009000 | unit=USD | filed=2025-11-28 | period_end=2025-08-31
+NetIncomeLoss: 64000 | unit=USD | filed=2025-07-14 | period_end=2025-05-31
+Assets: 14231000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Liabilities: 12162000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+StockholdersEquity: 2069000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 361000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 2889000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30

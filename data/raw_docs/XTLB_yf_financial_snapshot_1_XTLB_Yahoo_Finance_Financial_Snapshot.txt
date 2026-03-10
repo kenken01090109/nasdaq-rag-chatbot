@@ -1,0 +1,25 @@
+Company: XTL Biopharmaceuticals Ltd. American Depositary Shares
+Ticker: XTLB
+Market Cap: 6889598
+Enterprise Value: 641563520
+Total Revenue: 968000
+Revenue Per Share: 0.1
+EBITDA: 
+Gross Margins: -2.32851
+Operating Margins: -8.53578
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -2.40561
+Return On Equity: -5.7712703
+Total Cash: 259000
+Total Debt: 86000
+Debt To Equity: 
+Current Ratio: 0.7
+Quick Ratio: 0.459
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 0.732
+52 Week High: 2.57
+52 Week Low: 0.53

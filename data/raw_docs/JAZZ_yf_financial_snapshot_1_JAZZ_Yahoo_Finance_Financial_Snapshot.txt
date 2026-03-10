@@ -1,0 +1,25 @@
+Company: Jazz Pharmaceuticals plc Common Stock (Ireland)
+Ticker: JAZZ
+Market Cap: 11204599808
+Enterprise Value: 14190006272
+Total Revenue: 4267586048
+Revenue Per Share: 69.982
+EBITDA: 1685367040
+Gross Margins: 0.91673
+Operating Margins: 0.24636999
+Profit Margins: -0.083450004
+Free Cashflow: 1336482816
+Operating Cashflow: 1355773056
+Return On Assets: 0.05223
+Return On Equity: -0.08467
+Total Cash: 2441899008
+Total Debt: 5427305984
+Debt To Equity: 125.673
+Current Ratio: 1.858
+Quick Ratio: 1.459
+Trailing PE: 
+Forward PE: 7.3337545
+Price To Book: 2.589231
+Beta: 0.234
+52 Week High: 198.0
+52 Week Low: 95.49

@@ -1,0 +1,25 @@
+Company: National Beverage Corp. Common Stock
+Ticker: FIZZ
+Market Cap: 3341729536
+Enterprise Value: 3136468736
+Total Revenue: 1199524992
+Revenue Per Share: 12.813
+EBITDA: 258158000
+Gross Margins: 0.37249002
+Operating Margins: 0.20131999
+Profit Margins: 0.1555
+Free Cashflow: 109643872
+Operating Cashflow: 191407008
+Return On Assets: 0.22667
+Return On Equity: 0.40932
+Total Cash: 269313984
+Total Debt: 66194000
+Debt To Equity: 12.008
+Current Ratio: 4.285
+Quick Ratio: 3.16
+Trailing PE: 17.934673
+Forward PE: 17.334078
+Price To Book: 6.006395
+Beta: 0.719
+52 Week High: 47.89
+52 Week Low: 31.21

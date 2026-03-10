@@ -1,0 +1,9 @@
+Company: Amalgamated Financial Corp. Common Stock (DE)
+Ticker: AMAL
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: New York
+Website: https://www.amalgamatedbank.com
+Employees: 
+Business Summary: Amalgamated Financial Corp. operates as the bank holding company for Amalgamated Bank that provides commercial and retail banking, investment management, and trust and custody services in the United States. The company accepts various deposit products, including non-interest-bearing accounts, interest-bearing demand products, savings accounts, money market accounts, NOW accounts, time deposits, and certificates of deposit. It also provides residential real estate mortgage, commercial and industrial, commercial real estate, multifamily mortgage, consumer solar, and consumer and other loans. In addition, the company offers online banking, bill payment, online cash management, safe deposit box rentals, debit card, and ATM card services; and trust, custody, and investment management services, including asset safekeeping, corporate actions, income collections, proxy services, account transition, asset transfers, and conversion management; investment products, such as index and actively-managed funds, which include equity, fixed-income, real estate, and alternative investments; and investment, brokerage, asset management, and insurance products. Amalgamated Financial Corp. was founded in 1923 and is headquartered in New York, New York.

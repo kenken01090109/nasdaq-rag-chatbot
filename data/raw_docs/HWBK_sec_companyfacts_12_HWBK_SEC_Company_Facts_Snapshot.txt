@@ -1,0 +1,10 @@
+Company: Hawthorn Bancshares Inc. Common Stock
+Ticker: HWBK
+CIK: 0000893847
+Latest SEC XBRL Facts:
+NetIncomeLoss: 17616000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 1932105000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1767167000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 164938000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11779000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 99875000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

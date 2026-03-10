@@ -1,0 +1,25 @@
+Company: Roku Inc. Class A Common Stock
+Ticker: ROKU
+Market Cap: 14826811392
+Enterprise Value: 12670182400
+Total Revenue: 4737250816
+Revenue Per Share: 32.192
+EBITDA: 278174016
+Gross Margins: 0.4379
+Operating Margins: 0.045440003
+Profit Margins: 0.01865
+Free Cashflow: 660961280
+Operating Cashflow: 483718016
+Return On Assets: -4.0000003e-05
+Return On Equity: 0.03431
+Total Cash: 2317281024
+Total Debt: 523324000
+Debt To Equity: 19.689
+Current Ratio: 2.749
+Quick Ratio: 2.584
+Trailing PE: 170.45764
+Forward PE: 31.861744
+Price To Book: 5.594371
+Beta: 2.045
+52 Week High: 116.66
+52 Week Low: 52.43

@@ -1,0 +1,9 @@
+Company: Tao Synergies Inc. Common Stock
+Ticker: TAOX
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: New York
+Website: https://taosynergies.com
+Employees: 4
+Business Summary: TAO Synergies Inc. owns and operates an AI token. The company executes a cryptocurrency treasury strategy centered on the acquisition and staking of the TAO token, the native utility token of the Bittensor network. TAO Synergies Inc. was formerly known as Synaptogenix, Inc. and changed its name to TAO Synergies Inc. in June 2025. The company was incorporated in 2012 and is headquartered in New York, New York.

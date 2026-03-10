@@ -1,0 +1,25 @@
+Company: Kyivstar Group Ltd. Common Shares
+Ticker: KYIV
+Market Cap: 2742659840
+Enterprise Value: 2630897920
+Total Revenue: 1086000000
+Revenue Per Share: 4.952
+EBITDA: 546000000
+Gross Margins: 0.90147
+Operating Margins: 0.39394
+Profit Margins: 0.11694
+Free Cashflow: 
+Operating Cashflow: 512000000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 472000000
+Total Debt: 502000000
+Debt To Equity: 40.615
+Current Ratio: 1.401
+Quick Ratio: 1.037
+Trailing PE: 21.6
+Forward PE: 7.7085795
+Price To Book: 2.107878
+Beta: 
+52 Week High: 16.48
+52 Week Low: 10.16

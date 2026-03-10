@@ -1,0 +1,25 @@
+Company: Imunon Inc. Common Stock
+Ticker: IMNN
+Market Cap: 11017150
+Enterprise Value: 6106285
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -14281106
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -9282318
+Operating Cashflow: -14660507
+Return On Assets: -0.77715
+Return On Equity: -2.33503
+Total Cash: 5250929
+Total Debt: 1102232
+Debt To Equity: 27.004
+Current Ratio: 1.729
+Quick Ratio: 1.251
+Trailing PE: 
+Forward PE: -0.8774543
+Price To Book: 2.299503
+Beta: 2.158
+52 Week High: 41.217392
+52 Week Low: 2.99

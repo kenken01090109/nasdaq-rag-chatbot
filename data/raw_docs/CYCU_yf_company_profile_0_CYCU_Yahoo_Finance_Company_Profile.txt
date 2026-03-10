@@ -1,0 +1,9 @@
+Company: Cycurion Inc. Common Stock
+Ticker: CYCU
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: McLean
+Website: https://cycurion.com
+Employees: 46
+Business Summary: Cycurion, Inc. provides information technology security solutions. The company provides consulting and advisory services, such as security control assessments, security architecture and engineering, risk management and compliance audits, staff augmentation, cybersecurity awareness and training, cloud security, virtual CISO support, and digital modernization. It also offers managed IT services, which include project and license management, network infrastructure, systems engineering and administration, voice and data infrastructure engineering and management, application development, IT help desk support, and staff augmentation. In addition, the company provides managed security services including managed detection and response, external attack surface management, threat hunting and threat intelligence, end point detection and response, firewall management, threat and vulnerability management, vulnerability and penetration testing, 24/7/365 security monitoring, and digital forensic and incident response. Further, it offers ARx platform, a turnkey web application protection and managed security solution that combines all the essential cybersecurity layers. The company provides solutions to enterprise businesses, small and medium businesses, government agencies, healthcare, and higher education industries. Cycurion, Inc. was founded in 2017 and is headquartered in McLean, Virginia.

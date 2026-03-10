@@ -1,0 +1,11 @@
+Company: Origin Agritech Limited Common Stock
+Ticker: SEED
+CIK: 0001321851
+Latest SEC XBRL Facts:
+Revenues: 12848000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetIncomeLoss: -7506000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Assets: 14164000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+Liabilities: 22822000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+StockholdersEquity: -3285000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3216000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2234000 | unit=USD | filed=2026-01-30 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: EVgo Inc. Warrants
+Ticker: EVGOW
+CIK: 0001821159
+Latest SEC XBRL Facts:
+Revenues: 110959000 | unit=USD | filed=2023-11-08 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 265616000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -36745000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 931831000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 542606000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -428119000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -18985000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 181327000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

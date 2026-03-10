@@ -1,0 +1,9 @@
+Company: Cardinal Infrastructure Group Inc. Class A Common Stock
+Ticker: CDNL
+Sector: Industrials
+Industry: Engineering & Construction
+Country: United States
+City: Raleigh
+Website: https://cardinalcivil.com
+Employees: 1335
+Business Summary: Cardinal Infrastructure Group Inc., a civil contracting company, provides infrastructure services to the residential, commercial, industrial, municipal, and state infrastructure markets in the United States. It offers wet utility installations, such as water, sewer, and stormwater systems, as well as grading, site clearing, erosion control, drilling and blasting, paving, and other related site services. The company was formerly known as Civil Infrastructure Group Inc. and changed its name to Cardinal Infrastructure Group Inc. in September 2025. The company was founded in 2013 and is based in Raleigh, North Carolina.

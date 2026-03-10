@@ -1,0 +1,10 @@
+Company: Charter Communications Inc. Class A Common Stock New
+Ticker: CHTR
+CIK: 0001091667
+Latest SEC XBRL Facts:
+Revenues: 41173000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 3655000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 152850000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 15340000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 12316000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 464000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

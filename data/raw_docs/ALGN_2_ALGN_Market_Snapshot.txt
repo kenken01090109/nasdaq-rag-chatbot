@@ -1,0 +1,10 @@
+Company: Align Technology Inc. Common Stock
+Ticker: ALGN
+Market Cap: 12599300096
+Enterprise Value: 11536679936
+Trailing PE: 31.079647
+Forward PE: 14.319463
+Price To Book: 3.0948732
+Beta: 1.823
+52 Week High: 208.31
+52 Week Low: 122.0

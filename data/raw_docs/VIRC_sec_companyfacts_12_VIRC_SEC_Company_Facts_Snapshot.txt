@@ -1,0 +1,10 @@
+Company: Virco Manufacturing Corporation Common Stock
+Ticker: VIRC
+CIK: 0000751365
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 173476000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+NetIncomeLoss: 9592000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+Assets: 181537000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+StockholdersEquity: 113635000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 9982000 | unit=USD | filed=2025-12-08 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 5300000 | unit=USD | filed=2024-04-12 | period_end=2024-01-31

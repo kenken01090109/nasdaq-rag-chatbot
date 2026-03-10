@@ -1,0 +1,11 @@
+Company: IceCure Medical Ltd. Ordinary Shares
+Ticker: ICCM
+CIK: 0001584371
+Latest SEC XBRL Facts:
+Revenues: 1250000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetIncomeLoss: -6952000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Assets: 10589000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+Liabilities: 7698000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+StockholdersEquity: 2891000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -6850000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 5383000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

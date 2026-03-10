@@ -1,0 +1,9 @@
+Company: Toro Corp. Common Stock
+Ticker: TORO
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: Cyprus
+City: Limassol
+Website: https://www.torocorp.com
+Employees: 
+Business Summary: Toro Corp., a shipping company, acquires, owns, charters, and operates oceangoing LPG carrier vessels worldwide. It operates through Handysize Tanker and LPG Carrier segments. The company also provides energy seaborne transportation services for LPG. As of December 31, 2024, it operated through a fleet of four LPG carrier vessels and one Handysize tanker vessel with an aggregate cargo carrying capacity of 0.02 million deadweight tonnage. The company was incorporated in 2022 and is based in Limassol, Cyprus.

@@ -1,0 +1,25 @@
+Company: Safe Pro Group Inc. Common Stock
+Ticker: SPAI
+Market Cap: 104656624
+Enterprise Value: 89101192
+Total Revenue: 1266756
+Revenue Per Share: 0.083
+EBITDA: -11114693
+Gross Margins: 0.47094002
+Operating Margins: -41.486412
+Profit Margins: 0.0
+Free Cashflow: -412908
+Operating Cashflow: -4579924
+Return On Assets: -0.95068
+Return On Equity: -1.93701
+Total Cash: 7597009
+Total Debt: 221160
+Debt To Equity: 2.621
+Current Ratio: 7.599
+Quick Ratio: 6.891
+Trailing PE: 
+Forward PE: 
+Price To Book: 11.138392
+Beta: 
+52 Week High: 9.16
+52 Week Low: 1.47

@@ -1,0 +1,25 @@
+Company: MarketAxess Holdings Inc. Common Stock
+Ticker: MKTX
+Market Cap: 6917989376
+Enterprise Value: 6233546240
+Total Revenue: 846268032
+Revenue Per Share: 22.838
+EBITDA: 423591008
+Gross Margins: 0.62022996
+Operating Margins: 0.36816
+Profit Margins: 0.29143
+Free Cashflow: 224411120
+Operating Cashflow: 382139008
+Return On Assets: 0.11643
+Return On Equity: 0.19389
+Total Cash: 620505984
+Total Debt: 284937984
+Debt To Equity: 24.601
+Current Ratio: 3.35
+Quick Ratio: 2.805
+Trailing PE: 28.028616
+Forward PE: 20.52914
+Price To Book: 5.8117604
+Beta: 0.966
+52 Week High: 232.84
+52 Week Low: 156.17

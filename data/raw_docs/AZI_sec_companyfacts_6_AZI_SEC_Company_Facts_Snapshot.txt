@@ -1,0 +1,10 @@
+Company: Autozi Internet Technology (Global) Ltd. Class A Ordinary Shares
+Ticker: AZI
+CIK: 0001959726
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 79871000 | unit=USD | filed=2025-12-08 | period_end=2025-03-31
+Assets: 16938000 | unit=USD | filed=2025-12-08 | period_end=2025-03-31
+Liabilities: 35415000 | unit=USD | filed=2025-12-08 | period_end=2025-03-31
+StockholdersEquity: -33324000 | unit=USD | filed=2025-12-08 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -4506000 | unit=USD | filed=2025-12-08 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 349000 | unit=USD | filed=2025-12-08 | period_end=2025-03-31

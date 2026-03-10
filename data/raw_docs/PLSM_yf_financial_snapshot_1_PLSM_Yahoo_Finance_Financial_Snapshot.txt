@@ -1,0 +1,25 @@
+Company: Pulsenmore Ltd. Ordinary Shares
+Ticker: PLSM
+Market Cap: 27637088
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -40888000
+Gross Margins: 0.37358
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -19023376
+Operating Cashflow: 
+Return On Assets: -0.18962
+Return On Equity: -0.45933
+Total Cash: 
+Total Debt: 
+Debt To Equity: 2.174
+Current Ratio: 7.979
+Quick Ratio: 6.431
+Trailing PE: 
+Forward PE: 
+Price To Book: 
+Beta: 0.226
+52 Week High: 10.28
+52 Week Low: 3.96

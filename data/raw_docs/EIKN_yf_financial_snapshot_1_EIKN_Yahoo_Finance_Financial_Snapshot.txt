@@ -1,0 +1,25 @@
+Company: Eikon Therapeutics Inc. Common Stock
+Ticker: EIKN
+Market Cap: 776294784
+Enterprise Value: 833476480
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -281985984
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -170532000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 220111008
+Total Debt: 202459008
+Debt To Equity: 85.682
+Current Ratio: 8.796
+Quick Ratio: 8.466
+Trailing PE: 
+Forward PE: -2.3837547
+Price To Book: -0.052757088
+Beta: 
+52 Week High: 17.4
+52 Week Low: 13.29

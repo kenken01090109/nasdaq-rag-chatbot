@@ -1,0 +1,25 @@
+Company: Smith & Wesson Brands Inc. Common Stock
+Ticker: SWBI
+Market Cap: 622467456
+Enterprise Value: 607819264
+Total Revenue: 486220000
+Revenue Per Share: 10.975
+EBITDA: 53656000
+Gross Margins: 0.2658
+Operating Margins: 0.04808
+Profit Margins: 0.0233
+Free Cashflow: 51353752
+Operating Cashflow: 80442000
+Return On Assets: 0.02476
+Return On Equity: 0.03115
+Total Cash: 23462000
+Total Debt: 106700000
+Debt To Equity: 29.36
+Current Ratio: 4.498
+Quick Ratio: 1.351
+Trailing PE: 66.61905
+Forward PE: 42.393936
+Price To Book: 1.7127815
+Beta: 
+52 Week High: 13.99
+52 Week Low: 7.73

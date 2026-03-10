@@ -1,0 +1,8 @@
+Company: Alector Inc. Common Stock
+Ticker: ALEC
+Total Cash: 256024000
+Total Debt: 36233000
+Debt To Equity: 118.219
+Current Ratio: 3.834
+Quick Ratio: 3.684
+Book Value: 0.278

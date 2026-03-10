@@ -1,0 +1,25 @@
+Company: American Battery Technology Company Common Stock
+Ticker: ABAT
+Market Cap: 443860160
+Enterprise Value: 400167296
+Total Revenue: 9453244
+Revenue Per Share: 0.09
+EBITDA: -33125284
+Gross Margins: -1.09766
+Operating Margins: -2.07455
+Profit Margins: 0.0
+Free Cashflow: -13681185
+Operating Cashflow: -33050564
+Return On Assets: -0.22697
+Return On Equity: -0.43515998
+Total Cash: 47894544
+Total Debt: 250415
+Debt To Equity: 0.21
+Current Ratio: 14.882
+Quick Ratio: 12.395
+Trailing PE: 
+Forward PE: -24.071428
+Price To Book: 3.7114537
+Beta: 0.911
+52 Week High: 11.49
+52 Week Low: 0.86

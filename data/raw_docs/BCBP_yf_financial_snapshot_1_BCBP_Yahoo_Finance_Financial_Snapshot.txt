@@ -1,0 +1,25 @@
+Company: BCB Bancorp Inc. (NJ) Common Stock
+Ticker: BCBP
+Market Cap: 142165008
+Enterprise Value: 179439024
+Total Revenue: 59585000
+Revenue Per Share: 3.467
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -0.11073
+Profit Margins: -0.21024
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.00364
+Return On Equity: -0.03988
+Total Cash: 277319008
+Total Debt: 289350016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 5.920863
+Price To Book: 0.50947136
+Beta: 0.705
+52 Week High: 10.38
+52 Week Low: 7.31

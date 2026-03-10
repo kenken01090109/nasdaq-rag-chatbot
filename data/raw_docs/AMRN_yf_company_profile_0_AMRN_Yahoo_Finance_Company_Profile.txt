@@ -1,0 +1,9 @@
+Company: Amarin Corporation plc
+Ticker: AMRN
+Sector: Healthcare
+Industry: Drug Manufacturers - General
+Country: Ireland
+City: Dublin
+Website: https://www.amarincorp.com
+Employees: 
+Business Summary: Amarin Corporation plc, a pharmaceutical company, engages in the commercialization and development of therapeutics for the treatment of cardiovascular diseases in the United States, Europe, and internationally. The company offers VASCEPA, a prescription-only omega-3 fatty acid product, used as an adjunct to diet for reducing triglyceride levels in adult patients with severe hypertriglyceridemia. It sells its products principally through wholesalers, selected regional wholesalers, and specialty pharmacy providers. The company has a collaboration with Mochida Pharmaceutical Co., Ltd. to develop and commercialize drug products and indications based on the active pharmaceutical ingredient in Vascepa, the omega-3 acid, EPA. The company was formerly known as Ethical Holdings plc and changed its name to Amarin Corporation plc in 1999. Amarin Corporation plc was incorporated in 1989 and is headquartered in Dublin, Ireland.

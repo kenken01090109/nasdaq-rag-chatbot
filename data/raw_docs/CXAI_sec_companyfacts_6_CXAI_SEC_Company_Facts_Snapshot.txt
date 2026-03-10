@@ -1,0 +1,11 @@
+Company: CXApp Inc. Class A Common Stock
+Ticker: CXAI
+CIK: 0001820875
+Latest SEC XBRL Facts:
+Revenues: 3561000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -7912000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 28543000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 13309000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 15234000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6750000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5088000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

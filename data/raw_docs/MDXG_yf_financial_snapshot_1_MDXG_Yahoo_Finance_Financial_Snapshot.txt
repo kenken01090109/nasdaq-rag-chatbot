@@ -1,0 +1,25 @@
+Company: MiMedx Group Inc Common Stock
+Ticker: MDXG
+Market Cap: 668549632
+Enterprise Value: 562102272
+Total Revenue: 418630016
+Revenue Per Share: 2.833
+EBITDA: 78768000
+Gross Margins: 0.82558995
+Operating Margins: 0.17847
+Profit Margins: 0.11604
+Free Cashflow: 63337000
+Operating Cashflow: 74003000
+Return On Assets: 0.13166
+Return On Equity: 0.21607
+Total Cash: 166120992
+Total Debt: 22532000
+Debt To Equity: 8.783
+Current Ratio: 4.318
+Quick Ratio: 3.763
+Trailing PE: 14.0625
+Forward PE: 17.475729
+Price To Book: 2.5981524
+Beta: 1.6
+52 Week High: 8.2
+52 Week Low: 4.48

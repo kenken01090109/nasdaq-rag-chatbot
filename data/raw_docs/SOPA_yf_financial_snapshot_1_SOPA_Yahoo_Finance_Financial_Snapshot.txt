@@ -1,0 +1,25 @@
+Company: Society Pass Incorporated Common Stock
+Ticker: SOPA
+Market Cap: 8235100
+Enterprise Value: -10627453
+Total Revenue: 7227427
+Revenue Per Share: 1.316
+EBITDA: -9770083
+Gross Margins: 0.45747003
+Operating Margins: -3.7994
+Profit Margins: -1.46002
+Free Cashflow: -8043035
+Operating Cashflow: -18869904
+Return On Assets: -0.2595
+Return On Equity: -1.53373
+Total Cash: 14906767
+Total Debt: 963204
+Debt To Equity: 7.225
+Current Ratio: 1.405
+Quick Ratio: 0.893
+Trailing PE: 
+Forward PE: -3.2820513
+Price To Book: 0.2809482
+Beta: 1.879
+52 Week High: 6.28
+52 Week Low: 0.556

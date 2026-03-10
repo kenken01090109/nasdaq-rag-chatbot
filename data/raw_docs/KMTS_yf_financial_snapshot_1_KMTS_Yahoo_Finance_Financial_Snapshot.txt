@@ -1,0 +1,25 @@
+Company: Kestra Medical Technologies Ltd. Common Stock
+Ticker: KMTS
+Market Cap: 1344362240
+Enterprise Value: 1252248576
+Total Revenue: 74260000
+Revenue Per Share: 1.842
+EBITDA: -121319000
+Gross Margins: 0.46398997
+Operating Margins: -1.4072701
+Profit Margins: -1.77987
+Free Cashflow: -72162624
+Operating Cashflow: -86670000
+Return On Assets: -0.4395
+Return On Equity: -1.26396
+Total Cash: 175424000
+Total Debt: 44800000
+Debt To Equity: 27.304
+Current Ratio: 5.465
+Quick Ratio: 5.197
+Trailing PE: 
+Forward PE: -10.544623
+Price To Book: 7.224836
+Beta: 
+52 Week High: 30.0
+52 Week Low: 13.25

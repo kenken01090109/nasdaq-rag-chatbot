@@ -1,0 +1,25 @@
+Company: Plum Acquisition Corp. IV Class A Ordinary Shares
+Ticker: PLMK
+Market Cap: 255035072
+Enterprise Value: 254815840
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -697450
+Return On Assets: 
+Return On Equity: 
+Total Cash: 469208
+Total Debt: 250000
+Debt To Equity: 
+Current Ratio: 1.309
+Quick Ratio: 1.046
+Trailing PE: 
+Forward PE: 
+Price To Book: -37.84173
+Beta: 
+52 Week High: 10.64
+52 Week Low: 10.0

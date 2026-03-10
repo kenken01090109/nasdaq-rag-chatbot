@@ -1,0 +1,11 @@
+Company: Destination XL Group Inc. Common Stock
+Ticker: DXLG
+CIK: 0000813298
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 322917000 | unit=USD | filed=2025-12-11 | period_end=2025-11-01
+NetIncomeLoss: -6324000 | unit=USD | filed=2025-12-11 | period_end=2025-11-01
+Assets: 401539000 | unit=USD | filed=2025-12-11 | period_end=2025-11-01
+Liabilities: 96415000 | unit=USD | filed=2012-11-16 | period_end=2012-10-27
+StockholdersEquity: 137204000 | unit=USD | filed=2025-12-11 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: -3211000 | unit=USD | filed=2025-12-11 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 14594000 | unit=USD | filed=2025-12-11 | period_end=2025-11-01

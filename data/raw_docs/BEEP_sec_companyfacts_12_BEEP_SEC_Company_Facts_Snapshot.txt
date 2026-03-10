@@ -1,0 +1,11 @@
+Company: Mobile Infrastructure Corporation Common Stock
+Ticker: BEEP
+CIK: 0001847874
+Latest SEC XBRL Facts:
+Revenues: 26313000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -13943000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 397839000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 228100000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 151651000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1474000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6136000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Interparfums Inc. Common Stock
+Ticker: IPAR
+Market Cap: 3032923904
+Enterprise Value: 3210456320
+Total Revenue: 1488509056
+Revenue Per Share: 46.368
+EBITDA: 295431648
+Gross Margins: 0.63635
+Operating Margins: 0.07123
+Profit Margins: 0.113120005
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.11276
+Return On Equity: 0.2034
+Total Cash: 295184000
+Total Debt: 207720992
+Debt To Equity: 18.815
+Current Ratio: 2.987
+Quick Ratio: 1.849
+Trailing PE: 18.04962
+Forward PE: 16.949821
+Price To Book: 3.4436555
+Beta: 1.25
+52 Week High: 142.61
+52 Week Low: 77.21

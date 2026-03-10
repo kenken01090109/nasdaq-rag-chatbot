@@ -1,0 +1,9 @@
+Company: Firefly Neuroscience Inc. Common Stock
+Ticker: AIFF
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Kenmore
+Website: https://fireflyneuro.com
+Employees: 13
+Business Summary: Firefly Neuroscience, Inc., a medical technology and artificial intelligence company, provides neuroscientific solutions that improve brain health outcomes for patients with mental illnesses and neurological disorders. The company offers Brain Network Analytics, a software that focuses on diagnostic and treatment for people suffering from mental illnesses and cognitive disorders, including depression, dementia, anxiety disorders, concussions, and attention-deficit/hyperactivity disorder. It serves pharmaceutical companies and medical practitioners. Firefly Neuroscience, Inc. was founded in 2006 and is based in Kenmore, New York.

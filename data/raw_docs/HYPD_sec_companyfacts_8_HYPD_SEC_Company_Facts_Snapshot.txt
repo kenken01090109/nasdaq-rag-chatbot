@@ -1,0 +1,11 @@
+Company: Hyperion DeFi Inc. Common Stock
+Ticker: HYPD
+CIK: 0001682639
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 317226 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5548870 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 82789907 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 12034875 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 70755032 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10712616 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8223180 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

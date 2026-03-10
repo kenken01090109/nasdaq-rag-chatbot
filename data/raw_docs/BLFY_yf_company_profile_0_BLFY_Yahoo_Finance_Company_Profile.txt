@@ -1,0 +1,9 @@
+Company: Blue Foundry Bancorp Common Stock
+Ticker: BLFY
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Rutherford
+Website: https://www.bluefoundrybank.com
+Employees: 184
+Business Summary: Blue Foundry Bancorp operates as the bank holding company for Blue Foundry Bank, a savings bank that offers banking products and services for individuals and businesses in northern New Jersey. It offers saving, time, and non-interest-bearing deposits; NOW and demand accounts; and loans, such as residential and commercial real estate, multifamily, construction, consumer, and commercial and industrial loans, as well as junior liens and home equity lines of credit. The company was formerly known as Boiling Springs Bancorp and changed its name to Blue Foundry Bancorp in July 2019. Blue Foundry Bancorp was founded in 1939 and is based in Rutherford, New Jersey.

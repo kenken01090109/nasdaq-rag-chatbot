@@ -1,0 +1,11 @@
+Company: Manhattan Associates Inc. Common Stock
+Ticker: MANH
+CIK: 0001056696
+Latest SEC XBRL Facts:
+Revenues: 131300000 | unit=USD | filed=2016-02-05 | period_end=2015-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 811003000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetIncomeLoss: 167995000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+Assets: 768823000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+StockholdersEquity: 309216000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 242420000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 263555000 | unit=USD | filed=2025-10-24 | period_end=2025-09-30

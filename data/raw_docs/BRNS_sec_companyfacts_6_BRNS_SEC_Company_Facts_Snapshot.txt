@@ -1,0 +1,11 @@
+Company: Barinthus Biotherapeutics plc American Depositary Shares
+Ticker: BRNS
+CIK: 0001828185
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -55338000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 109201000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 24640000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 84465000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43737000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 74272000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

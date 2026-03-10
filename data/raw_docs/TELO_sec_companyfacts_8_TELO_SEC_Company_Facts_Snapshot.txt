@@ -1,0 +1,10 @@
+Company: Telomir Pharmaceuticals Inc. Common Stock
+Ticker: TELO
+CIK: 0001971532
+Latest SEC XBRL Facts:
+NetIncomeLoss: -8352012 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 7402117 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 422807 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 6979310 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2486841 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 754323 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

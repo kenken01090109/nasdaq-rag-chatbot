@@ -1,0 +1,25 @@
+Company: Loop Industries Inc. Common Stock
+Ticker: LOOP
+Market Cap: 63805576
+Enterprise Value: 61607572
+Total Revenue: 11146000
+Revenue Per Share: 0.233
+EBITDA: 67000
+Gross Margins: 1.0
+Operating Margins: -28.77907
+Profit Margins: -0.24332
+Free Cashflow: -1207375
+Operating Cashflow: -858000
+Return On Assets: -0.027320001
+Return On Equity: 
+Total Cash: 5204000
+Total Debt: 3006000
+Debt To Equity: 
+Current Ratio: 1.691
+Quick Ratio: 1.552
+Trailing PE: 
+Forward PE: -5.1764708
+Price To Book: -8.741723
+Beta: 1.716
+52 Week High: 2.29
+52 Week Low: 0.85

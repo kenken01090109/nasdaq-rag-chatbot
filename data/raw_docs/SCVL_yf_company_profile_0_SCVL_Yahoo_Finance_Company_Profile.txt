@@ -1,0 +1,9 @@
+Company: Shoe Carnival Inc. Common Stock
+Ticker: SCVL
+Sector: Consumer Cyclical
+Industry: Apparel Retail
+Country: United States
+City: Fort Mill
+Website: https://www.shoecarnival.com
+Employees: 2500
+Business Summary: Shoe Carnival, Inc., together with its subsidiaries, operates as a family footwear retailer in the United States. The company offers various products, including dress and casual shoes, sandals, boots, and athletic shoes; and non-athletics for men's, women's and children's shoes, as well as accessories. It also operates stores. The company sells its products through www.shoecarnival.com and www.shoestation.com, as well as through related mobile app. Shoe Carnival, Inc. was founded in 1978 and is headquartered in Fort Mill, South Carolina.

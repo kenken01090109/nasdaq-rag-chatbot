@@ -1,0 +1,9 @@
+Company: Carter Bankshares Inc. Common Stock
+Ticker: CARE
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Martinsville
+Website: https://www.carterbank.com
+Employees: 
+Business Summary: Carter Bankshares, Inc. operates as the bank holding company for Carter Bank & Trust that provides various retail and commercial banking products and insurance services in the United States. It offers various deposit products, including checking, savings, retirement, and money market accounts, as well as certificates of deposit. The company also provides commercial loans comprising secured and unsecured, real estate construction and acquisition, and commercial and industrial loans; consumer loans, such as secured and unsecured loans for financing automobiles, home improvements, education, overdraft protection, and personal investments, as well as residential mortgages; home equity lines of credit; and credit cards, as well as originates and holds fixed and variable rate mortgage loans. In addition, it offers other banking services that include safe deposit boxes, direct deposit of payroll, social security checks, and debit cards; online banking products, including online and mobile banking, online account opening, bill pay, e-statement, mobile deposit, Zelle, CardValet, digital wallet, MoneyPass, and ATM services; title insurance and other financial institution-related products and services; and treasury and corporate cash management services. Carter Bankshares, Inc. was founded in 1974 and is headquartered in Martinsville, Virginia.

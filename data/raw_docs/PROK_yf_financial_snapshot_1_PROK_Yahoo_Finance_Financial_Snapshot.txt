@@ -1,0 +1,25 @@
+Company: ProKidney Corp. Class A Ordinary Shares
+Ticker: PROK
+Market Cap: 691919040
+Enterprise Value: 1391500800
+Total Revenue: 744000
+Revenue Per Share: 0.006
+EBITDA: -164576992
+Gross Margins: 1.0
+Operating Margins: -176.13364
+Profit Margins: 0.0
+Free Cashflow: -109761752
+Operating Cashflow: -111775000
+Return On Assets: -0.25847998
+Return On Equity: -0.41807
+Total Cash: 271724992
+Total Debt: 4236000
+Debt To Equity: 1.331
+Current Ratio: 10.322
+Quick Ratio: 9.392
+Trailing PE: 
+Forward PE: -3.6148746
+Price To Book: -0.31026575
+Beta: 1.796
+52 Week High: 7.13
+52 Week Low: 0.46

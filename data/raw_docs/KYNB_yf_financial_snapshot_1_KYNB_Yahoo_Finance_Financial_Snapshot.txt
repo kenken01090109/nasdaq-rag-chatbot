@@ -1,0 +1,25 @@
+Company: Kyntra Bio Inc. Common Stock
+Ticker: KYNB
+Market Cap: 27670844
+Enterprise Value: -36138112
+Total Revenue: 8298000
+Revenue Per Share: 2.054
+EBITDA: -58064000
+Gross Margins: 0.0
+Operating Margins: -4.9907103
+Profit Margins: 25.98867
+Free Cashflow: -91708000
+Operating Cashflow: -16912000
+Return On Assets: -0.1842
+Return On Equity: 
+Total Cash: 117975000
+Total Debt: 19471000
+Debt To Equity: 111.358
+Current Ratio: 3.709
+Quick Ratio: 3.561
+Trailing PE: 
+Forward PE: -0.57238495
+Price To Book: -1.625089
+Beta: 0.934
+52 Week High: 12.6
+52 Week Low: 4.85

@@ -1,0 +1,9 @@
+Company: Klotho Neurosciences Inc. Common Stock
+Ticker: KLTO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Omaha
+Website: https://klothoneuro.com
+Employees: 3
+Business Summary: Klotho Neurosciences, Inc. develops medicines for the treatment of cancer, cardiovascular, and neurodegenerative disorders. Its lead gene therapy product candidates consist of KLTO-101 for the treatment or prevention of Alzheimer's disease; and KLTO-202, a gene therapy product for treatment and prevention of Lou Gehrig's disease. The company was formerly known as Anew Medical, Inc. and changed its name to Klotho Neurosciences, Inc. in September 2024. Klotho Neurosciences, Inc. is based in Omaha, Nebraska.

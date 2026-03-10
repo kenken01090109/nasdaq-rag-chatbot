@@ -1,0 +1,25 @@
+Company: Gaming and Leisure Properties Inc. Common Stock
+Ticker: GLPI
+Market Cap: 13852381184
+Enterprise Value: 21517305856
+Total Revenue: 1594752000
+Revenue Per Share: 5.704
+EBITDA: 1484272000
+Gross Margins: 0.95982003
+Operating Margins: 0.89279
+Profit Margins: 0.51739
+Free Cashflow: 520275360
+Operating Cashflow: 1129416960
+Return On Assets: 0.057789996
+Return On Equity: 0.17617
+Total Cash: 224314000
+Total Debt: 7507430912
+Debt To Equity: 149.901
+Current Ratio: 22.366
+Quick Ratio: 20.674
+Trailing PE: 16.57966
+Forward PE: 14.911586
+Price To Book: 2.9921691
+Beta: 0.681
+52 Week High: 52.245
+52 Week Low: 41.17

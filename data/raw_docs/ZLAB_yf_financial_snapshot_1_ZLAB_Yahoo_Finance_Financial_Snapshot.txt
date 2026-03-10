@@ -1,0 +1,25 @@
+Company: Zai Lab Limited American Depositary Shares
+Ticker: ZLAB
+Market Cap: 2161920000
+Enterprise Value: 21153886208
+Total Revenue: 460156000
+Revenue Per Share: 4.201
+EBITDA: -214424000
+Gross Margins: 0.10468
+Operating Margins: -0.54395
+Profit Margins: -0.38147
+Free Cashflow: -92507872
+Operating Cashflow: -150788992
+Return On Assets: -0.12162
+Return On Equity: -0.22557
+Total Cash: 689572992
+Total Debt: 224259008
+Debt To Equity: 31.343
+Current Ratio: 2.449
+Quick Ratio: 1.941
+Trailing PE: 
+Forward PE: -13.50847
+Price To Book: 3.021494
+Beta: 0.883
+52 Week High: 44.34
+52 Week Low: 15.96

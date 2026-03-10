@@ -1,0 +1,11 @@
+Company: Scienjoy Holding Corporation Class A Ordinary Shares
+Ticker: SJ
+CIK: 0001753673
+Latest SEC XBRL Facts:
+Revenues: 95104000 | unit=USD | filed=2024-08-29 | period_end=2024-06-30
+NetIncomeLoss: 1884000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+Assets: 199872000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+Liabilities: 32085000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+StockholdersEquity: 170209000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 7116000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 25975000 | unit=USD | filed=2024-08-29 | period_end=2024-06-30

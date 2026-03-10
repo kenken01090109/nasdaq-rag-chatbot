@@ -1,0 +1,11 @@
+Company: Consolidated Water Co. Ltd. Ordinary Shares
+Ticker: CWCO
+CIK: 0000928340
+Latest SEC XBRL Facts:
+Revenues: 102425170 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 15419578 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 257234652 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 31033818 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 220381141 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 35932833 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 123554648 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Rigetti Computing Inc. Warrants
+Ticker: RGTIW
+CIK: 0001838359
+Latest SEC XBRL Facts:
+Revenues: 2201000 | unit=USD | filed=2023-05-11 | period_end=2023-03-31
+NetIncomeLoss: -198003000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 630274000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 258448000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 371826000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43642000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26133000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

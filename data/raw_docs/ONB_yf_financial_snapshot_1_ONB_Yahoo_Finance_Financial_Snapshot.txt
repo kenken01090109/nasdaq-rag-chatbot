@@ -1,0 +1,25 @@
+Company: Old National Bancorp Common Stock
+Ticker: ONB
+Market Cap: 8718145536
+Enterprise Value: 15111635968
+Total Revenue: 2300566016
+Revenue Per Share: 6.329
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47642
+Profit Margins: 0.29091
+Free Cashflow: 
+Operating Cashflow: 681472000
+Return On Assets: 0.010650001
+Return On Equity: 0.090229996
+Total Cash: 1979335040
+Total Debt: 7936958976
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.463687
+Forward PE: 7.7930427
+Price To Book: 1.051912
+Beta: 0.829
+52 Week High: 26.17
+52 Week Low: 16.83

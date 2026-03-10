@@ -1,0 +1,11 @@
+Company: United Homes Group Inc. Warrant
+Ticker: UHGWW
+CIK: 0001830188
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 283301000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -19456000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 293114000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 240205000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 52909000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20980000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25649000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

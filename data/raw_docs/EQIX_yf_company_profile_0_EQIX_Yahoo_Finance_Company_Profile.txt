@@ -1,0 +1,9 @@
+Company: Equinix Inc. Common Stock REIT
+Ticker: EQIX
+Sector: Real Estate
+Industry: REIT - Specialty
+Country: United States
+City: Redwood City
+Website: https://www.equinix.com
+Employees: 13716
+Business Summary: Equinix, Inc. shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI quickly, efficiently and everywhere.

@@ -1,0 +1,12 @@
+Company: StableX Technologies Inc. Common Stock
+Ticker: SBLX
+CIK: 0001086745
+Latest SEC XBRL Facts:
+Revenues: 3441307 | unit=USD | filed=2019-11-14 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 63777 | unit=USD | filed=2025-11-14 | period_end=2024-09-30
+NetIncomeLoss: -16056245 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 15713729 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2045840 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 8328325 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6045637 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7260657 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

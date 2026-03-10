@@ -1,0 +1,9 @@
+Company: BNB Plus Corp. Common Stock
+Ticker: BNBX
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Stony Brook
+Website: https://www.bnbx.io
+Employees: 26
+Business Summary: BNB Plus Corp. provides digital asset treasury services. The company offers real-time data tracking of treasury performance and market indicators. The company, through its subsidiaries, also develops and commercializes technologies to produce and detect deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) in the Americas, Europe, Asia, and internationally. The company engages in the enzymatic manufacture of synthetic DNA for use in the production of nucleic acid-based therapeutics and nucleic acid production solutions for the biopharmaceutical and diagnostics industries, including LineaDNA, LineaRNAP, and LineaIVT, as well as the development and sale of a proprietary RNAP for use in the production of mRNA therapeutics. BNB Plus Corp. was formerly known as Applied DNA Sciences, Inc. and changed its name to BNB Plus Corp. in November 2025. The company was founded in 1983 and is based in Stony Brook, New York.

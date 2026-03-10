@@ -1,0 +1,11 @@
+Company: Sharps Technology Inc. Common Stock
+Ticker: STSS
+CIK: 0001737995
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 306344 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -99845153 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 443960043 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10745886 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 433214157 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11743528 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10521706 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

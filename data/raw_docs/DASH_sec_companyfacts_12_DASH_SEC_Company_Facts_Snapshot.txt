@@ -1,0 +1,11 @@
+Company: DoorDash Inc. Class A Common Stock
+Ticker: DASH
+CIK: 0001792789
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 9762000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 722000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 17971000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 8463000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 9495000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2010000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3279000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

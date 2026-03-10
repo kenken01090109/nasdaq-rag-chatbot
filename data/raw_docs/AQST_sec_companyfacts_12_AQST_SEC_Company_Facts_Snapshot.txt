@@ -1,0 +1,12 @@
+Company: Aquestive Therapeutics Inc. Common Stock
+Ticker: AQST
+CIK: 0001398733
+Latest SEC XBRL Facts:
+Revenues: 50606000 | unit=USD | filed=2018-11-06 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 31530000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -51924000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 163559000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 167668000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -4109000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -43963000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 129063000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

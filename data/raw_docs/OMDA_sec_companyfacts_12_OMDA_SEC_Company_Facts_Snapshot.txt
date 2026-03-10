@@ -1,0 +1,11 @@
+Company: Omada Health Inc. Common Stock
+Ticker: OMDA
+CIK: 0001611115
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 184364000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -17937000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 287469000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 70123000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 217346000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3127000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 198627000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

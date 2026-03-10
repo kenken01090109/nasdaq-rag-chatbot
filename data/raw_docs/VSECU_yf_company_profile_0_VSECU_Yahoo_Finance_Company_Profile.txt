@@ -1,0 +1,9 @@
+Company: VSE Corporation Tangible Equity Units
+Ticker: VSECU
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Miramar
+Website: https://www.vsecorp.com
+Employees: 1600
+Business Summary: VSE Corporation engages in providing aviation aftermarket parts distribution and maintenance, repair, and overhaul services for air transportation assets for commercial and government markets. The company was incorporated in 1959 and is headquartered in Miramar, Florida.

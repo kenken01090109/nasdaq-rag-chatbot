@@ -1,0 +1,25 @@
+Company: Adial Pharmaceuticals Inc Common Stock
+Ticker: ADIL
+Market Cap: 2033441
+Enterprise Value: -2716068
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -7854250
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3887925
+Operating Cashflow: -6621858
+Return On Assets: -0.79357004
+Return On Equity: -1.5501
+Total Cash: 4606289
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.342
+Quick Ratio: 3.989
+Trailing PE: 
+Forward PE: -0.37809917
+Price To Book: 0.3873016
+Beta: 1.32
+52 Week High: 30.25
+52 Week Low: 1.7678

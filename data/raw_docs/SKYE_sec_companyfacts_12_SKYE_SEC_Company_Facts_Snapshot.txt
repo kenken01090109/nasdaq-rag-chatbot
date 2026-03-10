@@ -1,0 +1,10 @@
+Company: Skye Bioscience Inc. Common Stock
+Ticker: SKYE
+CIK: 0001516551
+Latest SEC XBRL Facts:
+NetIncomeLoss: -41482851 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 41324289 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 8488104 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 32836185 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -33296042 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18441079 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

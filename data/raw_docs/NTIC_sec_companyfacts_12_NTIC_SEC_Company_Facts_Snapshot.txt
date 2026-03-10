@@ -1,0 +1,10 @@
+Company: Northern Technologies International Corporation Common Stock
+Ticker: NTIC
+CIK: 0000875582
+Latest SEC XBRL Facts:
+Revenues: 23308881 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetIncomeLoss: 237819 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+Assets: 104029392 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+StockholdersEquity: 72364798 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: 341908 | unit=USD | filed=2026-01-08 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 6389809 | unit=USD | filed=2026-01-08 | period_end=2025-11-30

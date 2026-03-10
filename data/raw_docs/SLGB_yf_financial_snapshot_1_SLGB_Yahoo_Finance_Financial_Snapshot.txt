@@ -1,0 +1,25 @@
+Company: Smart Logistics Global Limited Ordinary Shares
+Ticker: SLGB
+Market Cap: 47560000
+Enterprise Value: 73486952
+Total Revenue: 712360000
+Revenue Per Share: 17.809
+EBITDA: 21409066
+Gross Margins: 0.05032
+Operating Margins: 0.02631
+Profit Margins: 0.01854
+Free Cashflow: 50056736
+Operating Cashflow: -5098089
+Return On Assets: 0.06262
+Return On Equity: 0.09849
+Total Cash: 3603463
+Total Debt: 31090412
+Debt To Equity: 26.652
+Current Ratio: 1.935
+Quick Ratio: 1.352
+Trailing PE: 23.199999
+Forward PE: 
+Price To Book: 2.7440517
+Beta: 
+52 Week High: 6.08
+52 Week Low: 0.924

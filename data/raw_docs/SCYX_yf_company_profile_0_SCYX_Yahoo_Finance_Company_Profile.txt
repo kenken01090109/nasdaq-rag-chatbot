@@ -1,0 +1,9 @@
+Company: SCYNEXIS Inc. Common Stock
+Ticker: SCYX
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Jersey City
+Website: https://www.scynexis.com
+Employees: 28
+Business Summary: SCYNEXIS, Inc., a biotechnology company, develops medicines to overcome and prevent difficult-to-treat and drug-resistant infections in the United States. It offers BREXAFEMME for the treatment of patients with vulvovaginal candidiasis (VVC) and recurrent VVC. The company's lead product candidate is Ibrexafungerp, a drug for the treatment of invasive candidiasis and/or candidemia, refractory invasive fungal infections, invasive aspergillosis, VVC, and recurrent VVC. It also develops SCY-247 to treat systemic fungal diseases. The company has licensing and collaboration agreements with GlaxoSmithKline Intellectual Property (No. 3) Limited, Merck Sharp & Dohme Corp., Hansoh (Shanghai) Health Technology Co., Ltd., Jiangsu Hansoh Pharmaceutical Group Company Limited, CJSC (R-Pharm), and Cypralis Limited for the development, manufacture, and commercialization of ibrexafungerp. SCYNEXIS, Inc. was formerly known as SCYNEXIS Chemistry & Automation, Inc. and changed its name to SCYNEXIS, Inc. in June 2002. The company was incorporated in 1999 and is headquartered in Jersey City, New Jersey.

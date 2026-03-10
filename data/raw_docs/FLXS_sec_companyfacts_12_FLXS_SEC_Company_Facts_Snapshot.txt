@@ -1,0 +1,11 @@
+Company: Flexsteel Industries Inc. Common Stock
+Ticker: FLXS
+CIK: 0000037472
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 326462000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31
+NetIncomeLoss: 9452000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31
+Assets: 266126000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31
+Liabilities: 108007000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31
+StockholdersEquity: 158119000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 21353000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 22634000 | unit=USD | filed=2025-04-23 | period_end=2025-03-31

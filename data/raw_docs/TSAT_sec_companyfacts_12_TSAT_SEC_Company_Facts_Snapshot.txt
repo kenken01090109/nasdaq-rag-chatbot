@@ -1,0 +1,4 @@
+Company: Telesat Corporation Class A Common Shares and Class B Variable Voting Shares
+Ticker: TSAT
+CIK: 0001845840
+Latest SEC XBRL Facts:

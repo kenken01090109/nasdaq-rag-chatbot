@@ -1,0 +1,9 @@
+Company: Next Technology Holding Inc. Ordinary Shares
+Ticker: NXTT
+Sector: Technology
+Industry: Software - Application
+Country: China
+City: Shenzhen
+Website: https://www.nxtttech.com
+Employees: 21
+Business Summary: Next Technology Holding Inc. provides software development services in the United States, Hong Kong, and Singapore. It provides AI-enabled software development services, including the development, design, and implementation of various SAAS software solutions for businesses of all types, such as industrial and other businesses. The company is also involved in acquiring bitcoin; and issuing of debt or equity securities, as well as engages in other capital raising transactions to purchase bitcoin. The company was formerly known as WeTrade Group, Inc. and changed its name to Next Technology Holding Inc. in April 2024. Next Technology Holding Inc. was incorporated in 2019 and is headquartered in Shenzhen, the People Republic of China.

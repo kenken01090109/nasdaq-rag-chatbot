@@ -1,0 +1,11 @@
+Company: Progress Software Corporation Common Stock (DE)
+Ticker: PRGS
+CIK: 0000876167
+Latest SEC XBRL Facts:
+Revenues: 285832000 | unit=USD | filed=2018-10-05 | period_end=2018-08-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 725165000 | unit=USD | filed=2025-09-29 | period_end=2025-08-31
+NetIncomeLoss: 47388000 | unit=USD | filed=2025-09-29 | period_end=2025-08-31
+Assets: 2421711000 | unit=USD | filed=2025-09-29 | period_end=2025-08-31
+StockholdersEquity: 477682000 | unit=USD | filed=2025-09-29 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: 172389000 | unit=USD | filed=2025-09-29 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 99008000 | unit=USD | filed=2025-09-29 | period_end=2025-08-31

@@ -1,0 +1,25 @@
+Company: FiEE Inc Common Stock
+Ticker: FIEE
+Market Cap: 40483036
+Enterprise Value: 36570300
+Total Revenue: 1984660
+Revenue Per Share: 0.422
+EBITDA: -678652
+Gross Margins: 0.83049005
+Operating Margins: -0.05187
+Profit Margins: -0.56378
+Free Cashflow: 1803387
+Operating Cashflow: 2489901
+Return On Assets: -0.13435
+Return On Equity: -0.66842
+Total Cash: 5905372
+Total Debt: 352864
+Debt To Equity: 9.032
+Current Ratio: 1.463
+Quick Ratio: 1.418
+Trailing PE: 
+Forward PE: 
+Price To Book: 17.86111
+Beta: 5.489
+52 Week High: 7.95
+52 Week Low: 0.33

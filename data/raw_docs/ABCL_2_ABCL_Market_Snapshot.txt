@@ -1,0 +1,10 @@
+Company: AbCellera Biologics Inc. Common Shares
+Ticker: ABCL
+Market Cap: 1088346112
+Enterprise Value: 697738176
+Trailing PE: 
+Forward PE: -4.662338
+Price To Book: 1.1159465
+Beta: 0.868
+52 Week High: 6.515
+52 Week Low: 1.891

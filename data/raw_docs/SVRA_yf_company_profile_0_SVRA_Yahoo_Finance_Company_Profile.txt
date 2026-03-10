@@ -1,0 +1,9 @@
+Company: Savara Inc. Common Stock
+Ticker: SVRA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Langhorne
+Website: https://www.savarapharma.com
+Employees: 59
+Business Summary: Savara Inc., a clinical stage biopharmaceutical company, focuses on rare respiratory diseases. The company's lead product candidate is molgramostim, an inhaled granulocyte-macrophage colony-stimulating factor, which is in Phase 3 development stage for the treatment of autoimmune pulmonary alveolar proteinosis. The company was founded in 2007 and is headquartered in Langhorne, Pennsylvania.

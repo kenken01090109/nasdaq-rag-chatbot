@@ -1,0 +1,25 @@
+Company: Calamos Convertible and High Income Fund Common Stock
+Ticker: CHY
+Market Cap: 924288960
+Enterprise Value: 
+Total Revenue: 21846832
+Revenue Per Share: 0.273
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.38649
+Profit Margins: 8.51226
+Free Cashflow: -12206065
+Operating Cashflow: 84492384
+Return On Assets: 0.00486
+Return On Equity: 0.21110001
+Total Cash: 
+Total Debt: 472896416
+Debt To Equity: 50.185
+Current Ratio: 5.046
+Quick Ratio: 0.908
+Trailing PE: 4.935898
+Forward PE: 
+Price To Book: 0.98089176
+Beta: 1.117
+52 Week High: 12.12
+52 Week Low: 8.99

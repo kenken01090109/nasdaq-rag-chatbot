@@ -1,0 +1,25 @@
+Company: Day One Biopharmaceuticals Inc. Common Stock
+Ticker: DAWN
+Market Cap: 2189911040
+Enterprise Value: 1751591040
+Total Revenue: 158182000
+Revenue Per Share: 1.533
+EBITDA: -124274000
+Gross Margins: 0.8912
+Operating Margins: -0.51115
+Profit Margins: -0.67847
+Free Cashflow: -61958752
+Operating Cashflow: -103757000
+Return On Assets: -0.14642
+Return On Equity: -0.2274
+Total Cash: 441112992
+Total Debt: 2793000
+Debt To Equity: 0.633
+Current Ratio: 8.015
+Quick Ratio: 7.73
+Trailing PE: 
+Forward PE: 1137.3391
+Price To Book: 4.9486465
+Beta: -1.251
+52 Week High: 21.23
+52 Week Low: 5.635

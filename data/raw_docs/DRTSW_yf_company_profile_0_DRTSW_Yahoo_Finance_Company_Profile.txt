@@ -1,0 +1,9 @@
+Company: Alpha Tau Medical Ltd. Warrant
+Ticker: DRTSW
+Sector: 
+Industry: 
+Country: Israel
+City: Jerusalem
+Website: https://www.alphatau.com
+Employees: 125
+Business Summary: Alpha Tau Medical Ltd., a clinical-stage oncology therapeutics company, focuses on the research, development, and commercialization of diffusing alpha-emitters radiation therapy (Alpha DaRT) for the treatment of solid cancer. Its Alpha-DaRT technology is in clinical trials for various forms comprising skin, oral, pancreatic, prostate, lung, liver, and breast cancers; and preclinical or pending clinical studies for brain and other cancers. The company is headquartered in Jerusalem, Israel.

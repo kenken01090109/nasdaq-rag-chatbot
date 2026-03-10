@@ -1,0 +1,9 @@
+Team Contributions
+Sheng Wei Huang
+Led the core development of the system and implemented most of the coding for the project. Built the RAG pipeline, integrated the retrieval components, and ensured the chatbot functionality operated correctly with the vector database and LLM.
+
+Ken Chen
+Prepared the system environment and supported the final integration of the project. Conducted testing, made minor adjustments to improve system stability, and produced the demo video showcasing the functionality and workflow of the application.
+
+Yuqi Zhou
+Assisted with debugging and troubleshooting throughout development. Helped identify and fix code issues to ensure the system executed correctly and supported the overall stability of the project.

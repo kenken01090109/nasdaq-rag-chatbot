@@ -1,0 +1,25 @@
+Company: American Rebel Holdings Inc. Common Stock
+Ticker: AREB
+Market Cap: 2101251
+Enterprise Value: 21837708
+Total Revenue: 9014691
+Revenue Per Share: 47.457
+EBITDA: -15559245
+Gross Margins: -0.048109997
+Operating Margins: -1.96013
+Profit Margins: 0.0
+Free Cashflow: -13996820
+Operating Cashflow: -6891564
+Return On Assets: -0.48650002
+Return On Equity: 
+Total Cash: 722233
+Total Debt: 22512000
+Debt To Equity: 666.379
+Current Ratio: 0.339
+Quick Ratio: 0.054
+Trailing PE: 
+Forward PE: 5.086667
+Price To Book: 0.0011950351
+Beta: 1.034
+52 Week High: 8356.0
+52 Week Low: 0.12

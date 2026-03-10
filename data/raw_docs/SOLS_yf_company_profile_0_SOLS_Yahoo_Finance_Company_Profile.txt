@@ -1,0 +1,9 @@
+Company: Solstice Advanced Materials Inc. Common Stock
+Ticker: SOLS
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United States
+City: Morris Plains
+Website: https://www.solstice.com
+Employees: 4100
+Business Summary: Solstice Advanced Materials, Inc. operates as a specialty chemicals and advanced materials company in the United States and internationally. It operates in two segments: Refrigerants & Applied Solutions (RAS), and Electronic & Specialty Materials (ESM). The RAS segment manufactures and sells low global warming potential (LGWP) refrigerants, blowing agents, solvents, and aerosol materials; and provides, aerosol propellants, cleaning solvents, pharmaceutical packaging materials, and alternative energy services under the Solstice, Genetron, and Aclar brands. The ESM segment offers electronic materials, fibers and laboratory life science chemicals for semiconductor, defense, pharmaceutical, and construction markets. This segment provides sputtering targets, lightweight high-strength fibers, and high-purity life science solutions under the Spectra, Fluka, and Hydranal brands. Solstice Advanced Materials, Inc. was incorporated in 2025 and is headquartered in Morris Plains, New Jersey.

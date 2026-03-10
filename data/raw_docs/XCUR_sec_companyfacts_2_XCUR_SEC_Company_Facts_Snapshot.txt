@@ -1,0 +1,12 @@
+Company: Exicure Inc. Common Stock
+Ticker: XCUR
+CIK: 0001698530
+Latest SEC XBRL Facts:
+Revenues: 500000 | unit=USD | filed=2025-03-18 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -2048000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 15267000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 8340000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 6927000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7408000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4438000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

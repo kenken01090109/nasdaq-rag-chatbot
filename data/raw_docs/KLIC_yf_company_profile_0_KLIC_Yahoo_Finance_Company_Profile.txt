@@ -1,0 +1,9 @@
+Company: Kulicke and Soffa Industries Inc. Common Stock
+Ticker: KLIC
+Sector: Technology
+Industry: Semiconductor Equipment & Materials
+Country: Singapore
+City: Singapore
+Website: https://www.kns.com
+Employees: 2551
+Business Summary: Kulicke and Soffa Industries, Inc. designs, manufactures, and sells capital equipment and consumables in China, the United States, Taiwan, Malaysia, Japan, the Philippines, Korea, Hong Kong, and internationally. It operates through four segments: Ball Bonding Equipment, Wedge Bonding Equipment, Advanced Solutions, and Aftermarket Products and Services (APS). The company provides services used to assemble semiconductor devices, such as integrated circuits, power discretes, light-emitting diode (LEDs), and sensors. It also offers ball bonding equipment, wafer level bonding equipment, and wedge and wedge-related bonding equipment; and advanced display, die-attach, and thermocompression systems and solutions, as well as tools, spares, and services for equipment. In addition, the company services, maintains, repairs, and upgrades equipment; and sells consumable aftermarket solutions and services. It serves integrated device manufacturers, outsourced semiconductor assembly and test providers, other electronics manufacturers, foundry service providers, and automotive electronics suppliers primarily in the United States and the Asia/Pacific region. The company was founded in 1951 and is headquartered in Singapore.

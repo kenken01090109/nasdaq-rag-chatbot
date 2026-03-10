@@ -1,0 +1,25 @@
+Company: Reservoir Media Inc. Common Stock
+Ticker: RSVR
+Market Cap: 656002176
+Enterprise Value: 1094234496
+Total Revenue: 169585008
+Revenue Per Share: 2.591
+EBITDA: 66310924
+Gross Margins: 0.64518
+Operating Margins: 0.22664
+Profit Margins: 0.03872
+Free Cashflow: -81228224
+Operating Cashflow: 50404272
+Return On Assets: 0.025980001
+Return On Equity: 0.01763
+Total Cash: 20591354
+Total Debt: 460261504
+Debt To Equity: 122.802
+Current Ratio: 1.186
+Quick Ratio: 0.878
+Trailing PE: 100.0
+Forward PE: 14.492754
+Price To Book: 1.755618
+Beta: 0.873
+52 Week High: 10.32
+52 Week Low: 6.56

@@ -1,0 +1,25 @@
+Company: Cardinal Infrastructure Group Inc. Class A Common Stock
+Ticker: CDNL
+Market Cap: 1278183296
+Enterprise Value: 77932312
+Total Revenue: 395162976
+Revenue Per Share: 31362.14
+EBITDA: 68188152
+Gross Margins: 0.20815
+Operating Margins: 0.09811
+Profit Margins: 0.06107
+Free Cashflow: 
+Operating Cashflow: 34663300
+Return On Assets: 
+Return On Equity: 
+Total Cash: 18386648
+Total Debt: 95943232
+Debt To Equity: 230.784
+Current Ratio: 1.203
+Quick Ratio: 1.162
+Trailing PE: 497.0
+Forward PE: 18.127659
+Price To Book: 0.009037935
+Beta: 
+52 Week High: 35.76
+52 Week Low: 21.98

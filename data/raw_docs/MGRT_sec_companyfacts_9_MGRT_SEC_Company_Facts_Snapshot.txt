@@ -1,0 +1,11 @@
+Company: Mega Fortune Company Limited Ordinary Shares
+Ticker: MGRT
+CIK: 0002033377
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 11085548 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+NetIncomeLoss: 1788402 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+Assets: 18463032 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+Liabilities: 2892393 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+StockholdersEquity: 15570639 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12001149 | unit=USD | filed=2026-02-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 764761 | unit=USD | filed=2026-02-03 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: WiMi Hologram Cloud Inc. Class B Ordinary Shares
+Ticker: WIMI
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: China
+City: Beijing
+Website: https://www.wimiar.com
+Employees: 107
+Business Summary: WiMi Hologram Cloud Inc., together with its subsidiaries, provides augmented reality (AR) based holographic services and products in China. It operates in three segments: AR Advertising, AR Entertainment, and Semiconductor business. The company offers holographic AR advertising services and holographic AR entertainment products. Its holographic AR advertising software enables users to insert into video footages real or animated three-dimensional objects; and online holographic AR advertising solution embeds holographic AR ads into films and shows. The company's holographic AR entertainment products consist primarily of payment middleware software, game distribution platform, and holographic mixed reality software. In addition, it engages in the provision of central processing algorithm services, and provides computer chip products to enterprise customers, as well as sells comprehensive solutions for central processing algorithms and related services with software and hardware integration. Further, the company's holographic AR technologies are used in software engineering, content production, cloud, big data, and artificial intelligence. Additionally, it provides hardware performance optimization and software algorithm optimization services to online game developers and game distributors. The company serves a range of industries, including manufacturing, real estate, entertainment, technology, media and telecommunications, travel, education, and retail. The company was founded in 2015 and is headquartered in Beijing, the People's Republic of China.

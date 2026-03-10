@@ -1,0 +1,25 @@
+Company: PureTech Health plc American Depositary Shares
+Ticker: PRTC
+Market Cap: 406029184
+Enterprise Value: 3955313920
+Total Revenue: 6391000
+Revenue Per Share: 0.27
+EBITDA: -115718000
+Gross Margins: 0.0
+Operating Margins: -25.895191
+Profit Margins: 7.9295897
+Free Cashflow: -160187872
+Operating Cashflow: -100297000
+Return On Assets: -0.1295
+Return On Equity: 0.094440006
+Total Cash: 331284000
+Total Debt: 163574000
+Debt To Equity: 44.326
+Current Ratio: 8.487
+Quick Ratio: 8.353
+Trailing PE: 9.882352
+Forward PE: -33.6
+Price To Book: 10.734823
+Beta: 0.688
+52 Week High: 20.0
+52 Week Low: 13.3

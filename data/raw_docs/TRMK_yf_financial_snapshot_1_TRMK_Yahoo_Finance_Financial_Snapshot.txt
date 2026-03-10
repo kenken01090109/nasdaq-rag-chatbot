@@ -1,0 +1,25 @@
+Company: Trustmark Corporation Common Stock
+Ticker: TRMK
+Market Cap: 2519446016
+Enterprise Value: 2936606464
+Total Revenue: 786908032
+Revenue Per Share: 13.048
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.35057998
+Profit Margins: 0.28483
+Free Cashflow: 
+Operating Cashflow: 243902000
+Return On Assets: 0.01209
+Return On Equity: 0.10976
+Total Cash: 684241984
+Total Debt: 1102665984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.356757
+Forward PE: 10.339567
+Price To Book: 1.1687481
+Beta: 0.651
+52 Week High: 45.43
+52 Week Low: 29.77

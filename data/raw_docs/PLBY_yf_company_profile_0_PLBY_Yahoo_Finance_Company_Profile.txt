@@ -1,0 +1,9 @@
+Company: Playboy Inc. Common Stock
+Ticker: PLBY
+Sector: Consumer Cyclical
+Industry: Leisure
+Country: United States
+City: Los Angeles
+Website: https://playboy.com
+Employees: 249
+Business Summary: Playboy, Inc. operates as a pleasure and leisure company in the United States, Australia, China, the United Kingdom, and internationally. The company operates through three segments: Licensing, Direct-to-Consumer, and Digital Subscriptions and Content. It offers sexual wellness products, such as lingerie, bedroom accessories, intimacy products, and other adult products; apparel and accessories products; visual media and entertainment; and beauty and grooming products, such as skincare, haircare, bath and body, grooming, cosmetics, and fragrance, as well as sells spirits under the Rare Hare brand and ready-to-drink cocktails under the Play Hard brand. The company also owns and operates digital commerce retail platforms, such as playboy.com under license agreements; Honey Birdette retail stores; and collaborates with nightlife, hospitality, digital casino, and online gaming industries. In addition, it licenses Playboy name, Rabbit Head Design, and other trademarks and related properties; and programming content to cable television operators and direct-to-home satellite television operators. Further, the company business covers the subscription sale of playboyplus.com and playboy.tv, which are online content platforms. It offers its products under its flagship brand Playboy. The company was formerly known as PLBY Group, Inc. and changed its name to Playboy, Inc. in June 2025. Playboy, Inc. is headquartered in Los Angeles, California.

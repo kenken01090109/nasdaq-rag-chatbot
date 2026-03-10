@@ -1,0 +1,25 @@
+Company: Sezzle Inc. Common Stock
+Ticker: SEZL
+Market Cap: 2509228544
+Enterprise Value: 2637913856
+Total Revenue: 450279008
+Revenue Per Share: 13.279
+EBITDA: 266411008
+Gross Margins: 0.73175
+Operating Margins: 0.60822
+Profit Margins: 0.29566
+Free Cashflow: 43942752
+Operating Cashflow: 209907008
+Return On Assets: 0.47623003
+Return On Equity: 1.03343
+Total Cash: 64054000
+Total Debt: 140815008
+Debt To Equity: 82.925
+Current Ratio: 3.92
+Quick Ratio: 3.622
+Trailing PE: 19.75
+Forward PE: 12.674519
+Price To Book: 14.623805
+Beta: 8.617
+52 Week High: 186.74
+52 Week Low: 24.86

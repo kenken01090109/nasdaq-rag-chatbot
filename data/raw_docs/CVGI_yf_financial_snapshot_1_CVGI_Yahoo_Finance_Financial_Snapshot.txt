@@ -1,0 +1,25 @@
+Company: Commercial Vehicle Group Inc. Common Stock
+Ticker: CVGI
+Market Cap: 56015360
+Enterprise Value: 168191264
+Total Revenue: 657532032
+Revenue Per Share: 19.5
+EBITDA: 18423000
+Gross Margins: 0.10804
+Operating Margins: 0.00881
+Profit Margins: -0.083450004
+Free Cashflow: 32861876
+Operating Cashflow: 5738000
+Return On Assets: 0.00518
+Return On Equity: -0.31072
+Total Cash: 31326000
+Total Debt: 147032992
+Debt To Equity: 107.695
+Current Ratio: 2.455
+Quick Ratio: 1.084
+Trailing PE: 
+Forward PE: -6.3541665
+Price To Book: 0.35350022
+Beta: 1.889
+52 Week High: 2.11
+52 Week Low: 0.81

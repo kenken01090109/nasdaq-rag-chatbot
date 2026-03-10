@@ -1,0 +1,25 @@
+Company: Consensus Cloud Solutions Inc. Common Stock
+Ticker: CCSI
+Market Cap: 580626432
+Enterprise Value: 1072459968
+Total Revenue: 349696000
+Revenue Per Share: 18.165
+EBITDA: 168972000
+Gross Margins: 0.79810995
+Operating Margins: 0.41074002
+Profit Margins: 0.24172
+Free Cashflow: 75735376
+Operating Cashflow: 136086000
+Return On Assets: 0.14834
+Return On Equity: 
+Total Cash: 74685000
+Total Debt: 570699008
+Debt To Equity: 4143.607
+Current Ratio: 1.788
+Quick Ratio: 1.501
+Trailing PE: 7.0229883
+Forward PE: 5.1590786
+Price To Book: 42.079887
+Beta: 1.866
+52 Week High: 31.665
+52 Week Low: 17.84

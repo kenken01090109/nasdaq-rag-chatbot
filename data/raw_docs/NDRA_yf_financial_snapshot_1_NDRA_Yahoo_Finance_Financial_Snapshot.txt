@@ -1,0 +1,25 @@
+Company: ENDRA Life Sciences Inc. Common Stock
+Ticker: NDRA
+Market Cap: 3919245
+Enterprise Value: 3732184
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -8392886
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -4490133
+Operating Cashflow: -5086552
+Return On Assets: -1.01973
+Return On Equity: -2.36338
+Total Cash: 794036
+Total Debt: 525328
+Debt To Equity: 306.528
+Current Ratio: 1.31
+Quick Ratio: 0.992
+Trailing PE: 0.17213114
+Forward PE: -0.72727275
+Price To Book: 15.412844
+Beta: -0.112
+52 Week High: 11.96
+52 Week Low: 2.9

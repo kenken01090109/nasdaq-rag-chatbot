@@ -1,0 +1,11 @@
+Company: FB Bancorp Inc. Common Stock
+Ticker: FBLA
+CIK: 0002013639
+Latest SEC XBRL Facts:
+Revenues: 54049000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 2664000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 1264141000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 925955000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 338186000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11462000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65731000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

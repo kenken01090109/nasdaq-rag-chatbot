@@ -1,0 +1,9 @@
+Company: American Resources Corporation Class A Common Stock
+Ticker: AREC
+Sector: Basic Materials
+Industry: Coking Coal
+Country: United States
+City: Fishers
+Website: https://www.americanresourcescorp.com
+Employees: 21
+Business Summary: American Resources Corporation engages in the production of rare earth and critical mineral concentrates for the infrastructure and electrification markets. It operates through the American Infrastructure (AIC), ReElements (RLMT), and Electrified Materials Corporation (EMC) segments. The American Infrastructure segment engages in the extraction, processing, transportation, and distribution of coal with a focus on metallurgical quality coal to the steel industry. Its ReElements segment provides final stage, separated, and purified rare earth and critical elements to the electrification industry supply chain, which are used to manufacture permanent magnets and battery materials. The Electrified Materials segment aggregates and processes used metals for recycling into new steel-based products for the recovery and sale of recovered metal and steel. American Resources Corporation was founded in 2006 and is headquartered in Fishers, Indiana.

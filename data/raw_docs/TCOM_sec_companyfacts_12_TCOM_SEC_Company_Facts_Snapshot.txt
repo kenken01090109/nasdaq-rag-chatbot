@@ -1,0 +1,11 @@
+Company: Trip.com Group Limited American Depositary Shares
+Ticker: TCOM
+CIK: 0001269238
+Latest SEC XBRL Facts:
+Revenues: 7302000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31
+NetIncomeLoss: 2338000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31
+Assets: 33233000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31
+Liabilities: 13576000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31
+StockholdersEquity: 19427000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 2692000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 6636000000 | unit=USD | filed=2025-04-11 | period_end=2024-12-31

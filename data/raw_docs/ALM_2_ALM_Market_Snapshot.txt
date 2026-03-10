@@ -1,0 +1,10 @@
+Company: Almonty Industries Inc. Common Shares
+Ticker: ALM
+Market Cap: 4950235136
+Enterprise Value: 4552516608
+Trailing PE: 
+Forward PE: 50.35476
+Price To Book: 34.561073
+Beta: 1.792
+52 Week High: 20.88
+52 Week Low: 2.295

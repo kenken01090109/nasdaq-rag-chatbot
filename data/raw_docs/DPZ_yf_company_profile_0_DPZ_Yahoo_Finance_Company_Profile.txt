@@ -1,0 +1,9 @@
+Company: Domino's Pizza Inc Common Stock
+Ticker: DPZ
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Ann Arbor
+Website: https://biz.dominos.com
+Employees: 6200
+Business Summary: Domino's Pizza, Inc. operates as a pizza company worldwide. The company operates through three segments: U.S. Stores, International Franchise, and Supply Chain. It offers pizzas under the Domino's brand name through company-owned and franchised stores. The company also provides bread products, wings, boneless chicken, pastas, oven-baked sandwiches, soft drink products and desserts. In addition, it offers parmesan stuffed crust pizza; spicy chicken bacon ranch specialty pizza; and garlic, and cinnamon bread bites, as well as croissant, chocolate volcano, and chicken burst pizzas. Domino's Pizza, Inc. was founded in 1960 and is based in Ann Arbor, Michigan.

@@ -1,0 +1,12 @@
+Company: Research Frontiers Incorporated Common Stock
+Ticker: REFR
+CIK: 0000793524
+Latest SEC XBRL Facts:
+Revenues: 719692 | unit=USD | filed=2019-08-08 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1049125 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -1280021 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2769326 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1269808 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1499518 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -863214 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1130390 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: IP Strategy Holdings Inc. Common Stock
+Ticker: IPST
+CIK: 0001788230
+Latest SEC XBRL Facts:
+Revenues: 2413805 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 5402806 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetIncomeLoss: 185935769 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 482778372 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 62345976 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: 420432396 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7821905 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

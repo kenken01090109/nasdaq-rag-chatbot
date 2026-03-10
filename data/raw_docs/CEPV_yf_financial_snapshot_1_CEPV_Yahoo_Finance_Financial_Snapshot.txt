@@ -1,0 +1,25 @@
+Company: Cantor Equity Partners V Inc. Class A Ordinary Shares
+Ticker: CEPV
+Market Cap: 322032704
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -118175
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 118175
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -1266.25
+Beta: 
+52 Week High: 10.36
+52 Week Low: 10.105

@@ -1,0 +1,12 @@
+Company: Longeveron Inc. Class A Common Stock
+Ticker: LGVN
+CIK: 0001721484
+Latest SEC XBRL Facts:
+Revenues: 548000 | unit=USD | filed=2024-05-14 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 834000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -17260000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 15557000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 5591000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 9966000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -13349000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9244000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

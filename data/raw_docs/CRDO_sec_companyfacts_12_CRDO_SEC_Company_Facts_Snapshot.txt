@@ -1,0 +1,11 @@
+Company: Credo Technology Group Holding Ltd Ordinary Shares
+Ticker: CRDO
+CIK: 0001807794
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 898113000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+NetIncomeLoss: 303177000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+Assets: 2037339000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+Liabilities: 188453000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+StockholdersEquity: 1848886000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 282050000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 1220464000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31

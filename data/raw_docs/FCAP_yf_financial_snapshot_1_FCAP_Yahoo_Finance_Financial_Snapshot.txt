@@ -1,0 +1,25 @@
+Company: First Capital Inc. Common Stock
+Ticker: FCAP
+Market Cap: 168393424
+Enterprise Value: 30304704
+Total Revenue: 49471000
+Revenue Per Share: 14.787
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.44286
+Profit Margins: 0.33084
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01332
+Return On Equity: 0.12974
+Total Cash: 138758000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.2638035
+Forward PE: 
+Price To Book: 1.2167273
+Beta: 0.647
+52 Week High: 71.0
+52 Week Low: 33.73

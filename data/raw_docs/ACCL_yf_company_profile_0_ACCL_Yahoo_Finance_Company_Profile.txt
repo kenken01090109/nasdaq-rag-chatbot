@@ -1,0 +1,9 @@
+Company: Acco Group Holdings Limited Class A Ordinary Shares
+Ticker: ACCL
+Sector: Industrials
+Industry: Consulting Services
+Country: Hong Kong
+City: Sheung Wan
+Website: https://www.accoladegroup.com.hk
+Employees: 22
+Business Summary: Acco Group Holdings Limited, through its subsidiaries, operates as an IT-driven corporate service provider in Hong Kong and Singapore. The company offers corporate secretarial and accounting services, as well as intellectual properties registration services under the Accolade brand name. It serves individual clients, small and medium-sized enterprises, and multinational corporations. Acco Group Holdings Limited was founded in 2009 and is based in Sheung Wan, Hong Kong. Acco Group Holdings Limited operates as a subsidiary of Star Blessings Limited.

@@ -1,0 +1,11 @@
+Company: Roadzen Inc. Ordinary Shares
+Ticker: RDZN
+CIK: 0001868640
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 38900488 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -15262311 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 44865146 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 68953299 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: -26595932 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -16471124 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 5143430 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

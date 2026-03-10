@@ -1,0 +1,9 @@
+Company: Astrotech Corporation (DE) Common Stock
+Ticker: ASTC
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: Austin
+Website: https://www.astrotechcorp.com
+Employees: 32
+Business Summary: Astrotech Corporation operates as a mass spectrometry company worldwide. It owns and licenses the intellectual property related to the Astrotech Mass Spectrometer Technology, a platform mass spectrometry technology. The company also develops TRACER 1000, a mass spectrometer-based explosive trace detector to replace the explosives trace detectors used at airports, border checkpoints, cargo hubs, infrastructure security, correctional facilities, military bases, and law enforcement centers. In addition, it develops AGLAB-1000, a mass spectrometer for use in the hemp and cannabis market. Further, the company develops BreathTest-1000, a breath analysis tool to screen for volatile organic compound metabolites found in a person's breath; and Pro-Control 1000-D2, a mass spectrometer; and EN-SCAN to detect soil, water, and air contamination source location and migration. The company was formerly known as SPACEHAB, Inc. and changed its name to Astrotech Corporation in 2009. The company was incorporated in 1984 and is based in Austin, Texas.

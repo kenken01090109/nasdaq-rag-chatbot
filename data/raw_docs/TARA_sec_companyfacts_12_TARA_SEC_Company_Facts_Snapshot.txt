@@ -1,0 +1,11 @@
+Company: Protara Therapeutics Inc.  Common Stock
+Ticker: TARA
+CIK: 0001359931
+Latest SEC XBRL Facts:
+Revenues: 2948000 | unit=USD | filed=2017-03-16 | period_end=2014-12-31
+NetIncomeLoss: -40132000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 144636000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 12345000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 132291000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -39415000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12551000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

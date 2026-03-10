@@ -1,0 +1,12 @@
+Company: Minerva Neurosciences Inc Common Stock
+Ticker: NERV
+CIK: 0001598646
+Latest SEC XBRL Facts:
+Revenues: 41175600 | unit=USD | filed=2021-11-08 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2025-02-25 | period_end=2024-12-31
+NetIncomeLoss: -9755514 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 28092052 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 62672322 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -34580270 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9030196 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12286646 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

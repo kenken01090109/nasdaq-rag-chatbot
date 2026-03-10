@@ -1,0 +1,12 @@
+Company: XTI Aerospace Inc. Common Stock
+Ticker: XTIA
+CIK: 0001529113
+Latest SEC XBRL Facts:
+Revenues: 3568000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2169000 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -47176000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 47931000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 35733000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 10454000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30356000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32198000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

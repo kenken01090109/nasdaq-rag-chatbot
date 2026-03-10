@@ -1,0 +1,25 @@
+Company: Movano Inc. Common Stock
+Ticker: MOVE
+Market Cap: 15416055
+Enterprise Value: 13682821
+Total Revenue: 500000
+Revenue Per Share: 0.659
+EBITDA: -15631000
+Gross Margins: -2.7020001
+Operating Margins: -32.3875
+Profit Margins: 0.0
+Free Cashflow: -7430500
+Operating Cashflow: -13563000
+Return On Assets: -0.95647
+Return On Equity: -3.98784
+Total Cash: 2000000
+Total Debt: 3544000
+Debt To Equity: 
+Current Ratio: 0.702
+Quick Ratio: 0.296
+Trailing PE: 
+Forward PE: -4.5608106
+Price To Book: -6.6273932
+Beta: 0.871
+52 Week High: 36.0
+52 Week Low: 4.67

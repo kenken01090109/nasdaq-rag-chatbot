@@ -1,0 +1,11 @@
+Company: Consumer Portfolio Services Inc. Common Stock
+Ticker: CPSS
+CIK: 0000889609
+Latest SEC XBRL Facts:
+Revenues: 325060000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 14344000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 3809776000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 3502211000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 307565000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 213249000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9388000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: BRC Group Holdings Inc. 5.00% Senior Notes due 2026
+Ticker: RILYG
+CIK: 0001464790
+Latest SEC XBRL Facts:
+Revenues: 689236000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 600646000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+NetIncomeLoss: 220579000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+Assets: 1669311000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+Liabilities: 1882402000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+StockholdersEquity: -260460000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -85932000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 184225000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30

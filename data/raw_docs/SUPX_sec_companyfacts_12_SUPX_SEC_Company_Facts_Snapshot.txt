@@ -1,0 +1,11 @@
+Company: SuperX AI Technology Limited Ordinary Shares
+Ticker: SUPX
+CIK: 0001897087
+Latest SEC XBRL Facts:
+Revenues: 3596575 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetIncomeLoss: -21214460 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Assets: 52051147 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+Liabilities: 32222751 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+StockholdersEquity: 19828396 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -8334584 | unit=USD | filed=2025-10-31 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 17206993 | unit=USD | filed=2025-10-31 | period_end=2025-06-30

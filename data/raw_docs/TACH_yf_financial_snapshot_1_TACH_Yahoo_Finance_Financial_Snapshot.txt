@@ -1,0 +1,25 @@
+Company: Titan Acquisition Corp. Class A Ordinary Shares
+Ticker: TACH
+Market Cap: 357075008
+Enterprise Value: 356215392
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -536520
+Return On Assets: 
+Return On Equity: 
+Total Cash: 859596
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 31.315
+Quick Ratio: 28.602
+Trailing PE: 69.0
+Forward PE: 
+Price To Book: -5.874007
+Beta: 
+52 Week High: 10.38
+52 Week Low: 10.0

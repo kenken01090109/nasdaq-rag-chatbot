@@ -1,0 +1,12 @@
+Company: Galaxy Digital Inc. Class A Common Stock
+Ticker: GLXY
+CIK: 0001859392
+Latest SEC XBRL Facts:
+Revenues: 50039632000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 49924184000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 240316000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 11522716000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 8350397000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 1762366000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 756948000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1137426000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

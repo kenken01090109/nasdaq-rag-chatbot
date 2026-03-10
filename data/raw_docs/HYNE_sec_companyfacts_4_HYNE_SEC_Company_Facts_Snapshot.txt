@@ -1,0 +1,9 @@
+Company: Hoyne Bancorp Inc. Common Stock
+Ticker: HYNE
+CIK: 0002073153
+Latest SEC XBRL Facts:
+NetIncomeLoss: 31086 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 454753756 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 364605110 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 90148646 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24998 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

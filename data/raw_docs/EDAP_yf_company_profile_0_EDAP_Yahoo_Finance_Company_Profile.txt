@@ -1,0 +1,9 @@
+Company: EDAP TMS S.A. American Depositary Shares
+Ticker: EDAP
+Sector: Healthcare
+Industry: Medical Distribution
+Country: France
+City: Vaulx-En-Velin
+Website: https://focalone.com
+Employees: 310
+Business Summary: EDAP TMS S.A., together with its subsidiaries, develops, manufactures, promotes, and distributes minimally-invasive medical devices for urology based upon proprietary ultrasound technology in Asia, France, the United States, and internationally. The company operates through High Intensity Focused Ultrasound (HIFU), Extracorporeal ShockWave Lithotripsy (ESWL), and Distribution segments. The HIFU segment develops, manufactures, markets, and distributes non-invasive robotic HIFU systems for urology-related and other indications. This segment also offers Focal One, a HIFU robotic system to treat patients diagnosed with prostate cancer, as well as disposables, and leasing and treatment related services; and maintenance services. The ESWL segment manufactures and markets lithotripter for the treatment of urinary tract stones; and provides disposables, replacement parts, and services for lithotripters. This segment also sells spare parts and disposables, such as electrodes. The Distribution segment markets, distributes, and services lasers, micro-ultrasound systems, and other medical products from third parties, as well as leases devices; sells disposables and spare parts; and offers maintenance services. It markets and sells its products through its direct marketing and sales channels, as well as through third-party distributors and agents. The company serves academic, public, and private hospitals as well as urology clinics. EDAP TMS S.A. was incorporated in 1979 and is based in Vaulx-en-Velin, France.

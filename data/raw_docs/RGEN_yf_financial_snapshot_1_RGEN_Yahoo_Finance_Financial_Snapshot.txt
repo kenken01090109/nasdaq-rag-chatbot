@@ -1,0 +1,25 @@
+Company: Repligen Corporation Common Stock
+Ticker: RGEN
+Market Cap: 6759170048
+Enterprise Value: 6681489920
+Total Revenue: 738256000
+Revenue Per Share: 13.128
+EBITDA: 124440000
+Gross Margins: 0.52653
+Operating Margins: 0.082600005
+Profit Margins: 0.06623
+Free Cashflow: 76066248
+Operating Cashflow: 117417000
+Return On Assets: 0.00988
+Return On Equity: 0.02397
+Total Cash: 767628032
+Total Debt: 689948032
+Debt To Equity: 32.759
+Current Ratio: 8.374
+Quick Ratio: 6.819
+Trailing PE: 139.52325
+Forward PE: 47.60318
+Price To Book: 3.2089753
+Beta: 1.183
+52 Week High: 175.77
+52 Week Low: 102.97

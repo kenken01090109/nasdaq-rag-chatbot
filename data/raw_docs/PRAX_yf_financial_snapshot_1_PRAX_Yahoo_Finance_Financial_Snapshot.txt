@@ -1,0 +1,25 @@
+Company: Praxis Precision Medicines Inc. Common Stock
+Ticker: PRAX
+Market Cap: 8653532160
+Enterprise Value: 8050690560
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -326057984
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -146253744
+Operating Cashflow: -249068000
+Return On Assets: -0.28694
+Return On Equity: -0.45825002
+Total Cash: 599331008
+Total Debt: 110000
+Debt To Equity: 0.013
+Current Ratio: 10.221
+Quick Ratio: 10.027
+Trailing PE: 
+Forward PE: -35.93847
+Price To Book: 8.91487
+Beta: 3.006
+52 Week High: 356.0
+52 Week Low: 26.7

@@ -1,0 +1,11 @@
+Company: Bolt Biotherapeutics Inc. Common Stock
+Ticker: BOLT
+CIK: 0001641281
+Latest SEC XBRL Facts:
+Revenues: 5195000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -26745000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 65053000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 32952000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 32101000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -32694000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 17753000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

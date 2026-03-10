@@ -1,0 +1,12 @@
+Company: Kingsoft Cloud Holdings Limited American Depositary Shares
+Ticker: KC
+CIK: 0001795589
+Latest SEC XBRL Facts:
+Revenues: 1066566000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1066566000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetIncomeLoss: -269433000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Assets: 2410184000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+Liabilities: 1655958000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+StockholdersEquity: 708019000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 86093000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 362879000 | unit=USD | filed=2025-04-15 | period_end=2024-12-31

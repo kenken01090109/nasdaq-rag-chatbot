@@ -1,0 +1,9 @@
+Company: Beasley Broadcast Group Inc. Class A Common Stock
+Ticker: BBGI
+Sector: Communication Services
+Industry: Broadcasting
+Country: United States
+City: Naples
+Website: https://bbgi.com
+Employees: 542
+Business Summary: Beasley Broadcast Group, Inc., a multi-platform media company, owns and operates radio stations in the United States. It operates in two segments, Audio and Digital. The company offers local and national advertisers integrated marketing solutions across audio, digital, and event platforms. Beasley Broadcast Group, Inc. was founded in 1961 and is based in Naples, Florida.

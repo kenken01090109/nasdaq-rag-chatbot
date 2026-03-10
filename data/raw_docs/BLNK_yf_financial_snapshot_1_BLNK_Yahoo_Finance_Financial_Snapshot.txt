@@ -1,0 +1,25 @@
+Company: Blink Charging Co. Common Stock
+Ticker: BLNK
+Market Cap: 93791816
+Enterprise Value: 63058664
+Total Revenue: 106631000
+Revenue Per Share: 1.026
+EBITDA: -60877000
+Gross Margins: 0.30203
+Operating Margins: -0.46418998
+Profit Margins: -1.18411
+Free Cashflow: -14515000
+Operating Cashflow: -43872000
+Return On Assets: -0.18621
+Return On Equity: -0.88515997
+Total Cash: 23110000
+Total Debt: 10096000
+Debt To Equity: 11.121
+Current Ratio: 1.601
+Quick Ratio: 0.931
+Trailing PE: 
+Forward PE: -1.6214895
+Price To Book: 0.8373266
+Beta: 1.84
+52 Week High: 2.65
+52 Week Low: 0.63

@@ -1,0 +1,10 @@
+Company: Runway Growth Finance Corp. 7.50% Notes due 2027
+Ticker: RWAYL
+CIK: 0001653384
+Latest SEC XBRL Facts:
+NetIncomeLoss: 26682000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 963346000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 473820000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 489526000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 165680000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7917000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

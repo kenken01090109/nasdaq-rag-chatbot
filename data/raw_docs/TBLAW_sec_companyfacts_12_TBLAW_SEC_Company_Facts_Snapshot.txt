@@ -1,0 +1,10 @@
+Company: Taboola.com Ltd. Warrant
+Ticker: TBLAW
+CIK: 0001840502
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1389731000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -7851000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1529346000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 911462000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 148711000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115475000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

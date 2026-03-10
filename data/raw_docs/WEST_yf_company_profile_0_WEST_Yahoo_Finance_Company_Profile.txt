@@ -1,0 +1,9 @@
+Company: Westrock Coffee Company Common Stock
+Ticker: WEST
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Little Rock
+Website: https://westrockcoffee.com
+Employees: 1408
+Business Summary: Westrock Coffee Company, LLC operates as an integrated coffee, tea, flavors, extracts, and ingredients solutions provider in the United States and internationally. It operates through two segments, Beverage Solutions, and Sustainable Sourcing & Traceability (SS&T). The Beverage Solutions segment provides various packaging, including branded and private label coffee in bags, fractional packs, single serve cups, multi-serve bottles, and ready-to-drink bottles and cans, as well as extract solutions for applications in cold brew and ready-to-drink offerings. The SS&T segment engages in delivery and settlement of forward sales contracts for green coffee. The company offers coffee sourcing, supply chain management, product development, roasting, packaging, and distribution services to the retail, food service and restaurant, convenience store and travel center, non-commercial account, CPG, and hospitality industries. Westrock Coffee Company, LLC was founded in 2009 and is headquartered in Little Rock, Arkansas.

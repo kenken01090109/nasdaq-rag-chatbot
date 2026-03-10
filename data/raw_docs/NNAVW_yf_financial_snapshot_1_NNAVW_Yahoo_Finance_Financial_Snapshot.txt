@@ -1,0 +1,25 @@
+Company: NextNav Inc. Warrant
+Ticker: NNAVW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 5539000
+Revenue Per Share: 0.042
+EBITDA: -62011000
+Gross Margins: -0.64578
+Operating Margins: -19.915451
+Profit Margins: 0.0
+Free Cashflow: -15599750
+Operating Cashflow: -46616000
+Return On Assets: -0.19171
+Return On Equity: -7.06791
+Total Cash: 167576992
+Total Debt: 245808992
+Debt To Equity: 
+Current Ratio: 11.535
+Quick Ratio: 11.318
+Trailing PE: 
+Forward PE: 
+Price To Book: -42.865852
+Beta: 0.999
+52 Week High: 7.05
+52 Week Low: 7.03

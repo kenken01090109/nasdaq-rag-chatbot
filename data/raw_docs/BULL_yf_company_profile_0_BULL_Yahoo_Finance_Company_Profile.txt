@@ -1,0 +1,9 @@
+Company: Webull Corporation Class A Ordinary Shares
+Ticker: BULL
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Saint Petersburg
+Website: https://www.webullcorp.com
+Employees: 
+Business Summary: Webull Corporation operates as a digital investment platform. Its platform enables retail investors to trade securities through its licensed broker dealer in the United States, Canada, the United Kingdom, Australia, Hong Kong, Indonesia, Singapore, Malaysia, Thailand, Japan, South Africa, the Netherlands, and internationally. The company was founded in 2016 and is headquartered in Saint Petersburg, Florida.

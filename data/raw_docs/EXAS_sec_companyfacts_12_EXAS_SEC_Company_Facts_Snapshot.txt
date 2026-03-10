@@ -1,0 +1,12 @@
+Company: Exact Sciences Corporation Common Stock
+Ticker: EXAS
+CIK: 0001124140
+Latest SEC XBRL Facts:
+Revenues: 1036000 | unit=USD | filed=2015-02-27 | period_end=2013-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2368609000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -121994000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 5900009000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 3398590000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 2501419000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 339749000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 789037000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

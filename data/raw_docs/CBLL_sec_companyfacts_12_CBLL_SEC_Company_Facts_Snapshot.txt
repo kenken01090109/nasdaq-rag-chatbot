@@ -1,0 +1,11 @@
+Company: CeriBell Inc. Common Stock
+Ticker: CBLL
+CIK: 0001861107
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 64279000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -39885000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 199525000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 35444000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 164081000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30034000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23739000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

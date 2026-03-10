@@ -1,0 +1,4 @@
+Company: Pharming Group N.V. ADS each representing 10 ordinary shares
+Ticker: PHAR
+CIK: 0001828316
+Latest SEC XBRL Facts:

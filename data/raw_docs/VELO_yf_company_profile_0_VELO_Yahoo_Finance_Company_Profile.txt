@@ -1,0 +1,9 @@
+Company: Velo3D Inc. Common stock
+Ticker: VELO
+Sector: Technology
+Industry: Computer Hardware
+Country: United States
+City: Fremont
+Website: https://www.velo3d.com
+Employees: 105
+Business Summary: Velo3D, Inc. produces and sells metal additive three dimensional printers in the Americas, Europe, and internationally. The company's printers enable the production of components for space rockets, jet engines, fuel delivery systems, and other metal parts, which it sells or leases to customers for use in their businesses. It also offers Flow, a proprietary software platform, which scans part designs for geometrical features; and Sapphire, Sapphire 1MZ, Sapphire XC, and Sapphire XC 1MZ printers. In addition, the company provides Assure, a quality control software platform that includes process metrologies; Flow Developer, a new version of print preparation software that turns traditional design files into print files; and Intelligent Fusion, an underlying manufacturing process that unifies and manages the information flow, sensor data, and the advanced printing technology for precision control of the entire print. Further, it offers Rapid Production Solutions to build resilient supply chains for production parts in different industries; and provides support services. The company serves small- and medium-sized enterprises to Fortune 500 companies in the space, aviation, defense, automotive, energy, and industrial markets. Velo3D, Inc. was founded in 2014 and is headquartered in Fremont, California. Velo3D, Inc. operates as a subsidiary of Arrayed Additive inc.

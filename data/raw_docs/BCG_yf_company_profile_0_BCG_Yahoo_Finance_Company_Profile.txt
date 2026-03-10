@@ -1,0 +1,9 @@
+Company: Binah Capital Group Inc. Common Stock
+Ticker: BCG
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Albany
+Website: https://www.wentworthms.com
+Employees: 150
+Business Summary: Binah Capital Group, Inc., together with its subsidiaries, operates in the wealth management industry. The company provides access to stock, bond, exchange-traded fund, and options execution services; and research, compliance, supervision, and accounting and related services for financial advisors. It also offers mutual funds and insurance products, as well as alternative investments, such as non-traded real estate investment trusts, unit trusts, and fixed and variable annuities. The company was founded in 2016 and is headquartered in Albany, New York. Binah Capital Group, Inc. operates as a subsidiary of MHC Securities, LLC.

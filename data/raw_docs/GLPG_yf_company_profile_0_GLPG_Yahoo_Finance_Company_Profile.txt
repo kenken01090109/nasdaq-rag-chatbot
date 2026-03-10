@@ -1,0 +1,9 @@
+Company: Galapagos NV American Depositary Shares
+Ticker: GLPG
+Sector: Healthcare
+Industry: Biotechnology
+Country: Belgium
+City: Mechelen
+Website: https://www.glpg.com
+Employees: 
+Business Summary: Galapagos NV, a biotechnology company, develops medicines focusing on oncology and immunology primarily in the United States and Europe. The company's pipeline products comprise GLPG3667 that has completed phase 1b trial; GLPG5101, a CD19 CAR-T product candidate manufactured at point-of-care, currently in Phase1/2 trial in relapsed/refractory non-hodgkin lymphoma; GLPG5201, a CD19 CAR-T product candidates manufactured at point-of-care, currently in phase 1/2 trial in replapsed/refractory chronic lymphocytic leukemia; and GLPG5301, a BCMA CAR-T product candidate manufactured at point-of-care, currently in phase 1/2 in relapsed/refractory multiple myeloma. The company has collaboration agreements with Gilead Sciences, Inc.; and AbbVie S.à r.l. The company was incorporated in 1999 and is headquartered in Mechelen, Belgium.

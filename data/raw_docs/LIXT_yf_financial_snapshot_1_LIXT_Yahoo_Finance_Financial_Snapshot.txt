@@ -1,0 +1,25 @@
+Company: Lixte Biotechnology Holdings Inc. Common Stock
+Ticker: LIXT
+Market Cap: 21235508
+Enterprise Value: 14895699
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3476484
+Operating Cashflow: -2581395
+Return On Assets: -0.68318003
+Return On Equity: -1.30059
+Total Cash: 2887874
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 10.421
+Quick Ratio: 5.538
+Trailing PE: 
+Forward PE: 
+Price To Book: 5.8937197
+Beta: 1.005
+52 Week High: 6.26
+52 Week Low: 0.64

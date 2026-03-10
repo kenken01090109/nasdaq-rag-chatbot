@@ -1,0 +1,11 @@
+Company: OneConstruction Group Limited Ordinary Shares
+Ticker: ONEG
+CIK: 0002030834
+Latest SEC XBRL Facts:
+Revenues: 27762000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+NetIncomeLoss: -131000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+Assets: 49930000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+Liabilities: 37277000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+StockholdersEquity: 12653000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5114000 | unit=USD | filed=2025-08-12 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 4777000 | unit=USD | filed=2026-01-14 | period_end=2025-09-30

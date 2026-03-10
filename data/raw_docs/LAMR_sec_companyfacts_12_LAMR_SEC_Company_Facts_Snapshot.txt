@@ -1,0 +1,11 @@
+Company: Lamar Advertising Company Class A Common Stock
+Ticker: LAMR
+CIK: 0001090425
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1199324000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30
+NetIncomeLoss: 434863000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6823302000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 5777562000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1274285000 | unit=USD | filed=2022-11-04 | period_end=2022-09-30
+NetCashProvidedByUsedInOperatingActivities: 592889000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22016000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

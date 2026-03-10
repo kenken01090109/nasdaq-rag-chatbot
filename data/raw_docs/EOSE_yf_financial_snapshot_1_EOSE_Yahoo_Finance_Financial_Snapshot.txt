@@ -1,0 +1,25 @@
+Company: Eos Energy Enterprises Inc. Class A Common Stock
+Ticker: EOSE
+Market Cap: 2080732160
+Enterprise Value: 3909239296
+Total Revenue: 114203000
+Revenue Per Share: 0.438
+EBITDA: -243306000
+Gross Margins: -1.25949
+Operating Margins: -1.4610801
+Profit Margins: 0.0
+Free Cashflow: -147318624
+Operating Cashflow: -211190000
+Return On Assets: -0.28098
+Return On Equity: 
+Total Cash: 567992000
+Total Debt: 834691008
+Debt To Equity: 
+Current Ratio: 4.936
+Quick Ratio: 4.178
+Trailing PE: 
+Forward PE: 880.74713
+Price To Book: -0.9230538
+Beta: 2.32
+52 Week High: 19.86
+52 Week Low: 3.07

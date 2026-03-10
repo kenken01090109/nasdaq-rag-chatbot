@@ -1,0 +1,25 @@
+Company: Alerus Financial Corporation Common Stock
+Ticker: ALRS
+Market Cap: 606579648
+Enterprise Value: 975971072
+Total Revenue: 223819008
+Revenue Per Share: 8.819
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -4.81437
+Profit Margins: 0.07792
+Free Cashflow: 
+Operating Cashflow: 67530000
+Return On Assets: 0.00332
+Return On Equity: 0.03289
+Total Cash: 53683000
+Total Debt: 414945984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 35.117645
+Forward PE: 8.652174
+Price To Book: 1.0739341
+Beta: 0.62
+52 Week High: 26.32
+52 Week Low: 15.78

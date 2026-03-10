@@ -1,0 +1,11 @@
+Company: AmeriServ Financial Inc. Common Stock
+Ticker: ASRV
+CIK: 0000707605
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 10731000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 4170000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1461494000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1346919000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 114575000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1941000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 60237000 | unit=USD | filed=2021-08-09 | period_end=2021-06-30

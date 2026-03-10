@@ -1,0 +1,25 @@
+Company: ViaSat Inc. Common Stock
+Ticker: VSAT
+Market Cap: 5948057600
+Enterprise Value: 11683401728
+Total Revenue: 4616074240
+Revenue Per Share: 34.678
+EBITDA: 1390274048
+Gross Margins: 0.33326998
+Operating Margins: 0.027509999
+Profit Margins: -0.07343
+Free Cashflow: 400580256
+Operating Cashflow: 1566033024
+Return On Assets: 0.00356
+Return On Equity: -0.0639
+Total Cash: 1346136064
+Total Debt: 6783330816
+Debt To Equity: 146.485
+Current Ratio: 2.127
+Quick Ratio: 1.682
+Trailing PE: 
+Forward PE: 68.77975
+Price To Book: 1.3014921
+Beta: 1.488
+52 Week High: 50.24
+52 Week Low: 7.36

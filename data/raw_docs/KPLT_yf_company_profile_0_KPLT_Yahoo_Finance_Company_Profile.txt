@@ -1,0 +1,9 @@
+Company: Katapult Holdings Inc. Common Stock
+Ticker: KPLT
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Plano
+Website: https://www.katapult.com
+Employees: 94
+Business Summary: Katapult Holdings, Inc. operates a lease-to-own platform for nonprime consumers in the United States. The company's platform integrates retailers and e-commerce platforms to enable nonprime customers to purchase everyday durable goods. It also offers Katapult Pay, a POS integrations and mobile app that allows consumers to leverage its virtual credit card technology to shop various durable goods merchants featured in its app marketplace. The company offers its platform through direct integration, waterfall integration, mobile app and text-to-checkout channels. The company was formerly known as Cognical Holdings, Inc. and changed its name to Katapult Holdings, Inc. in February 2020. The company is headquartered in Plano, Texas.

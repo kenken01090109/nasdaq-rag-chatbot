@@ -1,0 +1,25 @@
+Company: Mammoth Energy Services Inc. Common Stock
+Ticker: TUSK
+Market Cap: 102171352
+Enterprise Value: 17227790
+Total Revenue: 186316000
+Revenue Per Share: 3.864
+EBITDA: 75550000
+Gross Margins: 0.09302
+Operating Margins: -0.48206002
+Profit Margins: -0.10619
+Free Cashflow: 110556248
+Operating Cashflow: 132333000
+Return On Assets: 0.08359
+Return On Equity: -0.32849
+Total Cash: 110900000
+Total Debt: 5233000
+Debt To Equity: 2.1
+Current Ratio: 2.483
+Quick Ratio: 1.906
+Trailing PE: 
+Forward PE: -10.095238
+Price To Book: 0.40989944
+Beta: 0.975
+52 Week High: 3.115
+52 Week Low: 1.68

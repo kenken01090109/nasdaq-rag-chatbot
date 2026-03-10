@@ -1,0 +1,25 @@
+Company: Jowell Global Ltd. Ordinary Shares
+Ticker: JWEL
+Market Cap: 5426187
+Enterprise Value: 662555
+Total Revenue: 123450864
+Revenue Per Share: 56.877
+EBITDA: -5332930
+Gross Margins: 0.05366
+Operating Margins: -0.020450002
+Profit Margins: -0.04454
+Free Cashflow: 
+Operating Cashflow: 4964278
+Return On Assets: 
+Return On Equity: 
+Total Cash: 6519805
+Total Debt: 1846062
+Debt To Equity: 11.756
+Current Ratio: 1.848
+Quick Ratio: 0.923
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.34549475
+Beta: 0.852
+52 Week High: 2.98
+52 Week Low: 1.47

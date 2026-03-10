@@ -1,0 +1,12 @@
+Company: Loop Industries Inc. Common Stock
+Ticker: LOOP
+CIK: 0001504678
+Latest SEC XBRL Facts:
+Revenues: 252000 | unit=USD | filed=2025-07-15 | period_end=2025-05-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 252000 | unit=USD | filed=2025-10-15 | period_end=2025-08-31
+NetIncomeLoss: -9595000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Assets: 11290000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+Liabilities: 18613000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+StockholdersEquity: -7323000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -7372000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 5204000 | unit=USD | filed=2026-01-14 | period_end=2025-11-30

@@ -1,0 +1,25 @@
+Company: Titan Machinery Inc. Common Stock
+Ticker: TITN
+Market Cap: 421882208
+Enterprise Value: 1377165952
+Total Revenue: 2545195008
+Revenue Per Share: 112.069
+EBITDA: -1542000
+Gross Margins: 0.13618
+Operating Margins: 0.01636
+Profit Margins: -0.02427
+Free Cashflow: 329278016
+Operating Cashflow: 210370000
+Return On Assets: -0.01277
+Return On Equity: -0.09645
+Total Cash: 48790000
+Total Debt: 1013022976
+Debt To Equity: 165.357
+Current Ratio: 1.358
+Quick Ratio: 0.216
+Trailing PE: 
+Forward PE: -20.453257
+Price To Book: 0.6740356
+Beta: 1.231
+52 Week High: 23.41
+52 Week Low: 12.5

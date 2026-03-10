@@ -1,0 +1,10 @@
+Company: AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock
+Ticker: AGNCZ
+Market Cap: 
+Enterprise Value: 98616213504
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.7342756
+Beta: 1.351
+52 Week High: 26.37
+52 Week Low: 25.0

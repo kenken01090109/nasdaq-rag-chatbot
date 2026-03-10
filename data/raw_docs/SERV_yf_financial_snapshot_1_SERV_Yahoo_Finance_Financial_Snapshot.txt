@@ -1,0 +1,25 @@
+Company: Serve Robotics Inc. Common Stock
+Ticker: SERV
+Market Cap: 704549184
+Enterprise Value: 514214368
+Total Revenue: 1944483
+Revenue Per Share: 0.035
+EBITDA: -83311232
+Gross Margins: 0.0
+Operating Margins: -50.67831
+Profit Margins: 0.0
+Free Cashflow: -54528564
+Operating Cashflow: -56864228
+Return On Assets: -0.2983
+Return On Equity: -0.47177
+Total Cash: 210447008
+Total Debt: 4147000
+Debt To Equity: 1.461
+Current Ratio: 17.214
+Quick Ratio: 16.606
+Trailing PE: 
+Forward PE: -5.323318
+Price To Book: 2.2519083
+Beta: 
+52 Week High: 18.64
+52 Week Low: 4.66

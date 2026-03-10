@@ -1,0 +1,25 @@
+Company: RCM Technologies Inc. Common Stock
+Ticker: RCMT
+Market Cap: 145987072
+Enterprise Value: 185252832
+Total Revenue: 309840000
+Revenue Per Share: 41.271
+EBITDA: 24577000
+Gross Margins: 0.27509
+Operating Margins: 0.05603
+Profit Margins: 0.04227
+Free Cashflow: 2782750
+Operating Cashflow: 5883000
+Return On Assets: 0.10896
+Return On Equity: 0.36676997
+Total Cash: 1309000
+Total Debt: 37907000
+Debt To Equity: 91.611
+Current Ratio: 1.977
+Quick Ratio: 1.89
+Trailing PE: 11.520468
+Forward PE: 7.680312
+Price To Book: 3.527937
+Beta: -0.029
+52 Week High: 28.27
+52 Week Low: 13.18

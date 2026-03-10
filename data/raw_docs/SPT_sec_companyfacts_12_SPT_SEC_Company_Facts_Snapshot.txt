@@ -1,0 +1,11 @@
+Company: Sprout Social Inc Class A Common Stock
+Ticker: SPT
+CIK: 0001517375
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 336660000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -32586000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 481396000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 287270000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 194126000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 32492000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 90639000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

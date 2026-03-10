@@ -1,0 +1,9 @@
+Company: Soleno Therapeutics Inc. Common Stock
+Ticker: SLNO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://soleno.life
+Employees: 182
+Business Summary: Soleno Therapeutics, Inc., biopharmaceutical company, focuses on the development and commercialization of novel therapeutics for the treatment of rare diseases. Its lead product candidate is VYKAT XR, an extended-release tablets for the treatment of Prader-Willi Syndrome. The company was formerly known as Capnia, Inc. and changed its name to Soleno Therapeutics, Inc. in May 2017. Soleno Therapeutics, Inc. was incorporated in 1999 and is headquartered in Redwood City, California.

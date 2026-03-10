@@ -1,0 +1,10 @@
+Company: Arrive AI Inc. Common Stock
+Ticker: ARAI
+CIK: 0001818274
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 98175 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -8904672 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 9719064 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 5009191 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 4709873 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5048431 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

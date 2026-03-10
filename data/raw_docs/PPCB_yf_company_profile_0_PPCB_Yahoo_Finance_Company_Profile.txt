@@ -1,0 +1,9 @@
+Company: Propanc Biopharma Inc. Common Stock
+Ticker: PPCB
+Sector: Healthcare
+Industry: Biotechnology
+Country: Australia
+City: Camberwell
+Website: https://www.propanc.com
+Employees: 1
+Business Summary: Propanc Biopharma, Inc., a development-stage biopharmaceutical healthcare company, engages in the development of cancer treatments for patients with pancreatic, ovarian, and colorectal cancers in Australia. Its lead product candidate is PRP, an intravenous injection proenzyme treatment designed as a therapeutic option in cancer treatment and prevention which has completed pre-clinical studies. The company has a research and collaboration agreement with the University of Jaén, to undertakes the research activities for the POP1 Program and the University of Granada to develop a synthetic recombinant version of PRP. Propanc Biopharma, Inc. was formerly known as Propanc Health Group Corporation and changed its name to Propanc Biopharma, Inc. in April 2017. The company was incorporated in 2007 and is based in Camberwell, Australia.

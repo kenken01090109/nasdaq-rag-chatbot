@@ -1,0 +1,25 @@
+Company: Fortress Biotech Inc. 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock
+Ticker: FBIOP
+Market Cap: 74988608
+Enterprise Value: 428415168
+Total Revenue: 62303000
+Revenue Per Share: 2.324
+EBITDA: -79903000
+Gross Margins: 0.3199
+Operating Margins: -0.38631
+Profit Margins: 0.063990004
+Free Cashflow: -53357124
+Operating Cashflow: -66140000
+Return On Assets: -0.34252
+Return On Equity: -2.05285
+Total Cash: 86218000
+Total Debt: 68293000
+Debt To Equity: 104.768
+Current Ratio: 2.192
+Quick Ratio: 1.93
+Trailing PE: 
+Forward PE: 
+Price To Book: 7.7524414
+Beta: 1.41
+52 Week High: 14.64
+52 Week Low: 4.72

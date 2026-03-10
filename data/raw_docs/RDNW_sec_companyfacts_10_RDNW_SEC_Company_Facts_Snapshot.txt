@@ -1,0 +1,12 @@
+Company: RideNow Group Inc. Class B Common Stock
+Ticker: RDNW
+CIK: 0001596961
+Latest SEC XBRL Facts:
+Revenues: 1793369000 | unit=USD | filed=2023-03-16 | period_end=2022-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 825600000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -46000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 699400000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 706300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -6900000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15500000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35400000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

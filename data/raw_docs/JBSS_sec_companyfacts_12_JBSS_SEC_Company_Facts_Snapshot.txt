@@ -1,0 +1,12 @@
+Company: John B. Sanfilippo & Son Inc. Common Stock
+Ticker: JBSS
+CIK: 0000880117
+Latest SEC XBRL Facts:
+Revenues: 838170000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 210273000 | unit=USD | filed=2020-10-28 | period_end=2020-09-24
+NetIncomeLoss: 45407000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27
+Assets: 589976000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27
+Liabilities: 243363000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27
+StockholdersEquity: 346613000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27
+NetCashProvidedByUsedInOperatingActivities: -5986000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27
+CashAndCashEquivalentsAtCarryingValue: 1295000 | unit=USD | filed=2025-04-30 | period_end=2025-03-27

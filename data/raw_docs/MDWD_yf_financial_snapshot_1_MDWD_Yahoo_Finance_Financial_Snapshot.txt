@@ -1,0 +1,25 @@
+Company: MediWound Ltd. Ordinary Shares
+Ticker: MDWD
+Market Cap: 218583248
+Enterprise Value: 178985984
+Total Revenue: 16959000
+Revenue Per Share: 1.491
+EBITDA: -23406000
+Gross Margins: 0.19187
+Operating Margins: -4.1778297
+Profit Margins: -1.40804
+Free Cashflow: -19211376
+Operating Cashflow: -16121000
+Return On Assets: -0.19770001
+Return On Equity: -0.6386
+Total Cash: 53140000
+Total Debt: 8152000
+Debt To Equity: 18.684
+Current Ratio: 2.333
+Quick Ratio: 2.173
+Trailing PE: 
+Forward PE: -7.755009
+Price To Book: 5.0102973
+Beta: 
+52 Week High: 22.505
+52 Week Low: 14.14

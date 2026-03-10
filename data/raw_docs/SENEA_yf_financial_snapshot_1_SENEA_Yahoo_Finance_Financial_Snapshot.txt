@@ -1,0 +1,25 @@
+Company: Seneca Foods Corp. Class A Common Stock
+Ticker: SENEA
+Market Cap: 964447872
+Enterprise Value: 1221551616
+Total Revenue: 1611666944
+Revenue Per Share: 234.749
+EBITDA: 175204000
+Gross Margins: 0.12575
+Operating Margins: 0.12347999
+Profit Margins: 0.05584
+Free Cashflow: 151788128
+Operating Cashflow: 206030000
+Return On Assets: 0.06667
+Return On Equity: 0.13567
+Total Cash: 33314000
+Total Debt: 294187008
+Debt To Equity: 41.211
+Current Ratio: 4.343
+Quick Ratio: 0.704
+Trailing PE: 10.789839
+Forward PE: 
+Price To Book: 1.3400003
+Beta: 0.068
+52 Week High: 146.54
+52 Week Low: 81.0

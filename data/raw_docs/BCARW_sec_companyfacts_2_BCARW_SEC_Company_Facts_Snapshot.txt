@@ -1,0 +1,10 @@
+Company: D. Boral ARC Acquisition I Corp. Warrant
+Ticker: BCARW
+CIK: 0002065779
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1828136 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 282783440 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 48783 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 771436 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -329761 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

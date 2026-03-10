@@ -1,0 +1,11 @@
+Company: Revolution Medicines Inc. Common Stock
+Ticker: RVMD
+CIK: 0001628171
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2026-02-25 | period_end=2025-12-31
+NetIncomeLoss: -766409000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2251920000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 655016000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1596904000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -623503000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 217442000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

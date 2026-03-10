@@ -1,0 +1,12 @@
+Company: Maase Inc. Class A Ordinary Shares
+Ticker: MAAS
+CIK: 0001750264
+Latest SEC XBRL Facts:
+Revenues: 109052000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 7795000 | unit=CNY | filed=2023-09-25 | period_end=2023-06-30
+NetIncomeLoss: -27357000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+Assets: 469873000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+Liabilities: 164425000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+StockholdersEquity: 88795000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 9977000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 11461000 | unit=USD | filed=2025-10-29 | period_end=2025-06-30

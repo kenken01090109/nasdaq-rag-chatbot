@@ -1,0 +1,11 @@
+Company: Youxin Technology Ltd Class A Ordinary shares
+Ticker: YAAS
+CIK: 0001964946
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 539474 | unit=USD | filed=2026-01-28 | period_end=2025-09-30
+NetIncomeLoss: -9646142 | unit=USD | filed=2026-01-28 | period_end=2025-09-30
+Assets: 10779086 | unit=USD | filed=2026-01-28 | period_end=2025-09-30
+Liabilities: 2588833 | unit=USD | filed=2026-01-28 | period_end=2025-09-30
+StockholdersEquity: 8190253 | unit=USD | filed=2026-01-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3913752 | unit=USD | filed=2026-01-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9912327 | unit=USD | filed=2026-01-28 | period_end=2025-09-30

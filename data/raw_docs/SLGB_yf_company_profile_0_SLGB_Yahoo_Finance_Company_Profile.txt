@@ -1,0 +1,9 @@
+Company: Smart Logistics Global Limited Ordinary Shares
+Ticker: SLGB
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: Hong Kong
+City: Pok Fu Lam
+Website: https://www.smartlogisticsglobal.com
+Employees: 72
+Business Summary: Smart Logistics Global Limited, together with its subsidiaries, provides business-to-business contract logistics solutions focusing on industrial raw materials line-haul transportation business in the People's Republic of China. The company offers land-only transportation services, and vehicle repair and maintenance services; and engages in the sale of tires or spare parts. It serves paper, steel, coal, food, and other sectors. The company was founded in 2017 and is based in Pok Fu Lam, Hong Kong. Smart Logistics Global Limited operates as a subsidiary of ASL Ventures Limited.

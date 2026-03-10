@@ -1,0 +1,12 @@
+Company: E-Power Inc. Class A Ordinary Shares
+Ticker: EPOW
+CIK: 0001780731
+Latest SEC XBRL Facts:
+Revenues: 64997741 | unit=USD | filed=2025-05-15 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 9945459 | unit=USD | filed=2022-12-12 | period_end=2022-06-30
+NetIncomeLoss: -4451462 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+Assets: 141563806 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+Liabilities: 102613979 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+StockholdersEquity: -2754184 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -6949921 | unit=USD | filed=2024-12-30 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 15235345 | unit=USD | filed=2024-12-30 | period_end=2024-06-30

@@ -1,0 +1,9 @@
+Company: Virtuix Holdings Inc. Class A Common Stock
+Ticker: VTIX
+Sector: Technology
+Industry: Computer Hardware
+Country: United States
+City: Austin
+Website: https://virtuix.com
+Employees: 
+Business Summary: Virtuix Holdings Inc., through its subsidiary, develops and manufactures virtual reality (VR) gaming systems and products. The company's products include VR systems, headset, treadmill, and access of game store. The company also sells its products online. The company was incorporated in 2013 and is based in Austin, Texas.

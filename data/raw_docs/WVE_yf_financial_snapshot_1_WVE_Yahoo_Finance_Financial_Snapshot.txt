@@ -1,0 +1,25 @@
+Company: Wave Life Sciences Ltd. Ordinary Shares
+Ticker: WVE
+Market Cap: 2469905152
+Enterprise Value: 1893476992
+Total Revenue: 42727000
+Revenue Per Share: 0.253
+EBITDA: -211943008
+Gross Margins: 0.0
+Operating Margins: -3.2744
+Profit Margins: 0.0
+Free Cashflow: -112548376
+Operating Cashflow: -187492992
+Return On Assets: -0.27175
+Return On Equity: -0.54968
+Total Cash: 602067968
+Total Debt: 17766000
+Debt To Equity: 3.376
+Current Ratio: 6.467
+Quick Ratio: 6.347
+Trailing PE: 
+Forward PE: -10.257773
+Price To Book: 4.7501807
+Beta: -1.655
+52 Week High: 21.73
+52 Week Low: 5.28

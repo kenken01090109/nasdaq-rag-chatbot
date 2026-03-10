@@ -1,0 +1,8 @@
+Company: ACADIA Pharmaceuticals Inc. Common Stock
+Ticker: ACAD
+Total Cash: 819686016
+Total Debt: 52187000
+Debt To Equity: 4.252
+Current Ratio: 3.833
+Quick Ratio: 3.493
+Book Value: 7.207

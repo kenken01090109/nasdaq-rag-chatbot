@@ -1,0 +1,10 @@
+Company: LB Pharmaceuticals Inc Common Stock
+Ticker: LBRX
+CIK: 0001691082
+Latest SEC XBRL Facts:
+NetIncomeLoss: -13733000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 320746000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 10525000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 310221000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17105000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 269744000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

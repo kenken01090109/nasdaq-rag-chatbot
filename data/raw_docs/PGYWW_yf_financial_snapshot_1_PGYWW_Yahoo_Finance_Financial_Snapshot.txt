@@ -1,0 +1,25 @@
+Company: Pagaya Technologies Ltd. Warrants
+Ticker: PGYWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 1301360000
+Revenue Per Share: 16.613
+EBITDA: 270004000
+Gross Margins: 0.42431998
+Operating Margins: 0.23809
+Profit Margins: 0.06254
+Free Cashflow: 181187872
+Operating Cashflow: 238620000
+Return On Assets: 0.116239995
+Return On Equity: 0.12962
+Total Cash: 1180598016
+Total Debt: 858483968
+Debt To Equity: 146.636
+Current Ratio: 13.106
+Quick Ratio: 12.548
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.016441634
+Beta: 5.942
+52 Week High: 0.2301
+52 Week Low: 0.0951

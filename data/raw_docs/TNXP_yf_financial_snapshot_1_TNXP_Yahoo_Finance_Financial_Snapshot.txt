@@ -1,0 +1,25 @@
+Company: Tonix Pharmaceuticals Holding Corp. Common Stock
+Ticker: TNXP
+Market Cap: 171999536
+Enterprise Value: -28055844
+Total Revenue: 10299000
+Revenue Per Share: 1.684
+EBITDA: -97464000
+Gross Margins: 0.34314
+Operating Margins: -10.05076
+Profit Margins: 0.0
+Free Cashflow: -43527624
+Operating Cashflow: -74824000
+Return On Assets: -0.35942
+Return On Equity: -0.64986
+Total Cash: 190055008
+Total Debt: 425000
+Debt To Equity: 0.184
+Current Ratio: 9.894
+Quick Ratio: 9.292
+Trailing PE: 0.04818198
+Forward PE: -1.5639534
+Price To Book: 0.5916769
+Beta: 1.858
+52 Week High: 69.97
+52 Week Low: 12.35

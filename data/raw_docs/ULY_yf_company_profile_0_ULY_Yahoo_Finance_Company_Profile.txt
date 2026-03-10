@@ -1,0 +1,9 @@
+Company: Urgent.ly Inc. Common Stock
+Ticker: ULY
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Vienna
+Website: https://www.geturgently.com
+Employees: 341
+Business Summary: Urgent.ly Inc. operates mobility assistance software platform that matches vehicle owners and operators with service professionals for roadside assistance, proactive maintenance, and repair services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company's services include car lockout, tire changes, towing, stuck in ditch and winch services, motorcycle towing, electric vehicle towing, jump start, and gas delivery. Its software platform combines location-based services, real-time data, AI and machine-to-machine communication to provide roadside assistance solutions. It serves automotive, insurance, telematics, and other transportation-focused verticals. Urgent.ly Inc. was incorporated in 2013 and is headquartered in Vienna, Virginia.

@@ -1,0 +1,11 @@
+Company: Blue Hat Interactive Entertainment Technology Ordinary Shares
+Ticker: BHAT
+CIK: 0001759136
+Latest SEC XBRL Facts:
+Revenues: 18724190 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -9524783 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 75232436 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 43089618 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 32142818 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 7661561 | unit=USD | filed=2025-04-30 | period_end=2023-12-31
+CashAndCashEquivalentsAtCarryingValue: 409175 | unit=USD | filed=2025-04-30 | period_end=2023-12-31

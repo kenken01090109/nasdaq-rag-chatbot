@@ -1,0 +1,11 @@
+Company: TFS Financial Corporation Common Stock
+Ticker: TFSL
+CIK: 0001381668
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 454000 | unit=USD | filed=2019-02-07 | period_end=2018-12-31
+NetIncomeLoss: 22274000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 17498683000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 15597718000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 1900965000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 58748000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 456709000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

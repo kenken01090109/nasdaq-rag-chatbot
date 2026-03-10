@@ -1,0 +1,25 @@
+Company: Abeona Therapeutics Inc. Common Stock
+Ticker: ABEO
+Market Cap: 262828096
+Enterprise Value: 80901928
+Total Revenue: 400000
+Revenue Per Share: 0.008
+EBITDA: -80984000
+Gross Margins: 0.0
+Operating Margins: -208.0225
+Profit Margins: 205.875
+Free Cashflow: -54261876
+Operating Cashflow: -74932000
+Return On Assets: -0.29575002
+Return On Equity: 0.75897
+Total Cash: 207116992
+Total Debt: 24107000
+Debt To Equity: 14.078
+Current Ratio: 9.744
+Quick Ratio: 9.411
+Trailing PE: 4.008264
+Forward PE: -69.28571
+Price To Book: 1.4840882
+Beta: 1.194
+52 Week High: 7.54
+52 Week Low: 3.93

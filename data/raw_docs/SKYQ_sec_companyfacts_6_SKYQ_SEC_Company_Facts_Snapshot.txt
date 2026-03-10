@@ -1,0 +1,9 @@
+Company: Sky Quarry Inc. Common Stock
+Ticker: SKYQ
+CIK: 0001812447
+Latest SEC XBRL Facts:
+NetIncomeLoss: -9333028 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 20851903 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 15390982 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 5460921 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1982648 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

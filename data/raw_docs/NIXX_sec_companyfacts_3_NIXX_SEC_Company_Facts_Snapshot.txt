@@ -1,0 +1,11 @@
+Company: Nixxy Inc. Common Stock
+Ticker: NIXX
+CIK: 0001462223
+Latest SEC XBRL Facts:
+Revenues: 46777006 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -10889150 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 16083914 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 5486536 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10402487 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4050994 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 908494 | unit=USD | filed=2022-05-16 | period_end=2022-03-31

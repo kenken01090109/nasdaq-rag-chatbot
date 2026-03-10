@@ -1,0 +1,12 @@
+Company: Senmiao Technology Limited Common Stock
+Ticker: AIHS
+CIK: 0001711012
+Latest SEC XBRL Facts:
+Revenues: 1219628 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1742544 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -1850369 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 5741167 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 1946170 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 397256 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1258193 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3508226 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

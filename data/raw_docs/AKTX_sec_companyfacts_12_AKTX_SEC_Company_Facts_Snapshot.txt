@@ -1,0 +1,11 @@
+Company: Akari Therapeutics plc ADS
+Ticker: AKTX
+CIK: 0001541157
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-09-06 | period_end=2024-06-30
+NetIncomeLoss: -12000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 45376000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 22689000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 22687000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7527000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2711000 | unit=USD | filed=2025-08-13 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Solana Company Class A Common Stock (DE)
+Ticker: HSDT
+Market Cap: 115637704
+Enterprise Value: -33600936
+Total Revenue: 941000
+Revenue Per Share: 0.309
+EBITDA: -14660000
+Gross Margins: 0.49627998
+Operating Margins: -7.04448
+Profit Margins: 0.0
+Free Cashflow: -127320376
+Operating Cashflow: -12715000
+Return On Assets: -0.03985
+Return On Equity: 
+Total Cash: 124051000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 40.033
+Quick Ratio: 39.519
+Trailing PE: 
+Forward PE: -0.9087137
+Price To Book: -0.5790587
+Beta: 0.965
+52 Week High: 366.75
+52 Week Low: 1.74

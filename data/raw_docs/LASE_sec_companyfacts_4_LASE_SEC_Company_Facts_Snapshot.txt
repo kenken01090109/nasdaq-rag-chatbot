@@ -1,0 +1,12 @@
+Company: Laser Photonics Corporation Common Stock
+Ticker: LASE
+CIK: 0001807887
+Latest SEC XBRL Facts:
+Revenues: 721185 | unit=USD | filed=2025-06-24 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5808541 | unit=USD | filed=2025-12-23 | period_end=2025-09-30
+NetIncomeLoss: -8110233 | unit=USD | filed=2025-12-23 | period_end=2025-09-30
+Assets: 17461358 | unit=USD | filed=2025-12-23 | period_end=2025-09-30
+Liabilities: 13362185 | unit=USD | filed=2025-12-23 | period_end=2025-09-30
+StockholdersEquity: 4099173 | unit=USD | filed=2025-12-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1429652 | unit=USD | filed=2025-12-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3624529 | unit=USD | filed=2025-12-23 | period_end=2025-09-30

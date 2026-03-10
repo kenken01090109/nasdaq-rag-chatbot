@@ -1,0 +1,11 @@
+Company: Marten Transport Ltd. Common Stock
+Ticker: MRTN
+CIK: 0000799167
+Latest SEC XBRL Facts:
+Revenues: 223152000 | unit=USD | filed=2025-05-09 | period_end=2025-03-31
+NetIncomeLoss: 13747000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 975651000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 207451000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 768200000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 87906000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49485000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

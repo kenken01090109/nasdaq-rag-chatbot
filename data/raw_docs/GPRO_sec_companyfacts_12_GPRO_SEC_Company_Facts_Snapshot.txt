@@ -1,0 +1,11 @@
+Company: GoPro Inc. Class A Common Stock
+Ticker: GPRO
+CIK: 0001500435
+Latest SEC XBRL Facts:
+Revenues: 449869000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -84383000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 538608000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 458114000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 80494000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36272000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 152771000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

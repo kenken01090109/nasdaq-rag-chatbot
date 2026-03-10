@@ -1,0 +1,8 @@
+Company: Aldeyra Therapeutics Inc. Common Stock
+Ticker: ALDX
+Total Cash: 70041256
+Total Debt: 15530169
+Debt To Equity: 35.096
+Current Ratio: 2.581
+Quick Ratio: 2.519
+Book Value: 0.736

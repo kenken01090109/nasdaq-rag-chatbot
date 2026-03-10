@@ -1,0 +1,9 @@
+Company: SurgePays Inc. Common Stock
+Ticker: SURG
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Bartlett
+Website: https://surgepays.com
+Employees: 130
+Business Summary: SurgePays, Inc., together with its subsidiaries, operates as a financial technology and telecom company in the United States. It operates in two segments, Mobile Virtual Network Operator (MVNO) Telecommunications and Comprehensive Platform Services. The company offers mobile broadband solutions to consumers; ACH banking relationships and fintech transactions platform to convenience stores; prepaid wireless top-ups platform for convenience store clerks to handle top-ups for wireless brands; and transaction and marketing solutions. SurgePays, Inc. is headquartered in Bartlett, Tennessee.

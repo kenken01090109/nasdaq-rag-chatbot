@@ -1,0 +1,25 @@
+Company: Central Garden & Pet Company Class A Common Stock Nonvoting
+Ticker: CENTA
+Market Cap: 2064267776
+Enterprise Value: 2732880896
+Total Revenue: 3090000896
+Revenue Per Share: 49.592
+EBITDA: 345971008
+Gross Margins: 0.32272997
+Operating Margins: 0.039330002
+Profit Margins: 0.050380003
+Free Cashflow: 249882752
+Operating Cashflow: 331116000
+Return On Assets: 0.045679998
+Return On Equity: 0.1012
+Total Cash: 721150016
+Total Debt: 1426059008
+Debt To Equity: 90.488
+Current Ratio: 3.425
+Quick Ratio: 1.88
+Trailing PE: 13.289796
+Forward PE: 10.8742485
+Price To Book: 1.2867023
+Beta: 0.529
+52 Week High: 37.35
+52 Week Low: 25.97

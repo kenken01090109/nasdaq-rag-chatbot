@@ -1,0 +1,25 @@
+Company: DarioHealth Corp. Common Stock
+Ticker: DRIO
+Market Cap: 65556604
+Enterprise Value: 67345160
+Total Revenue: 24732000
+Revenue Per Share: 8.268
+EBITDA: -34293000
+Gross Margins: 0.6809
+Operating Margins: -1.8941499
+Profit Margins: -1.7109399
+Free Cashflow: -8117875
+Operating Cashflow: -26786000
+Return On Assets: -0.21429001
+Return On Equity: -0.63418996
+Total Cash: 31907000
+Total Debt: 31638000
+Debt To Equity: 42.221
+Current Ratio: 4.546
+Quick Ratio: 3.968
+Trailing PE: 
+Forward PE: -2.6051948
+Price To Book: 0.87608385
+Beta: 1.16
+52 Week High: 17.744
+52 Week Low: 5.935

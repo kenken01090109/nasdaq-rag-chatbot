@@ -1,0 +1,10 @@
+Company: Pluri Inc. Common Stock
+Ticker: PLUR
+CIK: 0001158780
+Latest SEC XBRL Facts:
+Revenues: 514000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: -12393000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 30596000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: -14608000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -10633000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4690000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

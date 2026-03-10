@@ -1,0 +1,25 @@
+Company: Red Cat Holdings Inc. Common Stock
+Ticker: RCAT
+Market Cap: 1833540608
+Enterprise Value: 1649535104
+Total Revenue: 7443942
+Revenue Per Share: 0.083
+EBITDA: -59361624
+Gross Margins: -0.38542
+Operating Margins: -1.8173699
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -68693328
+Return On Assets: 
+Return On Equity: 
+Total Cash: 206426000
+Total Debt: 22420388
+Debt To Equity: 8.852
+Current Ratio: 10.416
+Quick Ratio: 9.002
+Trailing PE: 
+Forward PE: -51.199997
+Price To Book: 7.1675224
+Beta: 1.436
+52 Week High: 18.78
+52 Week Low: 4.58

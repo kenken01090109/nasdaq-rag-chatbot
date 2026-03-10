@@ -1,0 +1,9 @@
+Company: Functional Brands Inc. Common Stock
+Ticker: MEHA
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: United States
+City: Lake Oswego
+Website: https://www.functionalbrandsinc.com
+Employees: 
+Business Summary: Functional Brands Inc. manufactures and distributes nutraceutical supplements in the United States. It offers supplements for various categories, such as pain, energy, prenatal, general health, bone and joint, gastro, immunity, cardiac, detox, brain and memory, sleep, prenatal, and urinary to pharmacies, US wholesalers, international distributors, and direct-to-consumers sales; and hemp derived products, including capsules, cigarettes, gummies, and tinctures. The company operates under the Kirkman, P2i by Kirkman Prenatal, HempTown Naturals, and Golf Mellow brands. Functional Brands Inc. was formerly known as HT Naturals Inc. and changed its name to Functional Brands Inc. in March 2023. The company was founded in 1949 and is based in Lake Oswego, Oregon.

@@ -1,0 +1,12 @@
+Company: Avalon GloboCare Corp. Common Stock
+Ticker: ALBT
+Total Revenue: 1611940
+Revenue Per Share: 0.699
+Gross Margins: 0.35651
+Operating Margins: -0.21763
+EBITDA: -6903727
+Profit Margins: 0.0
+Free Cashflow: -2781598
+Operating Cashflow: -5466769
+Return On Assets: -0.30864
+Return On Equity: -41.297863

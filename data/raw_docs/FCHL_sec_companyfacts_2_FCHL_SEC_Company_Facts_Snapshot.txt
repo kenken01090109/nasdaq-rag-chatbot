@@ -1,0 +1,11 @@
+Company: Fitness Champs Holdings Limited Common Stock
+Ticker: FCHL
+CIK: 0002023796
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3086000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetIncomeLoss: 126000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Assets: 1731000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Liabilities: 1720000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+StockholdersEquity: 11000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 61000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 230000 | unit=USD | filed=2025-05-14 | period_end=2024-12-31

@@ -1,0 +1,11 @@
+Company: AstroNova Inc. Common Stock
+Ticker: ALOT
+CIK: 0000008146
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 112979000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetIncomeLoss: -1242000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Assets: 140833000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+Liabilities: 63953000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+StockholdersEquity: 76880000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 8065000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 3606000 | unit=USD | filed=2025-12-10 | period_end=2025-10-31

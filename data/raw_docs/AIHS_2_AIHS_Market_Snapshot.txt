@@ -1,0 +1,10 @@
+Company: Senmiao Technology Limited Common Stock
+Ticker: AIHS
+Market Cap: 6334909
+Enterprise Value: 6423928
+Trailing PE: 
+Forward PE: 
+Price To Book: 15.977012
+Beta: 1.014
+52 Week High: 17.0
+52 Week Low: 0.833

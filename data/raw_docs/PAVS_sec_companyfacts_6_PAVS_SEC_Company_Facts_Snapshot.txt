@@ -1,0 +1,11 @@
+Company: Paranovus Entertainment Technology Ltd. Class A Ordinary Shares
+Ticker: PAVS
+CIK: 0001751876
+Latest SEC XBRL Facts:
+Revenues: 12413039 | unit=USD | filed=2025-12-05 | period_end=2025-09-30
+NetIncomeLoss: -680952 | unit=USD | filed=2025-12-05 | period_end=2025-09-30
+Assets: 37293179 | unit=USD | filed=2025-12-05 | period_end=2025-09-30
+Liabilities: 8854697 | unit=USD | filed=2025-12-05 | period_end=2025-09-30
+StockholdersEquity: 23595077 | unit=USD | filed=2025-12-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -159337 | unit=USD | filed=2025-12-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 412047 | unit=USD | filed=2025-12-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Pro-Dex Inc. Common Stock
+Ticker: PDEX
+Market Cap: 147736208
+Enterprise Value: 155232944
+Total Revenue: 72101000
+Revenue Per Share: 22.127
+EBITDA: 12601000
+Gross Margins: 0.28292
+Operating Margins: 0.17462
+Profit Margins: 0.15727
+Free Cashflow: 5688875
+Operating Cashflow: 6463000
+Return On Assets: 0.11571
+Return On Equity: 0.30874002
+Total Cash: 8817000
+Total Debt: 11413000
+Debt To Equity: 27.415
+Current Ratio: 4.031
+Quick Ratio: 2.21
+Trailing PE: 13.281525
+Forward PE: 21.985437
+Price To Book: 3.4919045
+Beta: -0.062
+52 Week High: 70.26
+52 Week Low: 23.47

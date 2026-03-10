@@ -1,0 +1,25 @@
+Company: Kandi Technologies Group Inc. Ordinary Shares
+Ticker: KNDI
+Market Cap: 80078448
+Enterprise Value: -66330492
+Total Revenue: 104035616
+Revenue Per Share: 1.218
+EBITDA: -30344696
+Gross Margins: 0.35266998
+Operating Margins: -0.053239997
+Profit Margins: -0.49105
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.056339998
+Return On Equity: -0.13716
+Total Cash: 185732992
+Total Debt: 37838000
+Debt To Equity: 10.63
+Current Ratio: 3.753
+Quick Ratio: 2.346
+Trailing PE: 
+Forward PE: 6.2086663
+Price To Book: 0.22306585
+Beta: 0.58
+52 Week High: 1.77
+52 Week Low: 0.78

@@ -1,0 +1,25 @@
+Company: Stratasys Ltd. Ordinary Shares (Israel)
+Ticker: SSYS
+Market Cap: 748419392
+Enterprise Value: 434588608
+Total Revenue: 551102016
+Revenue Per Share: 6.754
+EBITDA: -29783676
+Gross Margins: 0.41242
+Operating Margins: -0.16186
+Profit Margins: -0.18923001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.043080002
+Return On Equity: -0.1275
+Total Cash: 244527008
+Total Debt: 26500000
+Debt To Equity: 3.144
+Current Ratio: 3.57
+Quick Ratio: 2.484
+Trailing PE: 
+Forward PE: 54.750004
+Price To Book: 0.7453416
+Beta: 
+52 Week High: 12.81
+52 Week Low: 8.12

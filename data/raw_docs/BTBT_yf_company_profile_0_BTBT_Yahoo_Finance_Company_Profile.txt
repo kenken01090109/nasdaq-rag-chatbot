@@ -1,0 +1,9 @@
+Company: Bit Digital Inc. Ordinary Shares
+Ticker: BTBT
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: New York
+Website: https://www.bit-digital.com
+Employees: 54
+Business Summary: Bit Digital, Inc., together with its subsidiaries, engages in the institutional grade ethereum treasury and staking business. It also designs and operates data centers and cloud solutions for AI training and inference workloads supported by renewable energy in Canada and Iceland. Additionally, it engages in the creation, installation, acquisition, and operation of various companies. The company was formerly known as Golden Bull Limited and changed its name to Bit Digital, Inc. in September 2020. Bit Digital, Inc. was founded in 2015 and is headquartered in New York, New York.

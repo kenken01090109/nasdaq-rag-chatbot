@@ -1,0 +1,25 @@
+Company: Foghorn Therapeutics Inc. Common Stock
+Ticker: FHTX
+Market Cap: 338601696
+Enterprise Value: 161200272
+Total Revenue: 24518000
+Revenue Per Share: 0.39
+EBITDA: -83225000
+Gross Margins: -2.42312
+Operating Margins: -2.2692301
+Profit Margins: -2.94159
+Free Cashflow: -10392500
+Operating Cashflow: -88347000
+Return On Assets: -0.21067
+Return On Equity: 
+Total Cash: 180278000
+Total Debt: 22529000
+Debt To Equity: 
+Current Ratio: 2.164
+Quick Ratio: 2.119
+Trailing PE: 
+Forward PE: -5.891287
+Price To Book: -3.6443887
+Beta: 3.116
+52 Week High: 6.95
+52 Week Low: 2.945

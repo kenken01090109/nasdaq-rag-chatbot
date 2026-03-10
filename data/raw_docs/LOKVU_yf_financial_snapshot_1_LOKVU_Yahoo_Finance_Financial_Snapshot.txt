@@ -1,0 +1,25 @@
+Company: Live Oak Acquisition Corp. V Units
+Ticker: LOKVU
+Market Cap: 
+Enterprise Value: 314875872
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1949131
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 0.139
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -26.238096
+Beta: 
+52 Week High: 11.75
+52 Week Low: 10.02

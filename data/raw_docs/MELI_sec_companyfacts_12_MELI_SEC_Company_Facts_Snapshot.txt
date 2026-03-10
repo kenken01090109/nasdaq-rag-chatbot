@@ -1,0 +1,12 @@
+Company: MercadoLibre Inc. Common Stock
+Ticker: MELI
+CIK: 0001099590
+Latest SEC XBRL Facts:
+Revenues: 20134000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14199000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1438000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 36691000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 30473000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 6218000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6907000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2582000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Femasys Inc. Common Stock
+Ticker: FEMY
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Suwanee
+Website: https://www.femasys.com
+Employees: 69
+Business Summary: Femasys Inc., a biomedical company, develops therapeutic and diagnostic solutions to address unmet women healthcare needs in the United States and internationally. The company offers FemaSeed, an intratubal insemination solution; FemVue, a companion diagnostic for fallopian tube assessment through ultrasound; FemCerv, an endocervical tissue sampler for cervical cancer diagnosis; FemCath, a cornual balloon catheter for selective fallopian tube evaluation; and FemChec, a controlled contrast-generating device for fallopian tube diagnosis. It also develops FemBloc, a non-surgical permanent birth control solution. The company offers its products to reproductive endocrinologists, gynecological physicians, related healthcare professionals, and women's healthcare provider organizations. Femasys Inc. was incorporated in 2004 and is headquartered in Suwanee, Georgia.

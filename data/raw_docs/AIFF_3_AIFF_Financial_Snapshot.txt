@@ -1,0 +1,12 @@
+Company: Firefly Neuroscience Inc. Common Stock
+Ticker: AIFF
+Total Revenue: 783000
+Revenue Per Share: 0.07
+Gross Margins: 0.65900004
+Operating Margins: -6.32474
+EBITDA: -8652000
+Profit Margins: 0.0
+Free Cashflow: -4214125
+Operating Cashflow: -7607000
+Return On Assets: -0.61484003
+Return On Equity: -3.40819

@@ -1,0 +1,25 @@
+Company: Neumora Therapeutics Inc. Common Stock
+Ticker: NMRA
+Market Cap: 513214112
+Enterprise Value: 349828352
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -240242000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -120069128
+Operating Cashflow: -208824992
+Return On Assets: -0.56705004
+Return On Equity: -1.04348
+Total Cash: 171524992
+Total Debt: 20086000
+Debt To Equity: 15.198
+Current Ratio: 6.852
+Quick Ratio: 6.637
+Trailing PE: 
+Forward PE: -3.034932
+Price To Book: 3.7009804
+Beta: 2.531
+52 Week High: 3.65
+52 Week Low: 0.611

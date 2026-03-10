@@ -1,0 +1,25 @@
+Company: Drilling Tools International Corporation Common Stock
+Ticker: DTI
+Market Cap: 127067592
+Enterprise Value: 189907952
+Total Revenue: 160964000
+Revenue Per Share: 4.546
+EBITDA: 36748000
+Gross Margins: 0.74275
+Operating Margins: 0.03339
+Profit Margins: -0.03928
+Free Cashflow: 8192250
+Operating Cashflow: 10923000
+Return On Assets: 0.02735
+Return On Equity: -0.051760003
+Total Cash: 4373000
+Total Debt: 77762000
+Debt To Equity: 64.202
+Current Ratio: 2.038
+Quick Ratio: 1.344
+Trailing PE: 
+Forward PE: 12.448276
+Price To Book: 1.0491136
+Beta: -0.331
+52 Week High: 4.382
+52 Week Low: 1.43

@@ -1,0 +1,11 @@
+Company: WEBTOON Entertainment Inc. Common stock
+Ticker: WBTN
+CIK: 0001997859
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1052019000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -38362000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1977871000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 402935000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 1487725000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3578000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 584575000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

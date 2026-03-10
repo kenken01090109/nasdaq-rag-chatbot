@@ -1,0 +1,12 @@
+Company: AIOS Tech Inc. Class A Common Shares
+Ticker: AIOS
+Total Revenue: 238745632
+Revenue Per Share: 54.725
+Gross Margins: 0.10175
+Operating Margins: 0.046469998
+EBITDA: -2122826
+Profit Margins: -0.31209
+Free Cashflow: 10319336
+Operating Cashflow: -43112328
+Return On Assets: -0.00894
+Return On Equity: -0.44527

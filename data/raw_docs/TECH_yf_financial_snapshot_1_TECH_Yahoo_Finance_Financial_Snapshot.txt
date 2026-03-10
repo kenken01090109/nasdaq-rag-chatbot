@@ -1,0 +1,25 @@
+Company: Bio-Techne Corp Common Stock
+Ticker: TECH
+Market Cap: 8431267840
+Enterprise Value: 8602617856
+Total Revenue: 1215577984
+Revenue Per Share: 7.787
+EBITDA: 330536992
+Gross Margins: 0.66605
+Operating Margins: 0.1967
+Profit Margins: 0.06672
+Free Cashflow: 260637504
+Operating Cashflow: 249316992
+Return On Assets: 0.06518
+Return On Equity: 0.03966
+Total Cash: 179544992
+Total Debt: 350895008
+Debt To Equity: 17.449
+Current Ratio: 4.539
+Quick Ratio: 2.593
+Trailing PE: 101.67925
+Forward PE: 24.851624
+Price To Book: 4.1771955
+Beta: 1.475
+52 Week High: 72.16
+52 Week Low: 46.01

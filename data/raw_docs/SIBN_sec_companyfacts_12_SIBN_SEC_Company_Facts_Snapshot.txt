@@ -1,0 +1,12 @@
+Company: SI-BONE Inc. Common Stock
+Ticker: SIBN
+CIK: 0001459839
+Latest SEC XBRL Facts:
+Revenues: 67301000 | unit=USD | filed=2021-03-10 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 144576000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -17260000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 234273000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 62147000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 172126000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2403000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26487000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

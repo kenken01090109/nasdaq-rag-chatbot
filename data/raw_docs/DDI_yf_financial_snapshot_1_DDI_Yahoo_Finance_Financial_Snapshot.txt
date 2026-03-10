@@ -1,0 +1,25 @@
+Company: DoubleDown Interactive Co. Ltd. American Depository Shares
+Ticker: DDI
+Market Cap: 443998816
+Enterprise Value: -427253216
+Total Revenue: 359937984
+Revenue Per Share: 7.264
+EBITDA: 134408000
+Gross Margins: 0.71782994
+Operating Margins: 0.31245002
+Profit Margins: 0.28476998
+Free Cashflow: 92704376
+Operating Cashflow: 136770000
+Return On Assets: 0.081520006
+Return On Equity: 0.11454
+Total Cash: 490032992
+Total Debt: 39599000
+Debt To Equity: 4.167
+Current Ratio: 7.741
+Quick Ratio: 7.66
+Trailing PE: 4.3285027
+Forward PE: 3.837259
+Price To Book: 0.4672751
+Beta: 0.828
+52 Week High: 11.25
+52 Week Low: 8.09

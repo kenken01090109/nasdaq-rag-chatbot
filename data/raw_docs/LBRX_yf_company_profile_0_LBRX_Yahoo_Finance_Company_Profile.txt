@@ -1,0 +1,9 @@
+Company: LB Pharmaceuticals Inc Common Stock
+Ticker: LBRX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://lbpharma.us
+Employees: 16
+Business Summary: LB Pharmaceuticals Inc, a clinical-stage biopharmaceutical company, develops therapies for the treatment of schizophrenia, bipolar depression, and other neuropsychiatric diseases. Its lead product is LB-102, a small molecule oral product, which is in Phase 3 clinical trial for the treatment of acute schizophrenia; completed Phase 1 clinical trial for the treatment of bipolar I depression; and in pr clinical stage for the treatment of LAI formulation. The company was incorporated in 2015 and is headquartered in New York, New York.

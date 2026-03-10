@@ -1,0 +1,25 @@
+Company: SiTime Corporation Common Stock
+Ticker: SITM
+Market Cap: 8609277952
+Enterprise Value: 8560339968
+Total Revenue: 326660000
+Revenue Per Share: 13.084
+EBITDA: -22022000
+Gross Margins: 0.53568
+Operating Margins: 0.02623
+Profit Margins: -0.13134
+Free Cashflow: 12567125
+Operating Cashflow: 87154000
+Return On Assets: -0.03568
+Return On Equity: -0.046230003
+Total Cash: 808406976
+Total Debt: 3610000
+Debt To Equity: 0.312
+Current Ratio: 11.3
+Quick Ratio: 10.159
+Trailing PE: 
+Forward PE: 49.6148
+Price To Book: 7.446034
+Beta: 2.559
+52 Week High: 446.955
+52 Week Low: 105.4

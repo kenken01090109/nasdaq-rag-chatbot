@@ -1,0 +1,12 @@
+Company: Ambarella Inc. Ordinary Shares
+Ticker: AMBA
+CIK: 0001280263
+Latest SEC XBRL Facts:
+Revenues: 56938000 | unit=USD | filed=2018-06-08 | period_end=2018-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 289835000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+NetIncomeLoss: -59430000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+Assets: 751890000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+Liabilities: 161777000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+StockholdersEquity: 590113000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 54621000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 174057000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31

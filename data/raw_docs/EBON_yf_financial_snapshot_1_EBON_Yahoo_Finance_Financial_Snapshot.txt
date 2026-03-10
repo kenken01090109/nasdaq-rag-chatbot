@@ -1,0 +1,25 @@
+Company: Ebang International Holdings Inc. Class A Ordinary Shares
+Ticker: EBON
+Market Cap: 15073481
+Enterprise Value: -194348816
+Total Revenue: 7337066
+Revenue Per Share: 1.168
+EBITDA: -26671160
+Gross Margins: 0.0626
+Operating Margins: -3.03082
+Profit Margins: -2.52654
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.06468
+Return On Equity: -0.07084
+Total Cash: 215206800
+Total Debt: 3368606
+Debt To Equity: 1.324
+Current Ratio: 22.006
+Quick Ratio: 21.253
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.06191951
+Beta: 2.671
+52 Week High: 5.9
+52 Week Low: 2.3

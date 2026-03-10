@@ -1,0 +1,11 @@
+Company: IBEX Limited Common Shares
+Ticker: IBEX
+CIK: 0001720420
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 315400000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 24259000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 295797000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 141282000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 154515000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 22314000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 15460000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: Silexion Therapeutics Corp Warrant
+Ticker: SLXNW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -9127000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -7112625
+Operating Cashflow: -10729000
+Return On Assets: -0.77597
+Return On Equity: -7.7122602
+Total Cash: 9243000
+Total Debt: 2025000
+Debt To Equity: 29.024
+Current Ratio: 3.968
+Quick Ratio: 3.318
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.014970865
+Beta: -0.037
+52 Week High: 0.0334
+52 Week Low: 0.0334

@@ -1,0 +1,25 @@
+Company: BeyondSpring Inc. Ordinary Shares
+Ticker: BYSI
+Market Cap: 59627364
+Enterprise Value: 58214364
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -7786000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -13283000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 12624000
+Total Debt: 406000
+Debt To Equity: 
+Current Ratio: 1.894
+Quick Ratio: 0.979
+Trailing PE: 
+Forward PE: -3.0851066
+Price To Book: -1.8401016
+Beta: 0.618
+52 Week High: 3.44
+52 Week Low: 0.98

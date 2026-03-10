@@ -1,0 +1,11 @@
+Company: Fluence Energy Inc. Class A Common Stock
+Ticker: FLNC
+CIK: 0001868941
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 475234000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: -45070000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 2269652000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 1781428000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 387988000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -226792000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 452563000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: Celularity Inc. Warrant
+Ticker: CELUW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 40578000
+Revenue Per Share: 1.687
+EBITDA: -41355000
+Gross Margins: 0.50606
+Operating Margins: -2.43168
+Profit Margins: -1.98746
+Free Cashflow: 12793875
+Operating Cashflow: -6557000
+Return On Assets: -0.25029
+Return On Equity: 
+Total Cash: 120000
+Total Debt: 66762000
+Debt To Equity: 
+Current Ratio: 0.162
+Quick Ratio: 0.104
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.012219101
+Beta: 0.79
+52 Week High: 0.0087
+52 Week Low: 0.0087

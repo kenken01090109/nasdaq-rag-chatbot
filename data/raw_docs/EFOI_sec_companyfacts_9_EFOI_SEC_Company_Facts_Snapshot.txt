@@ -1,0 +1,11 @@
+Company: Energy Focus Inc. Common Stock
+Ticker: EFOI
+CIK: 0000924168
+Latest SEC XBRL Facts:
+Revenues: 2585000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -671000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 5197000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2057000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 3140000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -542000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 897000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

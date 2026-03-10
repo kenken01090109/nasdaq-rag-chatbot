@@ -1,0 +1,9 @@
+Company: Arrive AI Inc. Common Stock
+Ticker: ARAI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Fishers
+Website: https://www.arriveai.com
+Employees: 33
+Business Summary: Arrive AI Inc. a developmental technology company, designs and implement viable smart mailbox and platform system for smart, secure, and seamless exchange of packages, goods, supplies, food, and medications between people, by robots, and drones in the United States. Arrive AI Inc. was formerly known as Arrive Technology Inc. and changed its name to Arrive AI Inc. in September 2024. The company was incorporated in 2020 and is based in Fishers, Indiana.

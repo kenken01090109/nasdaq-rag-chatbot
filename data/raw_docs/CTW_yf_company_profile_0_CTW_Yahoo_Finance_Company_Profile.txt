@@ -1,0 +1,9 @@
+Company: CTW Cayman Class A Ordinary Shares
+Ticker: CTW
+Sector: Communication Services
+Industry: Electronic Gaming & Multimedia
+Country: Japan
+City: Tokyo
+Website: https://ctw.inc/?lang=en
+Employees: 350
+Business Summary: CTW Cayman operates a web-based gaming platform in Japan and Singapore. The company offers an immersive digital space through its flagship HTML5 platform, G123.jp, which provides a selection of free-to-play games inspired by Japanese animations. It also engages in the provision of removing barriers to gameplay, including downloads, installations, and mandatory registrations through different types of devices comprising mobile devices and PCs. In addition, the company offers support to game developers, such as game distribution support, localization and translation of in-game content, and IP related design support; sound effects, music, and interface elements; game distribution services consisting of hosting games on its platform and distributing games through its network and server resources, and related software and systems. Further, it provides marketing services and customer support. The company was founded in 2013 and is headquartered in Tokyo, Japan. CTW Cayman operates as a subsidiary of CTW (BVI) LTD.

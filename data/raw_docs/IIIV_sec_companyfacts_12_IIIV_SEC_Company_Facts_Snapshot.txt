@@ -1,0 +1,12 @@
+Company: i3 Verticals Inc. Class A Common Stock
+Ticker: IIIV
+CIK: 0001728688
+Latest SEC XBRL Facts:
+Revenues: 54901000 | unit=USD | filed=2025-11-21 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 52671000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: 484000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 595931000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 112590000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 358506000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 14123000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 37523000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

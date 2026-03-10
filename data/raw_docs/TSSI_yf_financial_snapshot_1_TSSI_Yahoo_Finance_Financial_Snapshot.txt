@@ -1,0 +1,25 @@
+Company: TSS Inc. Common Stock
+Ticker: TSSI
+Market Cap: 261336032
+Enterprise Value: 244679856
+Total Revenue: 234836992
+Revenue Per Share: 9.778
+EBITDA: 10794000
+Gross Margins: 0.12733
+Operating Margins: -0.022230001
+Profit Margins: 0.020769998
+Free Cashflow: -40860124
+Operating Cashflow: -3105000
+Return On Assets: 0.043909997
+Return On Equity: 0.13728
+Total Cash: 70696000
+Total Debt: 41348000
+Debt To Equity: 65.207
+Current Ratio: 1.52
+Quick Ratio: 1.331
+Trailing PE: 47.68421
+Forward PE: 
+Price To Book: 3.9425588
+Beta: 2.201
+52 Week High: 31.94
+52 Week Low: 5.63

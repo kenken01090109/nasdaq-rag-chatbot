@@ -1,0 +1,11 @@
+Company: Lulu's Fashion Lounge Holdings Inc. Common Stock
+Ticker: LVLU
+CIK: 0001780201
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 219266000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+NetIncomeLoss: -13310000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+Assets: 103342000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+Liabilities: 100823000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+StockholdersEquity: 2519000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 5147000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 1942000 | unit=USD | filed=2025-11-12 | period_end=2025-09-28

@@ -1,0 +1,10 @@
+Company: Quartzsea Acquisition Corporation Ordinary Shares
+Ticker: QSEA
+CIK: 0002047455
+Latest SEC XBRL Facts:
+NetIncomeLoss: 260445 | unit=USD | filed=2025-10-20 | period_end=2025-08-31
+Assets: 84628640 | unit=USD | filed=2025-10-20 | period_end=2025-08-31
+Liabilities: 3596112 | unit=USD | filed=2025-10-20 | period_end=2025-08-31
+StockholdersEquity: -3339963 | unit=USD | filed=2025-10-20 | period_end=2025-08-31
+NetCashProvidedByUsedInOperatingActivities: -1171443 | unit=USD | filed=2025-10-20 | period_end=2025-08-31
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-10-20 | period_end=2025-08-31

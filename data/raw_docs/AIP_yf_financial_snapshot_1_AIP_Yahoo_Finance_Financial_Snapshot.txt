@@ -1,0 +1,25 @@
+Company: Arteris Inc. Common Stock
+Ticker: AIP
+Market Cap: 660184640
+Enterprise Value: 611552640
+Total Revenue: 70579000
+Revenue Per Share: 1.669
+EBITDA: -29761000
+Gross Margins: 0.90231
+Operating Margins: -0.42047
+Profit Margins: -0.4923
+Free Cashflow: 10901750
+Operating Cashflow: 6733000
+Return On Assets: -0.18729
+Return On Equity: 
+Total Cash: 54599000
+Total Debt: 5967000
+Debt To Equity: 
+Current Ratio: 1.126
+Quick Ratio: 1.034
+Trailing PE: 
+Forward PE: 140.52066
+Price To Book: -43.86707
+Beta: 1.452
+52 Week High: 19.85
+52 Week Low: 5.46

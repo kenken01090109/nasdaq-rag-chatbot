@@ -1,0 +1,25 @@
+Company: Electro-Sensors Inc. Common Stock
+Ticker: ELSE
+Market Cap: 14909159
+Enterprise Value: 4311396
+Total Revenue: 9787000
+Revenue Per Share: 2.833
+EBITDA: 130000
+Gross Margins: 0.50679
+Operating Margins: 0.06587
+Profit Margins: 0.041279998
+Free Cashflow: 115250
+Operating Cashflow: 365000
+Return On Assets: 0.0016300001
+Return On Equity: 0.02807
+Total Cash: 10627000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 13.765
+Quick Ratio: 11.558
+Trailing PE: 35.696667
+Forward PE: 
+Price To Book: 1.0150712
+Beta: 0.103
+52 Week High: 5.29
+52 Week Low: 3.65

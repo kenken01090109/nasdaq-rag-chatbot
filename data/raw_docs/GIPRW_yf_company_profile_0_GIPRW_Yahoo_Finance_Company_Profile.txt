@@ -1,0 +1,9 @@
+Company: Generation Income Properties Inc Warrant
+Ticker: GIPRW
+Sector: 
+Industry: 
+Country: United States
+City: Tampa
+Website: https://gipreit.com
+Employees: 4
+Business Summary: Generation Income Properties, Inc., located in Tampa, Florida, is an internally managed real estate investment trust formed to acquire and own, directly and jointly, real estate investments focused on retail, office, and industrial net lease properties in densely populated submarkets.

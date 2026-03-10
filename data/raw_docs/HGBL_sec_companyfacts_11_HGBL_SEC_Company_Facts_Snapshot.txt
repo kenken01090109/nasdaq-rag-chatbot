@@ -1,0 +1,12 @@
+Company: Heritage Global Inc. Common Stock
+Ticker: HGBL
+CIK: 0000849145
+Latest SEC XBRL Facts:
+Revenues: 5814000 | unit=USD | filed=2018-05-07 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 39123000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 3286000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 86509000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 20014000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 66495000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4557000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19434000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

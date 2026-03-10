@@ -1,0 +1,25 @@
+Company: Cognizant Technology Solutions Corporation Class A Common Stock
+Ticker: CTSH
+Market Cap: 31980154880
+Enterprise Value: 30719082496
+Total Revenue: 21108000768
+Revenue Per Share: 43.254
+EBITDA: 3833999872
+Gross Margins: 0.33717
+Operating Margins: 0.15995
+Profit Margins: 0.10564999
+Free Cashflow: 1927250048
+Operating Cashflow: 2883000064
+Return On Assets: 0.102290004
+Return On Equity: 0.15158
+Total Cash: 1914000000
+Total Debt: 1174000000
+Debt To Equity: 7.819
+Current Ratio: 2.137
+Quick Ratio: 1.736
+Trailing PE: 14.530703
+Forward PE: 10.784891
+Price To Book: 2.113759
+Beta: 0.983
+52 Week High: 87.03
+52 Week Low: 60.04

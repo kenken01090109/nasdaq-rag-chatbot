@@ -1,0 +1,9 @@
+Company: Satellos Bioscience Inc. Common Stock
+Ticker: MSLE
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Toronto
+Website: https://satellos.com
+Employees: 14
+Business Summary: Satellos Bioscience Inc., a biotechnology company, develops medicines to treat degenerative muscle diseases primarily in Canada and Australia. The company uses its proprietary platform MyoReGenX, an automated microscopy system that recapitulates the muscle stem cell environment ex-vivo. It develops SAT-3247 an oral, small-molecule drug candidate for the treatment of Duchenne muscular dystrophy disease. The company has a license agreement the with Ottawa Hospital Research Institute (OHRI); and an option agreement with the University of British Columbia. Satellos Bioscience Inc. was founded in 2018 and is headquartered in Toronto, Canada.

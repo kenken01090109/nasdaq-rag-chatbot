@@ -1,0 +1,12 @@
+Company: Exagen Inc. Common Stock
+Ticker: XGN
+CIK: 0001274737
+Latest SEC XBRL Facts:
+Revenues: 700000 | unit=USD | filed=2020-11-10 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 49944000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -15278000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 62823000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 44685000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 18138000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10612000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35652000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

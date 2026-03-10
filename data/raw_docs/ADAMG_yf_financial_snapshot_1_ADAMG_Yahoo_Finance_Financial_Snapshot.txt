@@ -1,0 +1,25 @@
+Company: Adamas Trust Inc. 9.125% Senior Notes Due 2030
+Ticker: ADAMG
+Market Cap: 
+Enterprise Value: 13629364224
+Total Revenue: 315033984
+Revenue Per Share: 3.484
+EBITDA: 
+Gross Margins: 0.74556
+Operating Margins: 0.48384
+Profit Margins: 0.47312
+Free Cashflow: 
+Operating Cashflow: 134040000
+Return On Assets: 0.0126
+Return On Equity: 0.09689
+Total Cash: 211055008
+Total Debt: 11008335872
+Debt To Equity: 769.579
+Current Ratio: 32.543
+Quick Ratio: 31.054
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.576406
+Beta: 1.144
+52 Week High: 25.434
+52 Week Low: 22.7

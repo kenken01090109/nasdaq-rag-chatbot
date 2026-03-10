@@ -1,0 +1,25 @@
+Company: Banner Corporation Common Stock
+Ticker: BANR
+Market Cap: 2048599296
+Enterprise Value: 2021953280
+Total Revenue: 647688000
+Revenue Per Share: 18.795
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.3886
+Profit Margins: 0.30166
+Free Cashflow: 
+Operating Cashflow: 257464000
+Return On Assets: 0.012
+Return On Equity: 0.10503
+Total Cash: 432951008
+Total Debt: 391984000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.652483
+Forward PE: 9.566879
+Price To Book: 1.0525578
+Beta: 0.886
+52 Week High: 69.83
+52 Week Low: 54.01

@@ -1,0 +1,25 @@
+Company: Puma Biotechnology Inc Common Stock
+Ticker: PBYI
+Market Cap: 304866208
+Enterprise Value: 247978512
+Total Revenue: 228371008
+Revenue Per Share: 4.566
+EBITDA: 47437000
+Gross Margins: 0.74534
+Operating Margins: 0.22670999
+Profit Margins: 0.13623
+Free Cashflow: 30693124
+Operating Cashflow: 41802000
+Return On Assets: 0.10852
+Return On Equity: 0.27969
+Total Cash: 97528000
+Total Debt: 28546000
+Debt To Equity: 21.901
+Current Ratio: 2.002
+Quick Ratio: 1.861
+Trailing PE: 8.175675
+Forward PE: 9.307693
+Price To Book: 2.3395207
+Beta: 1.275
+52 Week High: 7.68
+52 Week Low: 2.58

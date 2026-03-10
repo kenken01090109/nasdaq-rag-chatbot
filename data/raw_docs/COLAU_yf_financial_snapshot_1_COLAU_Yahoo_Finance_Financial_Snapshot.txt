@@ -1,0 +1,25 @@
+Company: Columbus Acquisition Corp Unit
+Ticker: COLAU
+Market Cap: 84686128
+Enterprise Value: 84047824
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 441144
+Operating Cashflow: -2471236
+Return On Assets: -0.01611
+Return On Equity: -0.01475
+Total Cash: 638311
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 20.044
+Quick Ratio: 0.015
+Trailing PE: 
+Forward PE: 
+Price To Book: 144.05405
+Beta: 
+52 Week High: 13.7
+52 Week Low: 10.09

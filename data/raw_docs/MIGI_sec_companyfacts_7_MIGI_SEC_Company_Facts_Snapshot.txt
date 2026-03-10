@@ -1,0 +1,11 @@
+Company: Mawson Infrastructure Group Inc. Common Stock
+Ticker: MIGI
+CIK: 0001218683
+Latest SEC XBRL Facts:
+Revenues: 36522262 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -8004637 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 52016801 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 61420339 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -9403538 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3433493 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2276656 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

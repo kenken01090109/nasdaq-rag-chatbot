@@ -1,0 +1,25 @@
+Company: Kandal M Venture Limited Class A Ordinary Shares
+Ticker: FMFC
+Market Cap: 7620119
+Enterprise Value: 12892471
+Total Revenue: 17186676
+Revenue Per Share: 1.074
+EBITDA: 568543
+Gross Margins: 0.19534001
+Operating Margins: -0.0743
+Profit Margins: 0.012200001
+Free Cashflow: 1714949
+Operating Cashflow: 2134565
+Return On Assets: 0.02315
+Return On Equity: 0.76728
+Total Cash: 171457
+Total Debt: 5257148
+Debt To Equity: 1390.397
+Current Ratio: 0.978
+Quick Ratio: 0.272
+Trailing PE: 41.64
+Forward PE: 
+Price To Book: 17.349998
+Beta: 
+52 Week High: 15.75
+52 Week Low: 0.251

@@ -1,0 +1,25 @@
+Company: BIO-key International Inc. Common Stock
+Ticker: BKYI
+Market Cap: 7125076
+Enterprise Value: 7225950
+Total Revenue: 6316050
+Revenue Per Share: 1.243
+EBITDA: -3512588
+Gross Margins: 0.78404
+Operating Margins: -0.57572
+Profit Margins: -0.67341006
+Free Cashflow: -1675812
+Operating Cashflow: -3352652
+Return On Assets: -0.29403
+Return On Equity: -1.37689
+Total Cash: 2039853
+Total Debt: 1463438
+Debt To Equity: 24.209
+Current Ratio: 1.264
+Quick Ratio: 1.012
+Trailing PE: 
+Forward PE: -2.0546877
+Price To Book: 0.79504234
+Beta: 0.44
+52 Week High: 1.97
+52 Week Low: 0.51

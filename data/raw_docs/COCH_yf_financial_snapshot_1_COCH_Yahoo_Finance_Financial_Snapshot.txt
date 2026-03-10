@@ -1,0 +1,25 @@
+Company: Envoy Medical Inc. Class A Common Stock
+Ticker: COCH
+Market Cap: 50011164
+Enterprise Value: 16115625
+Total Revenue: 208000
+Revenue Per Share: 0.01
+EBITDA: -20164000
+Gross Margins: -2.9423099
+Operating Margins: -135.90475
+Profit Margins: 0.0
+Free Cashflow: -10967000
+Operating Cashflow: -17607000
+Return On Assets: -1.4530901
+Return On Equity: 
+Total Cash: 3556000
+Total Debt: 946000
+Debt To Equity: 
+Current Ratio: 0.641
+Quick Ratio: 0.402
+Trailing PE: 
+Forward PE: -0.68473685
+Price To Book: -2.0585442
+Beta: 2.064
+52 Week High: 1.91
+52 Week Low: 0.363

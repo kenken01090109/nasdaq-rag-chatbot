@@ -1,0 +1,9 @@
+Company: Navient Corporation Common Stock
+Ticker: NAVI
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Herndon
+Website: https://www.navient.com
+Employees: 670
+Business Summary: Navient Corporation provides technology-enabled education finance  for education in the United States. It operates through two segments: Federal Education Loans and Consumer Lending. The company owns and manages portfolio of private education loans; and offers education lending and digital financial services, in-school student loans, and refinancing products under Earnest brand. It also owns Federal Family Education Loan Program (FFELP) loans that are insured or guaranteed by state or not-for-profit agencies; and performs servicing on its portfolios, as well as federal education loans held by other institutions. Navient Corporation was founded in 1973 and is headquartered in Herndon, Virginia.

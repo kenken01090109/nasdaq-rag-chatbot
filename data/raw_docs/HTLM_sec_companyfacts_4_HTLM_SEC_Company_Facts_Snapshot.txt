@@ -1,0 +1,12 @@
+Company: HomesToLife Ltd Ordinary Shares
+Ticker: HTLM
+CIK: 0002023153
+Latest SEC XBRL Facts:
+Revenues: 180774803 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 180774803 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+NetIncomeLoss: 10024075 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+Assets: 127053800 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+Liabilities: 104950095 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+StockholdersEquity: 22103705 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -11241457 | unit=USD | filed=2025-09-17 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 20071387 | unit=USD | filed=2025-09-17 | period_end=2025-06-30

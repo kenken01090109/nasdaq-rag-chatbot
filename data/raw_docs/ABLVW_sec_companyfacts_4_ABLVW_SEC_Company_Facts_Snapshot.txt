@@ -1,0 +1,11 @@
+Company: Able View Global Inc. Warrant
+Ticker: ABLVW
+CIK: 0001957489
+Latest SEC XBRL Facts:
+Revenues: 46654147 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: 3419915 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 38653115 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 28996759 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 9656356 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1858175 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6283350 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

@@ -1,0 +1,12 @@
+Company: Bel Fuse Inc. Class B Common Stock
+Ticker: BELFB
+CIK: 0000729580
+Latest SEC XBRL Facts:
+Revenues: 371671000 | unit=USD | filed=2017-11-06 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 499517000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 17874000 | unit=USD | filed=2025-05-01 | period_end=2025-03-31
+Assets: 952804000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 443773000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 427760000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51044000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 57743000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

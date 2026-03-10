@@ -1,0 +1,10 @@
+Company: Hanmi Financial Corporation Common Stock
+Ticker: HAFC
+CIK: 0001109242
+Latest SEC XBRL Facts:
+Revenues: 198986000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 54850000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 7856731000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 7077181000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 779550000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 153767000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

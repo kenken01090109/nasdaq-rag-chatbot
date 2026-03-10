@@ -1,0 +1,9 @@
+Company: Voyager Therapeutics Inc. Common Stock
+Ticker: VYGR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Lexington
+Website: https://www.voyagertherapeutics.com
+Employees: 172
+Business Summary: Voyager Therapeutics, Inc., a biotechnology company, focuses on the human genetics for the cure of neurological diseases. The company's lead product candidate is VY7523, an anti-tau antibody program for the treatment of alzheimer's disease (AD). Its product pipeline includes VY1706, a tau silencing gene therapy in preclinical trial for the treatment of alzheimer's disease; SOD1 silencing gene therapy program for treating amyotrophic lateral sclerosis in preclinical trial; and vectorized anti-amyloid antibody early research program for the treatment of AD in preclinical trial. The company is also developing VY-FXN01 for treating friedreich's ataxia; and GBA1 gene replacement program to treat parkinson's disease. In addition, it provides research program for the treatment of Huntington's disease. The company has collaboration and license agreements with Alexion; AstraZeneca Ireland Limited; Novartis Pharma AG; and Neurocrine Biosciences, Inc. for the treatment of various other diseases of the central nervous system. Voyager Therapeutics, Inc. was incorporated in 2013 and is headquartered in Lexington, Massachusetts.

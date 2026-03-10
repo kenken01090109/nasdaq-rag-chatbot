@@ -1,0 +1,10 @@
+Company: Binah Capital Group Inc. Common Stock
+Ticker: BCG
+CIK: 0001953984
+Latest SEC XBRL Facts:
+Revenues: 136632000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 133454000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 2141000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 67564000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 49465000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2048000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

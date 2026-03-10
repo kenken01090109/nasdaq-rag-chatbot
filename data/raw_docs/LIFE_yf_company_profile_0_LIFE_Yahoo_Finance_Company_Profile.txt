@@ -1,0 +1,9 @@
+Company: Ethos Technologies Inc. Class A Common Stock
+Ticker: LIFE
+Sector: Financial Services
+Industry: Insurance - Life
+Country: United States
+City: San Francisco
+Website: https://www.ethos.com
+Employees: 
+Business Summary: Ethos Technologies Inc. provides third-party administrator services for insurance policies in United States, India, and Singapore. The company offers Ethos, a three-sided technology platform that transforms the buying, selling, and risk management experience of life insurance for consumers, agents, and carriers. Its products include term life insurance, whole life insurance policies, and indexed universal life insurance. The company also provides wills and estate planning; and supplemental health insurance products. It serves consumers, agents, and agencies and carriers. The company was formerly known as Ethos Insurance Corporation and changed its name to Ethos Technologies Inc. in August 2016. The company was incorporated in 2016 and is based in San Francisco, California.

@@ -1,0 +1,25 @@
+Company: Real Asset Acquisition Corp. Unit
+Ticker: RAAQU
+Market Cap: 
+Enterprise Value: 64357164
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -178265
+Operating Cashflow: 14833
+Return On Assets: -0.00262
+Return On Equity: 
+Total Cash: 1077837
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 8.398
+Quick Ratio: 7.622
+Trailing PE: 
+Forward PE: 
+Price To Book: -11.222879
+Beta: 
+52 Week High: 11.77
+52 Week Low: 9.2

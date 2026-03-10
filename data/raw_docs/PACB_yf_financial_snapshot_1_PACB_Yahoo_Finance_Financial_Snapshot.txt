@@ -1,0 +1,25 @@
+Company: Pacific Biosciences of California Inc. Common Stock
+Ticker: PACB
+Market Cap: 416757664
+Enterprise Value: 881953408
+Total Revenue: 160004992
+Revenue Per Share: 0.533
+EBITDA: -169226000
+Gross Margins: 0.34280998
+Operating Margins: -1.34537
+Profit Margins: 0.0
+Free Cashflow: 97545624
+Operating Cashflow: -111209000
+Return On Assets: -0.33728
+Return On Equity: -2.13452
+Total Cash: 279505984
+Total Debt: 702422016
+Debt To Equity: 13131.838
+Current Ratio: 5.15
+Quick Ratio: 4.324
+Trailing PE: 
+Forward PE: -3.3775516
+Price To Book: 76.66667
+Beta: 2.304
+52 Week High: 2.73
+52 Week Low: 0.85

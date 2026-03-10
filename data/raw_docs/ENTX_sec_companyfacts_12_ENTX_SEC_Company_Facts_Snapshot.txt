@@ -1,0 +1,11 @@
+Company: Entera Bio Ltd. Ordinary Shares
+Ticker: ENTX
+CIK: 0001638097
+Latest SEC XBRL Facts:
+Revenues: 42000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -8423000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 17407000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2173000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 15234000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5537000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8574000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

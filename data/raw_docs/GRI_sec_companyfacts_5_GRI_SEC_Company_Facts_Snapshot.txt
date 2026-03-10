@@ -1,0 +1,11 @@
+Company: GRI Bio Inc. Common Stock
+Ticker: GRI
+CIK: 0001824293
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2022-05-09 | period_end=2022-03-31
+NetIncomeLoss: -9297000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 4782000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2789000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1993000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -7215000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4055000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

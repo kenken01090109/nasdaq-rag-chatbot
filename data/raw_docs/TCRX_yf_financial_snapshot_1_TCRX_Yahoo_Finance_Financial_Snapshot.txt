@@ -1,0 +1,25 @@
+Company: TScan Therapeutics Inc. Common Stock
+Ticker: TCRX
+Market Cap: 63557752
+Enterprise Value: -27543168
+Total Revenue: 8423000
+Revenue Per Share: 0.148
+EBITDA: -145812992
+Gross Margins: -1.48854
+Operating Margins: -14.755871
+Profit Margins: 0.0
+Free Cashflow: -87761752
+Operating Cashflow: -130729000
+Return On Assets: -0.30452
+Return On Equity: -0.76438004
+Total Cash: 184452992
+Total Debt: 95622000
+Debt To Equity: 66.394
+Current Ratio: 6.442
+Quick Ratio: 6.315
+Trailing PE: 
+Forward PE: -1.3493977
+Price To Book: 0.44129235
+Beta: 1.027
+52 Week High: 2.57
+52 Week Low: 0.882

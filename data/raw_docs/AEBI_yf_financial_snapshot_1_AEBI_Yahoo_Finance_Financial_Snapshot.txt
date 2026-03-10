@@ -1,0 +1,25 @@
+Company: Aebi Schmidt Holding AG Common Stock
+Ticker: AEBI
+Market Cap: 1032512832
+Enterprise Value: 1720232064
+Total Revenue: 1296481024
+Revenue Per Share: 26.188
+EBITDA: 94022000
+Gross Margins: 0.20186001
+Operating Margins: 0.03914
+Profit Margins: 0.00805
+Free Cashflow: 
+Operating Cashflow: 29397000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 125971000
+Total Debt: 813825024
+Debt To Equity: 100.188
+Current Ratio: 2.102
+Quick Ratio: 1.156
+Trailing PE: 95.35715
+Forward PE: 15.000001
+Price To Book: 1.2649233
+Beta: 
+52 Week High: 33.0
+52 Week Low: 8.91

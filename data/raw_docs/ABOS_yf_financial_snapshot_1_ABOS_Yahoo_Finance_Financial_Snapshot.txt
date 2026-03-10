@@ -1,0 +1,25 @@
+Company: Acumen Pharmaceuticals Inc. Common Stock
+Ticker: ABOS
+Market Cap: 200498032
+Enterprise Value: 104725040
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -138170000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -78959504
+Operating Cashflow: -123657000
+Return On Assets: -0.42226002
+Return On Equity: -0.85929
+Total Cash: 126609000
+Total Debt: 30836000
+Debt To Equity: 33.095
+Current Ratio: 6.019
+Quick Ratio: 5.799
+Trailing PE: 
+Forward PE: -1.7098079
+Price To Book: 2.1521456
+Beta: 0.21
+52 Week High: 3.41
+52 Week Low: 0.855

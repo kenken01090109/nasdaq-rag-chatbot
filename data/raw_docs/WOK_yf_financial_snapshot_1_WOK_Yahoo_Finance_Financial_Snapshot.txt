@@ -1,0 +1,25 @@
+Company: WORK Medical Technology Group LTD Class A Ordinary Shares
+Ticker: WOK
+Market Cap: 1438493
+Enterprise Value: 6508253
+Total Revenue: 9848715
+Revenue Per Share: 33.981
+EBITDA: -1572952
+Gross Margins: 0.23809
+Operating Margins: -0.17524
+Profit Margins: -0.108909994
+Free Cashflow: -5521727
+Operating Cashflow: 6244285
+Return On Assets: -0.044949997
+Return On Equity: -0.06451
+Total Cash: 4088599
+Total Debt: 6416846
+Debt To Equity: 30.319
+Current Ratio: 1.709
+Quick Ratio: 0.393
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.06270124
+Beta: 
+52 Week High: 10800.0
+52 Week Low: 1.1

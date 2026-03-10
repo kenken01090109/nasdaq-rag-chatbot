@@ -1,0 +1,10 @@
+Company: ZJK Industrial Co. Ltd. Ordinary Shares
+Ticker: ZJK
+CIK: 0001941506
+Latest SEC XBRL Facts:
+Revenues: 37809465 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 55771256 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 25704381 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 30035767 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 5342539 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 12255213 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

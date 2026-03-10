@@ -1,0 +1,8 @@
+Company: ACNB Corporation Common Stock
+Ticker: ACNB
+Total Cash: 65648000
+Total Debt: 324567008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: 40.49

@@ -1,0 +1,25 @@
+Company: Navient Corporation Common Stock
+Ticker: NAVI
+Market Cap: 789244224
+Enterprise Value: 45919969280
+Total Revenue: 330000000
+Revenue Per Share: 3.333
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.04301
+Profit Margins: -0.24242
+Free Cashflow: 
+Operating Cashflow: 441000000
+Return On Assets: -0.00159
+Return On Equity: -0.03175
+Total Cash: 679000000
+Total Debt: 45785001984
+Debt To Equity: 1908.504
+Current Ratio: 9.239
+Quick Ratio: 8.946
+Trailing PE: 
+Forward PE: 8.477779
+Price To Book: 0.3304535
+Beta: 1.298
+52 Week High: 16.07
+52 Week Low: 8.01

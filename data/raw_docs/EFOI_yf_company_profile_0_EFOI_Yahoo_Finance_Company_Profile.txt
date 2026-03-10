@@ -1,0 +1,9 @@
+Company: Energy Focus Inc. Common Stock
+Ticker: EFOI
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Solon
+Website: https://www.energyfocus.com
+Employees: 9
+Business Summary: Energy Focus, Inc., together with its subsidiaries, designs, develops, manufactures, markets, and sells energy-efficient lighting systems and controls in the United States and internationally. It offers military maritime markets light-emitting diode (LED) lighting products, such as Intellitube and Invisitube retrofit LEDs; and military-grade LED fixtures comprising globe lights, berth lights, and high-bay kits to serve the United States navy and allied foreign navies. The company also provides energy-saving GaN power supplies for efficient power delivery; and energy storage systems (ESS) and uninterruptible power supply (UPS) products designed for AI data centers. In addition, it offers commercial products, including RedCap emergency backup LED tubes; LED retrofit kits for replacing fluorescent lamps, downlights, and low/high-bay fixtures; and industrial LED dock lights. The company sells its products to commercial, industrial, and military markets through direct sales employees, lighting agents, independent sales representatives, and distributors, as well as via e-commerce channels. The company was formerly known as Fiberstars, Inc. and changed its name to Energy Focus, Inc. in May 2007. Energy Focus, Inc. was founded in 1985 and is based in Solon, Ohio.

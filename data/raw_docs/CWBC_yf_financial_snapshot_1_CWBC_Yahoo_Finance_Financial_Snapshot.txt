@@ -1,0 +1,25 @@
+Company: Community West Bancshares Common Stock
+Ticker: CWBC
+Market Cap: 437693248
+Enterprise Value: 461235232
+Total Revenue: 142914000
+Revenue Per Share: 7.523
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4195
+Profit Margins: 0.26707
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01058
+Return On Equity: 0.098850004
+Total Cash: 118984000
+Total Debt: 142526000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.42
+Forward PE: 7.626044
+Price To Book: 1.0686381
+Beta: 0.907
+52 Week High: 25.72
+52 Week Low: 15.57

@@ -1,0 +1,9 @@
+Company: Cue Biopharma Inc. Common Stock
+Ticker: CUE
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.cuebiopharma.com
+Employees: 41
+Business Summary: Cue Biopharma, Inc., a clinical-stage biopharmaceutical company, develops a novel class of injectable therapeutics to selectively engage and modulate targeted, disease relevant T cells in the United States. Its lead drug product candidate is the CUE-401, a novel approach to induce and expand antigen specific Tregs for regulating disease causing autoreactive Teff cells which is in preclinical trial; and CUE-501, a treatment of autoimmune disease via anti-viral T cell-mediated depletion of B cells. The company also develops CUE-101, which is in phase 1b clinical trial to treat HPV+ recurrent metastatic, or head and neck squamous cell carcinoma in second line, and beyond patients as a monotherapy, as well as in phase 1b clinical trial for the treatment of head and neck squamous cell carcinoma as a first line, therapy in combination with standard of care KEYTRUDA; and CUE-102, which is in phase 1b clinical trial as a monotherapy in late line recurrent metastatic WT1+ colorectal, gastric, ovarian, and pancreatic cancer. It has collaboration agreements with LG Chem, Ltd. for the development of CUE-101 and CUE-102 Immuno-STATs; collaboration and option agreement with Ono Pharmaceutical Co., Ltd to development and commercialization rights for CUE-401; and license agreement with Albert Einstein College of Medicine. The company was formerly known as Imagen Biopharma, Inc. and changed its name to Cue Biopharma, Inc. in October 2016. Cue Biopharma, Inc. was incorporated in 2014 and is headquartered in Boston, Massachusetts.

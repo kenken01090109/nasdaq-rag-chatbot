@@ -1,0 +1,10 @@
+Company: Monte Rosa Therapeutics Inc. Common Stock
+Ticker: GLUE
+CIK: 0001826457
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7509000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 459841000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 214004000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 245837000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 20216000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 208343000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

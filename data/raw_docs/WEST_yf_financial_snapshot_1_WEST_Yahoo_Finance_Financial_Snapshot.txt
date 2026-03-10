@@ -1,0 +1,25 @@
+Company: Westrock Coffee Company Common Stock
+Ticker: WEST
+Market Cap: 377617152
+Enterprise Value: 1316623616
+Total Revenue: 1078456960
+Revenue Per Share: 11.389
+EBITDA: 17874000
+Gross Margins: 0.13898
+Operating Margins: -0.01577
+Profit Margins: -0.085760005
+Free Cashflow: -43013500
+Operating Cashflow: -52923000
+Return On Assets: -0.01904
+Return On Equity: -0.27638
+Total Cash: 33971000
+Total Debt: 697451008
+Debt To Equity: 244.692
+Current Ratio: 1.024
+Quick Ratio: 0.346
+Trailing PE: 
+Forward PE: 21.666666
+Price To Book: 33.05085
+Beta: 0.494
+52 Week High: 7.92
+52 Week Low: 3.59

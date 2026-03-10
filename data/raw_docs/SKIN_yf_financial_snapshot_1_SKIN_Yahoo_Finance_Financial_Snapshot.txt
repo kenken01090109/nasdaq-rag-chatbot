@@ -1,0 +1,25 @@
+Company: The Beauty Health Company Class A Common Stock
+Ticker: SKIN
+Market Cap: 145353488
+Enterprise Value: 305661472
+Total Revenue: 301916992
+Revenue Per Share: 2.403
+EBITDA: -1565000
+Gross Margins: 0.64809996
+Operating Margins: -0.08834
+Profit Margins: -0.038900003
+Free Cashflow: 38126752
+Operating Cashflow: 38761000
+Return On Assets: -0.02922
+Return On Equity: -0.18733999
+Total Cash: 217396992
+Total Debt: 378980000
+Debt To Equity: 577.186
+Current Ratio: 4.981
+Quick Ratio: 3.922
+Trailing PE: 
+Forward PE: 7.5999994
+Price To Book: 2.2093024
+Beta: 1.211
+52 Week High: 2.69
+52 Week Low: 0.78

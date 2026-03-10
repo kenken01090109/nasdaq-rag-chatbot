@@ -1,0 +1,11 @@
+Company: Otter Tail Corporation Common Stock
+Ticker: OTTR
+CIK: 0001466593
+Latest SEC XBRL Facts:
+Revenues: 995654000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 995959000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 224119000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3843823000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1831451000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 288949000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 325786000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

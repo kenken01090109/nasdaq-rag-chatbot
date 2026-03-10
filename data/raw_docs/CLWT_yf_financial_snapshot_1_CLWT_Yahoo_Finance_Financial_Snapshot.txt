@@ -1,0 +1,25 @@
+Company: Euro Tech Holdings Company Limited Common Stock
+Ticker: CLWT
+Market Cap: 10511245
+Enterprise Value: 7085946
+Total Revenue: 14012000
+Revenue Per Share: 1.823
+EBITDA: 409500
+Gross Margins: 0.31123
+Operating Margins: -0.0625
+Profit Margins: 0.04018
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01258
+Return On Equity: 0.04867
+Total Cash: 4493000
+Total Debt: 222000
+Debt To Equity: 1.356
+Current Ratio: 2.454
+Quick Ratio: 1.776
+Trailing PE: 19.714285
+Forward PE: 
+Price To Book: 0.67547727
+Beta: 0.981
+52 Week High: 1.63
+52 Week Low: 0.99

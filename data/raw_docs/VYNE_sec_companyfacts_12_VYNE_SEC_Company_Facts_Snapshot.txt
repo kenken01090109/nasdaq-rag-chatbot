@@ -1,0 +1,12 @@
+Company: VYNE Therapeutics Inc. Common Stock
+Ticker: VYNE
+CIK: 0001566044
+Latest SEC XBRL Facts:
+Revenues: 4286000 | unit=USD | filed=2021-03-04 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 271000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetIncomeLoss: -14366000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Assets: 44718000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+Liabilities: 5836000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+StockholdersEquity: 38882000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -22264000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 22047000 | unit=USD | filed=2025-08-14 | period_end=2025-06-30

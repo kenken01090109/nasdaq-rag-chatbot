@@ -1,0 +1,9 @@
+Company: USA Rare Earth Inc. Class A Common Stock
+Ticker: USAR
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: United States
+City: Stillwater
+Website: https://www.usare.com
+Employees: 30
+Business Summary: USA Rare Earth, Inc. engages in mining, processing, and supplying rare earths and other critical minerals in the United States. It explores for neodymium, dysprosium, terbium, gallium, beryllium, lithium, and other critical minerals. The company holds interests in the Round Top Mountain located near Sierra Blanca, Texas. USA Rare Earth, Inc. was founded in 2019 and is based in Stillwater, Oklahoma.

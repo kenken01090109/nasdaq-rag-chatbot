@@ -1,0 +1,25 @@
+Company: Skyworks Solutions Inc. Common Stock
+Ticker: SWKS
+Market Cap: 8241977856
+Enterprise Value: 8127301632
+Total Revenue: 4053799936
+Revenue Per Share: 26.727
+EBITDA: 945699968
+Gross Margins: 0.41132
+Operating Margins: 0.14709
+Profit Margins: 0.097270004
+Free Cashflow: 1099687552
+Operating Cashflow: 1319100032
+Return On Assets: 0.03714
+Return On Equity: 0.06485
+Total Cash: 1558700032
+Total Debt: 1192899968
+Debt To Equity: 20.714
+Current Ratio: 2.396
+Quick Ratio: 1.511
+Trailing PE: 21.000002
+Forward PE: 10.946302
+Price To Book: 1.4266751
+Beta: 1.297
+52 Week High: 90.9
+52 Week Low: 47.93

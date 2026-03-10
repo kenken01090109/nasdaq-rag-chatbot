@@ -1,0 +1,11 @@
+Company: StepStone Group Inc. Class A Common Stock
+Ticker: STEP
+CIK: 0001796022
+Latest SEC XBRL Facts:
+Revenues: 1405023000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -528017000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 5241454000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 4722001000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: -378794000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 89681000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 143562000 | unit=USD | filed=2022-11-07 | period_end=2022-09-30

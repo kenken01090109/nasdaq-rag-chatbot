@@ -1,0 +1,25 @@
+Company: Intrusion Inc. Common Stock
+Ticker: INTZ
+Market Cap: 21309116
+Enterprise Value: 18176086
+Total Revenue: 7290000
+Revenue Per Share: 0.433
+EBITDA: -7063000
+Gross Margins: 0.75912005
+Operating Margins: -1.08647
+Profit Margins: -1.12359
+Free Cashflow: -7265625
+Operating Cashflow: -6406000
+Return On Assets: -0.48716998
+Return On Equity: -1.32369
+Total Cash: 4527000
+Total Debt: 1595000
+Debt To Equity: 16.261
+Current Ratio: 3.109
+Quick Ratio: 2.836
+Trailing PE: 
+Forward PE: -3.3650792
+Price To Book: 2.172131
+Beta: -2.035
+52 Week High: 2.64
+52 Week Low: 0.75

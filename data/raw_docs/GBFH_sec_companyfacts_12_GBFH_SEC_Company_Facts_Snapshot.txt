@@ -1,0 +1,9 @@
+Company: GBank Financial Holdings Inc. Common Stock
+Ticker: GBFH
+CIK: 0001791145
+Latest SEC XBRL Facts:
+NetIncomeLoss: 13533000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 1301378000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 1143185000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 158193000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17027000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

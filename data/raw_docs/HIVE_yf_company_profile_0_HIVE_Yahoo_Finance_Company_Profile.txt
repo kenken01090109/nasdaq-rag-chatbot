@@ -1,0 +1,9 @@
+Company: HIVE Digital Technologies Ltd. Common Shares
+Ticker: HIVE
+Sector: Financial Services
+Industry: Capital Markets
+Country: United States
+City: San Antonio
+Website: https://hivedigitaltechnologies.com
+Employees: 24
+Business Summary: HIVE Digital Technologies Ltd., a technology company, engages in the building and operating data centers powered by green energy in Bermuda and Paraguay. The Company operates the mining and sale of digital currencies and performance computing hosting. It also provides infrastructure solutions, such as computational capacity to distributed networks in the blockchain industry. The company was formerly known as HIVE Blockchain Technologies Ltd. and changed its name to HIVE Digital Technologies Ltd. in July 2023. HIVE Digital Technologies Ltd. was incorporated in 1987 and is headquartered in San Antonio, Texas.

@@ -1,0 +1,25 @@
+Company: ImmunityBio Inc. Common Stock
+Ticker: IBRX
+Market Cap: 8913726464
+Enterprise Value: 9516523520
+Total Revenue: 113288000
+Revenue Per Share: 0.123
+EBITDA: -240602000
+Gross Margins: 0.99334997
+Operating Margins: -1.68951
+Profit Margins: 0.0
+Free Cashflow: -213356992
+Operating Cashflow: -304936000
+Return On Assets: -0.36168998
+Return On Equity: 
+Total Cash: 242818000
+Total Debt: 844720000
+Debt To Equity: 
+Current Ratio: 5.099
+Quick Ratio: 4.622
+Trailing PE: 
+Forward PE: 216.75
+Price To Book: -17.515152
+Beta: -0.076
+52 Week High: 12.43
+52 Week Low: 1.83

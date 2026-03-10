@@ -1,0 +1,11 @@
+Company: Krispy Kreme Inc. Common Stock
+Ticker: DNUT
+CIK: 0001857154
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1130249000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetIncomeLoss: -487988000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Assets: 2599845000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Liabilities: 1906003000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+StockholdersEquity: 670266000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: -11095000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 30707000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28

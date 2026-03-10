@@ -1,0 +1,10 @@
+Company: Adagene Inc. American Depositary Shares
+Ticker: ADAG
+Market Cap: 142336448
+Enterprise Value: 121942320
+Trailing PE: 
+Forward PE: -4.194444
+Price To Book: 3.7562187
+Beta: 0.789
+52 Week High: 3.53
+52 Week Low: 1.3

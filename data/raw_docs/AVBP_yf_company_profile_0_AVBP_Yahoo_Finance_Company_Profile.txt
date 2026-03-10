@@ -1,0 +1,9 @@
+Company: ArriVent BioPharma Inc. Common Stock
+Ticker: AVBP
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Newtown Square
+Website: https://arrivent.com
+Employees: 
+Business Summary: ArriVent BioPharma, Inc., a clinical-stage biopharmaceutical company, engages in the identification, development, and commercialization of medicines for the unmet medical needs of patients with cancers. The company's lead development candidate is firmonertinib, a tyrosine kinase inhibitor that is being evaluated in multiple clinical trials across a range of epidermal growth factor receptor mutations (EGFRm) in non-small cell lung cancer (NSCLC), including a Phase 3 clinical trial for treatment of patients with advanced or metastatic EGFRm NSCLC with exon 20 insertion mutations, as well as Phase 1b clinical trials to treat NSCLC patients with activating EGFRm, including P-loop and-alpha-c-helix compressing (PACC) mutations, and classical EGFRm NSCLC patients. It is also developing ARR-217, an antibody drug conjugate (ADC) for the treatment of gastrointestinal cancers; and ARR-002 for solid tumors. The company has strategic collaborations with Aarvik Therapeutics Inc., Shanghai Allist Pharmaceuticals Co., Ltd., Beijing InnoCare Pharma Tech Co., Ltd., Jiangsu Alphamab Biopharmaceuticals Co., Ltd., and Lepu Biopharma Co. Ltd. ArriVent BioPharma, Inc. was incorporated in 2021 and is based in Newtown Square, Pennsylvania.

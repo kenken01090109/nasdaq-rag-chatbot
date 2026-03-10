@@ -1,0 +1,25 @@
+Company: Zentalis Pharmaceuticals Inc. Common Stock
+Ticker: ZNTL
+Market Cap: 148603040
+Enterprise Value: -82372048
+Total Revenue: 26865000
+Revenue Per Share: 0.374
+EBITDA: -151632992
+Gross Margins: 1.0
+Operating Margins: -5.6777196
+Profit Margins: 0.0
+Free Cashflow: -62706500
+Operating Cashflow: -134009000
+Return On Assets: -0.2451
+Return On Equity: -0.49181
+Total Cash: 280696992
+Total Debt: 40457000
+Debt To Equity: 15.999
+Current Ratio: 7.757
+Quick Ratio: 7.552
+Trailing PE: 
+Forward PE: -1.266207
+Price To Book: 0.65571433
+Beta: 1.714
+52 Week High: 3.95
+52 Week Low: 1.01

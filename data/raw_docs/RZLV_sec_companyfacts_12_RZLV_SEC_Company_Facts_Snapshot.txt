@@ -1,0 +1,11 @@
+Company: Rezolve AI PLC Ordinary Shares
+Ticker: RZLV
+CIK: 0001920294
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 187788 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+NetIncomeLoss: -172646790 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+Assets: 19788157 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+Liabilities: 57784739 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+StockholdersEquity: -37996582 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -21642715 | unit=USD | filed=2025-04-24 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 9500000 | unit=USD | filed=2025-04-24 | period_end=2024-12-31

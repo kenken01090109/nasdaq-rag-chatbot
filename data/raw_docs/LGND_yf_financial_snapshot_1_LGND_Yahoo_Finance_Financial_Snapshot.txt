@@ -1,0 +1,25 @@
+Company: Ligand Pharmaceuticals Incorporated Common Stock
+Ticker: LGND
+Market Cap: 4026116096
+Enterprise Value: 3831279104
+Total Revenue: 268087008
+Revenue Per Share: 13.863
+EBITDA: 80974000
+Gross Margins: 0.6589
+Operating Margins: 0.33587003
+Profit Margins: 0.46423
+Free Cashflow: 87089504
+Operating Cashflow: 49359000
+Return On Assets: 0.02358
+Return On Equity: 0.13471
+Total Cash: 733521024
+Total Debt: 451540992
+Debt To Equity: 44.39
+Current Ratio: 22.225
+Quick Ratio: 21.827
+Trailing PE: 32.93638
+Forward PE: 20.82158
+Price To Book: 3.9248083
+Beta: 1.035
+52 Week High: 212.49
+52 Week Low: 93.58

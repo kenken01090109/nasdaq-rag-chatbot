@@ -1,0 +1,10 @@
+Company: BioLife Solutions Inc. Common Stock
+Ticker: BLFS
+CIK: 0000834365
+Latest SEC XBRL Facts:
+NetIncomeLoss: -15665000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 392081000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 38342000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 353739000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15199000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29481000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

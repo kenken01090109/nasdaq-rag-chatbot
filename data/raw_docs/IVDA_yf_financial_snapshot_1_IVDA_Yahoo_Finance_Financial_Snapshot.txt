@@ -1,0 +1,25 @@
+Company: Iveda Solutions Inc. Common Stock
+Ticker: IVDA
+Market Cap: 3464459
+Enterprise Value: -709244
+Total Revenue: 6395926
+Revenue Per Share: 2.256
+EBITDA: -3079256
+Gross Margins: 0.22801
+Operating Margins: -0.12974
+Profit Margins: -0.48313
+Free Cashflow: -1383623
+Operating Cashflow: -2664895
+Return On Assets: -0.26139
+Return On Equity: -0.66457003
+Total Cash: 3298474
+Total Debt: 769235
+Debt To Equity: 20.414
+Current Ratio: 3.476
+Quick Ratio: 2.932
+Trailing PE: 
+Forward PE: 0.16902173
+Price To Book: 0.36804733
+Beta: 0.767
+52 Week High: 3.55
+52 Week Low: 0.22

@@ -1,0 +1,25 @@
+Company: Purple Biotech Ltd. American Depositary Shares
+Ticker: PPBT
+Market Cap: 4959382
+Enterprise Value: 4340055552
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -4991000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -1742125
+Operating Cashflow: -6603000
+Return On Assets: -0.084759995
+Return On Equity: -0.104849994
+Total Cash: 10454000
+Total Debt: 256000
+Debt To Equity: 0.78
+Current Ratio: 1.779
+Quick Ratio: 1.726
+Trailing PE: 
+Forward PE: -0.24740934
+Price To Book: 132.6389
+Beta: -0.741
+52 Week High: 30.5
+52 Week Low: 3.98

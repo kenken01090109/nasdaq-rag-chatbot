@@ -1,0 +1,9 @@
+Company: The GrowHub Limited Class A Ordinary Shares
+Ticker: TGHL
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Singapore
+City: Singapore
+Website: https://thegrowhub.co
+Employees: 12
+Business Summary: The Growhub Limited operates as an investment holding company that provides product traceability, data analytics, and product trading facilitation solutions in Singapore and internationally. It offers GrowHub Platform, a Software-as-a-Service solution that enables organizations to track products at various stage of the supply chain from raw materials to the final product; anti-counterfeit solution, a tool for organizations to help brands combat the growing issue of counterfeiting and prevent damaged brand's reputation, lost revenue, and loss of customer trust; and carbon management solution, which enables organizations to track, monitor, and measure carbon emissions or offsets. The company also provides software development and consultancy services; trades in food, agriculture, skincare, and other products through retail outlets and online channels; offers rental and auxiliary services, as well as blockchain services. The company was incorporated in 2024 and is based in Singapore.

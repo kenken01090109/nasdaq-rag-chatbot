@@ -1,0 +1,11 @@
+Company: lululemon athletica inc. Common Stock
+Ticker: LULU
+CIK: 0001397187
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 7461799000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+NetIncomeLoss: 992312000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+Assets: 7955192000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+Liabilities: 3453169000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+StockholdersEquity: 4502023000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+NetCashProvidedByUsedInOperatingActivities: 459606000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+CashAndCashEquivalentsAtCarryingValue: 703607000 | unit=USD | filed=2018-12-06 | period_end=2018-10-28

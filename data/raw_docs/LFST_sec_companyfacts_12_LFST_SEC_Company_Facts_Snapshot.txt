@@ -1,0 +1,12 @@
+Company: LifeStance Health Group Inc. Common Stock
+Ticker: LFST
+CIK: 0001845257
+Latest SEC XBRL Facts:
+Revenues: 1042090000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1445000 | unit=USD | filed=2021-11-10 | period_end=2021-09-30
+NetIncomeLoss: -2005000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2148969000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 656228000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1492741000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 88591000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 203903000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

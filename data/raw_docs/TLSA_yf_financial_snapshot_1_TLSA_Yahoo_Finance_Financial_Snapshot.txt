@@ -1,0 +1,25 @@
+Company: Tiziana Life Sciences Ltd. Common Shares
+Ticker: TLSA
+Market Cap: 176873888
+Enterprise Value: 163962576
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -18464000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3856625
+Operating Cashflow: -8749000
+Return On Assets: -0.83782
+Return On Equity: -2.32311
+Total Cash: 7251000
+Total Debt: 107000
+Debt To Equity: 1.163
+Current Ratio: 1.719
+Quick Ratio: 1.649
+Trailing PE: 
+Forward PE: -7.031912
+Price To Book: 18.051949
+Beta: 0.259
+52 Week High: 2.6
+52 Week Low: 0.73

@@ -1,0 +1,10 @@
+Company: ESH Acquisition Corp. Class A Common Stock
+Ticker: ESHA
+CIK: 0001918661
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2081973 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 8826392 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 2585746 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: -2312581 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1604804 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 135578 | unit=USD | filed=2025-11-17 | period_end=2025-09-30

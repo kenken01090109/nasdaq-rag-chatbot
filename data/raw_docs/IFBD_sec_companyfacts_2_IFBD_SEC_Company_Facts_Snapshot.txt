@@ -1,0 +1,11 @@
+Company: Infobird Co. Ltd Ordinary Shares
+Ticker: IFBD
+CIK: 0001815566
+Latest SEC XBRL Facts:
+Revenues: 1437848 | unit=USD | filed=2025-08-12 | period_end=2024-12-31
+NetIncomeLoss: -2100495 | unit=USD | filed=2025-08-12 | period_end=2024-12-31
+Assets: 73777893 | unit=USD | filed=2025-08-12 | period_end=2024-12-31
+Liabilities: 6976176 | unit=USD | filed=2025-08-12 | period_end=2024-12-31
+StockholdersEquity: 64772183 | unit=USD | filed=2025-08-12 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 3251888 | unit=USD | filed=2025-08-12 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 6293415 | unit=USD | filed=2022-05-16 | period_end=2021-12-31

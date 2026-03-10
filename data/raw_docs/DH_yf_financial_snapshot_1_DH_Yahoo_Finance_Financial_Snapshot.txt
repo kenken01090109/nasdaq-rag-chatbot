@@ -1,0 +1,25 @@
+Company: Definitive Healthcare Corp. Class A Common Stock
+Ticker: DH
+Market Cap: 123277392
+Enterprise Value: 216994288
+Total Revenue: 241520992
+Revenue Per Share: 2.265
+EBITDA: 35527000
+Gross Margins: 0.84285
+Operating Margins: -0.10913
+Profit Margins: -0.57523996
+Free Cashflow: 67928624
+Operating Cashflow: 53777000
+Return On Assets: -0.014099999
+Return On Equity: -0.40418
+Total Cash: 181007008
+Total Debt: 172666000
+Debt To Equity: 45.559
+Current Ratio: 1.643
+Quick Ratio: 1.489
+Trailing PE: 
+Forward PE: 5.8633537
+Price To Book: 0.43671355
+Beta: 1.661
+52 Week High: 4.7
+52 Week Low: 1.07

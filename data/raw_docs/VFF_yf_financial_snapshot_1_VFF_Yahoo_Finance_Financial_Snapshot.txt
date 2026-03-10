@@ -1,0 +1,25 @@
+Company: Village Farms International Inc. Common Shares
+Ticker: VFF
+Market Cap: 391605248
+Enterprise Value: 357073056
+Total Revenue: 351979008
+Revenue Per Share: 3.128
+EBITDA: 25039000
+Gross Margins: 0.21981001
+Operating Margins: 0.24481001
+Profit Margins: 0.060749996
+Free Cashflow: 38875752
+Operating Cashflow: 41251000
+Return On Assets: 0.00981
+Return On Equity: 0.01774
+Total Cash: 82561000
+Total Debt: 39187000
+Debt To Equity: 12.833
+Current Ratio: 2.777
+Quick Ratio: 2.03
+Trailing PE: 67.8
+Forward PE: 16.142859
+Price To Book: 1.3195796
+Beta: 1.296
+52 Week High: 4.99
+52 Week Low: 0.452

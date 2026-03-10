@@ -1,0 +1,25 @@
+Company: Valley National Bancorp 6.25% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: VLYPP
+Market Cap: 3127824128
+Enterprise Value: 16199314432
+Total Revenue: 1844204032
+Revenue Per Share: 3.295
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46485
+Profit Margins: 0.32424998
+Free Cashflow: 
+Operating Cashflow: 343832000
+Return On Assets: 0.00944
+Return On Equity: 0.07846
+Total Cash: 1766237952
+Total Debt: 3614467072
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 22.702703
+Forward PE: 
+Price To Book: 1.8820015
+Beta: 1.065
+52 Week High: 26.11
+52 Week Low: 21.71

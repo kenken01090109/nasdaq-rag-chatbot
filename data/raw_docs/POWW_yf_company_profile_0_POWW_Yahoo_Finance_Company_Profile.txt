@@ -1,0 +1,9 @@
+Company: Outdoor Holding Company Common Stock
+Ticker: POWW
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Atlanta
+Website: https://outdoorholding.com
+Employees: 81
+Business Summary: Outdoor Holding Company engages in online marketplace business. It owns and operates the GunBroker e-commerce marketplace, an auction site that supports the lawful sale of firearms, ammunition, and hunting/shooting accessories. The company is also involved in banner advertising campaign activities. Outdoor Holding Company was formerly known as AMMO, Inc. and changed its name to Outdoor Holding Company in April 2025. Outdoor Holding Company is headquartered in Atlanta, Georgia.

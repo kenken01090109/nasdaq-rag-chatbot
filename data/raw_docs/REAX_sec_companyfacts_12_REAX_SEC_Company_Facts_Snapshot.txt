@@ -1,0 +1,12 @@
+Company: The Real Brokerage Inc. Common Shares
+Ticker: REAX
+CIK: 0001862461
+Latest SEC XBRL Facts:
+Revenues: 1463277000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1463277000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -3902000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 145215000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 91622000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 53640000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 65777000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36427000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

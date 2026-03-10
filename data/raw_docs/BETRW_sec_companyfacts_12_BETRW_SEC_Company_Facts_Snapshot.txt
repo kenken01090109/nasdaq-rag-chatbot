@@ -1,0 +1,11 @@
+Company: Better Home & Finance Holding Company Warrant
+Ticker: BETRW
+CIK: 0001835856
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2023-11-14 | period_end=2023-09-30
+NetIncomeLoss: -125952000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1384134000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1342222000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 41912000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -109305000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 73893000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

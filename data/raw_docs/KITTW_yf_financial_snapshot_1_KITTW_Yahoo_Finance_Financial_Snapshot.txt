@@ -1,0 +1,25 @@
+Company: Nauticus Robotics Inc. Warrant
+Ticker: KITTW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 4688840
+Revenue Per Share: 1.95
+EBITDA: -21997312
+Gross Margins: -1.3726
+Operating Margins: -2.9734602
+Profit Margins: 0.0
+Free Cashflow: -7849713
+Operating Cashflow: -23017076
+Return On Assets: -0.44424
+Return On Equity: 
+Total Cash: 5492350
+Total Debt: 30919308
+Debt To Equity: 
+Current Ratio: 0.206
+Quick Ratio: 0.148
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.093447745
+Beta: -0.122
+52 Week High: 0.0599
+52 Week Low: 0.0551

@@ -1,0 +1,25 @@
+Company: American Public Education Inc. Common Stock
+Ticker: APEI
+Market Cap: 814007168
+Enterprise Value: 794511552
+Total Revenue: 654641984
+Revenue Per Share: 36.555
+EBITDA: 73996000
+Gross Margins: 0.54215
+Operating Margins: 0.0842
+Profit Margins: 0.04875
+Free Cashflow: 81613248
+Operating Cashflow: 75115000
+Return On Assets: 0.06634
+Return On Equity: 0.11201999
+Total Cash: 191344992
+Total Debt: 166243008
+Debt To Equity: 59.514
+Current Ratio: 2.835
+Quick Ratio: 2.658
+Trailing PE: 34.35878
+Forward PE: 16.487179
+Price To Book: 2.9132686
+Beta: 1.664
+52 Week High: 47.27
+52 Week Low: 20.75

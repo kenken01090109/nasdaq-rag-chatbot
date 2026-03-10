@@ -1,0 +1,9 @@
+Company: PureCycle Technologies Inc. Common stock
+Ticker: PCT
+Sector: Industrials
+Industry: Pollution & Treatment Controls
+Country: United States
+City: Orlando
+Website: https://www.purecycle.com
+Employees: 174
+Business Summary: PureCycle Technologies, Inc. engages in the production of recycled polypropylene (PP). The company holds a license for restoring waste PP into ultra-pure recycled PP resin, PureFive, which has various applications, including packaging and labeling for consumer products, textiles, and plastic parts for various industries. Its recycling process separates color, odor, other plastics, and additives through a physical separation process. The company was founded in 2015 and is headquartered in Orlando, Florida.

@@ -1,0 +1,25 @@
+Company: Zhibao Technology Inc. Class A Ordinary Shares
+Ticker: ZBAO
+Market Cap: 35926884
+Enterprise Value: 53833744
+Total Revenue: 276936032
+Revenue Per Share: 8.658
+EBITDA: -53447516
+Gross Margins: 0.41009
+Operating Margins: -0.43919
+Profit Margins: -0.22395
+Free Cashflow: 35440776
+Operating Cashflow: -20676488
+Return On Assets: -0.17632
+Return On Equity: -1.39866
+Total Cash: 10284108
+Total Debt: 27522268
+Debt To Equity: 111.454
+Current Ratio: 1.003
+Quick Ratio: 0.866
+Trailing PE: 
+Forward PE: 
+Price To Book: 9.93217
+Beta: 
+52 Week High: 2.14
+52 Week Low: 0.64

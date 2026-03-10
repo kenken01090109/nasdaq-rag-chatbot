@@ -1,0 +1,11 @@
+Company: Airgain Inc. Common Stock
+Ticker: AIRG
+CIK: 0001272842
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 39654000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -3985000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 45544000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 15809000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 29735000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1307000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7091000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

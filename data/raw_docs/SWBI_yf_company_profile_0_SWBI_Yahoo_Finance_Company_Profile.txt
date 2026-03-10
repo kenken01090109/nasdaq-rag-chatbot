@@ -1,0 +1,9 @@
+Company: Smith & Wesson Brands Inc. Common Stock
+Ticker: SWBI
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Maryville
+Website: https://www.smith-wesson.com
+Employees: 1405
+Business Summary: Smith & Wesson Brands, Inc. designs, manufactures, and sells firearms worldwide. The company offers handguns, including revolvers and pistols; long guns, such as modern sporting rifles, pistol caliber carbines, and lever-action rifles; handcuffs; suppressors; and other firearm-related products. It also provides manufacturing services comprising forging, heat treating, rapid prototyping, tooling, finishing, plating, machining, and custom plastic injection molding, assembly, and distribution services to other businesses; and sells parts purchased through third parties. The company sells its products to firearm enthusiasts, collectors, hunters, sportsmen, competitive shooters, individuals desiring home and personal protection, law enforcement, security agencies and officers, and military agencies. It markets its products through independent dealers, retailers, in-store retails, and direct to consumers, and rangeoperations; print, broadcast, and digital advertising campaigns; social and electronic media; and in-store retail merchandising strategies. Smith & Wesson Brands, Inc. was founded in 1852 and is based in Maryville, Tennessee.

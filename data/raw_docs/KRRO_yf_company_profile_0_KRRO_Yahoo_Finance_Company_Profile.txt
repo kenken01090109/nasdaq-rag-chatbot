@@ -1,0 +1,9 @@
+Company: Korro Bio Inc. Common Stock
+Ticker: KRRO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.korrobio.com
+Employees: 87
+Business Summary: Korro Bio, Inc., a biopharmaceutical company, engages in the discovering, developing, and commercializing of genetic medicines based on editing RNA for the treatment of rare and highly prevalent diseases in the United States. Its lead product candidate is KRRO-110 which is in Phase 1/2 clinical trial for the treatment of Alpha-1 Antitrypsin Deficiency (AATD). It uses its RNA editing platform, Oligonucleotide Promoted Editing of RNA to generate differentiated RNA editing product candidates. The company is also developing programs for Parkinson's disease, Amyotrophic lateral sclerosis, severe drug-associated anesthetics, and other pain indications. Korro Bio, Inc. has a collaboration agreement with Novo Nordisk A/S to treat cardiometabolic diseases. Korro Bio, Inc. was founded in 2018 and is based in Cambridge, Massachusetts.

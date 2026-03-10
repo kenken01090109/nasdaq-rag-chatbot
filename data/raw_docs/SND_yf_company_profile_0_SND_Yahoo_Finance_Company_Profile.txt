@@ -1,0 +1,9 @@
+Company: Smart Sand Inc. Common Stock
+Ticker: SND
+Sector: Energy
+Industry: Oil & Gas Equipment & Services
+Country: United States
+City: Yardley
+Website: https://www.smartsand.com
+Employees: 
+Business Summary: Smart Sand, Inc. provides mine to wellsite proppant supply and logistics solutions to frac sand customers. The company operates through Sand Segment and SmartSystems Segment. It offers excavation, processing, and sale of white sands or proppant for use in hydraulic fracturing operations. The company also provides proppant logistics services wellsite storage solutions through in-basin transloading terminals and SmartSystems wellsite proppant storage capabilities. It sells its products primarily to oil and natural gas exploration and production companies, oilfield service companies, and industrial manufacturers. Smart Sand, Inc. was incorporated in 2011 and is headquartered in Yardley, Pennsylvania.

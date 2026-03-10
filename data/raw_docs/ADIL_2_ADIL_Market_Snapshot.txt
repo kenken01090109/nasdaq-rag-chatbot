@@ -1,0 +1,10 @@
+Company: Adial Pharmaceuticals Inc Common Stock
+Ticker: ADIL
+Market Cap: 2189005
+Enterprise Value: -2716068
+Trailing PE: 
+Forward PE: -0.4070248
+Price To Book: 0.41693124
+Beta: 1.32
+52 Week High: 30.25
+52 Week Low: 1.88

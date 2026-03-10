@@ -1,0 +1,12 @@
+Company: CarParts.com Inc. Common Stock
+Ticker: PRTS
+CIK: 0001378950
+Latest SEC XBRL Facts:
+Revenues: 217698000 | unit=USD | filed=2019-11-01 | period_end=2019-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 427096000 | unit=USD | filed=2025-11-10 | period_end=2025-09-27
+NetIncomeLoss: -38879000 | unit=USD | filed=2025-11-10 | period_end=2025-09-27
+Assets: 200278000 | unit=USD | filed=2025-11-10 | period_end=2025-09-27
+Liabilities: 136121000 | unit=USD | filed=2025-11-10 | period_end=2025-09-27
+StockholdersEquity: 64157000 | unit=USD | filed=2025-11-10 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -26477000 | unit=USD | filed=2025-11-10 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 35802000 | unit=USD | filed=2021-03-16 | period_end=2021-01-02

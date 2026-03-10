@@ -1,0 +1,9 @@
+Company: CID HoldCo Inc. Warrants
+Ticker: DAICW
+Sector: 
+Industry: 
+Country: United States
+City: Bethesda
+Website: https://seeidinc.com
+Employees: 
+Business Summary: CID HoldCo, Inc. provides asset tracking and workflow management solutions for operations intensive enterprises. Its solutions offer safety and assurance for enterprise processes. The company is based in Bethesda, Maryland.

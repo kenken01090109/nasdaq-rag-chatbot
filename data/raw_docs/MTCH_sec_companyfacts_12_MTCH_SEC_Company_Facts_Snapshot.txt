@@ -1,0 +1,11 @@
+Company: Match Group Inc. Common Stock
+Ticker: MTCH
+CIK: 0000891103
+Latest SEC XBRL Facts:
+Revenues: 2609191000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2609191000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -211040000 | unit=USD | filed=2020-05-08 | period_end=2020-03-31
+Assets: 4543439000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -223936000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 757600000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1053240000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Assertio Holdings Inc. Common Stock
+Ticker: ASRT
+CIK: 0001808665
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 105171000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -18448000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 319775000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 213972000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 105803000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1786000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38500000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

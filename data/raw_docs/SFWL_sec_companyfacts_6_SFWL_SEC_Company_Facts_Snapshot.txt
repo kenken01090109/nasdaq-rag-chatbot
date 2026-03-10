@@ -1,0 +1,11 @@
+Company: Shengfeng Development Limited Class A Ordinary Shares
+Ticker: SFWL
+CIK: 0001863218
+Latest SEC XBRL Facts:
+Revenues: 263434000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+NetIncomeLoss: 5863000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+Assets: 296437000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+Liabilities: 166266000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+StockholdersEquity: 123514000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -14542000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 14327000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30

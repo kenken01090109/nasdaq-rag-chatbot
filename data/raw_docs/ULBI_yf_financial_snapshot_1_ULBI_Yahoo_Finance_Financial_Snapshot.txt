@@ -1,0 +1,25 @@
+Company: Ultralife Corporation Common Stock
+Ticker: ULBI
+Market Cap: 87406968
+Enterprise Value: 132449952
+Total Revenue: 186530000
+Revenue Per Share: 11.212
+EBITDA: 12411000
+Gross Margins: 0.23891
+Operating Margins: -0.00823
+Profit Margins: 0.00921
+Free Cashflow: -1115125
+Operating Cashflow: 12547000
+Return On Assets: 0.0223
+Return On Equity: 0.01275
+Total Cash: 9260000
+Total Debt: 53800000
+Debt To Equity: 39.146
+Current Ratio: 2.986
+Quick Ratio: 1.193
+Trailing PE: 52.5
+Forward PE: 5.8333335
+Price To Book: 0.63674957
+Beta: 0.825
+52 Week High: 9.52
+52 Week Low: 4.07

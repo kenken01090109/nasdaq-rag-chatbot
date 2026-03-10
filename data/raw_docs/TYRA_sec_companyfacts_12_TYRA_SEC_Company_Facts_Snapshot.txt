@@ -1,0 +1,10 @@
+Company: Tyra Biosciences Inc. Common Stock
+Ticker: TYRA
+CIK: 0001863127
+Latest SEC XBRL Facts:
+NetIncomeLoss: -86113000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 301851000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 21342000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 280509000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -71518000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 61951000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

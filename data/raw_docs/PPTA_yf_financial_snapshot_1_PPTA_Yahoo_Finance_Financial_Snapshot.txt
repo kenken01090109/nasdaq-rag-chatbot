@@ -1,0 +1,25 @@
+Company: Perpetua Resources Corp. Common Shares
+Ticker: PPTA
+Market Cap: 4006409984
+Enterprise Value: 3504108032
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -74995848
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -62575000
+Operating Cashflow: -44353540
+Return On Assets: -0.14807999
+Return On Equity: -0.14538999
+Total Cash: 445834272
+Total Debt: 48706
+Debt To Equity: 0.009
+Current Ratio: 42.247
+Quick Ratio: 41.172
+Trailing PE: 
+Forward PE: -473.23526
+Price To Book: 6.5102167
+Beta: 0.545
+52 Week High: 37.37
+52 Week Low: 8.06

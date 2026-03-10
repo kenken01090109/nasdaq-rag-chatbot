@@ -1,0 +1,9 @@
+Company: Atara Biotherapeutics Inc. Common Stock
+Ticker: ATRA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Thousand Oaks
+Website: https://www.atarabio.com
+Employees: 38
+Business Summary: Atara Biotherapeutics, Inc. engages in the development of transformative therapies for patients with cancer and autoimmune disease in the United States and the United Kingdom. Its lead product includes Tab-cel (tabelecleucel), a T-cell immunotherapy program that is in Phase 3 clinical trials for the treatment of epstein-barr virus (EBV) with post-transplant lymphoproliferative disease, as well as other EBV-driven diseases. The company has research collaboration agreements with Memorial Sloan Kettering Cancer Center, and Council of the Queensland Institute of Medical Research. Atara Biotherapeutics, Inc. was incorporated in 2012 and is headquartered in Thousand Oaks, California.

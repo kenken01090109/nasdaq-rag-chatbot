@@ -1,0 +1,25 @@
+Company: Syntec Optics Holdings Inc. Class A Common Stock
+Ticker: OPTX
+Market Cap: 235920256
+Enterprise Value: 261478944
+Total Revenue: 27900396
+Revenue Per Share: 0.757
+EBITDA: 406170
+Gross Margins: 0.20601
+Operating Margins: -0.17533001
+Profit Margins: -0.10711
+Free Cashflow: -597164
+Operating Cashflow: 1300297
+Return On Assets: -0.0547
+Return On Equity: -0.27251
+Total Cash: 577924
+Total Debt: 11368534
+Debt To Equity: 115.891
+Current Ratio: 1.217
+Quick Ratio: 0.535
+Trailing PE: 
+Forward PE: 
+Price To Book: 24.022556
+Beta: -1.054
+52 Week High: 9.15
+52 Week Low: 1.02

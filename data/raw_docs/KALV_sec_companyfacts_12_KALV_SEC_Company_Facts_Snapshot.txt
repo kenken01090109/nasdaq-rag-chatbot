@@ -1,0 +1,12 @@
+Company: KalVista Pharmaceuticals Inc. Common Stock
+Ticker: KALV
+CIK: 0001348911
+Latest SEC XBRL Facts:
+Revenues: 1400000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1426000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+NetIncomeLoss: -60096000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Assets: 215505000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+Liabilities: 322932000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 40790000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+NetCashProvidedByUsedInOperatingActivities: -54502000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31
+CashAndCashEquivalentsAtCarryingValue: 124304000 | unit=USD | filed=2025-09-11 | period_end=2025-07-31

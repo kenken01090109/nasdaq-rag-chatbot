@@ -1,0 +1,25 @@
+Company: SWK Holdings Corporation Common Stock
+Ticker: SWKH
+Market Cap: 204197632
+Enterprise Value: 216056832
+Total Revenue: 40149000
+Revenue Per Share: 3.292
+EBITDA: 
+Gross Margins: 0.94725
+Operating Margins: 0.67697996
+Profit Margins: 0.56606996
+Free Cashflow: 
+Operating Cashflow: 23876000
+Return On Assets: 0.074439995
+Return On Equity: 0.08454
+Total Cash: 17805000
+Total Debt: 32465000
+Debt To Equity: 12.771
+Current Ratio: 93.711
+Quick Ratio: 93.522
+Trailing PE: 9.086486
+Forward PE: 8.004762
+Price To Book: 0.79986674
+Beta: 0.331
+52 Week High: 17.9
+52 Week Low: 12.488114

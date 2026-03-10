@@ -1,0 +1,25 @@
+Company: Lattice Semiconductor Corporation Common Stock
+Ticker: LSCC
+Market Cap: 11693869056
+Enterprise Value: 12370811904
+Total Revenue: 523262016
+Revenue Per Share: 3.817
+EBITDA: 50757000
+Gross Margins: 0.68214995
+Operating Margins: 0.01833
+Profit Margins: 0.0058899997
+Free Cashflow: 121446496
+Operating Cashflow: 175107008
+Return On Assets: 0.0110599995
+Return On Equity: 0.00433
+Total Cash: 133886000
+Total Debt: 42107000
+Debt To Equity: 5.897
+Current Ratio: 3.092
+Quick Ratio: 2.072
+Trailing PE: 4274.5
+Forward PE: 42.666706
+Price To Book: 16.374256
+Beta: 1.68
+52 Week High: 108.08
+52 Week Low: 34.69

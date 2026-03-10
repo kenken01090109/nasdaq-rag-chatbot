@@ -1,0 +1,25 @@
+Company: Nutex Health Inc. Common Stock
+Ticker: NUTX
+Market Cap: 638452544
+Enterprise Value: 993854976
+Total Revenue: 875257024
+Revenue Per Share: 137.615
+EBITDA: 296155008
+Gross Margins: 0.53106
+Operating Margins: 0.20384
+Profit Margins: 0.08088
+Free Cashflow: 196686752
+Operating Cashflow: 248124992
+Return On Assets: 0.21891001
+Return On Equity: 0.58943003
+Total Cash: 185574000
+Total Debt: 351392992
+Debt To Equity: 82.986
+Current Ratio: 3.412
+Quick Ratio: 3.236
+Trailing PE: 4.4060516
+Forward PE: 60.186665
+Price To Book: 1.9420066
+Beta: 
+52 Week High: 193.07
+52 Week Low: 40.67

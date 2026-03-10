@@ -1,0 +1,10 @@
+Company: Upexi Inc. Common Stock
+Ticker: UPXI
+CIK: 0001775194
+Latest SEC XBRL Facts:
+Revenues: 17291785 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetIncomeLoss: -112176808 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Assets: 271144765 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: 48716729 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -12461887 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4502986 | unit=USD | filed=2022-05-16 | period_end=2022-03-31

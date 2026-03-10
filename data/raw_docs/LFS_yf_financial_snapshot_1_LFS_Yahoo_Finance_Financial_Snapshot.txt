@@ -1,0 +1,25 @@
+Company: LEIFRAS Co. Ltd. American Depositary Shares
+Ticker: LFS
+Market Cap: 61477456
+Enterprise Value: -672651840
+Total Revenue: 11466294272
+Revenue Per Share: 460.297
+EBITDA: 732981952
+Gross Margins: 0.30712998
+Operating Margins: 0.093839996
+Profit Margins: 0.03665
+Free Cashflow: 
+Operating Cashflow: 639206912
+Return On Assets: 
+Return On Equity: 
+Total Cash: 2441750528
+Total Debt: 1710558848
+Debt To Equity: 131.853
+Current Ratio: 1.149
+Quick Ratio: 1.051
+Trailing PE: 23.499998
+Forward PE: 
+Price To Book: 7.1083417
+Beta: 
+52 Week High: 12.49
+52 Week Low: 1.58

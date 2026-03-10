@@ -1,0 +1,9 @@
+Company: The Beauty Health Company Class A Common Stock
+Ticker: SKIN
+Sector: Consumer Defensive
+Industry: Household & Personal Products
+Country: United States
+City: Long Beach
+Website: https://www.beautyhealth.com
+Employees: 769
+Business Summary: The Beauty Health Company, together with its subsidiaries, designs, develops, manufactures, markets, and sells esthetic technologies and products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. The company's flagship product is HydraFacial, which enhances the skin to cleanse, extract, and hydrate the skin with proprietary solutions and serums. It also offers Syndeo devices, which are delivery systems that are designed to connect providers to the consumer's preferences to create a more personalized experience; consumables, such as single-use tips, solutions, and serums used to provide a hydrafacial treatment; SkinStylus SteriLock Microsystem, a microneedling and nanoneedling device used for the treatment of enhancing appearance of surgical or traumatic hypertrophic scars on the abdomen and facial acne scarring in Fitzpatrick skin types I, II, and III; and Keravive peptide solutions and take home sprays for treating scalp health. In addition, it operates the MyBeautyHealth mobile application for consumers to earn loyalty points and unlock savings, log skin concerns and receive personalized treatment plans, and find and connect with Hydrafacial providers. The Beauty Health Company was founded in 1997 and is headquartered in Long Beach, California.

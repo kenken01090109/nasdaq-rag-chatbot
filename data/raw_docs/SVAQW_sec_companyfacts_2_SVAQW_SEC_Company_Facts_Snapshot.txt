@@ -1,0 +1,8 @@
+Company: Silicon Valley Acquisition Corp. Warrants
+Ticker: SVAQW
+CIK: 0002085659
+Latest SEC XBRL Facts:
+NetIncomeLoss: -54282 | unit=USD | filed=2026-02-05 | period_end=2025-09-30
+Assets: 235347 | unit=USD | filed=2026-02-05 | period_end=2025-09-30
+StockholdersEquity: -29282 | unit=USD | filed=2026-02-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25 | unit=USD | filed=2026-02-05 | period_end=2025-09-30

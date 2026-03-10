@@ -1,0 +1,12 @@
+Company: Novavax Inc. Common Stock
+Ticker: NVAX
+CIK: 0001000694
+Latest SEC XBRL Facts:
+Revenues: 976340000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 976340000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 422775000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1179889000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1336561000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -156672000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -205160000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 268023000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

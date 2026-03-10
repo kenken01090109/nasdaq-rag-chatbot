@@ -1,0 +1,9 @@
+Company: T3 Defense Inc. Common Stock
+Ticker: DFNS
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: New York
+Website: https://www.t3dfns.com
+Employees: 15
+Business Summary: T3 Defense Inc., a defense-focused platform company, focuses on acquiring and operating mission-critical defense businesses embedded in national security programs in the United States and Israel. It focuses on manufacturers with customer relationships and solid order backlogs, often capacity-and resource-constrained and specialized areas, such as drones and autonomous vehicles, counter-drone systems, advanced manufacturing, tactical robotics, and AI software and system integration. The company was formerly known as Nukkleus Inc. and changed its name to T3 Defense Inc. in February 2026. T3 Defense Inc. was founded in 2013 and is based in New York, New York.

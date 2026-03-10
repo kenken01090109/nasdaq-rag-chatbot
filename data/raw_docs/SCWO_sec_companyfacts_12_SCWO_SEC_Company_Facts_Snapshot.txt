@@ -1,0 +1,11 @@
+Company: 374Water Inc. Common Stock
+Ticker: SCWO
+CIK: 0000933972
+Latest SEC XBRL Facts:
+Revenues: 1898484 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -12627886 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 11362173 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 4865112 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6497061 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10205171 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1960375 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

@@ -1,0 +1,25 @@
+Company: Paranovus Entertainment Technology Ltd. Class A Ordinary Shares
+Ticker: PAVS
+Market Cap: 4326309
+Enterprise Value: 4273940
+Total Revenue: 12416127
+Revenue Per Share: 10.872
+EBITDA: -498916
+Gross Margins: 0.19969
+Operating Margins: -0.05056
+Profit Margins: -0.54835
+Free Cashflow: 2326401
+Operating Cashflow: -1862427
+Return On Assets: -0.03128
+Return On Equity: -0.21542
+Total Cash: 5210418
+Total Debt: 3079961
+Debt To Equity: 10.83
+Current Ratio: 1.149
+Quick Ratio: 0.879
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.06615693
+Beta: -0.542
+52 Week High: 145.0
+52 Week Low: 1.08

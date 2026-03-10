@@ -1,0 +1,25 @@
+Company: Madrigal Pharmaceuticals Inc. Common Stock
+Ticker: MDGL
+Market Cap: 9830183936
+Enterprise Value: 9442516992
+Total Revenue: 958403008
+Revenue Per Share: 42.72
+EBITDA: -298591008
+Gross Margins: 0.94141996
+Operating Margins: -0.18565
+Profit Margins: -0.3008
+Free Cashflow: -115079752
+Operating Cashflow: -189552992
+Return On Assets: -0.16297
+Return On Equity: -0.42486
+Total Cash: 983558976
+Total Debt: 347630016
+Debt To Equity: 57.68
+Current Ratio: 4.015
+Quick Ratio: 3.603
+Trailing PE: 
+Forward PE: 30.618986
+Price To Book: 16.404396
+Beta: -0.963
+52 Week High: 615.0
+52 Week Low: 265.0

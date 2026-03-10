@@ -1,0 +1,12 @@
+Company: Keros Therapeutics Inc. Common Stock
+Ticker: KROS
+CIK: 0001664710
+Latest SEC XBRL Facts:
+Revenues: 243484000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 243676000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 110475000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 742783000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 39203000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 703580000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 134797000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 693472000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

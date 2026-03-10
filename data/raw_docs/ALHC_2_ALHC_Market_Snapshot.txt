@@ -1,0 +1,10 @@
+Company: Alignment Healthcare Inc. Common Stock
+Ticker: ALHC
+Market Cap: 3793785856
+Enterprise Value: 3521156864
+Trailing PE: Infinity
+Forward PE: 26.340425
+Price To Book: 21.150341
+Beta: 1.189
+52 Week High: 23.87
+52 Week Low: 11.625

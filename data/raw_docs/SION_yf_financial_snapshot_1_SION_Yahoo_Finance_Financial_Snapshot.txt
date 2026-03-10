@@ -1,0 +1,25 @@
+Company: Sionna Therapeutics Inc. Common Stock
+Ticker: SION
+Market Cap: 1603512320
+Enterprise Value: 1327928448
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -88335000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -44264752
+Operating Cashflow: -66297000
+Return On Assets: -0.21736999
+Return On Equity: -0.31792998
+Total Cash: 235882000
+Total Debt: 8677000
+Debt To Equity: 2.828
+Current Ratio: 20.613
+Quick Ratio: 20.14
+Trailing PE: 
+Forward PE: -13.456928
+Price To Book: 5.236846
+Beta: 
+52 Week High: 45.0
+52 Week Low: 7.255

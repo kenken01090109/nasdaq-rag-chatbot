@@ -1,0 +1,11 @@
+Company: Starz Entertainment Corp. Common Shares
+Ticker: STRZ
+CIK: 0000929351
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 640600000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -95100000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1972400000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1309200000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 663200000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 39300000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 37000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

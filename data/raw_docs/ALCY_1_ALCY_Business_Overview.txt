@@ -1,0 +1,7 @@
+Company: Alchemy Investments Acquisition Corp 1 Class A Ordinary Shares
+Ticker: ALCY
+Business Summary: Alchemy Investments Acquisition Corp 1 does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2021 and is based in Newark, Delaware.
+Sector: Financial Services
+Industry: Shell Companies
+Exchange: NCM
+Quote Type: EQUITY

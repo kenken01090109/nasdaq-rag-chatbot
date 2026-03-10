@@ -1,0 +1,11 @@
+Company: Meiwu Technology Company Limited Ordinary Shares
+Ticker: WNW
+CIK: 0001787803
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2477852 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+NetIncomeLoss: 5114684 | unit=USD | filed=2025-05-14 | period_end=2024-12-31
+Assets: 60147336 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+Liabilities: 1725006 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+StockholdersEquity: 58422330 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 6727940 | unit=USD | filed=2025-11-05 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 33341081 | unit=USD | filed=2025-11-05 | period_end=2025-06-30

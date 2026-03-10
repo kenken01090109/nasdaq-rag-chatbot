@@ -1,0 +1,9 @@
+Company: Rocky Mountain Chocolate Factory Inc. Common Stock
+Ticker: RMCF
+Sector: Consumer Defensive
+Industry: Confectioners
+Country: United States
+City: Durango
+Website: https://www.rmcf.com
+Employees: 140
+Business Summary: Rocky Mountain Chocolate Factory, Inc., together with its subsidiaries, produces and sells confectionery products in the United States. The company offers chocolate candies and other confectionery products, such as clusters, caramels, creams, toffees, mints, truffles, and gourmet caramel apples. It also franchises and licenses retail stores that offers chocolate and other confectionary products. Rocky Mountain Chocolate Factory, Inc. was founded in 1981 and is headquartered in Durango, Colorado.

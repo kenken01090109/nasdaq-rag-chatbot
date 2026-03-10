@@ -1,0 +1,25 @@
+Company: Next Technology Holding Inc. Ordinary Shares
+Ticker: NXTT
+Market Cap: 16014784
+Enterprise Value: -380785
+Total Revenue: 3588205
+Revenue Per Share: 2.767
+EBITDA: 
+Gross Margins: 0.52306
+Operating Margins: -24.787758
+Profit Margins: 84.352646
+Free Cashflow: -583565312
+Operating Cashflow: 3658931
+Return On Assets: -0.07215
+Return On Equity: 0.93248004
+Total Cash: 12357568
+Total Debt: 2004042
+Debt To Equity: 0.348
+Current Ratio: 114.147
+Quick Ratio: 2.088
+Trailing PE: 0.008323817
+Forward PE: 
+Price To Book: 0.016344102
+Beta: 5.487
+52 Week High: 960.0
+52 Week Low: 2.58

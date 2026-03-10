@@ -1,0 +1,9 @@
+Company: HCW Biologics Inc. Common Stock
+Ticker: HCWB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Miramar
+Website: https://www.hcwbiologics.com
+Employees: 36
+Business Summary: HCW Biologics Inc., a clinical-stage biopharmaceutical company, focuses on discovering and developing novel immunotherapies for chronic, low-grade inflammation, and age-related diseases in the United States. The company's lead products include HCW9218, a clinical-stage bifunctional molecule, which has completed Phase 1 to treat chemotherapy-refractory solid tumor cancers and Phase 1b/2 to treat pancreatic cancer; and HCW9302, injectable and interleukin 2 (IL-2) fusion protein complex, which is in phase 1 for autoimmune and proinflammatory diseases, such as alopecia areata diseases. It also develops HCW9201 and HCW9206, novel immunotherapeutic for memory-like natural killer cells, cancer, and pathogens; HCW11-006, an immune cell stimulator; HCW11-002 and HCW11-0027, which are immune checkpoint inhibitors to treat oncology and other senescence-associated indications; and HCW11-018, a fusions and immune cell engagers to treat cancer. The company has a license agreement with Wugen Inc. to develop cell therapy-based treatments; and a license, research and co-development agreement with WY Biotech Co., Ltd. for its preclinical molecules. HCW Biologics Inc. was incorporated in 2018 and is headquartered in Miramar, Florida.

@@ -1,0 +1,25 @@
+Company: Millennium Group International Holdings Limited Ordinary Shares
+Ticker: MGIH
+Market Cap: 15863625
+Enterprise Value: 12245032
+Total Revenue: 25334148
+Revenue Per Share: 2.252
+EBITDA: -5034659
+Gross Margins: 0.18493
+Operating Margins: -0.28906
+Profit Margins: -0.24927999
+Free Cashflow: -2245890
+Operating Cashflow: -1719389
+Return On Assets: -0.094119996
+Return On Equity: -0.22573
+Total Cash: 10811918
+Total Debt: 6519450
+Debt To Equity: 26.172
+Current Ratio: 1.866
+Quick Ratio: 1.679
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.63690156
+Beta: 0.938
+52 Week High: 4.84
+52 Week Low: 1.11

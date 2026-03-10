@@ -1,0 +1,12 @@
+Company: Olenox Industries Inc. Common Stock
+Ticker: OLOX
+CIK: 0001023994
+Latest SEC XBRL Facts:
+Revenues: 2338870 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3932592 | unit=USD | filed=2024-11-27 | period_end=2024-09-30
+NetIncomeLoss: -12636410 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 54105678 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 29170121 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 24935557 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4618283 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 3021757 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

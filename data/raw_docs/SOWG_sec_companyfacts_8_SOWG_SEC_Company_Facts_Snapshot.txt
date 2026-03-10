@@ -1,0 +1,11 @@
+Company: Sow Good Inc. Common Stock
+Ticker: SOWG
+CIK: 0001490161
+Latest SEC XBRL Facts:
+Revenues: 5886372 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -17693050 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 25570876 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6481761 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 19089115 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3335070 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 387294 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

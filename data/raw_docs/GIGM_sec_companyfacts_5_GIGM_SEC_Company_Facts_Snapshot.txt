@@ -1,0 +1,11 @@
+Company: GigaMedia Limited Ordinary Shares
+Ticker: GIGM
+CIK: 0001105101
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2969000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetIncomeLoss: -2296000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+Assets: 42358000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+Liabilities: 2015000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+StockholdersEquity: 40343000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -2333000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 34781000 | unit=USD | filed=2025-04-29 | period_end=2024-12-31

@@ -1,0 +1,12 @@
+Company: EchoStar  Corporation Common Stock
+Ticker: SATS
+CIK: 0001415404
+Latest SEC XBRL Facts:
+Revenues: 1068206000 | unit=USD | filed=2019-08-08 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 11208975000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -12781196000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 45271366000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 38264495000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 6951424000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 325948000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2431742000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

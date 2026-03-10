@@ -1,0 +1,25 @@
+Company: Citizens Financial Services Inc. Common Stock
+Ticker: CZFS
+Market Cap: 295635424
+Enterprise Value: 564145408
+Total Revenue: 109970000
+Revenue Per Share: 22.922
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46328998
+Profit Margins: 0.33256
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01201
+Return On Equity: 0.11468001
+Total Cash: 45038000
+Total Debt: 313548000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 8.070867
+Forward PE: 7.7553596
+Price To Book: 0.87452364
+Beta: 0.432
+52 Week High: 69.3
+52 Week Low: 49.99

@@ -1,0 +1,9 @@
+Company: Beyond Air Inc. Common Stock
+Ticker: XAIR
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Garden City
+Website: https://www.beyondair.net
+Employees: 61
+Business Summary: Beyond Air, Inc., a commercial-stage medical device and biopharmaceutical company, develops the Lungfit platform, a nitric oxide (NO) generator and delivery system platform. It operates through three segments: Beyond Air, Beyond Cancer, and NeuroNos. The company offers Lungfit PH for the treatment of persistent pulmonary hypertension of the newborn. It is also developing LungFit PRO for the treatment of viral lung infections, such as community-acquired pneumonia, including COVID-19 and bronchiolitis in hospitalized patients; and LungFit GO for the treatment of nontuberculous mycobacteria (NTM) at home. In addition, the company develops ultra-high concentration (UNO) that is in Phase 1 clinical trial to treat multiple solid and cutaneous tumors; and selective neuronal nitric oxide synthase (nNOS) inhibitor for the treatment of neurological conditions and autism spectrum disorder. It has a collaboration with the Yissum Research Development Company of the Hebrew University of Jerusalem, LTD to acquire the commercial rights for neuronal nitric oxide synthase inhibitors to treat autism spectrum disorder and other neurological conditions. The company was formerly known as AIT Therapeutics, Inc. and changed its name to Beyond Air, Inc. in June 2019. Beyond Air, Inc. was founded in 2011 and is headquartered in Garden City, New York.

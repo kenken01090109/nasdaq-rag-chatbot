@@ -1,0 +1,25 @@
+Company: Gyre Therapeutics Inc. Common Stock
+Ticker: GYRE
+Market Cap: 742728640
+Enterprise Value: 688282688
+Total Revenue: 107265000
+Revenue Per Share: 1.227
+EBITDA: 14359000
+Gross Margins: 0.95478
+Operating Margins: 0.22660999
+Profit Margins: 0.06201
+Free Cashflow: 2900250
+Operating Cashflow: 3877000
+Return On Assets: 0.052849997
+Return On Equity: 0.10017
+Total Cash: 60049000
+Total Debt: 1165000
+Debt To Equity: 0.848
+Current Ratio: 6.195
+Quick Ratio: 5.414
+Trailing PE: 192.75
+Forward PE: -385.5
+Price To Book: 6.8777876
+Beta: 6.917
+52 Week High: 13.75
+52 Week Low: 6.11

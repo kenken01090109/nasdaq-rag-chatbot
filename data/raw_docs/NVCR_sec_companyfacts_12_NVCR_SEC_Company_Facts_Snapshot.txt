@@ -1,0 +1,11 @@
+Company: NovoCure Limited Ordinary Shares
+Ticker: NVCR
+CIK: 0001645113
+Latest SEC XBRL Facts:
+Revenues: 481003000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -111728000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1361194000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1019861000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 341333000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31027000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 342119000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

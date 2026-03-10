@@ -1,0 +1,12 @@
+Company: KVH Industries Inc. Common Stock
+Ticker: KVHI
+CIK: 0001007587
+Latest SEC XBRL Facts:
+Revenues: 83493000 | unit=USD | filed=2018-08-02 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 80490000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -7714000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 150281000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 19234000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 131047000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 13715000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 72804000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

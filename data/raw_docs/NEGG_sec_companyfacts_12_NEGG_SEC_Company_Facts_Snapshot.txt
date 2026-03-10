@@ -1,0 +1,11 @@
+Company: Newegg Commerce Inc. Common Shares
+Ticker: NEGG
+CIK: 0001474627
+Latest SEC XBRL Facts:
+Revenues: 1720273000 | unit=USD | filed=2023-04-27 | period_end=2022-12-31
+NetIncomeLoss: -43328000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 407321000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 301229000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 106092000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -821000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 96255000 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

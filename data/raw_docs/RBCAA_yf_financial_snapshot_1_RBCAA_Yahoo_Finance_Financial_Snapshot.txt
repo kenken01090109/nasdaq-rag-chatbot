@@ -1,0 +1,25 @@
+Company: Republic Bancorp Inc. Class A Common Stock
+Ticker: RBCAA
+Market Cap: 1345788672
+Enterprise Value: 1748196224
+Total Revenue: 385897984
+Revenue Per Share: 19.545
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.33668998
+Profit Margins: 0.34028998
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01891
+Return On Equity: 0.1254
+Total Cash: 219972000
+Total Debt: 626873984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.248512
+Forward PE: 11.054575
+Price To Book: 1.2209045
+Beta: 0.593
+52 Week High: 78.25
+52 Week Low: 56.79

@@ -1,0 +1,9 @@
+Company: Solidion Technology Inc. Common Stock
+Ticker: STI
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: United States
+City: Dallas
+Website: https://www.solidiontech.com
+Employees: 28
+Business Summary: Solidion Technology, Inc., a battery technology company that focuses on the development and commercialization of battery materials, components, cells, and selected module/pack technologies. It provides advanced anode materials, silicon-rich all-solid-state lithium-ion cells, anode less lithium metal cells, and lithium-sulfur cells. The company was founded in 2015 and is headquartered in Dallas, Texas.

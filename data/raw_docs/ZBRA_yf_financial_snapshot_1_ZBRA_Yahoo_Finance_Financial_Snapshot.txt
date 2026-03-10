@@ -1,0 +1,25 @@
+Company: Zebra Technologies Corporation Class A Common Stock
+Ticker: ZBRA
+Market Cap: 11127521280
+Enterprise Value: 13869858816
+Total Revenue: 5395999744
+Revenue Per Share: 106.177
+EBITDA: 985000000
+Gross Margins: 0.48054
+Operating Margins: 0.15051
+Profit Margins: 0.077649996
+Free Cashflow: 658499968
+Operating Cashflow: 917000000
+Return On Assets: 0.06072
+Return On Equity: 0.116809994
+Total Cash: 125000000
+Total Debt: 2696999936
+Debt To Equity: 75.167
+Current Ratio: 0.97
+Quick Ratio: 0.517
+Trailing PE: 26.852076
+Forward PE: 10.880829
+Price To Book: 3.0359783
+Beta: 1.679
+52 Week High: 352.66
+52 Week Low: 205.73

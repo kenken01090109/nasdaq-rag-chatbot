@@ -1,0 +1,12 @@
+Company: ALT5 Sigma Corporation Common Stock
+Ticker: ALTS
+CIK: 0000862861
+Latest SEC XBRL Facts:
+Revenues: 7110000 | unit=USD | filed=2024-11-12 | period_end=2024-09-28
+RevenueFromContractWithCustomerExcludingAssessedTax: 19467000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27
+NetIncomeLoss: 36986000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27
+Assets: 1640028000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27
+Liabilities: 80090000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27
+StockholdersEquity: 1552882000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -15466000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 7318000 | unit=USD | filed=2026-01-12 | period_end=2025-09-27

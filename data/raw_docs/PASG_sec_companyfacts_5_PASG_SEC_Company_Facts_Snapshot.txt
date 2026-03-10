@@ -1,0 +1,10 @@
+Company: Passage Bio Inc. Common Stock
+Ticker: PASG
+CIK: 0001787297
+Latest SEC XBRL Facts:
+NetIncomeLoss: -32539000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 74160000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 43040000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 31120000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25030000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 52773000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

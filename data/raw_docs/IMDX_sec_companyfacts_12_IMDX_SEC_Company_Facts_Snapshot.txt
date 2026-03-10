@@ -1,0 +1,12 @@
+Company: Insight Molecular Diagnostics Inc. Common Stock
+Ticker: IMDX
+CIK: 0001642380
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2016-11-10 | period_end=2016-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2916000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -27267000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 43937000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 53133000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -9196000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16639000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18692000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

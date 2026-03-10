@@ -1,0 +1,11 @@
+Company: Penguin Solutions Inc. Common Stock
+Ticker: PENG
+CIK: 0001616533
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 343071000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28
+NetIncomeLoss: 5270000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28
+Assets: 1598195000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28
+Liabilities: 993726000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28
+StockholdersEquity: 389703000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28
+NetCashProvidedByUsedInOperatingActivities: 31058000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28
+CashAndCashEquivalentsAtCarryingValue: 461451000 | unit=USD | filed=2026-01-06 | period_end=2025-11-28

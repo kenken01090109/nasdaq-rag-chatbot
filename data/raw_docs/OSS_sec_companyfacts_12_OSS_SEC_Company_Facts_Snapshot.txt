@@ -1,0 +1,11 @@
+Company: One Stop Systems Inc. Common Stock
+Ticker: OSS
+CIK: 0001394056
+Latest SEC XBRL Facts:
+Revenues: 39883099 | unit=USD | filed=2019-11-07 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 45123871 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -3774876 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 43057960 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 16718212 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4925615 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6508020 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

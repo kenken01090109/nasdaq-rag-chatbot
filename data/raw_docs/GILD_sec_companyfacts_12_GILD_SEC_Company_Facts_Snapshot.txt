@@ -1,0 +1,11 @@
+Company: Gilead Sciences Inc. Common Stock
+Ticker: GILD
+CIK: 0000882095
+Latest SEC XBRL Facts:
+Revenues: 17268000000 | unit=USD | filed=2020-11-04 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 21518000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 6327000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 58533000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 21540000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6692000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5412000000 | unit=USD | filed=2023-02-22 | period_end=2022-12-31

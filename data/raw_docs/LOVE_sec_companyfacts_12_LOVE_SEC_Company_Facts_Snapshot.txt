@@ -1,0 +1,12 @@
+Company: The Lovesac Company Common Stock
+Ticker: LOVE
+CIK: 0001701758
+Latest SEC XBRL Facts:
+Revenues: 449069000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 449069000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+NetIncomeLoss: -28041000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+Assets: 495514000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+Liabilities: 306207000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+StockholdersEquity: 189307000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+NetCashProvidedByUsedInOperatingActivities: -34093000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02
+CashAndCashEquivalentsAtCarryingValue: 23722000 | unit=USD | filed=2025-12-11 | period_end=2025-11-02

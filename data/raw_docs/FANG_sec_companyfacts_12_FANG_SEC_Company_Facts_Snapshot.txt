@@ -1,0 +1,12 @@
+Company: Diamondback Energy Inc. Common Stock
+Ticker: FANG
+CIK: 0001539838
+Latest SEC XBRL Facts:
+Revenues: 11650000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3798000000 | unit=USD | filed=2023-08-03 | period_end=2023-06-30
+NetIncomeLoss: 3122000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 76213000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 30579000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 39088000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 6415000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 159000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

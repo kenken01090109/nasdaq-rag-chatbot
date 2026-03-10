@@ -1,0 +1,8 @@
+Company: Airbnb Inc. Class A Common Stock
+Ticker: ABNB
+Total Cash: 11013999616
+Total Debt: 2271000064
+Debt To Equity: 27.698
+Current Ratio: 1.377
+Quick Ratio: 0.821
+Book Value: 13.62

@@ -1,0 +1,8 @@
+Company: Harvard Ave Acquisition Corporation Unit
+Ticker: HAVAU
+CIK: 0002042460
+Latest SEC XBRL Facts:
+NetIncomeLoss: -96712 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 2273303 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -156433 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1967551 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

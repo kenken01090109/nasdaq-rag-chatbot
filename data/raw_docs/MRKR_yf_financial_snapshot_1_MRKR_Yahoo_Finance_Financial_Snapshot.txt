@@ -1,0 +1,25 @@
+Company: Marker Therapeutics Inc. Common Stock
+Ticker: MRKR
+Market Cap: 23008916
+Enterprise Value: 5585668
+Total Revenue: 4694988
+Revenue Per Share: 0.368
+EBITDA: 
+Gross Margins: -1.93118
+Operating Margins: -1.73304
+Profit Margins: 0.0
+Free Cashflow: -10881111
+Operating Cashflow: -14817110
+Return On Assets: -0.55195
+Return On Equity: -1.10672
+Total Cash: 17589978
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 6.496
+Quick Ratio: 5.755
+Trailing PE: 
+Forward PE: -1.7468354
+Price To Book: 1.2511332
+Beta: 1.454
+52 Week High: 4.07
+52 Week Low: 0.81

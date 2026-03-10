@@ -1,0 +1,25 @@
+Company: Hour Loop Inc. Common Stock
+Ticker: HOUR
+Market Cap: 67890296
+Enterprise Value: 70175552
+Total Revenue: 140790432
+Revenue Per Share: 4.005
+EBITDA: 869000
+Gross Margins: 0.50935
+Operating Margins: 0.0222
+Profit Margins: 0.00593
+Free Cashflow: 548197
+Operating Cashflow: 1120025
+Return On Assets: 0.01596
+Return On Equity: 0.1163
+Total Cash: 796307
+Total Debt: 3433322
+Debt To Equity: 44.765
+Current Ratio: 1.3
+Quick Ratio: 0.056
+Trailing PE: 64.333336
+Forward PE: 38.6
+Price To Book: 8.853211
+Beta: 1.434
+52 Week High: 6.84
+52 Week Low: 1.1

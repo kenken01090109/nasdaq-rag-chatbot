@@ -1,0 +1,11 @@
+Company: XPEL Inc. Common Stock
+Ticker: XPEL
+CIK: 0001767258
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 353933000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 37816000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 387695000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 113841000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 269279000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 64271000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 64497000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

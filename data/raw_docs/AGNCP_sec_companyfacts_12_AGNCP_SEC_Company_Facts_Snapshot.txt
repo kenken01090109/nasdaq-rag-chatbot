@@ -1,0 +1,10 @@
+Company: AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+Ticker: AGNCP
+CIK: 0001423689
+Latest SEC XBRL Facts:
+NetIncomeLoss: 716000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 108969000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 97525000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 11444000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 525000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 450000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

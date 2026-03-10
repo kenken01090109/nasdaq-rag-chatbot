@@ -1,0 +1,12 @@
+Company: Voyager Therapeutics Inc. Common Stock
+Ticker: VYGR
+CIK: 0001640266
+Latest SEC XBRL Facts:
+Revenues: 5611000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 25038000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -92295000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 288311000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 68486000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 219825000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -102204000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45125000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Himax Technologies Inc. American Depositary Shares
+Ticker: HIMX
+Sector: Technology
+Industry: Semiconductors
+Country: Taiwan
+City: Tainan City
+Website: https://www.himax.com.tw
+Employees: 2200
+Business Summary: Himax Technologies, Inc., a fabless semiconductor company, provides display imaging processing technologies in China, Taiwan, Korea, Japan, the United States, and internationally. The company operates in two segments, Driver IC and Non-Driver Products. It offers display driver integrated circuits (ICs) and timing controllers that are used in televisions, PC monitors, laptops, mobile phones, tablets, automotive, ePaper devices, industrial displays, and other products. The company also provides automotive IC solutions, including traditional driver ICs; advanced in-cell touch and display driver integration; local dimming timing controllers; and large touch and display driver integration. In addition, it offers Power IC, touch controllers IC, OLED ICs, LED drivers, EPD ICs, power management ICs, and complementary metal oxide semiconductor image sensors for display application coverage; and ultralow power WiseEye smart image sensing products, as well as wafer level optics, LCoS microdisplays, and 3D sensing solutions. The company markets its display drivers to panel manufacturers, mobile device module manufacturers, and manufacturers of end-use products. Himax Technologies, Inc. was incorporated in 2001 and is headquartered in Tainan City, Taiwan.

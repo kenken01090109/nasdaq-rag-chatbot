@@ -1,0 +1,25 @@
+Company: Simulations Plus Inc. Common Stock
+Ticker: SLP
+Market Cap: 246191280
+Enterprise Value: 215088592
+Total Revenue: 78676000
+Revenue Per Share: 3.911
+EBITDA: 11771000
+Gross Margins: 0.59604
+Operating Margins: 0.03871
+Profit Margins: -0.81661004
+Free Cashflow: 15185375
+Operating Cashflow: 23634000
+Return On Assets: 0.027929999
+Return On Equity: -0.4121
+Total Cash: 35689000
+Total Debt: 557000
+Debt To Equity: 0.438
+Current Ratio: 5.623
+Quick Ratio: 5.227
+Trailing PE: 
+Forward PE: 11.474178
+Price To Book: 1.9369155
+Beta: 1.217
+52 Week High: 36.45
+52 Week Low: 11.16

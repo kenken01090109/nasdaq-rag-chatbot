@@ -1,0 +1,12 @@
+Company: Skyworks Solutions Inc. Common Stock
+Ticker: SWKS
+CIK: 0000004127
+Latest SEC XBRL Facts:
+Revenues: 1035400000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 1035400000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+NetIncomeLoss: 79200000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+Assets: 7867900000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+Liabilities: 2109000000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+StockholdersEquity: 5758900000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+NetCashProvidedByUsedInOperatingActivities: 395500000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02
+CashAndCashEquivalentsAtCarryingValue: 1550400000 | unit=USD | filed=2026-02-05 | period_end=2026-01-02

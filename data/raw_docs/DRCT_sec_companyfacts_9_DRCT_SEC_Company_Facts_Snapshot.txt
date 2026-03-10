@@ -1,0 +1,11 @@
+Company: Direct Digital Holdings Inc. Class A Common Stock
+Ticker: DRCT
+CIK: 0001880613
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 26286000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -7284000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 22535000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 29230000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 6396883 | unit=USD | filed=2023-11-09 | period_end=2023-09-30
+NetCashProvidedByUsedInOperatingActivities: -7036000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 871000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

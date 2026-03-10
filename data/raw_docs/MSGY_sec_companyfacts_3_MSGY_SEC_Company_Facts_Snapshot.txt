@@ -1,0 +1,11 @@
+Company: Masonglory Limited Ordinary Shares
+Ticker: MSGY
+CIK: 0002020228
+Latest SEC XBRL Facts:
+Revenues: 23318482 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+NetIncomeLoss: 1275882 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+Assets: 6550858 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+Liabilities: 3090565 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+StockholdersEquity: 3460293 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 3391813 | unit=USD | filed=2025-07-30 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 2365532 | unit=USD | filed=2025-07-30 | period_end=2025-03-31

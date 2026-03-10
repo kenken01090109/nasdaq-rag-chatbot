@@ -1,0 +1,12 @@
+Company: Oportun Financial Corporation Common Stock
+Ticker: OPRT
+CIK: 0001538716
+Latest SEC XBRL Facts:
+Revenues: 708938000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14815000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 21842000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 3186179000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 2802325000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 383854000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 304546000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 104611000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

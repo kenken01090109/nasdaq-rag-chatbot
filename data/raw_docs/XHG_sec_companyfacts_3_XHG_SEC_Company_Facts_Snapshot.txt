@@ -1,0 +1,11 @@
+Company: XChange TEC.INC American Depositary Shares
+Ticker: XHG
+CIK: 0001769256
+Latest SEC XBRL Facts:
+Revenues: 24209000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31
+NetIncomeLoss: -93391000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31
+Assets: 15930000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31
+Liabilities: 183311000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31
+StockholdersEquity: -167381000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1094000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 674000 | unit=USD | filed=2025-09-03 | period_end=2025-03-31

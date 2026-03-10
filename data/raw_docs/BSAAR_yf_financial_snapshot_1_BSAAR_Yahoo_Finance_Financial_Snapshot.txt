@@ -1,0 +1,25 @@
+Company: BEST SPAC I Acquisition Corp. Rights
+Ticker: BSAAR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -368020
+Operating Cashflow: -598167
+Return On Assets: -0.0141199995
+Return On Equity: 0.51061
+Total Cash: 1295059
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 9.289
+Quick Ratio: 8.466
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.483871
+Beta: 
+52 Week High: 0.165
+52 Week Low: 0.155

@@ -1,0 +1,10 @@
+Company: Olema Pharmaceuticals Inc. Common Stock
+Ticker: OLMA
+CIK: 0001750284
+Latest SEC XBRL Facts:
+NetIncomeLoss: -116390000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 352453000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 44965000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 307488000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -108389000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35260000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Brand Engagement Network Inc. Warrant
+Ticker: BNAIW
+CIK: 0001838163
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 75120 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+NetIncomeLoss: -5187125 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+Assets: 16372244 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+Liabilities: 12919132 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+StockholdersEquity: 3453112 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5344393 | unit=USD | filed=2025-11-25 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 102715 | unit=USD | filed=2025-11-25 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: SpyGlass Pharma Inc. Common Stock
+Ticker: SGP
+Market Cap: 888908672
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: -17.99238
+Price To Book: -3.8515952
+Beta: 
+52 Week High: 32.44
+52 Week Low: 20.16

@@ -1,0 +1,10 @@
+Company: Able View Global Inc. Class B Ordinary Shares
+Ticker: ABLV
+Market Cap: 33209782
+Enterprise Value: 38423560
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.4306123
+Beta: 1.5
+52 Week High: 1.77
+52 Week Low: 0.59

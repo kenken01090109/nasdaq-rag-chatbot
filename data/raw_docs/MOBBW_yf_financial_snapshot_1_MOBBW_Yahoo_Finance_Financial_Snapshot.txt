@@ -1,0 +1,25 @@
+Company: Mobilicom Limited Warrants
+Ticker: MOBBW
+Market Cap: 695447680
+Enterprise Value: 
+Total Revenue: 2826361
+Revenue Per Share: 0.403
+EBITDA: -3280508
+Gross Margins: 0.57545
+Operating Margins: -0.00986
+Profit Margins: -2.27332
+Free Cashflow: -3210746
+Operating Cashflow: -3688789
+Return On Assets: -0.2014
+Return On Equity: -0.99364996
+Total Cash: 6833201
+Total Debt: 524997
+Debt To Equity: 11.007
+Current Ratio: 6.941
+Quick Ratio: 6.071
+Trailing PE: Infinity
+Forward PE: 
+Price To Book: 3.4126384
+Beta: 2.112
+52 Week High: 2.17
+52 Week Low: 0.2599

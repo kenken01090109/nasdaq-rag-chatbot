@@ -1,0 +1,11 @@
+Company: Kestrel Group Ltd.
+Ticker: KG
+CIK: 0002055116
+Latest SEC XBRL Facts:
+Revenues: 23841000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 64480000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1130440000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 986666000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 143774000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30436000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12890000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

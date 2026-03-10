@@ -1,0 +1,25 @@
+Company: Wheeler Real Estate Investment Trust Inc. Common Stock
+Ticker: WHLR
+Market Cap: 1826642
+Enterprise Value: 607143744
+Total Revenue: 101834000
+Revenue Per Share: 645.221
+EBITDA: 54173000
+Gross Margins: 0.67293
+Operating Margins: 0.33525002
+Profit Margins: 0.46248
+Free Cashflow: -28812500
+Operating Cashflow: 24164000
+Return On Assets: 0.03202
+Return On Equity: 0.57748
+Total Cash: 27093000
+Total Debt: 496993984
+Debt To Equity: 529.393
+Current Ratio: 3.464
+Quick Ratio: 1.582
+Trailing PE: 0.008067145
+Forward PE: -0.7037915
+Price To Book: -0.005453364
+Beta: 1.306
+52 Week High: 1543.5
+52 Week Low: 1.48

@@ -1,0 +1,25 @@
+Company: NN Inc. Common Stock
+Ticker: NNBR
+Market Cap: 68405976
+Enterprise Value: 376878688
+Total Revenue: 422207008
+Revenue Per Share: 8.54
+EBITDA: 17008000
+Gross Margins: 0.14059
+Operating Margins: -0.22742
+Profit Margins: -0.08054
+Free Cashflow: 3804750
+Operating Cashflow: 5671000
+Return On Assets: -0.02634
+Return On Equity: -0.21278
+Total Cash: 11377000
+Total Debt: 203071008
+Debt To Equity: 138.703
+Current Ratio: 1.826
+Quick Ratio: 0.942
+Trailing PE: 
+Forward PE: 7.157895
+Price To Book: 2.0088627
+Beta: 
+52 Week High: 2.74
+52 Week Low: 1.1

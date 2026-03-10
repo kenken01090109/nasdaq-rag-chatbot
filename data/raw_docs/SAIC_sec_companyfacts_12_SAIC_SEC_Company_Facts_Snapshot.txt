@@ -1,0 +1,11 @@
+Company: Science Applications International Corporation Common Stock
+Ticker: SAIC
+CIK: 0001571123
+Latest SEC XBRL Facts:
+Revenues: 5512000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5512000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+NetIncomeLoss: 273000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+Assets: 5423000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+StockholdersEquity: 1512000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 351000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 45000000 | unit=USD | filed=2025-12-04 | period_end=2025-10-31

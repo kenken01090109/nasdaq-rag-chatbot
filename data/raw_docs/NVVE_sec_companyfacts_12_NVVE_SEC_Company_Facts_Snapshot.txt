@@ -1,0 +1,12 @@
+Company: Nuvve Holding Corp. Common Stock
+Ticker: NVVE
+CIK: 0001836875
+Latest SEC XBRL Facts:
+Revenues: 2844081 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2844081 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -24759063 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 16755481 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 18673958 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -1407453 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12347984 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 939415 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

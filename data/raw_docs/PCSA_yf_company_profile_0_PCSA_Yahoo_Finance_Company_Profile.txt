@@ -1,0 +1,9 @@
+Company: Processa Pharmaceuticals Inc. Common Stock
+Ticker: PCSA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Hanover
+Website: https://www.processapharmaceuticals.com
+Employees: 10
+Business Summary: Processa Pharmaceuticals, Inc., a clinical stage biopharmaceutical company, develops chemotherapy drugs to improve the safety and efficacy of cancer treatment. Its drugs are modifications of existing FDA-approved oncology drugs resulting in an alteration of the metabolism and/or distribution of drugs while maintaining the existing mechanisms of killing the cancer cells. The company's pipeline includes three chemotherapy drugs comprising Gemcitabine, PCS3117 that has completed Phase 2a clinical trials to treat pancreatic, biliary tract, lung, ovarian, breast, and other cancers; Capecitabine, a combination of PCS6422 and capecitabine, which is in Phase 2 clinical trials to treat metastatic colorectal, gastrointestinal, breast, pancreatic, and other cancers; and Irinotecan, PCS11T that is in pre-clinical studies to treat lung, colorectal, gastrointestinal, pancreatic, and other cancers. It also develops non-oncology drugs consisting of PCS12852 that is in Phase 2B clinical trials for treatment of gastroparesis; and PCS499 for the treatment of glomerular disease. The company has license agreements with Elion Oncology, Inc.; Ocuphire Pharma, Inc.; Aposense, Ltd.; Yuhan Corporation; and CoNCERT Pharmaceuticals, Inc. Processa Pharmaceuticals, Inc. was founded in 2017 and is based in Hanover, Maryland.

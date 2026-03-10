@@ -1,0 +1,10 @@
+Company: Rich Sparkle Holdings Limited Ordinary Shares
+Ticker: ANPA
+CIK: 0002031688
+Latest SEC XBRL Facts:
+Revenues: 6249472 | unit=USD | filed=2026-02-06 | period_end=2025-09-30
+NetIncomeLoss: 132934 | unit=USD | filed=2026-02-06 | period_end=2025-09-30
+Assets: 8493579 | unit=USD | filed=2026-02-06 | period_end=2025-09-30
+Liabilities: 2846658 | unit=USD | filed=2026-02-06 | period_end=2025-09-30
+StockholdersEquity: 5646921 | unit=USD | filed=2026-02-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 372473 | unit=USD | filed=2026-02-06 | period_end=2025-09-30

@@ -1,0 +1,12 @@
+Company: The Glimpse Group Inc. Common Stock
+Ticker: GGRP
+CIK: 0001854445
+Latest SEC XBRL Facts:
+Revenues: 10000 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2698350 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetIncomeLoss: -2258898 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Assets: 16019471 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+Liabilities: 768704 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+StockholdersEquity: 15250767 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -2029423 | unit=USD | filed=2026-02-17 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3342713 | unit=USD | filed=2026-02-17 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: MARA Holdings Inc. Common Stock
+Ticker: MARA
+Market Cap: 3045679360
+Enterprise Value: 6149270528
+Total Revenue: 907092992
+Revenue Per Share: 2.554
+EBITDA: -352031008
+Gross Margins: 0.48044997
+Operating Margins: -5.98828
+Profit Margins: -1.44581
+Free Cashflow: -401107008
+Operating Cashflow: -802724992
+Return On Assets: -0.08999
+Return On Equity: -0.34464002
+Total Cash: 547132032
+Total Debt: 3645352960
+Debt To Equity: 104.839
+Current Ratio: 1.273
+Quick Ratio: 1.084
+Trailing PE: 
+Forward PE: -6.5925927
+Price To Book: 0.8755055
+Beta: 5.42
+52 Week High: 23.45
+52 Week Low: 6.66

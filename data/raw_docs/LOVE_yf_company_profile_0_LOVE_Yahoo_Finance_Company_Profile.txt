@@ -1,0 +1,9 @@
+Company: The Lovesac Company Common Stock
+Ticker: LOVE
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Stamford
+Website: https://www.lovesac.com
+Employees: 920
+Business Summary: The Lovesac Company designs, manufactures, and sells furniture. It offers sactionals, such as seats and sides; sacs, including foam beanbag chairs; and other products comprising drink holders, footsac blankets, decorative pillows, fitted seat tables, and ottomans. The company also provides StealthTech, a home theater system; and PillowSac, an accent chair. It markets its products primarily through www.lovesac.com website, as well as showrooms, lifestyle centers, mobile concierges, kiosks, and street locations in 42 states in the United States; and in store pop-up-shops and shop-in-shops, and barter inventory transactions. The Lovesac Company was founded in 1995 and is based in Stamford, Connecticut.

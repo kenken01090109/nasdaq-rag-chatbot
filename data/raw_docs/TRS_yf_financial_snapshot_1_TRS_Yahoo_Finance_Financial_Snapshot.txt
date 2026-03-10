@@ -1,0 +1,25 @@
+Company: TriMas Corporation Common Stock
+Ticker: TRS
+Market Cap: 1521773952
+Enterprise Value: 1950109184
+Total Revenue: 645720000
+Revenue Per Share: 15.989
+EBITDA: 56880000
+Gross Margins: 0.21395999
+Operating Margins: -0.03376
+Profit Margins: 0.18606001
+Free Cashflow: 14840000
+Operating Cashflow: 117450000
+Return On Assets: 0.0083099995
+Return On Equity: 0.105340004
+Total Cash: 30020000
+Total Debt: 523350016
+Debt To Equity: 74.172
+Current Ratio: 2.519
+Quick Ratio: 0.769
+Trailing PE: 21.033707
+Forward PE: 18.0
+Price To Book: 1.9966935
+Beta: 0.578
+52 Week High: 42.0
+52 Week Low: 19.45

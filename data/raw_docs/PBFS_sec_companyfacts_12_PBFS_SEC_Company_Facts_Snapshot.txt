@@ -1,0 +1,11 @@
+Company: Pioneer Bancorp Inc. Common Stock
+Ticker: PBFS
+CIK: 0001769663
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 11256000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 16544000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2243310000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1929112000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 314198000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5442000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 478579000 | unit=USD | filed=2021-11-09 | period_end=2021-09-30

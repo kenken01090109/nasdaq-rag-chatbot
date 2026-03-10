@@ -1,0 +1,11 @@
+Company: First Citizens BancShares Inc. 5.625% Non-Cumulative Perpetual Preferred Stock Series C
+Ticker: FCNCO
+CIK: 0000798941
+Latest SEC XBRL Facts:
+Revenues: 7104000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1626000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 233488000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 211502000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 21986000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1873000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9030000000 | unit=USD | filed=2022-02-25 | period_end=2021-12-31

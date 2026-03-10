@@ -1,0 +1,12 @@
+Company: Reservoir Media Inc. Common Stock
+Ticker: RSVR
+CIK: 0001824403
+Latest SEC XBRL Facts:
+Revenues: 128167223 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 128167223 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 3898167 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 941905435 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 567104783 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 373614469 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 38229583 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 20591354 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

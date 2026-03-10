@@ -1,0 +1,25 @@
+Company: Evotec SE American Depositary Shares
+Ticker: EVO
+Market Cap: 1099815808
+Enterprise Value: 801680384
+Total Revenue: 756328000
+Revenue Per Share: 2.13
+EBITDA: 13000
+Gross Margins: 0.10823
+Operating Margins: -0.26597
+Profit Margins: -0.21020001
+Free Cashflow: -207618880
+Operating Cashflow: 1410000
+Return On Assets: -0.02694
+Return On Equity: -0.17978
+Total Cash: 237268000
+Total Debt: 484616992
+Debt To Equity: 60.567
+Current Ratio: 2.118
+Quick Ratio: 1.148
+Trailing PE: 
+Forward PE: -16.157894
+Price To Book: 0.58736616
+Beta: 1.116
+52 Week High: 4.8
+52 Week Low: 2.84

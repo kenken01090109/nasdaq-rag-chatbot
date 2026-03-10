@@ -1,0 +1,11 @@
+Company: Intapp Inc. Common Stock
+Ticker: INTA
+CIK: 0001565687
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 279235000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: -20287000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 795179000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 384930000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 410249000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 36676000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 191152000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31

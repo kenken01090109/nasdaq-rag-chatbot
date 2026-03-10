@@ -1,0 +1,11 @@
+Company: GSI Technology Common Stock
+Ticker: GSIT
+CIK: 0001126741
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 18803000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -8422000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 98460000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 14840000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 83620000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -10471000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 70672000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

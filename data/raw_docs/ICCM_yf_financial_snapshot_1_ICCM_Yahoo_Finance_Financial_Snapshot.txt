@@ -1,0 +1,25 @@
+Company: IceCure Medical Ltd. Ordinary Shares
+Ticker: ICCM
+Market Cap: 43446820
+Enterprise Value: 35212532
+Total Revenue: 2975000
+Revenue Per Share: 0.05
+EBITDA: -15097000
+Gross Margins: 0.35059
+Operating Margins: -4.51294
+Profit Margins: 0.0
+Free Cashflow: -8266875
+Operating Cashflow: -13750000
+Return On Assets: -0.63426995
+Return On Equity: -1.5790601
+Total Cash: 10005000
+Total Debt: 288000
+Debt To Equity: 3.095
+Current Ratio: 2.376
+Quick Ratio: 1.759
+Trailing PE: 
+Forward PE: -10.5
+Price To Book: 4.6666665
+Beta: 2.273
+52 Week High: 1.53
+52 Week Low: 0.54

@@ -1,0 +1,25 @@
+Company: Intuitive Surgical Inc. Common Stock
+Ticker: ISRG
+Market Cap: 174070644736
+Enterprise Value: 170746888192
+Total Revenue: 10064700416
+Revenue Per Share: 28.2
+EBITDA: 3558000128
+Gross Margins: 0.65996003
+Operating Margins: 0.30155
+Profit Margins: 0.28375998
+Free Cashflow: 2274837504
+Operating Cashflow: 3030500096
+Return On Assets: 0.09392
+Return On Equity: 0.16690001
+Total Cash: 5934900224
+Total Debt: 170900000
+Debt To Equity: 0.953
+Current Ratio: 4.875
+Quick Ratio: 3.77
+Trailing PE: 62.440765
+Forward PE: 42.847878
+Price To Book: 9.76531
+Beta: 1.68
+52 Week High: 603.88
+52 Week Low: 425.0

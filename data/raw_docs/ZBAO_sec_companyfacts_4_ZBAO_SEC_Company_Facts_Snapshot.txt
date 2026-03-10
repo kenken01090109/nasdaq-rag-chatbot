@@ -1,0 +1,12 @@
+Company: Zhibao Technology Inc. Class A Ordinary Shares
+Ticker: ZBAO
+CIK: 0001966750
+Latest SEC XBRL Facts:
+Revenues: 20052784 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 6000 | unit=CNY | filed=2024-10-31 | period_end=2021-06-30
+NetIncomeLoss: -88311 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+Assets: 43151862 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+Liabilities: 33182213 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+StockholdersEquity: 9969649 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 10165046 | unit=USD | filed=2025-05-02 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3851598 | unit=USD | filed=2025-05-02 | period_end=2024-12-31

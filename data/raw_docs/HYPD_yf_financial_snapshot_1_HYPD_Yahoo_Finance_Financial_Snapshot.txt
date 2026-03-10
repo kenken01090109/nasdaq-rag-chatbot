@@ -1,0 +1,25 @@
+Company: Hyperion DeFi Inc. Common Stock
+Ticker: HYPD
+Market Cap: 26349972
+Enterprise Value: 25372546
+Total Revenue: 345319
+Revenue Per Share: 0.106
+EBITDA: -7764989
+Gross Margins: 30.7758
+Operating Margins: 35.430832
+Profit Margins: 0.0
+Free Cashflow: -65019484
+Operating Cashflow: -16823516
+Return On Assets: -0.10547
+Return On Equity: -0.6849
+Total Cash: 8223180
+Total Debt: 8492439
+Debt To Equity: 12.003
+Current Ratio: 2.251
+Quick Ratio: 2.093
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.31484103
+Beta: 2.816
+52 Week High: 17.18
+52 Week Low: 0.85

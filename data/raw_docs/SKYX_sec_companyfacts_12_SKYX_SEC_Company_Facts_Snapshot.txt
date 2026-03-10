@@ -1,0 +1,12 @@
+Company: SKYX Platforms Corp. Common Stock
+Ticker: SKYX
+CIK: 0001598981
+Latest SEC XBRL Facts:
+Revenues: 6412712 | unit=USD | filed=2018-11-14 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 67067130 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -25494983 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 58414184 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 57253277 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -3839093 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11296274 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7829739 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

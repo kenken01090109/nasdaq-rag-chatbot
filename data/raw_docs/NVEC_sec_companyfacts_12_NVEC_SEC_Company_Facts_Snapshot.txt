@@ -1,0 +1,11 @@
+Company: NVE Corporation Common Stock
+Ticker: NVEC
+CIK: 0000724910
+Latest SEC XBRL Facts:
+Revenues: 18676412 | unit=USD | filed=2026-01-21 | period_end=2025-12-31
+NetIncomeLoss: 10271298 | unit=USD | filed=2026-01-21 | period_end=2025-12-31
+Assets: 59963066 | unit=USD | filed=2026-01-21 | period_end=2025-12-31
+Liabilities: 1665975 | unit=USD | filed=2026-01-21 | period_end=2025-12-31
+StockholdersEquity: 58297091 | unit=USD | filed=2026-01-21 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 12172141 | unit=USD | filed=2026-01-21 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3408531 | unit=USD | filed=2026-01-21 | period_end=2025-12-31

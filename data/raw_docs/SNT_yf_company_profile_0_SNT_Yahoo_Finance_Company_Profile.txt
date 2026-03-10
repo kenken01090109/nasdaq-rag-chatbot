@@ -1,0 +1,9 @@
+Company: Senstar Technologies Corporation Common Shares
+Ticker: SNT
+Sector: Industrials
+Industry: Security & Protection Services
+Country: Canada
+City: Ottawa
+Website: https://senstar.com
+Employees: 126
+Business Summary: Senstar Technologies Corporation provides physical, video, and access control security products and solutions worldwide. It offers solutions for critical sites, including a portfolio of homegrown perimeter intrusion detection systems, and video and security management software with intelligent video analytics security solutions, as well as access control products and technologies. The company's solutions and products are optimized for perimeter, outdoor, and general security applications. Its portfolio of critical infrastructure protection and site protection technologies includes various fence mounted sensors, fence mounted sensors, virtual fences and gates, buried and concealed detection systems, tunneling sensors, and sensors for sub-surface intrusion, such as to secure pipelines, as well as video analytics software and video management systems. Senstar Technologies Corporation was founded in 1981 and is based in Ottawa, Canada.

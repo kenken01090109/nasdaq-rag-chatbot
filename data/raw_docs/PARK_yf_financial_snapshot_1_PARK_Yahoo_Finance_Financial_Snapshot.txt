@@ -1,0 +1,25 @@
+Company: Park Dental Partners Inc. Common Stock
+Ticker: PARK
+Market Cap: 83470000
+Enterprise Value: 114937504
+Total Revenue: 244494000
+Revenue Per Share: 125.738
+EBITDA: 12336000
+Gross Margins: 0.18094999
+Operating Margins: -0.13405
+Profit Margins: -0.0014599999
+Free Cashflow: 13304125
+Operating Cashflow: 17630000
+Return On Assets: 0.01131
+Return On Equity: -0.040900003
+Total Cash: 25185000
+Total Debt: 60350000
+Debt To Equity: 276.797
+Current Ratio: 1.061
+Quick Ratio: 0.9
+Trailing PE: 
+Forward PE: 14.878787
+Price To Book: 3.8284597
+Beta: 
+52 Week High: 21.595
+52 Week Low: 9.53

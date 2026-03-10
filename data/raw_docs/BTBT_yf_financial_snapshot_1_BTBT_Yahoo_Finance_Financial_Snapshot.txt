@@ -1,0 +1,25 @@
+Company: Bit Digital Inc. Ordinary Shares
+Ticker: BTBT
+Market Cap: 524353216
+Enterprise Value: 567773312
+Total Revenue: 105703144
+Revenue Per Share: 0.482
+EBITDA: 162199088
+Gross Margins: 0.49227002
+Operating Margins: 4.7101197
+Profit Margins: 1.2962601
+Free Cashflow: -459347968
+Operating Cashflow: -197540752
+Return On Assets: 0.10633001
+Return On Equity: 0.19530001
+Total Cash: 179118176
+Total Debt: 41916656
+Debt To Equity: 4.009
+Current Ratio: 17.532
+Quick Ratio: 5.44
+Trailing PE: 2.4545453
+Forward PE: Infinity
+Price To Book: 0.58168757
+Beta: 4.046
+52 Week High: 4.55
+52 Week Low: 1.49

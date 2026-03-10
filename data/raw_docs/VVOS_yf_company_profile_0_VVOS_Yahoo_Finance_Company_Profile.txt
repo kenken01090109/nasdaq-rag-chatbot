@@ -1,0 +1,9 @@
+Company: Vivos Therapeutics Inc. Common Stock
+Ticker: VVOS
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Littleton
+Website: https://www.vivos.com
+Employees: 262
+Business Summary: Vivos Therapeutics, Inc. operates as a medical technology company that develops and commercializes treatment modalities for patients with dentofacial abnormalities, obstructive sleep apnea (OSA), and snoring in adults. It offers The Vivos Method, a non-invasive, non-surgical, non-pharmaceutical, multi-disciplinary treatment modality for the treatment of dentofacial abnormalities, OSA, and snoring. The company also offers VivoScore Program, a screening and home sleep test in adults and children. It markets and sells its appliances, and related treatments and services to licensed professionals, primarily general dentists in the United States and Canada. The company was formerly known as Vivos BioTechnologies, Inc. and changed its name to Vivos Therapeutics, Inc. in March 2018. The company was founded in 2016 and is based in Littleton, Colorado.

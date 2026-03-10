@@ -1,0 +1,10 @@
+Company: Alkermes plc Ordinary Shares
+Ticker: ALKS
+Market Cap: 4724525568
+Enterprise Value: 4206309632
+Trailing PE: 19.825176
+Forward PE: 13.682697
+Price To Book: 2.580557
+Beta: 0.492
+52 Week High: 36.32
+52 Week Low: 25.17

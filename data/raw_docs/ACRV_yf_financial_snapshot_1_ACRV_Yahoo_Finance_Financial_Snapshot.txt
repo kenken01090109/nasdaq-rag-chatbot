@@ -1,0 +1,25 @@
+Company: Acrivon Therapeutics Inc. Common Stock
+Ticker: ACRV
+Market Cap: 48910444
+Enterprise Value: -77354552
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -87654000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -40886000
+Operating Cashflow: -65788000
+Return On Assets: -0.30888
+Return On Equity: -0.50232
+Total Cash: 129254000
+Total Debt: 2989000
+Debt To Equity: 2.324
+Current Ratio: 8.754
+Quick Ratio: 8.68
+Trailing PE: 
+Forward PE: -0.8435374
+Price To Book: 0.38027474
+Beta: 1.803
+52 Week High: 5.651
+52 Week Low: 1.05

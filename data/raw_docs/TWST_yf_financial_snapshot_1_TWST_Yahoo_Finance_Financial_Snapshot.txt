@@ -1,0 +1,25 @@
+Company: Twist Bioscience Corporation Common Stock
+Ticker: TWST
+Market Cap: 2877971200
+Enterprise Value: 2898528512
+Total Revenue: 391556992
+Revenue Per Share: 6.495
+EBITDA: -112748000
+Gross Margins: 0.51623
+Operating Margins: -0.31726998
+Profit Margins: -0.19559
+Free Cashflow: -47241876
+Operating Cashflow: -51014000
+Return On Assets: -0.13487001
+Return On Equity: -0.16794
+Total Cash: 197948992
+Total Debt: 113050000
+Debt To Equity: 24.787
+Current Ratio: 3.778
+Quick Ratio: 3.083
+Trailing PE: 
+Forward PE: -24.901855
+Price To Book: 6.3057494
+Beta: 2.287
+52 Week High: 57.88
+52 Week Low: 23.3

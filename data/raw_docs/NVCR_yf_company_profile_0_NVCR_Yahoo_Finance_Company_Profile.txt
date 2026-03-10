@@ -1,0 +1,9 @@
+Company: NovoCure Limited Ordinary Shares
+Ticker: NVCR
+Sector: Healthcare
+Industry: Medical Devices
+Country: Switzerland
+City: Baar
+Website: https://www.novocure.com
+Employees: 1605
+Business Summary: NovoCure Limited, an oncology company, engages in the development, manufacture, and commercialization of tumor treating fields (TTFields) devices for the treatment of solid tumor cancers in the United States, Germany, France, Japan, Greater China, and internationally. Its TTFields devices include Optune Gio, Optune Lua, and Optune Pax. The company also has ongoing clinical trials investigating TTFields in brain metastases, gastric cancer, glioblastoma, liver cancer, non-small cell lung cancer, pancreatic cancer, and ovarian cancer. NovoCure Limited was incorporated in 2000 and is headquartered in Baar, Switzerland.

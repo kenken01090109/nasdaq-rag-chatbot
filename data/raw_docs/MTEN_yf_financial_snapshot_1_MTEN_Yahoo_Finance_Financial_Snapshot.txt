@@ -1,0 +1,25 @@
+Company: Mingteng International Corporation Inc. Class A Ordinary Shares
+Ticker: MTEN
+Market Cap: 1975031
+Enterprise Value: -86051
+Total Revenue: 10735337
+Revenue Per Share: 326.302
+EBITDA: -4282452
+Gross Margins: 0.26865
+Operating Margins: 0.00026
+Profit Margins: -0.63063
+Free Cashflow: 1432566
+Operating Cashflow: 731118
+Return On Assets: -0.22662
+Return On Equity: -0.81514
+Total Cash: 1755205
+Total Debt: 1614095
+Debt To Equity: 22.647
+Current Ratio: 1.656
+Quick Ratio: 1.048
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.007821159
+Beta: 
+52 Week High: 5206.0
+52 Week Low: 1.38

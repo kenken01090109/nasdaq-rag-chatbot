@@ -1,0 +1,25 @@
+Company: Pioneer Bancorp Inc. Common Stock
+Ticker: PBFS
+Market Cap: 355065056
+Enterprise Value: 130049976
+Total Revenue: 92593000
+Revenue Per Share: 3.784
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.21752001
+Profit Margins: 0.2191
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 0.065570004
+Total Cash: 229048992
+Total Debt: 7898000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.903614
+Forward PE: 
+Price To Book: 1.0899627
+Beta: 0.43
+52 Week High: 15.18
+52 Week Low: 10.595

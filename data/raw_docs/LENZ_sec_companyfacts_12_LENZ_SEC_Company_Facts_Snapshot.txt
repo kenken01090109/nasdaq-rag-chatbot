@@ -1,0 +1,10 @@
+Company: LENZ Therapeutics Inc. Common Stock
+Ticker: LENZ
+CIK: 0001815776
+Latest SEC XBRL Facts:
+NetIncomeLoss: -46231000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 210704000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 16777000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 193927000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -36145000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 25399000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

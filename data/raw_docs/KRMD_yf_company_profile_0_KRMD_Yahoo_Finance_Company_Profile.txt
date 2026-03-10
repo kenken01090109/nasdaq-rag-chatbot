@@ -1,0 +1,9 @@
+Company: KORU Medical Systems Inc. Common Stock (DE)
+Ticker: KRMD
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Mahwah
+Website: https://www.korumedical.com
+Employees: 80
+Business Summary: KORU Medical Systems, Inc. develops, manufactures, and commercializes subcutaneous infusion solutions primarily for the subcutaneous drug delivery market in the United States and internationally. The company offers the freedom infusion systems to deliver life-saving therapies to patients with chronic illnesses, such as primary immunodeficiency diseases (PIDD), chronic inflammatory demyelinating polyneuropathy (CIDP), secondary immunodeficiency disorder (SIDD), and paroxysmal nocturnal hemoglobinuria (PNH). Its products include the FREEDOM60 and FreedomEdge syringe driver, HIgH-Flo subcutaneous safety needle sets, and precision flow rate tubing products. The company was formerly known as Repro Med Systems, Inc. and changed its name to KORU Medical Systems, Inc. in March 2022. KORU Medical Systems, Inc. was incorporated in 1980 and is headquartered in Mahwah, New Jersey.

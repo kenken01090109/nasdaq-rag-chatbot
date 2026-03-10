@@ -1,0 +1,11 @@
+Company: Tractor Supply Company Common Stock
+Ticker: TSCO
+CIK: 0000916365
+Latest SEC XBRL Facts:
+Revenues: 11625726000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetIncomeLoss: 868680000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Assets: 10876602000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+Liabilities: 8303417000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+StockholdersEquity: 2573185000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 1310425000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 184639000 | unit=USD | filed=2025-11-06 | period_end=2025-09-27

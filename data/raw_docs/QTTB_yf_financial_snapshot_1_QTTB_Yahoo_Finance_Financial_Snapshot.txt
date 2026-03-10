@@ -1,0 +1,25 @@
+Company: Q32 Bio Inc. Common Stock
+Ticker: QTTB
+Market Cap: 60432820
+Enterprise Value: 23847758
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -43082000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -24365876
+Operating Cashflow: -38791000
+Return On Assets: -0.335
+Return On Equity: 
+Total Cash: 49039000
+Total Debt: 17025000
+Debt To Equity: 
+Current Ratio: 4.573
+Quick Ratio: 4.464
+Trailing PE: 
+Forward PE: -0.8768656
+Price To Book: -3.1354237
+Beta: 
+52 Week High: 6.37
+52 Week Low: 1.345

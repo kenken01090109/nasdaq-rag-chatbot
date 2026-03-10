@@ -1,0 +1,10 @@
+Company: West Bancorporation Common Stock
+Ticker: WTBA
+CIK: 0001166928
+Latest SEC XBRL Facts:
+NetIncomeLoss: 23070000 | unit=USD | filed=2018-03-01 | period_end=2017-12-31
+Assets: 2114377000 | unit=USD | filed=2018-03-01 | period_end=2017-12-31
+Liabilities: 1936279000 | unit=USD | filed=2018-03-01 | period_end=2017-12-31
+StockholdersEquity: 178098000 | unit=USD | filed=2018-03-01 | period_end=2017-12-31
+NetCashProvidedByUsedInOperatingActivities: 34686000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 82068000 | unit=USD | filed=2015-07-24 | period_end=2015-06-30

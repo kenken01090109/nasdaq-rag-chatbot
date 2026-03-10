@@ -1,0 +1,25 @@
+Company: Arch Capital Group Ltd. Common Stock
+Ticker: ACGL
+Market Cap: 35250868224
+Enterprise Value: 34433912832
+Total Revenue: 19928999936
+Revenue Per Share: 54.096
+EBITDA: 5522999808
+Gross Margins: 0.37162
+Operating Margins: 0.2953
+Profit Margins: 0.22073
+Free Cashflow: -17002250240
+Operating Cashflow: 6172000256
+Return On Assets: 0.04437
+Return On Equity: 0.19540001
+Total Cash: 3681999872
+Total Debt: 2884999936
+Debt To Equity: 11.919
+Current Ratio: 1.077
+Quick Ratio: 0.498
+Trailing PE: 8.380172
+Forward PE: 9.613654
+Price To Book: 1.4870508
+Beta: 0.365
+52 Week High: 103.39
+52 Week Low: 82.45

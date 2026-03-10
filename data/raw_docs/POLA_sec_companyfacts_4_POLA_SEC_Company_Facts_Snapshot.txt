@@ -1,0 +1,12 @@
+Company: Polar Power Inc. Common Stock
+Ticker: POLA
+CIK: 0001622345
+Latest SEC XBRL Facts:
+Revenues: 2860000 | unit=USD | filed=2020-06-29 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 5704000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -5621000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 12346000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 9447000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 2899000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -589000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

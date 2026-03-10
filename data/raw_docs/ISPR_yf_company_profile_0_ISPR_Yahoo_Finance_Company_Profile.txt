@@ -1,0 +1,9 @@
+Company: Ispire Technology Inc. Common Stock
+Ticker: ISPR
+Sector: Consumer Defensive
+Industry: Tobacco
+Country: United States
+City: Los Angeles
+Website: https://www.ispiretechnology.com
+Employees: 81
+Business Summary: Ispire Technology Inc. researches, develops, designs, commercializes, sells, markets, and distributes e-cigarettes and cannabis vaping products worldwide under the Ispire and Aspire brands. The company was founded in 2010 and is headquartered in Los Angeles, California. Ispire Technology Inc. is a subsidiary of Pride Worldwide Investment Limited.

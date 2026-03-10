@@ -1,0 +1,10 @@
+Company: Eureka Acquisition Corp Right
+Ticker: EURKR
+CIK: 0002000410
+Latest SEC XBRL Facts:
+NetIncomeLoss: -118289 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Assets: 32120472 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Liabilities: 1525712 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: -1492915 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -168634 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 57877 | unit=USD | filed=2024-08-14 | period_end=2024-06-30

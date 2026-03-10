@@ -1,0 +1,25 @@
+Company: Atara Biotherapeutics Inc. Common Stock
+Ticker: ATRA
+Market Cap: 37276916
+Enterprise Value: 39297176
+Total Revenue: 151930000
+Revenue Per Share: 12.858
+EBITDA: 44852100
+Gross Margins: 0.46762002
+Operating Margins: -1.02722
+Profit Margins: 0.15402001
+Free Cashflow: -64881688
+Operating Cashflow: -69714000
+Return On Assets: 0.30864
+Return On Equity: 
+Total Cash: 13712000
+Total Debt: 16958000
+Debt To Equity: 
+Current Ratio: 1.021
+Quick Ratio: 0.865
+Trailing PE: 1.8076924
+Forward PE: 44.313023
+Price To Book: -1.0175163
+Beta: -0.399
+52 Week High: 19.145
+52 Week Low: 3.92

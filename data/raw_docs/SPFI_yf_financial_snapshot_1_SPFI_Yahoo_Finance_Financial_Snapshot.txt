@@ -1,0 +1,25 @@
+Company: South Plains Financial Inc. Common Stock
+Ticker: SPFI
+Market Cap: 668195328
+Enterprise Value: 175927728
+Total Revenue: 206692992
+Revenue Per Share: 12.16
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.36626998
+Profit Margins: 0.28289
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01342
+Return On Equity: 0.12537
+Total Cash: 552438976
+Total Debt: 60493000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.417828
+Forward PE: 9.771156
+Price To Book: 1.3524036
+Beta: 0.561
+52 Week High: 44.0
+52 Week Low: 30.01

@@ -1,0 +1,9 @@
+Company: First Seacoast Bancorp Inc. Common Stock
+Ticker: FSEA
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Dover
+Website: https://www.firstseacoastbank.com
+Employees: 75
+Business Summary: First Seacoast Bancorp, Inc. operates as the holding company for First Seacoast Bank that provides banking and wealth management services for individuals and businesses. The company offers interest-bearing and non-interest-bearing checking, savings, and money market accounts, as well as time deposits. It also provides various lending products comprising one- to four-family residential real estate loans; commercial real estate and multi-family real estate loans; acquisition, development, and land loans; commercial and industrial loans; and home equity loans and lines of credit, as well as consumer loans. In addition, the company offers wealth management services, such as retirement planning, portfolio management, investment and insurance strategies, business retirement plans, and college planning services through a third-party registered broker-dealer and investment advisor. The company was founded in 1890 and is headquartered in Dover, New Hampshire.

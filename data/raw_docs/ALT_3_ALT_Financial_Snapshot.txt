@@ -1,0 +1,12 @@
+Company: Altimmune Inc. Common Stock
+Ticker: ALT
+Total Revenue: 20000
+Revenue Per Share: 0.0
+Gross Margins: 0.0
+Operating Margins: -4171.8
+EBITDA: -90343000
+Profit Margins: 0.0
+Free Cashflow: -37671376
+Operating Cashflow: -66352000
+Return On Assets: -0.30868998
+Return On Equity: -0.52615

@@ -1,0 +1,25 @@
+Company: FormFactor Inc. FormFactor Inc. Common Stock
+Ticker: FORM
+Market Cap: 6623804416
+Enterprise Value: 6510334464
+Total Revenue: 784993024
+Revenue Per Share: 10.149
+EBITDA: 100328000
+Gross Margins: 0.39183998
+Operating Margins: 0.13552
+Profit Margins: 0.06925
+Free Cashflow: -31925876
+Operating Cashflow: 115398000
+Return On Assets: 0.03308
+Return On Equity: 0.054819997
+Total Cash: 275172000
+Total Debt: 32358000
+Debt To Equity: 3.125
+Current Ratio: 4.497
+Quick Ratio: 3.253
+Trailing PE: 123.2029
+Forward PE: 38.10211
+Price To Book: 6.3749533
+Beta: 1.05
+52 Week High: 107.04
+52 Week Low: 22.58

@@ -1,0 +1,11 @@
+Company: Linkage Global Inc. Class A Ordinary Shares
+Ticker: LGCB
+CIK: 0001969401
+Latest SEC XBRL Facts:
+Revenues: 3501947 | unit=USD | filed=2025-07-03 | period_end=2025-03-31
+NetIncomeLoss: -3087359 | unit=USD | filed=2025-07-03 | period_end=2025-03-31
+Assets: 19584537 | unit=USD | filed=2025-07-03 | period_end=2025-03-31
+Liabilities: 12642998 | unit=USD | filed=2025-07-03 | period_end=2025-03-31
+StockholdersEquity: 6941539 | unit=USD | filed=2025-07-03 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1738971 | unit=USD | filed=2025-07-03 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 328081 | unit=USD | filed=2025-07-03 | period_end=2025-03-31

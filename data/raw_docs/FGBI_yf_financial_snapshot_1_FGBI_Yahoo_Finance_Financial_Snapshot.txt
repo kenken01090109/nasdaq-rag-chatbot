@@ -1,0 +1,25 @@
+Company: First Guaranty Bancshares Inc. Common Stock
+Ticker: FGBI
+Market Cap: 135981456
+Enterprise Value: -490784544
+Total Revenue: 13689000
+Revenue Per Share: 0.979
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.1481
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.01392
+Return On Equity: -0.23281
+Total Cash: 845950976
+Total Debt: 186127008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 13.246154
+Price To Book: 0.70400655
+Beta: 0.292
+52 Week High: 10.55
+52 Week Low: 4.31

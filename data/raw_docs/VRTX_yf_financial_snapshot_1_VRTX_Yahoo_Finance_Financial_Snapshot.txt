@@ -1,0 +1,25 @@
+Company: Vertex Pharmaceuticals Incorporated Common Stock
+Ticker: VRTX
+Market Cap: 116014874624
+Enterprise Value: 112491937792
+Total Revenue: 12001300480
+Revenue Per Share: 46.935
+EBITDA: 4865999872
+Gross Margins: 0.53665
+Operating Margins: 0.39602003
+Profit Margins: 0.32939997
+Free Cashflow: 2573112576
+Operating Cashflow: 3631399936
+Return On Assets: 0.12162
+Return On Equity: 0.22541
+Total Cash: 6608099840
+Total Debt: 2036000000
+Debt To Equity: 10.908
+Current Ratio: 2.901
+Quick Ratio: 2.243
+Trailing PE: 29.84902
+Forward PE: 20.94426
+Price To Book: 6.214315
+Beta: 0.315
+52 Week High: 519.68
+52 Week Low: 362.5

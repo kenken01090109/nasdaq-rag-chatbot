@@ -1,0 +1,12 @@
+Company: Paysign Inc. Common Stock
+Ticker: PAYS
+CIK: 0001496443
+Latest SEC XBRL Facts:
+Revenues: 24120434 | unit=USD | filed=2021-03-26 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 59272980 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 6188996 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 209509085 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 163751280 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 45757805 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4360171 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7387156 | unit=USD | filed=2022-03-23 | period_end=2021-12-31

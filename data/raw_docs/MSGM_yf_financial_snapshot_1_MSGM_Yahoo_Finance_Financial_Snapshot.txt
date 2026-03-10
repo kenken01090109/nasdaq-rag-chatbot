@@ -1,0 +1,25 @@
+Company: Motorsport Games Inc. Class A Common Stock
+Ticker: MSGM
+Market Cap: 23513228
+Enterprise Value: 18980980
+Total Revenue: 9424138
+Revenue Per Share: 2.209
+EBITDA: -383376
+Gross Margins: 0.7253
+Operating Margins: 0.25772
+Profit Margins: 0.36602002
+Free Cashflow: -4621
+Operating Cashflow: 1243846
+Return On Assets: 0.01189
+Return On Equity: 0.70272005
+Total Cash: 4128690
+Total Debt: 26124
+Debt To Equity: 0.384
+Current Ratio: 1.924
+Quick Ratio: 1.704
+Trailing PE: 11.02381
+Forward PE: -2.6457143
+Price To Book: 4.0156116
+Beta: 1.869
+52 Week High: 5.409
+52 Week Low: 0.731

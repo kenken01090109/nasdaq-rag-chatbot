@@ -1,0 +1,10 @@
+Company: Dorman Products Inc. Common Stock
+Ticker: DORM
+CIK: 0000868780
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1592387000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+NetIncomeLoss: 192634000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+Assets: 2552526000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+StockholdersEquity: 1482581000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 71990000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 55505000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27

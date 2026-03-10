@@ -1,0 +1,25 @@
+Company: Zymeworks Inc. Common Stock
+Ticker: ZYME
+Market Cap: 1833701248
+Enterprise Value: 1618460288
+Total Revenue: 105965000
+Revenue Per Share: 1.405
+EBITDA: -84824000
+Gross Margins: -0.29288
+Operating Margins: -17.55547
+Profit Margins: -0.76563
+Free Cashflow: -12959125
+Operating Cashflow: -33005000
+Return On Assets: -0.14288999
+Return On Equity: -0.2672
+Total Cash: 228796992
+Total Debt: 18267000
+Debt To Equity: 6.803
+Current Ratio: 5.879
+Quick Ratio: 5.516
+Trailing PE: 
+Forward PE: 40.596813
+Price To Book: 6.694468
+Beta: 1.278
+52 Week High: 28.49
+52 Week Low: 9.03

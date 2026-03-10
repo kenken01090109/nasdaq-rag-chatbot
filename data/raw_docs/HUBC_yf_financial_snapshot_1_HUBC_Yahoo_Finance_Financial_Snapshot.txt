@@ -1,0 +1,25 @@
+Company: Hub Cyber Security Ltd. Ordinary Shares
+Ticker: HUBC
+Market Cap: 2249246
+Enterprise Value: 51198864
+Total Revenue: 28966000
+Revenue Per Share: 64.358
+EBITDA: -27987000
+Gross Margins: 0.16678
+Operating Margins: -1.26012
+Profit Margins: -1.87965
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.35845003
+Return On Equity: 
+Total Cash: 917000
+Total Debt: 51262000
+Debt To Equity: 
+Current Ratio: 0.157
+Quick Ratio: 0.079
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.012165306
+Beta: -0.801
+52 Week High: 94.5
+52 Week Low: 0.99

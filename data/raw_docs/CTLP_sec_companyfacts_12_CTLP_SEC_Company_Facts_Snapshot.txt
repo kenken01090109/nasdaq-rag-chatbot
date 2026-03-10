@@ -1,0 +1,11 @@
+Company: Cantaloupe Inc. Common Stock
+Ticker: CTLP
+CIK: 0000896429
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 159565000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: -989000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 381943000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 126767000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 252456000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 10123000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 52980000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

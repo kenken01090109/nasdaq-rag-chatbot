@@ -1,0 +1,25 @@
+Company: Oramed Pharmaceuticals Inc. Common Stock
+Ticker: ORMP
+Market Cap: 130901448
+Enterprise Value: 947371
+Total Revenue: 2000000
+Revenue Per Share: 0.048
+EBITDA: -12889000
+Gross Margins: 0.0064999997
+Operating Margins: -6.5055
+Profit Margins: 21.926
+Free Cashflow: -3228875
+Operating Cashflow: -10590000
+Return On Assets: -0.042179998
+Return On Equity: 0.24484
+Total Cash: 134687008
+Total Debt: 860000
+Debt To Equity: 0.425
+Current Ratio: 22.245
+Quick Ratio: 22.077
+Trailing PE: 3.285
+Forward PE: -41.062504
+Price To Book: 0.6599036
+Beta: 1.282
+52 Week High: 3.76
+52 Week Low: 1.82

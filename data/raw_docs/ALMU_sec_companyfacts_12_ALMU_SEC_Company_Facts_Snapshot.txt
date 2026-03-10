@@ -1,0 +1,11 @@
+Company: Aeluma Inc. Common Stock
+Ticker: ALMU
+CIK: 0001828805
+Latest SEC XBRL Facts:
+Revenues: 2657000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetIncomeLoss: -3346000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 42570000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 1767000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 40803000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1066000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 38572000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: Duolingo Inc. Class A Common Stock
+Ticker: DUOL
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Pittsburgh
+Website: https://www.duolingo.com
+Employees: 900
+Business Summary: Duolingo, Inc. operates as a mobile learning platform in the United States, the United Kingdom, and internationally. The company offers 250 language courses, including Spanish, English, French, German, Italian, Portuguese, Japanese, and Chinese through its Duolingo app. It also provides a digital English language proficiency assessment exam. The company was incorporated in 2011 and is headquartered in Pittsburgh, Pennsylvania.

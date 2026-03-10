@@ -1,0 +1,10 @@
+Company: Applied Optoelectronics Inc. Common Stock
+Ticker: AAOI
+Market Cap: 7605608448
+Enterprise Value: 7647550464
+Trailing PE: 
+Forward PE: 36.81165
+Price To Book: 10.335173
+Beta: 3.274
+52 Week High: 110.0
+52 Week Low: 9.711

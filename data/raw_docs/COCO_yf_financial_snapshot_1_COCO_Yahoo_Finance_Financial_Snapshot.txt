@@ -1,0 +1,25 @@
+Company: The Vita Coco Company Inc. Common Stock
+Ticker: COCO
+Market Cap: 2952290048
+Enterprise Value: 2843299072
+Total Revenue: 609779968
+Revenue Per Share: 10.714
+EBITDA: 83744000
+Gross Margins: 0.36504
+Operating Margins: 0.08087
+Profit Margins: 0.116960004
+Free Cashflow: 19375000
+Operating Cashflow: 47174000
+Return On Assets: 0.12548
+Return On Equity: 0.24162
+Total Cash: 196872992
+Total Debt: 14817000
+Debt To Equity: 4.469
+Current Ratio: 3.62
+Quick Ratio: 2.579
+Trailing PE: 43.462185
+Forward PE: 27.031406
+Price To Book: 8.904959
+Beta: 0.358
+52 Week High: 59.88
+52 Week Low: 25.79

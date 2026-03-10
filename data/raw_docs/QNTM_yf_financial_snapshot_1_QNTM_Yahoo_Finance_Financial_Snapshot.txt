@@ -1,0 +1,25 @@
+Company: Quantum Biopharma Ltd. Class B Subordinate Voting Shares
+Ticker: QNTM
+Market Cap: 13450420
+Enterprise Value: 14032085
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -18641004
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -8581653
+Operating Cashflow: -8767176
+Return On Assets: -0.72220004
+Return On Equity: -2.51264
+Total Cash: 1082705
+Total Debt: 2557098
+Debt To Equity: 34.064
+Current Ratio: 1.406
+Quick Ratio: 0.605
+Trailing PE: 
+Forward PE: -0.44871795
+Price To Book: 1.5438906
+Beta: 0.598
+52 Week High: 38.25
+52 Week Low: 3.41

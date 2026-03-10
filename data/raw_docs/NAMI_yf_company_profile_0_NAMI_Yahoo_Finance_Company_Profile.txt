@@ -1,0 +1,9 @@
+Company: Jinxin Technology Holding Company American Depositary Shares
+Ticker: NAMI
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: China
+City: Shanghai
+Website: https://www.namibox.com
+Employees: 103
+Business Summary: Jinxin Technology Holding Company operates as a digital content service provider in the People's Republic of China. The company offers digital version of mainstream textbooks used in primary schools and middle schools; and digital textbooks in Chinese and English subjects used in K-9 schools. It distributes digital and integrated educational contents primarily through Namibox, a learning app; telecom and broadcast operators; and third-party devices. The company was founded in 2014 and is headquartered in Shanghai, the People's Republic of China.

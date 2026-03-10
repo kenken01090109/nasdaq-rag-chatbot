@@ -1,0 +1,11 @@
+Company: Nova Ltd. Ordinary Shares
+Ticker: NVMI
+CIK: 0001109345
+Latest SEC XBRL Facts:
+Revenues: 433345000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+NetIncomeLoss: 133114000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+Assets: 1533626000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+Liabilities: 437216000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+StockholdersEquity: 1096410000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 114210000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 160563000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30

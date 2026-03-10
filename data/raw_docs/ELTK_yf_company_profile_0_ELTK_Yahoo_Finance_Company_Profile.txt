@@ -1,0 +1,9 @@
+Company: Eltek Ltd. Ordinary Shares
+Ticker: ELTK
+Sector: Technology
+Industry: Electronic Components
+Country: Israel
+City: Petah Tikva
+Website: https://www.nisteceltek.com
+Employees: 329
+Business Summary: Eltek Ltd. manufactures, markets, and sells printed circuit boards (PCBs) in Israel, North America, India, the Netherlands, rest of Europe, and internationally. It offers a range of custom designed PCBs, including complex rigid, double-sided and multi-layer PCBs, and flexible circuitry boards. The company also provides high-density circuit boards; and flexible and flex rigid PCBs, and multi-layered boards, as well as act as a supplier for the importation of PCBs. In addition, it provides training and consulting services. The company primarily serves medical technology, defense and aerospace, industrial, telecom, and networking equipment industries, as well as contract electronic manufacturers. It markets and sells its products primarily through direct sales personnel, sales representatives, and PCB trading and manufacturing companies. Eltek Ltd. was incorporated in 1970 and is headquartered in Petah Tikva, Israel. Eltek Ltd. is a subsidiary of Nistec Golan Ltd.

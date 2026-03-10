@@ -1,0 +1,10 @@
+Company: Adeia Inc. Common Stock
+Ticker: ADEA
+Market Cap: 2299714048
+Enterprise Value: 2581113600
+Trailing PE: 21.21212
+Forward PE: 14.031149
+Price To Book: 4.7629848
+Beta: 0.948
+52 Week High: 21.07
+52 Week Low: 10.59

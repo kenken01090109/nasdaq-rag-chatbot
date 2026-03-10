@@ -1,0 +1,9 @@
+Company: XBP Global Holdings Inc. Common Stock
+Ticker: XBP
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Irving
+Website: https://www.xbpglobal.com
+Employees: 11000
+Business Summary: XBP Global Holdings, Inc. operates as a technology and services company in the United States, Europe, the Middle East, Africa, and internationally. The company operates through two segments, Applied Workflow Automation and Technology. The Applied Workflow Automation segment provides services powered by AI-enabled workflows for clients' mission critical systems. Its services include payment processing, data capture, analysis, decisioning, distribution, and transformation across industries and the public and private sectors primarily in the Americas and Europe, and Asia. This segment serves banks, payers and providers, and utilities, as well as government entities. The Technology segment focuses on the sale of software licenses; and provision of software maintenance and professional services, as well as hardware solutions and maintenance. It offers a suite of products with primary focus on workflows leveraging AI. This segment also offers industry specific platforms for the banking and healthcare industries. The company was formerly known as XBP Europe Holdings, Inc. and changed its name to XBP Global Holdings, Inc. in July 2025. XBP Global Holdings, Inc. is based in Irving, Texas. XBP Global Holdings, Inc. is a subsidiary of Btc International Holdings, Inc.

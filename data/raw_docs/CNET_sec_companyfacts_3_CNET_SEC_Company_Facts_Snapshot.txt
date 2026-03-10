@@ -1,0 +1,12 @@
+Company: ZW Data Action Technologies Inc. Common Stock
+Ticker: CNET
+CIK: 0001376321
+Latest SEC XBRL Facts:
+Revenues: 31287000 | unit=USD | filed=2017-11-14 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3917000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1276000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 9650000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6241000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 3347000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -781000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1761000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

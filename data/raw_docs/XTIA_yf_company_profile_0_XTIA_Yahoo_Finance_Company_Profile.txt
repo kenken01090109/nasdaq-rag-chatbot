@@ -1,0 +1,9 @@
+Company: XTI Aerospace Inc. Common Stock
+Ticker: XTIA
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Englewood
+Website: https://www.xtiaircraft.com
+Employees: 43
+Business Summary: XTI Aerospace, Inc. operates as an aircraft development company in the United States, Germany, and the United Kingdom. The company offers TriFan 600, a vertical takeoff and landing aircraft; and real-time location systems (RTLS) for the industrial sector. It also provides indoor intelligence software and hardware products comprising industrial RTLS software-as-a-service platform; IoT devices, sensors, and tags; transceivers/modules; analytics and insights; and wireless device detection for security. It sells its products through direct sale representatives; and channel partners comprising original equipment manufacturers, integrators, resellers, and distributors. XTI Aerospace, Inc. is headquartered in Englewood, Colorado.

@@ -1,0 +1,9 @@
+Company: Celularity Inc. Warrant
+Ticker: CELUW
+Sector: 
+Industry: 
+Country: United States
+City: Florham Park
+Website: https://www.celularity.com
+Employees: 123
+Business Summary: Celularity Inc., a regenerative and cellular medicines company, focuses on addressing aging-related and degenerative diseases. It develops off-the-shelf placental-derived allogeneic cell therapy product candidates, including mesenchymal-like adherent stromal cells for diabetic foot ulcer and Crohn's disease. The company operates through three segments: Cell Therapy, Degenerative Disease, and BioBanking. Its therapeutic programs include PDA-001 for the treatment of autoimmune (Crohn's) and degenerative disease; and PDA-002 for treating facioscapulohumeral muscular dystrophy. The company is also developing pExo-001, a human postpartum placenta derived exosome product for the treatment of osteoarthritis. In addition, it produces, sells, and licenses products used in surgical and wound care markets, such as Biovance, Biovance 3L, Rebound, Interfyl, and Centaflex; and collects, processes, and stores umbilical cord and placental blood and tissue after full-term pregnancies under the LifebankUSA brand. Celularity Inc. has licensing agreement with Sorrento Therapeutics, Inc. for the development and commercialization of licensed CD19 CAR-T products; and research collaboration services agreement with Regeneron Pharmaceuticals, Inc. to support the research of allogeneic cell therapy candidates. Celularity Inc. was founded in 1998 and is headquartered in Florham Park, New Jersey.

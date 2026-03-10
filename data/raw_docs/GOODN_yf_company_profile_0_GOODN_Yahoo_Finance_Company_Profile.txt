@@ -1,0 +1,9 @@
+Company: Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock
+Ticker: GOODN
+Sector: Real Estate
+Industry: REIT - Diversified
+Country: United States
+City: McLean
+Website: https://www.gladstonecommercial.com
+Employees: 
+Business Summary: Gladstone Commercial is an established real estate investment trust (REIT) that invests in single tenant and anchored multi-tenant net leased assets. As of June 30, 2025, we owned approximately 17.0 million square feet of primarily industrial and office real estate nationwide. We partner with a variety of tenantsfrom middle market private businesses to investment grade rated companies. We acquire properties through third party purchases, sale leaseback transactions, and by partnering with developers in build-to-suit transactions. As of June 30, 2025, total assets were approximately $1.2 billion, representing investments in 143 properties. Our properties are leased to 107 tenants who represent 20 diversified industries across 27 states. At June 30, 2025, our leases had an average remaining term of 7.1 years. In addition, approximately 51% of our tenants have an investment grade or investment grade equivalent credit rating.

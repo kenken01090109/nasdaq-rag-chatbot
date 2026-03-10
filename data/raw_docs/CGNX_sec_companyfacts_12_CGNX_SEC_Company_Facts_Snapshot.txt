@@ -1,0 +1,12 @@
+Company: Cognex Corporation Common Stock
+Ticker: CGNX
+CIK: 0000851205
+Latest SEC XBRL Facts:
+Revenues: 173484000 | unit=USD | filed=2019-04-29 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 742021000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+NetIncomeLoss: 81778000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+Assets: 2002750000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+Liabilities: 513114000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+StockholdersEquity: 1489636000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 170612000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 245898000 | unit=USD | filed=2025-10-30 | period_end=2025-09-28

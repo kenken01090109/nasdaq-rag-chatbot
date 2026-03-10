@@ -1,0 +1,9 @@
+Company: eGain Corporation Common Stock
+Ticker: EGAN
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Sunnyvale
+Website: https://www.egain.com
+Employees: 444
+Business Summary: eGain Corporation engages in the development, license, implementation, and support of its customer service infrastructure software solutions in North America, Europe, the Middle East, Africa, and the Asia Pacific. It provides eGain AI Agent, which helps businesses to deploy enterprise-grade agentic solutions built on knowledge and guided actions; eGain AI Knowledge Hub to centralize knowledge, policies, procedures, situations, and best-practices, as well as guided and personalized answers to customers, agents, and field staff; and eGain Conversation Hub for scalable capabilities of digital-first interaction management within a modern, omnichannel desktop. The company also offers a cloud-based platform through subscription basis; professional services, such as consulting and implementation services, training services, and managed services. It serves customers in various industry sectors, financial services, the public sector, healthcare, telecommunications, and other highly regulated industries. The company was incorporated in 1997 and is headquartered in Sunnyvale, California.

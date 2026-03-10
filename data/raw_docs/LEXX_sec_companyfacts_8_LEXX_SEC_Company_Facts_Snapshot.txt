@@ -1,0 +1,12 @@
+Company: Lexaria Bioscience Corp. Common Stock
+Ticker: LEXX
+CIK: 0001348362
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 183923 | unit=USD | filed=2025-01-10 | period_end=2024-11-30
+NetIncomeLoss: -1595007 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Assets: 6050807 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+Liabilities: 1527353 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+StockholdersEquity: 4912892 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+NetCashProvidedByUsedInOperatingActivities: -984098 | unit=USD | filed=2026-01-13 | period_end=2025-11-30
+CashAndCashEquivalentsAtCarryingValue: 4300000 | unit=USD | filed=2026-01-13 | period_end=2025-11-30

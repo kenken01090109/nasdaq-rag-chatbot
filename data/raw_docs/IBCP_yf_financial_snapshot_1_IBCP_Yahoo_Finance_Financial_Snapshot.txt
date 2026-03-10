@@ -1,0 +1,25 @@
+Company: Independent Bank Corporation Common Stock
+Ticker: IBCP
+Market Cap: 708285504
+Enterprise Value: 692759552
+Total Revenue: 219524000
+Revenue Per Share: 10.569
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.37546003
+Profit Margins: 0.31223
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01264
+Return On Equity: 0.14315
+Total Cash: 138387008
+Total Debt: 116867000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.46789
+Forward PE: 9.403846
+Price To Book: 1.3985128
+Beta: 0.748
+52 Week High: 37.39
+52 Week Low: 26.75

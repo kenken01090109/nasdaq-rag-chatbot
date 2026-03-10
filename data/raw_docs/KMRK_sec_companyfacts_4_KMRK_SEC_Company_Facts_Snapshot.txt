@@ -1,0 +1,10 @@
+Company: K-Tech Solutions Company Limited Class A Ordinary Shares
+Ticker: KMRK
+CIK: 0002049187
+Latest SEC XBRL Facts:
+Revenues: 18612534 | unit=USD | filed=2025-08-15 | period_end=2025-03-31
+NetIncomeLoss: 487957 | unit=USD | filed=2025-08-15 | period_end=2025-03-31
+Assets: 6925612 | unit=USD | filed=2025-08-15 | period_end=2025-03-31
+Liabilities: 4132491 | unit=USD | filed=2025-08-15 | period_end=2025-03-31
+StockholdersEquity: 2793121 | unit=USD | filed=2025-08-15 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -1296977 | unit=USD | filed=2025-08-15 | period_end=2025-03-31

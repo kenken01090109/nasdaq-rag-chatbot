@@ -1,0 +1,11 @@
+Company: Lixte Biotechnology Holdings Inc. Common Stock
+Ticker: LIXT
+CIK: 0001335105
+Latest SEC XBRL Facts:
+Revenues: 200000 | unit=USD | filed=2016-03-28 | period_end=2015-12-31
+NetIncomeLoss: -3465626 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 5433676 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 218651 | unit=USD | filed=2017-03-29 | period_end=2016-12-31
+StockholdersEquity: 4912254 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1982720 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3414263 | unit=USD | filed=2024-05-09 | period_end=2024-03-31

@@ -1,0 +1,12 @@
+Company: CarGurus Inc. Class A Common Stock
+Ticker: CARG
+CIK: 0001494259
+Latest SEC XBRL Facts:
+Revenues: 328068000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 697887000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 106105000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 660472000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 285023000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 375449000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 212163000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 178834000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

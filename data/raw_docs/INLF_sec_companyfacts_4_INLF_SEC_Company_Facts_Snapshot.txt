@@ -1,0 +1,11 @@
+Company: INLIF LIMITED Class A Ordinary Shares
+Ticker: INLF
+CIK: 0001991592
+Latest SEC XBRL Facts:
+Revenues: 10270988 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: -1975420 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 22954884 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 7103387 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 15851497 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2943548 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1715784 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

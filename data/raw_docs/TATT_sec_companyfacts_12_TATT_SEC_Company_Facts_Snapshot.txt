@@ -1,0 +1,11 @@
+Company: TAT Technologies Ltd. Ordinary Shares
+Ticker: TATT
+CIK: 0000808439
+Latest SEC XBRL Facts:
+Revenues: 131481000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 12096000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 224135000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 53447000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 170688000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 9409000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47094000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

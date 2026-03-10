@@ -1,0 +1,9 @@
+Company: WhiteHorse Finance Inc. Common Stock
+Ticker: WHF
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Miami
+Website: https://www.whitehorsefinance.com
+Employees: 
+Business Summary: WhiteHorse Finance, Inc. is business development company, non-diversified, closed end management company specializing in originating senior secured loans, lower middle market, growth capital industries. It invests in broadline retail, office services and supplies, building products, health care services, health care supplies, research and consulting services, application software, home furnishings, specialized consumer services, data processing and outsourced services, leisure facilities, cable, and satellite. It prefers to invest in United States. It typically invests between $5 million to $25 million in companies having enterprise value of between $50 million and $350 million.

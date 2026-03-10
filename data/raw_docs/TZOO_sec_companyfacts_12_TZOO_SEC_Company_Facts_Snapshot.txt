@@ -1,0 +1,12 @@
+Company: Travelzoo Common Stock
+Ticker: TZOO
+CIK: 0001133311
+Latest SEC XBRL Facts:
+Revenues: 63328000 | unit=USD | filed=2023-11-08 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 69245000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 4720000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 46164000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 49247000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -8099000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 4209000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8491000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

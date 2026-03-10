@@ -1,0 +1,11 @@
+Company: Praxis Precision Medicines Inc. Common Stock
+Ticker: PRAX
+CIK: 0001689548
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -214357000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 396388000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 52883000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 343505000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -172743000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 149527000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

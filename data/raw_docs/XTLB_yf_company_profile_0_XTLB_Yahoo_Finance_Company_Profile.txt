@@ -1,0 +1,9 @@
+Company: XTL Biopharmaceuticals Ltd. American Depositary Shares
+Ticker: XTLB
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Ramat Gan
+Website: https://www.xtlbio.com
+Employees: 10
+Business Summary: XTL Biopharmaceuticals Ltd., a biopharmaceutical company, engages in the acquisition and development of pharmaceutical drugs for the treatment of autoimmune diseases in Israel. Its lead drug candidate is hCDR1, which is a Phase II-ready asset for the treatment of systemic lupus erythematosus and Sjogren's syndrome. The company has a licensing agreement with Yeda Research and Development Company Limited for the research, development, and commercialization of hCDR1 for various indications. The company was formerly known as Xenograft Technologies Ltd. and changed its name to XTL Biopharmaceuticals Ltd. in July 1995. XTL Biopharmaceuticals Ltd. was incorporated in 1993 and is headquartered in Ramat Gan, Israel.

@@ -1,0 +1,25 @@
+Company: CRISPR Therapeutics AG Common Shares
+Ticker: CRSP
+Market Cap: 5423170048
+Enterprise Value: 3733755904
+Total Revenue: 3510000
+Revenue Per Share: 0.039
+EBITDA: -548838976
+Gross Margins: 0.0
+Operating Margins: -179.125
+Profit Margins: 0.0
+Free Cashflow: -205623744
+Operating Cashflow: -345014016
+Return On Assets: -0.15761
+Return On Equity: -0.30181998
+Total Cash: 1975827968
+Total Debt: 206746000
+Debt To Equity: 10.758
+Current Ratio: 13.316
+Quick Ratio: 13.25
+Trailing PE: 
+Forward PE: -13.448026
+Price To Book: 2.8192205
+Beta: 1.738
+52 Week High: 78.48
+52 Week Low: 30.04

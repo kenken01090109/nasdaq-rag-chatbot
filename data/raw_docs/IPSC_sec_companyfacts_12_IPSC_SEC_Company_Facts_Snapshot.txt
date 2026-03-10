@@ -1,0 +1,11 @@
+Company: Century Therapeutics Inc. Common Stock
+Ticker: IPSC
+CIK: 0001850119
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 109164000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 9591000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 244717000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 68369000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 176348000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -87799000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 55515000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

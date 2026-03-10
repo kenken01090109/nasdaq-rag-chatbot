@@ -1,0 +1,9 @@
+Company: Rent the Runway Inc. Class A Common Stock
+Ticker: RENT
+Sector: Consumer Cyclical
+Industry: Apparel Retail
+Country: United States
+City: Brooklyn
+Website: https://www.renttherunway.com
+Employees: 912
+Business Summary: Rent the Runway, Inc. operates shared designer closet in the United States. The company provides evening wear and accessories, ready-to-wear, workwear, denim, casual, maternity, outerwear, blouses, knitwear, loungewear, jewelry, handbags, activewear, and ski wear under subscription, rental, and resale offering. It also engages in the software development and support activities. Rent the Runway, Inc. was incorporated in 2009 and is headquartered in Brooklyn, New York.

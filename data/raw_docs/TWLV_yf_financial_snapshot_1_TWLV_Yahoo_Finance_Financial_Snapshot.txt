@@ -1,0 +1,25 @@
+Company: Twelve Seas Investment Company III Class A Ordinary Shares
+Ticker: TWLV
+Market Cap: 232031248
+Enterprise Value: 202213520
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 0
+Return On Assets: 
+Return On Equity: 
+Total Cash: 2411
+Total Debt: 255932
+Debt To Equity: 
+Current Ratio: 0.468
+Quick Ratio: 0.338
+Trailing PE: 
+Forward PE: 
+Price To Book: -495.0
+Beta: 
+52 Week High: 10.38
+52 Week Low: 9.84

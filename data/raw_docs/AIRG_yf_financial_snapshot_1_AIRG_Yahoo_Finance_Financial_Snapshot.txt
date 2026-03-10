@@ -1,0 +1,25 @@
+Company: Airgain Inc. Common Stock
+Ticker: AIRG
+Market Cap: 49387340
+Enterprise Value: 47460956
+Total Revenue: 51779000
+Revenue Per Share: 4.373
+EBITDA: -4499000
+Gross Margins: 0.43541
+Operating Margins: -0.176
+Profit Margins: -0.1241
+Free Cashflow: -1180125
+Operating Cashflow: -1113000
+Return On Assets: -0.10925999
+Return On Equity: -0.21688
+Total Cash: 7358000
+Total Debt: 4701000
+Debt To Equity: 16.618
+Current Ratio: 1.984
+Quick Ratio: 1.551
+Trailing PE: 
+Forward PE: 14.000001
+Price To Book: 1.770253
+Beta: 0.972
+52 Week High: 5.85
+52 Week Low: 3.0

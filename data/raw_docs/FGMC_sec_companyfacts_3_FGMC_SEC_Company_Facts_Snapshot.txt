@@ -1,0 +1,9 @@
+Company: FG Merger II Corp. Common stock
+Ticker: FGMC
+CIK: 0001906364
+Latest SEC XBRL Facts:
+NetIncomeLoss: 974654 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 82549358 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 475267 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 223910 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1289534 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

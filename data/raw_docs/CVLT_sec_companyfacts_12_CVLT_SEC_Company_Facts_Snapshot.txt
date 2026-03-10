@@ -1,0 +1,11 @@
+Company: Commvault Systems Inc. Common Stock
+Ticker: CVLT
+CIK: 0001169561
+Latest SEC XBRL Facts:
+Revenues: 871998000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 871998000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+NetIncomeLoss: 56008000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+Assets: 2038134000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+StockholdersEquity: 216731000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 112495000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1026346000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31

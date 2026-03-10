@@ -1,0 +1,11 @@
+Company: Prelude Therapeutics Incorporated Common Stock
+Ticker: PRLD
+CIK: 0001678660
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6500000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -83041000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 94755000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 36221000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 58534000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -79421000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47532000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

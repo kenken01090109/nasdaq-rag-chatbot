@@ -1,0 +1,25 @@
+Company: TriCo Bancshares Common Stock
+Ticker: TCBK
+Market Cap: 1536175360
+Enterprise Value: 1538261504
+Total Revenue: 405782016
+Revenue Per Share: 12.419
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.43127
+Profit Margins: 0.29955998
+Free Cashflow: 
+Operating Cashflow: 133293000
+Return On Assets: 0.0124699995
+Return On Equity: 0.09538
+Total Cash: 92914000
+Total Debt: 80229000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.77027
+Forward PE: 11.227732
+Price To Book: 1.1504748
+Beta: 0.619
+52 Week High: 53.18
+52 Week Low: 35.2

@@ -1,0 +1,12 @@
+Company: Advanced Flower Capital Inc. Common Stock
+Ticker: AFCG
+Total Revenue: -821262
+Revenue Per Share: -0.037
+Gross Margins: 0.0
+Operating Margins: 3.65103
+EBITDA: 
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 14018262
+Return On Assets: -0.068909995
+Return On Equity: -0.12029

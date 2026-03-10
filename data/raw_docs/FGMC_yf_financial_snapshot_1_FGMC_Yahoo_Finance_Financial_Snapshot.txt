@@ -1,0 +1,25 @@
+Company: FG Merger II Corp. Common stock
+Ticker: FGMC
+Market Cap: 103987584
+Enterprise Value: 103305840
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 1282717
+Return On Assets: 
+Return On Equity: 
+Total Cash: 578786
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.471
+Quick Ratio: 1.218
+Trailing PE: 101.0
+Forward PE: 
+Price To Book: 459.09094
+Beta: 
+52 Week High: 10.25
+52 Week Low: 9.53

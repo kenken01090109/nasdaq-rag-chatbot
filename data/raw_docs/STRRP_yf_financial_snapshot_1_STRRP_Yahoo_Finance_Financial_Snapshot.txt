@@ -1,0 +1,25 @@
+Company: Star Equity Holdings Inc. 10% Series A Cumulative Perpetual Preferred Stock
+Ticker: STRRP
+Market Cap: 
+Enterprise Value: 38575848
+Total Revenue: 148966000
+Revenue Per Share: 48.765
+EBITDA: -3782000
+Gross Margins: 0.09423
+Operating Margins: -0.06764
+Profit Margins: -0.03218
+Free Cashflow: -10354875
+Operating Cashflow: -1381000
+Return On Assets: -0.03795
+Return On Equity: -0.08659001
+Total Cash: 18089000
+Total Debt: 22990000
+Debt To Equity: 33.923
+Current Ratio: 2.068
+Quick Ratio: 1.656
+Trailing PE: 
+Forward PE: -10.652174
+Price To Book: 0.49688184
+Beta: 0.561
+52 Week High: 10.92
+52 Week Low: 8.149

@@ -1,0 +1,25 @@
+Company: ON Semiconductor Corporation Common Stock
+Ticker: ON
+Market Cap: 22883258368
+Enterprise Value: 24700348416
+Total Revenue: 5995400192
+Revenue Per Share: 14.587
+EBITDA: 1755500032
+Gross Margins: 0.38321
+Operating Margins: 0.19136
+Profit Margins: 0.020179998
+Free Cashflow: 1560125056
+Operating Cashflow: 1759800064
+Return On Assets: 0.050229996
+Return On Equity: 0.01498
+Total Cash: 2547599872
+Total Debt: 3253199872
+Debt To Equity: 42.294
+Current Ratio: 4.522
+Quick Ratio: 2.73
+Trailing PE: 196.10345
+Forward PE: 14.126104
+Price To Book: 2.9403858
+Beta: 1.53
+52 Week High: 73.76
+52 Week Low: 31.04

@@ -1,0 +1,9 @@
+Company: Codexis Inc. Common Stock
+Ticker: CDXS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Redwood City
+Website: https://www.codexis.com
+Employees: 188
+Business Summary: Codexis, Inc. provides enzymatic solutions for therapeutics manufacturing, leveraging its proprietary CodeEvolver technology platform to discover, develop, and enhance novel enzymes in the United States, Canada, Latin America, Europe, the Middle East, Africa, Australia, New Zealand, Southeast Asia, and China. The company develops its proprietary ECO Synthesis manufacturing platform to enable the scaled manufacture of RNAi therapeutics through an enzymatic route. It has a license agreement with Aldevron LLC and Pfizer Inc. The company was incorporated in 2002 and is headquartered in Redwood City, California.

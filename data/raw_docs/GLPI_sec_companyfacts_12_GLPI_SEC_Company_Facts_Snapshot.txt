@@ -1,0 +1,12 @@
+Company: Gaming and Leisure Properties Inc. Common Stock
+Ticker: GLPI
+CIK: 0001575965
+Latest SEC XBRL Facts:
+Revenues: 1187721000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2024-02-27 | period_end=2023-12-31
+NetIncomeLoss: 557814000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 12786571000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 7830720000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 4576306000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 786173000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 105894000 | unit=USD | filed=2020-10-28 | period_end=2020-09-30

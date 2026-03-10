@@ -1,0 +1,25 @@
+Company: Weibo Corporation American Depositary Share
+Ticker: WB
+Market Cap: 2352253440
+Enterprise Value: 2190983424
+Total Revenue: 1740785024
+Revenue Per Share: 7.3
+EBITDA: 548960000
+Gross Margins: 0.77081
+Operating Margins: 0.2653
+Profit Margins: 0.26575002
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.04539
+Return On Equity: 0.12372
+Total Cash: 2044449024
+Total Debt: 1861607040
+Debt To Equity: 47.283
+Current Ratio: 3.346
+Quick Ratio: 2.588
+Trailing PE: 5.4514284
+Forward PE: 5.444149
+Price To Book: 0.5913345
+Beta: 0.177
+52 Week High: 12.96
+52 Week Low: 7.1

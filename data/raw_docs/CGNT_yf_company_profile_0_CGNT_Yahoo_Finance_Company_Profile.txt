@@ -1,0 +1,9 @@
+Company: Cognyte Software Ltd. Ordinary Shares
+Ticker: CGNT
+Sector: Technology
+Industry: Software - Infrastructure
+Country: Israel
+City: Herzliya
+Website: https://www.cognyte.com
+Employees: 1623
+Business Summary: Cognyte Software Ltd., a software-led technology company, focuses on solutions for data processing and analytics worldwide. The company offers network intelligence analytics, threat intelligence analytics, decision intelligence analytics, and operational intelligence analytics solutions. It also offers software products, including subscription or perpetual licenses and appliances that include software that is essential to the product's functionality; software services, such as support and cloud-based SaaS subscriptions; and professional services and others comprising installation and integration services, customer specific development work, resale of third-party hardware, and consulting and training services. In addition, the company provides customer support, professional, and integration services. It serves governments agencies, including national, regional, and local government agencies. Cognyte Software Ltd. was incorporated in 2020 and is headquartered in Herzliya, Israel.

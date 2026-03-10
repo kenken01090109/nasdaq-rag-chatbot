@@ -1,0 +1,25 @@
+Company: China Automotive Systems Inc. Ordinary Share
+Ticker: CAAS
+Market Cap: 125510112
+Enterprise Value: 114321120
+Total Revenue: 725260032
+Revenue Per Share: 24.037
+EBITDA: 60753000
+Gross Margins: 0.16620001
+Operating Margins: 0.072
+Profit Margins: 0.04617
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.03127
+Return On Equity: 0.10406999
+Total Cash: 139415008
+Total Debt: 81235000
+Debt To Equity: 19.077
+Current Ratio: 1.34
+Quick Ratio: 0.859
+Trailing PE: 3.7477477
+Forward PE: 6.5
+Price To Book: 0.3312893
+Beta: 1.032
+52 Week High: 5.37
+52 Week Low: 3.5

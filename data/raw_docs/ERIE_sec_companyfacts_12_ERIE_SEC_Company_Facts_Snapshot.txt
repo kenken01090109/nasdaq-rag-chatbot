@@ -1,0 +1,12 @@
+Company: Erie Indemnity Company Class A Common Stock
+Ticker: ERIE
+CIK: 0000922621
+Latest SEC XBRL Facts:
+Revenues: 572160000 | unit=USD | filed=2018-04-26 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3116235000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 495955000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 3324328000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1015450000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 2308878000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 515100000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 244688000 | unit=USD | filed=2018-10-25 | period_end=2018-09-30

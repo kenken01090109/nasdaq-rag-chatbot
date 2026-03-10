@@ -1,0 +1,9 @@
+Company: Medicinova Inc Common Stock
+Ticker: MNOV
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: La Jolla
+Website: https://medicinova.com
+Employees: 
+Business Summary: MediciNova, Inc., a biopharmaceutical company, focuses on developing novel and small molecule therapeutics for the treatment of serious diseases with unmet medical needs in the United States. The company develops MN-166 (ibudilast), an oral anti-inflammatory and neuroprotective agent in Phase 2b/3 clinical trial for treating neurological and other disorders, such as progressive multiple sclerosis, amyotrophic lateral sclerosis, chemotherapy-induced peripheral neuropathy, degenerative cervical myelopathy, glioblastoma, and substance dependence and addiction, as well as prevention of acute respiratory distress syndrome, and long COVID. It is also developing MN-001 (tipelukast), an orally bioavailable small molecule compound in Phase 2 clinical trial to treat fibrotic and other metabolic disorders, including nonalcoholic fatty liver disease and hypertriglycedemia. The company has a license agreement with Kyorin Pharmaceuticals for the development and commercialization of MN-166 and MN-001. MediciNova, Inc. was incorporated in 2000 and is headquartered in La Jolla, California.

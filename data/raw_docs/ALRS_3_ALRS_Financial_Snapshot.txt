@@ -1,0 +1,12 @@
+Company: Alerus Financial Corporation Common Stock
+Ticker: ALRS
+Total Revenue: 223819008
+Revenue Per Share: 8.819
+Gross Margins: 0.0
+Operating Margins: -4.81437
+EBITDA: 
+Profit Margins: 0.07792
+Free Cashflow: 
+Operating Cashflow: 67530000
+Return On Assets: 0.00332
+Return On Equity: 0.03289

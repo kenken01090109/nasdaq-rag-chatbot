@@ -1,0 +1,10 @@
+Company: NetSol Technologies Inc. Common  Stock
+Ticker: NTWK
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Encino
+Website: https://www.netsoltech.com
+Employees: 
+Business Summary: NetSol Technologies, Inc. engages in the design, development, marketing, and export of enterprise software solutions to the automobile financing and leasing, banking, and financial services industries in North America, Europe, and Asia Pacific. The company provides various platforms, including Transcend Platform for digital retail and finance; Originations, an AI-powered loan origination platform; Servicing, a next-gen loan and lease servicing software; Wholesale finance; Mobility solutions; and AI labs. It provides flex, a platform for contract calculations; dock, for rapid document generation; lan, a system for asset leasing and loans; hubex, an API library; index, a lending configuration repository; Tax Engine; PayOff, a platform for early contract closures; Modifi, a platform for Contract Modification; Receive Now, an receivables management platform. The company offers advanced information security services; digital solutions; AI-powered automotive and equipment finance software; AI and ML services and gen AI solutions; digital policy and strategy. Further it provides cloud services, such as managed, 
+cloud infrastructure, development and integrations, SAAS development, devops, and MLOPS and model management, and data engineering services. It serves automobiles, equipment, bank, captive and wholesale industries. The company was incorporated in 1997 and is headquartered in Encino, California.

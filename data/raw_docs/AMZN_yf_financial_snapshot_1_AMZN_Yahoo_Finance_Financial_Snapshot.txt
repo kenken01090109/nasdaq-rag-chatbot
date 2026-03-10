@@ -1,0 +1,25 @@
+Company: Amazon.com Inc. Common Stock
+Ticker: AMZN
+Market Cap: 2288792633344
+Enterprise Value: 2405821579264
+Total Revenue: 716923994112
+Revenue Per Share: 67.279
+EBITDA: 145730994176
+Gross Margins: 0.50286
+Operating Margins: 0.10533
+Profit Margins: 0.108339995
+Free Cashflow: 23793125376
+Operating Cashflow: 139514003456
+Return On Assets: 0.06928
+Return On Equity: 0.22286
+Total Cash: 123028996096
+Total Debt: 178546999296
+Debt To Equity: 43.435
+Current Ratio: 1.051
+Quick Ratio: 0.844
+Trailing PE: 29.777935
+Forward PE: 22.846165
+Price To Book: 5.565969
+Beta: 1.42
+52 Week High: 258.6
+52 Week Low: 161.38

@@ -1,0 +1,25 @@
+Company: MicroAlgo Inc. Class A Ordinary Shares
+Ticker: MLGO
+Market Cap: 45199656
+Enterprise Value: -2188911616
+Total Revenue: 439157664
+Revenue Per Share: 292.465
+EBITDA: 25677352
+Gross Margins: 0.26838
+Operating Margins: 0.04203
+Profit Margins: 0.11116
+Free Cashflow: 216505248
+Operating Cashflow: 65506520
+Return On Assets: 0.01011
+Return On Equity: 0.043520004
+Total Cash: 2286276608
+Total Debt: 31183132
+Debt To Equity: 1.358
+Current Ratio: 33.055
+Quick Ratio: 32.3
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.12350308
+Beta: -1.395
+52 Week High: 972.0
+52 Week Low: 3.295

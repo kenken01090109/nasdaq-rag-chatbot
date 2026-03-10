@@ -1,0 +1,10 @@
+Company: Broadwind Inc. Common Stock
+Ticker: BWEN
+CIK: 0001120370
+Latest SEC XBRL Facts:
+Revenues: 129017000 | unit=USD | filed=2017-10-31 | period_end=2017-09-30
+NetIncomeLoss: 6104000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 119648000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 66889000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16242000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1195000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

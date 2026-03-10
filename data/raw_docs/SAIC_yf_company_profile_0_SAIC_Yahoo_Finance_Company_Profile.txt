@@ -1,0 +1,9 @@
+Company: Science Applications International Corporation Common Stock
+Ticker: SAIC
+Sector: Technology
+Industry: Information Technology Services
+Country: United States
+City: Reston
+Website: https://www.saic.com
+Employees: 24000
+Business Summary: Science Applications International Corporation provides technical, engineering, and enterprise information technology (IT) services in the United States. It operates in two segments, Defense and Intelligence, and Civilian. The company offers IT modernization services for defense, intelligence, and civilian agencies; digital engineering services; artificial intelligence solutions; weapon systems support for the U.S. military; training and simulation; and ground vehicles support services for the nation's armed forces. It serves military forces, including the army, air force, navy, marines, coast guard, and space force; agencies of the Department of Defense, National Aeronautics and Space Administration, U.S. Department of State, Department of Justice, and Department of Homeland Security; and members of the Intelligence Community, as well as civilian markets, such as federal, state, and local governments. The company was formerly known as SAIC Gemini, Inc. and changed its name to Science Applications International Corporation in September 2013. Science Applications International Corporation was founded in 1969 and is headquartered in Reston, Virginia.

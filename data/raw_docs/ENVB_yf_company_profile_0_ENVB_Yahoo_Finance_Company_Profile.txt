@@ -1,0 +1,9 @@
+Company: Enveric Biosciences Inc. Common Stock
+Ticker: ENVB
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.enveric.com
+Employees: 5
+Business Summary: Enveric Biosciences, Inc., a biotechnology company, engages in the development of small-molecule therapeutics for the treatment of anxiety, depression, and addiction disorders. The company offers product candidates are EB-002, an active metabolite of psilocybin, which is in preclinical development stage for the treatment of anxiety disorders; and EB-003 that is in preclinical development stage for the treatment mental health. It also focuses on the development of cannabinoid conjugate molecules for the treatment of pain and cancer. The company was founded in 2020 and is headquartered in Cambridge, Massachusetts.

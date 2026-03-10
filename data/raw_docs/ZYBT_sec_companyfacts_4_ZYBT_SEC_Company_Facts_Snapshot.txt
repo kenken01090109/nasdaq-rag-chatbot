@@ -1,0 +1,12 @@
+Company: Zhengye Biotechnology Holding Limited Ordinary Shares
+Ticker: ZYBT
+CIK: 0001975641
+Latest SEC XBRL Facts:
+Revenues: 25531000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 25531000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+NetIncomeLoss: 1550000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+Assets: 67577000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+Liabilities: 19276000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+StockholdersEquity: 38903000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 5624000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 2549000 | unit=USD | filed=2025-07-03 | period_end=2024-12-31

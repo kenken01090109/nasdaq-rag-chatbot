@@ -1,0 +1,11 @@
+Company: Five9 Inc. Common Stock
+Ticker: FIVN
+CIK: 0001288847
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 848806000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 19703000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1768405000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 993119000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 775286000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 142641000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 193409000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

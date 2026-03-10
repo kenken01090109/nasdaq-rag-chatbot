@@ -1,0 +1,25 @@
+Company: Freedom Holding Corp. Common Stock
+Ticker: FRHC
+Market Cap: 8047779328
+Enterprise Value: 7116859392
+Total Revenue: 1488945024
+Revenue Per Share: 24.884
+EBITDA: 
+Gross Margins: 0.77793
+Operating Margins: 0.10589
+Profit Margins: 0.00179
+Free Cashflow: 
+Operating Cashflow: 3071642880
+Return On Assets: 0.00028
+Return On Equity: 0.00225
+Total Cash: 3052733952
+Total Debt: 2174437888
+Debt To Equity: 155.891
+Current Ratio: 1.222
+Quick Ratio: 0.919
+Trailing PE: 4384.0
+Forward PE: 29.226667
+Price To Book: 5.7686744
+Beta: 0.853
+52 Week High: 194.01
+52 Week Low: 107.975

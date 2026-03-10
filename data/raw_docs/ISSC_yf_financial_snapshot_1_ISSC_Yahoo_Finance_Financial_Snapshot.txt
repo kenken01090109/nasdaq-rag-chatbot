@@ -1,0 +1,25 @@
+Company: Innovative Solutions and Support Inc. Common Stock
+Ticker: ISSC
+Market Cap: 465614848
+Enterprise Value: 517482848
+Total Revenue: 90135240
+Revenue Per Share: 5.116
+EBITDA: 28412600
+Gross Margins: 0.50797004
+Operating Margins: 0.28855
+Profit Margins: 0.21024999
+Free Cashflow: 7522824
+Operating Cashflow: 19621452
+Return On Assets: 0.16358
+Return On Equity: 0.32529
+Total Cash: 8285185
+Total Debt: 23529856
+Debt To Equity: 34.228
+Current Ratio: 2.962
+Quick Ratio: 1.319
+Trailing PE: 24.707548
+Forward PE: 28.78022
+Price To Book: 6.7709413
+Beta: 0.589
+52 Week High: 29.41
+52 Week Low: 5.3

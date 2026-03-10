@@ -1,0 +1,25 @@
+Company: Northern Trust Corporation Common Stock
+Ticker: NTRS
+Market Cap: 25753874432
+Enterprise Value: 34820788224
+Total Revenue: 8093899776
+Revenue Per Share: 42.297
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.28994
+Profit Margins: 0.21459
+Free Cashflow: 
+Operating Cashflow: 5533499904
+Return On Assets: 0.01044
+Return On Equity: 0.13492
+Total Cash: 11016200192
+Total Debt: 18285799424
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 15.856979
+Forward PE: 12.445915
+Price To Book: 2.1390316
+Beta: 1.266
+52 Week High: 157.6
+52 Week Low: 81.62

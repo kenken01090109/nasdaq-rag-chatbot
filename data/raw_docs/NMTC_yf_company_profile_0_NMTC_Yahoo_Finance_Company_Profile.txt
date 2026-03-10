@@ -1,0 +1,9 @@
+Company: NeuroOne Medical Technologies Corporation Common Stock
+Ticker: NMTC
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Eden Prairie
+Website: https://nmtc1.com
+Employees: 18
+Business Summary: NeuroOne Medical Technologies Corporation, a medical technology company, provides solutions for continuous electroencephalogram (cEEG) and stereoelectrocencephalography (sEEG) recording in the United States. The company also provides solutions for spinal cord stimulation, brain stimulation, drug delivery and ablation solutions for patients suffering from epilepsy, trigeminal neuralgia, Parkinson's disease, dystonia, essential tremors, and chronic pain due to failed back surgeries and other pain-related neurological disorders. The company is based in Eden Prairie, Minnesota.

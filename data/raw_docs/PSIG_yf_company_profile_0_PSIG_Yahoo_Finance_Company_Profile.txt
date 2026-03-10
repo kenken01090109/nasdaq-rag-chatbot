@@ -1,0 +1,9 @@
+Company: PS International Group Ltd. Ordinary Shares
+Ticker: PSIG
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: Hong Kong
+City: Kwai Chung
+Website: https://www.profitsail.com
+Employees: 29
+Business Summary: PS International Group Ltd., through its subsidiaries, operates as a freight forwarding service provider worldwide. It provides air and ocean export and import freight forwarding services; optional ancillary logistics related services, such as cargo pick up, cargo handling at ports, and local transportation; and warehousing-related services, including repackaging, labelling, palletization, shipping documentation, customs clearance, and warehousing. The company was founded in 1993 and is headquartered in Kwai Chung, Hong Kong. PS International Group Ltd. is a subsidiary of Grand Pro Development Limited.

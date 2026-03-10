@@ -1,0 +1,9 @@
+Company: Opera Limited American Depositary Shares
+Ticker: OPRA
+Sector: Communication Services
+Industry: Internet Content & Information
+Country: Norway
+City: Oslo
+Website: https://www.opera.com
+Employees: 
+Business Summary: Opera Limited, together with its subsidiaries, provides mobile and PC web browsers and related products and services in Norway and internationally. The company offers mobile browser products, such as Opera Mini, Opera browser for Android and iOS, and Opera GX for PCs and Mobile; PC browsers, including Opera for Computers and Opera GX; Apex Football; Opera VPN Pro; and Opera News, an AI-powered personalized news discovery and aggregation service. It provides browser-based cashback rewards programs; owns GameMaker Studio, a 2D gaming development platform; and GXC, a gaming portal. In addition, the company operates Opera Ads, an online advertising platform; and offers Web3 and e-commerce services. Opera Limited was founded in 1995 and is headquartered in Oslo, Norway. Opera Limited is a subsidiary of Kunlun Tech Co., Ltd.

@@ -1,0 +1,9 @@
+Company: Lixte Biotechnology Holdings Inc. Common Stock
+Ticker: LIXT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Pasadena
+Website: https://lixte.com
+Employees: 2
+Business Summary: Lixte Biotechnology Holdings, Inc., a clinical-stage biopharmaceutical company, focuses on identifying targets for cancer drug development, and developing and commercializing cancer therapies. Its lead product candidate, LB-100 is in phase 1b clinical trials combined with Atezolizumab for patients with microsatellite stable metastatic colorectal cancer. The company's LB-100 combined with doxorubicin in advanced soft tissue sarcoma is under Phase 1b portion; and LB-100 combined with dostarlimab that is in phase 1b/2 for ovarian clear cell carcinoma. The company has a clinical trial research agreement with the Netherlands Cancer Institute; collaboration agreement for an investigator-initiated clinical trial with the Spanish Sarcoma Group; and a development collaboration agreement with the Netherlands Cancer Institute. Lixte Biotechnology Holdings, Inc. was founded in 2005 and is based in Pasadena, California.

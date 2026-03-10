@@ -1,0 +1,9 @@
+Company: First Financial Bancorp. Common Stock
+Ticker: FFBC
+CIK: 0000708955
+Latest SEC XBRL Facts:
+NetIncomeLoss: 193212000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 18554506000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 15922651000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 2631855000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 215710000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

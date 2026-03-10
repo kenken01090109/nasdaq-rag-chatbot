@@ -1,0 +1,25 @@
+Company: Foremost Clean Energy Ltd. Common Shares
+Ticker: FMST
+Market Cap: 29764374
+Enterprise Value: 27437562
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -11323788
+Operating Cashflow: -5939194
+Return On Assets: -0.07966
+Return On Equity: -0.11179
+Total Cash: 4077659
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.227
+Quick Ratio: 3.016
+Trailing PE: 
+Forward PE: -4.6363635
+Price To Book: 1.177763
+Beta: 2.958
+52 Week High: 5.739
+52 Week Low: 0.55

@@ -1,0 +1,10 @@
+Company: Ainos Inc. Common Stock
+Ticker: AIMD
+Market Cap: 10264532
+Enterprise Value: 16946354
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.70167065
+Beta: 2.328
+52 Week High: 4.5
+52 Week Low: 1.26

@@ -1,0 +1,25 @@
+Company: Community Trust Bancorp Inc. Common Stock
+Ticker: CTBI
+Market Cap: 1083964160
+Enterprise Value: 1397928064
+Total Revenue: 270159008
+Revenue Per Share: 14.998
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.50409
+Profit Margins: 0.36296
+Free Cashflow: 
+Operating Cashflow: 104991000
+Return On Assets: 0.01523
+Return On Equity: 0.12154
+Total Cash: 75829000
+Total Debt: 389792992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.998159
+Forward PE: 9.920266
+Price To Book: 1.2637817
+Beta: 0.573
+52 Week High: 65.79
+52 Week Low: 44.6

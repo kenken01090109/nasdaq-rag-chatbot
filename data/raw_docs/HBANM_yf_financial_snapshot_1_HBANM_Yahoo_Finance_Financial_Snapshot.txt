@@ -1,0 +1,25 @@
+Company: Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock
+Ticker: HBANM
+Market Cap: 
+Enterprise Value: 54851973120
+Total Revenue: 7692000256
+Revenue Per Share: 5.201
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.39784
+Profit Margins: 0.28744
+Free Cashflow: 
+Operating Cashflow: 2481999872
+Return On Assets: 0.01038
+Return On Equity: 0.10095
+Total Cash: 14387999744
+Total Debt: 19285999616
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 29.58869
+Forward PE: 
+Price To Book: 1.6699312
+Beta: 0.967
+52 Week High: 24.04
+52 Week Low: 21.38

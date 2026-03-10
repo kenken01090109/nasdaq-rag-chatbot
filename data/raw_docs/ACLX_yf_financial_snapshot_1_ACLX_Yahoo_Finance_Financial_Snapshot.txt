@@ -1,0 +1,25 @@
+Company: Arcellx Inc. Common Stock
+Ticker: ACLX
+Market Cap: 6685997056
+Enterprise Value: 6287581696
+Total Revenue: 22286000
+Revenue Per Share: 0.396
+EBITDA: -246404992
+Gross Margins: 1.0
+Operating Margins: -38.50242
+Profit Margins: 0.0
+Free Cashflow: -97093872
+Operating Cashflow: -210258000
+Return On Assets: -0.24052
+Return On Equity: -0.53418
+Total Cash: 450334016
+Total Debt: 51919000
+Debt To Equity: 12.904
+Current Ratio: 4.435
+Quick Ratio: 4.322
+Trailing PE: 
+Forward PE: -71.5627
+Price To Book: 16.459833
+Beta: 0.227
+52 Week High: 114.8
+52 Week Low: 47.86

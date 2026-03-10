@@ -1,0 +1,12 @@
+Company: XWELL Inc. Common Stock
+Ticker: XWEL
+CIK: 0001410428
+Latest SEC XBRL Facts:
+Revenues: 22056000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 22056000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -7712000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 21742000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 18345000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -6333000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8671000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3987000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

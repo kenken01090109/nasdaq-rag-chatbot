@@ -1,0 +1,12 @@
+Company: AXT Inc Common Stock
+Ticker: AXTI
+CIK: 0001051627
+Latest SEC XBRL Facts:
+Revenues: 19356000 | unit=USD | filed=2025-05-14 | period_end=2025-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 65285000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -17712000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 334034000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 93578000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 179148000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -17073000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23110000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

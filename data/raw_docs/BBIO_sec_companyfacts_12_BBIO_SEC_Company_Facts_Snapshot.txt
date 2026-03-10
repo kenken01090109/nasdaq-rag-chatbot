@@ -1,0 +1,11 @@
+Company: BridgeBio Pharma Inc. Common Stock
+Ticker: BBIO
+CIK: 0001743881
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 347898000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: -69000 | unit=USD | filed=2019-08-14 | period_end=2019-06-30
+Assets: 998250000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 2920979000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: -1933070000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -389490000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 642951000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

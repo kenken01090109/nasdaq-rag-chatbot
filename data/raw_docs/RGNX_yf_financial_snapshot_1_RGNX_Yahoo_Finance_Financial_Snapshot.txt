@@ -1,0 +1,25 @@
+Company: REGENXBIO Inc. Common Stock
+Ticker: RGNX
+Market Cap: 437889696
+Enterprise Value: 474226240
+Total Revenue: 170440992
+Revenue Per Share: 3.305
+EBITDA: -145536672
+Gross Margins: 0.88091004
+Operating Margins: -1.8998599
+Profit Margins: -1.13751
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.21925
+Return On Equity: -1.07001
+Total Cash: 230070000
+Total Debt: 260518000
+Debt To Equity: 253.587
+Current Ratio: 2.382
+Quick Ratio: 2.172
+Trailing PE: 
+Forward PE: -2.3537414
+Price To Book: 4.284299
+Beta: 
+52 Week High: 16.19
+52 Week Low: 5.035

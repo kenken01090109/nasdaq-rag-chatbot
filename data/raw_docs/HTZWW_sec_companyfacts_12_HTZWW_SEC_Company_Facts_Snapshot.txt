@@ -1,0 +1,11 @@
+Company: Hertz Global Holdings Inc Warrant
+Ticker: HTZWW
+CIK: 0001657853
+Latest SEC XBRL Facts:
+Revenues: 6476000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -553000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 22990000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 23307000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -317000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1432000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1095000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

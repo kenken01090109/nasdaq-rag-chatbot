@@ -1,0 +1,25 @@
+Company: Forian Inc. Common Stock
+Ticker: FORA
+Market Cap: 64630280
+Enterprise Value: 36734064
+Total Revenue: 28106912
+Revenue Per Share: 0.903
+EBITDA: -3553923
+Gross Margins: 0.55404997
+Operating Margins: -0.060539998
+Profit Margins: -0.03033
+Free Cashflow: 1818709
+Operating Cashflow: 1413894
+Return On Assets: -0.04745
+Return On Equity: -0.029409999
+Total Cash: 28225038
+Total Debt: 18097
+Debt To Equity: 0.058
+Current Ratio: 3.87
+Quick Ratio: 3.623
+Trailing PE: 
+Forward PE: 23.111109
+Price To Book: 2.0737786
+Beta: 1.027
+52 Week High: 2.71
+52 Week Low: 1.64

@@ -1,0 +1,12 @@
+Company: Phunware Inc. Common Stock
+Ticker: PHUN
+CIK: 0001665300
+Latest SEC XBRL Facts:
+Revenues: 5315000 | unit=USD | filed=2019-05-15 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1765000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -9276000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 105640000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 7315000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 98325000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9271000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 103783000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

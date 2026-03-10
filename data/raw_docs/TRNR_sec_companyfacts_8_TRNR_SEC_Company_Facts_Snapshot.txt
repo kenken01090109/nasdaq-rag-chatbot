@@ -1,0 +1,11 @@
+Company: Interactive Strength Inc. Common Stock
+Ticker: TRNR
+CIK: 0001785056
+Latest SEC XBRL Facts:
+Revenues: 7391000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5231000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 85438000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 67981000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 14857000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8161000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 845000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

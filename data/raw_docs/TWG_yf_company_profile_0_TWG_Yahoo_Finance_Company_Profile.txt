@@ -1,0 +1,9 @@
+Company: Top Wealth Group Holding Limited Class A Ordinary Shares
+Ticker: TWG
+Sector: Consumer Defensive
+Industry: Food Distribution
+Country: Hong Kong
+City: Sai Wan
+Website: https://www.imperialcristalcaviar.com
+Employees: 4
+Business Summary: Top Wealth Group Holding Limited provides caviar and caviar-based gourmet products in Hong Kong and internationally. The company trades in caviars. It serves food and beverage related distributors. The company was founded in 2009 and is based in Sai Wan, Hong Kong. Top Wealth Group Holding Limited operates as a subsidiary of Winwin Development Group Limited.

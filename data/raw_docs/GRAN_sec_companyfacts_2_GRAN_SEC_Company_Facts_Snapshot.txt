@@ -1,0 +1,10 @@
+Company: Grande Group Limited Class A Ordinary Shares
+Ticker: GRAN
+CIK: 0002027722
+Latest SEC XBRL Facts:
+Revenues: 4338827 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Assets: 4681560 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+Liabilities: 2574684 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+StockholdersEquity: 2106870 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 794147 | unit=USD | filed=2025-07-31 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 2066102 | unit=USD | filed=2025-07-31 | period_end=2025-03-31

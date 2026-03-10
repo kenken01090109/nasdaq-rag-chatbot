@@ -1,0 +1,11 @@
+Company: FTAI Infrastructure Inc. Common Stock
+Ticker: FIP
+CIK: 0001899883
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 359003000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: -72302000 | unit=USD | filed=2022-08-25 | period_end=2022-06-30
+Assets: 5451720000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 4372947000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 181059000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -115255000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34722000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

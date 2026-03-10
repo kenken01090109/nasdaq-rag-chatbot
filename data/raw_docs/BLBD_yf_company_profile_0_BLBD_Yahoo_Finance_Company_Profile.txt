@@ -1,0 +1,9 @@
+Company: Blue Bird Corporation Common Stock
+Ticker: BLBD
+Sector: Industrials
+Industry: Farm & Heavy Construction Machinery
+Country: United States
+City: Macon
+Website: https://www.blue-bird.com
+Employees: 2008
+Business Summary: Blue Bird Corporation, together with its subsidiaries, designs, engineers, manufactures, and sells school buses in the United States, Canada, and internationally. The company operates through two segments, Bus and Parts. It offers Type C, Type D, and specialty buses; and alternative power options through its propane powered, gasoline powered, compressed natural gas powered, and electric powered school buses, as well as diesel engines. The company also sells replacement bus parts; and provides extended warranties related to its products. Blue Bird Corporation sells its products through drop ship and a network of dealers, as well as directly to fleet operators, the United States government, and state governments; independent service centers; and maintains a parts distribution center. Blue Bird Corporation was founded in 1927 and is headquartered in Macon, Georgia.

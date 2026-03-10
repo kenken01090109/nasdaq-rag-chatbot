@@ -1,0 +1,25 @@
+Company: Heartflow Inc. Common Stock
+Ticker: HTFL
+Market Cap: 1956947328
+Enterprise Value: 1847667712
+Total Revenue: 161880992
+Revenue Per Share: 9.528
+EBITDA: -61914000
+Gross Margins: 0.75601
+Operating Margins: -0.32628
+Profit Margins: -0.77446
+Free Cashflow: 
+Operating Cashflow: -57465000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 291167008
+Total Debt: 21789000
+Debt To Equity: 8.559
+Current Ratio: 8.66
+Quick Ratio: 8.429
+Trailing PE: 
+Forward PE: -42.165134
+Price To Book: 7.534426
+Beta: 
+52 Week High: 41.223
+52 Week Low: 20.13

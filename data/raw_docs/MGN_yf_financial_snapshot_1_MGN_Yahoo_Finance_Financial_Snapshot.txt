@@ -1,0 +1,25 @@
+Company: Megan Holdings Limited Class A Ordinary Shares
+Ticker: MGN
+Market Cap: 48425000
+Enterprise Value: 24952456
+Total Revenue: 44908656
+Revenue Per Share: 2.994
+EBITDA: 6448562
+Gross Margins: 0.20305
+Operating Margins: 0.21063
+Profit Margins: 0.087469995
+Free Cashflow: 3633010
+Operating Cashflow: -4420385
+Return On Assets: 0.04725
+Return On Equity: 0.11423001
+Total Cash: 22873280
+Total Debt: 3875731
+Debt To Equity: 10.637
+Current Ratio: 1.519
+Quick Ratio: 0.406
+Trailing PE: 49.666668
+Forward PE: 
+Price To Book: 4.8491025
+Beta: 
+52 Week High: 8.63
+52 Week Low: 1.0

@@ -1,0 +1,9 @@
+Company: Texas Ventures Acquisition III Corp Warrants
+Ticker: TVACW
+CIK: 0002033991
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1698895 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 231301822 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 15153576 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -14091218 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -417643 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

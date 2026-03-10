@@ -1,0 +1,8 @@
+Company: Affinity Bancshares Inc. Common Stock (MD)
+Ticker: AFBI
+Total Cash: 53850000
+Total Debt: 54000000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Book Value: 20.838

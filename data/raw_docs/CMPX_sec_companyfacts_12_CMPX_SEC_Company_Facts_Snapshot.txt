@@ -1,0 +1,10 @@
+Company: Compass Therapeutics Inc. Common Stock
+Ticker: CMPX
+CIK: 0001738021
+Latest SEC XBRL Facts:
+NetIncomeLoss: -50773000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 231259000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 21646000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 209613000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -35889000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46212000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

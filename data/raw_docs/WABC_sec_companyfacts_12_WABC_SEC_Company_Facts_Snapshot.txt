@@ -1,0 +1,9 @@
+Company: Westamerica Bancorporation Common Stock
+Ticker: WABC
+CIK: 0000311094
+Latest SEC XBRL Facts:
+NetIncomeLoss: 88366000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 5914438000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 4982792000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 931646000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 95329000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: First Busey Corporation Class A Common Stock
+Ticker: BUSE
+CIK: 0000314489
+Latest SEC XBRL Facts:
+Revenues: 519335000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 74512000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 18188628000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 15739793000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 2448835000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 120380000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 385474000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Wah Fu Education Group Limited Ordinary Shares
+Ticker: WAFU
+Market Cap: 7453845
+Enterprise Value: -1009099
+Total Revenue: 6186645
+Revenue Per Share: 1.403
+EBITDA: -303021
+Gross Margins: 0.4209
+Operating Margins: 0.052810002
+Profit Margins: -0.07521
+Free Cashflow: -681409
+Operating Cashflow: -965592
+Return On Assets: -0.015520001
+Return On Equity: -0.031159999
+Total Cash: 10131392
+Total Debt: 610528
+Debt To Equity: 5.187
+Current Ratio: 3.883
+Quick Ratio: 3.225
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6957596
+Beta: 0.949
+52 Week High: 3.39
+52 Week Low: 1.22

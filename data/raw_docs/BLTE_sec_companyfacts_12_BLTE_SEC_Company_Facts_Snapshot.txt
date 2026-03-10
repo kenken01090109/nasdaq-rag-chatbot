@@ -1,0 +1,10 @@
+Company: Belite Bio Inc American Depositary Shares
+Ticker: BLTE
+CIK: 0001889109
+Latest SEC XBRL Facts:
+NetIncomeLoss: -31632000 | unit=USD | filed=2024-03-12 | period_end=2023-12-31
+Assets: 94642000 | unit=USD | filed=2024-03-12 | period_end=2023-12-31
+Liabilities: 4211000 | unit=USD | filed=2024-03-12 | period_end=2023-12-31
+StockholdersEquity: 90431000 | unit=USD | filed=2024-03-12 | period_end=2023-12-31
+NetCashProvidedByUsedInOperatingActivities: -29837000 | unit=USD | filed=2024-03-12 | period_end=2023-12-31
+CashAndCashEquivalentsAtCarryingValue: 88157000 | unit=USD | filed=2024-03-12 | period_end=2023-12-31

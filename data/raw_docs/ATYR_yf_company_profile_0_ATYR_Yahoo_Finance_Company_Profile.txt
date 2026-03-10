@@ -1,0 +1,9 @@
+Company: aTyr Pharma Inc. Common Stock
+Ticker: ATYR
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://atyrpharma.com
+Employees: 
+Business Summary: aTyr Pharma, Inc., a clinical stage biotechnology company, engages in the discovery and development of product candidates that translate tRNA synthetase biology into new therapies for fibrosis and inflammation in the United States. Its lead therapeutic candidate is efzofitimod, a selective modulator of NRP2 that is in Phase 3 clinical trial for the treatment of pulmonary sarcoidosis; and in Phase 1b/2a clinical trial to treat other interstitial lung diseases (ILDs), such as chronic hypersensitivity pneumonitis and connective tissue disease related ILD. The company is developing ATYR0101, a fusion protein derived from a domain of aspartyl-tRNA synthetase, which is in preclinical development for the treatment fibrosis; and ATYR0750, a domain of alanyl-tRNA synthetase for the treatment of liver disorders. It has collaboration and license agreement with Kyorin Pharmaceutical Co., Ltd. for the development and commercialization of efzofitimod for ILDs in Japan. aTyr Pharma, Inc. was incorporated in 2005 and is headquartered in San Diego, California.

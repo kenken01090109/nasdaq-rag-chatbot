@@ -1,0 +1,11 @@
+Company: Ark Restaurants Corp. Common Stock
+Ticker: ARKR
+CIK: 0000779544
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 40749000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27
+NetIncomeLoss: 896000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27
+Assets: 130438000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27
+Liabilities: 97345000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27
+StockholdersEquity: 33654000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: -550000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 9139000 | unit=USD | filed=2026-02-10 | period_end=2025-12-27

@@ -1,0 +1,11 @@
+Company: H2O America Common Stock
+Ticker: HTO
+CIK: 0000766829
+Latest SEC XBRL Facts:
+Revenues: 606404000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 606162000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 86358000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 5010654000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 1523663000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 181283000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11314000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

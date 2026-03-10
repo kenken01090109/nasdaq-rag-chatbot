@@ -1,0 +1,25 @@
+Company: EyePoint Inc. Common Stock
+Ticker: EYPT
+Market Cap: 1303898624
+Enterprise Value: 1025394560
+Total Revenue: 31371000
+Revenue Per Share: 0.428
+EBITDA: -241286000
+Gross Margins: 0.0
+Operating Margins: -113.45968
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.38889
+Return On Equity: -0.72193
+Total Cash: 306086016
+Total Debt: 22912000
+Debt To Equity: 7.485
+Current Ratio: 8.877
+Quick Ratio: 8.285
+Trailing PE: 
+Forward PE: -6.199958
+Price To Book: 4.2717657
+Beta: 1.792
+52 Week High: 19.11
+52 Week Low: 3.91

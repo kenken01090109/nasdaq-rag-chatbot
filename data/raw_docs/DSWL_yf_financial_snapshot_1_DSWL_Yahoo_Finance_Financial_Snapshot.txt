@@ -1,0 +1,25 @@
+Company: Deswell Industries Inc. Common Shares
+Ticker: DSWL
+Market Cap: 52904992
+Enterprise Value: -25966244
+Total Revenue: 65664000
+Revenue Per Share: 4.121
+EBITDA: 5337000
+Gross Margins: 0.22184
+Operating Margins: 0.07487
+Profit Margins: 0.18993999
+Free Cashflow: 7059625
+Operating Cashflow: 12059000
+Return On Assets: 0.01931
+Return On Equity: 0.120620005
+Total Cash: 79668000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.284
+Quick Ratio: 4.712
+Trailing PE: 4.25641
+Forward PE: 
+Price To Book: 0.4896755
+Beta: 0.532
+52 Week High: 4.48
+52 Week Low: 1.93

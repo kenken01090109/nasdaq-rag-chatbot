@@ -1,0 +1,25 @@
+Company: PDD Holdings Inc. American Depositary Shares
+Ticker: PDD
+Market Cap: 144761356288
+Enterprise Value: 150768697344
+Total Revenue: 418543632384
+Revenue Per Share: 300.165
+EBITDA: 93147258880
+Gross Margins: 0.56649
+Operating Margins: 0.23113
+Profit Margins: 0.24435
+Free Cashflow: 87452278784
+Operating Cashflow: 112366305280
+Return On Assets: 0.107
+Return On Equity: 0.30533
+Total Cash: 423769276416
+Total Debt: 10673639424
+Debt To Equity: 2.727
+Current Ratio: 2.355
+Quick Ratio: 2.002
+Trailing PE: 10.207208
+Forward PE: 8.195396
+Price To Book: 2.5146825
+Beta: 0.047
+52 Week High: 139.41
+52 Week Low: 87.11

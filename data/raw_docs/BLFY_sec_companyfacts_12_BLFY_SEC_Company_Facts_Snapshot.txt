@@ -1,0 +1,10 @@
+Company: Blue Foundry Bancorp Common Stock
+Ticker: BLFY
+CIK: 0001846017
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6517000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 2155792000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1841395000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 314397000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2040000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44086000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

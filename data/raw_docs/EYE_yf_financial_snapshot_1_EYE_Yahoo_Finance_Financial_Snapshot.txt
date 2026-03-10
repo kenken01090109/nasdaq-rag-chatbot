@@ -1,0 +1,25 @@
+Company: National Vision Holdings Inc. Common Stock
+Ticker: EYE
+Market Cap: 2212736768
+Enterprise Value: 2965131008
+Total Revenue: 1987488000
+Revenue Per Share: 25.116
+EBITDA: 157475008
+Gross Margins: 0.58769
+Operating Margins: 0.01753
+Profit Margins: 0.014889999
+Free Cashflow: 109880376
+Operating Cashflow: 146292992
+Return On Assets: 0.020769998
+Return On Equity: 0.03512
+Total Cash: 38708000
+Total Debt: 694600000
+Debt To Equity: 79.882
+Current Ratio: 0.547
+Quick Ratio: 0.235
+Trailing PE: 
+Forward PE: 22.261763
+Price To Book: 2.5481777
+Beta: 1.421
+52 Week High: 30.02
+52 Week Low: 10.45

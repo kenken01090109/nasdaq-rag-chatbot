@@ -1,0 +1,25 @@
+Company: Apyx Medical Corporation Common Stock
+Ticker: APYX
+Market Cap: 128012424
+Enterprise Value: 133623744
+Total Revenue: 47902000
+Revenue Per Share: 1.194
+EBITDA: -8929000
+Gross Margins: 0.62646997
+Operating Margins: -0.06461
+Profit Margins: -0.30354
+Free Cashflow: -5905500
+Operating Cashflow: -8408000
+Return On Assets: -0.10062
+Return On Equity: -1.6813099
+Total Cash: 25135000
+Total Debt: 39212000
+Debt To Equity: 644.934
+Current Ratio: 4.444
+Quick Ratio: 3.473
+Trailing PE: 
+Forward PE: -8.715083
+Price To Book: 20.129032
+Beta: 1.655
+52 Week High: 4.5
+52 Week Low: 0.755

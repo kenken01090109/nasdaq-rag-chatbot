@@ -1,0 +1,9 @@
+Company: Innoviz Technologies Ltd. Warrant
+Ticker: INVZW
+Sector: 
+Industry: 
+Country: Israel
+City: Rosh HaAyin
+Website: https://innoviz.tech
+Employees: 
+Business Summary: Innoviz Technologies Ltd. manufactures and sells automotive grade LiDAR sensors and perception software to enable safe autonomous driving at a mass scale. The company offers InnovizOne, a solid-state LiDAR sensor designed for automakers and robotaxis, shuttles, trucks, and delivery companies requiring an automotive-grade and mass-producible solution to achieve autonomy. It also provides InnovizTwo Long-Range, a next generation high-performance automotive-grade LiDAR sensor solution for various levels of autonomous driving; InnovizTwo Short- to Mid-Range, a next generation high-performance automotive-grade LiDAR sensor designed to cover the short- and medium-range vehicles; and perception application, a software application that turns raw point cloud data from Innoviz LiDAR products into perception outputs. The company operates in Europe, the Asia Pacific, the Middle East, Africa, Israel, and North America. It markets and sells its products through a direct sales organization, as well as distribution channels. The company is headquartered in Rosh HaAyin, Israel.

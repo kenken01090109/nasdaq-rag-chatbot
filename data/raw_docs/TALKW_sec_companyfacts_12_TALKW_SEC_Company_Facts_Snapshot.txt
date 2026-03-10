@@ -1,0 +1,12 @@
+Company: Talkspace Inc. Warrant
+Ticker: TALKW
+CIK: 0001803901
+Latest SEC XBRL Facts:
+Revenues: 27600000 | unit=USD | filed=2025-03-12 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 165873000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 3028000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 129060000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 19955000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 109105000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3158000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 39508000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

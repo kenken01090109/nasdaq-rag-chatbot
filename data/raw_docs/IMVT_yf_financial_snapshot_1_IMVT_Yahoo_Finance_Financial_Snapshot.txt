@@ -1,0 +1,25 @@
+Company: Immunovant Inc. Common Stock
+Ticker: IMVT
+Market Cap: 5426167808
+Enterprise Value: 4443854848
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -486751008
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -260585120
+Operating Cashflow: -422888000
+Return On Assets: -0.41333
+Return On Equity: -0.69348
+Total Cash: 994524992
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 15.741
+Quick Ratio: 15.035
+Trailing PE: 
+Forward PE: -10.35569
+Price To Book: 5.496907
+Beta: 0.625
+52 Week High: 29.25
+52 Week Low: 12.72

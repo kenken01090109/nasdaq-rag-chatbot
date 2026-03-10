@@ -1,0 +1,11 @@
+Company: Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock
+Ticker: MCHPP
+CIK: 0000827054
+Latest SEC XBRL Facts:
+Revenues: 1322600000 | unit=USD | filed=2019-08-07 | period_end=2019-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3401900000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: 85800000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 14325500000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 6560400000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 705100000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 250700000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: Apellis Pharmaceuticals Inc. Common Stock
+Ticker: APLS
+Market Cap: 2565546240
+Enterprise Value: 2582346752
+Total Revenue: 1003782016
+Revenue Per Share: 7.957
+EBITDA: 56985000
+Gross Margins: 0.60341
+Operating Margins: -0.25582
+Profit Margins: 0.0223
+Free Cashflow: -15464500
+Operating Cashflow: 45327000
+Return On Assets: 0.03534
+Return On Equity: 0.07479
+Total Cash: 467785984
+Total Debt: 474360000
+Debt To Equity: 128.154
+Current Ratio: 3.136
+Quick Ratio: 2.586
+Trailing PE: 111.49999
+Forward PE: -82.59259
+Price To Book: 6.866233
+Beta: 0.29
+52 Week High: 30.48
+52 Week Low: 16.1

@@ -1,0 +1,12 @@
+Company: TROOPS Inc. Ordinary Shares
+Ticker: TROO
+CIK: 0001412095
+Latest SEC XBRL Facts:
+Revenues: 10073000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 10073000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: -8413000 | unit=USD | filed=2022-05-10 | period_end=2021-12-31
+Assets: 79185000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 10936000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 68249000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 1955000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 3480000 | unit=USD | filed=2022-05-10 | period_end=2021-12-31

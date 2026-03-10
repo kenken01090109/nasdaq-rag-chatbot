@@ -1,0 +1,10 @@
+Company: Versant Media Group Inc. Class A Common Stock
+Ticker: VSNT
+CIK: 0002067876
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6688000000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+NetIncomeLoss: 930000000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+Assets: 12333000000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+StockholdersEquity: 10292000000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 2022000000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 55000000 | unit=USD | filed=2026-03-03 | period_end=2025-12-31

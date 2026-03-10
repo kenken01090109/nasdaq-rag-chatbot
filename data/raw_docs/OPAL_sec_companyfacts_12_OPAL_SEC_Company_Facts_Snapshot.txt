@@ -1,0 +1,12 @@
+Company: OPAL Fuels Inc. Class A Common Stock
+Ticker: OPAL
+CIK: 0001842279
+Latest SEC XBRL Facts:
+Revenues: 249220000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 238301000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 19364000 | unit=USD | filed=2022-11-14 | period_end=2021-09-30
+Assets: 916749000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 433953000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 7480000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 40017000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29928000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Origin Materials Inc. Common Stock
+Ticker: ORGN
+CIK: 0001802457
+Latest SEC XBRL Facts:
+Revenues: 15900000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -55570000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 327345000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 32358000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 294987000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -23872000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34061000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

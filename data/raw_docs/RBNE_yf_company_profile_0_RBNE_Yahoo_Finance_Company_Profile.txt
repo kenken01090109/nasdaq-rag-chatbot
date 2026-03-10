@@ -1,0 +1,9 @@
+Company: Robin Energy Ltd. Common Stock
+Ticker: RBNE
+Sector: Energy
+Industry: Oil & Gas Midstream
+Country: Cyprus
+City: Limassol
+Website: https://www.robinenergy.com
+Employees: 
+Business Summary: Robin Energy Ltd. operates as shipping company worldwide. The company acquires, owns, charters, and operates oceangoing tanker vessels. The company provides seaborne transportation services for crude oil and refined petroleum products. As of April 14, 2025, it maintained a fleet of one vessel with a cargo carrying capacity of 0.03 million deadweight ton. The company was incorporated in 2024 and is based in Limassol, Cyprus.

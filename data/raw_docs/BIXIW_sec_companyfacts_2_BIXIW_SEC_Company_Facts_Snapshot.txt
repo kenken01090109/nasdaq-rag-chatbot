@@ -1,0 +1,9 @@
+Company: Bitcoin Infrastructure Acquisition Corp Ltd. Warrant
+Ticker: BIXIW
+CIK: 0002082542
+Latest SEC XBRL Facts:
+NetIncomeLoss: -41989 | unit=USD | filed=2026-01-12 | period_end=2025-09-30
+Assets: 225107 | unit=USD | filed=2026-01-12 | period_end=2025-09-30
+Liabilities: 242096 | unit=USD | filed=2026-01-12 | period_end=2025-09-30
+StockholdersEquity: -16989 | unit=USD | filed=2026-01-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -26693 | unit=USD | filed=2026-01-12 | period_end=2025-09-30

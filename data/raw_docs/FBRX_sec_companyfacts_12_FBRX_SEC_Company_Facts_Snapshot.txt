@@ -1,0 +1,11 @@
+Company: Forte Biosciences Inc. Common Stock
+Ticker: FBRX
+CIK: 0001419041
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 9000 | unit=USD | filed=2020-04-23 | period_end=2019-03-31
+NetIncomeLoss: -44587000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 97089000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 16550000 | unit=USD | filed=2020-04-23 | period_end=2020-03-31
+StockholdersEquity: 84097000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -34416000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 93414000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

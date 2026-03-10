@@ -1,0 +1,8 @@
+Company: XIAO-I Corporation American Depositary Shares
+Ticker: AIXI
+Total Cash: 5011540
+Total Debt: 56457152
+Debt To Equity: 
+Current Ratio: 0.707
+Quick Ratio: 0.523
+Book Value: -3.084

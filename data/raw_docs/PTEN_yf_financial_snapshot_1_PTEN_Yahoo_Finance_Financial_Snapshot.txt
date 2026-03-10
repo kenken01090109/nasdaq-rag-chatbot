@@ -1,0 +1,25 @@
+Company: Patterson-UTI Energy Inc. Common Stock
+Ticker: PTEN
+Market Cap: 3404789760
+Enterprise Value: 4223584768
+Total Revenue: 4826624000
+Revenue Per Share: 12.587
+EBITDA: 900449984
+Gross Margins: 0.24243
+Operating Margins: -0.024360001
+Profit Margins: -0.0194
+Free Cashflow: 409757760
+Operating Cashflow: 961219008
+Return On Assets: -0.0043599997
+Return On Equity: -0.02777
+Total Cash: 418507008
+Total Debt: 1280470016
+Debt To Equity: 39.708
+Current Ratio: 1.642
+Quick Ratio: 1.383
+Trailing PE: 
+Forward PE: -37.280247
+Price To Book: 1.0571598
+Beta: 0.732
+52 Week High: 9.07
+52 Week Low: 5.1

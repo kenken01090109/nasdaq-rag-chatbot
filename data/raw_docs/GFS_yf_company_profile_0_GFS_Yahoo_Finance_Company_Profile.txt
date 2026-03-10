@@ -1,0 +1,9 @@
+Company: GlobalFoundries Inc. Ordinary Shares
+Ticker: GFS
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Malta
+Website: https://gf.com
+Employees: 14000
+Business Summary: GLOBALFOUNDRIES Inc., a semiconductor foundry, provides range of mainstream wafer fabrication services and technologies in the United States, Europe, the Middle East, Africa, and internationally. It offers semiconductor devices, including microprocessors, mobile application processors, baseband processors, network processors, radio frequency modems, microcontrollers, and power management units. The company was incorporated in 2008 and is headquartered in Malta, New York.

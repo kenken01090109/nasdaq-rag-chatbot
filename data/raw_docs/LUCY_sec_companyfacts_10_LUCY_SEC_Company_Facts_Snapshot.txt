@@ -1,0 +1,11 @@
+Company: Innovative Eyewear Inc. Common Stock
+Ticker: LUCY
+CIK: 0001808377
+Latest SEC XBRL Facts:
+Revenues: 1701859 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -5721064 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 11175221 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 925003 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 10250218 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5924987 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6699515 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

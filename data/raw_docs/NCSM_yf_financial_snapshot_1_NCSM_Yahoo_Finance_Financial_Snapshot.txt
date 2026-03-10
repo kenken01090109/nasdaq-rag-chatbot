@@ -1,0 +1,25 @@
+Company: NCS Multistage Holdings Inc. Common Stock
+Ticker: NCSM
+Market Cap: 122853480
+Enterprise Value: 105572480
+Total Revenue: 178000000
+Revenue Per Share: 69.066
+EBITDA: 13986000
+Gross Margins: 0.41377997
+Operating Margins: 0.06582
+Profit Margins: 0.06887
+Free Cashflow: 17104500
+Operating Cashflow: 19687000
+Return On Assets: 0.03353
+Return On Equity: 0.117019996
+Total Cash: 25295000
+Total Debt: 13144000
+Debt To Equity: 10.34
+Current Ratio: 4.389
+Quick Ratio: 2.553
+Trailing PE: 10.60307
+Forward PE: 16.84669
+Price To Book: 1.1154174
+Beta: 0.648
+52 Week High: 53.69
+52 Week Low: 23.89

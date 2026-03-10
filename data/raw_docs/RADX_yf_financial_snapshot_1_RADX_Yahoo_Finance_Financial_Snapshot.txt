@@ -1,0 +1,25 @@
+Company: Radiopharm Theranostics Limited American Depositary Shares
+Ticker: RADX
+Market Cap: 39336992
+Enterprise Value: 16515133440
+Total Revenue: 16278428
+Revenue Per Share: 2.1
+EBITDA: -39179988
+Gross Margins: -1.36508
+Operating Margins: -4.23751
+Profit Margins: -2.8616102
+Free Cashflow: -20874536
+Operating Cashflow: -37101336
+Return On Assets: -0.28328
+Return On Equity: -0.92096
+Total Cash: 34515396
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.01
+Quick Ratio: 2.999
+Trailing PE: 
+Forward PE: -1.9446967
+Price To Book: 474.50598
+Beta: 0.9
+52 Week High: 16.25
+52 Week Low: 3.496

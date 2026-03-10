@@ -1,0 +1,11 @@
+Company: Northern Trust Corporation Common Stock
+Ticker: NTRS
+CIK: 0000073124
+Latest SEC XBRL Facts:
+Revenues: 8086400000 | unit=USD | filed=2026-02-24 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3710400000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 1270900000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 170263300000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 157307300000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 12956000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5145100000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

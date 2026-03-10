@@ -1,0 +1,10 @@
+Company: Landmark Bancorp Inc. Common Stock
+Ticker: LARK
+CIK: 0001141688
+Latest SEC XBRL Facts:
+NetIncomeLoss: 14035000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 1617075000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1461348000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 155727000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18768000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 117314000 | unit=USD | filed=2021-11-12 | period_end=2021-09-30

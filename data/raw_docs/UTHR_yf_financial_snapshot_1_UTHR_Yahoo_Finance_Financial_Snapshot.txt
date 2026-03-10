@@ -1,0 +1,25 @@
+Company: United Therapeutics Corporation Common Stock
+Ticker: UTHR
+Market Cap: 20956647424
+Enterprise Value: 18376357888
+Total Revenue: 3182700032
+Revenue Per Share: 71.844
+EBITDA: 1600800000
+Gross Margins: 0.87921995
+Operating Margins: 0.44989
+Profit Margins: 0.41936
+Free Cashflow: 582012480
+Operating Cashflow: 1561200000
+Return On Assets: 0.12425
+Return On Equity: 0.19715
+Total Cash: 2920300032
+Total Debt: 37600000
+Debt To Equity: 0.53
+Current Ratio: 6.605
+Quick Ratio: 5.834
+Trailing PE: 17.175287
+Forward PE: 14.803143
+Price To Book: 2.940786
+Beta: 0.859
+52 Week High: 537.19
+52 Week Low: 266.98

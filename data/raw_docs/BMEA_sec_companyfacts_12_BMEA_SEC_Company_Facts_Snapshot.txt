@@ -1,0 +1,11 @@
+Company: Biomea Fusion Inc. Common Stock
+Ticker: BMEA
+CIK: 0001840439
+Latest SEC XBRL Facts:
+Revenues: 1235000000 | unit=USD | filed=2022-11-07 | period_end=2022-09-30
+NetIncomeLoss: -66409000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 55187000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 39568000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 15619000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -56429000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46642000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Tectonic Therapeutic Inc. Common Stock
+Ticker: TECX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Watertown
+Website: https://tectonictx.com
+Employees: 60
+Business Summary: Tectonic Therapeutic, Inc., a biotechnology company, focuses on the discovery and development of therapeutic proteins and antibodies to modulate the activity of G protein coupled receptors (GPCRs). It develops GEODe technology platform to enable the discovery and development of GPCR-targeted biologic medicines. The company's lead product is TX45, a Fc-relaxin fusion molecule that activates the RXFP1 receptor, the GPCR target of the hormone, and relaxin. It is also developing TX2100 for the treatment of hereditary hemorrhagic telangiectasia; GPCR modulator bispecific for treating fibrosis; and other GPCR modulators. The company is headquartered in Watertown, Massachusetts.

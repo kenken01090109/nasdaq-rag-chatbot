@@ -1,0 +1,9 @@
+Company: Kearny Financial Corp Common Stock
+Ticker: KRNY
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Fairfield
+Website: https://www.kearnybank.com
+Employees: 504
+Business Summary: Kearny Financial Corp. operates as the holding company for Kearny Bank that provides various banking products and services in the United States. The company offers various deposit products, including interest-bearing and non-interest-bearing checking accounts, money market deposit accounts, savings accounts, and certificates of deposit accounts. It also provides various loans, such as multi-family and nonresidential real estate mortgage loans, commercial term loans and lines of credit, one- to four-family residential mortgage loans, and home equity loans and lines of credit; loans to individuals, builders, or developers for the construction of multi-family residential buildings or commercial real estate, or for the construction or renovation of one- to four-family residences; overdraft lines of credit; and personal loans, as well as engages in the investment activities. The company was founded in 1884 and is headquartered in Fairfield, New Jersey.

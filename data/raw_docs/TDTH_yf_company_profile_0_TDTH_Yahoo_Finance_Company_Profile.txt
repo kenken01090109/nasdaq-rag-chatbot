@@ -1,0 +1,9 @@
+Company: Trident Digital Tech Holdings Ltd American Depository Shares
+Ticker: TDTH
+Sector: Technology
+Industry: Information Technology Services
+Country: Singapore
+City: Singapore
+Website: https://tridentity.me
+Employees: 23
+Business Summary: Trident Digital Tech Holdings Ltd provides commercial and technological digital solutions in Singapore. The company offers business consulting services, such as brand proposition, multi-channel commerce, and digital marketing services. It also provides IT consulting services that includes consulting and technical services relating to the software solutions across the full system development lifecycle comprising definition of business requirements, developing customized software, implementing and modifying software, system analysis, technical specifications, coding, testing, training, maintenance, and support solutions; and various management software solutions to customers comprising client relationship management and inventory management solutions through annual subscriptions. In addition, the company offers Tridentity, a web 3.0 e-commerce platform for transaction of customers and merchants. It serves small and medium enterprises. Trident Digital Tech Holdings Ltd was founded in 2014 and is headquartered in Singapore.

@@ -1,0 +1,25 @@
+Company: OMS Energy Technologies Inc. Ordinary Shares
+Ticker: OMSE
+Market Cap: 195264032
+Enterprise Value: 74453728
+Total Revenue: 157200000
+Revenue Per Share: 3.917
+EBITDA: 43493000
+Gross Margins: 0.31305
+Operating Margins: 0.21611
+Profit Margins: 0.18641001
+Free Cashflow: 33291750
+Operating Cashflow: 43503000
+Return On Assets: 0.11956
+Return On Equity: 0.20820999
+Total Cash: 125986000
+Total Debt: 6875000
+Debt To Equity: 3.88
+Current Ratio: 7.131
+Quick Ratio: 6.019
+Trailing PE: 6.6666665
+Forward PE: 4.401914
+Price To Book: 1.1178615
+Beta: 
+52 Week High: 9.86
+52 Week Low: 3.27

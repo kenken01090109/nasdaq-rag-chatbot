@@ -1,0 +1,9 @@
+Company: Fennec Pharmaceuticals Inc. Common Stock
+Ticker: FENC
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Research Triangle Park
+Website: https://fennecpharma.com
+Employees: 32
+Business Summary: Fennec Pharmaceuticals Inc. operates as a commercial stage biopharmaceutical company in the United States. The company's product candidate includes PEDMARK, a formulation of sodium thiosulfate for the prevention of platinum-induced ototoxicity in pediatric cancer patients. It sells its products through regional pediatric oncology specialists and medical science liaisons. Fennec Pharmaceuticals Inc. has collaboration with Tampa General Hospital Foundation, Inc. for evaluation of clinical utility of sodium thiosulfate injection in reducing the risk of ototoxicity in adolescent, young adult, and adult cancer patients receiving cisplatin-based treatment. The company was formerly known as Adherex Technologies Inc. and changed its name to Fennec Pharmaceuticals Inc. in September 2014. Fennec Pharmaceuticals Inc. was incorporated in 1996 and is based in Research Triangle Park, North Carolina.

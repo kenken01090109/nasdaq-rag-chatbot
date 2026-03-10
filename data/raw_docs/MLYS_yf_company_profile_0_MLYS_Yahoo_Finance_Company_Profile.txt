@@ -1,0 +1,9 @@
+Company: Mineralys Therapeutics Inc. Common Stock
+Ticker: MLYS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Radnor
+Website: https://mineralystx.com
+Employees: 51
+Business Summary: Mineralys Therapeutics, Inc., a clinical-stage biopharmaceutical company, develops medicines to target diseases driven by dysregulated aldosterone in the United States. The company's clinical-stage product candidate is lorundrostat, a proprietary, orally administered, highly selective aldosterone synthase inhibitor for the treatment of cardiorenal conditions affected by dysregulated aldosterone, such as hypertension, chronic kidney disease, and obstructive sleep apnea. It has initiated a Phase 2 trial for lorundrostat in hypertensive patients with stage 2 to 3b chronic kidney disease and a pivotal clinical program of lorundrostat for the treatment of uncontrolled or resistant hypertension. The company was formerly known as Catalys SC1, Inc. and changed its name to Mineralys Therapeutics, Inc. in May 2020. Mineralys Therapeutics, Inc. was incorporated in 2019 and is headquartered in Radnor, Pennsylvania.

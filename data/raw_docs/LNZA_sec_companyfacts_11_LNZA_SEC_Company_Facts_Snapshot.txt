@@ -1,0 +1,11 @@
+Company: LanzaTech Global Inc. Common Stock
+Ticker: LNZA
+CIK: 0001843724
+Latest SEC XBRL Facts:
+Revenues: 27846000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -48867000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 99290000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 91098000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -4978000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -58692000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 19627000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

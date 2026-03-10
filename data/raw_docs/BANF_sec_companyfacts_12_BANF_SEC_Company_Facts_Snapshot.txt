@@ -1,0 +1,10 @@
+Company: BancFirst Corporation Common Stock
+Ticker: BANF
+CIK: 0000760498
+Latest SEC XBRL Facts:
+NetIncomeLoss: 181113000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 14198140000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 12415339000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1782801000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 230496000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1704438000 | unit=USD | filed=2019-08-02 | period_end=2019-06-30

@@ -1,0 +1,25 @@
+Company: Nexxen International Ltd. Ordinary Shares
+Ticker: NEXN
+Market Cap: 423344736
+Enterprise Value: 315414432
+Total Revenue: 364780000
+Revenue Per Share: 6.102
+EBITDA: 67367000
+Gross Margins: 0.84928
+Operating Margins: 0.12931
+Profit Margins: 0.06865
+Free Cashflow: 69294624
+Operating Cashflow: 110109000
+Return On Assets: 0.0254
+Return On Equity: 0.04981
+Total Cash: 133308000
+Total Debt: 31931000
+Debt To Equity: 6.727
+Current Ratio: 1.287
+Quick Ratio: 1.271
+Trailing PE: 6.781818
+Forward PE: 6.092283
+Price To Book: 0.88462
+Beta: 1.492
+52 Week High: 12.6
+52 Week Low: 5.6

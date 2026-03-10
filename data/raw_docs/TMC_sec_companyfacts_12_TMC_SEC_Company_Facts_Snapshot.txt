@@ -1,0 +1,11 @@
+Company: TMC the metals company Inc. Common Stock
+Ticker: TMC
+CIK: 0001798562
+Latest SEC XBRL Facts:
+Revenues: 814000 | unit=USD | filed=2024-08-14 | period_end=2024-06-30
+NetIncomeLoss: -279446000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 175615000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 216239000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -40624000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31496000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115648000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

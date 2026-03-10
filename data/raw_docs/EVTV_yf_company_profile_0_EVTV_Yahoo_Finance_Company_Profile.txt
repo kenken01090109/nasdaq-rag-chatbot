@@ -1,0 +1,9 @@
+Company: Envirotech Vehicles Inc. Common Stock
+Ticker: EVTV
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: United States
+City: Houston
+Website: https://evtvusa.com
+Employees: 22
+Business Summary: Envirotech Vehicles, Inc. manufactures and provides zero-emission electric vehicles in the United States. It offers class 2 through logistics vans; class 4 through urban trucks, school buses, electric forklifts, street sweepers, neighborhood electric vehicles, and right-hand drive vans and urban trucks. The company also provides vehicle maintenance and safety inspection services. It serves commercial and last-mile fleets, school districts, public and private transportation service companies, and colleges and universities. Envirotech Vehicles, Inc. is headquartered in Houston, Texas.

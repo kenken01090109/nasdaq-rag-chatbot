@@ -1,0 +1,10 @@
+Company: AnaptysBio Inc. Common Stock
+Ticker: ANAB
+CIK: 0001370053
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 126354000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -62846000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 353098000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -29416000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -78300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 109833000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

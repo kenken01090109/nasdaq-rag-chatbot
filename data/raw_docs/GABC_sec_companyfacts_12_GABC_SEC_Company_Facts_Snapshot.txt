@@ -1,0 +1,11 @@
+Company: German American Bancorp Inc. Common Stock
+Ticker: GABC
+CIK: 0000714395
+Latest SEC XBRL Facts:
+Revenues: 360750000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 32217000 | unit=USD | filed=2021-11-09 | period_end=2021-09-30
+NetIncomeLoss: 76952000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 8401248000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 7281525000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1119723000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 116647000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

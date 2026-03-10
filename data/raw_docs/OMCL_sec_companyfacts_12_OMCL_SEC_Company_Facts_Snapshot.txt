@@ -1,0 +1,12 @@
+Company: Omnicell Inc. Common Stock ($0.001 par value)
+Ticker: OMCL
+CIK: 0000926326
+Latest SEC XBRL Facts:
+Revenues: 648735000 | unit=USD | filed=2019-11-01 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 870861000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 4078000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1948597000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 727695000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1220902000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 96946000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 180053000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

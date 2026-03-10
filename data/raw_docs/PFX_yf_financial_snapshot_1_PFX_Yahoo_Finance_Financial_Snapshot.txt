@@ -1,0 +1,25 @@
+Company: PhenixFIN Corporation Common Stock
+Ticker: PFX
+Market Cap: 80050296
+Enterprise Value: 229646320
+Total Revenue: 25706074
+Revenue Per Share: 12.785
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.6845
+Profit Margins: -0.119770005
+Free Cashflow: -1014604
+Operating Cashflow: -3097083
+Return On Assets: 0.0319
+Return On Equity: -0.01933
+Total Cash: 3406847
+Total Debt: 149026384
+Debt To Equity: 95.639
+Current Ratio: 2.553
+Quick Ratio: 2.426
+Trailing PE: 
+Forward PE: 18.896229
+Price To Book: 0.51408404
+Beta: 0.172
+52 Week High: 54.771
+52 Week Low: 39.16

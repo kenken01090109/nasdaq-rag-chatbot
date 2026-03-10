@@ -1,0 +1,9 @@
+Company: Dorchester Minerals L.P. Common Units Representing Limited Partnership Interests
+Ticker: DMLP
+Sector: Energy
+Industry: Oil & Gas E&P
+Country: United States
+City: Dallas
+Website: https://www.dmlp.net
+Employees: 26
+Business Summary: Dorchester Minerals, L.P. engages in the acquisition, ownership, and administration of royalty properties in the United States. Its royalty properties include producing and nonproducing mineral, royalty, overriding royalty, net profits, and leasehold interests in 594 counties and parishes in 28 states; and net profits interests, which represent net profits overriding royalty interests in various properties owned by the operating partnership. The company was founded in 1982 and is based in Dallas, Texas.

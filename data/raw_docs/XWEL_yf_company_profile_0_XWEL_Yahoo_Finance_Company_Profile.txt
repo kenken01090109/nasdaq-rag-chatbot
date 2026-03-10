@@ -1,0 +1,9 @@
+Company: XWELL Inc. Common Stock
+Ticker: XWEL
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: New York
+Website: https://www.xwell.com
+Employees: 246
+Business Summary: XWELL, Inc. provides health and wellness services to travelers in the United States and internationally. It operates in four segments: XpresSpa, XpresTest, Naples Wax Center, and Treat. The XpresSpa segment provides traveler's spa services, including massage, and nail and skin care services, as well as spa and travel products. The XpresTest segment offers diagnostic COVID-19 tests to airport employees and traveling public at XpresCheck Wellness Centers in airports; operates the CDC's bio-surveillance program; and provides marketing support through HyperPointe business to various health and health-related channels. The Napple Wax Center segment offers skincare and cometic products, as well as face and body waxing services. The Treat segment provides access to wellness services for travelers at on-site centers. The company offers its services through stores and kiosks, as well as online. The company was formerly known as XpresSpa Group, Inc. and changed its name to XWELL, Inc. in October 2022. XWELL, Inc. is based in New York, New York.

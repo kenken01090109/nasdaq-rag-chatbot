@@ -1,0 +1,12 @@
+Company: ClearPoint Neuro Inc. Common Stock
+Ticker: CLPT
+CIK: 0001285550
+Latest SEC XBRL Facts:
+Revenues: 26561000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 26561000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -17754000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 60357000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 44483000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 15874000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11845000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38221000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

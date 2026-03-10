@@ -1,0 +1,12 @@
+Company: Steven Madden Ltd. Common Stock
+Ticker: SHOO
+CIK: 0000913241
+Latest SEC XBRL Facts:
+Revenues: 1780409000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1771672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: 21474000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1999527000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 1113392000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 850841000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 71072000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 111714000 | unit=USD | filed=2025-08-05 | period_end=2025-06-30

@@ -1,0 +1,10 @@
+Company: Aimei Health Technology Co. Ltd Right
+Ticker: AFJKR
+Market Cap: 
+Enterprise Value: 
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.60498226
+Beta: -2.983
+52 Week High: 0.3405
+52 Week Low: 0.313

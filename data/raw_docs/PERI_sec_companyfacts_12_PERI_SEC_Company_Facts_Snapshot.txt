@@ -1,0 +1,11 @@
+Company: Perion Network Ltd. Ordinary Shares
+Ticker: PERI
+CIK: 0001338940
+Latest SEC XBRL Facts:
+Revenues: 498286000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+NetIncomeLoss: 12614000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+Assets: 915526000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+Liabilities: 192586000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+StockholdersEquity: 722940000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 6939000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 156228000 | unit=USD | filed=2025-03-25 | period_end=2024-12-31

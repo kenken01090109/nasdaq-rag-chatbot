@@ -1,0 +1,25 @@
+Company: CEA Industries Inc. Common Stock
+Ticker: BNC
+Market Cap: 153339024
+Enterprise Value: 128378296
+Total Revenue: 3721498
+Revenue Per Share: 0.268
+EBITDA: 79043520
+Gross Margins: -0.32837
+Operating Margins: 12.571639
+Profit Margins: 73.27835
+Free Cashflow: 
+Operating Cashflow: -27805730
+Return On Assets: 
+Return On Equity: 
+Total Cash: 32535256
+Total Debt: 7574530
+Debt To Equity: 1.562
+Current Ratio: 5.165
+Quick Ratio: 2.921
+Trailing PE: 
+Forward PE: 0.7372882
+Price To Book: 0.32526404
+Beta: 0.766
+52 Week High: 82.88
+52 Week Low: 3.33

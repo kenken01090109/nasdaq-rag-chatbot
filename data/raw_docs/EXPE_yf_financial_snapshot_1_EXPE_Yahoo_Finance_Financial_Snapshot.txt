@@ -1,0 +1,25 @@
+Company: Expedia Group Inc. Common Stock
+Ticker: EXPE
+Market Cap: 30587154432
+Enterprise Value: 32839421952
+Total Revenue: 14732999680
+Revenue Per Share: 117.523
+EBITDA: 2300999936
+Gross Margins: 0.90116996
+Operating Margins: 0.1545
+Profit Margins: 0.08783
+Free Cashflow: 2934000128
+Operating Cashflow: 3880000000
+Return On Assets: 0.057719998
+Return On Equity: 0.48672
+Total Cash: 5733000192
+Total Debt: 6487000064
+Debt To Equity: 254.692
+Current Ratio: 0.732
+Quick Ratio: 0.597
+Trailing PE: 25.445461
+Forward PE: 10.9209
+Price To Book: 23.814156
+Beta: 1.41
+52 Week High: 303.8
+52 Week Low: 130.01

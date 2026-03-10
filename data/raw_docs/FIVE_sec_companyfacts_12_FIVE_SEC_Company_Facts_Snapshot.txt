@@ -1,0 +1,11 @@
+Company: Five Below Inc. Common Stock
+Ticker: FIVE
+CIK: 0001177609
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3035667000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetIncomeLoss: 120415000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Assets: 4789318000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+Liabilities: 2839082000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+StockholdersEquity: 1950236000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 145533000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 350983000 | unit=USD | filed=2025-12-04 | period_end=2025-11-01

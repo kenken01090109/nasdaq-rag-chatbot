@@ -1,0 +1,12 @@
+Company: Information Services Group Inc. Common Stock
+Ticker: III
+CIK: 0001371489
+Latest SEC XBRL Facts:
+Revenues: 68877000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 183512000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 6727000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 213252000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 118564000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 94688000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23950000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28735000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

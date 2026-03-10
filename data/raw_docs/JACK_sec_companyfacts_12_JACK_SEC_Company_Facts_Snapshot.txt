@@ -1,0 +1,10 @@
+Company: Jack In The Box Inc. Common Stock
+Ticker: JACK
+CIK: 0000807882
+Latest SEC XBRL Facts:
+Revenues: 349517000 | unit=USD | filed=2026-02-18 | period_end=2026-01-18
+NetIncomeLoss: -2458000 | unit=USD | filed=2026-02-18 | period_end=2026-01-18
+Assets: 2021627000 | unit=USD | filed=2026-02-18 | period_end=2026-01-18
+StockholdersEquity: -936038000 | unit=USD | filed=2026-02-18 | period_end=2026-01-18
+NetCashProvidedByUsedInOperatingActivities: 128626000 | unit=USD | filed=2025-08-06 | period_end=2025-07-06
+CashAndCashEquivalentsAtCarryingValue: 6647000 | unit=USD | filed=2016-08-04 | period_end=2016-07-03

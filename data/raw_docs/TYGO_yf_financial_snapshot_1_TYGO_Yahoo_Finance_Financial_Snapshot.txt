@@ -1,0 +1,25 @@
+Company: Tigo Energy Inc. Common Stock
+Ticker: TYGO
+Market Cap: 237730736
+Enterprise Value: 248763408
+Total Revenue: 103536000
+Revenue Per Share: 1.593
+EBITDA: -3233000
+Gross Margins: 0.42836
+Operating Margins: 0.011089999
+Profit Margins: -0.01816
+Free Cashflow: 18060876
+Operating Cashflow: 10299000
+Return On Assets: -0.03726
+Return On Equity: -0.10442001
+Total Cash: 7670000
+Total Debt: 2673000
+Debt To Equity: 9.677
+Current Ratio: 1.496
+Quick Ratio: 0.556
+Trailing PE: 
+Forward PE: 27.325062
+Price To Book: 8.575063
+Beta: 1.198
+52 Week High: 4.5
+52 Week Low: 0.58

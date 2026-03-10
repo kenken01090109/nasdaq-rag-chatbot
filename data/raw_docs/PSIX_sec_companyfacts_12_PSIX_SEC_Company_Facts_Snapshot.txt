@@ -1,0 +1,12 @@
+Company: Power Solutions International Inc. Common Stock
+Ticker: PSIX
+CIK: 0001137091
+Latest SEC XBRL Facts:
+Revenues: 416616000 | unit=USD | filed=2019-05-16 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 531182000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 97910000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 458946000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 296492000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 162454000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 28730000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49046000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

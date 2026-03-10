@@ -1,0 +1,12 @@
+Company: Papa John's International Inc. Common Stock
+Ticker: PZZA
+CIK: 0000901491
+Latest SEC XBRL Facts:
+Revenues: 542692000 | unit=USD | filed=2022-05-05 | period_end=2022-03-27
+RevenueFromContractWithCustomerExcludingAssessedTax: 1555629000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetIncomeLoss: 23460000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Assets: 884097000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+Liabilities: 1307548000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+StockholdersEquity: -439305000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+NetCashProvidedByUsedInOperatingActivities: 106192000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28
+CashAndCashEquivalentsAtCarryingValue: 38972000 | unit=USD | filed=2025-11-06 | period_end=2025-09-28

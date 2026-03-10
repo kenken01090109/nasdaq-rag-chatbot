@@ -1,0 +1,25 @@
+Company: Manhattan Bridge Capital Inc
+Ticker: LOAN
+Market Cap: 48728660
+Enterprise Value: 64871088
+Total Revenue: 7138128
+Revenue Per Share: 0.624
+EBITDA: 
+Gross Margins: 1.0
+Operating Margins: 0.74216
+Profit Margins: 0.74174005
+Free Cashflow: 
+Operating Cashflow: 5076884
+Return On Assets: 0.08103
+Return On Equity: 0.1223
+Total Cash: 186435
+Total Debt: 15185003
+Debt To Equity: 35.056
+Current Ratio: 40.175
+Quick Ratio: 40.166
+Trailing PE: 9.06383
+Forward PE: 8.875001
+Price To Book: 1.124901
+Beta: 0.212
+52 Week High: 6.05
+52 Week Low: 4.25

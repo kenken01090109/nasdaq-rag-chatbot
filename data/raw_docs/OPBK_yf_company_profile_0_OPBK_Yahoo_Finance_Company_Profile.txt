@@ -1,0 +1,9 @@
+Company: OP Bancorp Common Stock
+Ticker: OPBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Los Angeles
+Website: https://www.myopenbank.com
+Employees: 
+Business Summary: OP Bancorp operates as the bank holding company for Open Bank that provides banking products and services. The company offers demand, checking, savings, money market, and time deposit accounts, as well as certificates of deposit. It also provides commercial real estate, small business administration, commercial and industrial business, single-family residential, term, consumer, and home mortgage loans; trade financing products; and letters of credit, and SWIFT and export advice. In addition, the company offers debit and credit card, online transfer and bill payment, and electronic delivery of customer statements; mobile banking solutions for iPhone and Android phones, including remote check deposit with mobile bill pay; direct deposit, cashier's check, person to person payment, wire transfer, and automated clearing house services; and cash management services, including balance reporting, transfers between accounts, wire transfer initiation, ACH origination, and stop payment services, as well as remote deposit capture, positive pay, zero balance accounts, and sweep accounts. It operates full branch offices in Los Angeles, Orange, and Santa Clara Counties in California; the Dallas metropolitan area in Texas; and Clark County in Nevada, as well as operates loan production offices in Pleasanton, California; Atlanta, Georgia; Aurora, Colorado; Lynnwood, Washington; and Fairfax, Virginia. The company was founded in 2005 and is headquartered in Los Angeles, California.

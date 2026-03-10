@@ -1,0 +1,25 @@
+Company: Goosehead Insurance Inc. Class A Common Stock
+Ticker: GSHD
+Market Cap: 1883161472
+Enterprise Value: 1486734976
+Total Revenue: 364633984
+Revenue Per Share: 14.6
+EBITDA: 89743000
+Gross Margins: 0.46148
+Operating Margins: 0.2926
+Profit Margins: 0.07633
+Free Cashflow: 57325000
+Operating Cashflow: 91757000
+Return On Assets: 0.12073
+Return On Equity: 
+Total Cash: 34390000
+Total Debt: 352288000
+Debt To Equity: 
+Current Ratio: 1.599
+Quick Ratio: 1.409
+Trailing PE: 48.21154
+Forward PE: 18.831642
+Price To Book: -12.942695
+Beta: 1.624
+52 Week High: 127.99
+52 Week Low: 42.87

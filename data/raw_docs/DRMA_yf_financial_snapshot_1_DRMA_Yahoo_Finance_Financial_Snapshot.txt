@@ -1,0 +1,25 @@
+Company: Dermata Therapeutics Inc. Common Stock
+Ticker: DRMA
+Market Cap: 3997325
+Enterprise Value: -3422114
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -6225354
+Operating Cashflow: -9341976
+Return On Assets: -0.96455
+Return On Equity: -2.0336199
+Total Cash: 4664127
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 4.563
+Quick Ratio: 4.197
+Trailing PE: 0.082021
+Forward PE: -0.32299742
+Price To Book: 0.26652452
+Beta: 0.598
+52 Week High: 23.7
+52 Week Low: 1.11

@@ -1,0 +1,11 @@
+Company: Global Interactive Technologies Inc. Common Stock
+Ticker: GITS
+CIK: 0001911545
+Latest SEC XBRL Facts:
+Revenues: 1867 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -2100679 | unit=USD | filed=2024-11-20 | period_end=2024-09-30
+Assets: 5876802 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 631216 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 5245586 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11444953 | unit=USD | filed=2023-11-17 | period_end=2023-09-30
+CashAndCashEquivalentsAtCarryingValue: 36915 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

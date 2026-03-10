@@ -1,0 +1,9 @@
+Company: Upland Software Inc. Common Stock
+Ticker: UPLD
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Austin
+Website: https://uplandsoftware.com
+Employees: 
+Business Summary: Upland Software, Inc., together with its subsidiaries, provides cloud-based software applications under the Upland brand name in the United States, the United Kingdom, Canada, and internationally. It offers knowledge management solutions for internal knowledge sharing, customer self-service, and contact center operations; content lifecycle and workflow automation solutions for document management, compliance, and process efficiency across various industries; and digital marketing solutions that provides tools for audience engagement, campaign management, and content distribution across digital channels. The company also provides professional services, such as implementation, data extraction, integration and configuration, and training services, as well as customer support services. It serves corporations, government agencies, and small and medium-sized businesses in the financial services, consulting services, technology, manufacturing, media, telecommunications, government, insurance, non-profit, healthcare, life sciences, legal, retail, and hospitality sectors. The company was formerly known as Silverback Enterprise Group, Inc. and changed its name to Upland Software, Inc. in November 2013. Upland Software, Inc. was incorporated in 2010 and is headquartered in Austin, Texas.

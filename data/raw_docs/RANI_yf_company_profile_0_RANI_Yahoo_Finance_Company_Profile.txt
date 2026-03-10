@@ -1,0 +1,9 @@
+Company: Rani Therapeutics Holdings Inc. Class A Common Stock
+Ticker: RANI
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Jose
+Website: https://www.ranitherapeutics.com
+Employees: 105
+Business Summary: Rani Therapeutics Holdings, Inc. operates as a clinical stage biotherapeutics company, focusing on technologies to enable the administration of biologics and drugs orally for patients, physicians, and healthcare systems with a alternative to painful injections in the United States. The company develops the RaniPill capsule, a drug-agnostic oral delivery platform to deliver a variety of drug substances, including oligonucleotides, peptides, proteins, and antibodies. Its product pipeline includes RT-102, a parathyroid hormone that is in Phase I clinical trial for the treatment of osteoporosis; RT-105, an anti-TNF-alpha antibody that is in preclinical studies to treat psoriatic arthritis; RT-110, a parathyroid hormone for the treatment of hypoparathyroidism; RT-116 which is in discovery stage for the treatment of obesity; and RT-111, an ustekinumab biosimilar for the treatment of various inflammatory conditions. The has a collaboration agreement with ProGen Co., Ltd. for the o-development and commercialization of RT-114 to treat obesity. Rani Therapeutics Holdings, Inc. was founded in 2012 and is headquartered in San Jose, California.

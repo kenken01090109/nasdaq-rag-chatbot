@@ -1,0 +1,12 @@
+Company: Addus HomeCare Corporation Common Stock
+Ticker: ADUS
+CIK: 0001468328
+Latest SEC XBRL Facts:
+Revenues: 378315000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1049452000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 66128000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1422938000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 372964000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 1049974000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 92744000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 96954000 | unit=USD | filed=2025-05-06 | period_end=2025-03-31

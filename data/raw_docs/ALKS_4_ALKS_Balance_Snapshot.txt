@@ -1,0 +1,8 @@
+Company: Alkermes plc Ordinary Shares
+Ticker: ALKS
+Total Cash: 588214976
+Total Debt: 69999000
+Debt To Equity: 3.848
+Current Ratio: 3.55
+Quick Ratio: 1.697
+Book Value: 10.986

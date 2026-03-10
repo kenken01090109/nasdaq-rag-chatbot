@@ -1,0 +1,10 @@
+Company: Aldel Financial II Inc. Class A Ordinary Shares
+Ticker: ALDF
+Market Cap: 315109664
+Enterprise Value: 314363264
+Trailing PE: 
+Forward PE: 
+Price To Book: 340.3226
+Beta: 
+52 Week High: 10.59
+52 Week Low: 10.03

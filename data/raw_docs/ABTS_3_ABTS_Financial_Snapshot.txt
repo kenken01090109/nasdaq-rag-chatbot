@@ -1,0 +1,12 @@
+Company: Abits Group Inc Ordinary Shares
+Ticker: ABTS
+Total Revenue: 7384971
+Revenue Per Share: 3.116
+Gross Margins: 0.52326
+Operating Margins: -0.39512002
+EBITDA: 1558201
+Profit Margins: -0.11861
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.08128
+Return On Equity: -0.08712

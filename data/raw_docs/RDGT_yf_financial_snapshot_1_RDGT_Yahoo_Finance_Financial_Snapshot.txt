@@ -1,0 +1,25 @@
+Company: Ridgetech Inc. Ordinary Shares
+Ticker: RDGT
+Market Cap: 31575640
+Enterprise Value: 7719390
+Total Revenue: 119971640
+Revenue Per Share: 21.643
+EBITDA: 101901
+Gross Margins: 0.032
+Operating Margins: -0.00863
+Profit Margins: 0.08497
+Free Cashflow: -18586348
+Operating Cashflow: 1247770
+Return On Assets: -0.00811
+Return On Equity: -0.06621
+Total Cash: 12779781
+Total Debt: 10388742
+Debt To Equity: 35.054
+Current Ratio: 1.738
+Quick Ratio: 1.252
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.34113
+Beta: -0.336
+52 Week High: 5.07
+52 Week Low: 0.72

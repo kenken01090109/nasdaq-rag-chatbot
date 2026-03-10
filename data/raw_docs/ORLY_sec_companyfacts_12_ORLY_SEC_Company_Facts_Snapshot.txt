@@ -1,0 +1,10 @@
+Company: O'Reilly Automotive Inc. Common Stock
+Ticker: ORLY
+CIK: 0000898173
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13367678000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1932976000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 16279627000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -894676000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2128501000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 204513000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

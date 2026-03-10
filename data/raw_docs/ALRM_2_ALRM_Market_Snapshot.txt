@@ -1,0 +1,10 @@
+Company: Alarm.com Holdings Inc. Common Stock
+Ticker: ALRM
+Market Cap: 2501466112
+Enterprise Value: 2638661888
+Trailing PE: 20.386179
+Forward PE: 16.674702
+Price To Book: 2.9346364
+Beta: 0.809
+52 Week High: 60.76
+52 Week Low: 43.0

@@ -1,0 +1,25 @@
+Company: Inhibikase Therapeutics Inc. Common Stock
+Ticker: IKT
+Market Cap: 227982048
+Enterprise Value: 94084120
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -53076400
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -13177324
+Operating Cashflow: -25616066
+Return On Assets: -0.79109
+Return On Equity: -1.3170799
+Total Cash: 77322216
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 11.728
+Quick Ratio: 11.547
+Trailing PE: 4.0
+Forward PE: -7.52
+Price To Book: 2.3296158
+Beta: 0.801
+52 Week High: 2.58
+52 Week Low: 1.33

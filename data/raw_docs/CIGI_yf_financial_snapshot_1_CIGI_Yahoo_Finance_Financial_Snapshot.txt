@@ -1,0 +1,25 @@
+Company: Colliers International Group Inc. Subordinate Voting Shares
+Ticker: CIGI
+Market Cap: 5933082624
+Enterprise Value: 9392007168
+Total Revenue: 5558461952
+Revenue Per Share: 109.453
+EBITDA: 657540992
+Gross Margins: 0.40049
+Operating Margins: 0.08799
+Profit Margins: 0.018550001
+Free Cashflow: 326235616
+Operating Cashflow: 330140000
+Return On Assets: 0.03894
+Return On Equity: 0.08477
+Total Cash: 270847008
+Total Debt: 2290729984
+Debt To Equity: 81.246
+Current Ratio: 1.101
+Quick Ratio: 0.856
+Trailing PE: 57.16749
+Forward PE: 13.555612
+Price To Book: 3.8678179
+Beta: 1.289
+52 Week High: 171.51
+52 Week Low: 98.97

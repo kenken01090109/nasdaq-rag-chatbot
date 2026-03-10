@@ -1,0 +1,25 @@
+Company: MoneyHero Limited Class A Ordinary Shares
+Ticker: MNY
+Market Cap: 61854008
+Enterprise Value: 38020408
+Total Revenue: 69182744
+Revenue Per Share: 1.286
+EBITDA: -13407561
+Gross Margins: 0.25019
+Operating Margins: -0.13132
+Profit Margins: -0.34537
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.103240006
+Return On Equity: -0.50254
+Total Cash: 27924000
+Total Debt: 1137000
+Debt To Equity: 2.96
+Current Ratio: 1.963
+Quick Ratio: 1.758
+Trailing PE: 
+Forward PE: 71.5
+Price To Book: 1.6305587
+Beta: 1.253
+52 Week High: 2.4
+52 Week Low: 0.551

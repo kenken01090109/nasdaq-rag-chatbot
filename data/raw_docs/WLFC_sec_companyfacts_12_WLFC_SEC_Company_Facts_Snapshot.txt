@@ -1,0 +1,12 @@
+Company: Willis Lease Finance Corporation Common Stock
+Ticker: WLFC
+CIK: 0001018164
+Latest SEC XBRL Facts:
+Revenues: 536623000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 569223000 | unit=USD | filed=2025-03-11 | period_end=2024-12-31
+NetIncomeLoss: 101570000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 3421347000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 2707812000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 650204000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 209073000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12885000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

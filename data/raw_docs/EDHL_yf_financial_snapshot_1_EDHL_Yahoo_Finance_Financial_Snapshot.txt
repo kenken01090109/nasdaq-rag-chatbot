@@ -1,0 +1,25 @@
+Company: Everbright Digital Holding Limited Ordinary Shares
+Ticker: EDHL
+Market Cap: 5415316
+Enterprise Value: 4516567
+Total Revenue: 2041124
+Revenue Per Share: 2.301
+EBITDA: -537021
+Gross Margins: 0.55509
+Operating Margins: -0.88017
+Profit Margins: -0.36326
+Free Cashflow: -6802158
+Operating Cashflow: -1748162
+Return On Assets: -0.08683
+Return On Equity: -0.20834999
+Total Cash: 15633
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 11.263
+Quick Ratio: 1.531
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.0071274
+Beta: 
+52 Week High: 110.08
+52 Week Low: 2.187

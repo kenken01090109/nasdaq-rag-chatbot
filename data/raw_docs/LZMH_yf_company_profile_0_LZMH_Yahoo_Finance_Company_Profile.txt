@@ -1,0 +1,9 @@
+Company: LZ Technology Holdings Limited Class B Ordinary Shares
+Ticker: LZMH
+Sector: Technology
+Industry: Information Technology Services
+Country: China
+City: Huzhou
+Website: https://lz-qs.com
+Employees: 68
+Business Summary: LZ Technology Holdings Limited operates as an information technology and advertising company in China. The company offers smart community services, including intelligent community building access devices and safety management systems through access control monitors and vendor-provided SaaS platforms. It also provides out-of-home advertising solutions, which offer one-stop multi-channel advertising solutions, as well as local life services that connect businesses and consumers through online promotions and transactions. In addition, it offers advertising design and production; operation services for merchants' online accounts; software development services; travel packages; and operation and maintenance of community devices. The company was incorporated in 2022 and is based in Huzhou, China. LZ Technology Holdings Limited operates as a subsidiary of LZ Digital Technology Holdings Co., Ltd.

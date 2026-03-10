@@ -1,0 +1,25 @@
+Company: NICE Ltd American Depositary Shares
+Ticker: NICE
+Market Cap: 7873302016
+Enterprise Value: 7282783744
+Total Revenue: 2945399040
+Revenue Per Share: 1.89012
+EBITDA: 853868032
+Gross Margins: 0.66414
+Operating Margins: 0.22406
+Profit Margins: 0.20782
+Free Cashflow: 457306752
+Operating Cashflow: 716548992
+Return On Assets: 0.07869
+Return On Equity: 0.16367
+Total Cash: 417398016
+Total Debt: 88801000
+Debt To Equity: 2.291
+Current Ratio: 1.554
+Quick Ratio: 1.409
+Trailing PE: 13.187177
+Forward PE: 10.220782
+Price To Book: 1.9877789
+Beta: 0.255
+52 Week High: 180.61
+52 Week Low: 94.65

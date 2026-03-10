@@ -1,0 +1,8 @@
+Company: Calisa Acquisition Corp Right
+Ticker: ALISR
+Total Cash: 1901988
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 1.017
+Quick Ratio: 0.882
+Book Value: 0.017

@@ -1,0 +1,12 @@
+Company: Microsoft Corporation Common Stock
+Ticker: MSFT
+CIK: 0000789019
+Latest SEC XBRL Facts:
+Revenues: 36148000000 | unit=USD | filed=2011-01-27 | period_end=2010-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 158946000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+NetIncomeLoss: 66205000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+Assets: 665302000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+Liabilities: 274427000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+StockholdersEquity: 390875000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 80815000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 24296000000 | unit=USD | filed=2026-01-28 | period_end=2025-12-31

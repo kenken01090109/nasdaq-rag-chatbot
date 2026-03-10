@@ -1,0 +1,10 @@
+Company: Extreme Networks Inc. Common Stock
+Ticker: EXTR
+CIK: 0001078271
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 628170000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetIncomeLoss: 13487000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Assets: 1168666000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+StockholdersEquity: 95912000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 36140000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 219791000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31

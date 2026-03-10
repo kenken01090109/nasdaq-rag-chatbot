@@ -1,0 +1,11 @@
+Company: Raytech Holding Limited Ordinary Shares
+Ticker: RAY
+CIK: 0001948443
+Latest SEC XBRL Facts:
+Revenues: 5566641 | unit=USD | filed=2025-01-10 | period_end=2024-09-30
+NetIncomeLoss: 598771 | unit=USD | filed=2025-01-10 | period_end=2024-09-30
+Assets: 12328484 | unit=USD | filed=2025-01-10 | period_end=2024-09-30
+Liabilities: 2888035 | unit=USD | filed=2025-01-10 | period_end=2024-09-30
+StockholdersEquity: 9440449 | unit=USD | filed=2025-01-10 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 337361 | unit=USD | filed=2025-01-10 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 10431712 | unit=USD | filed=2025-01-10 | period_end=2024-09-30

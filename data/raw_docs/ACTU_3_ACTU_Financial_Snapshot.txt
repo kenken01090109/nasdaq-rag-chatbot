@@ -1,0 +1,12 @@
+Company: Actuate Therapeutics Inc. Common stock
+Ticker: ACTU
+Total Revenue: 
+Revenue Per Share: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+EBITDA: 
+Profit Margins: 0.0
+Free Cashflow: -11449474
+Operating Cashflow: -20242624
+Return On Assets: -0.95249003
+Return On Equity: -2.96042

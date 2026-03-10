@@ -1,0 +1,11 @@
+Company: Aurora Mobile Limited American Depositary Shares
+Ticker: JG
+CIK: 0001737339
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 24962000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetIncomeLoss: -360000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Assets: 53184000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+Liabilities: 39566000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+StockholdersEquity: 9020000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 795000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 16671000 | unit=USD | filed=2025-09-19 | period_end=2025-06-30

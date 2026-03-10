@@ -1,0 +1,11 @@
+Company: Interlink Electronics Inc. Common Stock
+Ticker: LINK
+CIK: 0000828146
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 9037000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -1041000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 12081000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 2449000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 9632000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 244000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2987000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

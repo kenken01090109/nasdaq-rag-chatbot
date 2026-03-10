@@ -1,0 +1,25 @@
+Company: Southern Missouri Bancorp Inc. Common Stock
+Ticker: SMBC
+Market Cap: 688157952
+Enterprise Value: 711258880
+Total Revenue: 182780992
+Revenue Per Share: 16.288
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.50317
+Profit Margins: 0.35708
+Free Cashflow: 
+Operating Cashflow: 88977000
+Return On Assets: 0.013049999
+Return On Equity: 0.120900005
+Total Cash: 135192992
+Total Debt: 152962000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.717993
+Forward PE: 9.315789
+Price To Book: 1.216686
+Beta: 0.956
+52 Week High: 66.56
+52 Week Low: 45.1

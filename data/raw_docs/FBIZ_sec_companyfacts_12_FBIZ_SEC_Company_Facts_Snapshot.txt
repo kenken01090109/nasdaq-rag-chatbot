@@ -1,0 +1,10 @@
+Company: First Business Financial Services Inc. Common Stock
+Ticker: FBIZ
+CIK: 0001521951
+Latest SEC XBRL Facts:
+NetIncomeLoss: 36986000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 4034845000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 3676526000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 358319000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 45554000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44349000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

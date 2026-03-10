@@ -1,0 +1,9 @@
+Company: Patriot National Bancorp Inc. Common Stock
+Ticker: PNBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Stamford
+Website: https://bankpatriot.com
+Employees: 129
+Business Summary: Patriot National Bancorp, Inc. operates as the holding company for Patriot Bank, N.A. that provides community banking services to individuals, small and medium-sized businesses, and professionals. The company accepts consumer and commercial deposit accounts, such as checking, interest-bearing negotiable order of withdrawal, money market, time certificates of deposit, savings, prepaid deposit, online national money market, individual retirement accounts, and health savings accounts, as well as certificate of deposit account registry service. Its loan portfolio comprises commercial real estate, commercial business, small business administration, construction, purchased residential real estate, and various consumer loans. The company also offers automated clearing house transfers, lockbox, internet banking, bill payment, remote deposit capture, debit card, money order, traveler's check, and automatic teller machine services. It operates in New York; Connecticut; New Jersey; and internationally. The company was founded in 1994 and is headquartered in Stamford, Connecticut.

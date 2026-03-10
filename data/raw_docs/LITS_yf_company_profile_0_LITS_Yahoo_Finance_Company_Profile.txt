@@ -1,0 +1,9 @@
+Company: Lite Strategy Inc. Common Stock
+Ticker: LITS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: San Diego
+Website: https://www.litestrategy.com
+Employees: 4
+Business Summary: Lite Strategy, Inc. a clinical-stage pharmaceutical company, focuses on the development of novel and differentiated therapies for the treatment of cancer. The company was formerly known as MEI Pharma, Inc. and changed its name to Lite Strategy, Inc. in September 2025. Lite Strategy, Inc. was incorporated in 2000 and is based in San Diego, California.

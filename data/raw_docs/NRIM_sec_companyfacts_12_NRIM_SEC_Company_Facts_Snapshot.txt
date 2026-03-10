@@ -1,0 +1,12 @@
+Company: Northrim BanCorp Inc Common Stock
+Ticker: NRIM
+CIK: 0001163370
+Latest SEC XBRL Facts:
+Revenues: 193257000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3036000 | unit=USD | filed=2019-08-06 | period_end=2019-06-30
+NetIncomeLoss: 52167000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Assets: 3312332000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+Liabilities: 2996669000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+StockholdersEquity: 315663000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 104795000 | unit=USD | filed=2025-10-27 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 92188000 | unit=USD | filed=2019-11-05 | period_end=2019-09-30

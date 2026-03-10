@@ -1,0 +1,10 @@
+Company: California BanCorp Common Stock
+Ticker: BCAL
+CIK: 0001795815
+Latest SEC XBRL Facts:
+NetIncomeLoss: 46636000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4101209000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3536485000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 564724000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 36382000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 559216000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: CXApp Inc. Class A Common Stock
+Ticker: CXAI
+Sector: Technology
+Industry: Software - Application
+Country: United States
+City: Palo Alto
+Website: https://cxapp.com
+Employees: 41
+Business Summary: CXApp Inc. provides experience solutions and delivering enterprise-grade software in the United States, Canada, and the Philippines. The company offers CXAI Platform, which provides a comprehensive suite of tools to create smarter workplaces; CXAI Apps, a multi-platform suite of applications that offers personalized workflows; CXAI BTS (Behind the Scenes), a core AI engine that powers automation, content management, and security compliance; and CXAI-VU, a generative AI analytics platform that provides actionable insights into workplace utilization, employee engagement, and productivity. It serves software/technology, financial services, next-gen auto manufacturing, entertainment, and life science companies. The company was formerly known as KINS Technology Group Inc. and changed its name to CXApp Inc. in March 2023. CXApp Inc. is headquartered in Palo Alto, California.

@@ -1,0 +1,25 @@
+Company: Capitol Federal Financial Inc. Common Stock
+Ticker: CFFN
+Market Cap: 917439360
+Enterprise Value: 2484685312
+Total Revenue: 209735008
+Revenue Per Share: 1.617
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.47271
+Profit Margins: 0.34757
+Free Cashflow: 
+Operating Cashflow: 66876000
+Return On Assets: 0.0075499997
+Return On Equity: 0.070489995
+Total Cash: 233399008
+Total Debt: 1829913984
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.464286
+Forward PE: 9.627586
+Price To Book: 0.8528837
+Beta: 0.67
+52 Week High: 7.84
+52 Week Low: 4.9

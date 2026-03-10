@@ -1,0 +1,25 @@
+Company: TechTarget Inc. Common Stock
+Ticker: TTGT
+Market Cap: 277086336
+Enterprise Value: 357062240
+Total Revenue: 446513984
+Revenue Per Share: 6.715
+EBITDA: 53576000
+Gross Margins: 0.60708
+Operating Margins: -0.057129998
+Profit Margins: -2.3259
+Free Cashflow: 88838000
+Operating Cashflow: -24623000
+Return On Assets: -0.027579999
+Return On Equity: -2.75316
+Total Cash: 46301000
+Total Debt: 136379008
+Debt To Equity: 22.808
+Current Ratio: 1.13
+Quick Ratio: 0.977
+Trailing PE: 
+Forward PE: 4.6829267
+Price To Book: 0.46332043
+Beta: 1.131
+52 Week High: 15.55
+52 Week Low: 3.41

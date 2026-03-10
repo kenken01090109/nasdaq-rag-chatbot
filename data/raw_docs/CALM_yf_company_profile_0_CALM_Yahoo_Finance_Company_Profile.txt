@@ -1,0 +1,9 @@
+Company: Cal-Maine Foods Inc. Common Stock
+Ticker: CALM
+Sector: Consumer Defensive
+Industry: Farm Products
+Country: United States
+City: Ridgeland
+Website: https://www.calmainefoods.com
+Employees: 3683
+Business Summary: Cal-Maine Foods, Inc., together with its subsidiaries, engages in the production, grading, packaging, marketing, and distribution of shell eggs, egg products, and prepared foods. The company offers specialty shell eggs, including cage-free, organic, brown, free-range, and pasture-raised and nutritionally enhanced eggs, as well as conventional eggs under the Egg-Land's Best, Land O' Lakes, Farmhouse Eggs, Sunups, Sunny Meadow, and 4-Grain brand names. It also provides ready-to-eat products, such as hard-cooked eggs, egg wraps, protein pancakes, crepes and wrap-ups; and sells feed, miscellaneous byproducts, and resale products. The company sells its products to various customers, including national and regional grocery store chains, club stores, independent supermarkets, foodservice distributors, and egg product consumers primarily in the southwestern, southeastern, mid-western, northeastern, and mid-Atlantic regions of the United States, as well as Puerto Rico. Cal-Maine Foods, Inc. was founded in 1957 and is headquartered in Ridgeland, Mississippi.

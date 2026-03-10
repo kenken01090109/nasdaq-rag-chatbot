@@ -1,0 +1,8 @@
+Company: Abivax SA American Depositary Shares
+Ticker: ABVX
+Total Cash: 589702976
+Total Debt: 73988000
+Debt To Equity: 14.472
+Current Ratio: 7.863
+Quick Ratio: 7.737
+Book Value: 7.6424403

@@ -1,0 +1,10 @@
+Company: Sound Financial Bancorp Inc. Common Stock
+Ticker: SFBC
+CIK: 0001541119
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4914000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 1060163000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 952713000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 107450000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5156000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 101156000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

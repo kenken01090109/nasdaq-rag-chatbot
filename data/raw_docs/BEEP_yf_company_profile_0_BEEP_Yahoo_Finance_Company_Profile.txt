@@ -1,0 +1,9 @@
+Company: Mobile Infrastructure Corporation Common Stock
+Ticker: BEEP
+Sector: Industrials
+Industry: Infrastructure Operations
+Country: United States
+City: Cincinnati
+Website: https://www.mobileit.com
+Employees: 
+Business Summary: Mobile Infrastructure Corporation is a Maryland corporation. The Company owns a diversified portfolio of parking assets throughout the United States. As of September 30, 2025, the Company owned 40 parking facilities in 20 separate markets throughout the United States, with a total of 15,100 parking spaces and approximately 5.2 million square feet. The Company also owns approximately 0.2 million square feet of retail/commercial space adjacent to its parking facilities.

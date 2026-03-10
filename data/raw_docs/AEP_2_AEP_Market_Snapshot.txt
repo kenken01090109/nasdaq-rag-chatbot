@@ -1,0 +1,10 @@
+Company: American Electric Power Company Inc. Common Stock
+Ticker: AEP
+Market Cap: 71415349248
+Enterprise Value: 121770352640
+Trailing PE: 19.855639
+Forward PE: 19.250423
+Price To Book: 2.2935157
+Beta: 0.573
+52 Week High: 134.6
+52 Week Low: 97.46

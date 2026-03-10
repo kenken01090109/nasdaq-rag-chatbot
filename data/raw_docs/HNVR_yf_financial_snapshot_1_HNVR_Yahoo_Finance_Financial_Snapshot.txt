@@ -1,0 +1,25 @@
+Company: Hanover Bancorp Inc. Common Stock
+Ticker: HNVR
+Market Cap: 151687520
+Enterprise Value: 84972584
+Total Revenue: 62938000
+Revenue Per Share: 8.424
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.03906
+Profit Margins: 0.11897001
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00319
+Return On Equity: 0.03773
+Total Cash: 208904000
+Total Debt: 136035008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 21.09
+Forward PE: 7.434774
+Price To Book: 0.78038853
+Beta: 0.069
+52 Week High: 24.36
+52 Week Low: 18.31

@@ -1,0 +1,25 @@
+Company: Grupo Financiero Galicia S.A. American Depositary Shares
+Ticker: GGAL
+Market Cap: 6792164352
+Enterprise Value: -6417571905536
+Total Revenue: 4976194093056
+Revenue Per Share: 3150.158
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: -0.07311
+Profit Margins: 0.15198
+Free Cashflow: 
+Operating Cashflow: -1409231880192
+Return On Assets: 0.02323
+Return On Equity: 0.13104
+Total Cash: 9367223009280
+Total Debt: 2880277053440
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 6.2672677
+Forward PE: 5.583289
+Price To Book: 12.140964
+Beta: 0.601
+52 Week High: 66.24
+52 Week Low: 25.89

@@ -1,0 +1,25 @@
+Company: TROOPS Inc. Ordinary Shares
+Ticker: TROO
+Market Cap: 339181248
+Enterprise Value: 330167424
+Total Revenue: 15084000
+Revenue Per Share: 0.138
+EBITDA: -3225500
+Gross Margins: -0.07273
+Operating Margins: -0.16168
+Profit Margins: -0.86337
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.03979
+Return On Equity: -0.18719
+Total Cash: 5232000
+Total Debt: 15000
+Debt To Equity: 0.019
+Current Ratio: 6.357
+Quick Ratio: 2.075
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.240506
+Beta: 2.994
+52 Week High: 5.28
+52 Week Low: 0.49

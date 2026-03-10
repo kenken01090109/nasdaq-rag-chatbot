@@ -1,0 +1,12 @@
+Company: Adagene Inc. American Depositary Shares
+Ticker: ADAG
+Total Revenue: 103204
+Revenue Per Share: 0.002
+Gross Margins: 1.0
+Operating Margins: -322.83603
+EBITDA: -32765248
+Profit Margins: 0.0
+Free Cashflow: -17171550
+Operating Cashflow: -27456540
+Return On Assets: -0.24893999
+Return On Equity: -0.63259

@@ -1,0 +1,25 @@
+Company: Agroz Inc. Ordinary Shares
+Ticker: AGRZ
+Market Cap: 7919491
+Enterprise Value: 15708962
+Total Revenue: 62679872
+Revenue Per Share: 3.134
+EBITDA: 14156994
+Gross Margins: 0.32122
+Operating Margins: 0.15624
+Profit Margins: 0.13293
+Free Cashflow: -613851
+Operating Cashflow: -2853599
+Return On Assets: 0.21909
+Return On Equity: 0.85853994
+Total Cash: 3625690
+Total Debt: 11393532
+Debt To Equity: 69.847
+Current Ratio: 1.274
+Quick Ratio: 1.274
+Trailing PE: 4.0599995
+Forward PE: 
+Price To Book: 1.863543
+Beta: 
+52 Week High: 7.2
+52 Week Low: 0.331

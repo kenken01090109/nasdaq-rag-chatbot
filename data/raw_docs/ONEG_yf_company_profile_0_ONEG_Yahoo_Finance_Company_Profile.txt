@@ -1,0 +1,9 @@
+Company: OneConstruction Group Limited Ordinary Shares
+Ticker: ONEG
+Sector: Industrials
+Industry: Engineering & Construction
+Country: Hong Kong
+City: Kowloon
+Website: https://www.oneconstruction.com.hk
+Employees: 26
+Business Summary: OneConstruction Group Limited, together with its subsidiaries, provides structural steelwork for construction projects in Hong Kong. The company engages in the installation and formation of steel structures; and provides workforce services. It serves public and private sector projects, including infrastructure, and public facilities and residential developments, as well as private commercial, residential, and industrial developments. The company was founded in 2021 and is headquartered in Kowloon, Hong Kong. OneConstruction Group Limited operates as a subsidiary of Rich Plenty Limited.

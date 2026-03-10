@@ -1,0 +1,10 @@
+Company: Garden Stage Limited Class A Ordinary Shares
+Ticker: GSIW
+CIK: 0001954269
+Latest SEC XBRL Facts:
+Revenues: 704339 | unit=USD | filed=2025-01-24 | period_end=2024-09-30
+NetIncomeLoss: -3274725 | unit=USD | filed=2025-01-24 | period_end=2024-09-30
+Assets: 15612809 | unit=USD | filed=2025-01-24 | period_end=2024-09-30
+Liabilities: 8711379 | unit=USD | filed=2025-01-24 | period_end=2024-09-30
+StockholdersEquity: 6901430 | unit=USD | filed=2025-01-24 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: -809604 | unit=USD | filed=2025-01-24 | period_end=2024-09-30

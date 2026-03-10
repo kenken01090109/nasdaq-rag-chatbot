@@ -1,0 +1,25 @@
+Company: Voyager Therapeutics Inc. Common Stock
+Ticker: VYGR
+Market Cap: 216840336
+Enterprise Value: 47946332
+Total Revenue: 31316000
+Revenue Per Share: 0.536
+EBITDA: -136188992
+Gross Margins: 0.0
+Operating Margins: -2.28911
+Profit Margins: 0.0
+Free Cashflow: -62887876
+Operating Cashflow: -116733000
+Return On Assets: -0.24535
+Return On Equity: -0.46091
+Total Cash: 208930000
+Total Debt: 38368000
+Debt To Equity: 17.454
+Current Ratio: 6.186
+Quick Ratio: 6.0
+Trailing PE: 
+Forward PE: -2.5010262
+Price To Book: 0.9843514
+Beta: 1.388
+52 Week High: 5.55
+52 Week Low: 2.65

@@ -1,0 +1,8 @@
+Company: Arch Capital Group Ltd. Depositary Shares each Representing a 1/1000th Interest in a 4.550% Non-Cumulative Preferred Share Series G
+Ticker: ACGLN
+Total Cash: 3681999872
+Total Debt: 2884999936
+Debt To Equity: 11.919
+Current Ratio: 1.077
+Quick Ratio: 0.498
+Book Value: 65.371

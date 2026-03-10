@@ -1,0 +1,25 @@
+Company: Eagle Financial Services Inc Common Stock
+Ticker: EFSI
+Market Cap: 185591472
+Enterprise Value: 35545976
+Total Revenue: 65796000
+Revenue Per Share: 12.736
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.28264
+Profit Margins: 0.12484
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00438
+Return On Equity: 0.05337
+Total Cash: 217194000
+Total Debt: 69579000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 21.710691
+Forward PE: 9.32973
+Price To Book: 0.9692273
+Beta: 0.184
+52 Week High: 41.12
+52 Week Low: 28.7

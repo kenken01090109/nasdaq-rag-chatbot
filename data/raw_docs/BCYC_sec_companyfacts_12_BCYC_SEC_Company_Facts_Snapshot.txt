@@ -1,0 +1,12 @@
+Company: Bicycle Therapeutics plc American Depositary Shares
+Ticker: BCYC
+CIK: 0001761612
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2023-11-02 | period_end=2023-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 24631000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -198806000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 763954000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 145475000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 618479000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -230329000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 648325000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

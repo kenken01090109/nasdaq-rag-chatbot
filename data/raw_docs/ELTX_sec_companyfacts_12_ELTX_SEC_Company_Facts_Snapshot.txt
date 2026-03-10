@@ -1,0 +1,11 @@
+Company: Elicio Therapeutics Inc. Common Stock
+Ticker: ELTX
+CIK: 0001601485
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2023-05-10 | period_end=2023-03-31
+NetIncomeLoss: -31853000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 28284000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 24468000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 3816000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -30155000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20611000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

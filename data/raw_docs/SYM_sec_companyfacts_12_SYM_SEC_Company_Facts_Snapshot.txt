@@ -1,0 +1,11 @@
+Company: Symbotic Inc. Class A Common Stock
+Ticker: SYM
+CIK: 0001837240
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 629985000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetIncomeLoss: 2602000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Assets: 2994058000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+Liabilities: 2033847000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+StockholdersEquity: 663774000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 191540000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 1819102000 | unit=USD | filed=2026-02-04 | period_end=2025-12-27

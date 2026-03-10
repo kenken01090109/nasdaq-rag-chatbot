@@ -1,0 +1,12 @@
+Company: Victory Capital Holdings Inc. Class A Common Stock
+Ticker: VCTR
+CIK: 0001570827
+Latest SEC XBRL Facts:
+Revenues: 218554000 | unit=USD | filed=2020-03-13 | period_end=2019-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 932009000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 217250000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 4212469000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1813371000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 2399098000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 240409000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 115741000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Krystal Biotech Inc. Common Stock
+Ticker: KRYS
+Market Cap: 7415913984
+Enterprise Value: 6597462016
+Total Revenue: 389129984
+Revenue Per Share: 13.444
+EBITDA: 162919008
+Gross Margins: 0.94077003
+Operating Margins: 0.41333
+Profit Margins: 0.52638
+Free Cashflow: 93933376
+Operating Cashflow: 200864992
+Return On Assets: 0.08437
+Return On Equity: 0.18913999
+Total Cash: 827790976
+Total Debt: 9339000
+Debt To Equity: 0.766
+Current Ratio: 9.953
+Quick Ratio: 9.279
+Trailing PE: 37.08918
+Forward PE: 23.37043
+Price To Book: 6.07248
+Beta: 0.505
+52 Week High: 298.303
+52 Week Low: 122.8

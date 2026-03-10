@@ -1,0 +1,25 @@
+Company: Rezolute Inc. Common Stock (NV)
+Ticker: RZLT
+Market Cap: 297619808
+Enterprise Value: 167880752
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -88381000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -46168876
+Operating Cashflow: -77149000
+Return On Assets: -0.44092998
+Return On Equity: -0.74017996
+Total Cash: 132938000
+Total Debt: 1285000
+Debt To Equity: 1.004
+Current Ratio: 14.178
+Quick Ratio: 13.951
+Trailing PE: 
+Forward PE: -4.2854586
+Price To Book: 2.5202594
+Beta: 0.641
+52 Week High: 11.457
+52 Week Low: 1.07

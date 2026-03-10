@@ -1,0 +1,25 @@
+Company: SharonAI Holdings Inc. Class A Common Stock
+Ticker: SHAZ
+Market Cap: 223827088
+Enterprise Value: 7265581
+Total Revenue: 1475316
+Revenue Per Share: 117.997
+EBITDA: -5933443
+Gross Margins: 0.00563
+Operating Margins: -2.95315
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -3541103
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1364550
+Total Debt: 8167564
+Debt To Equity: 32.334
+Current Ratio: 0.635
+Quick Ratio: 0.361
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.016514173
+Beta: 6.305
+52 Week High: 34.5
+52 Week Low: 16.55

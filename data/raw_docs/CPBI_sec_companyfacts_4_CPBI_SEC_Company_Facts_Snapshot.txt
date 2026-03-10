@@ -1,0 +1,10 @@
+Company: Central Plains Bancshares Inc. Common Stock
+Ticker: CPBI
+CIK: 0001979332
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3045000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 535738000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 447980000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 87758000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 3321000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 28108000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

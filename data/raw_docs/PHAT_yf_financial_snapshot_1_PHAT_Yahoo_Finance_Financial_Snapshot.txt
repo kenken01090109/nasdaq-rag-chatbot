@@ -1,0 +1,25 @@
+Company: Phathom Pharmaceuticals Inc. Common Stock
+Ticker: PHAT
+Market Cap: 840782272
+Enterprise Value: 1305496960
+Total Revenue: 175110000
+Revenue Per Share: 2.401
+EBITDA: -159352992
+Gross Margins: 0.87094
+Operating Margins: -0.10295
+Profit Margins: -1.26347
+Free Cashflow: -107858128
+Operating Cashflow: -166775008
+Return On Assets: -0.31371
+Return On Equity: 
+Total Cash: 129972000
+Total Debt: 589171008
+Debt To Equity: 
+Current Ratio: 1.734
+Quick Ratio: 1.576
+Trailing PE: 
+Forward PE: 6.6170545
+Price To Book: -1.7392013
+Beta: 0.561
+52 Week High: 18.31
+52 Week Low: 2.21

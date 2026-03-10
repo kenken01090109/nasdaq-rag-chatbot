@@ -1,0 +1,25 @@
+Company: Art's-Way Manufacturing Co. Inc. Common Stock
+Ticker: ARTW
+Market Cap: 11648439
+Enterprise Value: 18153900
+Total Revenue: 22975408
+Revenue Per Share: 4.512
+EBITDA: 1081567
+Gross Margins: 0.27276
+Operating Margins: -0.11221
+Profit Margins: 0.04504
+Free Cashflow: -2887834
+Operating Cashflow: -904143
+Return On Assets: 0.00828
+Return On Equity: 0.08149
+Total Cash: 4849
+Total Debt: 6406768
+Debt To Equity: 48.149
+Current Ratio: 2.296
+Quick Ratio: 0.402
+Trailing PE: 11.25
+Forward PE: 
+Price To Book: 0.8643873
+Beta: 0.781
+52 Week High: 4.71
+52 Week Low: 1.43

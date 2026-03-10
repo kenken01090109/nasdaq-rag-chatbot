@@ -1,0 +1,12 @@
+Company: Alliance Entertainment Holding Corporation Warrant
+Ticker: AENTW
+CIK: 0001823584
+Latest SEC XBRL Facts:
+Revenues: 1600000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 622685000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetIncomeLoss: 14268000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 434061000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 316477000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 117584000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -13813000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4290000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30

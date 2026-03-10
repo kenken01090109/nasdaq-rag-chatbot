@@ -1,0 +1,11 @@
+Company: Apogee Enterprises Inc. Common Stock
+Ticker: APOG
+CIK: 0000006845
+Latest SEC XBRL Facts:
+Revenues: 1360994000 | unit=USD | filed=2025-04-24 | period_end=2025-03-01
+RevenueFromContractWithCustomerExcludingAssessedTax: 1053379000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+NetIncomeLoss: 37511000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+Assets: 1116028000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+StockholdersEquity: 512291000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+NetCashProvidedByUsedInOperatingActivities: 66622000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29
+CashAndCashEquivalentsAtCarryingValue: 41315000 | unit=USD | filed=2026-01-07 | period_end=2025-11-29

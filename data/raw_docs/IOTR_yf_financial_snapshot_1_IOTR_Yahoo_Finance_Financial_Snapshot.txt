@@ -1,0 +1,25 @@
+Company: iOThree Limited Ordinary Shares
+Ticker: IOTR
+Market Cap: 5053052
+Enterprise Value: 4780237
+Total Revenue: 12569148
+Revenue Per Share: 5.063
+EBITDA: -27861
+Gross Margins: 0.20323999
+Operating Margins: -0.01907
+Profit Margins: -0.03156
+Free Cashflow: 72172
+Operating Cashflow: -2286146
+Return On Assets: -0.03439
+Return On Equity: -0.12753999
+Total Cash: 2155473
+Total Debt: 1908310
+Debt To Equity: 45.296
+Current Ratio: 1.438
+Quick Ratio: 1.058
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.1997564
+Beta: 
+52 Week High: 59.8
+52 Week Low: 1.88

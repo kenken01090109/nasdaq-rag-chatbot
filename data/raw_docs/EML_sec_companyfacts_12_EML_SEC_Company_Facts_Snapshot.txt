@@ -1,0 +1,12 @@
+Company: Eastern Company (The) Common Stock
+Ticker: EML
+CIK: 0000031107
+Latest SEC XBRL Facts:
+Revenues: 248970345 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+RevenueFromContractWithCustomerExcludingAssessedTax: 248970345 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+NetIncomeLoss: 7132785 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+Assets: 216676616 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+Liabilities: 92031287 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+StockholdersEquity: 124645329 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+NetCashProvidedByUsedInOperatingActivities: 8865383 | unit=USD | filed=2026-03-03 | period_end=2026-01-03
+CashAndCashEquivalentsAtCarryingValue: 7412019 | unit=USD | filed=2026-03-03 | period_end=2026-01-03

@@ -1,0 +1,10 @@
+Company: Timberland Bancorp Inc. Common Stock
+Ticker: TSBK
+CIK: 0001046050
+Latest SEC XBRL Facts:
+NetIncomeLoss: 8216000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 2006127000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 1737718000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 268409000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 6084000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 246864000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

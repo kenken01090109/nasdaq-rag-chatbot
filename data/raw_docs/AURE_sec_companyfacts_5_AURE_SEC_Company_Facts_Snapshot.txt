@@ -1,0 +1,11 @@
+Company: Aurelion Inc. Class A Ordinary Shares
+Ticker: AURE
+CIK: 0001765850
+Latest SEC XBRL Facts:
+Revenues: 287 | unit=USD | filed=2025-09-19 | period_end=2025-03-31
+NetIncomeLoss: -3635088 | unit=USD | filed=2025-09-19 | period_end=2025-03-31
+Assets: 18151177 | unit=USD | filed=2025-09-19 | period_end=2025-03-31
+Liabilities: 2202702 | unit=USD | filed=2025-09-19 | period_end=2025-03-31
+StockholdersEquity: 15948475 | unit=USD | filed=2025-09-19 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -82884 | unit=USD | filed=2025-09-19 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 13190 | unit=USD | filed=2025-02-13 | period_end=2024-09-30

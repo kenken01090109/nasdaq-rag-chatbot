@@ -1,0 +1,10 @@
+Company: Agilysys Inc. Common Stock (DE)
+Ticker: AGYS
+CIK: 0000078749
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 236366000 | unit=USD | filed=2026-01-26 | period_end=2025-12-31
+NetIncomeLoss: 26497000 | unit=USD | filed=2026-01-26 | period_end=2025-12-31
+Assets: 475178000 | unit=USD | filed=2026-01-26 | period_end=2025-12-31
+StockholdersEquity: 313123000 | unit=USD | filed=2026-01-26 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 34162000 | unit=USD | filed=2026-01-26 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 81453000 | unit=USD | filed=2026-01-26 | period_end=2025-12-31

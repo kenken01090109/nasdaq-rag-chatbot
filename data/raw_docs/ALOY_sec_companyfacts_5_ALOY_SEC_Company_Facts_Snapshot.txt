@@ -1,0 +1,11 @@
+Company: REalloys Inc. Common Stock
+Ticker: ALOY
+CIK: 0001567900
+Latest SEC XBRL Facts:
+Revenues: 480157 | unit=USD | filed=2019-08-19 | period_end=2019-06-30
+NetIncomeLoss: -2819009 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+Assets: 8818588 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+Liabilities: 0 | unit=USD | filed=2015-11-05 | period_end=2015-09-30
+StockholdersEquity: 4784145 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2649753 | unit=USD | filed=2025-10-16 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 60921 | unit=USD | filed=2024-11-14 | period_end=2024-09-30

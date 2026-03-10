@@ -1,0 +1,25 @@
+Company: Green Plains Inc. Common Stock
+Ticker: GPRE
+Market Cap: 1105548928
+Enterprise Value: 1371310464
+Total Revenue: 2091680000
+Revenue Per Share: 30.99
+EBITDA: 35885000
+Gross Margins: 0.066939995
+Operating Margins: -0.00863
+Profit Margins: -0.057979997
+Free Cashflow: 87860872
+Operating Cashflow: 110864000
+Return On Assets: -0.02211
+Return On Equity: -0.14698
+Total Cash: 182319008
+Total Debt: 464704992
+Debt To Equity: 60.197
+Current Ratio: 1.795
+Quick Ratio: 0.955
+Trailing PE: 
+Forward PE: 27.100597
+Price To Book: 1.442632
+Beta: 1.466
+52 Week High: 16.19
+52 Week Low: 3.14

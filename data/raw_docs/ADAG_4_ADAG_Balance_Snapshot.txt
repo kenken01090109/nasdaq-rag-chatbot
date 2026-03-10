@@ -1,0 +1,8 @@
+Company: Adagene Inc. American Depositary Shares
+Ticker: ADAG
+Total Cash: 62828156
+Total Debt: 6849932
+Debt To Equity: 18.068
+Current Ratio: 2.292
+Quick Ratio: 2.203
+Book Value: 0.804

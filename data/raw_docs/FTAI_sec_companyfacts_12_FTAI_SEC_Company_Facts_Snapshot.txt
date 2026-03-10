@@ -1,0 +1,12 @@
+Company: FTAI Aviation Ltd. Common Stock
+Ticker: FTAI
+CIK: 0001590364
+Latest SEC XBRL Facts:
+Revenues: 1845381000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1845381000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 25302000 | unit=USD | filed=2022-11-17 | period_end=2022-09-30
+Assets: 4240200000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 3987736000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 252464000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -131666000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 509945000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

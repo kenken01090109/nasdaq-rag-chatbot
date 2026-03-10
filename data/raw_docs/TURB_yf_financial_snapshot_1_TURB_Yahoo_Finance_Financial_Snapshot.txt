@@ -1,0 +1,25 @@
+Company: Turbo Energy S.A. American Depositary Shares
+Ticker: TURB
+Market Cap: 41644788
+Enterprise Value: 172771360
+Total Revenue: 9976451
+Revenue Per Share: 0.906
+EBITDA: -2334773
+Gross Margins: 0.18283
+Operating Margins: -0.21413
+Profit Margins: -0.18778
+Free Cashflow: -2549818
+Operating Cashflow: -2685216
+Return On Assets: -0.13929
+Return On Equity: -1.00757
+Total Cash: 1583599
+Total Debt: 7996143
+Debt To Equity: 619.904
+Current Ratio: 0.879
+Quick Ratio: 0.361
+Trailing PE: 
+Forward PE: 
+Price To Book: 27.834183
+Beta: 2.039
+52 Week High: 20.45
+52 Week Low: 0.57

@@ -1,0 +1,12 @@
+Company: Puma Biotechnology Inc Common Stock
+Ticker: PBYI
+CIK: 0001401667
+Latest SEC XBRL Facts:
+Revenues: 66516000 | unit=USD | filed=2018-05-10 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 152918000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 17673000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 202862000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 87594000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 115268000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27383000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 53525000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

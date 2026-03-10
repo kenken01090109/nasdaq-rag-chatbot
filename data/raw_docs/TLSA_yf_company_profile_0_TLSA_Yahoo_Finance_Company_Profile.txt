@@ -1,0 +1,9 @@
+Company: Tiziana Life Sciences Ltd. Common Shares
+Ticker: TLSA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United Kingdom
+City: London
+Website: https://www.tizianalifesciences.com
+Employees: 9
+Business Summary: Tiziana Life Sciences Ltd, a biotechnology company, engages in the development of transformative therapies for neurodegenerative and lung diseases in the United States. The company's lead product candidate in immunology is Foralumab (TZLS-401), a human anti-CD3 monoclonal antibody (mAb) for use in the treatment of Crohn's, graft versus host, ulcerative colitis, multiple sclerosis, type-1 diabetes, inflammatory bowel, psoriasis, and rheumatoid arthritis diseases. It is also developing TZLS-501, a fully human mAb targeting the IL-6 receptor for use in the treatment of inflammatory and oncology indications. Tiziana Life Sciences Ltd was incorporated in 1998 and is headquartered in London, the United Kingdom.

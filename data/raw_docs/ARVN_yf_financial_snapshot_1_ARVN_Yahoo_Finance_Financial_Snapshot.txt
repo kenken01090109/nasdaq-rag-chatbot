@@ -1,0 +1,25 @@
+Company: Arvinas Inc. Common Stock
+Ticker: ARVN
+Market Cap: 873450432
+Enterprise Value: 201044880
+Total Revenue: 262600000
+Revenue Per Share: 3.704
+EBITDA: -111900000
+Gross Margins: 1.0
+Operating Margins: -7.54737
+Profit Margins: -0.30769
+Free Cashflow: -89012496
+Operating Cashflow: -273800000
+Return On Assets: -0.079380006
+Return On Equity: -0.16231
+Total Cash: 685400000
+Total Debt: 8900000
+Debt To Equity: 2.051
+Current Ratio: 4.917
+Quick Ratio: 4.855
+Trailing PE: 
+Forward PE: -3.8913846
+Price To Book: 1.990341
+Beta: 1.936
+52 Week High: 18.76
+52 Week Low: 5.9

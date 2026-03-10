@@ -1,0 +1,12 @@
+Company: Inotiv Inc. Common Stock
+Ticker: NOTV
+CIK: 0000720154
+Latest SEC XBRL Facts:
+Revenues: 274217000 | unit=USD | filed=2023-05-15 | period_end=2023-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 120879000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: -28378000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 734336000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 625312000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 109024000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -5433000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 12732000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

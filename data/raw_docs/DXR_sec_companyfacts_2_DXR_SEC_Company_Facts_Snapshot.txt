@@ -1,0 +1,11 @@
+Company: Daxor Corporation Common Stock
+Ticker: DXR
+CIK: 0000027367
+Latest SEC XBRL Facts:
+Revenues: 1076515 | unit=USD | filed=2011-11-14 | period_end=2011-09-30
+NetIncomeLoss: -5694451 | unit=USD | filed=2011-11-14 | period_end=2011-09-30
+Assets: 88252642 | unit=USD | filed=2011-11-14 | period_end=2011-09-30
+Liabilities: 50630590 | unit=USD | filed=2011-11-14 | period_end=2011-09-30
+StockholdersEquity: 37622052 | unit=USD | filed=2011-11-14 | period_end=2011-09-30
+NetCashProvidedByUsedInOperatingActivities: -5518739 | unit=USD | filed=2011-11-14 | period_end=2011-09-30
+CashAndCashEquivalentsAtCarryingValue: 29711 | unit=USD | filed=2011-11-14 | period_end=2011-09-30

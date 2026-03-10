@@ -1,0 +1,25 @@
+Company: Middleby Corporation (The) Common Stock
+Ticker: MIDD
+Market Cap: 7641889792
+Enterprise Value: 9434116096
+Total Revenue: 3201201920
+Revenue Per Share: 61.973
+EBITDA: 694851968
+Gross Margins: 0.39108002
+Operating Margins: 0.18811001
+Profit Margins: -0.08676
+Free Cashflow: -232189248
+Operating Cashflow: 630196992
+Return On Assets: 0.054770004
+Return On Equity: 0.11451
+Total Cash: 223755008
+Total Debt: 2286780928
+Debt To Equity: 82.37
+Current Ratio: 2.567
+Quick Ratio: 0.799
+Trailing PE: 21.20675
+Forward PE: 14.316695
+Price To Book: 2.6570566
+Beta: 1.345
+52 Week High: 169.44
+52 Week Low: 110.82

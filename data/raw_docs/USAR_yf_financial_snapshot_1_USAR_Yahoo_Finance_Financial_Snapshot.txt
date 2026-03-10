@@ -1,0 +1,25 @@
+Company: USA Rare Earth Inc. Class A Common Stock
+Ticker: USAR
+Market Cap: 3803064320
+Enterprise Value: 2073487872
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -39051000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -22390250
+Operating Cashflow: -24591000
+Return On Assets: -0.124069996
+Return On Equity: -36.46635
+Total Cash: 257608992
+Total Debt: 1310000
+Debt To Equity: 
+Current Ratio: 16.511
+Quick Ratio: 16.43
+Trailing PE: 
+Forward PE: -56.290325
+Price To Book: -32.800755
+Beta: 1.085
+52 Week High: 43.98
+52 Week Low: 5.56

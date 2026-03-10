@@ -1,0 +1,11 @@
+Company: Stran & Company Inc. Warrant
+Ticker: SWAGW
+CIK: 0001872525
+Latest SEC XBRL Facts:
+Revenues: 87252000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -990000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 50262000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 20066000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 30196000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4834000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 6697000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

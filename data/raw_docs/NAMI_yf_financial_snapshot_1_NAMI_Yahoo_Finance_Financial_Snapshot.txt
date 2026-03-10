@@ -1,0 +1,25 @@
+Company: Jinxin Technology Holding Company American Depositary Shares
+Ticker: NAMI
+Market Cap: 38325912
+Enterprise Value: 547689280
+Total Revenue: 416952992
+Revenue Per Share: 8.925
+EBITDA: 6430000
+Gross Margins: 0.19213
+Operating Margins: -0.114659995
+Profit Margins: -0.066300005
+Free Cashflow: -6491000
+Operating Cashflow: 19990000
+Return On Assets: -0.08163
+Return On Equity: -0.15715
+Total Cash: 86944000
+Total Debt: 3744000
+Debt To Equity: 2.46
+Current Ratio: 1.667
+Quick Ratio: 1.472
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.9116354
+Beta: 
+52 Week High: 4.59
+52 Week Low: 0.42

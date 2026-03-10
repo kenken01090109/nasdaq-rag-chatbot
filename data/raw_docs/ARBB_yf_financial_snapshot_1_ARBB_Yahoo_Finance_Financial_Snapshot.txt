@@ -1,0 +1,25 @@
+Company: ARB IOT Group Limited Ordinary Shares
+Ticker: ARBB
+Market Cap: 8332184
+Enterprise Value: -24316028
+Total Revenue: 197320000
+Revenue Per Share: 111.78
+EBITDA: -14969213
+Gross Margins: -0.041279998
+Operating Margins: -0.15165
+Profit Margins: -0.36169997
+Free Cashflow: 12942556
+Operating Cashflow: 785493
+Return On Assets: -0.12116
+Return On Equity: -0.31421
+Total Cash: 32659568
+Total Debt: 10954
+Debt To Equity: 0.006
+Current Ratio: 7.643
+Quick Ratio: 7.627
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.17314364
+Beta: 1.081
+52 Week High: 18.6
+52 Week Low: 3.92

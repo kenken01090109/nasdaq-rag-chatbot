@@ -1,0 +1,25 @@
+Company: La Rosa Holdings Corp. Common Stock
+Ticker: LRHC
+Market Cap: 540350
+Enterprise Value: 10920749
+Total Revenue: 78660184
+Revenue Per Share: 1222.704
+EBITDA: -13478293
+Gross Margins: 0.084759995
+Operating Margins: -0.24678
+Profit Margins: -0.35477
+Free Cashflow: -1357304
+Operating Cashflow: -7296918
+Return On Assets: -0.43373
+Return On Equity: -3.45323
+Total Cash: 3992896
+Total Debt: 10610687
+Debt To Equity: 185.69
+Current Ratio: 1.208
+Quick Ratio: 0.801
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.079415
+Beta: 3.09
+52 Week High: 186.4
+52 Week Low: 0.86

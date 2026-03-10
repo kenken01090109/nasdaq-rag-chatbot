@@ -1,0 +1,11 @@
+Company: Solstice Advanced Materials Inc. Common Stock
+Ticker: SOLS
+CIK: 0002064953
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2899000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 196000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 5247000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2066000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 3228000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 289000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 417000000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Skyline Builders Group Holding Limited Class A Ordinary Shares
+Ticker: SKBL
+Sector: Industrials
+Industry: Engineering & Construction
+Country: Hong Kong
+City: Kowloon Bay
+Website: https://kinchiu.com
+Employees: 127
+Business Summary: Skyline Builders Group Holding Limited, through its subsidiary, operates as an approved public works contractor in Hong Kong. It undertakes public civil engineering works, such as road and drainage work. The company was incorporated in 2024 and is based in Kowloon Bay, Hong Kong. Skyline Builders Group Holding Limited is a subsidiary of Supreme Development (BVI) Holdings Limited.

@@ -1,0 +1,25 @@
+Company: Advantage Solutions Inc. Class A Common Stock
+Ticker: ADV
+Market Cap: 209604912
+Enterprise Value: 1664115712
+Total Revenue: 3542641920
+Revenue Per Share: 10.915
+EBITDA: 280993984
+Gross Margins: 0.13954
+Operating Margins: 0.06504
+Profit Margins: -0.06428
+Free Cashflow: 92554000
+Operating Cashflow: 61532000
+Return On Assets: 0.0174
+Return On Equity: -0.34964
+Total Cash: 240850000
+Total Debt: 1706496000
+Debt To Equity: 308.055
+Current Ratio: 2.248
+Quick Ratio: 1.932
+Trailing PE: 
+Forward PE: 2.2068965
+Price To Book: 0.3771361
+Beta: 2.163
+52 Week High: 2.466
+52 Week Low: 0.489

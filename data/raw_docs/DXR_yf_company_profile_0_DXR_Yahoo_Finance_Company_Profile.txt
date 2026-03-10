@@ -1,0 +1,9 @@
+Company: Daxor Corporation Common Stock
+Ticker: DXR
+Sector: Healthcare
+Industry: Medical Instruments & Supplies
+Country: United States
+City: Oak Ridge
+Website: https://www.daxor.com
+Employees: 
+Business Summary: Daxor Corporation engages in medical instrumentation and biotechnology operations. It develops the BVA-100 Blood Volume Analyzer, an instrument that measures human blood volume, in conjunction with Volumex, a single-use radiopharmaceutical diagnostic injection and collection kit. The company was formerly known as Idant Corporation and changed its name to Daxor Corporation in May 1973. Daxor Corporation was incorporated in 1971 and is headquartered in Oak Ridge, Tennessee. Daxor Corporation operates as a subsidiary of Estate Of Joseph Feldschuh.

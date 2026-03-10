@@ -1,0 +1,11 @@
+Company: Inhibrx Biosciences Inc. Common Stock
+Ticker: INBX
+CIK: 0002007919
+Latest SEC XBRL Facts:
+Revenues: 1300000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -107221000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 177471000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 140641000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 36830000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -99672000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 153088000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

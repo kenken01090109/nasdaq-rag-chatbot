@@ -1,0 +1,25 @@
+Company: Medallion Financial Corp. Common Stock
+Ticker: MFIN
+Market Cap: 229153856
+Enterprise Value: 2523347200
+Total Revenue: 353312992
+Revenue Per Share: 15.513
+EBITDA: 182265328
+Gross Margins: 0.74577004
+Operating Margins: 0.47959998
+Profit Margins: 0.121829994
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.03827
+Return On Equity: 0.11688
+Total Cash: 201564000
+Total Debt: 2400542976
+Debt To Equity: 472.505
+Current Ratio: 21.815
+Quick Ratio: 1.803
+Trailing PE: 5.522472
+Forward PE: 6.641892
+Price To Book: 0.543304
+Beta: 0.765
+52 Week High: 11.0
+52 Week Low: 7.78

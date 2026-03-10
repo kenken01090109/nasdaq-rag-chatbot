@@ -1,0 +1,12 @@
+Company: Upland Software Inc. Common Stock
+Ticker: UPLD
+CIK: 0001505155
+Latest SEC XBRL Facts:
+Revenues: 70092000 | unit=USD | filed=2017-11-14 | period_end=2017-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 167564000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -39999000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 409106000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 328764000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -47250000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 18482000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 22755000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

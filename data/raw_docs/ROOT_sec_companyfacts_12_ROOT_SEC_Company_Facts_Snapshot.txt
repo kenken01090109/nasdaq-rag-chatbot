@@ -1,0 +1,11 @@
+Company: Root Inc. Class A Common Stock
+Ticker: ROOT
+CIK: 0001788882
+Latest SEC XBRL Facts:
+Revenues: 1120100000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 35000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1642400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1265400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 265000000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 136400000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 653300000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

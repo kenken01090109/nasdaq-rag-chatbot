@@ -1,0 +1,25 @@
+Company: NerdWallet Inc. Class A Common Stock
+Ticker: NRDS
+Market Cap: 811479680
+Enterprise Value: 670983104
+Total Revenue: 836600000
+Revenue Per Share: 11.26
+EBITDA: 80400000
+Gross Margins: 0.92386
+Operating Margins: 0.08607
+Profit Margins: 0.05821
+Free Cashflow: 88075000
+Operating Cashflow: 131600000
+Return On Assets: 0.09069
+Return On Equity: 0.13185
+Total Cash: 100600000
+Total Debt: 14900000
+Debt To Equity: 3.979
+Current Ratio: 3.451
+Quick Ratio: 3.173
+Trailing PE: 17.4375
+Forward PE: 5.409309
+Price To Book: 2.124096
+Beta: 1.445
+52 Week High: 16.24
+52 Week Low: 7.55

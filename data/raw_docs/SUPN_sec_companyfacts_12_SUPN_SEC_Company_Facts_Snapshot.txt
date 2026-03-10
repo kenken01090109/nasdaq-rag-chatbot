@@ -1,0 +1,12 @@
+Company: Supernus Pharmaceuticals Inc. Common Stock
+Ticker: SUPN
+CIK: 0001356576
+Latest SEC XBRL Facts:
+Revenues: 94976000 | unit=USD | filed=2020-05-15 | period_end=2020-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 507380000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -34445000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1419754000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 370087000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 1049667000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 27470000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 151371000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

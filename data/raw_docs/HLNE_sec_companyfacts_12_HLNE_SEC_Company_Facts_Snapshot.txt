@@ -1,0 +1,11 @@
+Company: Hamilton Lane Incorporated Class A Common Stock
+Ticker: HLNE
+CIK: 0001433642
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 565427000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetIncomeLoss: 183007000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Assets: 2170813000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+Liabilities: 844762000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+StockholdersEquity: 877395000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 321944000 | unit=USD | filed=2026-02-03 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 92895000 | unit=USD | filed=2021-02-02 | period_end=2020-12-31

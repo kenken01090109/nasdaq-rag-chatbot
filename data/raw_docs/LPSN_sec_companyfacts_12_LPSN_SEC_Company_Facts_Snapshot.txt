@@ -1,0 +1,12 @@
+Company: LivePerson Inc. Common Stock
+Ticker: LPSN
+CIK: 0001102993
+Latest SEC XBRL Facts:
+Revenues: 264495000 | unit=USD | filed=2020-11-09 | period_end=2020-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 184454000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -21132000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 511449000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 512835000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -22050000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20781000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 106661000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

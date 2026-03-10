@@ -1,0 +1,25 @@
+Company: AEye Inc. Warrant
+Ticker: LIDRW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 182000
+Revenue Per Share: 0.011
+EBITDA: -32531000
+Gross Margins: -0.37912
+Operating Margins: -156.5
+Profit Margins: 0.0
+Free Cashflow: -17711624
+Operating Cashflow: -25053000
+Return On Assets: -0.35874
+Return On Equity: -0.75541997
+Total Cash: 84333000
+Total Debt: 824000
+Debt To Equity: 1.054
+Current Ratio: 10.663
+Quick Ratio: 10.438
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.025801282
+Beta: 3.031
+52 Week High: 0.58
+52 Week Low: 0.03

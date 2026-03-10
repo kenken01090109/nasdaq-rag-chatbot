@@ -1,0 +1,11 @@
+Company: Recursion Pharmaceuticals Inc. Class A Common Stock
+Ticker: RXRX
+CIK: 0001601830
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 39143000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -536637000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1399526000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 352578000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 1046948000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -325735000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 659836000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

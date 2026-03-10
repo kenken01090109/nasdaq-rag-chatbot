@@ -1,0 +1,25 @@
+Company: Candel Therapeutics Inc. Common Stock
+Ticker: CADL
+Market Cap: 361839840
+Enterprise Value: 191441616
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -38904000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -21153500
+Operating Cashflow: -33557000
+Return On Assets: -0.43251
+Return On Equity: -0.70171
+Total Cash: 86963000
+Total Debt: 7207000
+Debt To Equity: 8.995
+Current Ratio: 8.247
+Quick Ratio: 7.957
+Trailing PE: 
+Forward PE: -8.233333
+Price To Book: 3.3835616
+Beta: -0.901
+52 Week High: 9.08
+52 Week Low: 4.25

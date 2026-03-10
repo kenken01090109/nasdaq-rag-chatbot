@@ -1,0 +1,25 @@
+Company: NANO-X IMAGING LTD Ordinary Shares
+Ticker: NNOX
+Market Cap: 176533808
+Enterprise Value: 132034688
+Total Revenue: 12302000
+Revenue Per Share: 0.195
+EBITDA: -45925000
+Gross Margins: -0.98041
+Operating Margins: -4.1296797
+Profit Margins: 0.0
+Free Cashflow: -26877750
+Operating Cashflow: -40911000
+Return On Assets: -0.20037001
+Return On Equity: -0.34752
+Total Cash: 45186000
+Total Debt: 7879000
+Debt To Equity: 5.028
+Current Ratio: 4.142
+Quick Ratio: 3.804
+Trailing PE: 
+Forward PE: -8.852459
+Price To Book: 1.126408
+Beta: 1.405
+52 Week High: 6.219
+52 Week Low: 2.11

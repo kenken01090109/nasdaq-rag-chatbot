@@ -1,0 +1,9 @@
+Company: 374Water Inc. Common Stock
+Ticker: SCWO
+Sector: Industrials
+Industry: Pollution & Treatment Controls
+Country: United States
+City: Morrisville
+Website: https://www.374water.com
+Employees: 27
+Business Summary: 374Water Inc. provides a technology that transforms wet wastes into recoverable resources in the United States. The company transforms wet wastes, including sewage sludge, biosolids, food waste, hazardous and non-hazardous waste, and forever chemicals. It offers AirSCWO systems, a waste stream treatment system based on supercritical water oxidation that are used to treat various hazardous and non-hazardous waste streams. It serves municipal, department of defense, department of energy, federal aviation agency, waste management, industrial manufacturing and compliance, and sanitation projects in developing countries. 374Water Inc. is based in Morrisville, North Carolina.

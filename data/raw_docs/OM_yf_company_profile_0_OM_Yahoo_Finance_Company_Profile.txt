@@ -1,0 +1,9 @@
+Company: Outset Medical Inc. Common Stock
+Ticker: OM
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: San Jose
+Website: https://www.outsetmedical.com
+Employees: 310
+Business Summary: Outset Medical, Inc., a medical technology company, engages in the development of a hemodialysis system for hemodialysis in the United States. The company provides Tablo Hemodialysis System, a compact console with integrated water purification, on-demand dialysate production, and software and connectivity capabilities; and manufactures, supports, and distributes for Tablo console, Tablo cartridge, and other consumables. It also offers Tablo Data Ecosystem, including TabloHub, a consumer-facing portal; MyTablo, a patient-facing portal; and TabloDash, an internal data analytics platform. The company was formerly known as Home Dialysis Plus, Ltd. and changed its name to Outset Medical, Inc. in January 2015. Outset Medical, Inc. was incorporated in 2003 and is headquartered in San Jose, California.

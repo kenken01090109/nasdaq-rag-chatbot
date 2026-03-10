@@ -1,0 +1,25 @@
+Company: SiNtx Technologies Inc. Common Stock
+Ticker: SINT
+Market Cap: 10477320
+Enterprise Value: 7792658
+Total Revenue: 1270000
+Revenue Per Share: 0.592
+EBITDA: -9255000
+Gross Margins: 0.52047
+Operating Margins: -16.01923
+Profit Margins: 0.0
+Free Cashflow: -1463625
+Operating Cashflow: -7351000
+Return On Assets: -0.53089
+Return On Equity: -2.04042
+Total Cash: 6250000
+Total Debt: 3392000
+Debt To Equity: 83.382
+Current Ratio: 1.701
+Quick Ratio: 1.465
+Trailing PE: 
+Forward PE: -1.2769953
+Price To Book: 2.4177778
+Beta: 0.667
+52 Week High: 6.78
+52 Week Low: 1.71

@@ -1,0 +1,25 @@
+Company: StoneX Group Inc. Common Stock
+Ticker: SNEX
+Market Cap: 5669186048
+Enterprise Value: -6777385984
+Total Revenue: 141825703936
+Revenue Per Share: 2926.775
+EBITDA: 
+Gross Margins: 0.01516
+Operating Margins: 0.00488
+Profit Margins: 0.00254
+Free Cashflow: 
+Operating Cashflow: 3604400128
+Return On Assets: 0.0093
+Return On Equity: 0.16736001
+Total Cash: 33384699904
+Total Debt: 20334800896
+Debt To Equity: 806.233
+Current Ratio: 1.061
+Quick Ratio: 1.029
+Trailing PE: 16.128359
+Forward PE: 12.307517
+Price To Book: 2.2431188
+Beta: 0.396
+52 Week High: 132.57
+52 Week Low: 65.0

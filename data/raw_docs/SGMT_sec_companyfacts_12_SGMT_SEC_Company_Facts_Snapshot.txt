@@ -1,0 +1,11 @@
+Company: Sagimet Biosciences Inc. Series A Common Stock
+Ticker: SGMT
+CIK: 0001400118
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2000000 | unit=USD | filed=2024-11-14 | period_end=2023-09-30
+NetIncomeLoss: -41470000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 128401000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 7180000 | unit=USD | filed=2025-05-08 | period_end=2025-03-31
+StockholdersEquity: 119255000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -33817000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32496000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

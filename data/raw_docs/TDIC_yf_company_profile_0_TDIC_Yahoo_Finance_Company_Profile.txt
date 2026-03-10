@@ -1,0 +1,9 @@
+Company: Dreamland Limited Class A Ordinary Shares
+Ticker: TDIC
+Sector: Communication Services
+Industry: Advertising Agencies
+Country: Hong Kong
+City: Kowloon
+Website: https://www.trendicint.com
+Employees: 12
+Business Summary: Dreamland Limited, through its subsidiaries, engages in event management business in Hong Kong. The company provides event management services, such as trade shows, conferences, concerts, exhibitions, charity galas, and brand promotion events. It is also involved in the organizing, planning, promoting, and managing themed touring walk-through experience events for intellectual property owners; designing and sale of merchandise used as gifts and event management for brands, such as setting-up and running of pop-up stores and organizing store opening/product launch press events for labels; and procurement and sale of goods/drinks. The company was founded in 2016 and is headquartered in Kowloon, Hong Kong.

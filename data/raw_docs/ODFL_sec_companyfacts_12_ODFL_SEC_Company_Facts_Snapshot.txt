@@ -1,0 +1,10 @@
+Company: Old Dominion Freight Line Inc. Common Stock
+Ticker: ODFL
+CIK: 0000878927
+Latest SEC XBRL Facts:
+NetIncomeLoss: 794233000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 5516631000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1253435000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 4263196000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1059840000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46592000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

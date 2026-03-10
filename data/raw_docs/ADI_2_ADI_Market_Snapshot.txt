@@ -1,0 +1,10 @@
+Company: Analog Devices Inc. Common Stock
+Ticker: ADI
+Market Cap: 160970670080
+Enterprise Value: 165622906880
+Trailing PE: 60.27788
+Forward PE: 25.567596
+Price To Book: 4.764258
+Beta: 1.021
+52 Week High: 363.2
+52 Week Low: 158.65

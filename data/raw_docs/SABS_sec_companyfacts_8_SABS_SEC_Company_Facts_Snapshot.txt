@@ -1,0 +1,12 @@
+Company: SAB Biotherapeutics Inc. Common Stock
+Ticker: SABS
+CIK: 0001833214
+Latest SEC XBRL Facts:
+Revenues: 666619 | unit=USD | filed=2023-08-21 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1207712 | unit=USD | filed=2025-11-14 | period_end=2024-09-30
+NetIncomeLoss: 30134426 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 183448368 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 18374019 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 165074349 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -27998784 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 29424708 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

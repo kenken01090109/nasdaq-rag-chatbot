@@ -1,0 +1,9 @@
+Company: Xenetic Biosciences Inc. Common Stock
+Ticker: XBIO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Framingham
+Website: https://www.xeneticbio.com
+Employees: 2
+Business Summary: Xenetic Biosciences, Inc., a biopharmaceutical company, focuses on advancing immune-oncology technologies to treat cancers. The company's proprietary DNase platform is designed to improve outcomes of existing treatments, including immunotherapies, by targeting neutrophil extracellular traps (NETs), which are involved in cancer progression, pancreatic ductal adenocarcinoma, colorectal carcinoma, and other gastrointestinal cancer. Its product pipeline includes XBIO-015 for treating pancreatic carcinoma and solid tumors; and XBIO-020 for treating solid tumors. The company also has partnered with biotechnology and pharmaceutical companies to develop its proprietary drug delivery platform, PolyXen, which as an enabling platform technology for protein and peptide drug delivery. It has collaboration agreements with Belgian Volition SARL Limited to develop NETs-targeted adoptive cell therapies for the treatment of cancer, as well as PJSC Pharmsynthez and Serum Institute of India to develop and launch ErepoXen for the treatment of anemia in chronic kidney disease patients; sublicensing agreement with Takeda Pharmaceutical Co. Ltd; exclusive sublicense agreement with CLS Therapeutics Ltd to develop DNase technology for the treatment of immunotherapies. The company offers under XDNASE, XCART, OncoHist, PolyXen, ErepoXen, and ImuXen trandemarks. Xenetic Biosciences, Inc. is headquartered in Framingham, Massachusetts.

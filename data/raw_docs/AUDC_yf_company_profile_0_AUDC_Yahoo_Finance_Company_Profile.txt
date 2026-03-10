@@ -1,0 +1,9 @@
+Company: AudioCodes Ltd. Common Stock
+Ticker: AUDC
+Sector: Technology
+Industry: Communication Equipment
+Country: Israel
+City: Or Yehuda
+Website: https://www.audiocodes.com
+Employees: 
+Business Summary: AudioCodes Ltd. provides advanced communications software, products, and productivity solutions for the digital workplace worldwide. The company offers solutions, products, and services for unified communications, contact centers, and hosted business services. Its products include session border controllers, life cycle management solutions, VoIP network routing solutions, media gateways and servers, multi-service business routers, IP phones solutions, and value-added applications, as well as professional services. The company also offers One Voice Operations Center, a voice network management solution; Device Manager for administering business phones and meeting room solutions; AudioCodes Routing Manager for handling call routing in VoIP networks; and User Management Pack 365 simplifies user lifecycle and identity management across Microsoft Teams and Skype for Business deployments. In addition, it offers managed services; and AudioCodes Live Platform is a SaaS solution that enables service providers to offer their business customers a seamless migration to uCaaS solutions, such as Microsoft Teams and Zoom Phone. The company primarily markets and sells its products through a direct sales force and sales representatives to original equipment manufacturers, network equipment providers, systems integrators, enterprises, carriers, and distributors in the telecommunications and networking industries. AudioCodes Ltd. was incorporated in 1992 and is based in Or Yehuda, Israel.

@@ -1,0 +1,12 @@
+Company: Turtle Beach Corporation Common Stock
+Ticker: TBCH
+CIK: 0001493761
+Latest SEC XBRL Facts:
+Revenues: 44846000 | unit=USD | filed=2019-05-08 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 201135000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -1878000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 278207000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 167556000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 110651000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 22121000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12257000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

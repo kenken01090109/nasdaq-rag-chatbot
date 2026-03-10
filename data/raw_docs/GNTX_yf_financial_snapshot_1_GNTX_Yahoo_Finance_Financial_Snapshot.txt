@@ -1,0 +1,25 @@
+Company: Gentex Corporation Common Stock
+Ticker: GNTX
+Market Cap: 4834259456
+Enterprise Value: 4713301504
+Total Revenue: 2534268928
+Revenue Per Share: 11.634
+EBITDA: 589622272
+Gross Margins: 0.342
+Operating Margins: 0.18476
+Profit Margins: 0.15185
+Free Cashflow: 246574528
+Operating Cashflow: 587126272
+Return On Assets: 0.10669
+Return On Equity: 0.15502
+Total Cash: 151032288
+Total Debt: 12524460
+Debt To Equity: 0.503
+Current Ratio: 2.912
+Quick Ratio: 1.341
+Trailing PE: 12.689655
+Forward PE: 10.29745
+Price To Book: 1.912185
+Beta: 0.76
+52 Week High: 29.38
+52 Week Low: 20.28

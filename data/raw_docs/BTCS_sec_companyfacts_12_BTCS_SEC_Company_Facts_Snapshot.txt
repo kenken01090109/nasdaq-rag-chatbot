@@ -1,0 +1,12 @@
+Company: BTCS Inc. Common Stock
+Ticker: BTCS
+CIK: 0001436229
+Latest SEC XBRL Facts:
+Revenues: 9403200 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 9403200 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 52201644 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 298855352 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 73450855 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 225404497 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6031947 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4486051 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

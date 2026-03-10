@@ -1,0 +1,11 @@
+Company: ZK International Group Co. Ltd Ordinary Share
+Ticker: ZKIN
+CIK: 0001687451
+Latest SEC XBRL Facts:
+Revenues: 71241683 | unit=USD | filed=2026-02-04 | period_end=2025-09-30
+NetIncomeLoss: -3985184 | unit=USD | filed=2026-02-04 | period_end=2025-09-30
+Assets: 62867718 | unit=USD | filed=2026-02-04 | period_end=2025-09-30
+Liabilities: 38253260 | unit=USD | filed=2026-02-04 | period_end=2025-09-30
+StockholdersEquity: 24497854 | unit=USD | filed=2026-02-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 736397 | unit=USD | filed=2026-02-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2306571 | unit=USD | filed=2026-02-04 | period_end=2025-09-30

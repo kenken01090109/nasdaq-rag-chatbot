@@ -1,0 +1,9 @@
+Company: Beam Global Common Stock
+Ticker: BEEM
+Sector: Technology
+Industry: Solar
+Country: United States
+City: San Diego
+Website: https://www.beamforall.com
+Employees: 245
+Business Summary: Beam Global, a clean-technology innovation company, engages in the design, development, engineering, manufacture, and sale of renewably energized infrastructure products and battery solutions in the United States and Romania. Its product portfolio includes EV ARC (electric vehicle autonomous renewable charger), an infrastructure product that uses integrated solar power and battery storage to provide a mounting asset and a source of power for factory-installed electric vehicle charging stations; Solar Tree DCFC, an off-grid, renewably energized, and single-column mounted smart generation and energy storage system to provide a 150kW DC fast charge to one or more electric vehicles, such as electric buses, heavy-duty vehicles, agricultural equipment, public transportation, and electric vehicles used in the construction industry; and EV ARC DCFC, a DC fast charging system for charging EVs. The company is also involved in the development of EV-Standard, a lamp standard, EV charging, and emergency power product that uses an existing streetlight's foundation and a combination of solar, wind, grid connection, and onboard energy storage to provide curbside charging; and UAV ARC, an off-grid and renewably energized product and network used to charge aerial drone (UAV) fleets. It offers solutions for electric vehicle (EV) charging infrastructure, energy storage, energy security, disaster preparedness, street lighting, telecommunications, energy infrastructure, and outdoor media and branding industries. The company was formerly known as Envision Solar International, Inc. and changed its name to Beam Global in September 2020. Beam Global was incorporated in 2006 and is headquartered in San Diego, California.

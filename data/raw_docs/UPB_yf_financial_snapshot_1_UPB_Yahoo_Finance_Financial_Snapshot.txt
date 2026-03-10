@@ -1,0 +1,25 @@
+Company: Upstream Bio Inc. Common Stock
+Ticker: UPB
+Market Cap: 413935616
+Enterprise Value: 43467992
+Total Revenue: 2799000
+Revenue Per Share: 0.054
+EBITDA: -140332000
+Gross Margins: 1.0
+Operating Margins: -55.39385
+Profit Margins: 0.0
+Free Cashflow: -87004000
+Operating Cashflow: -122256000
+Return On Assets: -0.28152
+Return On Equity: -0.408
+Total Cash: 372427008
+Total Debt: 1419000
+Debt To Equity: 0.375
+Current Ratio: 32.669
+Quick Ratio: 31.469
+Trailing PE: 
+Forward PE: -2.461044
+Price To Book: 1.0925688
+Beta: 
+52 Week High: 33.68
+52 Week Low: 5.14

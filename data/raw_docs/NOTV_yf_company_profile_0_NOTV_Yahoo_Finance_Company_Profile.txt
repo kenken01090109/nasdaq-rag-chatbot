@@ -1,0 +1,9 @@
+Company: Inotiv Inc. Common Stock
+Ticker: NOTV
+Sector: Healthcare
+Industry: Diagnostics & Research
+Country: United States
+City: West Lafayette
+Website: https://www.inotiv.com
+Employees: 1945
+Business Summary: Inotiv, Inc. provides nonclinical and analytical drug discovery and development services to the pharmaceutical and medical device industries in the United States, the Netherlands, and internationally. The company operates through two segments, Discovery and Safety Assessment (DSA) and Research Models and Services (RMS). The DMS segment manufactures scientific instruments for life sciences research and the related software for use by pharmaceutical companies, universities, government research centers, and medical research institutions under the company's BASi product line. The RMS segment engages in commercial production and sales of research models, diets, bedding, and bioproducts. The company was formerly known as Bioanalytical Systems, Inc. and changed its name to Inotiv, Inc. in March 2021. Inotiv, Inc. was incorporated in 1974 and is headquartered in West Lafayette, Indiana.

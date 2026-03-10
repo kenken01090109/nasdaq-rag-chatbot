@@ -1,0 +1,25 @@
+Company: WesBanco Inc. Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series B
+Ticker: WSBCO
+Market Cap: 
+Enterprise Value: 3450707456
+Total Revenue: 903812992
+Revenue Per Share: 9.943
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49800998
+Profit Margins: 0.24685
+Free Cashflow: 
+Operating Cashflow: 290412000
+Return On Assets: 0.00962
+Return On Equity: 0.065409996
+Total Cash: 1019945024
+Total Debt: 1761943040
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.6458775
+Beta: 0.777
+52 Week High: 26.03
+52 Week Low: 25.02

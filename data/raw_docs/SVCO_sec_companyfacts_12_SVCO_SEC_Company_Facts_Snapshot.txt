@@ -1,0 +1,11 @@
+Company: Silvaco Group Inc. Common Stock
+Ticker: SVCO
+CIK: 0001943289
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 44812000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -33981000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 130591000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 51493000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 79098000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24430000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11945000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

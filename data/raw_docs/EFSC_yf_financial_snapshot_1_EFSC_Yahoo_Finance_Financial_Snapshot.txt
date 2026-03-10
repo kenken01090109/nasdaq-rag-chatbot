@@ -1,0 +1,25 @@
+Company: Enterprise Financial Services Corporation Common Stock
+Ticker: EFSC
+Market Cap: 2019685248
+Enterprise Value: 1959268608
+Total Revenue: 673715008
+Revenue Per Share: 18.215
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.40566003
+Profit Margins: 0.2989
+Free Cashflow: 
+Operating Cashflow: 193515008
+Return On Assets: 0.01224
+Return On Equity: 0.10425
+Total Cash: 695283968
+Total Debt: 518659008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.276836
+Forward PE: 9.26879
+Price To Book: 1.0253086
+Beta: 0.793
+52 Week High: 62.3
+52 Week Low: 45.22

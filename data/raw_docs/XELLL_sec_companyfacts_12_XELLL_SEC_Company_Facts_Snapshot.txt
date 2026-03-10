@@ -1,0 +1,11 @@
+Company: Xcel Energy Inc. 6.25% Junior Subordinated Notes Series due 2085
+Ticker: XELLL
+CIK: 0000072903
+Latest SEC XBRL Facts:
+Revenues: 8731000000 | unit=USD | filed=2019-10-25 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3141000000 | unit=USD | filed=2019-04-26 | period_end=2019-03-31
+NetIncomeLoss: 1451000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 79154000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 21181000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3874000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1052000000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: CEA Industries Inc. Warrant
+Ticker: BNCWW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 3721498
+Revenue Per Share: 0.268
+EBITDA: 79043520
+Gross Margins: -0.32837
+Operating Margins: 12.571639
+Profit Margins: 73.27835
+Free Cashflow: 
+Operating Cashflow: -27805730
+Return On Assets: 
+Return On Equity: 
+Total Cash: 32535256
+Total Debt: 7574530
+Debt To Equity: 1.562
+Current Ratio: 5.165
+Quick Ratio: 2.921
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.004897654
+Beta: 0.766
+52 Week High: 0.0524
+52 Week Low: 0.0524

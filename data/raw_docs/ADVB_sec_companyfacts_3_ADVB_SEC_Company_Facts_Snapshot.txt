@@ -1,0 +1,9 @@
+Company: Advanced Biomed Inc. Common Stock
+Ticker: ADVB
+CIK: 0001941029
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6471020 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 10850712 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 1369070 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 9481642 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -1123900 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

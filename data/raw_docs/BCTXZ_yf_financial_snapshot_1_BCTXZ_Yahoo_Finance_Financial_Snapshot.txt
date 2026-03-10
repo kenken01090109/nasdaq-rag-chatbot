@@ -1,0 +1,25 @@
+Company: BriaCell Therapeutics Corp. Warrant expiring 2030
+Ticker: BCTXZ
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -30268288
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -18512680
+Operating Cashflow: -28920240
+Return On Assets: -1.61642
+Return On Equity: -4.44067
+Total Cash: 10175972
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.42
+Quick Ratio: 3.42
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.027001511
+Beta: 1.805
+52 Week High: 0.143
+52 Week Low: 0.143

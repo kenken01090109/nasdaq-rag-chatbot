@@ -1,0 +1,25 @@
+Company: ICON plc Ordinary Shares
+Ticker: ICLR
+Market Cap: 8337171968
+Enterprise Value: 11548039168
+Total Revenue: 8102602240
+Revenue Per Share: 101.615
+EBITDA: 1522180992
+Gross Margins: 0.28155002
+Operating Margins: 0.12674
+Profit Margins: 0.07399
+Free Cashflow: 925353856
+Operating Cashflow: 1140356992
+Return On Assets: 0.04202
+Return On Equity: 0.06274
+Total Cash: 468888000
+Total Debt: 3571518976
+Debt To Equity: 38.26
+Current Ratio: 1.059
+Quick Ratio: 1.015
+Trailing PE: 14.447439
+Forward PE: 8.464151
+Price To Book: 0.8769059
+Beta: 1.341
+52 Week High: 211.0
+52 Week Low: 66.57

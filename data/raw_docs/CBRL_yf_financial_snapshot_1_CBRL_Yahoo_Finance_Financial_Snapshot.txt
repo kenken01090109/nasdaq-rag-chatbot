@@ -1,0 +1,25 @@
+Company: Cracker Barrel Old Country Store Inc Common Stock
+Ticker: CBRL
+Market Cap: 657339136
+Enterprise Value: 1855862144
+Total Revenue: 3361160960
+Revenue Per Share: 150.782
+EBITDA: 130872000
+Gross Margins: 0.31824
+Operating Margins: 0.00101
+Profit Margins: -0.00119
+Free Cashflow: -47857248
+Operating Cashflow: 123037000
+Return On Assets: 0.00215
+Return On Equity: -0.0090499995
+Total Cash: 8571000
+Total Debt: 1206418944
+Debt To Equity: 283.312
+Current Ratio: 0.488
+Quick Ratio: 0.1
+Trailing PE: 39.783783
+Forward PE: 55.556602
+Price To Book: 1.5452446
+Beta: 1.216
+52 Week High: 71.93
+52 Week Low: 24.85

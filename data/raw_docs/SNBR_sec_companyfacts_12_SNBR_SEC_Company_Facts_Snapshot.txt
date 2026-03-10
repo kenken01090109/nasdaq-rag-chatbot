@@ -1,0 +1,11 @@
+Company: Sleep Number Corporation Common Stock
+Ticker: SNBR
+CIK: 0000827187
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1064065000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetIncomeLoss: -73448000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Assets: 749388000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+Liabilities: 1270730000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+StockholdersEquity: -521342000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: -5159000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 1264000 | unit=USD | filed=2025-11-05 | period_end=2025-09-27

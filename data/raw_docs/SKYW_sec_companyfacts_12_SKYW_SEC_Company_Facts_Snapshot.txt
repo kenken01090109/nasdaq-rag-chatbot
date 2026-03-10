@@ -1,0 +1,10 @@
+Company: SkyWest Inc. Common Stock
+Ticker: SKYW
+CIK: 0000793733
+Latest SEC XBRL Facts:
+Revenues: 2971963000 | unit=USD | filed=2020-02-18 | period_end=2019-12-31
+NetIncomeLoss: 337178000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 7214196000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 2678267000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 708860000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 44528000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

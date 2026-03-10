@@ -1,0 +1,11 @@
+Company: Momentus Inc. Class A Common Stock
+Ticker: MNTS
+CIK: 0001781162
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 747000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetIncomeLoss: -23696000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Assets: 19601000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+Liabilities: 20295000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+StockholdersEquity: -694000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -12745000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 670000 | unit=USD | filed=2025-11-20 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: NRX Pharmaceuticals Inc. Warrant
+Ticker: NRXPW
+CIK: 0001719406
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 242000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -28982000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 14996000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 40751000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -25755000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10399000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7184000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

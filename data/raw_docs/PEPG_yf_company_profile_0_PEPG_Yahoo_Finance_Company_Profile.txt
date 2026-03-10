@@ -1,0 +1,9 @@
+Company: PepGen Inc. Common Stock
+Ticker: PEPG
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://pepgen.com
+Employees: 57
+Business Summary: PepGen Inc., a clinical-stage biotechnology company, develops oligonucleotide therapeutics for the treatment of severe neuromuscular and neurologic diseases in the United States. Its lead product candidates comprise PGN-EDO51, an EDO peptide which is Phase 2 clinical trial to treat duchenne muscular dystrophy (DMD) patients that are amenable to an exon 51-skipping approach; PGN-EDODM1, an EDO peptide-conjugated PMO, which is in Phase 2 clinical trial for the treatment of myotonic dystrophy type 1; and PGN-EDO53, which is in preclinical trial to treat duchenne muscular dystrophy. The company was founded in 2018 and is based in Boston, Massachusetts.

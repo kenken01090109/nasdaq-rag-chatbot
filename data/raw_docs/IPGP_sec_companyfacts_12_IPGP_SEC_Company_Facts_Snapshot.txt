@@ -1,0 +1,11 @@
+Company: IPG Photonics Corporation Common Stock
+Ticker: IPGP
+CIK: 0001111928
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 729306000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 17826000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 2380963000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 276151000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 2104812000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 46535000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 346026000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

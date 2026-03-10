@@ -1,0 +1,25 @@
+Company: SKYX Platforms Corp. Common Stock
+Ticker: SKYX
+Market Cap: 251008416
+Enterprise Value: 268919776
+Total Revenue: 90751120
+Revenue Per Share: 0.872
+EBITDA: -28894192
+Gross Margins: 0.28511998
+Operating Margins: -0.2831
+Profit Margins: -0.39121
+Free Cashflow: -5199855
+Operating Cashflow: -16605196
+Return On Assets: -0.31792
+Return On Equity: -14.213929
+Total Cash: 7829739
+Total Debt: 37351608
+Debt To Equity: 3217.45
+Current Ratio: 0.653
+Quick Ratio: 0.437
+Trailing PE: 
+Forward PE: -11.75
+Price To Book: -16.206898
+Beta: -3955.092
+52 Week High: 3.29
+52 Week Low: 0.88

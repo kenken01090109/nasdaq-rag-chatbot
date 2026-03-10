@@ -1,0 +1,25 @@
+Company: Interactive Brokers Group Inc. Class A Common Stock
+Ticker: IBKR
+Market Cap: 113390878720
+Enterprise Value: -35231162368
+Total Revenue: 6208999936
+Revenue Per Share: 14.082
+EBITDA: 
+Gross Margins: 0.92543
+Operating Margins: 0.78801
+Profit Margins: 0.15847999
+Free Cashflow: 
+Operating Cashflow: 15811000320
+Return On Assets: 0.02466
+Return On Equity: 0.23507999
+Total Cash: 105503997952
+Total Debt: 25453000704
+Debt To Equity: 124.331
+Current Ratio: 1.106
+Quick Ratio: 1.106
+Trailing PE: 30.045044
+Forward PE: 24.350174
+Price To Book: 5.539867
+Beta: 1.251
+52 Week High: 79.18
+52 Week Low: 32.82

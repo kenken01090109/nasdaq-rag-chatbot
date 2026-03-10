@@ -1,0 +1,25 @@
+Company: Elong Power Holding Limited Class A Ordinary Shares
+Ticker: ELPW
+Market Cap: 438833
+Enterprise Value: 25919728
+Total Revenue: 235004
+Revenue Per Share: 0.056
+EBITDA: -16697568
+Gross Margins: 0.0
+Operating Margins: -11.38805
+Profit Margins: 0.0
+Free Cashflow: -6612685
+Operating Cashflow: -3078052
+Return On Assets: -0.35077
+Return On Equity: 
+Total Cash: 7199346
+Total Debt: 32782956
+Debt To Equity: 
+Current Ratio: 0.46
+Quick Ratio: 0.376
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.009723423
+Beta: -2.107
+52 Week High: 129.2
+52 Week Low: 0.0382

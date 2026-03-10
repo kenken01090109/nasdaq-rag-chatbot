@@ -1,0 +1,25 @@
+Company: Elevra Lithium Limited American Depository Shares
+Ticker: ELVR
+Market Cap: 950832064
+Enterprise Value: 8491070976
+Total Revenue: 155074368
+Revenue Per Share: 14.72
+EBITDA: -29027872
+Gross Margins: 1.10918
+Operating Margins: -0.05804
+Profit Margins: -0.57703
+Free Cashflow: -39529340
+Operating Cashflow: -50705920
+Return On Assets: -0.08866
+Return On Equity: -0.26343
+Total Cash: 81185000
+Total Debt: 80401000
+Debt To Equity: 14.225
+Current Ratio: 1.674
+Quick Ratio: 1.128
+Trailing PE: 
+Forward PE: 749.5715
+Price To Book: 15.718993
+Beta: 0.538
+52 Week High: 69.99
+52 Week Low: 15.545

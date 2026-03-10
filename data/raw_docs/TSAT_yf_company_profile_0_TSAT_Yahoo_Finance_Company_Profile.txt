@@ -1,0 +1,9 @@
+Company: Telesat Corporation Class A Common Shares and Class B Variable Voting Shares
+Ticker: TSAT
+Sector: Technology
+Industry: Communication Equipment
+Country: Canada
+City: Ottawa
+Website: https://www.telesat.com
+Employees: 610
+Business Summary: Telesat Corporation, a satellite operator, provides mission-critical communications solutions to support the requirements of satellite users in Canada, the United States, Asia, Australia, Latin America, the Caribbean, Europe, the Middle East, and Africa. It operates through Geostationary (GEO) and Low Earth Orbit (LEO) segments. The company offers broadcast services comprising direct-to-home television, video distribution and contribution, and occasional use services; enterprise services consisting of telecommunication carrier and integrator, government, consumer broadband, resource, maritime and aeronautical, and retail and satellite operator services; and consulting services related to space and earth segments, government studies, satellite control services, and research and development. It also provides value-added services, such as satellite capacity, digital encoding of video channels, and uplinking and downlinking services; satellite capacity and end-to-end services for data and voice transmission to telecommunications carriers and integrators; space segment services and terrestrial facilities for enterprise connectivity; internet and cellular backhaul and services, including rural telephony to telecommunications carriers and network services integrators. In addition, the company offers direct-to-consumer broadband services; and communications services to offshore, oil and gas, and mining industries. Further, the company operates satellite and terrestrial networks that support enterprise and retail activities. It offers its services through a direct sales force. Telesat Corporation was founded in 1969 and is headquartered in Ottawa, Canada.

@@ -1,0 +1,25 @@
+Company: XWELL Inc. Common Stock
+Ticker: XWEL
+Market Cap: 7612048
+Enterprise Value: 23426720
+Total Revenue: 29523000
+Revenue Per Share: 5.44
+EBITDA: -9209000
+Gross Margins: 0.19334
+Operating Margins: -0.03839
+Profit Margins: -0.51848
+Free Cashflow: -8783000
+Operating Cashflow: -12135000
+Return On Assets: -0.22548
+Return On Equity: -1.5898801
+Total Cash: 4224000
+Total Debt: 9559000
+Debt To Equity: 281.395
+Current Ratio: 1.075
+Quick Ratio: 0.847
+Trailing PE: 
+Forward PE: -0.50190115
+Price To Book: -1.2021858
+Beta: 0.864
+52 Week High: 2.2
+52 Week Low: 0.26

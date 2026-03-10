@@ -1,0 +1,25 @@
+Company: MannKind Corporation Common Stock
+Ticker: MNKD
+Market Cap: 804142144
+Enterprise Value: 1171438208
+Total Revenue: 348966016
+Revenue Per Share: 1.272
+EBITDA: 58834000
+Gross Margins: 0.74794
+Operating Margins: -0.06869
+Profit Margins: 0.0168
+Free Cashflow: 35570624
+Operating Cashflow: 18255000
+Return On Assets: 0.049060002
+Return On Equity: 
+Total Cash: 171346000
+Total Debt: 470860000
+Debt To Equity: 
+Current Ratio: 1.705
+Quick Ratio: 1.407
+Trailing PE: 130.5
+Forward PE: 11.472527
+Price To Book: -15.722892
+Beta: 0.931
+52 Week High: 6.51
+52 Week Low: 2.585

@@ -1,0 +1,7 @@
+Company: Activate Energy Acquisition Corp. Unit
+Ticker: AEAQU
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

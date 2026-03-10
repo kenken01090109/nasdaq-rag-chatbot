@@ -1,0 +1,25 @@
+Company: One and One Green Technologies. Inc Class A Ordinary Shares
+Ticker: YDDL
+Market Cap: 412680000
+Enterprise Value: 402954816
+Total Revenue: 62922700
+Revenue Per Share: 1.21
+EBITDA: 11728371
+Gross Margins: 0.21618
+Operating Margins: 0.20278
+Profit Margins: 0.12562001
+Free Cashflow: -1116139
+Operating Cashflow: -77978
+Return On Assets: 0.17701
+Return On Equity: 0.3781
+Total Cash: 122567
+Total Debt: 337379
+Debt To Equity: 1.335
+Current Ratio: 1.561
+Quick Ratio: 0.708
+Trailing PE: 54.285713
+Forward PE: 
+Price To Book: 15.63786
+Beta: 
+52 Week High: 8.89
+52 Week Low: 3.61

@@ -1,0 +1,9 @@
+Company: Proficient Auto Logistics Inc. Common Stock
+Ticker: PAL
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: United States
+City: Jacksonville
+Website: https://www.proficientautologistics.com
+Employees: 
+Business Summary: Proficient Auto Logistics, Inc. focuses on providing auto transportation and logistics services in North America. It primarily focuses on transporting and delivering finished vehicles from automotive production facilities, ports of entry, and rail yards to a network of automotive dealerships. The company operates approximately 1,145 auto transport vehicles and trailers, including 845 company-owned transport vehicles and trailers. It serves auto companies, electric vehicle producers, auto dealers, auto auctions, rental car companies, and auto leasing companies. The company was formerly known as AH Acquisition Corp. and changed its name to Proficient Auto Logistics, Inc. in October 2023. The company was incorporated in 2023 and is headquartered in Jacksonville, Florida.

@@ -1,0 +1,10 @@
+Company: Agios Pharmaceuticals Inc. Common Stock
+Ticker: AGIO
+Market Cap: 1621831296
+Enterprise Value: 807613312
+Trailing PE: 
+Forward PE: -5.596159
+Price To Book: 1.3559986
+Beta: 0.876
+52 Week High: 46.0
+52 Week Low: 22.24

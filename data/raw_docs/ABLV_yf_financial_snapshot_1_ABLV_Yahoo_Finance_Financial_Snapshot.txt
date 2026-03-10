@@ -1,0 +1,25 @@
+Company: Able View Global Inc. Class B Ordinary Shares
+Ticker: ABLV
+Market Cap: 35170564
+Enterprise Value: 40384340
+Total Revenue: 114319872
+Revenue Per Share: 2.465
+EBITDA: -7916623
+Gross Margins: 0.091730006
+Operating Margins: 0.03203
+Profit Margins: 0.02044
+Free Cashflow: 3602341
+Operating Cashflow: 1918397
+Return On Assets: -0.11314999
+Return On Equity: -1.20857
+Total Cash: 6283350
+Total Debt: 11497127
+Debt To Equity: 119.063
+Current Ratio: 1.439
+Quick Ratio: 0.883
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.6331635
+Beta: 1.5
+52 Week High: 1.77
+52 Week Low: 0.59

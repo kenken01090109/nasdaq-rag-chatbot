@@ -1,0 +1,11 @@
+Company: Cricut Inc. Class A Common Stock
+Ticker: CRCT
+CIK: 0001828962
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 505183000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 68914000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 564254000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 205862000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 358392000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 117798000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 187873000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

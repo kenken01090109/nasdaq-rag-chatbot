@@ -1,0 +1,11 @@
+Company: Netflix Inc. Common Stock
+Ticker: NFLX
+CIK: 0001065280
+Latest SEC XBRL Facts:
+Revenues: 33132274000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+NetIncomeLoss: 8562680000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+Assets: 54934835000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+Liabilities: 28980800000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+StockholdersEquity: 25954035000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8037631000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9287287000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30

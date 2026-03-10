@@ -1,0 +1,12 @@
+Company: Agencia Comercial Spirits Ltd Class A Ordinary Shares
+Ticker: AGCC
+Total Revenue: 3038946
+Revenue Per Share: 0.17
+Gross Margins: 0.47300997
+Operating Margins: 0.27255
+EBITDA: 
+Profit Margins: 0.24466999
+Free Cashflow: 
+Operating Cashflow: 489238
+Return On Assets: 
+Return On Equity: 

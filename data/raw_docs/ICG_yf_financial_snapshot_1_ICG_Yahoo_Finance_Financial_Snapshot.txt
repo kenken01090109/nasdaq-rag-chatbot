@@ -1,0 +1,25 @@
+Company: Intchains Group Limited American Depositary Shares
+Ticker: ICG
+Market Cap: 77711264
+Enterprise Value: -310355232
+Total Revenue: 220864000
+Revenue Per Share: 3.653
+EBITDA: -99620000
+Gross Margins: 0.072270006
+Operating Margins: -2.3134398
+Profit Margins: -0.23562
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.062119998
+Return On Equity: -0.05243
+Total Cash: 468092000
+Total Debt: 1100000
+Debt To Equity: 0.113
+Current Ratio: 13.602
+Quick Ratio: 10.94
+Trailing PE: 
+Forward PE: -75.29411
+Price To Book: 0.55145913
+Beta: 1.587
+52 Week High: 4.19
+52 Week Low: 0.93

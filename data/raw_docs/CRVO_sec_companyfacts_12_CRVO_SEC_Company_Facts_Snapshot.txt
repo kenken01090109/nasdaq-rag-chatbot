@@ -1,0 +1,11 @@
+Company: CervoMed Inc. Common Stock
+Ticker: CRVO
+CIK: 0001053691
+Latest SEC XBRL Facts:
+Revenues: 3997784 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -18879077 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 30610778 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 4599314 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 26011464 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16874264 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 9437400 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

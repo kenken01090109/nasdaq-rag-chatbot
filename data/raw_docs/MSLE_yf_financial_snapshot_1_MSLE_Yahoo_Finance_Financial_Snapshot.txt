@@ -1,0 +1,25 @@
+Company: Satellos Bioscience Inc. Common Stock
+Ticker: MSLE
+Market Cap: 250621472
+Enterprise Value: 155994528
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -24042894
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -13990599
+Operating Cashflow: -21228352
+Return On Assets: -0.54254
+Return On Equity: -0.87594
+Total Cash: 34614000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 10.704
+Quick Ratio: 9.94
+Trailing PE: 4.688716
+Forward PE: -11.586539
+Price To Book: 5.4673324
+Beta: 0.707
+52 Week High: 13.395
+52 Week Low: 4.524

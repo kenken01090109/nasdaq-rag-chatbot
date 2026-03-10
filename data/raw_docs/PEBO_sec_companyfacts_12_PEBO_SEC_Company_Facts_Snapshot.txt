@@ -1,0 +1,12 @@
+Company: Peoples Bancorp Inc. Common Stock
+Ticker: PEBO
+CIK: 0000318300
+Latest SEC XBRL Facts:
+Revenues: 144000 | unit=USD | filed=2021-11-05 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 64764000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 75024000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 9623944000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 8441168000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1182776000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 99402000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 190217000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

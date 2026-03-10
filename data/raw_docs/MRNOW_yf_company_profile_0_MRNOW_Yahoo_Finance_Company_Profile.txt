@@ -1,0 +1,9 @@
+Company: Murano Global Investments PLC Warrants
+Ticker: MRNOW
+Sector: 
+Industry: 
+Country: United Kingdom
+City: London
+Website: https://www.murano.com.mx/en/
+Employees: 1088
+Business Summary: Murano Global Investments Plc, a real estate company, owns, develops, and invests in hotel, resort, and commercial properties in Mexico. Its portfolio includes the Hotel Andaz (operated by Hyatt) and Hotel Mondrian (operated by Accor) in Mexico City, as well as luxury projects in Cancun, which includes the Grand Island I hotel project under the Hyatt's Vivid and Dreams brands, and a project in Baja. The company was founded in 1996 and is headquartered in London, the United Kingdom.

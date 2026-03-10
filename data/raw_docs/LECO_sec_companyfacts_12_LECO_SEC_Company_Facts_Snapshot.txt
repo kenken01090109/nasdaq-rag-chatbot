@@ -1,0 +1,12 @@
+Company: Lincoln Electric Holdings Inc. Common Shares
+Ticker: LECO
+CIK: 0000059527
+Latest SEC XBRL Facts:
+Revenues: 1039343000 | unit=USD | filed=2023-04-27 | period_end=2023-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 3154288000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 384511000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 3815105000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 2400472000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 1414633000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 566208000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 292997000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

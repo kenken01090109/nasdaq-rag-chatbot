@@ -1,0 +1,11 @@
+Company: Highway Holdings Limited Common Stock
+Ticker: HIHO
+CIK: 0001026785
+Latest SEC XBRL Facts:
+Revenues: 7412000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31
+NetIncomeLoss: 106000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31
+Assets: 9554000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31
+Liabilities: 3287000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31
+StockholdersEquity: 6269000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -360000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 5972000 | unit=USD | filed=2025-06-30 | period_end=2025-03-31

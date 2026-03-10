@@ -1,0 +1,25 @@
+Company: DXP Enterprises Inc. Common Stock
+Ticker: DXPE
+Market Cap: 2122035200
+Enterprise Value: 2790413824
+Total Revenue: 2016365056
+Revenue Per Share: 128.701
+EBITDA: 217520000
+Gross Margins: 0.31538
+Operating Margins: 0.09001
+Profit Margins: 0.04398
+Free Cashflow: 9226500
+Operating Cashflow: 94264000
+Return On Assets: 0.0736
+Return On Equity: 0.19252001
+Total Cash: 303783008
+Total Debt: 924486016
+Debt To Equity: 185.476
+Current Ratio: 3.341
+Quick Ratio: 2.771
+Trailing PE: 25.20298
+Forward PE: 18.667585
+Price To Book: 4.212525
+Beta: 0.984
+52 Week High: 171.7
+52 Week Low: 67.68

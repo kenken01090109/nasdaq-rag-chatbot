@@ -1,0 +1,10 @@
+Company: Evogene Ltd Ordinary Shares
+Ticker: EVGN
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Rehovot
+Website: https://www.evogene.com
+Employees: 117
+Business Summary: Evogene Ltd., together with its subsidiaries, operates as a computational biology company in Israel, the United States, Israel, Brazil, and internationally. The company focuses on product discovery and development in life-science based industries, including human health, agriculture, and other industrial applications through its computational predictive biology (CPB) platform. It operates through three segments: Agriculture, Human Health, and other Industrial Applications. The Agriculture segment develops seed traits, ag-chemical products, and ag-biological products to enhance plant performance. The Human Health segment discovers and develops human microbiome-based therapeutics for the treatment of immuno-oncology, gastrointestinal inflammatory related disorders, and antimicrobial resistance organisms. The Industrial Applications segment focuses on the development and commercialization of improved castor bean seeds for industrial uses. The company also provides medical cannabis products. It has a collaboration with LMU University Hospital Munich to develop Novel Therapies for
+for hyper-inflammatory diseases driven by dysregulated neutrophil activity, including inflammatory bowel disease (IBD). Evogene Ltd. was incorporated in 1999 and is headquartered in Rehovot, Israel.

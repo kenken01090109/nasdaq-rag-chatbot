@@ -1,0 +1,12 @@
+Company: LifeMD Inc. Common Stock
+Ticker: LFMD
+CIK: 0000948320
+Latest SEC XBRL Facts:
+Revenues: 8524124 | unit=USD | filed=2019-11-14 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 186975039 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetIncomeLoss: -5609559 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Assets: 65983378 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+Liabilities: 62615226 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+StockholdersEquity: 1314334 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11560698 | unit=USD | filed=2025-11-17 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36228305 | unit=USD | filed=2025-08-05 | period_end=2025-06-30

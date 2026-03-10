@@ -1,0 +1,25 @@
+Company: BRP Inc. Common Subordinate Voting Shares
+Ticker: DOO
+Market Cap: 4826681856
+Enterprise Value: 7630390272
+Total Revenue: 8030499840
+Revenue Per Share: 109.919
+EBITDA: 897400000
+Gross Margins: 0.21806999
+Operating Margins: 0.09039
+Profit Margins: 0.0030399999
+Free Cashflow: 776350016
+Operating Cashflow: 1121900032
+Return On Assets: 0.051810004
+Return On Equity: 0.4351
+Total Cash: 250100000
+Total Debt: 2786200064
+Debt To Equity: 483.044
+Current Ratio: 1.229
+Quick Ratio: 0.397
+Trailing PE: 27.010288
+Forward PE: 14.745034
+Price To Book: 11.569301
+Beta: 1.119
+52 Week High: 81.89
+52 Week Low: 31.78

@@ -1,0 +1,25 @@
+Company: Star Bulk Carriers Corp. Common Shares
+Ticker: SBLK
+Market Cap: 2704633344
+Enterprise Value: 3338280448
+Total Revenue: 1042499008
+Revenue Per Share: 9.065
+EBITDA: 320056288
+Gross Margins: 0.36400002
+Operating Margins: 0.26735002
+Profit Margins: 0.080740005
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0238
+Return On Equity: 0.034140002
+Total Cash: 501836000
+Total Debt: 1201313024
+Debt To Equity: 49.048
+Current Ratio: 1.781
+Quick Ratio: 1.308
+Trailing PE: 50.340424
+Forward PE: 6.9862547
+Price To Book: 1.0773644
+Beta: 0.743
+52 Week High: 27.2
+52 Week Low: 12.06

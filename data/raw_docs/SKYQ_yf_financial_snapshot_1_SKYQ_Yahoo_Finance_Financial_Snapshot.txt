@@ -1,0 +1,25 @@
+Company: Sky Quarry Inc. Common Stock
+Ticker: SKYQ
+Market Cap: 8789343
+Enterprise Value: 23984728
+Total Revenue: 16401221
+Revenue Per Share: 0.759
+EBITDA: -9718233
+Gross Margins: -0.21150999
+Operating Margins: -1.9094
+Profit Margins: -0.82537
+Free Cashflow: -3459354
+Operating Cashflow: -4857480
+Return On Assets: -0.28592
+Return On Equity: -1.92251
+Total Cash: 362517
+Total Debt: 10618652
+Debt To Equity: 194.448
+Current Ratio: 0.211
+Quick Ratio: 0.045
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.4806867
+Beta: 
+52 Week High: 1.94
+52 Week Low: 0.208

@@ -1,0 +1,10 @@
+Company: Winchester Bancorp Inc. Common Stock
+Ticker: WSBK
+CIK: 0002047235
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2036000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 1015970000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 897723000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 118247000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 2908000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 54785000 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

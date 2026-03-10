@@ -1,0 +1,12 @@
+Company: Cytokinetics Incorporated Common Stock
+Ticker: CYTK
+CIK: 0001061983
+Latest SEC XBRL Facts:
+Revenues: 22124000 | unit=USD | filed=2018-11-09 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 70284000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -601924000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1436557000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1957680000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -521123000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -367358000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 225467000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

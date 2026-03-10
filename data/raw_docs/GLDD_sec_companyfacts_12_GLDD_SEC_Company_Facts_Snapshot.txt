@@ -1,0 +1,12 @@
+Company: Great Lakes Dredge & Dock Corporation Common Stock
+Ticker: GLDD
+CIK: 0001372020
+Latest SEC XBRL Facts:
+Revenues: 146593000 | unit=USD | filed=2018-05-04 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 631825000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 60835000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1267739000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 765627000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 502112000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 166930000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 12671000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

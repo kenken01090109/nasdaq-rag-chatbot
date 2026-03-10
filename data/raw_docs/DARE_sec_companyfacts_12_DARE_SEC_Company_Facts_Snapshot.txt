@@ -1,0 +1,12 @@
+Company: Dare Bioscience Inc. Common Stock
+Ticker: DARE
+CIK: 0001401914
+Latest SEC XBRL Facts:
+Revenues: 73431 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 6517 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -11957556 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 30748574 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 27890671 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 2857903 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11330134 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23075261 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

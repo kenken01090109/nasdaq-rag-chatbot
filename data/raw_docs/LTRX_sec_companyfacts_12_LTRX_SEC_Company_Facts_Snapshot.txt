@@ -1,0 +1,12 @@
+Company: Lantronix Inc. Common Stock
+Ticker: LTRX
+CIK: 0001114925
+Latest SEC XBRL Facts:
+Revenues: 59568000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 59568000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -2731000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 121731000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 47310000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 74421000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 5783000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 22964000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

@@ -1,0 +1,9 @@
+Company: Abits Group Inc Ordinary Shares
+Ticker: ABTS
+Long Business Summary: Abits Group Inc., through its subsidiary, operates in the bitcoin mining business in the United States. It also provides in-house support services. The company was formerly known as Moxian (BVI) Inc and changed its name to Abits Group Inc. in November 2023. Abits Group Inc. was incorporated in 2021 and is based in Causeway Bay, Hong Kong.
+Industry: Capital Markets
+Sector: Financial Services
+Website: https://www.abitsgroup.com
+Country: Hong Kong
+City: Causeway Bay
+Full Time Employees: 11

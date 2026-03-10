@@ -1,0 +1,10 @@
+Company: Check-Cap Ltd. Ordinary Share
+Ticker: MBAI
+CIK: 0001610590
+Latest SEC XBRL Facts:
+NetIncomeLoss: -6312000 | unit=USD | filed=2024-12-31 | period_end=2024-06-30
+Assets: 18090000 | unit=USD | filed=2024-12-31 | period_end=2024-06-30
+Liabilities: 1827000 | unit=USD | filed=2025-08-27 | period_end=2024-12-31
+StockholdersEquity: 17177000 | unit=USD | filed=2024-12-31 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -6932000 | unit=USD | filed=2024-12-31 | period_end=2024-06-30
+CashAndCashEquivalentsAtCarryingValue: 17824000 | unit=USD | filed=2024-12-31 | period_end=2024-06-30

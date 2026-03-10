@@ -1,0 +1,25 @@
+Company: Nutanix Inc. Class A Common Stock
+Ticker: NTNX
+Market Cap: 10770029568
+Enterprise Value: 10385008640
+Total Revenue: 2685650944
+Revenue Per Share: 9.999
+EBITDA: 294608992
+Gross Margins: 0.87133
+Operating Margins: 0.1164
+Profit Margins: 0.09947
+Free Cashflow: 666604608
+Operating Cashflow: 832206016
+Return On Assets: 0.044439998
+Return On Equity: 
+Total Cash: 1874049024
+Total Debt: 1547140992
+Debt To Equity: 
+Current Ratio: 1.655
+Quick Ratio: 1.483
+Trailing PE: 43.29348
+Forward PE: 18.470171
+Price To Book: -12.72524
+Beta: 0.528
+52 Week High: 83.36
+52 Week Low: 35.39

@@ -1,0 +1,11 @@
+Company: Nexalin Technology Inc. Common Stock
+Ticker: NXL
+CIK: 0001527352
+Latest SEC XBRL Facts:
+Revenues: 129752 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -5845635 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 5125940 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 357524 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 4768416 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3809636 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 590075 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

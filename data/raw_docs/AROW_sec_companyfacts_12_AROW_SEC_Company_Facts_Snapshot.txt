@@ -1,0 +1,10 @@
+Company: Arrow Financial Corporation Common Stock
+Ticker: AROW
+CIK: 0000717538
+Latest SEC XBRL Facts:
+NetIncomeLoss: 29940000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 4587115000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4169428000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 417687000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 35371000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 92295000 | unit=USD | filed=2018-11-08 | period_end=2018-09-30

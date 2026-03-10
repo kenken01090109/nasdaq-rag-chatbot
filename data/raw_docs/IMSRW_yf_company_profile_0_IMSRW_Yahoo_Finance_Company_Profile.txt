@@ -1,0 +1,9 @@
+Company: Terrestrial Energy Inc. Warrant
+Ticker: IMSRW
+Sector: 
+Industry: 
+Country: United States
+City: Charlotte
+Website: https://www.terrestrialenergy.com
+Employees: 
+Business Summary: Terrestrial Energy Inc. produces carbon free nuclear energy in North Carolina and internationally. The company was founded in 2013 and is headquartered in Charlotte, North Carolina.

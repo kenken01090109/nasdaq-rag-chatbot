@@ -1,0 +1,25 @@
+Company: Lucas GC Limited Ordinary Shares
+Ticker: LGCL
+Market Cap: 4789669
+Enterprise Value: 67282176
+Total Revenue: 844780992
+Revenue Per Share: 421.265
+EBITDA: 754500
+Gross Margins: 0.33720002
+Operating Margins: 0.03953
+Profit Margins: 0.00899
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.014140001
+Return On Equity: 0.025239998
+Total Cash: 31507000
+Total Debt: 91103000
+Debt To Equity: 27.885
+Current Ratio: 1.877
+Quick Ratio: 0.596
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.09843186
+Beta: 
+52 Week High: 50.8
+52 Week Low: 1.15

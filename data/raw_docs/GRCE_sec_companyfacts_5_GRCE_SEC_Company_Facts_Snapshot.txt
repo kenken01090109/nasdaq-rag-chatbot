@@ -1,0 +1,11 @@
+Company: Grace Therapeutics Inc. Common Stock
+Ticker: GRCE
+CIK: 0001444192
+Latest SEC XBRL Facts:
+Revenues: 100000000 | unit=USD | filed=2023-06-23 | period_end=2022-03-31
+NetIncomeLoss: -6615000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Assets: 68488000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+Liabilities: 3596000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+StockholdersEquity: 64892000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -7174000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 18672000 | unit=USD | filed=2026-02-12 | period_end=2025-12-31

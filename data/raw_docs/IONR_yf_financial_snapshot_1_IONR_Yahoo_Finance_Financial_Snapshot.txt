@@ -1,0 +1,25 @@
+Company: ioneer Ltd American Depositary Shares
+Ticker: IONR
+Market Cap: 294326016
+Enterprise Value: 10112990208
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -10042000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -18996750
+Operating Cashflow: -6805000
+Return On Assets: -0.02783
+Return On Equity: -0.042600002
+Total Cash: 25059000
+Total Debt: 373000
+Debt To Equity: 0.162
+Current Ratio: 8.49
+Quick Ratio: 8.468
+Trailing PE: 
+Forward PE: 
+Price To Book: 41.704548
+Beta: 0.925
+52 Week High: 8.2
+52 Week Low: 2.3

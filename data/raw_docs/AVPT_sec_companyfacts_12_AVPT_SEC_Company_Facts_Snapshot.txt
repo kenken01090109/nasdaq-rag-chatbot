@@ -1,0 +1,11 @@
+Company: AvePoint Inc. Class A Common Stock
+Ticker: AVPT
+CIK: 0001777921
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 304810000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 19155000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 743515000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 276706000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 212748000 | unit=USD | filed=2024-05-09 | period_end=2024-03-31
+NetCashProvidedByUsedInOperatingActivities: 55598000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 471640000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Celcuity Inc. Common Stock
+Ticker: CELC
+CIK: 0001603454
+Latest SEC XBRL Facts:
+NetIncomeLoss: -126069000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 476004000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 359041000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 116963000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -116881000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 74252000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

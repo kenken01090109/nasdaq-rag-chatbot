@@ -1,0 +1,12 @@
+Company: Syntec Optics Holdings Inc. Class A Common Stock
+Ticker: OPTX
+CIK: 0001866816
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20578717 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -1449389 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 24575924 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 14766231 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 9809693 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 676529 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 325098 | unit=USD | filed=2023-10-31 | period_end=2023-09-30

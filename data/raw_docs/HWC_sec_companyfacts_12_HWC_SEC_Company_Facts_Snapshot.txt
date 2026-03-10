@@ -1,0 +1,9 @@
+Company: Hancock Whitney Corporation Common Stock
+Ticker: HWC
+CIK: 0000750577
+Latest SEC XBRL Facts:
+NetIncomeLoss: 360501000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 35766407000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 31291928000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 4474479000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 388772000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

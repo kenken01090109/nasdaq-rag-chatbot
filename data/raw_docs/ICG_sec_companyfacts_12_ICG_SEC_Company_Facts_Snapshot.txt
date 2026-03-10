@@ -1,0 +1,11 @@
+Company: Intchains Group Limited American Depositary Shares
+Ticker: ICG
+CIK: 0001895597
+Latest SEC XBRL Facts:
+Revenues: 38602000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetIncomeLoss: 7054000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Assets: 149262000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+Liabilities: 10470000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+StockholdersEquity: 138792000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -18943000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 44148000 | unit=USD | filed=2025-04-30 | period_end=2024-12-31

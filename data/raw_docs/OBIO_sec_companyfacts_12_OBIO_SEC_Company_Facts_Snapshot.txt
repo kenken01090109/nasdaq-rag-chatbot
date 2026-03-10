@@ -1,0 +1,11 @@
+Company: Orchestra BioMed Holdings Inc. Ordinary Shares
+Ticker: OBIO
+CIK: 0001814114
+Latest SEC XBRL Facts:
+Revenues: 2565000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -58946000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 104807000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 61068000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 99753000 | unit=USD | filed=2023-05-12 | period_end=2023-03-31
+NetCashProvidedByUsedInOperatingActivities: -46693000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 42012000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

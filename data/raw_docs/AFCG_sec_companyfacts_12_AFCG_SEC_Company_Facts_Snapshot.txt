@@ -1,0 +1,11 @@
+Company: Advanced Flower Capital Inc. Common Stock
+Ticker: AFCG
+CIK: 0001822523
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 19377260 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 16392005 | unit=USD | filed=2024-08-07 | period_end=2024-06-30
+Assets: 288717219 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 119378396 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 169338823 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11796234 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 45120389 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

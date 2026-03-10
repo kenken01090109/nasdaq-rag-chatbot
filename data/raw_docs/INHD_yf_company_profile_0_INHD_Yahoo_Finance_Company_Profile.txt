@@ -1,0 +1,9 @@
+Company: Inno Holdings Inc. Common Stock
+Ticker: INHD
+Sector: Basic Materials
+Industry: Steel
+Country: Hong Kong
+City: Kowloon
+Website: https://www.innoholdings.com
+Employees: 5
+Business Summary: Inno Holdings Inc., together with its subsidiaries, engages in business of recycled consumer electronic devices in the United States. The company sources and purchases pre-owned consumer electronic devices, such as smartphones and tablets from suppliers and sell the electronic devices to wholesalers. It is also involved in remodel buildings using the company's framing steel products; ai tech research and consulting activities. Inno Holdings Inc. was incorporated in 2021 and is based in Kowloon, Hong Kong.

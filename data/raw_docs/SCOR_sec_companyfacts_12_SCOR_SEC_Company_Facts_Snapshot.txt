@@ -1,0 +1,12 @@
+Company: comScore Inc. Common Stock
+Ticker: SCOR
+CIK: 0001158172
+Latest SEC XBRL Facts:
+Revenues: 403549000 | unit=USD | filed=2018-03-23 | period_end=2017-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 264004000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -13032000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 406945000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 225732000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -26257000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 19489000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26705000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

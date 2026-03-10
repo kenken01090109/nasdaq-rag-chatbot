@@ -1,0 +1,9 @@
+Company: Coincheck Group N.V. Ordinary Shares
+Ticker: CNCK
+Sector: Financial Services
+Industry: Capital Markets
+Country: Netherlands
+City: Amsterdam
+Website: https://www.coincheckgroup.com
+Employees: 191
+Business Summary: Coincheck Group N.V. provides cryptocurrency exchange platform in Japan. It operates Coincheck NFT Marketplace that enables non-fungible tokens to be purchased. It trades in various cryptocurrencies, such as Bitcoin and Ethereum. The company was founded in 2012 and is based in Amsterdam, the Netherlands. Coincheck Group N.V. operates as a subsidiary of Monex Group, Inc.

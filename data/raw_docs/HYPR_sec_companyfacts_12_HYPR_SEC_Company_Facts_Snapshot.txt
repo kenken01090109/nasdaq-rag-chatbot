@@ -1,0 +1,11 @@
+Company: Hyperfine Inc. Class A Common Stock
+Ticker: HYPR
+CIK: 0001833769
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 8270000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -29662000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 41511000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 14639000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 26872000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -22741000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 21564000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: IRIDEX Corporation Common Stock
+Ticker: IRIX
+Market Cap: 21315576
+Enterprise Value: 28934174
+Total Revenue: 50647000
+Revenue Per Share: 3.016
+EBITDA: -2821000
+Gross Margins: 0.38178003
+Operating Margins: -0.11302
+Profit Margins: -0.100439996
+Free Cashflow: 621750
+Operating Cashflow: -3942000
+Return On Assets: -0.06533
+Return On Equity: -1.39294
+Total Cash: 5573000
+Total Debt: 4785000
+Debt To Equity: 102.222
+Current Ratio: 1.942
+Quick Ratio: 1.219
+Trailing PE: 
+Forward PE: -17.714285
+Price To Book: -16.103897
+Beta: 0.645
+52 Week High: 1.65
+52 Week Low: 0.78

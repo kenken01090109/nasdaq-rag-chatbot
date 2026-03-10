@@ -1,0 +1,25 @@
+Company: Allient Inc. Common Stock
+Ticker: ALNT
+Market Cap: 1105563136
+Enterprise Value: 1261453184
+Total Revenue: 554478016
+Revenue Per Share: 33.264
+EBITDA: 73432000
+Gross Margins: 0.32771
+Operating Margins: 0.082959995
+Profit Margins: 0.03974
+Free Cashflow: 47075248
+Operating Cashflow: 56675000
+Return On Assets: 0.05205
+Return On Equity: 0.07782
+Total Cash: 40705000
+Total Debt: 196820000
+Debt To Equity: 65.29
+Current Ratio: 3.656
+Quick Ratio: 1.868
+Trailing PE: 58.25893
+Forward PE: 20.170015
+Price To Book: 3.6657305
+Beta: 
+52 Week High: 70.0
+52 Week Low: 19.25

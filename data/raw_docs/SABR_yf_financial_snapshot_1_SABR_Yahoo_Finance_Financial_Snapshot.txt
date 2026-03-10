@@ -1,0 +1,25 @@
+Company: Sabre Corporation Common Stock
+Ticker: SABR
+Market Cap: 628312384
+Enterprise Value: 4286059264
+Total Revenue: 2770982912
+Revenue Per Share: 7.074
+EBITDA: 387201984
+Gross Margins: 0.56695
+Operating Margins: 0.11295
+Profit Margins: 0.18933001
+Free Cashflow: 62377500
+Operating Cashflow: -130523000
+Return On Assets: 0.04725
+Return On Equity: 
+Total Cash: 791555008
+Total Debt: 4410881024
+Debt To Equity: 
+Current Ratio: 1.068
+Quick Ratio: 0.927
+Trailing PE: 
+Forward PE: 5.963096
+Price To Book: -0.59751976
+Beta: 1.025
+52 Week High: 3.855
+52 Week Low: 0.81

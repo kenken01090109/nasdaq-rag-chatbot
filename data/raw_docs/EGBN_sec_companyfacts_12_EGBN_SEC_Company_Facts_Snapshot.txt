@@ -1,0 +1,10 @@
+Company: Eagle Bancorp Inc. Common Stock
+Ticker: EGBN
+CIK: 0001050441
+Latest SEC XBRL Facts:
+NetIncomeLoss: -135613000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 10815502000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 9692026000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1123476000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 34411000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 636042000 | unit=USD | filed=2020-08-10 | period_end=2020-06-30

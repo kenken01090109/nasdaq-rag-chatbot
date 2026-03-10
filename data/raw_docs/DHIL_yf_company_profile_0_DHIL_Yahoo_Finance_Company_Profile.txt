@@ -1,0 +1,9 @@
+Company: Diamond Hill Investment Group Inc. Class A Common Stock
+Ticker: DHIL
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Columbus
+Website: https://www.diamond-hill.com
+Employees: 120
+Business Summary: Diamond Hill Investment Group, Inc., through its subsidiary, Diamond Hill Capital Management, Inc., provides investment advisory and fund administration services in the United States. The company offers separately managed accounts; collective investment trusts; and other pooled vehicles, including sub-advised funds and model delivery programs. It also provides fund administration services comprising portfolio and regulatory compliance, treasury and financial oversight, and general business management and governance of the proprietary funds, as well as oversight of back-office service providers, which include the custodian, fund accountant, and transfer agent. Diamond Hill Investment Group, Inc. was incorporated in 1990 and is based in Columbus, Ohio.

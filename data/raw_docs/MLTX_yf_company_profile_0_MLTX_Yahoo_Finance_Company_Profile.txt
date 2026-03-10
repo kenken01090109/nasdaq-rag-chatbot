@@ -1,0 +1,9 @@
+Company: MoonLake Immunotherapeutics Class A Ordinary Shares
+Ticker: MLTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: Switzerland
+City: Zug
+Website: https://www.moonlaketx.com
+Employees: 130
+Business Summary: MoonLake Immunotherapeutics, a clinical-stage biotechnology company, focuses on developing therapies for inflammatory skin and joint diseases. It develops Sonelokimab, a novel tri-specific IL-17A and IL-17F inhibiting Nanobody for the treatment of inflammatory diseases in dermatology and rheumatology, as well as for hidradenitis suppurativa, psoriatic arthritis, axial spondyloarthritis, palmoplantar pustulosis, and psoriasis. The company was founded in 2021 and is headquartered in Zug, Switzerland.

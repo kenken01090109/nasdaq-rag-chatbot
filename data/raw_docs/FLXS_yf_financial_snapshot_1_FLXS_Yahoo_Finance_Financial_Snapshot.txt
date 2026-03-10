@@ -1,0 +1,25 @@
+Company: Flexsteel Industries Inc. Common Stock
+Ticker: FLXS
+Market Cap: 251292464
+Enterprise Value: 275847840
+Total Revenue: 457271008
+Revenue Per Share: 86.294
+EBITDA: 40023000
+Gross Margins: 0.23080999
+Operating Margins: 0.07609
+Profit Margins: 0.04577
+Free Cashflow: 22457250
+Operating Cashflow: 33009000
+Return On Assets: 0.08127
+Return On Equity: 0.12284
+Total Cash: 36771000
+Total Debt: 55874000
+Debt To Equity: 31.238
+Current Ratio: 3.011
+Quick Ratio: 1.255
+Trailing PE: 12.844261
+Forward PE: 11.246411
+Price To Book: 1.405045
+Beta: 0.474
+52 Week High: 59.95
+52 Week Low: 29.38

@@ -1,0 +1,25 @@
+Company: Globavend Holdings Limited Ordinary Shares
+Ticker: GVH
+Market Cap: 2744184
+Enterprise Value: -5643234
+Total Revenue: 23563956
+Revenue Per Share: 55.69
+EBITDA: 1027555
+Gross Margins: 0.10079
+Operating Margins: 0.01715
+Profit Margins: 0.02898
+Free Cashflow: -191277
+Operating Cashflow: 240355
+Return On Assets: 0.062470004
+Return On Equity: 0.089829996
+Total Cash: 7505388
+Total Debt: 30818
+Debt To Equity: 0.307
+Current Ratio: 8.461
+Quick Ratio: 8.107
+Trailing PE: 0.74534166
+Forward PE: 
+Price To Book: 0.182454
+Beta: 3.979
+52 Week High: 364.0
+52 Week Low: 0.879

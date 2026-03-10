@@ -1,0 +1,11 @@
+Company: Femasys Inc. Common Stock
+Ticker: FEMY
+CIK: 0001339005
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1479926 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -14677582 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 16290153 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 11733902 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 4556251 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -14505325 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4569038 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

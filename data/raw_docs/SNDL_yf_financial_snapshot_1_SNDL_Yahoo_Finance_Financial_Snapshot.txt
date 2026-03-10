@@ -1,0 +1,25 @@
+Company: SNDL Inc. Common Shares
+Ticker: SNDL
+Market Cap: 388824992
+Enterprise Value: 307788992
+Total Revenue: 951580992
+Revenue Per Share: 3.665
+EBITDA: -15211000
+Gross Margins: 0.27031
+Operating Margins: -0.03838
+Profit Margins: -0.09698
+Free Cashflow: 65539124
+Operating Cashflow: 69723000
+Return On Assets: -0.0052
+Return On Equity: -0.07952
+Total Cash: 241315008
+Total Debt: 155128992
+Debt To Equity: 14.112
+Current Ratio: 5.038
+Quick Ratio: 3.151
+Trailing PE: 
+Forward PE: 50.333336
+Price To Book: 0.48334453
+Beta: 0.771
+52 Week High: 2.89
+52 Week Low: 1.15

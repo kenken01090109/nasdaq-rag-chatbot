@@ -1,0 +1,9 @@
+Company: Chemomab Therapeutics Ltd. American Depositary Share
+Ticker: CMMB
+Sector: Healthcare
+Industry: Biotechnology
+Country: Israel
+City: Tel Aviv-Yafo
+Website: https://www.chemomab.com
+Employees: 
+Business Summary: Chemomab Therapeutics Ltd., a clinical-stage biotechnology company, focuses on the discovery and development of therapeutics for the treatment of fibrotic and inflammatory diseases in the United States. Its lead product candidate is Nebokitug, a humanized monoclonal antibody attenuates the basic function of CCL24 that has completed phase 2 clinical trial for the treatment of primary sclerosing cholangitis (PSC); and is in phase 2 clinical trial to treat systemic sclerosis (SSc). Chemomab Therapeutics Ltd. was founded in 2011 and is based in Tel Aviv-Yafo, Israel.

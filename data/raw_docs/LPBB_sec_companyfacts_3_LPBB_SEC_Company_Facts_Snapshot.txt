@@ -1,0 +1,9 @@
+Company: Launch Two Acquisition Corp. Class A Ordinary Shares
+Ticker: LPBB
+CIK: 0002023676
+Latest SEC XBRL Facts:
+NetIncomeLoss: 6851780 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 241658082 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11106239 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -10459946 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -435105 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

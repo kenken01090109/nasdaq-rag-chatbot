@@ -1,0 +1,10 @@
+Company: Provident Financial Holdings Inc. Common Stock
+Ticker: PROV
+CIK: 0001010470
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3117000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 1227892000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 1100401000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 127491000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 3715000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 54370000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

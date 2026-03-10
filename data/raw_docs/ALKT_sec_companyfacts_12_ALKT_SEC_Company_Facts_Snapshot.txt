@@ -1,0 +1,12 @@
+Company: Alkami Technology Inc. Common Stock
+Ticker: ALKT
+CIK: 0001529274
+Latest SEC XBRL Facts:
+Revenues: 152159000 | unit=USD | filed=2022-02-25 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 322848000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: -36211000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 835175000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 485059000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 350116000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 26300000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 57316000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

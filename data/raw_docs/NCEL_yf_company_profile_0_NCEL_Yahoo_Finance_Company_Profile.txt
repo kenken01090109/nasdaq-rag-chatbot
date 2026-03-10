@@ -1,0 +1,9 @@
+Company: NewcelX Ltd. Ordinary Shares
+Ticker: NCEL
+Sector: Healthcare
+Industry: Biotechnology
+Country: Switzerland
+City: Zurich
+Website: https://newcelx.com
+Employees: 11
+Business Summary: NewcelX Ltd., a biotechnology company, engages in developing transformative cell-based and small-molecule therapies for neurodegenerative and metabolic diseases. The company was founded in 2008 and is headquartered in Zurich, Switzerland.

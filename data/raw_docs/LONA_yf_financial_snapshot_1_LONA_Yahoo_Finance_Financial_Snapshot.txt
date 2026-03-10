@@ -1,0 +1,25 @@
+Company: LeonaBio Inc. Common Stock
+Ticker: LONA
+Market Cap: 49480344
+Enterprise Value: -3135326
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -38295000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -30363876
+Operating Cashflow: -52345000
+Return On Assets: -0.42212
+Return On Equity: -0.89424
+Total Cash: 25226000
+Total Debt: 912000
+Debt To Equity: 3.405
+Current Ratio: 9.697
+Quick Ratio: 9.051
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7803298
+Beta: 2.757
+52 Week High: 8.36
+52 Week Low: 2.2

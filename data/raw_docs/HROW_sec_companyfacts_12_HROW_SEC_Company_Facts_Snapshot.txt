@@ -1,0 +1,12 @@
+Company: Harrow Inc. Common Stock
+Ticker: HROW
+CIK: 0001360214
+Latest SEC XBRL Facts:
+Revenues: 19249000 | unit=USD | filed=2018-08-06 | period_end=2018-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 183211000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -11765000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 363074000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 316413000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 47016000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 35453000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 74290000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

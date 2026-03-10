@@ -1,0 +1,25 @@
+Company: DouYu International Holdings Limited ADS
+Ticker: DOYU
+Market Cap: 156912464
+Enterprise Value: -1936779008
+Total Revenue: 4036076544
+Revenue Per Share: 133.744
+EBITDA: -93726352
+Gross Margins: 0.10935
+Operating Margins: 0.01327
+Profit Margins: -0.050430004
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.018960001
+Return On Equity: -0.064720005
+Total Cash: 2099234048
+Total Debt: 9750000
+Debt To Equity: 0.487
+Current Ratio: 2.262
+Quick Ratio: 2.04
+Trailing PE: 
+Forward PE: 24.593847
+Price To Book: 0.51524746
+Beta: 0.979
+52 Week High: 9.93
+52 Week Low: 4.28

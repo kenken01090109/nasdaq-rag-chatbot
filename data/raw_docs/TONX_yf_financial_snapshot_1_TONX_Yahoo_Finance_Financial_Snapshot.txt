@@ -1,0 +1,25 @@
+Company: TON Strategy Company Common Stock
+Ticker: TONX
+Market Cap: 162590976
+Enterprise Value: 108876120
+Total Revenue: 7760000
+Revenue Per Share: 0.757
+EBITDA: -30268000
+Gross Margins: 0.74485
+Operating Margins: -6.01496
+Profit Margins: 9.820621
+Free Cashflow: -1028125
+Operating Cashflow: -14641000
+Return On Assets: -0.05667
+Return On Equity: 0.23289
+Total Cash: 53040000
+Total Debt: 247000
+Debt To Equity: 0.039
+Current Ratio: 7.48
+Quick Ratio: 6.994
+Trailing PE: 0.7479452
+Forward PE: 
+Price To Book: 0.25240386
+Beta: 0.708
+52 Week High: 29.77
+52 Week Low: 1.75

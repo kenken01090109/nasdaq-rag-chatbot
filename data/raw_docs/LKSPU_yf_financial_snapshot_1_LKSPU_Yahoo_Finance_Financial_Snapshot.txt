@@ -1,0 +1,25 @@
+Company: Lake Superior Acquisition Corp. Units
+Ticker: LKSPU
+Market Cap: 
+Enterprise Value: 158895760
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -309292
+Operating Cashflow: -444357
+Return On Assets: -0.00385
+Return On Equity: 
+Total Cash: 485927
+Total Debt: 94360
+Debt To Equity: 
+Current Ratio: 4.366
+Quick Ratio: 3.788
+Trailing PE: 
+Forward PE: 
+Price To Book: -38.082706
+Beta: 
+52 Week High: 10.362
+52 Week Low: 10.0

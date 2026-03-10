@@ -1,0 +1,25 @@
+Company: Nyxoah SA Ordinary Shares
+Ticker: NYXH
+Market Cap: 166833776
+Enterprise Value: 139098480
+Total Revenue: 5639000
+Revenue Per Share: 0.151
+EBITDA: -82152000
+Gross Margins: 0.64355004
+Operating Margins: -12.35751
+Profit Margins: 0.0
+Free Cashflow: -43341124
+Operating Cashflow: -67933000
+Return On Assets: -0.43983
+Return On Equity: -1.07568
+Total Cash: 22478000
+Total Debt: 21159000
+Debt To Equity: 41.526
+Current Ratio: 1.703
+Quick Ratio: 1.3
+Trailing PE: 
+Forward PE: -1.418944
+Price To Book: 2.374457
+Beta: 0.62
+52 Week High: 11.87
+52 Week Low: 3.65

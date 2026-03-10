@@ -1,0 +1,25 @@
+Company: DeFi Development Corp. Common Stock
+Ticker: DFDV
+Market Cap: 108510864
+Enterprise Value: 235519392
+Total Revenue: 7526660
+Revenue Per Share: 0.525
+EBITDA: 90433720
+Gross Margins: 0.98274004
+Operating Margins: 16.00951
+Profit Margins: 9.326079
+Free Cashflow: -23553848
+Operating Cashflow: -7220284
+Return On Assets: 0.23143
+Return On Equity: 0.56663
+Total Cash: 10178000
+Total Debt: 131711000
+Debt To Equity: 54.023
+Current Ratio: 2.039
+Quick Ratio: 0.12
+Trailing PE: 1.0139666
+Forward PE: -11.0
+Price To Book: 0.41268763
+Beta: -6.34
+52 Week High: 53.88
+52 Week Low: 0.551429

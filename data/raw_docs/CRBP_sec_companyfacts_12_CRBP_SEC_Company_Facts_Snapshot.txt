@@ -1,0 +1,12 @@
+Company: Corbus Pharmaceuticals Holdings Inc. Common Stock
+Ticker: CRBP
+CIK: 0001595097
+Latest SEC XBRL Facts:
+Revenues: 1885682 | unit=USD | filed=2019-05-09 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2022-11-08 | period_end=2022-09-30
+NetIncomeLoss: -57982000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 109514000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 17367000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 92147000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -48570000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 26983000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

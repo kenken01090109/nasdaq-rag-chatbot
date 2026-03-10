@@ -1,0 +1,12 @@
+Company: Aeries Technology Inc. Warrant
+Ticker: AERTW
+Total Revenue: 69200000
+Revenue Per Share: 1.466
+Gross Margins: 0.24906
+Operating Margins: 0.04422
+EBITDA: 3085000
+Profit Margins: -0.04223
+Free Cashflow: 558000
+Operating Cashflow: 5626000
+Return On Assets: 0.02933
+Return On Equity: 

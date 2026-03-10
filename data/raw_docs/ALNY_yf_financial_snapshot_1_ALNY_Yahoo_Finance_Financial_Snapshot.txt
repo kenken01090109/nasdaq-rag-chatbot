@@ -1,0 +1,25 @@
+Company: Alnylam Pharmaceuticals Inc. Common Stock
+Ticker: ALNY
+Market Cap: 42526937088
+Enterprise Value: 42567356416
+Total Revenue: 3713936896
+Revenue Per Share: 28.35
+EBITDA: 557235968
+Gross Margins: 0.8164
+Operating Margins: 0.12007
+Profit Margins: 0.08448
+Free Cashflow: 128788376
+Operating Cashflow: 524080000
+Return On Assets: 0.0681
+Return On Equity: 0.73283
+Total Cash: 2908484096
+Total Debt: 2968797952
+Debt To Equity: 376.19
+Current Ratio: 2.762
+Quick Ratio: 2.514
+Trailing PE: 137.0342
+Forward PE: 22.05492
+Price To Book: 53.783966
+Beta: 0.38
+52 Week High: 495.55
+52 Week Low: 205.87

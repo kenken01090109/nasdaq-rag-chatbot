@@ -1,0 +1,10 @@
+Company: AIFU Inc. Class A Ordinary Share
+Ticker: AIFU
+Market Cap: 220181520
+Enterprise Value: -480638528
+Trailing PE: 0.16216908
+Forward PE: 3.5166667
+Price To Book: 0.03428812
+Beta: 
+52 Week High: 9.4
+52 Week Low: 1.5

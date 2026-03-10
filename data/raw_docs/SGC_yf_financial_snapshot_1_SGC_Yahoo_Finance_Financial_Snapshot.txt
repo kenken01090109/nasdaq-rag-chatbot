@@ -1,0 +1,25 @@
+Company: Superior Group of Companies Inc. Common Stock
+Ticker: SGC
+Market Cap: 163041360
+Enterprise Value: 247797776
+Total Revenue: 566184000
+Revenue Per Share: 37.831
+EBITDA: 25839000
+Gross Margins: 0.37596
+Operating Margins: 0.03748
+Profit Margins: 0.012359999
+Free Cashflow: 14667125
+Operating Cashflow: 19709000
+Return On Assets: 0.02014
+Return On Equity: 0.03574
+Total Cash: 23691000
+Total Debt: 105959000
+Debt To Equity: 54.953
+Current Ratio: 2.665
+Quick Ratio: 1.639
+Trailing PE: 28.36111
+Forward PE: 12.252049
+Price To Book: 0.8329934
+Beta: 1.449
+52 Week High: 14.46
+52 Week Low: 8.3

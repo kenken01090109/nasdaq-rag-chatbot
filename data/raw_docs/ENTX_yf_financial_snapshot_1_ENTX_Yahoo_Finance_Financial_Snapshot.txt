@@ -1,0 +1,25 @@
+Company: Entera Bio Ltd. Ordinary Shares
+Ticker: ENTX
+Market Cap: 57321552
+Enterprise Value: 48041408
+Total Revenue: 124000
+Revenue Per Share: 0.003
+EBITDA: -10790000
+Gross Margins: 0.0
+Operating Margins: -87.29032
+Profit Margins: 0.0
+Free Cashflow: -11764000
+Operating Cashflow: -7004000
+Return On Assets: -0.53801
+Return On Equity: -0.99428004
+Total Cash: 8574000
+Total Debt: 211000
+Debt To Equity: 1.385
+Current Ratio: 10.826
+Quick Ratio: 5.458
+Trailing PE: 
+Forward PE: -2.2727273
+Price To Book: 3.742515
+Beta: 1.482
+52 Week High: 3.22
+52 Week Low: 1.0

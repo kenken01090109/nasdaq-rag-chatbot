@@ -1,0 +1,11 @@
+Company: Odyssey Marine Exploration Inc. Common Stock
+Ticker: OMEX
+CIK: 0000798528
+Latest SEC XBRL Facts:
+Revenues: 9327 | unit=USD | filed=2024-05-17 | period_end=2023-12-31
+NetIncomeLoss: -25679139 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 17739022 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 101038793 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -45404850 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6028165 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5816220 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

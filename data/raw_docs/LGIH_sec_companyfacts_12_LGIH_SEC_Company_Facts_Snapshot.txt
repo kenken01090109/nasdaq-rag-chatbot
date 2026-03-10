@@ -1,0 +1,11 @@
+Company: LGI Homes Inc. Common Stock
+Ticker: LGIH
+CIK: 0001580670
+Latest SEC XBRL Facts:
+Revenues: 1231537000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 55231000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 4039831000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 1960457000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 25210977 | unit=USD | filed=2014-03-31 | period_end=2012-12-31
+NetCashProvidedByUsedInOperatingActivities: -226749000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 53197000 | unit=USD | filed=2025-02-26 | period_end=2024-12-31

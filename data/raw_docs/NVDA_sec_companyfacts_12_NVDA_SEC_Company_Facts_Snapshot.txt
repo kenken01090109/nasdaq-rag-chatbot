@@ -1,0 +1,12 @@
+Company: NVIDIA Corporation Common Stock
+Ticker: NVDA
+CIK: 0001045810
+Latest SEC XBRL Facts:
+Revenues: 147811000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26
+RevenueFromContractWithCustomerExcludingAssessedTax: 26914000000 | unit=USD | filed=2022-03-18 | period_end=2022-01-30
+NetIncomeLoss: 77107000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26
+Assets: 161148000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26
+Liabilities: 42251000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26
+StockholdersEquity: 118897000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26
+NetCashProvidedByUsedInOperatingActivities: 66530000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26
+CashAndCashEquivalentsAtCarryingValue: 11486000000 | unit=USD | filed=2025-11-19 | period_end=2025-10-26

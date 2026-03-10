@@ -1,0 +1,25 @@
+Company: C.H. Robinson Worldwide Inc. Common Stock
+Ticker: CHRW
+Market Cap: 21309046784
+Enterprise Value: 23156830208
+Total Revenue: 16232763392
+Revenue Per Share: 135.001
+EBITDA: 874992000
+Gross Margins: 0.08550999
+Operating Margins: 0.05071
+Profit Margins: 0.036170002
+Free Cashflow: 742472640
+Operating Cashflow: 914518976
+Return On Assets: 0.10045
+Return On Equity: 0.32911
+Total Cash: 160871008
+Total Debt: 1395385984
+Debt To Equity: 75.604
+Current Ratio: 1.528
+Quick Ratio: 1.462
+Trailing PE: 37.269707
+Forward PE: 25.09885
+Price To Book: 11.527207
+Beta: 0.903
+52 Week High: 203.34
+52 Week Low: 84.68

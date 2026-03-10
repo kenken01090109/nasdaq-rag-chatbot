@@ -1,0 +1,25 @@
+Company: Instil Bio Inc. Common Stock
+Ticker: TIL
+Market Cap: 60156128
+Enterprise Value: 63235896
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -56521000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -136098256
+Operating Cashflow: -40102000
+Return On Assets: -0.14913
+Return On Equity: -0.50598
+Total Cash: 79668000
+Total Debt: 84918000
+Debt To Equity: 70.517
+Current Ratio: 34.45
+Quick Ratio: 13.984
+Trailing PE: 
+Forward PE: -0.6058743
+Price To Book: 0.49954942
+Beta: 2.052
+52 Week High: 42.79
+52 Week Low: 5.67

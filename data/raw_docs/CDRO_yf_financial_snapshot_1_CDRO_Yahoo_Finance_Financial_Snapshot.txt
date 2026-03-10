@@ -1,0 +1,25 @@
+Company: Codere Online Luxembourg S.A. Ordinary Shares
+Ticker: CDRO
+Market Cap: 366952160
+Enterprise Value: 324984576
+Total Revenue: 203926000
+Revenue Per Share: 4.48
+EBITDA: 5836000
+Gross Margins: 0.91154
+Operating Margins: 0.02855
+Profit Margins: 0.00497
+Free Cashflow: 10624500
+Operating Cashflow: 13851000
+Return On Assets: 0.05046
+Return On Equity: 0.051409997
+Total Cash: 45125000
+Total Debt: 3696000
+Debt To Equity: 17.979
+Current Ratio: 1.403
+Quick Ratio: 1.21
+Trailing PE: 402.0
+Forward PE: 23.440233
+Price To Book: 15.461463
+Beta: 0.438
+52 Week High: 8.75
+52 Week Low: 5.18

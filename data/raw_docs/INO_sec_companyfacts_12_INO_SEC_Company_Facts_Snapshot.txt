@@ -1,0 +1,12 @@
+Company: Inovio Pharmaceuticals Inc. Common Stock
+Ticker: INO
+CIK: 0001055726
+Latest SEC XBRL Facts:
+Revenues: 1529644 | unit=USD | filed=2018-05-09 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 65343 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -88710781 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 69385656 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 77105633 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: -7719977 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -69258881 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36567420 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

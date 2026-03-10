@@ -1,0 +1,10 @@
+Company: CNB Financial Corporation Depositary Shares each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock
+Ticker: CCNEP
+CIK: 0000736772
+Latest SEC XBRL Facts:
+NetIncomeLoss: 32482000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 8254319000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 7410134000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 844185000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38879000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 438088000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

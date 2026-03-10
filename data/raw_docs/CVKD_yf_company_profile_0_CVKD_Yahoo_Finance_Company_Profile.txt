@@ -1,0 +1,9 @@
+Company: Cadrenal Therapeutics Inc. Common Stock
+Ticker: CVKD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Ponte Vedra
+Website: https://www.cadrenal.com
+Employees: 4
+Business Summary: Cadrenal Therapeutics, Inc. operates as a late-stage biopharmaceutical company focuses on developing therapeutics for rare cardiovascular conditions. The company is developing Tecarfarin, a novel oral and reversible anticoagulant to prevent heart attacks, strokes, and deaths due to blood clots in patients with rare cardiovascular conditions requiring chronic anticoagulation, such as patients with left ventricular assist devices, end-stage kidney disease, atrial fibrillation, and thrombotic anti-phospholipid syndrome. It has a collaboration agreement with Abbott Global Enterprises Limited to evaluate the efficacy and safety of Tecarfarin in patients with a left-ventricular assist device. The company was incorporated in 2022 and is headquartered in Ponte Vedra, Florida.

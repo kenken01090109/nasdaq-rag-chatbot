@@ -1,0 +1,9 @@
+Company: Sprott Focus Trust Inc. Common Stock
+Ticker: FUND
+Sector: Financial Services
+Industry: Asset Management
+Country: Canada
+City: Toronto
+Website: https://sprottfocustrust.com
+Employees: 
+Business Summary: Sprott Focus Trust, Inc. is a closed-ended equity mutual fund launched and managed by Sprott Asset Management, LP. The fund is co-managed by Sprott Asset Management USA Inc. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in value stocks of companies across all market capitalizations. The fund benchmarks the performance of its portfolio against the Russell 3000 Index. It was formerly known as Royce Focus Trust, Inc. Sprott Focus Trust, Inc. was formed on March 2, 1988 and is domiciled in the United States.

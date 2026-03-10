@@ -1,0 +1,10 @@
+Company: ACNB Corporation Common Stock
+Ticker: ACNB
+Market Cap: 508128864
+Enterprise Value: 766433216
+Trailing PE: 13.591667
+Forward PE: 9.464216
+Price To Book: 1.2084465
+Beta: 0.852
+52 Week High: 53.89
+52 Week Low: 35.7

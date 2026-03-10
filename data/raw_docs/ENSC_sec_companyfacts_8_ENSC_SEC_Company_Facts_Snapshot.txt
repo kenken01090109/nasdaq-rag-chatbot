@@ -1,0 +1,11 @@
+Company: Ensysce Biosciences Inc. Common Stock
+Ticker: ENSC
+CIK: 0001716947
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3184314 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -19046801 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+Assets: 3179464 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2304750 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 1203363 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6280459 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1673218 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Lakeland Financial Corporation Common Stock
+Ticker: LKFN
+CIK: 0000721994
+Latest SEC XBRL Facts:
+NetIncomeLoss: 73455000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 6895028000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 6147525000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 747414000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 81164000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 192836000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

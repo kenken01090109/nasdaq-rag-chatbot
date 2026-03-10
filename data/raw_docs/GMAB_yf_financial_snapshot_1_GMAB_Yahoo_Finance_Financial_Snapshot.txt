@@ -1,0 +1,25 @@
+Company: Genmab A/S ADS
+Ticker: GMAB
+Market Cap: 16661348352
+Enterprise Value: 5404290048
+Total Revenue: 3720000000
+Revenue Per Share: 5.9854
+EBITDA: 1290000000
+Gross Margins: 0.93601996
+Operating Margins: 0.22968
+Profit Margins: 0.25887
+Free Cashflow: 1068124992
+Operating Cashflow: 1186000000
+Return On Assets: 0.08101
+Return On Equity: 0.17535
+Total Cash: 1715000064
+Total Debt: 5425999872
+Debt To Equity: 92.8
+Current Ratio: 2.022
+Quick Ratio: 2.009
+Trailing PE: 17.571428
+Forward PE: 15.141172
+Price To Book: 0.2851723
+Beta: 0.751
+52 Week High: 35.43
+52 Week Low: 17.235

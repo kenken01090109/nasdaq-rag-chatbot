@@ -1,0 +1,9 @@
+Company: Shattuck Labs Inc. Common Stock
+Ticker: STTK
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Austin
+Website: https://www.shattucklabs.com
+Employees: 44
+Business Summary: Shattuck Labs, Inc., a biotechnology company, develops antibodies for the treatment of inflammatory and immune-mediated diseases. The company's lead product candidate includes SL-325, a DR3 blocking monoclonal antibody, which activates immune responses through binding a single receptor, DR3; and SL-425. It also develops multiple preclinical DR3-based bispecific antibodies for the treatment of inflammatory bowel disease; and a series of bispecific antibodies targeting DR3 and other clinically validated targets. In addition, the company is involved in the advancement of its lead TRIM7 inhibitors through preclinical development as future internal pipeline candidates in oncology. Shattuck Labs, Inc. was incorporated in 2016 and is headquartered in Austin, Texas.

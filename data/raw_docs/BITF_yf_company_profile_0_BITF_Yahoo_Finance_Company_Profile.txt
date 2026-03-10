@@ -1,0 +1,9 @@
+Company: Bitfarms Ltd. Common Stock
+Ticker: BITF
+Sector: Financial Services
+Industry: Capital Markets
+Country: Canada
+City: Toronto
+Website: https://www.bitfarms.com
+Employees: 
+Business Summary: Bitfarms Ltd. operates integrated bitcoin data centers in Canada, the United States, Paraguay, and Argentina. It primarily owns and operates data centers housing computers to validate transactions on the bitcoin blockchain, as well as sells computational power used for hashing calculations for cryptocurrency mining in multiple jurisdictions. The company also provides electrician services to commercial and residential customers in Quebec, Canada. It also undertakes hosting of third-party mining hardware. The company was formerly known as Bitfarms Technologies Ltd and changed its name to Bitfarms Ltd. in October 2018. The company was founded in 2017 and is based in Toronto, Canada.

@@ -1,0 +1,12 @@
+Company: Grid Dynamics Holdings Inc. Class A Common Stock
+Ticker: GDYN
+CIK: 0001743725
+Latest SEC XBRL Facts:
+Revenues: 86810000 | unit=USD | filed=2021-08-05 | period_end=2021-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 305673000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: 9362000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 613169000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 75448000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 537721000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 30704000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 338553000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

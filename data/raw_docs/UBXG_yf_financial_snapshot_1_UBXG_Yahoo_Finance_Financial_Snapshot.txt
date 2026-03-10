@@ -1,0 +1,25 @@
+Company: U-BX Technology Ltd. Class A Ordinary Shares
+Ticker: UBXG
+Market Cap: 52694412
+Enterprise Value: 43120280
+Total Revenue: 29674534
+Revenue Per Share: 4.068
+EBITDA: -3093938
+Gross Margins: 0.00848
+Operating Margins: -0.22079
+Profit Margins: -0.09161
+Free Cashflow: 1385669
+Operating Cashflow: -2821147
+Return On Assets: -0.10277
+Return On Equity: -0.16529
+Total Cash: 11182783
+Total Debt: 397291
+Debt To Equity: 2.089
+Current Ratio: 10.24
+Quick Ratio: 7.76
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.9016393
+Beta: 
+52 Week High: 4.64
+52 Week Low: 1.62

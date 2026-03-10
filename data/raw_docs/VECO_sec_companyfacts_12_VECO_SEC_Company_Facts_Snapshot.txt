@@ -1,0 +1,10 @@
+Company: Veeco Instruments Inc. Common Stock
+Ticker: VECO
+CIK: 0000103145
+Latest SEC XBRL Facts:
+NetIncomeLoss: 34276000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 1289911000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 413941000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 875970000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 44567000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 193192000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

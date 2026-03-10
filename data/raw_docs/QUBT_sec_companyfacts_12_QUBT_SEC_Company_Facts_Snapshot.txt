@@ -1,0 +1,11 @@
+Company: Quantum Computing Inc. Common Stock
+Ticker: QUBT
+CIK: 0001758009
+Latest SEC XBRL Facts:
+Revenues: 484000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -17118000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 898170000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 20320000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 877850000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -19278000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 352436000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

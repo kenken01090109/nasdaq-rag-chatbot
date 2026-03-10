@@ -1,0 +1,10 @@
+Company: ParaZero Technologies Ltd. Ordinary Shares
+Ticker: PRZO
+CIK: 0001916241
+Latest SEC XBRL Facts:
+Revenues: 357979 | unit=USD | filed=2025-08-28 | period_end=2025-06-30
+NetIncomeLoss: -2295955 | unit=USD | filed=2025-08-28 | period_end=2025-06-30
+Assets: 6332265 | unit=USD | filed=2025-08-28 | period_end=2025-06-30
+StockholdersEquity: 3529926 | unit=USD | filed=2025-08-28 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -3069751 | unit=USD | filed=2025-08-28 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2365582 | unit=USD | filed=2025-08-28 | period_end=2025-06-30

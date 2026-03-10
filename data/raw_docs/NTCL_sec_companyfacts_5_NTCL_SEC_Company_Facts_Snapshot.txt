@@ -1,0 +1,11 @@
+Company: NETCLASS TECHNOLOGY INC Class A Ordinary Shares
+Ticker: NTCL
+CIK: 0001927578
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3654410 | unit=USD | filed=2025-12-22 | period_end=2025-03-31
+NetIncomeLoss: -10824582 | unit=USD | filed=2026-02-02 | period_end=2025-09-30
+Assets: 11315632 | unit=USD | filed=2025-12-22 | period_end=2025-03-31
+Liabilities: 4612733 | unit=USD | filed=2025-12-22 | period_end=2025-03-31
+StockholdersEquity: 6535193 | unit=USD | filed=2025-12-22 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: -7020541 | unit=USD | filed=2025-12-22 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 1805463 | unit=USD | filed=2025-12-22 | period_end=2025-03-31

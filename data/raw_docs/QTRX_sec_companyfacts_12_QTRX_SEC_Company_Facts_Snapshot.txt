@@ -1,0 +1,12 @@
+Company: Quanterix Corporation Common Stock
+Ticker: QTRX
+CIK: 0001503274
+Latest SEC XBRL Facts:
+Revenues: 26755000 | unit=USD | filed=2018-11-07 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 95042000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -84033000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 444140000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 129606000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 314534000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -60792000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 38298000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

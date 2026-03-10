@@ -1,0 +1,10 @@
+Company: Arch Capital Group Ltd. Depositary Shares each Representing a 1/1000th Interest in a 4.550% Non-Cumulative Preferred Share Series G
+Ticker: ACGLN
+Market Cap: 
+Enterprise Value: 6213611008
+Trailing PE: 3.7177575
+Forward PE: 
+Price To Book: 0.26678497
+Beta: 0.365
+52 Week High: 18.54
+52 Week Low: 16.44

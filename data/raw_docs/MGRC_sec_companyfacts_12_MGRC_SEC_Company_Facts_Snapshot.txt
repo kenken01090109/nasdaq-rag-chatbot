@@ -1,0 +1,12 @@
+Company: McGrath RentCorp Common Stock
+Ticker: MGRC
+CIK: 0000752714
+Latest SEC XBRL Facts:
+Revenues: 687475000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 101217000 | unit=USD | filed=2022-10-27 | period_end=2022-09-30
+NetIncomeLoss: 106479000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Assets: 2350871000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+Liabilities: 1154665000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+StockholdersEquity: 1196206000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 174765000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 7256000 | unit=USD | filed=2025-10-23 | period_end=2025-09-30

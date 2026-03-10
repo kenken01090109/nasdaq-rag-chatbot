@@ -1,0 +1,11 @@
+Company: Marvell Technology Inc. Common Stock
+Ticker: MRVL
+CIK: 0001835632
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5975900000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+NetIncomeLoss: 2274000000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+Assets: 21579000000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+Liabilities: 7522400000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+StockholdersEquity: 14056600000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+NetCashProvidedByUsedInOperatingActivities: 1376800000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01
+CashAndCashEquivalentsAtCarryingValue: 2714500000 | unit=USD | filed=2025-12-03 | period_end=2025-11-01

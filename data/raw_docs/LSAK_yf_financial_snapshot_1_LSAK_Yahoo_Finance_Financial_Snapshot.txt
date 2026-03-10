@@ -1,0 +1,25 @@
+Company: Lesaka Technologies Inc. Common Stock
+Ticker: LSAK
+Market Cap: 391842624
+Enterprise Value: 568061120
+Total Revenue: 680099968
+Revenue Per Share: 8.65
+EBITDA: 53805000
+Gross Margins: 0.29728
+Operating Margins: 0.01229
+Profit Margins: -0.0753
+Free Cashflow: 422750
+Operating Cashflow: 2187000
+Return On Assets: 0.0075499997
+Return On Equity: -0.26565
+Total Cash: 69474000
+Total Debt: 250980000
+Debt To Equity: 133.715
+Current Ratio: 1.567
+Quick Ratio: 0.702
+Trailing PE: 
+Forward PE: 12.944444
+Price To Book: 2.0393872
+Beta: 0.452
+52 Week High: 5.1
+52 Week Low: 3.39

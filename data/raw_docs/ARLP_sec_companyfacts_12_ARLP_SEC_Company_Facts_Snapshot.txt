@@ -1,0 +1,11 @@
+Company: Alliance Resource Partners L.P. Common Units representing Limited Partners Interests
+Ticker: ARLP
+CIK: 0001086600
+Latest SEC XBRL Facts:
+Revenues: 1471017000 | unit=USD | filed=2018-11-05 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1659298000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 228497000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2908341000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 1077284000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 507260000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 94481000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

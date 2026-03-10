@@ -1,0 +1,12 @@
+Company: Super Micro Computer Inc. Common Stock
+Ticker: SMCI
+CIK: 0001375365
+Latest SEC XBRL Facts:
+Revenues: 1806761000 | unit=USD | filed=2019-05-17 | period_end=2017-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 17700281000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetIncomeLoss: 568849000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Assets: 28001610000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+Liabilities: 21009433000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+StockholdersEquity: 6992015000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -941421000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 4091083000 | unit=USD | filed=2026-02-06 | period_end=2025-12-31

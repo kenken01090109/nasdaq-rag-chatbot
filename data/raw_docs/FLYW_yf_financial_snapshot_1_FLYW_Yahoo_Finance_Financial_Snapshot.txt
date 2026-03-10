@@ -1,0 +1,25 @@
+Company: Flywire Corporation Voting Common Stock
+Ticker: FLYW
+Market Cap: 1621845632
+Enterprise Value: 1258329088
+Total Revenue: 623025024
+Revenue Per Share: 5.091
+EBITDA: 41942000
+Gross Margins: 0.6142
+Operating Margins: -0.01043
+Profit Margins: 0.021659998
+Free Cashflow: 117499752
+Operating Cashflow: 100175000
+Return On Assets: 0.010880001
+Return On Equity: 0.01636
+Total Cash: 354995008
+Total Debt: 3731000
+Debt To Equity: 0.447
+Current Ratio: 1.499
+Quick Ratio: 1.408
+Trailing PE: 120.72727
+Forward PE: 10.962432
+Price To Book: 1.9392523
+Beta: 1.279
+52 Week High: 15.25
+52 Week Low: 8.2

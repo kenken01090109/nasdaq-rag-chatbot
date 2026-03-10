@@ -1,0 +1,9 @@
+Company: Sotherly Hotels Inc. 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock
+Ticker: SOHON
+Sector: Real Estate
+Industry: REIT - Hotel & Motel
+Country: United States
+City: Memphis
+Website: https://www.sotherlyhotels.com
+Employees: 9
+Business Summary: Sotherly Hotels Inc. is a self-managed and self-administered lodging real estate investment trust, or REIT, that was formed in August 2004 to own, acquire, renovate and reposition full-service, primarily upscale and upper-upscale hotel properties located in primary markets in the mid-Atlantic and southern United States. Sotherly owns ten full-service, primarily upscale and upper-upscale hotels located in seven states with an aggregate of 2,786 hotel rooms, and interests in two condominium hotels and their associated rental programs.

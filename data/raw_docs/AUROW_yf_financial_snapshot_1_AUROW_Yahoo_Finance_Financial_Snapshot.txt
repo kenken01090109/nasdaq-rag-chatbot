@@ -1,0 +1,25 @@
+Company: Aurora Innovation Inc. Warrant
+Ticker: AUROW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 3000000
+Revenue Per Share: 0.002
+EBITDA: -871000000
+Gross Margins: 0.0
+Operating Margins: -238.0
+Profit Margins: 0.0
+Free Cashflow: -375124992
+Operating Cashflow: -581000000
+Return On Assets: -0.25134
+Return On Equity: -0.40647998
+Total Cash: 1276000000
+Total Debt: 84000000
+Debt To Equity: 3.925
+Current Ratio: 11.865
+Quick Ratio: 11.495
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.25789475
+Beta: 2.455
+52 Week High: 0.2928
+52 Week Low: 0.2548

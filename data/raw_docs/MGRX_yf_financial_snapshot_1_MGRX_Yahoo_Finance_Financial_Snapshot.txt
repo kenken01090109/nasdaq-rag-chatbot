@@ -1,0 +1,25 @@
+Company: Mangoceuticals Inc. Common Stock
+Ticker: MGRX
+Market Cap: 6075721
+Enterprise Value: 4802489
+Total Revenue: 466908
+Revenue Per Share: 0.065
+EBITDA: -16491894
+Gross Margins: 0.60615003
+Operating Margins: -89.13903
+Profit Margins: 0.0
+Free Cashflow: 689684
+Operating Cashflow: -5902069
+Return On Assets: -0.73785
+Return On Equity: -1.36163
+Total Cash: 481281
+Total Debt: 112167
+Debt To Equity: 0.713
+Current Ratio: 0.744
+Quick Ratio: 0.598
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.32921445
+Beta: 2.334
+52 Week High: 5.33
+52 Week Low: 0.3351

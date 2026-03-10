@@ -1,0 +1,25 @@
+Company: Richmond Mutual Bancorporation Inc. Common Stock
+Ticker: RMBI
+Market Cap: 132082728
+Enterprise Value: 349218336
+Total Revenue: 46756000
+Revenue Per Share: 4.835
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.32498002
+Profit Margins: 0.2476
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00764
+Return On Equity: 0.08309
+Total Cash: 35200000
+Total Debt: 252000000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.623933
+Forward PE: 
+Price To Book: 0.9007219
+Beta: 0.254
+52 Week High: 15.24
+52 Week Low: 11.369

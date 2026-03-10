@@ -1,0 +1,12 @@
+Company: Distribution Solutions Group Inc. Common Stock
+Ticker: DSGR
+CIK: 0000703604
+Latest SEC XBRL Facts:
+Revenues: 1498424000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 478029000 | unit=USD | filed=2025-05-01 | period_end=2025-03-31
+NetIncomeLoss: 14716000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 1766526000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 1112652000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 653874000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 66906000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 69214000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

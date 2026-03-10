@@ -1,0 +1,25 @@
+Company: Silicon Laboratories Inc. Common Stock
+Ticker: SLAB
+Market Cap: 6680166400
+Enterprise Value: 6278626816
+Total Revenue: 784764032
+Revenue Per Share: 23.983
+EBITDA: -32456000
+Gross Margins: 0.58232
+Operating Margins: -0.015620001
+Profit Margins: -0.08271
+Free Cashflow: 78118496
+Operating Cashflow: 95708000
+Return On Assets: -0.035380002
+Return On Equity: -0.059699997
+Total Cash: 443622016
+Total Debt: 23956000
+Debt To Equity: 2.189
+Current Ratio: 4.688
+Quick Ratio: 3.699
+Trailing PE: 
+Forward PE: 48.90819
+Price To Book: 6.103767
+Beta: 1.501
+52 Week High: 208.84
+52 Week Low: 82.82

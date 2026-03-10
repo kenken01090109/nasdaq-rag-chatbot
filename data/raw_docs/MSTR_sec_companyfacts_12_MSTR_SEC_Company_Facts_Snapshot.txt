@@ -1,0 +1,12 @@
+Company: Strategy Inc Common Stock Class A
+Ticker: MSTR
+CIK: 0001050446
+Latest SEC XBRL Facts:
+Revenues: 354245000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 354245000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: 8588500000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 73619038000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 15501990000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 52330718000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -45612000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 54285000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

@@ -1,0 +1,11 @@
+Company: Canaan Inc. American Depositary Shares
+Ticker: CAN
+CIK: 0001780652
+Latest SEC XBRL Facts:
+Revenues: 269324000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetIncomeLoss: -249752000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Assets: 463011000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+Liabilities: 196757000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+StockholdersEquity: 266254000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -199262000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 96488000 | unit=USD | filed=2025-04-18 | period_end=2024-12-31

@@ -1,0 +1,10 @@
+Company: FACT II Acquisition Corp. Class A Ordinary Shares
+Ticker: FACT
+CIK: 0002028935
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4346140 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 183190923 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 8600946 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -7472529 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -440295 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 11593 | unit=USD | filed=2025-01-07 | period_end=2024-09-30

@@ -1,0 +1,10 @@
+Company: U.S. GoldMining Inc. Common stock
+Ticker: USGO
+CIK: 0001947244
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5011239 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 4711217 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 860809 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 3850408 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4696634 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3289803 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

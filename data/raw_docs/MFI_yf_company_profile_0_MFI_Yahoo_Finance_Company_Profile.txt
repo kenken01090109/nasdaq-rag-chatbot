@@ -1,0 +1,9 @@
+Company: mF International Limited Class A Ordinary Shares
+Ticker: MFI
+Sector: Technology
+Industry: Software - Application
+Country: Hong Kong
+City: Wan Chai
+Website: https://www.m-finance.com
+Employees: 34
+Business Summary: mF International Limited, a holding company, engages in the development and provision of financial trading solutions in Hong Kong, mainland China, and Southeast Asia. It offers real-time mission critical forex, bullion/commodities trading platform solutions, financial value-added services, mobile applications, and financial information for brokers and institutional clients; and various services, including mF4 trading platform, trader pro, bridge and plugins, customer relationship management system, electronic communication network system, liquidity solutions, cross-platform Broker+ solution, social trading applications, and other value-added services. The company also provides liquidity providers related services and other financial value-added services; and engages in the business of algorithm trading research and development, and investment activities. It serves financial institutions, including brokers, investment banks, institutional clients, liquidity providers, and financial services providers. The company was founded in 2002 and is headquartered in Wan Chai, Hong Kong. mF International Limited operates as a subsidiary of Gaderway Investments Limited.

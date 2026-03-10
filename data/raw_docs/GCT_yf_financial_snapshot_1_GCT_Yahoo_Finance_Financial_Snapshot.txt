@@ -1,0 +1,25 @@
+Company: GigaCloud Technology Inc Class A Ordinary Shares
+Ticker: GCT
+Market Cap: 1584546304
+Enterprise Value: 1652330880
+Total Revenue: 1289896960
+Revenue Per Share: 33.804
+EBITDA: 153404000
+Gross Margins: 0.23309
+Operating Margins: 0.11098
+Profit Margins: 0.1065
+Free Cashflow: 132408000
+Operating Cashflow: 190660000
+Return On Assets: 0.079780005
+Return On Equity: 0.30835
+Total Cash: 416096000
+Total Debt: 469680992
+Debt To Equity: 96.682
+Current Ratio: 2.018
+Quick Ratio: 1.442
+Trailing PE: 11.910863
+Forward PE: 8.83471
+Price To Book: 3.24924
+Beta: 2.235
+52 Week High: 48.0
+52 Week Low: 11.17

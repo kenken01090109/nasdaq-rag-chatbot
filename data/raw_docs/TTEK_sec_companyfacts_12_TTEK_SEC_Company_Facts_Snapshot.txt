@@ -1,0 +1,11 @@
+Company: Tetra Tech Inc. Common Stock
+Ticker: TTEK
+CIK: 0000831641
+Latest SEC XBRL Facts:
+Revenues: 841502000 | unit=USD | filed=2019-11-29 | period_end=2019-09-29
+RevenueFromContractWithCustomerExcludingAssessedTax: 1210663000 | unit=USD | filed=2026-01-30 | period_end=2025-12-28
+NetIncomeLoss: 119979000 | unit=USD | filed=2025-08-01 | period_end=2025-06-29
+Assets: 4264727000 | unit=USD | filed=2026-01-30 | period_end=2025-12-28
+StockholdersEquity: 1846092000 | unit=USD | filed=2026-01-30 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 72267000 | unit=USD | filed=2026-01-30 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 269448000 | unit=USD | filed=2026-01-30 | period_end=2025-12-28

@@ -1,0 +1,9 @@
+Company: Psyence Biomedical Ltd. Common Shares
+Ticker: PBM
+Sector: Healthcare
+Industry: Biotechnology
+Country: Canada
+City: Toronto
+Website: https://www.psyencebiomed.com
+Employees: 12
+Business Summary: Psyence Biomedical Ltd. engages in the development of botanical psilocybin-based psychedelic medicines. It also evaluates natural psilocybin for the treatment of adjustment disorder in patients with an incurable cancer diagnosis in a palliative care context. The company's lead product candidate is PEX010, which is in Phase IIb clinical study, a capsule containing naturally sourced psilocybin for treatment of anxiety and depression, including associated ailments, such as post-traumatic stress disorder PTSD, stress, grief, and adjustment disorder in the context of palliative care. It has a partnership with iNGENu Pty Ltd to conduct a Phase IIb clinical trial of PEX010 in psilocybin-assisted psychotherapy for the treatment of AjD due to incurable cancer. The company has a strategic collaboration with PsyLabs to produce Ibogaine. The company is based in Toronto, Canada. Psyence Biomedical Ltd. operates as a subsidiary of Psyence Group Inc.

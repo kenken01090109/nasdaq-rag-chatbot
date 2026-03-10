@@ -1,0 +1,10 @@
+Company: Hennessy Capital Investment Corp. VII Unit
+Ticker: HVIIU
+CIK: 0001846416
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3730312 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 196905457 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 8954879 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -7256038 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1149529 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1622799 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

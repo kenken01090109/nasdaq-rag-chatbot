@@ -1,0 +1,9 @@
+Company: Hoyne Bancorp Inc. Common Stock
+Ticker: HYNE
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Chicago
+Website: https://www.hoyne.com
+Employees: 
+Business Summary: Hoyne Bancorp, Inc. operates as the bank holding company for Hoyne Savings Bank that provides various financial products and services. It offers NOW, money market, savings, and certificates of deposit accounts. The company also provides commercial real estate loans, including commercial construction; commercial and industrial loans; one to four residential properties; and home equity loans and lines of credit and other consumer loans. Hoyne Bancorp, Inc. was founded in 1887 and is headquartered in Chicago, Illinois.

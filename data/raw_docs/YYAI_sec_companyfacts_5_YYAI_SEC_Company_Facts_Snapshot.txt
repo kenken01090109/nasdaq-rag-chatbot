@@ -1,0 +1,12 @@
+Company: AiRWA Inc. Common Stock
+Ticker: YYAI
+CIK: 0001674440
+Latest SEC XBRL Facts:
+Revenues: 15000000 | unit=USD | filed=2024-07-25 | period_end=2023-03-07
+RevenueFromContractWithCustomerExcludingAssessedTax: 6000000 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+NetIncomeLoss: 1260931 | unit=USD | filed=2025-12-23 | period_end=2025-07-31
+Assets: 172131241 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+Liabilities: 6745376 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+StockholdersEquity: 165385865 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: -31889746 | unit=USD | filed=2025-12-23 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 105508149 | unit=USD | filed=2025-12-23 | period_end=2025-10-31

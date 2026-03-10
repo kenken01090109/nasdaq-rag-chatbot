@@ -1,0 +1,25 @@
+Company: Tilray Brands Inc. Common Stock
+Ticker: TLRY
+Market Cap: 840014848
+Enterprise Value: 834774848
+Total Revenue: 837323008
+Revenue Per Share: 8.27
+EBITDA: 23173000
+Gross Margins: 0.28026
+Operating Margins: -0.09137999
+Profit Margins: -2.5169299
+Free Cashflow: 31022876
+Operating Cashflow: -28446000
+Return On Assets: -0.0150999995
+Return On Equity: -0.84135
+Total Cash: 291551008
+Total Debt: 319628992
+Debt To Equity: 20.668
+Current Ratio: 2.812
+Quick Ratio: 1.545
+Trailing PE: 
+Forward PE: 33.802155
+Price To Book: 0.48408756
+Beta: 2.09
+52 Week High: 23.2
+52 Week Low: 3.5

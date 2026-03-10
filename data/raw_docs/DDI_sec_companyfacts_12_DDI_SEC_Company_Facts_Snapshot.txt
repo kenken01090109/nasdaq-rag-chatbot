@@ -1,0 +1,11 @@
+Company: DoubleDown Interactive Co. Ltd. American Depository Shares
+Ticker: DDI
+CIK: 0001799567
+Latest SEC XBRL Facts:
+Revenues: 259360000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetIncomeLoss: 88527000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+Assets: 879849000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+Liabilities: 64241000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+StockholdersEquity: 815531000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 101128000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30
+CashAndCashEquivalentsAtCarryingValue: 292651000 | unit=USD | filed=2024-11-12 | period_end=2024-09-30

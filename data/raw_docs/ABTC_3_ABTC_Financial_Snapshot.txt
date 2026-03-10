@@ -1,0 +1,12 @@
+Company: American Bitcoin Corp. Class A Common Stock
+Ticker: ABTC
+Total Revenue: 185164000
+Revenue Per Share: 0.201
+Gross Margins: 0.50314
+Operating Margins: -1.33586
+EBITDA: -183414016
+Profit Margins: -0.82722
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: -0.1926

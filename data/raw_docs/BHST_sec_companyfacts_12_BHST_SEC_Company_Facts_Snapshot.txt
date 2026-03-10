@@ -1,0 +1,9 @@
+Company: BioHarvest Sciences Inc. Common Stock
+Ticker: BHST
+CIK: 0001723464
+Latest SEC XBRL Facts:
+Revenues: 25188000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetIncomeLoss: -12913000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+StockholdersEquity: 1330000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -6684000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 2390000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31

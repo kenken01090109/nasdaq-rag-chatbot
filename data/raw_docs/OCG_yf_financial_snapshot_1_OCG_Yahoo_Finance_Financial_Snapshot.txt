@@ -1,0 +1,25 @@
+Company: Oriental Culture Holding LTD Ordinary Shares
+Ticker: OCG
+Market Cap: 3805867
+Enterprise Value: -38718144
+Total Revenue: 316807
+Revenue Per Share: 3.509
+EBITDA: -5206154
+Gross Margins: 0.84194
+Operating Margins: -31.93681
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.0669
+Return On Equity: -0.08677
+Total Cash: 38780420
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 27.873
+Quick Ratio: 27.49
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0012652315
+Beta: 0.393
+52 Week High: 4243.8
+52 Week Low: 0.591

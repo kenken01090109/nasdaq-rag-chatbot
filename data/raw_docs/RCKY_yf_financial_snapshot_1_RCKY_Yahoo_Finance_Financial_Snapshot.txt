@@ -1,0 +1,25 @@
+Company: Rocky Brands Inc. Common Stock
+Ticker: RCKY
+Market Cap: 328499936
+Enterprise Value: 459423424
+Total Revenue: 481976000
+Revenue Per Share: 64.487
+EBITDA: 46959000
+Gross Margins: 0.40934
+Operating Margins: 0.06865
+Profit Margins: 0.04621
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.04973
+Return On Equity: 0.09198
+Total Cash: 2902000
+Total Debt: 124369000
+Debt To Equity: 49.336
+Current Ratio: 2.816
+Quick Ratio: 0.894
+Trailing PE: 14.787162
+Forward PE: 10.701712
+Price To Book: 1.3031051
+Beta: 2.574
+52 Week High: 48.7
+52 Week Low: 11.93

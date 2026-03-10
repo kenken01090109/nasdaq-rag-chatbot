@@ -1,0 +1,25 @@
+Company: Indigo Acquisition Corp. Right
+Ticker: INACR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -442127
+Return On Assets: 
+Return On Equity: 
+Total Cash: 717051
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 11.355
+Quick Ratio: 9.519
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.71658987
+Beta: 
+52 Week High: 0.1555
+52 Week Low: 0.1555

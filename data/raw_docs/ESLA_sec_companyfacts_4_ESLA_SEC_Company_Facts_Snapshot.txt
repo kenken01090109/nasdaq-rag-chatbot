@@ -1,0 +1,10 @@
+Company: Estrella Immunopharma Inc. Common Stock
+Ticker: ESLA
+CIK: 0001844417
+Latest SEC XBRL Facts:
+NetIncomeLoss: -12450338 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 3523511 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 13359934 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -9836423 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1608192 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1626610 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

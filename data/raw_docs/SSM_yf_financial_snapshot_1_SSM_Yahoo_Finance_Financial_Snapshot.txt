@@ -1,0 +1,25 @@
+Company: Sono Group N.V. Ordinary Shares
+Ticker: SSM
+Market Cap: 10353365
+Enterprise Value: 9389602
+Total Revenue: 101000
+Revenue Per Share: 0.069
+EBITDA: -6090000
+Gross Margins: 0.43563998
+Operating Margins: -32.061222
+Profit Margins: 17.09901
+Free Cashflow: -4672000
+Operating Cashflow: -6378000
+Return On Assets: -0.88539004
+Return On Equity: 
+Total Cash: 2250000
+Total Debt: 588000
+Debt To Equity: 23.436
+Current Ratio: 3.181
+Quick Ratio: 2.195
+Trailing PE: 6.6698117
+Forward PE: 
+Price To Book: 4.2684283
+Beta: 11.419
+52 Week High: 27.727
+52 Week Low: 3.5

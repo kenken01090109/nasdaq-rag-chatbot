@@ -1,0 +1,25 @@
+Company: STAAR Surgical Company Common Stock
+Ticker: STAA
+Market Cap: 911295424
+Enterprise Value: 770268736
+Total Revenue: 239442000
+Revenue Per Share: 4.831
+EBITDA: -37419000
+Gross Margins: 0.76185
+Operating Margins: -0.18868
+Profit Margins: -0.33598
+Free Cashflow: 14608750
+Operating Cashflow: -34230000
+Return On Assets: -0.05948
+Return On Equity: -0.21698
+Total Cash: 187536000
+Total Debt: 38353000
+Debt To Equity: 11.143
+Current Ratio: 4.548
+Quick Ratio: 3.53
+Trailing PE: 
+Forward PE: 21.653957
+Price To Book: 2.649634
+Beta: 1.053
+52 Week High: 30.81
+52 Week Low: 14.69

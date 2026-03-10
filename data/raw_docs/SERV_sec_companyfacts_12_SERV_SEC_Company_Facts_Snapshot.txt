@@ -1,0 +1,12 @@
+Company: Serve Robotics Inc. Common Stock
+Ticker: SERV
+CIK: 0001832483
+Latest SEC XBRL Facts:
+Revenues: 946711 | unit=USD | filed=2024-05-15 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1769000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -67088000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 299099000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 15241000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 283858000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -50601000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 116839000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

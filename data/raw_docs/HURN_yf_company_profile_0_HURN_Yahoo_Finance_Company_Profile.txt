@@ -1,0 +1,9 @@
+Company: Huron Consulting Group Inc. Common Stock
+Ticker: HURN
+Sector: Industrials
+Industry: Consulting Services
+Country: United States
+City: Chicago
+Website: https://www.huronconsultinggroup.com
+Employees: 8610
+Business Summary: Huron Consulting Group Inc. provides global professional services in the United States and internationally. It operates through three segments: Healthcare, Education, and Commercial. The company offers financial and operational performance improvement consulting services; digital services; spanning technology and analytic-related services, including enterprise health record, enterprise resource planning, enterprise performance management, customer relationship management, data management, artificial intelligence and automation, technology managed services, and a portfolio of software products; organizational transformation; revenue cycle managed services and outsourcing; financial and capital advisory consulting; and strategy and innovation consulting. It also provides research-focused consulting and managed services, as well as Huron Research product suite, a software suite designed to facilitate and improve research administration service delivery and compliance. In addition, the company offers software products, financial capital advisory services, regulatory compliance and risk management consulting, and Commercial consulting. The company serves healthcare, education, financial services, industrials and manufacturing, energy and utilities, public sector, and other commercial industries. The company was incorporated in 2002 and is headquartered in Chicago, Illinois.

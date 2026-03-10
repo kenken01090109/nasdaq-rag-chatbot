@@ -1,0 +1,12 @@
+Company: Century Aluminum Company Common Stock
+Ticker: CENX
+CIK: 0000949157
+Latest SEC XBRL Facts:
+Revenues: 389100000 | unit=USD | filed=2021-03-04 | period_end=2020-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1894200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 40000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2134200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1222300000 | unit=USD | filed=2024-08-08 | period_end=2024-06-30
+StockholdersEquity: 741800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 82200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 151400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

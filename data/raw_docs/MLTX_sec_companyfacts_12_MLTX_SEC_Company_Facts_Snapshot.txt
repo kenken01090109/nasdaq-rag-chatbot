@@ -1,0 +1,10 @@
+Company: MoonLake Immunotherapeutics Class A Ordinary Shares
+Ticker: MLTX
+CIK: 0001821586
+Latest SEC XBRL Facts:
+NetIncomeLoss: -164891000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 414335000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 123144000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 288906000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -137213000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 350736000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

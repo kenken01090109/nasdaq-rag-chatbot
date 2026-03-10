@@ -1,0 +1,11 @@
+Company: Everbright Digital Holding Limited Ordinary Shares
+Ticker: EDHL
+CIK: 0002024876
+Latest SEC XBRL Facts:
+Revenues: 2761798 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+NetIncomeLoss: 379430 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+Assets: 2614789 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+Liabilities: 532646 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+StockholdersEquity: 2082143 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -280109 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 389651 | unit=USD | filed=2025-05-16 | period_end=2024-12-31

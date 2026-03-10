@@ -1,0 +1,25 @@
+Company: SUNation Energy Inc. Common Stock
+Ticker: SUNE
+Market Cap: 4224202
+Enterprise Value: 9400321
+Total Revenue: 60069280
+Revenue Per Share: 36.703
+EBITDA: -6415140
+Gross Margins: 0.3675
+Operating Margins: -0.012940001
+Profit Margins: -0.33822
+Free Cashflow: -4514441
+Operating Cashflow: -3055178
+Return On Assets: -0.09227
+Return On Equity: -1.16567
+Total Cash: 5414591
+Total Debt: 10420380
+Debt To Equity: 47.958
+Current Ratio: 0.902
+Quick Ratio: 0.585
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.19441833
+Beta: 4.389
+52 Week High: 150.0
+52 Week Low: 0.68

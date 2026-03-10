@@ -1,0 +1,9 @@
+Company: Unicycive Therapeutics Inc. Common Stock
+Ticker: UNCY
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Los Altos
+Website: https://unicycive.com
+Employees: 22
+Business Summary: Unicycive Therapeutics, Inc., a clinical-stage biotechnology company, identifies, develops, and commercializes therapies to address unmet medical needs in the United States. Its drug candidates include UNI 494, a pro-drug of Nicorandil that is being developed as a treatment for acute kidney injury; and Renazorb RZB 012 for the treatment of hyperphosphatemia in patients with chronic kidney disease. The company also evaluates licensing of technologies and drugs for orphan diseases, other renal, liver, and other metabolic diseases affecting fibrosis and inflammation. Unicycive Therapeutics, Inc. has license agreements with Shilpa Medicare Ltd to develop and commercialize oxylanthanum carbonate; Sphaera Pharma Pte. Ltd.; Syneos Health LLC to develop of UNI-494; Inotiv for preclinical trial and related services for oxylanthanum carbonate and UNI-494; Lee's Pharmaceutical (HK) Limited; and Lotus International Pte Ltd for the development, registration filing, and approval for oxylanthanum carbonate. The company was incorporated in 2016 and is based in Los Altos, California.

@@ -1,0 +1,10 @@
+Company: Aclarion Inc. Common Stock
+Ticker: ACON
+Market Cap: 3226375
+Enterprise Value: -9325944
+Trailing PE: 
+Forward PE: -0.22319475
+Price To Book: 0.14255765
+Beta: 1.441
+52 Week High: 48.33
+52 Week Low: 2.34

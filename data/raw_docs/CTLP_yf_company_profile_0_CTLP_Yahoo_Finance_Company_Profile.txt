@@ -1,0 +1,9 @@
+Company: Cantaloupe Inc. Common Stock
+Ticker: CTLP
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Malvern
+Website: https://www.cantaloupe.com
+Employees: 345
+Business Summary: Cantaloupe, Inc., a digital payments and software services company, provides technology solutions for the self-service commerce market. The company offers a suite of solutions, including micro-payment processing, self-checkout kiosks, mobile ordering, connected point-of-sale (POS) systems, and enterprise cloud software. It also provides G11 cashless and pulse kits that are 4G LTE digital payment devices for payment and consumer engagement applications; G11 chip kit, a digital reader that accepts contact EMV and contactless EMV payment methods; Engage series comprising Engage, Engage Combo, and Engage Plus, which are digital touchscreen devices that offer networking, security, and interactivity payment methods; and P series, which are card touchscreen card readers that include P66, P100, P100Pro, and P30. In addition, the company offers self-checkout kiosks, smart store concepts, and the Cantaloupe Go management platform comprising Go Mini, Go MiniX, Go Plus100, Go Plus200, Go Plus300, Go Max, Cooler Cafe, Smart Store Go Micro kiosk, and Cantaloupe Smart Aisle. Further, it provides the Seed platform, a cloud-based asset management and optimization solution; remote price change, an add-on software service within the Seed platform; Cantaloupe Go portal, a robust cloud-based platform; Seed API, an API web service; and additional services, such as Cantaloupe Go consumer mobile app loyalty programs, campus card integrations, digital ad-management, and data warehouse services. Additionally, the company offers professional, network infrastructure, card processing, and customer/consumer services. Cantaloupe, Inc. was formerly known as USA Technologies, Inc. The company was incorporated in 1992 and is headquartered in Malvern, Pennsylvania.

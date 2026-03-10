@@ -1,0 +1,25 @@
+Company: Opendoor Technologies Inc  Series Z Warrants each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant
+Ticker: OPENZ
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 4370999808
+Revenue Per Share: 5.702
+EBITDA: -229000000
+Gross Margins: 0.08007
+Operating Margins: -0.20516
+Profit Margins: -0.29740998
+Free Cashflow: 907500032
+Operating Cashflow: 1049000000
+Return On Assets: -0.061680004
+Return On Equity: -1.5133901
+Total Cash: 962000000
+Total Debt: 1320000000
+Debt To Equity: 131.343
+Current Ratio: 7.031
+Quick Ratio: 2.942
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.30476192
+Beta: 3.79
+52 Week High: 0.85
+52 Week Low: 0.281

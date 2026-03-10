@@ -1,0 +1,9 @@
+Company: MultiSensor AI Holdings Inc. Common Stock
+Ticker: MSAI
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Beaumont
+Website: https://www.multisensorai.com
+Employees: 41
+Business Summary: MultiSensor AI Holdings, Inc. builds and deploys intelligent multi-sensing platforms with edge and cloud software solutions that leverage artificial intelligence in the United States and internationally. The company offers sensor devices, such as small to large handheld designs with built-in displays and controls, fixed-mounted single- and multi-sensor camera systems with or without displays and controls, fixed-mounted pan-tilt-zoom single- and multi-sensor camera standalone systems, and mobile multi-sensor payload and gimbal systems for unmanned aerial vehicles and unmanned ground vehicles. It also provides MSAI Edge software that processes advanced thermal imaging, visible imaging, and acoustic imaging data streams, as well as multiple established industrial communications protocols; and MSAI Connect, a cloud-based software, that utilizes AI and enables predictive asset reliability and process control in industrial environments. The company was founded in 1995 and is based in Beaumont, Texas.

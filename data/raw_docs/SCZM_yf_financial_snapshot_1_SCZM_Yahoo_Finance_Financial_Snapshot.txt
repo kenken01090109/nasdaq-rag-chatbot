@@ -1,0 +1,25 @@
+Company: Santacruz Silver Mining Ltd. Common Shares
+Ticker: SCZM
+Market Cap: 916201536
+Enterprise Value: 892097728
+Total Revenue: 305267008
+Revenue Per Share: 3.435
+EBITDA: 91925000
+Gross Margins: 0.38731998
+Operating Margins: 0.15335
+Profit Margins: 0.19528
+Free Cashflow: 10942625
+Operating Cashflow: 86427000
+Return On Assets: 0.117790006
+Return On Equity: 0.36108002
+Total Cash: 53430000
+Total Debt: 37766000
+Debt To Equity: 20.61
+Current Ratio: 1.581
+Quick Ratio: 1.101
+Trailing PE: 15.671875
+Forward PE: 
+Price To Book: 4.982613
+Beta: 2.733
+52 Week High: 17.645
+52 Week Low: 1.0504

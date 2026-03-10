@@ -1,0 +1,9 @@
+Company: Whitehawk Therapeutics Inc. Common Stock
+Ticker: WHWK
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Morristown
+Website: https://ir.whitehawktx.com
+Employees: 22
+Business Summary: Whitehawk Therapeutics, Inc., an oncology therapeutics company that develops technologies to establish tumor biology for cancer treatments. It provides a three-asset antibody-drug conjugate (ADC) portfolio to treat cancer. The company was formerly known as Aadi Bioscience, Inc. and changed its name to Whitehawk Therapeutics, Inc. in March 2025. Whitehawk Therapeutics, Inc. was incorporated in 2007 and is headquartered in Morristown, New Jersey.

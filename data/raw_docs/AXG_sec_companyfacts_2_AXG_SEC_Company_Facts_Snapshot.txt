@@ -1,0 +1,11 @@
+Company: Solowin Holdings Class A Ordinary Share
+Ticker: AXG
+CIK: 0001959224
+Latest SEC XBRL Facts:
+Revenues: 5842000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30
+NetIncomeLoss: -4634000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30
+Assets: 383166000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30
+Liabilities: 14171000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30
+StockholdersEquity: 368979000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4444000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8780000 | unit=USD | filed=2026-01-09 | period_end=2025-09-30

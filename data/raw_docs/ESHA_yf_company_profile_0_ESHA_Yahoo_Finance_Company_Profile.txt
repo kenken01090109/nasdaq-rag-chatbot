@@ -1,0 +1,9 @@
+Company: ESH Acquisition Corp. Class A Common Stock
+Ticker: ESHA
+Sector: Financial Services
+Industry: Shell Companies
+Country: United States
+City: New York
+Website: https://www.eshacquisition.com
+Employees: 
+Business Summary: ESH Acquisition Corp. does not have significant operations. It focuses on effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses or entities in the entertainment, sports, and hospitality sectors. The company was incorporated in 2021 and is based in New York, New York.

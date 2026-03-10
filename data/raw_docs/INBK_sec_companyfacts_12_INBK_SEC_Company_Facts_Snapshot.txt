@@ -1,0 +1,10 @@
+Company: First Internet Bancorp Common Stock
+Ticker: INBK
+CIK: 0001562463
+Latest SEC XBRL Facts:
+NetIncomeLoss: -40457000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 5639174000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 5287006000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 352168000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -20274000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 787661000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

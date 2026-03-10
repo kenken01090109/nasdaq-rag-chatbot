@@ -1,0 +1,11 @@
+Company: Monopar Therapeutics Inc. Common Stock
+Ticker: MNPR
+CIK: 0001645469
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -8516099 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 144197278 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2639430 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 141557848 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8831219 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 127677360 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: American Bitcoin Corp. Class A Common Stock
+Ticker: ABTC
+Market Cap: 1011089472
+Enterprise Value: 1262935808
+Total Revenue: 185164000
+Revenue Per Share: 0.201
+EBITDA: -183414016
+Gross Margins: 0.50314
+Operating Margins: -1.33586
+Profit Margins: -0.82722
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: -0.1926
+Total Cash: 7976000
+Total Debt: 185614000
+Debt To Equity: 32.255
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 6.0555553
+Forward PE: 54.500004
+Price To Book: 1.7440001
+Beta: 
+52 Week High: 14.65
+52 Week Low: 0.63

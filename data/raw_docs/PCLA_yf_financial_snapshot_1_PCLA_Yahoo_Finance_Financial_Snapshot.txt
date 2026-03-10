@@ -1,0 +1,25 @@
+Company: PicoCELA Inc. American Depositary Shares
+Ticker: PCLA
+Market Cap: 11464502
+Enterprise Value: -249904192
+Total Revenue: 544689984
+Revenue Per Share: 594.283
+EBITDA: -574908992
+Gross Margins: 0.53353
+Operating Margins: -1.06601
+Profit Margins: -1.14985
+Free Cashflow: -412667616
+Operating Cashflow: -544019968
+Return On Assets: -0.32377997
+Return On Equity: -1.5188099
+Total Cash: 534888992
+Total Debt: 281558016
+Debt To Equity: 59.913
+Current Ratio: 2.134
+Quick Ratio: 1.383
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.0674698
+Beta: 
+52 Week High: 112.2
+52 Week Low: 2.55

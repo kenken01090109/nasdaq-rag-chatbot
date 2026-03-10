@@ -1,0 +1,25 @@
+Company: Sportradar Group AG Class A Ordinary Shares
+Ticker: SRAD
+Market Cap: 5489902592
+Enterprise Value: 5268422656
+Total Revenue: 1289965056
+Revenue Per Share: 4.293
+EBITDA: 507464992
+Gross Margins: 0.26816
+Operating Margins: 0.15614
+Profit Margins: 0.07777
+Free Cashflow: 340544128
+Operating Cashflow: 403015008
+Return On Assets: 0.04121
+Return On Equity: 0.10515001
+Total Cash: 365295008
+Total Debt: 62852000
+Debt To Equity: 6.424
+Current Ratio: 1.167
+Quick Ratio: 1.041
+Trailing PE: 54.55882
+Forward PE: 22.52369
+Price To Book: 4.9052973
+Beta: 2.002
+52 Week High: 32.22
+52 Week Low: 15.725

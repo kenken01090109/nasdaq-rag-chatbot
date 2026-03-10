@@ -1,0 +1,9 @@
+Company: MicroVision Inc. Common Stock
+Ticker: MVIS
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: Redmond
+Website: https://www.microvision.com
+Employees: 
+Business Summary: MicroVision, Inc. develops and commercializes perception solutions for autonomy and mobility applications. It offers product suite, including perception software for industrial, automotive, and defense markets; MAVIN, a MEMS-based long-range sensor capable of small object detection; MOVIA, a flash-based short- to mid-range sensor; lidar sensors for non-automotive industrial markets, such as industrial, smart infrastructure, robotics, and commercial vehicles; and reference and validation software. The company also provides engineering services in connection with hardware and software products, as well as develops custom application software. In addition, it offers industrial and automotive perception systems and advanced driver-assistance systems (ADAS); and MOSAIK suite, a validation software tool for use by OEMs and Tier 1s to validate vehicle sensors for ADAS and autonomous driving applications. The company markets its products to customers directly, through trade shows, and its website. MicroVision, Inc. was founded in 1993 and is headquartered in Redmond, Washington.

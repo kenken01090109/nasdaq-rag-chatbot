@@ -1,0 +1,25 @@
+Company: Harte Hanks Inc. Common Stock
+Ticker: HHS
+Market Cap: 20613128
+Enterprise Value: 35344092
+Total Revenue: 166840992
+Revenue Per Share: 22.614
+EBITDA: 7281000
+Gross Margins: 0.17707
+Operating Margins: 0.01885
+Profit Margins: -0.03265
+Free Cashflow: 6685875
+Operating Cashflow: 1573000
+Return On Assets: 0.01654
+Return On Equity: -0.26617
+Total Cash: 6510000
+Total Debt: 21760000
+Debt To Equity: 109.457
+Current Ratio: 1.476
+Quick Ratio: 1.334
+Trailing PE: 
+Forward PE: 2.5981307
+Price To Book: 1.0369265
+Beta: -0.24
+52 Week High: 5.39
+52 Week Low: 2.33

@@ -1,0 +1,12 @@
+Company: Eightco Holdings Inc. Common Stock
+Ticker: ORBS
+CIK: 0001892492
+Latest SEC XBRL Facts:
+Revenues: 36436868 | unit=USD | filed=2023-08-11 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 22793160 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -29562461 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 355527757 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 16773941 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 339168330 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1279248 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23712463 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

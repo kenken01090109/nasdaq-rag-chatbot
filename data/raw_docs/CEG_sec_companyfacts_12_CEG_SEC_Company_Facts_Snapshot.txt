@@ -1,0 +1,12 @@
+Company: Constellation Energy Corporation Common Stock
+Ticker: CEG
+CIK: 0001868275
+Latest SEC XBRL Facts:
+Revenues: 19459000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 16969000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1887000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 56161000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 41469000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 14350000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3432000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3959000000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

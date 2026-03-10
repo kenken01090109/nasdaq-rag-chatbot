@@ -1,0 +1,9 @@
+Company: Plutus Financial Group Limited Ordinary Shares
+Ticker: PLUT
+Sector: Financial Services
+Industry: Capital Markets
+Country: Hong Kong
+City: Wan Chai
+Website: https://www.plutusfingroup.com
+Employees: 10
+Business Summary: Plutus Financial Group Limited, through its subsidiaries, provides financial services in Hong Kong. It operates through two segments, Securities Related Services and Asset Management Services. The company offers securities dealing and brokerage, margin financing, and underwriting and placing services. It also provides investment advisory services; trading; and securities custody and nominee services. The company serves listed companies and initial public offering listing applicants, as well as private companies, high net worth individuals, and retails individuals. The company was founded in 2018 and is based in Wan Chai, Hong Kong.

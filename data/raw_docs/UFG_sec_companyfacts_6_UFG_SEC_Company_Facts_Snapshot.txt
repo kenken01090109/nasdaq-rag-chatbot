@@ -1,0 +1,10 @@
+Company: Uni-Fuels Holdings Limited Class A Ordinary Shares
+Ticker: UFG
+CIK: 0002021688
+Latest SEC XBRL Facts:
+NetIncomeLoss: 90987 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+Assets: 30904055 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+Liabilities: 18601457 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+StockholdersEquity: 12302598 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -4727712 | unit=USD | filed=2025-10-28 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 6759336 | unit=USD | filed=2025-10-28 | period_end=2025-06-30

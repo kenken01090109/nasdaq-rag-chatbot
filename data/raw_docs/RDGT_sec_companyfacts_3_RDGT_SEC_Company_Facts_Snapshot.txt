@@ -1,0 +1,11 @@
+Company: Ridgetech Inc. Ordinary Shares
+Ticker: RDGT
+CIK: 0001856084
+Latest SEC XBRL Facts:
+Revenues: 62805015 | unit=USD | filed=2026-03-05 | period_end=2025-09-30
+NetIncomeLoss: -2277092 | unit=USD | filed=2025-01-15 | period_end=2024-09-30
+Assets: 61385142 | unit=USD | filed=2026-03-05 | period_end=2025-09-30
+Liabilities: 31605549 | unit=USD | filed=2026-03-05 | period_end=2025-09-30
+StockholdersEquity: 21468025 | unit=USD | filed=2025-01-15 | period_end=2024-09-30
+NetCashProvidedByUsedInOperatingActivities: 5346634 | unit=USD | filed=2026-03-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13935407 | unit=USD | filed=2026-03-05 | period_end=2025-09-30

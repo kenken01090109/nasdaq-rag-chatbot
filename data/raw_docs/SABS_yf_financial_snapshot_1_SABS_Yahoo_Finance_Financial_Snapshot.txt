@@ -1,0 +1,25 @@
+Company: SAB Biotherapeutics Inc. Common Stock
+Ticker: SABS
+Market Cap: 180429968
+Enterprise Value: 76688880
+Total Revenue: 114698
+Revenue Per Share: 0.012
+EBITDA: -40087972
+Gross Margins: 0.0
+Operating Margins: -376.5713
+Profit Margins: 163.38321
+Free Cashflow: -20132516
+Operating Cashflow: -37530972
+Return On Assets: -0.22757
+Return On Equity: 0.18556
+Total Cash: 110880632
+Total Debt: 6187342
+Debt To Equity: 3.748
+Current Ratio: 10.495
+Quick Ratio: 10.325
+Trailing PE: 
+Forward PE: -12.633332
+Price To Book: 1.0903337
+Beta: 0.609
+52 Week High: 6.6
+52 Week Low: 1.0

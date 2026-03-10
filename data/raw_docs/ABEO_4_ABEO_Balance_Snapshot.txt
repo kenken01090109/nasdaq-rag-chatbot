@@ -1,0 +1,8 @@
+Company: Abeona Therapeutics Inc. Common Stock
+Ticker: ABEO
+Total Cash: 207116992
+Total Debt: 24107000
+Debt To Equity: 14.078
+Current Ratio: 9.744
+Quick Ratio: 9.411
+Book Value: 3.268

@@ -1,0 +1,12 @@
+Company: Blink Charging Co. Common Stock
+Ticker: BLNK
+CIK: 0001429764
+Latest SEC XBRL Facts:
+Revenues: 76451000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 76451000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -52752000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 171277000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 80497000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 90780000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31540000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23110000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

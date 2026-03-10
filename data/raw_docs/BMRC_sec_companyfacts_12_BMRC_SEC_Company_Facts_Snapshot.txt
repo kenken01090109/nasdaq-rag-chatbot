@@ -1,0 +1,9 @@
+Company: Bank of Marin Bancorp Common Stock
+Ticker: BMRC
+CIK: 0001403475
+Latest SEC XBRL Facts:
+NetIncomeLoss: 3866000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 3869021000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 3425203000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 443818000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 25456000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

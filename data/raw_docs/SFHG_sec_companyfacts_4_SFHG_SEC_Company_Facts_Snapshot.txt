@@ -1,0 +1,11 @@
+Company: Samfine Creation Holdings Group Limited Class A Ordinary Share
+Ticker: SFHG
+CIK: 0001926792
+Latest SEC XBRL Facts:
+Revenues: 10461437 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetIncomeLoss: -1077340 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Assets: 21535411 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+Liabilities: 13486887 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+StockholdersEquity: 8048524 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2909692 | unit=USD | filed=2025-10-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2677254 | unit=USD | filed=2025-10-30 | period_end=2025-06-30

@@ -1,0 +1,11 @@
+Company: Shore Bancshares Inc Common Stock
+Ticker: SHBI
+CIK: 0001035092
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 15479000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 43619000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 6278479000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 5701272000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 577207000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 53913000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 416513000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

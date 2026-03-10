@@ -1,0 +1,11 @@
+Company: First Bancorp Common Stock
+Ticker: FBNC
+CIK: 0000811589
+Latest SEC XBRL Facts:
+Revenues: 67623000 | unit=USD | filed=2026-02-25 | period_end=2025-12-31
+NetIncomeLoss: 95335000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 12750263000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 11146940000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 1603323000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 147975000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 446807000 | unit=USD | filed=2019-05-10 | period_end=2019-03-31

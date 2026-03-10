@@ -1,0 +1,9 @@
+Company: Expion360 Inc. Common Stock
+Ticker: XPON
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: United States
+City: Redmond
+Website: https://expion360.com
+Employees: 20
+Business Summary: Expion360 Inc. designs, assembles, manufactures, and sells lithium iron phosphate (LiFePO4) batteries and supporting accessories in North America. The company offers 12V batteries, including Group 24, Group 27, GC2, EX1 custom, and EX2 edge custom; and 48V batteries, such as GC2, EX2 edge custom, and 3U server rack home energy batteries. It also provides accessories comprising battery monitors, DC-DC battery chargers, AC-DC battery chargers, solar charge controller battery chargers, CANBus communication cables, 120W portable solar panels, industrial battery mounting kits, terminal blocks, bus bars, AURA Powercap 600W inverters, and e360 SmartTalk mobile app. In addition, the company offers e360 Home Energy Storage solutions, a wall mounted all-in-one inverter comprising 10kWh battery and an expandable server rack style battery cabinet system. It sells its products under the VPR 4EVER brand for recreational vehicles, marine, golf, home energy storage, industrial, residential, and off-the-grid applications. The company serves dealers, wholesalers, private label customers, and original equipment manufacturers. The company has a strategic partnership with Dealer Accessory Supply for the development of DASGen Hybrid Energy Storage System, an energy storage solution intended for use on construction and industrial job sites. The company was formerly known as Yozamp Products Company, LLC and changed its name to Expion360 Inc. in November 2021. Expion360 Inc. was founded in 2016 and is headquartered in Redmond, Oregon.

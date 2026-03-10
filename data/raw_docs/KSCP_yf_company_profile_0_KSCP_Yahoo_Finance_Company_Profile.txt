@@ -1,0 +1,9 @@
+Company: Knightscope Inc. Class A Common Stock
+Ticker: KSCP
+Sector: Industrials
+Industry: Security & Protection Services
+Country: United States
+City: Mountain View
+Website: https://www.knightscope.com
+Employees: 71
+Business Summary: Knightscope, Inc. designs, develops, manufactures, markets, deploys, and supports autonomous security robots (ASR) in the United States. The company provides K3 Indoor ASR for enclosed spaces, such as corporate offices, hospitals, and shopping centers; K5 Outdoor ASR for external environments comprising parking lots, logistics facilities, and corporate campuses; K1 Hemisphere, a stationary unit for indoor and outdoor use; and Knightscope Security Operations Center (KSOC), a browser-based user interface that enables clients to monitor and manage their ASRs in real-time. It also offers emergency communication solutions, including K1 Blue Light Towers that are solar-powered emergency communication stations, which provides immediate access to emergency response personnel or law enforcement in parking lots, public parks, and college campuses; K1 Blue Light E-Phone, a compact emergency phone system that delivers one-touch connectivity and features a high-visibility blue strobe light, which is suitable for locations, such as parking lots, building interiors, college campuses, electric vehicle charging stations, transit stations, and office spaces; K1 Call Box, a small emergency call box system that provides a simple housing and interface for one-touch connection to emergency services for indoor and outdoor use in areas comprising bridges, highways, parks, metro stations, military installations, and remote parking lots; and Knightscope Emergency Management System (KEMS), a cloud-based application that monitors the health and status of deployed emergency communication devices. Knightscope, Inc. was incorporated in 2013 and is headquartered in Mountain View, California.

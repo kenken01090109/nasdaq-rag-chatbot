@@ -1,0 +1,9 @@
+Company: Wave Life Sciences Ltd. Ordinary Shares
+Ticker: WVE
+Sector: Healthcare
+Industry: Biotechnology
+Country: Singapore
+City: Singapore
+Website: https://wavelifesciences.com
+Employees: 317
+Business Summary: Wave Life Sciences Ltd., a clinical-stage biotechnology company, designs, develops, and commercializes ribonucleic acid (RNA) medicines through PRISM, a discovery and drug development platform. The company's medicines platform, PRISM combines multiple modalities, chemistry innovation, and deep insights into human genetics to deliver scientific breakthroughs that treat both rare and prevalent disorders. It is developing WVE-006, a GalNAc-conjugated RNA editing oligonucleotide for the treatment of alpha-1 antitrypsin deficiency; WVE-007, a GalNAc-conjugated small interfering RNA designed to silence INHBE mRNA targeting obesity; WVE-008, a GalNAc-conjugated RNA editing oligonucleotide for the treatment of liver disease; WVE-N531, an exon splicing oligonucleotide for the treatment of Duchenne muscular dystrophy; and WVE-003, an allele-selective oligonucleotide for the treatment of Huntington's disease (HD). The company has collaboration agreements with GlaxoSmithKline for the research, development, and commercialization of oligonucleotide therapeutics; Takeda Pharmaceutical Company Limited for the research, development, and commercialization of oligonucleotide therapeutics for disorders of the Central Nervous System; and Asuragen, Inc. for the development and potential commercialization of companion diagnostics for investigational allele-selective therapeutic programs targeting HD. Wave Life Sciences Ltd. was founded in 2012 and is based in Singapore.

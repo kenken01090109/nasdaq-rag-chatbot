@@ -1,0 +1,25 @@
+Company: Aether Holdings Inc. Common Stock
+Ticker: ATHR
+Market Cap: 40806292
+Enterprise Value: 41320284
+Total Revenue: 1365011
+Revenue Per Share: 0.118
+EBITDA: -4288637
+Gross Margins: 0.73462
+Operating Margins: -3.9243302
+Profit Margins: 0.0
+Free Cashflow: -4409131
+Operating Cashflow: -4320365
+Return On Assets: -1.17688
+Return On Equity: -2.59522
+Total Cash: 1798679
+Total Debt: 5170
+Debt To Equity: 0.153
+Current Ratio: 3.375
+Quick Ratio: 2.823
+Trailing PE: 
+Forward PE: 
+Price To Book: 12.129963
+Beta: 
+52 Week High: 19.688
+52 Week Low: 3.02

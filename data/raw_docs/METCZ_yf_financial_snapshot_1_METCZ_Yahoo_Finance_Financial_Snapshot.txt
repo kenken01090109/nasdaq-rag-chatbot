@@ -1,0 +1,25 @@
+Company: Ramaco Resources Inc. 8.375% Senior Notes due 2029
+Ticker: METCZ
+Market Cap: 
+Enterprise Value: 1744575232
+Total Revenue: 536617984
+Revenue Per Share: 9.15
+EBITDA: 13866000
+Gross Margins: 0.1551
+Operating Margins: -0.121920004
+Profit Margins: -0.095869996
+Free Cashflow: -51842000
+Operating Cashflow: 1969000
+Return On Assets: -0.03853
+Return On Equity: -0.12157
+Total Cash: 440347008
+Total Debt: 470024000
+Debt To Equity: 97.2
+Current Ratio: 5.458
+Quick Ratio: 4.518
+Trailing PE: 
+Forward PE: 
+Price To Book: 3.4961684
+Beta: 1.36
+52 Week High: 26.0
+52 Week Low: 23.18

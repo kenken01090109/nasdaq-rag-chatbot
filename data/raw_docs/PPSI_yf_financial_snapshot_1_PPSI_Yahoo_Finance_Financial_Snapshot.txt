@@ -1,0 +1,25 @@
+Company: Pioneer Power Solutions Inc. Common Stock
+Ticker: PPSI
+Market Cap: 36836284
+Enterprise Value: 22138478
+Total Revenue: 31751000
+Revenue Per Share: 2.864
+EBITDA: -5449000
+Gross Margins: 0.15489
+Operating Margins: -0.21008
+Profit Margins: 0.99797994
+Free Cashflow: -5207375
+Operating Cashflow: -6874000
+Return On Assets: -0.10586
+Return On Equity: -0.19018
+Total Cash: 17336000
+Total Debt: 752000
+Debt To Equity: 2.45
+Current Ratio: 4.625
+Quick Ratio: 3.493
+Trailing PE: 
+Forward PE: -22.896551
+Price To Book: 1.1998554
+Beta: 1.605
+52 Week High: 5.7
+52 Week Low: 2.25

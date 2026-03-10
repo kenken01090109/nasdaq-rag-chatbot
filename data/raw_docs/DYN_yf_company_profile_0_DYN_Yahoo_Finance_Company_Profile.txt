@@ -1,0 +1,9 @@
+Company: Dyne Therapeutics Inc. Common Stock
+Ticker: DYN
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Waltham
+Website: https://www.dyne-tx.com
+Employees: 258
+Business Summary: Dyne Therapeutics, Inc., a clinical-stage neuromuscular disease company, focuses on discovering and developing therapeutics for neuromuscular diseases in the United States. The company is developing a portfolio of muscle disease therapeutics, including programs in myotonic dystrophy type 1; duchenne muscular dystrophy; facioscapulohumeral dystrophy; and Pompe disease, as well as rare skeletal muscle, and cardiac and metabolic muscle diseases using its FORCE platform that delivers disease-modifying therapeutics. Dyne Therapeutics, Inc. was incorporated in 2017 and is headquartered in Waltham, Massachusetts.

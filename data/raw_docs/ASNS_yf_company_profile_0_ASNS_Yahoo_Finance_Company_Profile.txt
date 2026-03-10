@@ -1,0 +1,9 @@
+Company: Actelis Networks Inc. Common Stock
+Ticker: ASNS
+Sector: Technology
+Industry: Communication Equipment
+Country: United States
+City: Fremont
+Website: https://actelis.com
+Employees: 38
+Business Summary: Actelis Networks, Inc. engages in the design, development, manufacture, and marketing of cyber hardened, hybrid fiber, networking solutions for Internet of Things and telecommunication governmental agencies and companies in North America, Europe, the Middle East, Africa, and the Asia Pacific. The company offers rapid-deployment networking solutions for wide-area IoT applications, including federal, state, and local governments; intelligent traffic systems; and military, utility, rail, telecom, and campus applications. It also provides ethernet access devices; network aggregator switches; MetaShield; and Advanced MetaLIGHT/ Gigaline element management systems software, which enables remote management, monitoring, maintenance, and configuration of the installed equipment in the network. In addition, the company offers dynamic spectral software; and access broadband equipment. It serves offers its products to end users, system integrators, distributors, contractors, resellers, and consultants. Actelis Networks, Inc. was incorporated in 1998 and is headquartered in Fremont, California.

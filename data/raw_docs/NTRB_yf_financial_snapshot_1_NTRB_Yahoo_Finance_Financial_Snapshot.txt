@@ -1,0 +1,25 @@
+Company: Nutriband Inc. Common Stock
+Ticker: NTRB
+Market Cap: 53082496
+Enterprise Value: 47948944
+Total Revenue: 2278321
+Revenue Per Share: 0.2
+EBITDA: -9029840
+Gross Margins: 0.33503
+Operating Margins: -11.21296
+Profit Margins: 0.0
+Free Cashflow: -2588350
+Operating Cashflow: -5642044
+Return On Assets: -0.55222
+Return On Equity: -1.3607601
+Total Cash: 5312177
+Total Debt: 258025
+Debt To Equity: 3.418
+Current Ratio: 7.527
+Quick Ratio: 7.067
+Trailing PE: 
+Forward PE: -18.956522
+Price To Book: 7.020934
+Beta: 1.88
+52 Week High: 11.678
+52 Week Low: 3.96

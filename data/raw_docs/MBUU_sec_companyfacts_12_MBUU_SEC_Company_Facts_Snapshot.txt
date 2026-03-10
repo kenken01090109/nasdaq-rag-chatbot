@@ -1,0 +1,11 @@
+Company: Malibu Boats Inc. Class A Common Stock
+Ticker: MBUU
+CIK: 0001590976
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 383355000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetIncomeLoss: -3164000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Assets: 715705000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+Liabilities: 216437000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+StockholdersEquity: 495043000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 19182000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 28209000 | unit=USD | filed=2026-02-05 | period_end=2025-12-31

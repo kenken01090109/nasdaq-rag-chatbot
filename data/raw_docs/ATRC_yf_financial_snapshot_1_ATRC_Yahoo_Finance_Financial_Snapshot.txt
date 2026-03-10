@@ -1,0 +1,25 @@
+Company: AtriCure Inc. Common Stock
+Ticker: ATRC
+Market Cap: 1495293184
+Enterprise Value: 1404286208
+Total Revenue: 534528000
+Revenue Per Share: 11.194
+EBITDA: 11084000
+Gross Margins: 0.74977994
+Operating Margins: 0.01773
+Profit Margins: -0.02142
+Free Cashflow: 38942876
+Operating Cashflow: 57334000
+Return On Assets: -0.00935
+Return On Equity: -0.024030002
+Total Cash: 167428000
+Total Debt: 76421000
+Debt To Equity: 15.535
+Current Ratio: 3.956
+Quick Ratio: 2.871
+Trailing PE: 
+Forward PE: 89.54244
+Price To Book: 3.0384614
+Beta: 1.438
+52 Week High: 43.18
+52 Week Low: 28.29

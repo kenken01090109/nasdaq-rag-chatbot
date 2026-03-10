@@ -1,0 +1,9 @@
+Company: Bloomin' Brands Inc. Common Stock
+Ticker: BLMN
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Tampa
+Website: https://www.bloominbrands.com
+Employees: 64000
+Business Summary: Bloomin' Brands, Inc., through its subsidiaries, owns and operates casual, polished casual, and fine dining restaurants in the United States and internationally. The company operates through U.S. and International Franchise segments. Its restaurant portfolio has four concepts, including Outback Steakhouse, a casual steakhouse restaurant; Carrabba's Italian Grill that offers authentic Italian cuisine; Bonefish Grill; and Fleming's Prime Steakhouse & Wine Bar, a contemporary steakhouse. Bloomin' Brands, Inc. was founded in 1988 and is based in Tampa, Florida.

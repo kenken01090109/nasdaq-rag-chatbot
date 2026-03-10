@@ -1,0 +1,25 @@
+Company: Jack In The Box Inc. Common Stock
+Ticker: JACK
+Market Cap: 276804736
+Enterprise Value: 2845250560
+Total Revenue: 1443767040
+Revenue Per Share: 75.687
+EBITDA: 242031008
+Gross Margins: 0.27532
+Operating Margins: 0.14412
+Profit Margins: -0.08094
+Free Cashflow: -25618750
+Operating Cashflow: 75346000
+Return On Assets: 0.04579
+Return On Equity: 
+Total Cash: 71973000
+Total Debt: 2629969920
+Debt To Equity: 
+Current Ratio: 0.66
+Quick Ratio: 0.457
+Trailing PE: 
+Forward PE: 3.7239208
+Price To Book: -0.29454812
+Beta: 1.164
+52 Week High: 39.09
+52 Week Low: 13.99

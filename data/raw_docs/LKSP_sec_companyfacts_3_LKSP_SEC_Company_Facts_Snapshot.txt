@@ -1,0 +1,10 @@
+Company: Lake Superior Acquisition Corp. Class A Ordinary Shares
+Ticker: LKSP
+CIK: 0002043508
+Latest SEC XBRL Facts:
+NetIncomeLoss: -134902 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 174160 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 346753 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -172593 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -104349 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 49796 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

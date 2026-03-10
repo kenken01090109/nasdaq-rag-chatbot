@@ -1,0 +1,4 @@
+Company: SUPER HI INTERNATIONAL HOLDING LTD. American Depositary Shares
+Ticker: HDL
+CIK: 0001995306
+Latest SEC XBRL Facts:

@@ -1,0 +1,25 @@
+Company: Bio Green Med Solution Inc. 6% Convertible Preferred Stock
+Ticker: BGMSP
+Market Cap: 
+Enterprise Value: 10965429
+Total Revenue: 81000
+Revenue Per Share: 0.078
+EBITDA: -9171000
+Gross Margins: 0.0
+Operating Margins: -12.24691
+Profit Margins: 0.0
+Free Cashflow: -9983125
+Operating Cashflow: -6093000
+Return On Assets: -0.84691
+Return On Equity: -1.77571
+Total Cash: 3838000
+Total Debt: 5000
+Debt To Equity: 0.07
+Current Ratio: 6.431
+Quick Ratio: 4.554
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.5524889
+Beta: -0.482
+52 Week High: 14.0
+52 Week Low: 2.95

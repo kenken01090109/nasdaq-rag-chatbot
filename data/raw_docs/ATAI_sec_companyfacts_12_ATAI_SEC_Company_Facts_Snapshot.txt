@@ -1,0 +1,11 @@
+Company: AtaiBeckley Inc. Common Stock
+Ticker: ATAI
+CIK: 0001840904
+Latest SEC XBRL Facts:
+Revenues: 3023000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -115234000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 239820000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 79912000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 159751000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -55196000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 30402000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

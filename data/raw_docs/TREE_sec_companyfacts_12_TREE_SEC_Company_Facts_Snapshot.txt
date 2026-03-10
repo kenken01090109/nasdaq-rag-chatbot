@@ -1,0 +1,11 @@
+Company: LendingTree Inc. Common Stock
+Ticker: TREE
+CIK: 0001434621
+Latest SEC XBRL Facts:
+Revenues: 797636000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 6652000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 759922000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 627524000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 132398000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 56575000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 68578000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

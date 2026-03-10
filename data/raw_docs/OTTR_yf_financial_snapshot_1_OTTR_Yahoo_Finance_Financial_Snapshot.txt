@@ -1,0 +1,25 @@
+Company: Otter Tail Corporation Common Stock
+Ticker: OTTR
+Market Cap: 3777495296
+Enterprise Value: 4434917888
+Total Revenue: 1304057984
+Revenue Per Share: 31.15
+EBITDA: 462823008
+Gross Margins: 0.43202
+Operating Margins: 0.22237
+Profit Margins: 0.21156
+Free Cashflow: -26483250
+Operating Cashflow: 385984992
+Return On Assets: 0.05728
+Return On Equity: 0.15630001
+Total Cash: 440504000
+Total Debt: 1130649984
+Debt To Equity: 60.73
+Current Ratio: 2.279
+Quick Ratio: 1.67
+Trailing PE: 13.746565
+Forward PE: 16.56161
+Price To Book: 2.0266497
+Beta: 0.522
+52 Week High: 90.41
+52 Week Low: 71.79

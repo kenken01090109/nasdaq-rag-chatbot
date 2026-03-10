@@ -1,0 +1,9 @@
+Company: European Wax Center Inc. Class A Common Stock
+Ticker: EWCZ
+Sector: Consumer Defensive
+Industry: Household & Personal Products
+Country: United States
+City: Plano
+Website: https://waxcenter.com
+Employees: 
+Business Summary: European Wax Center, Inc. operates as the franchisor and operator of out-of-home waxing services in the United States. It offers body and facial waxing services; and pre- and post-service products, including ingrown hair serums, exfoliating gels, brow shapers, and skin treatments, as well as skincare retail products. It also provides full-sized and travel-sized SKUs in branded product portfolio. The company distributes retail products to its franchisees for sale in-center and sells direct-to-consumer through its website. European Wax Center, Inc. was founded in 2004 and is headquartered in Plano, Texas.

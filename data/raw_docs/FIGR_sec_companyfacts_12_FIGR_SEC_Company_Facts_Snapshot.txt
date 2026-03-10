@@ -1,0 +1,11 @@
+Company: Figure Technology Solutions Inc. Class A Common Stock
+Ticker: FIGR
+CIK: 0002064124
+Latest SEC XBRL Facts:
+Revenues: 346952000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 118698000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 2156789000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 980229000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 1167824000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 49297000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1097123000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

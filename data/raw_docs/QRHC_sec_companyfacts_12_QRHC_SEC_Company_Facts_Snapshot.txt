@@ -1,0 +1,12 @@
+Company: Quest Resource Holding Corporation Common Stock
+Ticker: QRHC
+CIK: 0001442236
+Latest SEC XBRL Facts:
+Revenues: 24695923 | unit=USD | filed=2018-05-15 | period_end=2018-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 191311000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -13726000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 149285000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 107276000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 42009000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 8506000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1146000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

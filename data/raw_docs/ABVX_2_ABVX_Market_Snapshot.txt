@@ -1,0 +1,10 @@
+Company: Abivax SA American Depositary Shares
+Ticker: ABVX
+Market Cap: 8911484928
+Enterprise Value: 8255733760
+Trailing PE: 
+Forward PE: -34.19919
+Price To Book: 14.746598
+Beta: -0.381
+52 Week High: 148.83
+52 Week Low: 4.77

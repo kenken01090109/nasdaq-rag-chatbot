@@ -1,0 +1,25 @@
+Company: Beamr Imaging Ltd. Ordinary Share
+Ticker: BMR
+Market Cap: 26866648
+Enterprise Value: 15381647
+Total Revenue: 3094000
+Revenue Per Share: 0.199
+EBITDA: -6212000
+Gross Margins: 0.89722
+Operating Margins: -1.49852
+Profit Margins: -1.9457
+Free Cashflow: -2783875
+Operating Cashflow: -4701000
+Return On Assets: -0.20781
+Return On Equity: -0.32682
+Total Cash: 11485000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 13.149
+Quick Ratio: 12.843
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.7044336
+Beta: 3.893
+52 Week High: 4.32
+52 Week Low: 1.54

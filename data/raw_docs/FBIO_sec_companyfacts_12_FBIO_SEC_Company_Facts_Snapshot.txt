@@ -1,0 +1,11 @@
+Company: Fortress Biotech Inc. Common Stock
+Ticker: FBIO
+CIK: 0001429260
+Latest SEC XBRL Facts:
+Revenues: 47183000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 10752000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 181407000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 116222000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 55862000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -53233000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 86218000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

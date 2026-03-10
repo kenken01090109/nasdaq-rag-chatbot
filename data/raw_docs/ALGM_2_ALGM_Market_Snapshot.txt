@@ -1,0 +1,10 @@
+Company: Allegro MicroSystems Inc. Common Stock
+Ticker: ALGM
+Market Cap: 6073834496
+Enterprise Value: 6228520960
+Trailing PE: 
+Forward PE: 34.798668
+Price To Book: 6.3062716
+Beta: 1.67
+52 Week High: 43.86
+52 Week Low: 16.38

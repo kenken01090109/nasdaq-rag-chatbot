@@ -1,0 +1,25 @@
+Company: Plumas Bancorp
+Ticker: PLBC
+Market Cap: 349550560
+Enterprise Value: 420380672
+Total Revenue: 91446000
+Revenue Per Share: 14.2
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.52416
+Profit Margins: 0.32387
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01534
+Return On Equity: 0.13494
+Total Cash: 80616000
+Total Debt: 147896992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.063877
+Forward PE: 8.827767
+Price To Book: 1.3388954
+Beta: 0.577
+52 Week High: 54.58
+52 Week Low: 38.71

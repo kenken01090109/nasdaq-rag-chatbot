@@ -1,0 +1,11 @@
+Company: TWFG Inc. Class A Common Stock
+Ticker: TWFG
+CIK: 0002007596
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 178254000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 5017000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 349171000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 53426000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 79364000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 40213000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 150985000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

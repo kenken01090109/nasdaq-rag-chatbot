@@ -1,0 +1,25 @@
+Company: 4D Molecular Therapeutics Inc. Common Stock
+Ticker: FDMT
+Market Cap: 484505408
+Enterprise Value: 210847040
+Total Revenue: 120000
+Revenue Per Share: 0.002
+EBITDA: -222704992
+Gross Margins: 0.0
+Operating Margins: -655.3889
+Profit Margins: 0.0
+Free Cashflow: -103545376
+Operating Cashflow: -183496000
+Return On Assets: -0.27636
+Return On Equity: -0.45378
+Total Cash: 305063008
+Total Debt: 22263000
+Debt To Equity: 6.034
+Current Ratio: 8.418
+Quick Ratio: 8.221
+Trailing PE: 
+Forward PE: -2.4378743
+Price To Book: 1.0749143
+Beta: 3.007
+52 Week High: 12.34
+52 Week Low: 2.235

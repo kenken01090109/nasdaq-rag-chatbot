@@ -1,0 +1,11 @@
+Company: Sotera Health Company Common Stock
+Ticker: SHC
+CIK: 0001822479
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 860176000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 43102000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 3186162000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 2635691000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 550471000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 184091000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 299192000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

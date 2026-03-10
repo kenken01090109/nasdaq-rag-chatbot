@@ -1,0 +1,11 @@
+Company: Lakeside Holding Limited Common Stock
+Ticker: LSH
+CIK: 0001996192
+Latest SEC XBRL Facts:
+Revenues: 4081554 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -2940897 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+Assets: 24300208 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+Liabilities: 12121517 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+StockholdersEquity: 12178691 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -4469978 | unit=USD | filed=2026-02-19 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1641438 | unit=USD | filed=2026-02-19 | period_end=2025-12-31

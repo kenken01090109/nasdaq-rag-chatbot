@@ -1,0 +1,9 @@
+Company: Freightos Limited Ordinary shares
+Ticker: CRGO
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: Spain
+City: Barcelona
+Website: https://www.freightos.com
+Employees: 
+Business Summary: Freightos Limited operates a vendor-neutral booking and payment platform for international freight. It operates WebCargo, a platform for connecting carriers and forwarders; and Freightos.com, a platform for connecting service providers to importers/exporters. The company offers software-as-a-service solutions, such as WebCargo Rate & Quote (Air), a dynamic airline rates and eBookings; WebCargo Rate & Quote (Multimodal), a multi-modal rate repository; data services provide digitalize static carrier rates; WebCargo Airline that enables airlines to control bookings and optimize pricing with real-time booking analytics; and Shipsta Procure that enables shippers or forwarders to manage their ongoing tender procurement process for logistics service. In addition, it provides digital customs brokerage services. The company was founded in 2011 and is based in Barcelona, Spain.

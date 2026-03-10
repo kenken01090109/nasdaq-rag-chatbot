@@ -1,0 +1,25 @@
+Company: DevvStream Corp. Common Stock
+Ticker: DEVS
+Market Cap: 3556569
+Enterprise Value: 15896902
+Total Revenue: 26894
+Revenue Per Share: 0.008
+EBITDA: -11550403
+Gross Margins: 0.55116004
+Operating Margins: -1624.99
+Profit Margins: 0.0
+Free Cashflow: -4483021
+Operating Cashflow: -9316626
+Return On Assets: -1.6081799
+Return On Equity: 
+Total Cash: 819076
+Total Debt: 13244818
+Debt To Equity: 
+Current Ratio: 0.12
+Quick Ratio: 0.075
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.16136724
+Beta: 0.58
+52 Week High: 13.5
+52 Week Low: 0.74

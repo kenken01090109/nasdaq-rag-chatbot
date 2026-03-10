@@ -1,0 +1,25 @@
+Company: Stardust Power Inc. Common Stock
+Ticker: SDST
+Market Cap: 31483894
+Enterprise Value: 31903856
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -19097040
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -7484000
+Operating Cashflow: -7754313
+Return On Assets: -1.54871
+Return On Equity: 
+Total Cash: 1585004
+Total Debt: 304666
+Debt To Equity: 
+Current Ratio: 0.167
+Quick Ratio: 0.11
+Trailing PE: 
+Forward PE: -29.0
+Price To Book: -5.576923
+Beta: 0.292
+52 Week High: 8.43
+52 Week Low: 1.43

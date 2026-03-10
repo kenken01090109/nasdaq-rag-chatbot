@@ -1,0 +1,25 @@
+Company: Braze Inc. Class A Common Stock
+Ticker: BRZE
+Market Cap: 2469929216
+Enterprise Value: 2044106624
+Total Revenue: 693411968
+Revenue Per Share: 6.531
+EBITDA: -114073000
+Gross Margins: 0.68125
+Operating Margins: -0.19410999
+Profit Margins: -0.16855
+Free Cashflow: 165196128
+Operating Cashflow: 69146000
+Return On Assets: -0.08375
+Return On Equity: -0.21933001
+Total Cash: 383265984
+Total Debt: 83946000
+Debt To Equity: 13.935
+Current Ratio: 1.359
+Quick Ratio: 1.297
+Trailing PE: 
+Forward PE: 31.623405
+Price To Book: 3.728939
+Beta: 1.073
+52 Week High: 43.89
+52 Week Low: 15.26

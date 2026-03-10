@@ -1,0 +1,12 @@
+Company: Biofrontera Inc. Warrants
+Ticker: BFRIW
+CIK: 0001858685
+Latest SEC XBRL Facts:
+Revenues: 28674000 | unit=USD | filed=2023-10-03 | period_end=2022-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 24605000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -16176000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 15415000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 17996000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -2581000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10985000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3417000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Full House Resorts Inc. Common Stock
+Ticker: FLL
+Sector: Consumer Cyclical
+Industry: Resorts & Casinos
+Country: United States
+City: Las Vegas
+Website: https://www.fullhouseresorts.com
+Employees: 1685
+Business Summary: Full House Resorts, Inc. owns, leases, operates, develops, manages, and invests in casinos, and related hospitality and entertainment facilities in the United States. It operates through Midwest & South, West, and Contracted Sports Wagering segments. The company's properties include American Place in Waukegan, Illinois; Silver Slipper Casino and Hotel in Hancock County, Mississippi; Rising Star Casino Resort in Rising Sun, Indiana; Bronco Billy's Casino and Chamonix Casino Hotel in Cripple Creek, Colorado; Stockman's Casino in Fallon, Nevada; and Grand Lodge Casino, located within the Hyatt Regency Lake Tahoe Resort, Spa and Casino in Incline Village, Nevada. It also offers online sports wagering services. Full House Resorts, Inc. was incorporated in 1987 and is headquartered in Las Vegas, Nevada.

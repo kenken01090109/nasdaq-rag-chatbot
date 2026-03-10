@@ -1,0 +1,12 @@
+Company: Lyft Inc. Class A Common Stock
+Ticker: LYFT
+CIK: 0001759509
+Latest SEC XBRL Facts:
+Revenues: 4723550000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 4397746000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 88955000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 5943033000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 5369998000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 573035000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 922213000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1305908000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

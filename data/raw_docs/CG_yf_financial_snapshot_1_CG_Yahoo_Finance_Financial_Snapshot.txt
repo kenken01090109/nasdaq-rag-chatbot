@@ -1,0 +1,25 @@
+Company: The Carlyle Group Inc. Common Stock
+Ticker: CG
+Market Cap: 17624074240
+Enterprise Value: 30645209088
+Total Revenue: 4031600128
+Revenue Per Share: 11.209
+EBITDA: 
+Gross Margins: 0.76776004
+Operating Margins: 0.30581
+Profit Margins: 0.20059
+Free Cashflow: 
+Operating Cashflow: -3275500032
+Return On Assets: 0.03618
+Return On Equity: 0.14095001
+Total Cash: 3205299968
+Total Debt: 13893199872
+Debt To Equity: 196.868
+Current Ratio: 1.847
+Quick Ratio: 1.772
+Trailing PE: 27.47191
+Forward PE: 8.961444
+Price To Book: 3.0331225
+Beta: 2.064
+52 Week High: 69.85
+52 Week Low: 33.02

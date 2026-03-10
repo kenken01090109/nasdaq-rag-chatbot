@@ -1,0 +1,11 @@
+Company: INNEOVA Holdings Limited Class A Ordinary Shares
+Ticker: INEO
+CIK: 0001933951
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 30771000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetIncomeLoss: 243000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Assets: 52584000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+Liabilities: 41418000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+StockholdersEquity: 11166000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -301000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2139000 | unit=USD | filed=2025-09-30 | period_end=2025-06-30

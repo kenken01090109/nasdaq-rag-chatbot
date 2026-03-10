@@ -1,0 +1,10 @@
+Company: AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock
+Ticker: AGNCN
+Market Cap: 8795780096
+Enterprise Value: 98477613056
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.7209947
+Beta: 1.351
+52 Week High: 26.589
+52 Week Low: 23.633

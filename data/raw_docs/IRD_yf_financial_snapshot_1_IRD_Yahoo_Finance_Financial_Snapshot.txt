@@ -1,0 +1,25 @@
+Company: Opus Genetics Inc. Common Stock
+Ticker: IRD
+Market Cap: 337234976
+Enterprise Value: 299212288
+Total Revenue: 14633000
+Revenue Per Share: 0.295
+EBITDA: -37129500
+Gross Margins: -0.87371004
+Operating Margins: -2.69925
+Profit Margins: 0.0
+Free Cashflow: 1850125
+Operating Cashflow: -32858000
+Return On Assets: -0.60735
+Return On Equity: -3.3875399
+Total Cash: 30815000
+Total Debt: 1068000
+Debt To Equity: 17.898
+Current Ratio: 1.235
+Quick Ratio: 1.207
+Trailing PE: 
+Forward PE: -11.284702
+Price To Book: 53.152172
+Beta: 0.586
+52 Week High: 5.09
+52 Week Low: 0.65

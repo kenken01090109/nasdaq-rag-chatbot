@@ -1,0 +1,11 @@
+Company: Functional Brands Inc. Common Stock
+Ticker: MEHA
+CIK: 0001837254
+Latest SEC XBRL Facts:
+Revenues: 5116963 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+NetIncomeLoss: -93837 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+Assets: 8233541 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+Liabilities: 7628876 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+StockholdersEquity: 604665 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1478358 | unit=USD | filed=2025-12-15 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1005324 | unit=USD | filed=2025-12-15 | period_end=2025-09-30

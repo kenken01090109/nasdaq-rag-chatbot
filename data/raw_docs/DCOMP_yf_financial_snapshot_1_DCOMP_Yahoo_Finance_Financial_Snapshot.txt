@@ -1,0 +1,25 @@
+Company: Dime Community Bancshares Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: DCOMP
+Market Cap: 
+Enterprise Value: -563010880
+Total Revenue: 409900992
+Revenue Per Share: 9.527
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.46367002
+Profit Margins: 0.27002
+Free Cashflow: 
+Operating Cashflow: 186566000
+Return On Assets: 0.00745
+Return On Equity: 0.07707
+Total Cash: 2430280960
+Total Debt: 899804992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 5.156459
+Forward PE: 
+Price To Book: 0.62217635
+Beta: 1.103
+52 Week High: 20.75
+52 Week Low: 17.05

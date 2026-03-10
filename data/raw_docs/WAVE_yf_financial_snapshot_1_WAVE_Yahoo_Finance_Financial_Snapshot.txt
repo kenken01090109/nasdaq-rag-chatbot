@@ -1,0 +1,25 @@
+Company: Eco Wave Power Global AB (publ) American Depositary Shares
+Ticker: WAVE
+Market Cap: 31994582
+Enterprise Value: 251699008
+Total Revenue: 168000
+Revenue Per Share: 0.029
+EBITDA: -2756250
+Gross Margins: 0.75
+Operating Margins: -16.375
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.20341998
+Return On Equity: -0.56501997
+Total Cash: 5302000
+Total Debt: 1364000
+Debt To Equity: 22.375
+Current Ratio: 2.804
+Quick Ratio: 2.182
+Trailing PE: 
+Forward PE: -12.590575
+Price To Book: 5.0853295
+Beta: -0.448
+52 Week High: 9.87
+52 Week Low: 4.41

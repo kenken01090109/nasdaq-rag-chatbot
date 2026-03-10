@@ -1,0 +1,9 @@
+Company: Atlanta Braves Holdings Inc. Series C Common Stock
+Ticker: BATRK
+Sector: Communication Services
+Industry: Entertainment
+Country: United States
+City: Atlanta
+Website: https://www.bravesholdings.com
+Employees: 1610
+Business Summary: Atlanta Braves Holdings, Inc., through its subsidiary, Braves Holdings, LLC, owns and operates the Atlanta Braves Major League Baseball Club in the United States. It operates through Baseball and Mixed-Use Development segments. The company also operates the Braves' ballpark located in Cobb County, a suburb of Atlanta. In addition, it is involved in the mixed-use development business, such as retail, office, hotel, and entertainment operations primarily within The Battery Atlanta. The company was incorporated in 2022 and is headquartered in Atlanta, Georgia.

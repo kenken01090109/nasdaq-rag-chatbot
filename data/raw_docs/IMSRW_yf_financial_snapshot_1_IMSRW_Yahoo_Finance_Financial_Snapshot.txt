@@ -1,0 +1,25 @@
+Company: Terrestrial Energy Inc. Warrant
+Ticker: IMSRW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: -1038
+Revenue Per Share: -0.001
+EBITDA: -19824906
+Gross Margins: 0.0
+Operating Margins: 19973.037
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: -14478042
+Return On Assets: 
+Return On Equity: 
+Total Cash: 27739256
+Total Debt: 28176476
+Debt To Equity: 
+Current Ratio: 3.924
+Quick Ratio: 3.859
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.36108208
+Beta: 
+52 Week High: 3.5
+52 Week Low: 3.11

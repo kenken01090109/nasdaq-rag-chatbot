@@ -1,0 +1,25 @@
+Company: Pilgrim's Pride Corporation Common Stock
+Ticker: PPC
+Market Cap: 9680058368
+Enterprise Value: 12406486016
+Total Revenue: 18497552384
+Revenue Per Share: 77.908
+EBITDA: 2265399040
+Gross Margins: 0.12748
+Operating Margins: 0.08309
+Profit Margins: 0.058509998
+Free Cashflow: 630862720
+Operating Cashflow: 1371650048
+Return On Assets: 0.10772
+Return On Equity: 0.27264
+Total Cash: 640235008
+Total Debt: 3352982016
+Debt To Equity: 90.775
+Current Ratio: 1.466
+Quick Ratio: 0.662
+Trailing PE: 8.975771
+Forward PE: 9.839597
+Price To Book: 2.63039
+Beta: 0.418
+52 Week High: 56.88
+52 Week Low: 35.73

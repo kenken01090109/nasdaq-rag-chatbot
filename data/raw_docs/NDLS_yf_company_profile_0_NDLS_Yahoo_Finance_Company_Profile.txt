@@ -1,0 +1,9 @@
+Company: Noodles & Company Class A Common Stock
+Ticker: NDLS
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: United States
+City: Broomfield
+Website: https://www.noodles.com
+Employees: 7300
+Business Summary: Noodles & Company, a restaurant concept company, develops and operates fast-casual restaurants in the United States. The company offers cooked-to-order dishes, including noodles and pasta, soups, salads, and appetizers. It also operates company owned and franchise operated locations. Noodles & Company was founded in 1995 and is based in Broomfield, Colorado.

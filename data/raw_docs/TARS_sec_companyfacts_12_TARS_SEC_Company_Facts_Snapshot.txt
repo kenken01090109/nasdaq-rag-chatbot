@@ -1,0 +1,11 @@
+Company: Tarsus Pharmaceuticals Inc. Common Stock
+Ticker: TARS
+CIK: 0001819790
+Latest SEC XBRL Facts:
+Revenues: 299692000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: -58045000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 534561000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 199479000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 335082000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -31781000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 112724000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

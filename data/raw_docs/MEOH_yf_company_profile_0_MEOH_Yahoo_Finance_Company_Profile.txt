@@ -1,0 +1,9 @@
+Company: Methanex Corporation Common Stock
+Ticker: MEOH
+Sector: Basic Materials
+Industry: Chemicals
+Country: Canada
+City: Vancouver
+Website: https://www.methanex.com
+Employees: 
+Business Summary: Methanex Corporation engages in the production and sale of methanol and ammonia in Asia Pacific, North America, Europe, and South America. It also owns and leases in-region storage and terminal facilities. The company serves chemical and petrochemical producers. Methanex Corporation was incorporated in 1968 and is headquartered in Vancouver, Canada.

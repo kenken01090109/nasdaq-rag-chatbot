@@ -1,0 +1,12 @@
+Company: InMed Pharmaceuticals Inc. Common Shares
+Ticker: INM
+CIK: 0001728328
+Latest SEC XBRL Facts:
+Revenues: 1940309 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 574677 | unit=USD | filed=2022-05-13 | period_end=2022-03-31
+NetIncomeLoss: -3755122 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Assets: 11191484 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+Liabilities: 1603820 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+StockholdersEquity: 9587664 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3983859 | unit=USD | filed=2026-02-11 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 6954834 | unit=USD | filed=2026-02-11 | period_end=2025-12-31

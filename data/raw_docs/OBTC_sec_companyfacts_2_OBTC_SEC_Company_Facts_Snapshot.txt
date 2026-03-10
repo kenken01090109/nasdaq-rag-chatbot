@@ -1,0 +1,7 @@
+Company: Osprey Bitcoin Trust Common Units of Beneficial Interest
+Ticker: OBTC
+CIK: 0001767057
+Latest SEC XBRL Facts:
+NetIncomeLoss: 28218365 | unit=USD | filed=2023-11-03 | period_end=2023-09-30
+Assets: 74369684 | unit=USD | filed=2023-11-03 | period_end=2023-09-30
+Liabilities: 136539 | unit=USD | filed=2023-11-03 | period_end=2023-09-30

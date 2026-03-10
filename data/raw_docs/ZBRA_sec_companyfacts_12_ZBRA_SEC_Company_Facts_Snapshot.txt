@@ -1,0 +1,11 @@
+Company: Zebra Technologies Corporation Class A Common Stock
+Ticker: ZBRA
+CIK: 0000877212
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3921000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+NetIncomeLoss: 349000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+Assets: 8067000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+Liabilities: 4320000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+StockholdersEquity: 3747000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 560000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 1053000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-27

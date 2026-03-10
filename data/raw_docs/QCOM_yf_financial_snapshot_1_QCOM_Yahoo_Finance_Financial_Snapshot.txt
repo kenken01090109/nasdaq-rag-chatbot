@@ -1,0 +1,25 @@
+Company: QUALCOMM Incorporated Common Stock
+Ticker: QCOM
+Market Cap: 144923049984
+Enterprise Value: 149173993472
+Total Revenue: 44866998272
+Revenue Per Share: 41.314
+EBITDA: 13763999744
+Gross Margins: 0.55101
+Operating Margins: 0.27473
+Profit Margins: 0.11958
+Free Cashflow: 10423374848
+Operating Cashflow: 14389999616
+Return On Assets: 0.14047
+Return On Equity: 0.2148
+Total Cash: 11822000128
+Total Debt: 14817000448
+Debt To Equity: 64.218
+Current Ratio: 2.505
+Quick Ratio: 1.626
+Trailing PE: 27.356855
+Forward PE: 12.064121
+Price To Book: 6.3161573
+Beta: 1.267
+52 Week High: 205.95
+52 Week Low: 120.8

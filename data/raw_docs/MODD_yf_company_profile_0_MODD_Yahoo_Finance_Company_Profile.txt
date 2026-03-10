@@ -1,0 +1,9 @@
+Company: Modular Medical Inc. Common Stock
+Ticker: MODD
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: San Diego
+Website: https://www.modularmedical.com
+Employees: 53
+Business Summary: Modular Medical, Inc. operates as a medical device company. The company focuses on the design, development, and commercialization of insulin pumps. It also offers MODD1, a two-part patch pump for type-1 and type-2 diabetes. Modular Medical, Inc. is headquartered in San Diego, California.

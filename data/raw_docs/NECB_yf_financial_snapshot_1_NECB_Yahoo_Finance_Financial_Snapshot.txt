@@ -1,0 +1,25 @@
+Company: NorthEast Community Bancorp Inc. Common Stock
+Ticker: NECB
+Market Cap: 315316192
+Enterprise Value: 308429056
+Total Revenue: 104927000
+Revenue Per Share: 7.912
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.59442
+Profit Margins: 0.42328
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.02181
+Return On Equity: 0.13257
+Total Cash: 81275000
+Total Debt: 75230000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 7.1953845
+Forward PE: 6.269437
+Price To Book: 0.88412094
+Beta: 0.382
+52 Week High: 25.18
+52 Week Low: 19.27

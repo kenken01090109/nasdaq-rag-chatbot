@@ -1,0 +1,9 @@
+Company: Brilliant Earth Group Inc. Class A Common Stock
+Ticker: BRLT
+Sector: Consumer Cyclical
+Industry: Luxury Goods
+Country: United States
+City: San Francisco
+Website: https://www.brilliantearth.com
+Employees: 756
+Business Summary: Brilliant Earth Group, Inc. designs, procures, and sells diamonds, gemstones, and jewelry in the United States and internationally. The company offers diamond engagement rings, wedding and anniversary rings, gemstone rings, and fine jewelry. It sells directly to consumers through its omnichannel sales platform, e-commerce, and showrooms. Brilliant Earth Group, Inc. was founded in 2005 and is based in San Francisco, California.

@@ -1,0 +1,25 @@
+Company: Olaplex Holdings Inc. Common Stock
+Ticker: OLPX
+Market Cap: 897803584
+Enterprise Value: 1013756288
+Total Revenue: 422960000
+Revenue Per Share: 0.635
+EBITDA: 79316000
+Gross Margins: 0.71787
+Operating Margins: -0.0419
+Profit Margins: -0.02187
+Free Cashflow: 54089752
+Operating Cashflow: 58660000
+Return On Assets: 0.00973
+Return On Equity: -0.01055
+Total Cash: 318731008
+Total Debt: 352289984
+Debt To Equity: 40.061
+Current Ratio: 4.583
+Quick Ratio: 3.388
+Trailing PE: Infinity
+Forward PE: 13.540723
+Price To Book: 1.0235921
+Beta: 2.24
+52 Week High: 1.839
+52 Week Low: 0.992

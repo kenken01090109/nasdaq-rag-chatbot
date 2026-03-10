@@ -1,0 +1,10 @@
+Company: Paramount Skydance Corporation Class B Common Stock
+Ticker: PSKY
+CIK: 0002041610
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4121000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -13000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 43181000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 12005000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 268000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3263000000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

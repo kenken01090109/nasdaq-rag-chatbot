@@ -1,0 +1,10 @@
+Company: Steakholder Foods Ltd. American Depositary Shares
+Ticker: STKH
+CIK: 0001828098
+Latest SEC XBRL Facts:
+Revenues: 10000 | unit=USD | filed=2025-03-31 | period_end=2024-12-31
+NetIncomeLoss: -3844000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+Assets: 5858000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+StockholdersEquity: 4111000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2815000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1377000 | unit=USD | filed=2025-08-27 | period_end=2025-06-30

@@ -1,0 +1,25 @@
+Company: Solid Power Inc. Warrant
+Ticker: SLDPW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 17913000
+Revenue Per Share: 0.097
+EBITDA: -81662000
+Gross Margins: -0.15274
+Operating Margins: -10.31155
+Profit Margins: 0.0
+Free Cashflow: -57854124
+Operating Cashflow: -73393000
+Return On Assets: -0.13849
+Return On Equity: -0.22618
+Total Cash: 250784000
+Total Debt: 8256000
+Debt To Equity: 1.986
+Current Ratio: 15.923
+Quick Ratio: 15.506
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.13843176
+Beta: 1.931
+52 Week High: 0.34
+52 Week Low: 0.286

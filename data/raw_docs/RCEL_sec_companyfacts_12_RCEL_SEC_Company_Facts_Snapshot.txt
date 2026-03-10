@@ -1,0 +1,11 @@
+Company: Avita Medical Inc. Common Stock
+Ticker: RCEL
+CIK: 0001762303
+Latest SEC XBRL Facts:
+Revenues: 53995000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -36966000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 63728000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 70394000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -6666000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -25757000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15422000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

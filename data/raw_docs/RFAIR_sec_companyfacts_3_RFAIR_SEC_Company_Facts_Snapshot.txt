@@ -1,0 +1,10 @@
+Company: RF Acquisition Corp II Right
+Ticker: RFAIR
+CIK: 0002012807
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1056869 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 123463751 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 4551764 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -3960422 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -396561 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

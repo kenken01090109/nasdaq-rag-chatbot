@@ -1,0 +1,12 @@
+Company: Verastem Inc. Common Stock
+Ticker: VSTM
+CIK: 0001526119
+Latest SEC XBRL Facts:
+Revenues: 13379000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10000000 | unit=USD | filed=2024-11-06 | period_end=2024-09-30
+NetIncomeLoss: -176555000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 176852000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 192378000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: -15526000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -107555000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 137706000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

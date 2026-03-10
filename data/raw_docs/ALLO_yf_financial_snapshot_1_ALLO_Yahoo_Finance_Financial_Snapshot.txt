@@ -1,0 +1,25 @@
+Company: Allogene Therapeutics Inc. Common Stock
+Ticker: ALLO
+Market Cap: 516879328
+Enterprise Value: 349827328
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -212484000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -83917752
+Operating Cashflow: -158344992
+Return On Assets: -0.27337998
+Return On Equity: -0.54427
+Total Cash: 252194000
+Total Debt: 85142000
+Debt To Equity: 27.001
+Current Ratio: 8.19
+Quick Ratio: 7.988
+Trailing PE: 
+Forward PE: -2.5969334
+Price To Book: 1.6277424
+Beta: 0.5
+52 Week High: 2.8
+52 Week Low: 0.86

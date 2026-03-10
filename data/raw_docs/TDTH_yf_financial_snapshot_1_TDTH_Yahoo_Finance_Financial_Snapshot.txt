@@ -1,0 +1,25 @@
+Company: Trident Digital Tech Holdings Ltd American Depository Shares
+Ticker: TDTH
+Market Cap: 27964556
+Enterprise Value: 144141168
+Total Revenue: 123208
+Revenue Per Share: 0.002
+EBITDA: -17396912
+Gross Margins: 0.0029499999
+Operating Margins: -309.4131
+Profit Margins: 0.0
+Free Cashflow: -2142660
+Operating Cashflow: -10877354
+Return On Assets: -3.26702
+Return On Equity: 
+Total Cash: 261404
+Total Debt: 6829528
+Debt To Equity: 
+Current Ratio: 1.007
+Quick Ratio: 0.224
+Trailing PE: 
+Forward PE: 
+Price To Book: -3.0424242
+Beta: 
+52 Week High: 2.68
+52 Week Low: 0.172

@@ -1,0 +1,25 @@
+Company: Vivos Therapeutics Inc. Common Stock
+Ticker: VVOS
+Market Cap: 15188792
+Enterprise Value: 21365180
+Total Revenue: 17317000
+Revenue Per Share: 1.929
+EBITDA: -15307000
+Gross Margins: 0.55731
+Operating Margins: -0.69792
+Profit Margins: -0.98764
+Free Cashflow: -9380750
+Operating Cashflow: -14391000
+Return On Assets: -0.49761
+Return On Equity: -3.3545198
+Total Cash: 3087000
+Total Debt: 12498000
+Debt To Equity: 493.602
+Current Ratio: 0.778
+Quick Ratio: 0.702
+Trailing PE: 
+Forward PE: -1.064
+Price To Book: 4.3464055
+Beta: 7.017
+52 Week High: 7.95
+52 Week Low: 1.29

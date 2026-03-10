@@ -1,0 +1,10 @@
+Company: Allbirds Inc. Class A Common Stock
+Ticker: BIRD
+CIK: 0001653909
+Latest SEC XBRL Facts:
+NetIncomeLoss: -57700000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 119914000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 67982000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 51932000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -51809000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 23704000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

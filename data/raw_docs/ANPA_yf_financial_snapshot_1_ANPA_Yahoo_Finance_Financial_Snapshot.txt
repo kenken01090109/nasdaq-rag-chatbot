@@ -1,0 +1,25 @@
+Company: Rich Sparkle Holdings Limited Ordinary Shares
+Ticker: ANPA
+Market Cap: 113375000
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 907.0
+Forward PE: 
+Price To Book: 44.679802
+Beta: 
+52 Week High: 180.639
+52 Week Low: 2.797

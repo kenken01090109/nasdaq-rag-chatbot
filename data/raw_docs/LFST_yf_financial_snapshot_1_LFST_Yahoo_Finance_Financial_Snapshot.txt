@@ -1,0 +1,25 @@
+Company: LifeStance Health Group Inc. Common Stock
+Ticker: LFST
+Market Cap: 2652687616
+Enterprise Value: 2934875392
+Total Revenue: 1424285056
+Revenue Per Share: 3.69
+EBITDA: 79920000
+Gross Margins: 0.32374
+Operating Margins: 0.04741
+Profit Margins: 0.00678
+Free Cashflow: 112900624
+Operating Cashflow: 146151008
+Return On Assets: 0.00728
+Return On Equity: 0.00651
+Total Cash: 248642000
+Total Debt: 474524000
+Debt To Equity: 31.198
+Current Ratio: 1.652
+Quick Ratio: 1.382
+Trailing PE: 346.5
+Forward PE: 18.125227
+Price To Book: 1.769211
+Beta: 1.106
+52 Week High: 8.09
+52 Week Low: 3.74

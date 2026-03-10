@@ -1,0 +1,25 @@
+Company: Nova Ltd. Ordinary Shares
+Ticker: NVMI
+Market Cap: 13073289216
+Enterprise Value: 13658873856
+Total Revenue: 880577024
+Revenue Per Share: 29.247
+EBITDA: 276692992
+Gross Margins: 0.57370996
+Operating Margins: 0.27666
+Profit Margins: 0.29438
+Free Cashflow: 149586880
+Operating Cashflow: 245612992
+Return On Assets: 0.084750004
+Return On Equity: 0.23083
+Total Cash: 1048510016
+Total Debt: 799155008
+Debt To Equity: 60.623
+Current Ratio: 6.283
+Quick Ratio: 5.351
+Trailing PE: 51.545113
+Forward PE: 33.086548
+Price To Book: 9.916345
+Beta: 1.83
+52 Week High: 507.27
+52 Week Low: 154.0

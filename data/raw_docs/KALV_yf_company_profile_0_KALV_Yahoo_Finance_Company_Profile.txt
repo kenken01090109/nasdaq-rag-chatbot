@@ -1,0 +1,9 @@
+Company: KalVista Pharmaceuticals Inc. Common Stock
+Ticker: KALV
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Framingham
+Website: https://www.kalvista.com
+Employees: 270
+Business Summary: KalVista Pharmaceuticals, Inc., a biopharmaceutical company, engages in the discovery, development, and commercialization of drug therapies inhibitors for diseases with unmet needs. The company's product candidate is EKTERLY, a small molecule plasma kallikrein inhibitor targeting the disease of hereditary angioedema (HAE). It develops Factor XIIa, an oral inhibitor for the treatment of HAE which is in preclinical trial. In addition, the company is developing an orally disintegrating tablet formulation, including KONFIDENT-KID for pediatric use with HAE; KONFIDENT-S for adolescent and adult patients with type I or type II HAE; and KONFIDENT for a potential oral therapy for HAE attacks. KalVista Pharmaceuticals, Inc. is headquartered in Framingham, Massachusetts.

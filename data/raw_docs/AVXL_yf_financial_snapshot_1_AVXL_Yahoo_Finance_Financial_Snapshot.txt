@@ -1,0 +1,25 @@
+Company: Anavex Life Sciences Corp. Common Stock
+Ticker: AVXL
+Market Cap: 430923680
+Enterprise Value: 309368576
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -21833624
+Operating Cashflow: -34075000
+Return On Assets: -0.21558
+Return On Equity: -0.33635
+Total Cash: 131749000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 20.874
+Quick Ratio: 20.812
+Trailing PE: 
+Forward PE: -33.214287
+Price To Book: 3.4040995
+Beta: 1.049
+52 Week High: 13.99
+52 Week Low: 2.86

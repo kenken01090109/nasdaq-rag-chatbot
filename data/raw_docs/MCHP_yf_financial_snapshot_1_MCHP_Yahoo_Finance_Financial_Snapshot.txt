@@ -1,0 +1,25 @@
+Company: Microchip Technology Incorporated Common Stock
+Ticker: MCHP
+Market Cap: 35049345024
+Enterprise Value: 41848295424
+Total Revenue: 4372400128
+Revenue Per Share: 8.103
+EBITDA: 979900032
+Gross Margins: 0.55407
+Operating Margins: 0.13196
+Profit Margins: -0.01574
+Free Cashflow: 996412480
+Operating Cashflow: 911000000
+Return On Assets: 0.011569999
+Return On Equity: -0.010930001
+Total Cash: 250700000
+Total Debt: 5404599808
+Debt To Equity: 82.382
+Current Ratio: 2.162
+Quick Ratio: 0.927
+Trailing PE: 
+Forward PE: 24.384367
+Price To Book: 5.3427367
+Beta: 1.447
+52 Week High: 83.35
+52 Week Low: 34.13

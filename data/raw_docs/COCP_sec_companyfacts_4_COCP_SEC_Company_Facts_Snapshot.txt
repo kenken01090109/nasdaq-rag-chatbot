@@ -1,0 +1,12 @@
+Company: Cocrystal Pharma Inc. Common Stock
+Ticker: COCP
+CIK: 0001412486
+Latest SEC XBRL Facts:
+Revenues: 1015000 | unit=USD | filed=2021-08-16 | period_end=2020-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1504000 | unit=USD | filed=2021-11-15 | period_end=2020-09-30
+NetIncomeLoss: -6405000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 10446000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 2777000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 7669000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6456000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 18143000 | unit=USD | filed=2024-08-14 | period_end=2024-06-30

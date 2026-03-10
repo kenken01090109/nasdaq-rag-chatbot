@@ -1,0 +1,8 @@
+Company: Aeluma Inc. Common Stock
+Ticker: ALMU
+Total Cash: 38572000
+Total Debt: 1134000
+Debt To Equity: 2.779
+Current Ratio: 48.804
+Quick Ratio: 47.966
+Book Value: 2.266

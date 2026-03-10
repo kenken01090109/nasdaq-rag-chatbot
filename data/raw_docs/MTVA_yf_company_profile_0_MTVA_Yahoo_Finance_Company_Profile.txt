@@ -1,0 +1,9 @@
+Company: MetaVia Inc. Common Stock
+Ticker: MTVA
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.metaviatx.com
+Employees: 9
+Business Summary: MetaVia Inc., a clinical-stage biotechnology company, focuses on developing novel pharmaceuticals to treat cardiometabolic diseases. It develops DA-1241, a novel G-Protein-Coupled Receptor 119 agonist with development optionality as a standalone and/or combination therapy that is in Phase 2a clinical trial for the treatment of metabolic dysfunction-associated steatohepatitis, as well as completed Phase 1 clinical trial for the treatment of type 2 diabetes mellitus; and DA-1726, a novel oxyntomodulin analogue functioning as a GLP-1 receptor and glucagon receptor dual agonist, which is in Phase 1 trial for the treatment of obesity. The company's therapeutic programs include ANA001, a proprietary oral niclosamide formulation for the treatment of patients with moderate COVID-19; NB-01 for the treatment of painful diabetic neuropathy; NB-02 for the treatment of cognitive impairment; and Gemcabene for the treatment of dyslipidemia. It has a license agreement with Pfizer Inc. for the research, development, manufacture, and commercialization of Gemcabene; and Dong-A ST, a sole manufacturer for the production of DA-1241 and DA-1726. The company was formerly known as NeuroBo Pharmaceuticals, Inc. and changed its name to MetaVia Inc. in November 2024. MetaVia Inc. is headquartered in Cambridge, Massachusetts. MetaVia Inc. operates as a subsidiary of Dong-A ST Co., Ltd.

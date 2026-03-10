@@ -1,0 +1,25 @@
+Company: Hut 8 Corp. Common Stock
+Ticker: HUT
+Market Cap: 5219464192
+Enterprise Value: 5871426560
+Total Revenue: 235118000
+Revenue Per Share: 2.232
+EBITDA: -214000000
+Gross Margins: 0.54162
+Operating Margins: -4.97744
+Profit Margins: -0.96185
+Free Cashflow: -371573760
+Operating Cashflow: -139226000
+Return On Assets: -0.09242
+Return On Equity: -0.18576
+Total Cash: 44914000
+Total Debt: 429331008
+Debt To Equity: 25.412
+Current Ratio: 1.087
+Quick Ratio: 0.202
+Trailing PE: 
+Forward PE: -14.832998
+Price To Book: 3.644317
+Beta: 6.171
+52 Week High: 66.07
+52 Week Low: 10.04

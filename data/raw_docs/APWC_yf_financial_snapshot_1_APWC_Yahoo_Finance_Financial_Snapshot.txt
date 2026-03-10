@@ -1,0 +1,25 @@
+Company: Asia Pacific Wire & Cable Corporation Ltd. Ordinary Shares (Bermuda)
+Ticker: APWC
+Market Cap: 35197184
+Enterprise Value: 108135872
+Total Revenue: 492000992
+Revenue Per Share: 23.865
+EBITDA: 13427750
+Gross Margins: 0.072680004
+Operating Margins: 0.0296
+Profit Margins: 0.00559
+Free Cashflow: 8775625
+Operating Cashflow: 15572000
+Return On Assets: 0.01435
+Return On Equity: 0.024820002
+Total Cash: 35274000
+Total Debt: 44215000
+Debt To Equity: 19.33
+Current Ratio: 2.536
+Quick Ratio: 1.249
+Trailing PE: 11.856428
+Forward PE: 
+Price To Book: 0.20895015
+Beta: 0.435
+52 Week High: 2.34
+52 Week Low: 1.45

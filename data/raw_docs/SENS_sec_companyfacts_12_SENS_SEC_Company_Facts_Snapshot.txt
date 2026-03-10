@@ -1,0 +1,12 @@
+Company: Senseonics Holdings Inc. Common Stock
+Ticker: SENS
+CIK: 0001616543
+Latest SEC XBRL Facts:
+Revenues: 8263000 | unit=USD | filed=2023-08-10 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 21001000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -48290000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 139924000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 61759000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 78165000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -41164000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34458000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Ocular Therapeutix Inc. Common Stock
+Ticker: OCUL
+Market Cap: 2235694592
+Enterprise Value: 1588664064
+Total Revenue: 51951000
+Revenue Per Share: 0.277
+EBITDA: -265694000
+Gross Margins: -2.92043
+Operating Margins: -5.26491
+Profit Margins: 0.0
+Free Cashflow: -128276496
+Operating Cashflow: -204883008
+Return On Assets: -0.26661
+Return On Equity: -0.54852
+Total Cash: 737059968
+Total Debt: 76968000
+Debt To Equity: 11.763
+Current Ratio: 15.394
+Quick Ratio: 15.111
+Trailing PE: 
+Forward PE: -8.176752
+Price To Book: 3.389439
+Beta: 0.947
+52 Week High: 16.44
+52 Week Low: 5.8

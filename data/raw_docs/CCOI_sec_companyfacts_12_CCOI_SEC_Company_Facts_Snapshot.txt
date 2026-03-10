@@ -1,0 +1,10 @@
+Company: Cogent Communications Holdings Inc.
+Ticker: CCOI
+CIK: 0001158324
+Latest SEC XBRL Facts:
+NetIncomeLoss: -151393000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 3148271000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 3187441000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -39170000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4587000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 147088000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

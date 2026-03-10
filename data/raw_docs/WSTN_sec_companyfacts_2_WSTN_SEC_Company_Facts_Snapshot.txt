@@ -1,0 +1,9 @@
+Company: Westin Acquisition Corp Class A Ordinary Share
+Ticker: WSTN
+CIK: 0002076192
+Latest SEC XBRL Facts:
+NetIncomeLoss: 124521 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 58323816 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 2794328 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 5098105 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -217828 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

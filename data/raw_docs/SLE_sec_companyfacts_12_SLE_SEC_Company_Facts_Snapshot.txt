@@ -1,0 +1,11 @@
+Company: Super League Enterprise Inc. Common Stock
+Ticker: SLE
+CIK: 0001621672
+Latest SEC XBRL Facts:
+Revenues: 1872000 | unit=USD | filed=2021-08-16 | period_end=2021-06-30
+NetIncomeLoss: -10575000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 8702000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10707000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -2005000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6805000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1061000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

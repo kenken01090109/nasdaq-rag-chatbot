@@ -1,0 +1,25 @@
+Company: 20/20 Biolabs Inc. Common Stock
+Ticker: AIDX
+Market Cap: 28972250
+Enterprise Value: 13830422
+Total Revenue: 2042943
+Revenue Per Share: 0.422
+EBITDA: -3138820
+Gross Margins: 0.32097998
+Operating Margins: -1.91439
+Profit Margins: -1.59334
+Free Cashflow: 
+Operating Cashflow: -1944504
+Return On Assets: 
+Return On Equity: 
+Total Cash: 1144855
+Total Debt: 1159806
+Debt To Equity: 1069.379
+Current Ratio: 0.786
+Quick Ratio: 0.643
+Trailing PE: 
+Forward PE: 
+Price To Book: 233.33333
+Beta: -0.425
+52 Week High: 50.0
+52 Week Low: 2.73

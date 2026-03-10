@@ -1,0 +1,11 @@
+Company: Copart Inc. (DE) Common Stock
+Ticker: CPRT
+CIK: 0000900075
+Latest SEC XBRL Facts:
+Revenues: 525659000 | unit=USD | filed=2020-09-28 | period_end=2020-07-31
+NetIncomeLoss: 754446000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+Assets: 10594962000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+Liabilities: 787728000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+StockholdersEquity: 5592422000 | unit=USD | filed=2023-05-25 | period_end=2023-04-30
+NetCashProvidedByUsedInOperatingActivities: 662753000 | unit=USD | filed=2026-03-03 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 2114183000 | unit=USD | filed=2023-05-25 | period_end=2023-04-30

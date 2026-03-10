@@ -1,0 +1,11 @@
+Company: NI Holdings Inc. Common Stock
+Ticker: NODK
+CIK: 0001681206
+Latest SEC XBRL Facts:
+Revenues: 224059000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -7257000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 543815000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 300015000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 301791000 | unit=USD | filed=2020-05-06 | period_end=2020-03-31
+NetCashProvidedByUsedInOperatingActivities: -28511000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24653000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Linkhome Holdings Inc. Common stock
+Ticker: LHAI
+Market Cap: 21748200
+Enterprise Value: 18850720
+Total Revenue: 18110182
+Revenue Per Share: 1.222
+EBITDA: 716450
+Gross Margins: 0.06406
+Operating Margins: 0.00174
+Profit Margins: 0.027479999
+Free Cashflow: -177848
+Operating Cashflow: -1298188
+Return On Assets: 0.07481
+Return On Equity: 0.107609995
+Total Cash: 3662388
+Total Debt: 440309
+Debt To Equity: 6.113
+Current Ratio: 5.796
+Quick Ratio: 3.347
+Trailing PE: 44.666668
+Forward PE: 
+Price To Book: 3.018018
+Beta: 
+52 Week High: 22.33
+52 Week Low: 1.02

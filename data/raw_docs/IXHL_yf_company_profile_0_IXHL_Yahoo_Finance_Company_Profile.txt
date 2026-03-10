@@ -1,0 +1,9 @@
+Company: Incannex Healthcare Inc. Common Stock
+Ticker: IXHL
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: Australia
+City: Sydney
+Website: https://www.incannex.com
+Employees: 12
+Business Summary: Incannex Healthcare Inc., a clinical-stage biopharmaceutical company, engages in the research and development of psychedelic medicines and therapies for patients with chronic diseases in Australia. The company develops IHL-42X, an oral fixed dose combination of dronabinol and acetazolamide that is in Phase 2/3 clinical trial for the treatment of obstructive sleep apnea; and PSX-001, an oral synthetic psilocybin treatment in Phase 2b clinical development for patients with generalized anxiety disorder. It is also developing IHL-675A, an oral fixed dose combination drug containing synthetic cannabidiol and hydroxychloroquine sulphate to treat rheumatoid arthritis, as well as lung inflammation, acute respiratory disease, chronic obstructive pulmonary disease, asthma, bronchitis, inflammatory bowel disease, colitis, and Crohn's disease. Incannex Healthcare Inc. is headquartered in Sydney, Australia.

@@ -1,0 +1,25 @@
+Company: JE Cleantech Holdings Limited Ordinary Shares
+Ticker: JCSE
+Market Cap: 5733683
+Enterprise Value: 10024333
+Total Revenue: 15031000
+Revenue Per Share: 2.863
+EBITDA: -248000
+Gross Margins: 0.26532
+Operating Margins: -0.06498
+Profit Margins: -0.09300999
+Free Cashflow: 2190375
+Operating Cashflow: 2753000
+Return On Assets: -0.018960001
+Return On Equity: -0.084759995
+Total Cash: 5080000
+Total Debt: 9267000
+Debt To Equity: 59.003
+Current Ratio: 2.577
+Quick Ratio: 0.915
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.47160912
+Beta: 0.248
+52 Week High: 2.5
+52 Week Low: 0.77

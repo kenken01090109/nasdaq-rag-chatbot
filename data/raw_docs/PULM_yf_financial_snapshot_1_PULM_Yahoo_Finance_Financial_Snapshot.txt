@@ -1,0 +1,25 @@
+Company: Pulmatrix Inc. Common Stock
+Ticker: PULM
+Market Cap: 7377617
+Enterprise Value: 3289615
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -5063000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -3447625
+Operating Cashflow: -5433000
+Return On Assets: -0.45883
+Return On Equity: -0.80928004
+Total Cash: 4088000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 12.55
+Quick Ratio: 12.426
+Trailing PE: 
+Forward PE: -0.4488889
+Price To Book: 1.936721
+Beta: 1.728
+52 Week High: 9.37
+52 Week Low: 1.63

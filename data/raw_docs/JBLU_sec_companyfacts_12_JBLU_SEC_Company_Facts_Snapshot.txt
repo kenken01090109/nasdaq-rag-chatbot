@@ -1,0 +1,10 @@
+Company: JetBlue Airways Corporation Common Stock
+Ticker: JBLU
+CIK: 0001158463
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 6818000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: -425000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 16601000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 2270000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -143000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2410000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30

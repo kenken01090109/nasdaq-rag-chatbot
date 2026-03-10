@@ -1,0 +1,11 @@
+Company: Martin Midstream Partners L.P. Limited Partnership
+Ticker: MMLP
+CIK: 0001176334
+Latest SEC XBRL Facts:
+Revenues: 560804000 | unit=USD | filed=2015-07-29 | period_end=2015-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 541936000 | unit=USD | filed=2025-10-20 | period_end=2025-09-30
+NetIncomeLoss: -11852000 | unit=USD | filed=2025-10-20 | period_end=2025-09-30
+Assets: 510122000 | unit=USD | filed=2025-10-20 | period_end=2025-09-30
+Liabilities: 592855000 | unit=USD | filed=2025-10-20 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 23683000 | unit=USD | filed=2025-10-20 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3186000 | unit=USD | filed=2018-10-24 | period_end=2018-09-30

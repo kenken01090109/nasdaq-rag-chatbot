@@ -1,0 +1,25 @@
+Company: PureCycle Technologies Inc. Common stock
+Ticker: PCT
+Market Cap: 1097407872
+Enterprise Value: 1666703488
+Total Revenue: 8355000
+Revenue Per Share: 0.047
+EBITDA: -137246000
+Gross Margins: 0.0
+Operating Margins: -16.36883
+Profit Margins: 0.0
+Free Cashflow: -96209504
+Operating Cashflow: -142740000
+Return On Assets: -0.12083
+Return On Equity: -0.68758005
+Total Cash: 170324992
+Total Debt: 448731008
+Debt To Equity: 127.994
+Current Ratio: 2.261
+Quick Ratio: 1.968
+Trailing PE: 
+Forward PE: -8.955882
+Price To Book: 23.882355
+Beta: 2.072
+52 Week High: 17.37
+52 Week Low: 5.4

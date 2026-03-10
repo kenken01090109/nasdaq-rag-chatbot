@@ -1,0 +1,12 @@
+Company: Arcellx Inc. Common Stock
+Ticker: ACLX
+Total Revenue: 22286000
+Revenue Per Share: 0.396
+Gross Margins: 1.0
+Operating Margins: -38.50242
+EBITDA: -246404992
+Profit Margins: 0.0
+Free Cashflow: -97093872
+Operating Cashflow: -210258000
+Return On Assets: -0.24052
+Return On Equity: -0.53418

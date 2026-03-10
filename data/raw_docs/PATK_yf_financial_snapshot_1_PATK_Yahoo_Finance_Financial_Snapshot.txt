@@ -1,0 +1,25 @@
+Company: Patrick Industries Inc. Common Stock
+Ticker: PATK
+Market Cap: 3853704704
+Enterprise Value: 5438696960
+Total Revenue: 3950772992
+Revenue Per Share: 121.607
+EBITDA: 446200992
+Gross Margins: 0.23106001
+Operating Margins: 0.062119998
+Profit Margins: 0.03418
+Free Cashflow: 166953248
+Operating Cashflow: 329414016
+Return On Assets: 0.05658
+Return On Equity: 0.1168
+Total Cash: 26432000
+Total Debt: 1492915968
+Debt To Equity: 126.059
+Current Ratio: 2.505
+Quick Ratio: 0.639
+Trailing PE: 29.69487
+Forward PE: 18.035429
+Price To Book: 3.248983
+Beta: 1.317
+52 Week High: 148.5
+52 Week Low: 72.99

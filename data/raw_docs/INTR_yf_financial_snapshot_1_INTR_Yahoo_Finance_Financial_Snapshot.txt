@@ -1,0 +1,25 @@
+Company: Inter & Co. Inc. Class A Common Shares
+Ticker: INTR
+Market Cap: 3539399936
+Enterprise Value: 17872832512
+Total Revenue: 5984585216
+Revenue Per Share: 13.594
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.28148
+Profit Margins: 0.2193
+Free Cashflow: 
+Operating Cashflow: -4350257152
+Return On Assets: 0.01597
+Return On Equity: 0.14357
+Total Cash: 4127732992
+Total Debt: 18140702720
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 14.070176
+Forward PE: 7.533559
+Price To Book: 1.8329444
+Beta: 1.196
+52 Week High: 10.36
+52 Week Low: 4.855

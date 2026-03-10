@@ -1,0 +1,25 @@
+Company: Oric Pharmaceuticals Inc. Common Stock
+Ticker: ORIC
+Market Cap: 1535621248
+Enterprise Value: 1101864448
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -141784000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -69096496
+Operating Cashflow: -110970000
+Return On Assets: -0.26171
+Return On Equity: -0.41266
+Total Cash: 281488000
+Total Debt: 7441000
+Debt To Equity: 1.936
+Current Ratio: 14.129
+Quick Ratio: 13.787
+Trailing PE: 
+Forward PE: -8.757026
+Price To Book: 3.5144835
+Beta: 1.361
+52 Week High: 14.93
+52 Week Low: 3.895

@@ -1,0 +1,25 @@
+Company: Bassett Furniture Industries Incorporated Common Stock
+Ticker: BSET
+Market Cap: 125855952
+Enterprise Value: 155553824
+Total Revenue: 335280000
+Revenue Per Share: 38.725
+EBITDA: 16866000
+Gross Margins: 0.56276
+Operating Margins: 0.030620001
+Profit Margins: 0.01819
+Free Cashflow: 7468125
+Operating Cashflow: 13491000
+Return On Assets: 0.01516
+Return On Equity: 0.0367
+Total Cash: 59240000
+Total Debt: 89392000
+Debt To Equity: 54.142
+Current Ratio: 1.891
+Quick Ratio: 0.994
+Trailing PE: 20.7
+Forward PE: 10.813433
+Price To Book: 0.759235
+Beta: 0.92
+52 Week High: 19.75
+52 Week Low: 13.96

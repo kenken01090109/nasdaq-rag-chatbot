@@ -1,0 +1,25 @@
+Company: Lucid Group Inc. Common Stock
+Ticker: LCID
+Market Cap: 3201475328
+Enterprise Value: 7052752896
+Total Revenue: 1353789952
+Revenue Per Share: 4.344
+EBITDA: -3050510080
+Gross Margins: -0.92805
+Operating Margins: -2.03691
+Profit Margins: -1.9929601
+Free Cashflow: -2401935872
+Operating Cashflow: -2931911936
+Return On Assets: -0.24271
+Return On Equity: -0.66019994
+Total Cash: 1628920064
+Total Debt: 3196708096
+Debt To Equity: 106.529
+Current Ratio: 1.252
+Quick Ratio: 0.69
+Trailing PE: 
+Forward PE: -2.2084088
+Price To Book: 4.4591513
+Beta: 1.194
+52 Week High: 33.7
+52 Week Low: 9.12

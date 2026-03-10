@@ -1,0 +1,9 @@
+Company: Addentax Group Corp. Common Stock
+Ticker: ATXG
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: China
+City: Shenzhen
+Website: https://www.addentax.com
+Employees: 112
+Business Summary: Addentax Group Corp., through its subsidiaries, engages in the provision of logistic services in China. It operates through three segments: Garment Manufacturing, Logistics Services, and Property Management and Subleasing. The company manufactures and distributes garments; and provides logistic services, such as storage, transportation, warehousing, handling, packaging, and order processing, as well as customs declaration and tax clearance services. It also offers shop subleasing and property management services for garment wholesalers and retailers in the garment market. Addentax Group Corp. is based in Shenzhen, China.

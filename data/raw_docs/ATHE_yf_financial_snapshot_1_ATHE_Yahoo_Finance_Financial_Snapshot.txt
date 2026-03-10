@@ -1,0 +1,25 @@
+Company: Alterity Therapeutics Limited American Depositary Shares
+Ticker: ATHE
+Market Cap: 64858008
+Enterprise Value: 38254112768
+Total Revenue: 6636421
+Revenue Per Share: 0.6
+EBITDA: -17550620
+Gross Margins: 0.97546995
+Operating Margins: -3.72591
+Profit Margins: -2.19853
+Free Cashflow: -10609269
+Operating Cashflow: -13712459
+Return On Assets: -0.32543
+Return On Equity: -0.47025
+Total Cash: 49200548
+Total Debt: 98449
+Debt To Equity: 0.181
+Current Ratio: 21.978
+Quick Ratio: 21.676
+Trailing PE: 
+Forward PE: -8.673444
+Price To Book: 978.49036
+Beta: 0.054
+52 Week High: 7.0
+52 Week Low: 2.52

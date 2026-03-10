@@ -1,0 +1,11 @@
+Company: Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock
+Ticker: HBANZ
+CIK: 0000049196
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1152000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetIncomeLoss: 1692000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Assets: 210228000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+Liabilities: 187942000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+StockholdersEquity: 22248000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1554000000 | unit=USD | filed=2025-10-28 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1636000000 | unit=USD | filed=2019-10-28 | period_end=2019-09-30

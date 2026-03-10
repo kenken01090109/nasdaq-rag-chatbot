@@ -1,0 +1,12 @@
+Company: American Electric Power Company Inc. Common Stock
+Ticker: AEP
+CIK: 0000004904
+Latest SEC XBRL Facts:
+Revenues: 16560700000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 16432600000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 2309900000 | unit=USD | filed=2024-11-06 | period_end=2024-09-30
+Assets: 110253500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 78713500000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 30389300000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 5130800000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1067700000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

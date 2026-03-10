@@ -1,0 +1,11 @@
+Company: Arhaus Inc. Class A Common Stock
+Ticker: ARHS
+CIK: 0001875444
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1014377000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 52166000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1378638000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 978222000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 400416000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 127538000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 262230000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

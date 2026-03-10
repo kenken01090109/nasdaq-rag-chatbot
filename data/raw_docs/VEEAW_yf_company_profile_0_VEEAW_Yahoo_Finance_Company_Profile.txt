@@ -1,0 +1,9 @@
+Company: Veea Inc. Warrant
+Ticker: VEEAW
+Sector: 
+Industry: 
+Country: United States
+City: New York
+Website: https://www.veea.com
+Employees: 45
+Business Summary: Veea Inc. provides edge computing and communications devices, applications, and services hosted on its edge Platform-as-a-Service (ePaaS). The company offers Veea Edge Platform ePaaS, an end-to-end platform that is both locally- and cloud-managed. Its VeeaHub products include converged computing and communications indoor and outdoor devices; and a Wi-Fi Access Point for networking and computing solutions for AI-assisted applications and solutions where people, places, and things connect to the network, as well as Linux server with a virtualized software environment, supporting patented secured docker containers, a Wi-Fi Access Point with a mesh router, a firewall, an IoT gateway, NVMe data storage, and 4G/5G modules. The company also offers VeeaWare, an edge operating system and companion tools; and VeeaCloud, a cloud native system that underpins the easy deployment of hardware and software. In addition, it focuses on fixed-line or 5G-based fixed wireless broadband access; and subscription-based managed Wi-Fi for unserved/underserved communities. Additionally, the company provides broadband or Internet connectivity services offered with various edge applications and value-added services, including advanced AI-driven cybersecurity through mobile network operators, multiple system operators, internet service providers, and other managed service providers. It serves climate smart buildings, smart farming with precision agriculture, smart warehouses, and smart retail as cloud-managed converged private networks applications. The company was founded in 2014 and is headquartered in New York, New York.

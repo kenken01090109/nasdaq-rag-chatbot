@@ -1,0 +1,9 @@
+Company: Sensei Biotherapeutics Inc. Common Stock
+Ticker: SNSE
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Rockville
+Website: https://www.senseibio.com
+Employees: 14
+Business Summary: Sensei Biotherapeutics, Inc., a clinical-stage biotechnology company, engages in the discovery and development of therapeutics for cancer patients. The company's Tumor Microenvironment Activated Biologics platform is designed to generate highly selective therapeutics that disable immunosuppressive signals or activate immunostimulatory signals selectively in the tumor microenvironment. It also offers Solnerstotug, an active monoclonal antibody that is in clinical Phase 1/2 targeting the immune checkpoint VISTA for the treatment of solid tumors. The company's pipeline includes SNS-102 and SNS-103, an active monoclonal antibody, which are in early development stages for the treatment of solid tumors, as well as SNS-201 is a bispecific antibody targeting CD28. It has a collaboration with The University of Washington to conduct preclinical studies for its solnerstotug program. The company was formerly known as Panacea Pharmaceuticals, Inc. Sensei Biotherapeutics, Inc. was incorporated in 1999 and is headquartered in Rockville, Maryland.

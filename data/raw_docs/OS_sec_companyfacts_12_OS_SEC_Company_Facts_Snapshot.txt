@@ -1,0 +1,11 @@
+Company: OneStream Inc. Class A Common Stock
+Ticker: OS
+CIK: 0001889956
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 438202000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -51298000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 949447000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 386579000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 472100000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 70905000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 653851000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

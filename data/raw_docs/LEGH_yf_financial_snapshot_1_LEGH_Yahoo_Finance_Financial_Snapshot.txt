@@ -1,0 +1,25 @@
+Company: Legacy Housing Corporation Common Stock (TX)
+Ticker: LEGH
+Market Cap: 473794272
+Enterprise Value: 480340224
+Total Revenue: 180496992
+Revenue Per Share: 7.505
+EBITDA: 55405000
+Gross Margins: 0.44192
+Operating Margins: 0.23986
+Profit Margins: 0.26664
+Free Cashflow: -20868624
+Operating Cashflow: 26016000
+Return On Assets: 0.0621
+Return On Equity: 0.09616999
+Total Cash: 13551000
+Total Debt: 1002000
+Debt To Equity: 0.192
+Current Ratio: 5.737
+Quick Ratio: 1.921
+Trailing PE: 10.179487
+Forward PE: 9.363208
+Price To Book: 0.9083421
+Beta: 0.749
+52 Week High: 29.45
+52 Week Low: 18.835

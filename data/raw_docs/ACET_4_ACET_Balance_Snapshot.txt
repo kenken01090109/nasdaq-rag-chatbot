@@ -1,0 +1,8 @@
+Company: Adicet Bio Inc. Common Stock
+Ticker: ACET
+Total Cash: 103098000
+Total Debt: 15536000
+Debt To Equity: 14.235
+Current Ratio: 5.622
+Quick Ratio: 5.452
+Book Value: 19.044

@@ -1,0 +1,25 @@
+Company: Iovance Biotherapeutics Inc. Common Stock
+Ticker: IOVA
+Market Cap: 2113363072
+Enterprise Value: 1639250176
+Total Revenue: 263502000
+Revenue Per Share: 0.737
+EBITDA: -362273984
+Gross Margins: 0.34276
+Operating Margins: -0.84660006
+Profit Margins: -1.48378
+Free Cashflow: -162422128
+Operating Cashflow: -302408000
+Return On Assets: -0.27296
+Return On Equity: -0.55498004
+Total Cash: 296980000
+Total Debt: 49444000
+Debt To Equity: 7.078
+Current Ratio: 3.2
+Quick Ratio: 2.742
+Trailing PE: 
+Forward PE: -21.286308
+Price To Book: 3.0247643
+Beta: 0.739
+52 Week High: 5.34
+52 Week Low: 1.64

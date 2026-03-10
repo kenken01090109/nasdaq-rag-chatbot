@@ -1,0 +1,25 @@
+Company: CapsoVision Inc. Common Stock
+Ticker: CV
+Market Cap: 239837296
+Enterprise Value: 223028320
+Total Revenue: 13088000
+Revenue Per Share: 0.982
+EBITDA: -22474000
+Gross Margins: 0.53125
+Operating Margins: -2.26653
+Profit Margins: -1.72372
+Free Cashflow: 
+Operating Cashflow: -20577000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 17787000
+Total Debt: 978000
+Debt To Equity: 4.784
+Current Ratio: 5.188
+Quick Ratio: 4.241
+Trailing PE: 
+Forward PE: 
+Price To Book: 11.716247
+Beta: 
+52 Week High: 15.37
+52 Week Low: 3.434

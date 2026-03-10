@@ -1,0 +1,10 @@
+Company: Apple Inc. Common Stock
+Ticker: AAPL
+Market Cap: 3825723244544
+Enterprise Value: 3844955963392
+Trailing PE: 32.90645
+Forward PE: 27.943462
+Price To Book: 43.396133
+Beta: 1.116
+52 Week High: 288.62
+52 Week Low: 169.21

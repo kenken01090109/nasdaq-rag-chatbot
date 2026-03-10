@@ -1,0 +1,25 @@
+Company: Canaan Inc. American Depositary Shares
+Ticker: CAN
+Market Cap: 346909728
+Enterprise Value: 5057025536
+Total Revenue: 529735008
+Revenue Per Share: 1.13
+EBITDA: -75222000
+Gross Margins: 0.0777
+Operating Margins: -0.07563
+Profit Margins: -0.39693
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.12154
+Return On Equity: -0.59766996
+Total Cash: 80778000
+Total Debt: 54900000
+Debt To Equity: 12.552
+Current Ratio: 3.305
+Quick Ratio: 1.165
+Trailing PE: 
+Forward PE: -14.611428
+Price To Book: 0.7748484
+Beta: 2.499
+52 Week High: 2.22
+52 Week Low: 0.425

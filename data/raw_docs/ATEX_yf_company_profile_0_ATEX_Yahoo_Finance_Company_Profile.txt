@@ -1,0 +1,9 @@
+Company: Anterix Inc. Common Stock
+Ticker: ATEX
+Sector: Communication Services
+Industry: Telecom Services
+Country: United States
+City: Woodland Park
+Website: https://www.anterix.com
+Employees: 83
+Business Summary: Anterix Inc. focuses on the commercialization of spectrum assets to enable the targeted utility and critical infrastructure customers to deploy private broadband networks and solutions. The company offers CatalyX, an active ecosystem platform; complementary spectrum; anterix security collective; and rural broadband services. It also holds licensed spectrum in the 900 MHz band throughout the contiguous United States, as well as Hawaii, Alaska, and Puerto Rico. The company was formerly known as pdvWireless, Inc. and changed its name to Anterix Inc. in August 2019. Anterix Inc. was incorporated in 1997 and is headquartered in Woodland Park, New Jersey.

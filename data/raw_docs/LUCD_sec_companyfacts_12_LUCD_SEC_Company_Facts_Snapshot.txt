@@ -1,0 +1,12 @@
+Company: Lucid Diagnostics Inc. Common Stock
+Ticker: LUCD
+CIK: 0001799011
+Latest SEC XBRL Facts:
+Revenues: 3202000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 3202000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -41744000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 53198000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 27363000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 25835000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -33907000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 47332000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

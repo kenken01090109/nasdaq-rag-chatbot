@@ -1,0 +1,10 @@
+Company: Alpha Cognition Inc. Common Stock
+Ticker: ACOG
+Market Cap: 124799672
+Enterprise Value: 89400840
+Trailing PE: 
+Forward PE: -5.125
+Price To Book: 2.7503593
+Beta: 2.551
+52 Week High: 11.54
+52 Week Low: 3.75

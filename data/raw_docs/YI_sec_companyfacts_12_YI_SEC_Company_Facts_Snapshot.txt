@@ -1,0 +1,11 @@
+Company: 111 Inc. American Depositary Shares
+Ticker: YI
+CIK: 0001738906
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1972963000 | unit=USD | filed=2025-08-29 | period_end=2024-12-31
+NetIncomeLoss: -382041000 | unit=CNY | filed=2019-04-10 | period_end=2018-12-31
+Assets: 381920000 | unit=USD | filed=2025-08-29 | period_end=2024-12-31
+Liabilities: 329755000 | unit=USD | filed=2025-08-29 | period_end=2024-12-31
+StockholdersEquity: -88042000 | unit=USD | filed=2025-08-29 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 36033000 | unit=USD | filed=2025-08-29 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 63333000 | unit=USD | filed=2025-08-29 | period_end=2024-12-31

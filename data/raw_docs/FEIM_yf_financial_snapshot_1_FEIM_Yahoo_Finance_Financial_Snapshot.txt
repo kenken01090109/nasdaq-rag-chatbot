@@ -1,0 +1,25 @@
+Company: Frequency Electronics Inc. Common Stock
+Ticker: FEIM
+Market Cap: 507459904
+Enterprise Value: 
+Total Revenue: 69852000
+Revenue Per Share: 7.2
+EBITDA: 10848500
+Gross Margins: 0.39221
+Operating Margins: -0.13022
+Profit Margins: 0.30117
+Free Cashflow: -8978125
+Operating Cashflow: -3142000
+Return On Assets: 0.064899996
+Return On Equity: 0.44454
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 2.589
+Quick Ratio: 1.249
+Trailing PE: 23.807339
+Forward PE: 39.31818
+Price To Book: 8.677479
+Beta: 0.306
+52 Week High: 61.47
+52 Week Low: 13.69

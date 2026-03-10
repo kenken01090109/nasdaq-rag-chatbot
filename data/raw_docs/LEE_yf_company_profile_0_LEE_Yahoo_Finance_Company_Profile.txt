@@ -1,0 +1,9 @@
+Company: Lee Enterprises Incorporated Common Stock
+Ticker: LEE
+Sector: Communication Services
+Industry: Publishing
+Country: United States
+City: Davenport
+Website: https://www.lee.net
+Employees: 2230
+Business Summary: Lee Enterprises, Incorporated, a digital-first subscription and marketing services company, provides local news and information, and advertising services in the United States. The company offers digital subscription platforms; daily and weekly newspapers; and niche products for national and international news are accessible across digital and print formats through websites and mobile applications. It also provides subscription services through digital and print subscriptions; and omni-channel marketing solutions, including digital, print, programmatic, video, and social media campaigns. In addition, the company offers commercial printing, distribution, and other digital services through SaaS content management solution. Lee Enterprises, Incorporated was founded in 1890 and is based in Davenport, Iowa.

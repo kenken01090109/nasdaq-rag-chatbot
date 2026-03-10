@@ -1,0 +1,25 @@
+Company: Innospec Inc. Common Stock
+Ticker: IOSP
+Market Cap: 1786731520
+Enterprise Value: 1606012672
+Total Revenue: 1778000000
+Revenue Per Share: 71.463
+EBITDA: 199600000
+Gross Margins: 0.27694
+Operating Margins: 0.10316
+Profit Margins: 0.06558
+Free Cashflow: 17500000
+Operating Cashflow: 138300000
+Return On Assets: 0.05467
+Return On Equity: 0.09149
+Total Cash: 292500000
+Total Debt: 52700000
+Debt To Equity: 3.954
+Current Ratio: 2.79
+Quick Ratio: 1.763
+Trailing PE: 15.441113
+Forward PE: 11.491633
+Price To Book: 1.3473468
+Beta: 0.887
+52 Week High: 102.26
+52 Week Low: 70.1

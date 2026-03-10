@@ -1,0 +1,9 @@
+Company: Flexsteel Industries Inc. Common Stock
+Ticker: FLXS
+Sector: Consumer Cyclical
+Industry: Furnishings, Fixtures & Appliances
+Country: United States
+City: Dubuque
+Website: https://www.flexsteel.com
+Employees: 1400
+Business Summary: Flexsteel Industries, Inc., together with its subsidiaries, manufactures, distributes, imports, and markets residential furniture products in the United States. The company offers furniture, such as sofas, loveseats, chairs, reclining rocking chairs, swivel rockers, sofa beds, convertible bedding units, occasional tables, desks, dining tables and chairs, kitchen storage, bedroom furniture, and outdoor furniture. It distributes its products through its e-commerce channel and direct sales force. The company was founded in 1893 and is based in Dubuque, Iowa.

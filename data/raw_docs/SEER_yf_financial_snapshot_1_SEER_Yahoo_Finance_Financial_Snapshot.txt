@@ -1,0 +1,25 @@
+Company: Seer Inc. Class A Common Stock
+Ticker: SEER
+Market Cap: 100127704
+Enterprise Value: -58430780
+Total Revenue: 16578000
+Revenue Per Share: 0.289
+EBITDA: -71888000
+Gross Margins: 0.51062
+Operating Margins: -4.1383
+Profit Margins: 0.0
+Free Cashflow: -27648000
+Operating Cashflow: -44448000
+Return On Assets: -0.14711
+Return On Equity: -0.25082
+Total Cash: 185896992
+Total Debt: 23652000
+Debt To Equity: 9.121
+Current Ratio: 12.844
+Quick Ratio: 12.227
+Trailing PE: 
+Forward PE: -1.6952381
+Price To Book: 0.3859497
+Beta: 1.66
+52 Week High: 2.41
+52 Week Low: 1.62

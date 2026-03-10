@@ -1,0 +1,12 @@
+Company: eHealth Inc. Common Stock
+Ticker: EHTH
+CIK: 0001333493
+Latest SEC XBRL Facts:
+Revenues: 116478000 | unit=USD | filed=2018-11-06 | period_end=2018-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 227770000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -47139000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1047415000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 162946000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 514166000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 10604000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 63089000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

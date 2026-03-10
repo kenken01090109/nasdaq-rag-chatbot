@@ -1,0 +1,25 @@
+Company: Pyxis Oncology Inc. Common Stock
+Ticker: PYXS
+Market Cap: 85301976
+Enterprise Value: 26873690
+Total Revenue: 2820000
+Revenue Per Share: 0.046
+EBITDA: -80469000
+Gross Margins: 1.0
+Operating Margins: -29.30248
+Profit Margins: 0.0
+Free Cashflow: -40940624
+Operating Cashflow: -72365000
+Return On Assets: -0.34326
+Return On Equity: -0.87284
+Total Cash: 76256000
+Total Debt: 19073000
+Debt To Equity: 27.731
+Current Ratio: 4.286
+Quick Ratio: 3.934
+Trailing PE: 
+Forward PE: -1.157339
+Price To Book: 1.2375791
+Beta: 1.458
+52 Week High: 5.55
+52 Week Low: 0.833

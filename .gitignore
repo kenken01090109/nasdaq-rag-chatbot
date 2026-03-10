@@ -1,0 +1,6 @@
+chroma_db_backup/
+*.bin
+*.sqlite3
+__pycache__/
+.env
+.DS_Store

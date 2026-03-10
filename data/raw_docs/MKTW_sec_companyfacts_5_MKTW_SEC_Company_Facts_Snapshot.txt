@@ -1,0 +1,12 @@
+Company: MarketWise Inc. Class A Common Stock
+Ticker: MKTW
+CIK: 0001805651
+Latest SEC XBRL Facts:
+Revenues: 126233000 | unit=USD | filed=2023-05-11 | period_end=2023-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 244728000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 3692000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 201656000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 427607000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -14517000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21744000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 50535000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: GRAIL Inc. Common Stock
+Ticker: GRAL
+Market Cap: 2025844224
+Enterprise Value: 1239597440
+Total Revenue: 147172000
+Revenue Per Share: 4.004
+EBITDA: -377819008
+Gross Margins: 0.48458
+Operating Margins: -2.8536599
+Profit Margins: -2.7746499
+Free Cashflow: -105700872
+Operating Cashflow: -299007008
+Return On Assets: -0.11307
+Return On Equity: -0.16073
+Total Cash: 904430016
+Total Debt: 54863000
+Debt To Equity: 2.128
+Current Ratio: 11.972
+Quick Ratio: 11.582
+Trailing PE: 
+Forward PE: -5.5502763
+Price To Book: 0.7858629
+Beta: 
+52 Week High: 118.84
+52 Week Low: 20.44

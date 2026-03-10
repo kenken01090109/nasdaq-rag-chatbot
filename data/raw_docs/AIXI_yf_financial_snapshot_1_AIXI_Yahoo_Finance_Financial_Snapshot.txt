@@ -1,0 +1,25 @@
+Company: XIAO-I Corporation American Depositary Shares
+Ticker: AIXI
+Market Cap: 2975591
+Enterprise Value: 54632620
+Total Revenue: 48877456
+Revenue Per Share: 4.622
+EBITDA: -26901864
+Gross Margins: 0.68485
+Operating Margins: -2.54873
+Profit Margins: -0.59599996
+Free Cashflow: -22770908
+Operating Cashflow: -7413036
+Return On Assets: -0.20145
+Return On Equity: 
+Total Cash: 5011540
+Total Debt: 56457152
+Debt To Equity: 
+Current Ratio: 0.707
+Quick Ratio: 0.523
+Trailing PE: 
+Forward PE: -0.41277778
+Price To Book: -0.072276264
+Beta: 2.136
+52 Week High: 4.671
+52 Week Low: 0.193

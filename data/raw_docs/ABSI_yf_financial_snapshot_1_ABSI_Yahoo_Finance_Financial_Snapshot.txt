@@ -1,0 +1,25 @@
+Company: Absci Corporation Common Stock
+Ticker: ABSI
+Market Cap: 357884288
+Enterprise Value: 211629248
+Total Revenue: 2815000
+Revenue Per Share: 0.022
+EBITDA: -105502000
+Gross Margins: 0.0
+Operating Margins: -79.77249
+Profit Margins: 0.0
+Free Cashflow: -38133876
+Operating Cashflow: -80707000
+Return On Assets: -0.30624
+Return On Equity: -0.55676997
+Total Cash: 152475008
+Total Debt: 6220000
+Debt To Equity: 2.957
+Current Ratio: 5.89
+Quick Ratio: 5.166
+Trailing PE: 
+Forward PE: -3.376174
+Price To Book: 1.6939503
+Beta: 2.13
+52 Week High: 5.228
+52 Week Low: 2.01

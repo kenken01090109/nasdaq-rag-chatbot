@@ -1,0 +1,11 @@
+Company: iRhythm Holdings Inc. Common Stock
+Ticker: IRTC
+CIK: 0001388658
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 538248000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetIncomeLoss: -50130000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Assets: 995214000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+Liabilities: 873321000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+StockholdersEquity: 121893000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 54651000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 255605000 | unit=USD | filed=2025-10-30 | period_end=2025-09-30

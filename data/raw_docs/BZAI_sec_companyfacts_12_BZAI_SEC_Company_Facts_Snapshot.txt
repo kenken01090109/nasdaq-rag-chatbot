@@ -1,0 +1,12 @@
+Company: Blaize Holdings Inc. Common Stock
+Ticker: BZAI
+CIK: 0001871638
+Latest SEC XBRL Facts:
+Revenues: 14856000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 14856000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -203608000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 60904000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 59598000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 1306000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -57290000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 24001000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

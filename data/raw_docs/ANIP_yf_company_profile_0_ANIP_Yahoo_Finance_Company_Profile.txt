@@ -1,0 +1,9 @@
+Company: ANI Pharmaceuticals Inc.
+Ticker: ANIP
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: United States
+City: Baudette
+Website: https://www.anipharmaceuticals.com
+Employees: 970
+Business Summary: ANI Pharmaceuticals, Inc., a biopharmaceutical company, develops, manufactures, and markets branded and generic pharmaceutical products in the United States and internationally. The company provides injectables, softgel capsules, and Cortrophin gel, as well as ILUVIEN and YUTIQ products. It also manufactures oral solid dose products, semi-solids, liquids, topicals, controlled substances, and potent products. The company serves its products to national wholesalers, specialty pharmacies, retail pharmacy chains, distributors, mail order houses, group purchasing organizations, and hospitals and healthcare providers. ANI Pharmaceuticals, Inc. was incorporated in 2001 and is headquartered in Baudette, Minnesota.

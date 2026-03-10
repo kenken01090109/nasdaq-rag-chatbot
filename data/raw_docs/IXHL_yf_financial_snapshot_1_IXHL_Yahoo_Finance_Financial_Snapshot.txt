@@ -1,0 +1,25 @@
+Company: Incannex Healthcare Inc. Common Stock
+Ticker: IXHL
+Market Cap: 46582820
+Enterprise Value: -20959756
+Total Revenue: 0
+Revenue Per Share: 0.0
+EBITDA: -25382000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -9415000
+Operating Cashflow: -18426000
+Return On Assets: -0.36958
+Return On Equity: -1.30427
+Total Cash: 68900000
+Total Debt: 163000
+Debt To Equity: 0.222
+Current Ratio: 48.273
+Quick Ratio: 47.963
+Trailing PE: 
+Forward PE: -1.9897959
+Price To Book: 0.6362153
+Beta: 2.677
+52 Week High: 49.8
+52 Week Low: 2.4

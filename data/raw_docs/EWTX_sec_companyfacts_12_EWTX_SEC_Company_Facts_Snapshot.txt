@@ -1,0 +1,10 @@
+Company: Edgewise Therapeutics Inc. Common Stock
+Ticker: EWTX
+CIK: 0001710072
+Latest SEC XBRL Facts:
+NetIncomeLoss: -117579000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 583466000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 24819000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 558647000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -105224000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 46003000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

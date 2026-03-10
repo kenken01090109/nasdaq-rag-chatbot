@@ -1,0 +1,25 @@
+Company: TTEC Holdings Inc. Common Stock
+Ticker: TTEC
+Market Cap: 132098288
+Enterprise Value: 1067792960
+Total Revenue: 2136898944
+Revenue Per Share: 44.324
+EBITDA: 187795008
+Gross Margins: 0.23587
+Operating Margins: 0.062800005
+Profit Margins: -0.09007
+Free Cashflow: 63786624
+Operating Cashflow: 121075000
+Return On Assets: 0.03768
+Return On Equity: -0.97145
+Total Cash: 82901000
+Total Debt: 1001731008
+Debt To Equity: 887.249
+Current Ratio: 1.892
+Quick Ratio: 1.543
+Trailing PE: 
+Forward PE: 1.9854015
+Price To Book: 1.3891727
+Beta: 1.014
+52 Week High: 5.6
+52 Week Low: 1.98

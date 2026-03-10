@@ -1,0 +1,9 @@
+Company: Turtle Beach Corporation Common Stock
+Ticker: TBCH
+Sector: Technology
+Industry: Consumer Electronics
+Country: United States
+City: San Diego
+Website: https://corp.turtlebeach.com
+Employees: 262
+Business Summary: Turtle Beach Corporation operates as an audio technology company in North America, Europe, the Middle East, and the Asia Pacific. It develops, commercializes, and markets gaming headset solutions for various platforms, including video game and entertainment consoles, handheld consoles, personal computers, tablets, and mobile devices under the Turtle Beach brand. The company also offers keyboards, mice, and digital/USB and analog/XLR microphones for professional streamers, content creators, and esports gamers, as well as other gaming accessories. In addition, it provides game controllers, gaming flight simulation, and racing simulation accessories. The company serves retailers and distributors. Turtle Beach Corporation was founded in 1975 and is headquartered in San Diego, California.

@@ -1,0 +1,10 @@
+Company: Epsium Enterprise Limited Class A Ordinary Shares
+Ticker: EPSM
+CIK: 0001883437
+Latest SEC XBRL Facts:
+Revenues: 3042988 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+NetIncomeLoss: -700372 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+Assets: 13794186 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+Liabilities: 1589112 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+StockholdersEquity: 12205074 | unit=USD | filed=2025-12-05 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1927422 | unit=USD | filed=2025-12-05 | period_end=2025-06-30

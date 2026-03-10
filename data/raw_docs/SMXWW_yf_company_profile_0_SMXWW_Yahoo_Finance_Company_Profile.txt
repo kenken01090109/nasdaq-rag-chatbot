@@ -1,0 +1,9 @@
+Company: SMX (Security Matters) Public Limited Company Warrant
+Ticker: SMXWW
+Sector: 
+Industry: 
+Country: Ireland
+City: Dublin
+Website: https://smx.tech
+Employees: 17
+Business Summary: SMX (Security Matters) Public Limited Company provides brand protection, authentication and track and trace technology for the anti-counterfeit market. Its proprietary marker system embeds a permanent or removable mark on solid, liquid, or gaseous objects or materials. The company's solutions comprise physical or chemical marker system coupled with a reader and connected to a blockchain digital platform for application in process tracing, authentication, and sustainability and circular economics industries. It serves brand owners, manufacturers, and suppliers. The company was formerly known as Empatan Public Limited Company and changed its name to SMX (Security Matters) Public Limited Company in February 2023. SMX (Security Matters) Public Limited Company is based in Dublin, Ireland.

@@ -1,0 +1,9 @@
+Company: XCF Global Inc. Class A Common Stock
+Ticker: SAFX
+Sector: Utilities
+Industry: Utilities - Renewable
+Country: United States
+City: Houston
+Website: https://xcf.global
+Employees: 
+Business Summary: XCF Global, Inc. manufactures and sells renewable fuels in the United States. It develops and operates clean fuel production facilities to produce clean-burning and sustainable biofuels, and sustainable aviation fuel. XCF Global, Inc. was founded in 2016 and is headquartered in Houston, Texas.

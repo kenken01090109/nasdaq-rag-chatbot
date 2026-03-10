@@ -1,0 +1,25 @@
+Company: Gemini Space Station Inc. Class A Common Stock
+Ticker: GEMI
+Market Cap: 1051824192
+Enterprise Value: 1643986944
+Total Revenue: 162528992
+Revenue Per Share: 7.781
+EBITDA: -231500992
+Gross Margins: -0.12259
+Operating Margins: -2.38636
+Profit Margins: -2.8855398
+Free Cashflow: 
+Operating Cashflow: -84806000
+Return On Assets: 
+Return On Equity: 
+Total Cash: 488844000
+Total Debt: 1044534016
+Debt To Equity: 159.822
+Current Ratio: 1.287
+Quick Ratio: 0.385
+Trailing PE: 
+Forward PE: -3.8617709
+Price To Book: 1.6090711
+Beta: 
+52 Week High: 45.89
+52 Week Low: 5.57

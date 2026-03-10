@@ -1,0 +1,25 @@
+Company: Bayview Acquisition Corp Right
+Ticker: BAYAR
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: 410588
+Operating Cashflow: -187130
+Return On Assets: -0.0218
+Return On Equity: 
+Total Cash: 38342
+Total Debt: 1525000
+Debt To Equity: 
+Current Ratio: 0.021
+Quick Ratio: 0.013
+Trailing PE: 
+Forward PE: 
+Price To Book: -0.17163461
+Beta: -0.068
+52 Week High: 0.2499
+52 Week Low: 0.202

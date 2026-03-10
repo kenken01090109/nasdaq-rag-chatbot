@@ -1,0 +1,11 @@
+Company: Cyngn Inc. Common Stock
+Ticker: CYN
+CIK: 0001874097
+Latest SEC XBRL Facts:
+Revenues: 150851 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -17798600 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 49267435 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 10588062 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 38679373 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -16835542 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 4820464 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

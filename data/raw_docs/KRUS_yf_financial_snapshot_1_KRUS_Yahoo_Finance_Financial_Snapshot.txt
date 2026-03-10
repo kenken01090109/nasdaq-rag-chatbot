@@ -1,0 +1,25 @@
+Company: Kura Sushi USA Inc. Class A Common Stock
+Ticker: KRUS
+Market Cap: 698468928
+Enterprise Value: 911845504
+Total Revenue: 291761984
+Revenue Per Share: 24.133
+EBITDA: 10545000
+Gross Margins: 0.15956001
+Operating Margins: -0.04679
+Profit Margins: -0.01372
+Free Cashflow: -33323124
+Operating Cashflow: 20878000
+Return On Assets: -0.00651
+Return On Equity: -0.01753
+Total Cash: 50701000
+Total Debt: 187412000
+Debt To Equity: 81.768
+Current Ratio: 1.606
+Quick Ratio: 1.416
+Trailing PE: 
+Forward PE: 236.72112
+Price To Book: 3.047292
+Beta: 1.691
+52 Week High: 95.98
+52 Week Low: 40.03

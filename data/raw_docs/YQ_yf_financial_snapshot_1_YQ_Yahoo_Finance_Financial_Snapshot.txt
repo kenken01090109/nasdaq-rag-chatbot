@@ -1,0 +1,25 @@
+Company: 17 Education & Technology Group Inc. American Depositary Shares
+Ticker: YQ
+Market Cap: 24696270
+Enterprise Value: 1147728256
+Total Revenue: 103680000
+Revenue Per Share: 11.028
+EBITDA: -168685248
+Gross Margins: 0.4338
+Operating Margins: -2.3314
+Profit Margins: -1.59295
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.21437
+Return On Equity: -0.4488
+Total Cash: 341856992
+Total Debt: 9087000
+Debt To Equity: 2.719
+Current Ratio: 3.099
+Quick Ratio: 2.526
+Trailing PE: 
+Forward PE: -0.9522184
+Price To Book: 0.59009504
+Beta: 0.524
+52 Week High: 6.45
+52 Week Low: 1.26

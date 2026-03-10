@@ -1,0 +1,25 @@
+Company: Akso Health Group ADS
+Ticker: AHG
+Market Cap: 1156550656
+Enterprise Value: 3460593408
+Total Revenue: 14842253
+Revenue Per Share: 0.032
+EBITDA: -1462343
+Gross Margins: 0.01001
+Operating Margins: -0.20537001
+Profit Margins: 0.0
+Free Cashflow: -169332416
+Operating Cashflow: 7256382
+Return On Assets: -0.01418
+Return On Equity: -0.68286
+Total Cash: 11128627
+Total Debt: 2063053
+Debt To Equity: 1.04
+Current Ratio: 1.53
+Quick Ratio: 1.19
+Trailing PE: 
+Forward PE: 
+Price To Book: 5.844156
+Beta: -0.66
+52 Week High: 2.1
+52 Week Low: 0.831

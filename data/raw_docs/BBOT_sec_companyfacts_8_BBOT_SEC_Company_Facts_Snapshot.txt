@@ -1,0 +1,10 @@
+Company: BridgeBio Oncology Therapeutics Inc. Common Stock
+Ticker: BBOT
+CIK: 0001869105
+Latest SEC XBRL Facts:
+NetIncomeLoss: -95247000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 484793000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 38093000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 446700000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -71660000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 408741000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,9 @@
+Company: Turbo Energy S.A. American Depositary Shares
+Ticker: TURB
+Sector: Technology
+Industry: Solar
+Country: Spain
+City: Valencia
+Website: https://www.turbo-e.com
+Employees: 43
+Business Summary: Turbo Energy, S.A. designs, develops, and distributes equipment for the generation, management, and storage of photovoltaic energy in Spain, rest of Europe, and internationally. The company offers lithium-ion batteries; inverters; photovoltaic modules; Go Solar, a portable photovoltaic product; and Sunbox, an AI based software system that monitors the generation, use, and management of photovoltaic energy. It is also involved in the acquisition, distribution, and sale of electrical and electronic materials for the development of renewable energy projects, such as solar panels, inverters, chargers, regulators, batteries, and structures. The company sells its products to installers and distributors for residential consumers. The company was incorporated in 2013 and is based in Valencia, Spain. Turbo Energy, S.A. operates as a subsidiary of Umbrella Global Energy, S.A.

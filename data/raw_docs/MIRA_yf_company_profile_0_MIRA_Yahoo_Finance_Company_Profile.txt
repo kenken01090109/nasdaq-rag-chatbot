@@ -1,0 +1,9 @@
+Company: MIRA Pharmaceuticals Inc. Common Stock
+Ticker: MIRA
+Sector: Healthcare
+Industry: Drug Manufacturers - General
+Country: United States
+City: Miami
+Website: https://mirapharmaceuticals.com
+Employees: 
+Business Summary: MIRA Pharmaceuticals, Inc. operates as a pre-clinical-stage pharmaceutical development company with two neuroscience programs targeting a range of neurologic and neuropsychiatric disorders. The company holds exclusive U.S., Canadian, and Mexican rights for Ketamir-2, a patent pending oral ketamine analog under investigation to deliver ultra-rapid antidepressant effects for individuals battling treatment-resistant depression, major depressive disorder with suicidal ideation, and post-traumatic stress disorder. In addition, its oral pharmaceutical marijuana, MIRA-55, is under investigation for treating adult patients suffering from anxiety and cognitive decline, often associated with early-stage dementia. The company was formerly known as MIRA1a Therapeutics, Inc. MIRA Pharmaceuticals, Inc. was incorporated in 2020 and is based in Miami, Florida.

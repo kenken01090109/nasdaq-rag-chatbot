@@ -1,0 +1,8 @@
+Company: Acorn Energy Inc. Common Stock
+Ticker: ACFN
+Total Cash: 4167000
+Total Debt: 1046000
+Debt To Equity: 14.459
+Current Ratio: 1.711
+Quick Ratio: 1.318
+Book Value: 2.864

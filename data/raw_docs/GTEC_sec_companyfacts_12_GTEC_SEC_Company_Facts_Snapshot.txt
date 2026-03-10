@@ -1,0 +1,11 @@
+Company: Greenland Technologies Holding Corporation Class A Ordinary Shares
+Ticker: GTEC
+CIK: 0001735041
+Latest SEC XBRL Facts:
+Revenues: 66798947 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 6511037 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 123425269 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 53573282 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 75420312 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 7799034 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3942129 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Smith Micro Software Inc. Common Stock
+Ticker: SMSI
+Market Cap: 16647063
+Enterprise Value: 12631284
+Total Revenue: 18359000
+Revenue Per Share: 0.963
+EBITDA: -13878000
+Gross Margins: 0.73980004
+Operating Margins: -1.0317501
+Profit Margins: -1.5885899
+Free Cashflow: -2203500
+Operating Cashflow: -9934000
+Return On Assets: -0.32974
+Return On Equity: -1.01202
+Total Cash: 1394000
+Total Debt: 2369000
+Debt To Equity: 11.91
+Current Ratio: 0.776
+Quick Ratio: 0.609
+Trailing PE: 
+Forward PE: 3.2595
+Price To Book: 0.70399565
+Beta: 0.688
+52 Week High: 1.3
+52 Week Low: 0.41

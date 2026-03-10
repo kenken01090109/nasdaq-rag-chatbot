@@ -1,0 +1,12 @@
+Company: Balchem Corporation Common Stock
+Ticker: BCPC
+CIK: 0000009326
+Latest SEC XBRL Facts:
+Revenues: 799023000 | unit=USD | filed=2022-02-24 | period_end=2021-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 773544000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+NetIncomeLoss: 115620000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+Assets: 1661031000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+Liabilities: 363167000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+StockholdersEquity: 1297864000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 149281000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 65093000 | unit=USD | filed=2025-10-21 | period_end=2025-09-30

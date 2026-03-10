@@ -1,0 +1,25 @@
+Company: City Holding Company Common Stock
+Ticker: CHCO
+Market Cap: 1700076800
+Enterprise Value: 2018240256
+Total Revenue: 315568000
+Revenue Per Share: 21.802
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.54605997
+Profit Margins: 0.41349
+Free Cashflow: 
+Operating Cashflow: 131372000
+Return On Assets: 0.0198
+Return On Equity: 0.16941999
+Total Cash: 227012000
+Total Debt: 552046016
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.212766
+Forward PE: 12.605769
+Price To Book: 2.0917244
+Beta: 0.492
+52 Week High: 133.59
+52 Week Low: 102.22

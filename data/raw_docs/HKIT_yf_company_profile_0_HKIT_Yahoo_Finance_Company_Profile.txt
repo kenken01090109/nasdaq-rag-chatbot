@@ -1,0 +1,9 @@
+Company: Hitek Global Inc. Class A Ordinary Share
+Ticker: HKIT
+Sector: Technology
+Industry: Software - Application
+Country: China
+City: Xiamen
+Website: https://www.xmhitek.com
+Employees: 30
+Business Summary: Hitek Global Inc., through its subsidiaries, provides information technology (IT) consulting and solutions services to small and medium, and large businesses in China. The company offers anti-counterfeiting tax control system (ACTCS) tax devices, including golden tax disk and printers, ACTCS services, and IT services; and sells software and hardware to large businesses, such as laptops, printers, desktop computers, and related accessories, as well as internet servers, cameras, and monitors. It also sells communication interface system, a software used by petrochemical and coal businesses to collect industrial, electricity, facility pressure, and temperature statistics and convert to readable format for analytical purposes. In addition, the company provides IT maintenance services. Hitek Global Inc. was founded in 1996 and is headquartered in Xiamen, China.

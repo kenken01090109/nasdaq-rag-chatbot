@@ -1,0 +1,25 @@
+Company: Northwest Bancshares Inc. Common Stock
+Ticker: NWBI
+Market Cap: 1794205824
+Enterprise Value: 2341295360
+Total Revenue: 599086016
+Revenue Per Share: 4.421
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.39863998
+Profit Margins: 0.21034001
+Free Cashflow: 
+Operating Cashflow: 153415008
+Return On Assets: 0.00808
+Return On Equity: 0.072270006
+Total Cash: 259568992
+Total Debt: 781427968
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.347826
+Forward PE: 8.663139
+Price To Book: 0.94906867
+Beta: 0.664
+52 Week High: 13.62
+52 Week Low: 10.75

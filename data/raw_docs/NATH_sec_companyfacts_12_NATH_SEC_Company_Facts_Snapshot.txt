@@ -1,0 +1,12 @@
+Company: Nathan's Famous Inc. Common Stock
+Ticker: NATH
+CIK: 0000069733
+Latest SEC XBRL Facts:
+Revenues: 22129000 | unit=USD | filed=2019-06-14 | period_end=2019-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 126997000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+NetIncomeLoss: 17211000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+Assets: 50939000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+Liabilities: 66206000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+StockholdersEquity: -15267000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 15692000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 24545000 | unit=USD | filed=2026-02-05 | period_end=2025-12-28

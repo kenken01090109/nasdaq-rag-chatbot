@@ -1,0 +1,8 @@
+Company: Ambitions Enterprise Management Co. L.L.C Class A Ordinary Shares
+Ticker: AHMA
+Total Cash: 1035626
+Total Debt: 61480
+Debt To Equity: 0.917
+Current Ratio: 2.797
+Quick Ratio: 1.614
+Book Value: 0.239

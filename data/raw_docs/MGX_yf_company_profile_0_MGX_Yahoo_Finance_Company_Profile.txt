@@ -1,0 +1,9 @@
+Company: Metagenomi Therapeutics Inc. Common Stock
+Ticker: MGX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: EmeryVille
+Website: https://metagenomi.co
+Employees: 124
+Business Summary: Metagenomi Therapeutics, Inc. a genetic medicines company, develops therapeutics for patients using metagenomics-derived genome editing toolbox in the United States. Its genome editing toolbox includes nuclease-based genome editing, base editors, RNA-mediated integration, including prime editing, and DNA-mediated integration, such CRISPR-associated transposases. The company has a collaboration and license agreement with Ionis Pharmaceuticals, Inc. to research, develop and commercialize investigational medicines using genome editing technologies; and a development, option, and license agreement with Affini-T Therapeutics, Inc. to develop and commercialize gene edited TCR-based therapeutic products exclusively in the field of treatment, prevention, or diagnosis of any human cancer. Metagenomi Therapeutics, Inc. was incorporated in 2016 and is headquartered in EmeryVille, California.

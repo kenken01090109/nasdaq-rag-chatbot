@@ -1,0 +1,25 @@
+Company: Xos Inc. Common Stock
+Ticker: XOS
+Market Cap: 24141830
+Enterprise Value: 36039828
+Total Revenue: 52246000
+Revenue Per Share: 6.127
+EBITDA: -37523000
+Gross Margins: 0.03147
+Operating Margins: -0.42388
+Profit Margins: -0.66128
+Free Cashflow: 17233750
+Operating Cashflow: 6264000
+Return On Assets: -0.25676
+Return On Equity: -0.84367996
+Total Cash: 14066000
+Total Debt: 25964000
+Debt To Equity: 83.593
+Current Ratio: 2.409
+Quick Ratio: 1.174
+Trailing PE: 
+Forward PE: -0.5803815
+Price To Book: 0.7739826
+Beta: 1.715
+52 Week High: 5.6
+52 Week Low: 1.744

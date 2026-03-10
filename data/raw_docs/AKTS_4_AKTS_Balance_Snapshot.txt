@@ -1,0 +1,8 @@
+Company: Aktis Oncology Inc. Common stock
+Ticker: AKTS
+Total Cash: 297168000
+Total Debt: 12010000
+Debt To Equity: 4.89
+Current Ratio: 9.268
+Quick Ratio: 9.183
+Book Value: -162.432

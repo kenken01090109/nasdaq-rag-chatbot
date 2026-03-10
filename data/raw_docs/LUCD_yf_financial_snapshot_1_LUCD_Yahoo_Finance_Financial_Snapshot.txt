@@ -1,0 +1,25 @@
+Company: Lucid Diagnostics Inc. Common Stock
+Ticker: LUCD
+Market Cap: 183538256
+Enterprise Value: 213770272
+Total Revenue: 4399000
+Revenue Per Share: 0.053
+EBITDA: -47119000
+Gross Margins: -0.58104
+Operating Margins: -9.71016
+Profit Margins: 0.0
+Free Cashflow: -25542876
+Operating Cashflow: -43778000
+Return On Assets: -0.79166
+Return On Equity: -3.3123999
+Total Cash: 48377000
+Total Debt: 24335000
+Debt To Equity: 94.194
+Current Ratio: 1.902
+Quick Ratio: 1.867
+Trailing PE: 
+Forward PE: -4.615435
+Price To Book: -6.113537
+Beta: 1.181
+52 Week High: 1.8
+52 Week Low: 0.95

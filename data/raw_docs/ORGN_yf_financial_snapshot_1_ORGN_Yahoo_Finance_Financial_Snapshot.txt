@@ -1,0 +1,25 @@
+Company: Origin Materials Inc. Common Stock
+Ticker: ORGN
+Market Cap: 24400022
+Enterprise Value: -25994522
+Total Revenue: 25122000
+Revenue Per Share: 0.171
+EBITDA: -52730000
+Gross Margins: 0.01847
+Operating Margins: -3.5911498
+Profit Margins: -2.75026
+Free Cashflow: -39870876
+Operating Cashflow: -29579000
+Return On Assets: -0.10977
+Return On Equity: -0.21134001
+Total Cash: 54340000
+Total Debt: 5673000
+Debt To Equity: 1.923
+Current Ratio: 6.332
+Quick Ratio: 5.444
+Trailing PE: 
+Forward PE: -0.44914284
+Price To Book: 0.08020408
+Beta: 1.021
+52 Week High: 0.95
+52 Week Low: 0.139

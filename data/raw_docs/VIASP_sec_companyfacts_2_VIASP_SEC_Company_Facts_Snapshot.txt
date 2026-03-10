@@ -1,0 +1,12 @@
+Company: Via Renewables Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
+Ticker: VIASP
+CIK: 0001606268
+Latest SEC XBRL Facts:
+Revenues: 335615000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 462815000 | unit=USD | filed=2023-03-29 | period_end=2022-12-31
+NetIncomeLoss: 12294000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 304814000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 161131000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 63691000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 46309000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 53627000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

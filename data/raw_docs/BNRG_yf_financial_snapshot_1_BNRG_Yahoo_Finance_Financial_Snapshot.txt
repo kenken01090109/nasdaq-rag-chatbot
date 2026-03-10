@@ -1,0 +1,25 @@
+Company: Brenmiller Energy Ltd Ordinary Shares
+Ticker: BNRG
+Market Cap: 1293861
+Enterprise Value: 3443868
+Total Revenue: 387000
+Revenue Per Share: 1.614
+EBITDA: -11304000
+Gross Margins: 0.0
+Operating Margins: -16.98191
+Profit Margins: 0.0
+Free Cashflow: -6455250
+Operating Cashflow: -10909000
+Return On Assets: -0.63181996
+Return On Equity: -3.2720902
+Total Cash: 2127000
+Total Debt: 5234000
+Debt To Equity: 438.726
+Current Ratio: 1.297
+Quick Ratio: 0.674
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.28239712
+Beta: -0.971
+52 Week High: 52.15
+52 Week Low: 0.861

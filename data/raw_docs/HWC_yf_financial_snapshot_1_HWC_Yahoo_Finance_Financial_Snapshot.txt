@@ -1,0 +1,25 @@
+Company: Hancock Whitney Corporation Common Stock
+Ticker: HWC
+Market Cap: 5255920640
+Enterprise Value: 5976741888
+Total Revenue: 1459778048
+Revenue Per Share: 17.193
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.45533
+Profit Margins: 0.33298
+Free Cashflow: 
+Operating Cashflow: 541777984
+Return On Assets: 0.013780001
+Return On Equity: 0.113199994
+Total Cash: 758387008
+Total Debt: 1433570944
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 11.08642
+Forward PE: 9.277146
+Price To Book: 1.1593508
+Beta: 1.042
+52 Week High: 75.43
+52 Week Low: 43.9

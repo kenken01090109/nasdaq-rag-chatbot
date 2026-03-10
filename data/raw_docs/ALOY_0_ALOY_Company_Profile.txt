@@ -1,0 +1,9 @@
+Company: REalloys Inc. Common Stock
+Ticker: ALOY
+Long Business Summary: REalloys Inc. operates as a rare earth metals and permanent magnet company in North America. The company produces rare earth metals, such as neodymium, praseodymium, dysprosium, terbium, samarium, gadolinium, yttrium, and scandium; and magnets, such as NdFeB Magnets, SmFe12 Magnets, and MnBi Magnets. The company was founded in 2024 and is headquartered in Euclid, Ohio.
+Industry: Other Industrial Metals & Mining
+Sector: Basic Materials
+Website: https://www.realloys.com
+Country: United States
+City: Euclid
+Full Time Employees: 

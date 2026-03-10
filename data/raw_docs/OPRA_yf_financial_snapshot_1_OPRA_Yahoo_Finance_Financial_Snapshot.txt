@@ -1,0 +1,25 @@
+Company: Opera Limited American Depositary Shares
+Ticker: OPRA
+Market Cap: 1370718720
+Enterprise Value: 1223662720
+Total Revenue: 614825024
+Revenue Per Share: 6.865
+EBITDA: 110879000
+Gross Margins: 0.51287
+Operating Margins: 0.16329001
+Profit Margins: 0.17612
+Free Cashflow: 90897000
+Operating Cashflow: 117728000
+Return On Assets: 0.05231
+Return On Equity: 0.11101
+Total Cash: 155466000
+Total Debt: 8410000
+Debt To Equity: 0.832
+Current Ratio: 2.353
+Quick Ratio: 2.316
+Trailing PE: 12.848739
+Forward PE: 8.858684
+Price To Book: 1.3562179
+Beta: 1.111
+52 Week High: 21.06
+52 Week Low: 11.71

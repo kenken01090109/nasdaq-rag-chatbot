@@ -1,0 +1,10 @@
+Company: Allient Inc. Common Stock
+Ticker: ALNT
+CIK: 0000046129
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 411124000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 585083000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 290911000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 294172000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 43116000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 39476000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

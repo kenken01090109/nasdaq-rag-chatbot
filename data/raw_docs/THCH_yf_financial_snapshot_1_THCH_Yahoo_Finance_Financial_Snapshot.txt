@@ -1,0 +1,25 @@
+Company: TH International Limited Ordinary shares
+Ticker: THCH
+Market Cap: 68505736
+Enterprise Value: 1737145344
+Total Revenue: 1340360832
+Revenue Per Share: 41.198
+EBITDA: -108972016
+Gross Margins: 0.38548002
+Operating Margins: -0.15472001
+Profit Margins: -0.25212
+Free Cashflow: -103986520
+Operating Cashflow: -34735960
+Return On Assets: -0.11176
+Return On Equity: 
+Total Cash: 131609000
+Total Debt: 1797730048
+Debt To Equity: 
+Current Ratio: 0.245
+Quick Ratio: 0.094
+Trailing PE: 
+Forward PE: -0.45341104
+Price To Book: -0.46323472
+Beta: 0.527
+52 Week High: 3.5
+52 Week Low: 1.685

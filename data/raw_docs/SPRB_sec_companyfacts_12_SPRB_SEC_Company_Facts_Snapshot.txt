@@ -1,0 +1,11 @@
+Company: Spruce Biosciences Inc. Common Stock
+Ticker: SPRB
+CIK: 0001683553
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -24320000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 15313000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 9927000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 5386000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -26871000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10669000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

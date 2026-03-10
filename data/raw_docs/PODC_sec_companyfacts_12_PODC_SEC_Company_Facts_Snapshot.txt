@@ -1,0 +1,11 @@
+Company: PodcastOne Inc. Common Stock
+Ticker: PODC
+CIK: 0001940177
+Latest SEC XBRL Facts:
+Revenues: 10637000 | unit=USD | filed=2023-08-15 | period_end=2023-06-30
+NetIncomeLoss: -2183000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 24702000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 8944000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: 15758000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 2359000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 3416000 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

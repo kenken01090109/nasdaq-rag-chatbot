@@ -1,0 +1,25 @@
+Company: BEST SPAC I Acquisition Corp. Unit
+Ticker: BSAAU
+Market Cap: 
+Enterprise Value: 75215768
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -368020
+Operating Cashflow: -598167
+Return On Assets: -0.0141199995
+Return On Equity: 0.51061
+Total Cash: 1295059
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 9.289
+Quick Ratio: 8.466
+Trailing PE: 
+Forward PE: 
+Price To Book: 30.322582
+Beta: 
+52 Week High: 10.92
+52 Week Low: 9.99

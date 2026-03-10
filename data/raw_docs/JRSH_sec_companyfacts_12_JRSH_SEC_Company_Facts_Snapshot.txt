@@ -1,0 +1,11 @@
+Company: Jerash Holdings (US) Inc. Common Stock
+Ticker: JRSH
+CIK: 0001696558
+Latest SEC XBRL Facts:
+Revenues: 123367028 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetIncomeLoss: 1950856 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Assets: 84214930 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+Liabilities: 20563722 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+StockholdersEquity: 63589890 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -3491495 | unit=USD | filed=2026-02-10 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 11454016 | unit=USD | filed=2026-02-10 | period_end=2025-12-31

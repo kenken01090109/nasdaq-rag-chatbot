@@ -1,0 +1,9 @@
+Company: Winchester Bancorp Inc. Common Stock
+Ticker: WSBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Winchester
+Website: https://www.winchestersavings.com
+Employees: 71
+Business Summary: Winchester Bancorp, Inc. operates as a bank holding company for Winchester Savings Bank that provides banking products and services in the United States. The company offers deposit accounts, including non-interest-bearing checking, interest-bearing checking, money market, and savings accounts, as well as certificates of deposit; and one- to four-family residential real estate loans, multifamily residential real estate loans, construction loans, commercial real estate loans, home equity loans and lines of credit, commercial business loans, and consumer loans including automobile loans, home mortgages, credit lines, and other personal loans, as well as invests in securities. Winchester Bancorp, Inc. was incorporated in 1871 and is headquartered in Winchester, Massachusetts. Winchester Bancorp, Inc. is a subsidiary of Winchester Bancorp, MHC.

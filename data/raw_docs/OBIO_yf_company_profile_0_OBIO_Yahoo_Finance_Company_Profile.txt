@@ -1,0 +1,9 @@
+Company: Orchestra BioMed Holdings Inc. Ordinary Shares
+Ticker: OBIO
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New Hope
+Website: https://orchestrabiomed.com
+Employees: 70
+Business Summary: Orchestra BioMed Holdings, Inc. operates as a biomedical company in the United States. The company's flagship product candidates include Atrioventricular Interval Modulation, a bioelectronic therapy candidate designed to immediately, substantially, and persistently lower blood pressure; and Virtue Sirolimus AngioInfusion Balloon for the treatment of atherosclerotic artery disease. It also develops Cardiac Neuromodulation Therapy for heart failure, or potential treatment of clinical indications; and CNT-HF, a bioelectronic product candidate that aims to reduce chronic sympathetic nervous system activity in heart failure. In addition, the company offers FreeHold devices and additional minimally invasive surgery enabling devices; and Pure-Vu system, a medical device to facilitate the cleansing of a poorly prepared gastrointestinal tract during colonoscopy and upper gastrointestinal endoscopy procedures. It has a collaboration agreement with Medtronic, Inc. for the development of AVIM therapy for the treatment of HTN in pacemaker-indicated patients; and a strategic collaboration with Terumo Corporation and Terumo Medical Corporation for the development and commercialization of Virtue SAB for the treatment of coronary and peripheral artery disease. Orchestra BioMed Holdings, Inc. was founded in 2018 and is headquartered in New Hope, Pennsylvania.

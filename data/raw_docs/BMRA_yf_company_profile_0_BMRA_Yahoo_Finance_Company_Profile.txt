@@ -1,0 +1,9 @@
+Company: Biomerica Inc. Common Stock
+Ticker: BMRA
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Irvine
+Website: https://www.biomerica.com
+Employees: 53
+Business Summary: Biomerica, Inc., a biomedical technology company, engages in developing, patenting, manufacturing, and marketing diagnostic and therapeutic products for the detection and treatment of medical conditions and diseases worldwide. The company's diagnostic test kits are used to analyze blood, urine, nasal or fecal specimens from patients in the diagnosis of various diseases, food intolerances, and other medical complications, as well as to measure the levels of specific bacteria, hormones, antibodies, antigens, and other substances which may exist in the human body, stools, or blood in extremely small concentrations. It sells its products for treating gastrointestinal diseases and food intolerances, as well as various esoteric tests at the physicians' offices and over-the-counter drugstores, and hospital/clinical laboratories. The company is also involved in the development of InFoods IBS, that uses a simple blood sample to identify patient-specific foods which may alleviate irritable bowel syndrome symptoms; and hp+detect, a H. Pylori diagnostic test that indicates if a patient is infected with the Helicobacter pylori bacteria. Biomerica, Inc. was incorporated in 1971 and is headquartered in Irvine, California.

@@ -1,0 +1,10 @@
+Company: Oxford Square Capital Corp. Common Stock
+Ticker: OXSQ
+CIK: 0001259429
+Latest SEC XBRL Facts:
+NetIncomeLoss: -5828321 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 314739807 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 155784661 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 158955146 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -15612300 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 50788037 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

@@ -1,0 +1,10 @@
+Company: Alico Inc. Common Stock
+Ticker: ALCO
+Market Cap: 305729888
+Enterprise Value: 361322880
+Trailing PE: 
+Forward PE: -107.918915
+Price To Book: 3.0691776
+Beta: 1.054
+52 Week High: 43.2
+52 Week Low: 27.02

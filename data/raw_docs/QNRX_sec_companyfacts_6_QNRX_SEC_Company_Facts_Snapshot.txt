@@ -1,0 +1,11 @@
+Company: Quoin Pharmaceuticals Ltd. American Depositary Shares
+Ticker: QNRX
+CIK: 0001671502
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 0 | unit=USD | filed=2022-04-14 | period_end=2021-12-31
+NetIncomeLoss: -11456282 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 6423664 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 7638284 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: -1214620 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8505969 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1830906 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

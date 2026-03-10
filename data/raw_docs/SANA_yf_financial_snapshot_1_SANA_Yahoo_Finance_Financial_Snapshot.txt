@@ -1,0 +1,25 @@
+Company: Sana Biotechnology Inc. Common Stock
+Ticker: SANA
+Market Cap: 839053248
+Enterprise Value: 857896128
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -178208000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -53566752
+Operating Cashflow: -143828000
+Return On Assets: -0.26004
+Return On Equity: -1.18704
+Total Cash: 138382000
+Total Debt: 86262000
+Debt To Equity: 53.618
+Current Ratio: 1.889
+Quick Ratio: 1.758
+Trailing PE: 
+Forward PE: -4.8754067
+Price To Book: 5.223881
+Beta: 1.962
+52 Week High: 6.55
+52 Week Low: 1.26

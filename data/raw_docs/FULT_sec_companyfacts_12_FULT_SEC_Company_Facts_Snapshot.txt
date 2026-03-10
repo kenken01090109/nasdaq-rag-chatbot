@@ -1,0 +1,9 @@
+Company: Fulton Financial Corporation Common Stock
+Ticker: FULT
+CIK: 0000700564
+Latest SEC XBRL Facts:
+NetIncomeLoss: 292639000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 31995086000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 28581488000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 3413598000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 208511000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

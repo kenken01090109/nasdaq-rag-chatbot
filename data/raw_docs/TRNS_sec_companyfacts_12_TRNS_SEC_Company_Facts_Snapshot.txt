@@ -1,0 +1,11 @@
+Company: Transcat Inc. Common Stock
+Ticker: TRNS
+CIK: 0000099302
+Latest SEC XBRL Facts:
+Revenues: 242552000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+NetIncomeLoss: 3429000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+Assets: 472891000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+Liabilities: 176121000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+StockholdersEquity: 296770000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 28649000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 3471000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27

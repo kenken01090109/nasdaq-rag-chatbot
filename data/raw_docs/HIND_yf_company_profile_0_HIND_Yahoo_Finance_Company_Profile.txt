@@ -1,0 +1,9 @@
+Company: Vyome Holdings Inc. Common Stock
+Ticker: HIND
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Cambridge
+Website: https://www.vyometx.com
+Employees: 17
+Business Summary: Vyome Holdings Inc., a clinical-stage healthcare company, develops therapeutic products targeting immuno-inflammatory and rare diseases in the United States and global markets. The company was founded in 2017 and is based in Cambridge, Massachusetts.

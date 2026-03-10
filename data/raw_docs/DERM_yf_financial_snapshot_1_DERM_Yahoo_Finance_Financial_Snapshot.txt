@@ -1,0 +1,25 @@
+Company: Journey Medical Corporation Common Stock
+Ticker: DERM
+Market Cap: 258403696
+Enterprise Value: 211198976
+Total Revenue: 59399000
+Revenue Per Share: 2.577
+EBITDA: -1321000
+Gross Margins: 0.66053003
+Operating Margins: -0.08672
+Profit Margins: -0.14583999
+Free Cashflow: -15973875
+Operating Cashflow: -3932000
+Return On Assets: -0.04603
+Return On Equity: -0.47050998
+Total Cash: 24948000
+Total Debt: 25301000
+Debt To Equity: 97.695
+Current Ratio: 1.42
+Quick Ratio: 1.081
+Trailing PE: 
+Forward PE: -129.5
+Price To Book: 7.9124236
+Beta: 0.823
+52 Week High: 9.555
+52 Week Low: 4.97

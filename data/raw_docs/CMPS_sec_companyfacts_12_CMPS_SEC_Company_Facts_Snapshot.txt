@@ -1,0 +1,10 @@
+Company: COMPASS Pathways Plc American Depository Shares
+Ticker: CMPS
+CIK: 0001816590
+Latest SEC XBRL Facts:
+NetIncomeLoss: -193984000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 255607000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 218016000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 37591000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -119452000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 185937000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

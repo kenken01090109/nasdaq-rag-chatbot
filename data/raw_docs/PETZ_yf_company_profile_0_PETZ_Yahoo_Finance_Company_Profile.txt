@@ -1,0 +1,9 @@
+Company: TDH Holdings Inc. Common Shares
+Ticker: PETZ
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: China
+City: Beijing
+Website: https://www.tiandihui.com
+Employees: 17
+Business Summary: TDH Holdings, Inc. engages in the commercial real estate management business in the United States. The company was founded in 2002 and is based in Beijing, the People's Republic of China.

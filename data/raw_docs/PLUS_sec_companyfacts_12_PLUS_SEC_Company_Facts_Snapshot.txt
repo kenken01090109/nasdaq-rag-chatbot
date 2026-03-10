@@ -1,0 +1,12 @@
+Company: ePlus inc. Common Stock
+Ticker: PLUS
+CIK: 0001022408
+Latest SEC XBRL Facts:
+Revenues: 1860915000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 1410997000 | unit=USD | filed=2018-05-25 | period_end=2018-03-31
+NetIncomeLoss: 107604000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 1831684000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 768386000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 1063298000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -221185000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 326291000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

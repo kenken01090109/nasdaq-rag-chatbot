@@ -1,0 +1,11 @@
+Company: Foxx Development Holdings Inc. Warrant
+Ticker: FOXXW
+CIK: 0002013807
+Latest SEC XBRL Facts:
+Revenues: 36939873 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetIncomeLoss: -7151356 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Assets: 42043749 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+Liabilities: 53865460 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+StockholdersEquity: -11821711 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: -92589 | unit=USD | filed=2026-02-13 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 1769684 | unit=USD | filed=2026-02-13 | period_end=2025-12-31

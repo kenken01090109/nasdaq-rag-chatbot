@@ -1,0 +1,25 @@
+Company: Mobile-health Network Solutions Class A Ordinary Shares
+Ticker: MNDR
+Market Cap: 2441308
+Enterprise Value: 26468
+Total Revenue: 7646739
+Revenue Per Share: 8.633
+EBITDA: -3397664
+Gross Margins: 0.16740999
+Operating Margins: -0.53265
+Profit Margins: -0.44252
+Free Cashflow: -5628170
+Operating Cashflow: -4359262
+Return On Assets: -0.35741
+Return On Equity: -1.00168
+Total Cash: 1100117
+Total Debt: 168948
+Debt To Equity: 6.456
+Current Ratio: 1.055
+Quick Ratio: 0.931
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.36539382
+Beta: 
+52 Week High: 17.04
+52 Week Low: 0.789

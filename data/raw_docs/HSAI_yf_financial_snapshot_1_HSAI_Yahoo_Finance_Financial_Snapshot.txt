@@ -1,0 +1,25 @@
+Company: Hesai Group American Depositary Share each ADS represents one Class B ordinary share
+Ticker: HSAI
+Market Cap: 3829240320
+Enterprise Value: -3275227136
+Total Revenue: 2746842880
+Revenue Per Share: 20.702
+EBITDA: 339283744
+Gross Margins: 0.41344002
+Operating Margins: 0.097270004
+Profit Margins: 0.15642
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.013150001
+Return On Equity: 0.0684
+Total Cash: 7364782080
+Total Debt: 835348992
+Debt To Equity: 9.449
+Current Ratio: 5.755
+Quick Ratio: 5.194
+Trailing PE: 51.869564
+Forward PE: 35.289455
+Price To Book: 2.5391986
+Beta: 1.075
+52 Week High: 30.85
+52 Week Low: 10.41

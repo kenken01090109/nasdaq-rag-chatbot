@@ -1,0 +1,10 @@
+Company: Smith Micro Software Inc. Common Stock
+Ticker: SMSI
+CIK: 0000948708
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 13389000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -24774000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 27129000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 19891000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5007000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1394000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

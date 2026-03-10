@@ -1,0 +1,12 @@
+Company: Air T Inc. Air T Funding Alpha Income Trust Preferred Securities
+Ticker: AIRTP
+Total Revenue: 272467008
+Revenue Per Share: 100.504
+Gross Margins: 0.23231001
+Operating Margins: -0.05314
+EBITDA: -2906000
+Profit Margins: -0.02481
+Free Cashflow: 74457504
+Operating Cashflow: -20881000
+Return On Assets: -0.01739
+Return On Equity: -0.48259

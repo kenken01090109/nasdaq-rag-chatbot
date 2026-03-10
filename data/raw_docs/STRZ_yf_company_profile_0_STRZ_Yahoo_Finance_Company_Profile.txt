@@ -1,0 +1,9 @@
+Company: Starz Entertainment Corp. Common Shares
+Ticker: STRZ
+Sector: Communication Services
+Industry: Entertainment
+Country: Canada
+City: Vancouver
+Website: https://www.starz.com
+Employees: 517
+Business Summary: Starz Entertainment Corp. provides subscription video programming to consumers in the United States and Canada. It distributes STARZ-branded premium subscription video services through over-the-top streaming platforms and distributors on a direct-to-consumer basis through the Starz App, as well as through multichannel video programming distributors, including cable operators, satellite television providers, and telecommunications companies. The company was incorporated in 1997 and is based in Vancouver, Canada.

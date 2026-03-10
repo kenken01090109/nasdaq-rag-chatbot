@@ -1,0 +1,25 @@
+Company: NewGenIvf Group Limited Class A Ordinary Shares
+Ticker: NIVF
+Market Cap: 476248
+Enterprise Value: 1799311
+Total Revenue: 4575491
+Revenue Per Share: 101.576
+EBITDA: -6801572
+Gross Margins: 0.21221
+Operating Margins: -1.95944
+Profit Margins: 3.81163
+Free Cashflow: -8526913
+Operating Cashflow: -15139549
+Return On Assets: -0.23095
+Return On Equity: 1.6054201
+Total Cash: 3152364
+Total Debt: 5503599
+Debt To Equity: 19.15
+Current Ratio: 3.427
+Quick Ratio: 2.961
+Trailing PE: 0.00011548528
+Forward PE: 0.020314464
+Price To Book: 0.002366936
+Beta: 0.001
+52 Week High: 1200.0
+52 Week Low: 0.4807

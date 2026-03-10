@@ -1,0 +1,25 @@
+Company: Universe Pharmaceuticals Inc. Class A Ordinary Shares
+Ticker: UPC
+Market Cap: 1532279
+Enterprise Value: -22814094
+Total Revenue: 17858732
+Revenue Per Share: 39.175
+EBITDA: -2398488
+Gross Margins: 0.35283002
+Operating Margins: -0.06767
+Profit Margins: -0.20562
+Free Cashflow: -10243885
+Operating Cashflow: -5052319
+Return On Assets: -0.02656
+Return On Equity: -0.07226
+Total Cash: 33592024
+Total Debt: 9256919
+Debt To Equity: 16.492
+Current Ratio: 4.069
+Quick Ratio: 3.551
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.027299095
+Beta: 1.57
+52 Week High: 11.0
+52 Week Low: 2.51

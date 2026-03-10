@@ -1,0 +1,25 @@
+Company: Actuate Therapeutics Inc. Common stock
+Ticker: ACTU
+Market Cap: 66475916
+Enterprise Value: 49551156
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -11449474
+Operating Cashflow: -20242624
+Return On Assets: -0.95249003
+Return On Equity: -2.96042
+Total Cash: 16924764
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 2.737
+Quick Ratio: 2.656
+Trailing PE: 8.411764
+Forward PE: -2.743405
+Price To Book: 6.072187
+Beta: 
+52 Week High: 11.99
+52 Week Low: 2.73

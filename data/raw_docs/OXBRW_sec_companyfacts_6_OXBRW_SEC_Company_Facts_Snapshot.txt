@@ -1,0 +1,11 @@
+Company: Oxbridge Re Holdings Limited Warrant expiring 3/26/2029
+Ticker: OXBRW
+CIK: 0001584831
+Latest SEC XBRL Facts:
+Revenues: 2001000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: -2199000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 8854000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1980000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 5710000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1781000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 726000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

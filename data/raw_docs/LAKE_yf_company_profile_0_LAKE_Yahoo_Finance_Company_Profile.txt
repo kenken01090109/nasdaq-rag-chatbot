@@ -1,0 +1,9 @@
+Company: Lakeland Industries Inc. Common Stock
+Ticker: LAKE
+Sector: Consumer Cyclical
+Industry: Apparel Manufacturing
+Country: United States
+City: Huntsville
+Website: https://www.lakeland.com
+Employees: 2050
+Business Summary: Lakeland Industries, Inc., together with its subsidiaries, manufactures and sells industrial protective clothing and accessories for the industrial and public protective clothing market worldwide. It offers firefighting and heat protective apparel to protect against fire; high-end chemical protective suits to provide protection from highly concentrated, toxic and/or lethal chemicals, and biological toxins; and limited use/disposable protective clothing, such as coveralls, laboratory coats, shirts, pants, hoods, aprons, sleeves, arm guards, caps, and smocks. The company provides durable woven garments; high performance FR/AR apparel; and firefighter protective apparel and accessories. In addition, it provides high visibility clothing comprising reflective apparel, including vests, T-shirts, sweatshirts, jackets, coats, raingear, jumpsuits, hats, and gloves; and gloves and sleeves that are used in the automotive, glass, and metal fabrication industries. The company sells its products to a network of safety and industrial supply distributors through in-house sales teams, customer service group, and independent sales representatives. It serves end users, such as integrated oil, chemical/petrochemical, automobile, steel, glass, construction, smelting, cleanroom, janitorial, pharmaceutical, and high technology electronics manufacturers, as well as scientific, medical laboratories, and the utilities industry; and federal, state, and local governmental agencies and departments. The company was incorporated in 1982 and is headquartered in Huntsville, Alabama.

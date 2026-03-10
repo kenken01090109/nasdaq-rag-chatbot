@@ -1,0 +1,11 @@
+Company: Alto Ingredients Inc. Common Stock
+Ticker: ALTO
+CIK: 0000778164
+Latest SEC XBRL Facts:
+Revenues: 685962000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -8468000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 388474000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 166072000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 222402000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 3705000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32516000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

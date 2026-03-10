@@ -1,0 +1,9 @@
+Company: NSTS Bancorp Inc. Common Stock
+Ticker: NSTS
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Waukegan
+Website: https://www.northshoretrust.com
+Employees: 50
+Business Summary: NSTS Bancorp, Inc. operates as a savings and loan holding company for North Shore Trust and Savings that provides banking products and services in Illinois. The company offers interest-bearing and noninterest-bearing checking, money market, savings, and time deposit accounts; and one- to four-family residential mortgage, multi-family and commercial real estate mortgage, construction, and consumer loans. It also provides online banking services. The company operates through full-service banking offices in Lake County, Illinois; and loan production offices in Chicago, Plainfield, and Aurora. NSTS Bancorp, Inc. was founded in 1921 and is headquartered in Waukegan, Illinois.

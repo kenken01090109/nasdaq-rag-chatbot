@@ -1,0 +1,10 @@
+Company: Heartland Express Inc. Common Stock
+Ticker: HTLD
+CIK: 0000799233
+Latest SEC XBRL Facts:
+Revenues: 626354000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetIncomeLoss: -8284000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 1257618000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 775630000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 74372000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 32688000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30

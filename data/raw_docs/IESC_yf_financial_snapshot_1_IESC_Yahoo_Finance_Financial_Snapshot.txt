@@ -1,0 +1,25 @@
+Company: IES Holdings Inc. Common Stock
+Ticker: IESC
+Market Cap: 8581992960
+Enterprise Value: 8393171968
+Total Revenue: 3492879104
+Revenue Per Share: 175.594
+EBITDA: 456259008
+Gross Margins: 0.25809
+Operating Margins: 0.112749994
+Profit Margins: 0.09766
+Free Cashflow: 210434624
+Operating Cashflow: 276536992
+Return On Assets: 0.17434
+Return On Equity: 0.41739
+Total Cash: 258744000
+Total Debt: 65793000
+Debt To Equity: 6.816
+Current Ratio: 1.803
+Quick Ratio: 1.581
+Trailing PE: 25.603449
+Forward PE: 
+Price To Book: 8.929275
+Beta: 1.68
+52 Week High: 537.7
+52 Week Low: 146.51

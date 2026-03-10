@@ -1,0 +1,25 @@
+Company: Beasley Broadcast Group Inc. Class A Common Stock
+Ticker: BBGI
+Market Cap: 7504615
+Enterprise Value: 268048128
+Total Revenue: 220174720
+Revenue Per Share: 123.238
+EBITDA: 15988607
+Gross Margins: 0.14017999
+Operating Margins: 0.0189
+Profit Margins: -0.03842
+Free Cashflow: 4628361
+Operating Cashflow: -6782854
+Return On Assets: 0.01066
+Return On Equity: -0.05898
+Total Cash: 14336639
+Total Debt: 275349184
+Debt To Equity: 195.256
+Current Ratio: 1.15
+Quick Ratio: 1.03
+Trailing PE: 
+Forward PE: -1.3866667
+Price To Book: 0.053216666
+Beta: 0.275
+52 Week High: 26.37
+52 Week Low: 3.67

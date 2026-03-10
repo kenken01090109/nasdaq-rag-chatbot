@@ -1,0 +1,25 @@
+Company: JIADE LIMITED Class A Ordinary Shares
+Ticker: JDZG
+Market Cap: 3276820
+Enterprise Value: 3024625
+Total Revenue: 19204298
+Revenue Per Share: 6.262
+EBITDA: -4265030
+Gross Margins: 0.42509
+Operating Margins: -0.53356
+Profit Margins: -0.21098
+Free Cashflow: -68540160
+Operating Cashflow: -13940829
+Return On Assets: -0.0399
+Return On Equity: -0.059109997
+Total Cash: 9585669
+Total Debt: 11931967
+Debt To Equity: 18.004
+Current Ratio: 2.246
+Quick Ratio: 1.064
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.039112914
+Beta: 
+52 Week High: 6.32
+52 Week Low: 0.1102

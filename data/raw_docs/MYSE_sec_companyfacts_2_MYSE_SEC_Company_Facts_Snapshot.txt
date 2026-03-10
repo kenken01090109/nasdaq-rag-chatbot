@@ -1,0 +1,11 @@
+Company: Myseum Inc. Common Stock
+Ticker: MYSE
+CIK: 0001648960
+Latest SEC XBRL Facts:
+Revenues: 489 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -3891545 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 6763855 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1069282 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 8337407 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3515434 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 457626 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

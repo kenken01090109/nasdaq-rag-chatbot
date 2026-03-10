@@ -1,0 +1,9 @@
+Company: Top KingWin Ltd Class A Ordinary Shares
+Ticker: WAI
+Sector: Financial Services
+Industry: Capital Markets
+Country: China
+City: Guangzhou
+Website: 
+Employees: 85
+Business Summary: Top KingWin Ltd offers corporate business training, corporate consulting, and advisory and transaction services in the People's Republic of China. The company sells devices to support artificial intelligence (AI) data collection and analysis. It serves entrepreneurs and executives in small and medium enterprises. The company was founded in 2018 and is headquartered in Guangzhou, China.

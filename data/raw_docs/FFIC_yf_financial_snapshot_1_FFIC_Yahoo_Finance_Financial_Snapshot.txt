@@ -1,0 +1,25 @@
+Company: Flushing Financial Corporation Common Stock
+Ticker: FFIC
+Market Cap: 519850208
+Enterprise Value: 941382464
+Total Revenue: 226144000
+Revenue Per Share: 6.664
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.16223
+Profit Margins: 0.08349
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00213
+Return On Equity: 0.02636
+Total Cash: 126076000
+Total Debt: 538494976
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 28.5
+Forward PE: 9.052941
+Price To Book: 0.7342558
+Beta: 0.831
+52 Week High: 17.79
+52 Week Low: 10.65

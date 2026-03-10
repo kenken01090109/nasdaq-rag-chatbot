@@ -1,0 +1,25 @@
+Company: K-Tech Solutions Company Limited Class A Ordinary Shares
+Ticker: KMRK
+Market Cap: 47264000
+Enterprise Value: 42818220
+Total Revenue: 18612534
+Revenue Per Share: 1.003
+EBITDA: 642590
+Gross Margins: 0.13153
+Operating Margins: -0.01715
+Profit Margins: 0.02622
+Free Cashflow: -1484611
+Operating Cashflow: -1296977
+Return On Assets: 0.04612
+Return On Equity: 0.19233
+Total Cash: 4373256
+Total Debt: 1366476
+Debt To Equity: 48.923
+Current Ratio: 2.02
+Quick Ratio: 1.88
+Trailing PE: 74.66667
+Forward PE: 
+Price To Book: 15.664335
+Beta: 
+52 Week High: 5.5
+52 Week Low: 0.86

@@ -1,0 +1,9 @@
+Company: Fifth District Bancorp Inc. Common Stock
+Ticker: FDSB
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: New Orleans
+Website: https://www.fifthdistrict.com
+Employees: 67
+Business Summary: Fifth District Bancorp, Inc. operates as the bank holding company for Fifth District Savings Bank that provides various banking products and services primarily in New Orleans-Metairie Metropolitan Statistical Area. The company offers a range of deposit accounts, including checking accounts, money market accounts, and certificates of deposit. It also provides fixed-rate one- to four-family residential mortgage loans, as well as originates construction loans, home equity loans, home equity lines of credit, land loans, and share loans; and purchases commercial business loans. In addition, it offers electronic banking services, including mobile banking, on-line banking, telephone banking, bill pay, and electronic funds transfer via SmartPay. The company was founded in 1926 and is based in New Orleans, Louisiana.

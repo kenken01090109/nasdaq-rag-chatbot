@@ -1,0 +1,25 @@
+Company: B.O.S. Better Online Solutions Common Stock
+Ticker: BOSC
+Market Cap: 29259780
+Enterprise Value: 23903780
+Total Revenue: 48333000
+Revenue Per Share: 8.127
+EBITDA: 4450500
+Gross Margins: 0.23657
+Operating Margins: 0.06882
+Profit Margins: 0.0678
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.068730004
+Return On Equity: 0.14255999
+Total Cash: 7316000
+Total Debt: 1960000
+Debt To Equity: 7.77
+Current Ratio: 2.756
+Quick Ratio: 2.124
+Trailing PE: 9.27451
+Forward PE: 
+Price To Book: 1.1598823
+Beta: 1.179
+52 Week High: 6.72
+52 Week Low: 3.3

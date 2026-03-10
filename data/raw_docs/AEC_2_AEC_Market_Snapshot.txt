@@ -1,0 +1,10 @@
+Company: Anfield Energy Inc. Common Shares
+Ticker: AEC
+Market Cap: 110643944
+Enterprise Value: 105785120
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.6813104
+Beta: 1.84
+52 Week High: 12.49
+52 Week Low: 2.25

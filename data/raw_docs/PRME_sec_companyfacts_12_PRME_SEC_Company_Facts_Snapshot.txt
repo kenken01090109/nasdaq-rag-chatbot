@@ -1,0 +1,11 @@
+Company: Prime Medicine Inc. Common Stock
+Ticker: PRME
+CIK: 0001894562
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 3794000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: -155063000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 385012000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 223191000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 161821000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -125308000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 71396000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

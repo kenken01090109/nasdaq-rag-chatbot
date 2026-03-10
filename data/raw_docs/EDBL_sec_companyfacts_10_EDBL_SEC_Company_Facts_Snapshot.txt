@@ -1,0 +1,11 @@
+Company: Edible Garden AG Incorporated Common Stock
+Ticker: EDBL
+CIK: 0001809750
+Latest SEC XBRL Facts:
+Revenues: 8681000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -21245000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 20132000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 7209000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 12923000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -9142000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1975000 | unit=USD | filed=2022-11-10 | period_end=2022-09-30

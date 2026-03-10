@@ -1,0 +1,25 @@
+Company: Terns Pharmaceuticals Inc. Common Stock
+Ticker: TERN
+Market Cap: 4657414656
+Enterprise Value: 3562610176
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -108331000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -51270876
+Operating Cashflow: -77677000
+Return On Assets: -0.19944
+Return On Equity: -0.29123
+Total Cash: 295635008
+Total Debt: 1029000
+Debt To Equity: 0.362
+Current Ratio: 19.516
+Quick Ratio: 19.213
+Trailing PE: 
+Forward PE: -34.532257
+Price To Book: 13.19162
+Beta: -0.288
+52 Week High: 48.26
+52 Week Low: 1.865

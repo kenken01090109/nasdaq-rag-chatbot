@@ -1,0 +1,25 @@
+Company: OBOOK Holdings Inc. Class A Common Shares
+Ticker: OWLS
+Market Cap: 524079584
+Enterprise Value: 479794560
+Total Revenue: 7804100
+Revenue Per Share: 0.096
+EBITDA: -10656406
+Gross Margins: 0.12137
+Operating Margins: -1.64302
+Profit Margins: -1.13097
+Free Cashflow: 
+Operating Cashflow: -5916363
+Return On Assets: 
+Return On Equity: 
+Total Cash: 5914077
+Total Debt: 9673998
+Debt To Equity: 
+Current Ratio: 0.698
+Quick Ratio: 0.301
+Trailing PE: 
+Forward PE: 
+Price To Book: -55.42056
+Beta: 
+52 Week High: 90.0
+52 Week Low: 5.154

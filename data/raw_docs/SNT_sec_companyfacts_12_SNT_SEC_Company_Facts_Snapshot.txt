@@ -1,0 +1,10 @@
+Company: Senstar Technologies Corporation Common Shares
+Ticker: SNT
+CIK: 0001993727
+Latest SEC XBRL Facts:
+Revenues: 35753000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetIncomeLoss: 2637000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+Assets: 52076000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+StockholdersEquity: 37676000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 6656000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 20466000 | unit=USD | filed=2025-04-23 | period_end=2024-12-31

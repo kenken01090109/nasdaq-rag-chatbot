@@ -1,0 +1,8 @@
+Company: Agilysys Inc. Common Stock (DE)
+Ticker: AGYS
+Total Cash: 81453000
+Total Debt: 20304000
+Debt To Equity: 6.484
+Current Ratio: 1.307
+Quick Ratio: 1.167
+Book Value: 11.174

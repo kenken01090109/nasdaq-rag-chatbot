@@ -1,0 +1,9 @@
+Company: Great Southern Bancorp Inc. Common Stock
+Ticker: GSBC
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Springfield
+Website: https://www.greatsouthernbank.com
+Employees: 
+Business Summary: Great Southern Bancorp, Inc. operates as a bank holding company for Great Southern Bank that provides a range of financial services in the United States. The company's deposit products include regular savings accounts, checking accounts, money market accounts, fixed interest rate certificates with varying maturities, certificates of deposit, brokered certificates, and individual retirement accounts. Its loan portfolio comprises residential and commercial real estate loans, commercial business loans, construction loans, home improvement loans, and unsecured consumer loans, as well as secured consumer loans, such as automobile loans, boat loans, home equity loans, and loans secured by savings deposits. It also provides insurance and merchant banking services. Great Southern Bancorp, Inc. was founded in 1923 and is headquartered in Springfield, Missouri.

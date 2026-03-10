@@ -1,0 +1,11 @@
+Company: Gogo Inc. Common Stock
+Ticker: GOGO
+CIK: 0001537054
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 679930000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 22919000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 1295102000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 1188146000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 106956000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 115987000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 133572000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

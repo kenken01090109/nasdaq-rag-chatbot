@@ -1,0 +1,10 @@
+Company: First Interstate BancSystem Inc. Common Stock (DE)
+Ticker: FIBK
+CIK: 0000860413
+Latest SEC XBRL Facts:
+NetIncomeLoss: 193300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 27332900000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 23884200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 3448700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 238300000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 955200000 | unit=USD | filed=2019-05-08 | period_end=2019-03-31

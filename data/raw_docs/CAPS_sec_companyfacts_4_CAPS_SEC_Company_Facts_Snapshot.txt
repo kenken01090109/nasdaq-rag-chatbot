@@ -1,0 +1,12 @@
+Company: Capstone Holding Corp. Common Stock
+Ticker: CAPS
+CIK: 0000887151
+Latest SEC XBRL Facts:
+Revenues: 34405000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 35348000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetIncomeLoss: -4442000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Assets: 58483000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+Liabilities: 31326000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+StockholdersEquity: 27157000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3992000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 730000 | unit=USD | filed=2025-11-18 | period_end=2025-09-30

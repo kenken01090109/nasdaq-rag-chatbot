@@ -1,0 +1,10 @@
+Company: Vine Hill Capital Investment Corp. Warrant
+Ticker: VCICW
+CIK: 0002025396
+Latest SEC XBRL Facts:
+NetIncomeLoss: 4263000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 232076000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 3075000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -2461000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -657000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 431000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

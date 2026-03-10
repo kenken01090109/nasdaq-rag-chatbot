@@ -1,0 +1,25 @@
+Company: Enterprise Financial Services Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: EFSCP
+Market Cap: 
+Enterprise Value: 642359872
+Total Revenue: 673715008
+Revenue Per Share: 18.215
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.40566003
+Profit Margins: 0.2989
+Free Cashflow: 
+Operating Cashflow: 193515008
+Return On Assets: 0.01224
+Return On Equity: 0.10425
+Total Cash: 695283968
+Total Debt: 518659008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 4.8672137
+Forward PE: 
+Price To Book: 0.3787836
+Beta: 0.793
+52 Week High: 20.95
+52 Week Low: 17.2

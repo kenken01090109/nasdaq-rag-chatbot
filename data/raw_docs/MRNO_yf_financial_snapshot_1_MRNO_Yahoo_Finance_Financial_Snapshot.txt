@@ -1,0 +1,25 @@
+Company: Murano Global Investments PLC Ordinary Shares
+Ticker: MRNO
+Market Cap: 44813348
+Enterprise Value: 10711972864
+Total Revenue: 1200616064
+Revenue Per Share: 9.472
+EBITDA: -299072192
+Gross Margins: 0.41124
+Operating Margins: -0.71502995
+Profit Margins: -1.6360899
+Free Cashflow: -1154351104
+Operating Cashflow: -137758736
+Return On Assets: -0.018
+Return On Equity: -0.35397997
+Total Cash: 271672000
+Total Debt: 10935659520
+Debt To Equity: 209.243
+Current Ratio: 0.08
+Quick Ratio: 0.076
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.15241809
+Beta: 0.365
+52 Week High: 13.25
+52 Week Low: 0.493

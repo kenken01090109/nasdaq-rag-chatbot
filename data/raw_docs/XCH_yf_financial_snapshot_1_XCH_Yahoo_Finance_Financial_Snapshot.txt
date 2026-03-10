@@ -1,0 +1,25 @@
+Company: XCHG Limited American Depositary Share
+Ticker: XCH
+Market Cap: 85312952
+Enterprise Value: 3404773376
+Total Revenue: 34504832
+Revenue Per Share: 0.64
+EBITDA: -19184512
+Gross Margins: 0.5155
+Operating Margins: -0.59725
+Profit Margins: -0.5524
+Free Cashflow: -12608731
+Operating Cashflow: -21700536
+Return On Assets: -0.2663
+Return On Equity: -0.85723
+Total Cash: 16337549
+Total Debt: 8592744
+Debt To Equity: 34.34
+Current Ratio: 2.092
+Quick Ratio: 1.348
+Trailing PE: 
+Forward PE: -14.349999
+Price To Book: 3.408551
+Beta: 
+52 Week High: 2.499
+52 Week Low: 0.55

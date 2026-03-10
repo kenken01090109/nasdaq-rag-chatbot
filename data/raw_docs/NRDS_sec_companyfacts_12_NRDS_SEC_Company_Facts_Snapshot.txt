@@ -1,0 +1,11 @@
+Company: NerdWallet Inc. Class A Common Stock
+Ticker: NRDS
+CIK: 0001625278
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 611200000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetIncomeLoss: 34700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 492800000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 90400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 402400000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 92700000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 120600000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

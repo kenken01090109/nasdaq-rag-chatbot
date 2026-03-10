@@ -1,0 +1,10 @@
+Company: OFS Capital Corporation Common Stock
+Ticker: OFS
+CIK: 0001487918
+Latest SEC XBRL Facts:
+NetIncomeLoss: -22245000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 378150000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 241836000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 136314000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 24260000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 5008000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

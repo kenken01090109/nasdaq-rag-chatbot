@@ -1,0 +1,9 @@
+Company: Pure Cycle Corporation Common Stock
+Ticker: PCYO
+Sector: Utilities
+Industry: Utilities - Regulated Water
+Country: United States
+City: Watkins
+Website: https://www.purecyclewater.com
+Employees: 44
+Business Summary: Pure Cycle Corporation provides water and wastewater services in the United States. It operates in three segments: Water and Wastewater Resource Development, Land Development, and Single-Family Rental. The company engages in the wholesale water production, storage, treatment, and distribution systems; wastewater collection and treatment systems; development of land into master planned communities; and construction and leasing of single-family homes. It serves domestic, commercial, and industrial customers. Pure Cycle Corporation was incorporated in 1976 and is headquartered in Watkins, Colorado.

@@ -1,0 +1,11 @@
+Company: Bridger Aerospace Group Holdings Inc. Warrant
+Ticker: BAERW
+CIK: 0001941536
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 114283000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 19289000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 310986000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 233064000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: -322393000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 24761000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 55118000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

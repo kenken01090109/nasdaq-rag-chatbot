@@ -1,0 +1,10 @@
+Company: Bold Eagle Acquisition Corp. Right
+Ticker: BEAGR
+CIK: 0001852207
+Latest SEC XBRL Facts:
+NetIncomeLoss: 7518244 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 268318081 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9730848 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -8570415 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -563889 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 183491 | unit=USD | filed=2025-03-28 | period_end=2024-12-31

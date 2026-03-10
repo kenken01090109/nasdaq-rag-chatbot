@@ -1,0 +1,25 @@
+Company: Arrow Financial Corporation Common Stock
+Ticker: AROW
+Market Cap: 550096704
+Enterprise Value: 357542848
+Total Revenue: 158322000
+Revenue Per Share: 9.594
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.407
+Profit Margins: 0.27762
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.010039999
+Return On Equity: 0.10556
+Total Cash: 214183008
+Total Debt: 29194000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.622642
+Forward PE: 7.7251735
+Price To Book: 1.2738005
+Beta: 0.789
+52 Week High: 36.44
+52 Week Low: 22.72

@@ -1,0 +1,25 @@
+Company: Jiayin Group Inc. American Depositary Shares
+Ticker: JFIN
+Market Cap: 335160736
+Enterprise Value: 1192605056
+Total Revenue: 6536484864
+Revenue Per Share: 124.202
+EBITDA: 2119506048
+Gross Margins: 0.80924004
+Operating Margins: 0.3108
+Profit Margins: 0.26171
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.19909
+Return On Equity: 0.47837
+Total Cash: 124151000
+Total Debt: 35945000
+Debt To Equity: 0.835
+Current Ratio: 2.411
+Quick Ratio: 1.697
+Trailing PE: 1.3333334
+Forward PE: 3.3052633
+Price To Book: 0.51658547
+Beta: 0.548
+52 Week High: 19.23
+52 Week Low: 5.73

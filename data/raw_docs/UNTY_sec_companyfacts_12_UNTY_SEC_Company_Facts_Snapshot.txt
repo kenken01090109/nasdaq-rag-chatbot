@@ -1,0 +1,10 @@
+Company: Unity Bancorp Inc. Common Stock
+Ticker: UNTY
+CIK: 0000920427
+Latest SEC XBRL Facts:
+NetIncomeLoss: 42484000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 2876365000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 2542342000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 334023000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 38074000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 99404000 | unit=USD | filed=2014-03-06 | period_end=2013-12-31

@@ -1,0 +1,10 @@
+Company: Dogwood Therapeutics Inc. Common Stock
+Ticker: DWTX
+CIK: 0001818844
+Latest SEC XBRL Facts:
+NetIncomeLoss: -30476921 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 91992613 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 14607504 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 7258152 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11981464 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10126710 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

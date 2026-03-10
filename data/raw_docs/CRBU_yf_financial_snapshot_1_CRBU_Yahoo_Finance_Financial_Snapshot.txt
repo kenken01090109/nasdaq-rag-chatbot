@@ -1,0 +1,25 @@
+Company: Caribou Biosciences Inc. Common Stock
+Ticker: CRBU
+Market Cap: 170111840
+Enterprise Value: 38035344
+Total Revenue: 9295000
+Revenue Per Share: 0.1
+EBITDA: -135692992
+Gross Margins: 0.0
+Operating Margins: -13.375799
+Profit Margins: 0.0
+Free Cashflow: -76102000
+Operating Cashflow: -125638000
+Return On Assets: -0.32411
+Return On Equity: -0.74283
+Total Cash: 147259008
+Total Debt: 25464000
+Debt To Equity: 17.952
+Current Ratio: 5.542
+Quick Ratio: 5.353
+Trailing PE: 
+Forward PE: -1.2133334
+Price To Book: 1.198946
+Beta: 2.547
+52 Week High: 3.535
+52 Week Low: 0.66

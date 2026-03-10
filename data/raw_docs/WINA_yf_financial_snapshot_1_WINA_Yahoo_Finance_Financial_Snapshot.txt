@@ -1,0 +1,25 @@
+Company: Winmark Corporation Common Stock
+Ticker: WINA
+Market Cap: 1533542784
+Enterprise Value: 1586320000
+Total Revenue: 86055696
+Revenue Per Share: 24.243
+EBITDA: 55340600
+Gross Margins: 0.96392995
+Operating Margins: 0.61714
+Profit Margins: 0.48404
+Free Cashflow: 35674736
+Operating Cashflow: 44896800
+Return On Assets: 1.31924
+Return On Equity: 
+Total Cash: 10295700
+Total Debt: 63072900
+Debt To Equity: 
+Current Ratio: 2.488
+Quick Ratio: 2.161
+Trailing PE: 37.961094
+Forward PE: 35.511993
+Price To Book: -28.567436
+Beta: 0.648
+52 Week High: 527.37
+52 Week Low: 295.79

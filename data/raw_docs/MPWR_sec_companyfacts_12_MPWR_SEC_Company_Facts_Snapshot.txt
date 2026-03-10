@@ -1,0 +1,12 @@
+Company: Monolithic Power Systems Inc. Common Stock
+Ticker: MPWR
+CIK: 0001280452
+Latest SEC XBRL Facts:
+Revenues: 285047000 | unit=USD | filed=2016-11-03 | period_end=2016-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2039304000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: 445791000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 4206392000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 638445000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 3567947000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 733292000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1081251000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

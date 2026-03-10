@@ -1,0 +1,25 @@
+Company: Sagimet Biosciences Inc. Series A Common Stock
+Ticker: SGMT
+Market Cap: 175941856
+Enterprise Value: 60664716
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -26935376
+Operating Cashflow: -44841000
+Return On Assets: -0.26519
+Return On Equity: -0.39782003
+Total Cash: 116693000
+Total Debt: 115000
+Debt To Equity: 0.096
+Current Ratio: 13.064
+Quick Ratio: 12.759
+Trailing PE: 
+Forward PE: -2.8055365
+Price To Book: 1.4753203
+Beta: 3.397
+52 Week High: 11.41
+52 Week Low: 1.73

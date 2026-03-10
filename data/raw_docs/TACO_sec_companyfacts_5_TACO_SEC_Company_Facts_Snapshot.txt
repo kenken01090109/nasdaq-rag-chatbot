@@ -1,0 +1,10 @@
+Company: Berto Acquisition Corp. Ordinary Shares
+Ticker: TACO
+CIK: 0002033122
+Latest SEC XBRL Facts:
+NetIncomeLoss: 5010826 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 306027992 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 11940747 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -11489980 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -1268544 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 0 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

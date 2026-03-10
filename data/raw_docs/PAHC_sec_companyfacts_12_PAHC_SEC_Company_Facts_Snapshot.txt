@@ -1,0 +1,12 @@
+Company: Phibro Animal Health Corporation Class A Common Stock
+Ticker: PAHC
+CIK: 0001069899
+Latest SEC XBRL Facts:
+Revenues: 686996000 | unit=USD | filed=2022-05-04 | period_end=2022-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 737803000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetIncomeLoss: 53986000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Assets: 1405553000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+Liabilities: 1073192000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+StockholdersEquity: 332361000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 28654000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 55486000 | unit=USD | filed=2026-02-04 | period_end=2025-12-31

@@ -1,0 +1,25 @@
+Company: Tivic Health Systems Inc. Common Stock
+Ticker: TIVC
+Market Cap: 2147669
+Enterprise Value: -2021344
+Total Revenue: 482000
+Revenue Per Share: 0.594
+EBITDA: -7404000
+Gross Margins: -0.58090997
+Operating Margins: -17.006851
+Profit Margins: 0.0
+Free Cashflow: -3576750
+Operating Cashflow: -6077000
+Return On Assets: -0.96202004
+Return On Equity: -1.7818401
+Total Cash: 3450000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 5.862
+Quick Ratio: 5.437
+Trailing PE: 
+Forward PE: -0.03542917
+Price To Book: 0.25291494
+Beta: 2.014
+52 Week High: 13.23
+52 Week Low: 0.745

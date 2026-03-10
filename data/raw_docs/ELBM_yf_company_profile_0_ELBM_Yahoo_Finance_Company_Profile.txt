@@ -1,0 +1,9 @@
+Company: Electra Battery Materials Corporation Common Stock
+Ticker: ELBM
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Canada
+City: Toronto
+Website: https://electrabmc.com
+Employees: 23
+Business Summary: Electra Battery Materials Corporation engages in the acquisition and exploration of resource properties in the United States and Canada. It explores for cobalt, copper, and silver deposits. The company's flagship project is the Iron Creek cobalt-copper project that includes patented and unpatented claims totaling an area of approximately 3,260 hectares and 600 meters of underground drifting located in Lemhi County, Idaho. It also operates a hydrometallurgical cobalt refinery for producing battery materials for the electric vehicle supply chain. The company was formerly known as First Cobalt Corp. and changed its name to Electra Battery Materials Corporation in December 2021. Electra Battery Materials Corporation was incorporated in 2011 and is headquartered in Toronto, Canada.

@@ -1,0 +1,25 @@
+Company: Cricut Inc. Class A Common Stock
+Ticker: CRCT
+Market Cap: 860488960
+Enterprise Value: 593688192
+Total Revenue: 708780032
+Revenue Per Share: 3.294
+EBITDA: 101214000
+Gross Margins: 0.55175996
+Operating Margins: 0.0716
+Profit Margins: 0.108219996
+Free Cashflow: 132233504
+Operating Cashflow: 200230000
+Return On Assets: 0.09487
+Return On Equity: 0.18932
+Total Cash: 275649984
+Total Debt: 11624000
+Debt To Equity: 3.383
+Current Ratio: 2.26
+Quick Ratio: 1.663
+Trailing PE: 10.945947
+Forward PE: 25.961538
+Price To Book: 2.4907749
+Beta: 0.089
+52 Week High: 7.33
+52 Week Low: 3.94

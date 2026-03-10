@@ -1,0 +1,11 @@
+Company: Seneca Foods Corp. Class B Common Stock
+Ticker: SENEB
+CIK: 0000088948
+Latest SEC XBRL Facts:
+Revenues: 1314765000 | unit=USD | filed=2018-06-29 | period_end=2018-03-31
+NetIncomeLoss: 14885000 | unit=USD | filed=2025-08-07 | period_end=2025-06-28
+Assets: 1159344000 | unit=USD | filed=2025-08-07 | period_end=2025-06-28
+Liabilities: 515172000 | unit=USD | filed=2025-08-07 | period_end=2025-06-28
+StockholdersEquity: 644172000 | unit=USD | filed=2025-08-07 | period_end=2025-06-28
+NetCashProvidedByUsedInOperatingActivities: 53696000 | unit=USD | filed=2025-08-07 | period_end=2025-06-28
+CashAndCashEquivalentsAtCarryingValue: 12072000 | unit=USD | filed=2025-08-07 | period_end=2025-06-28

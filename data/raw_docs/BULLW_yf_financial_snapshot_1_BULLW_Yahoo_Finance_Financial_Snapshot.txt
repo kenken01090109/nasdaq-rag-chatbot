@@ -1,0 +1,25 @@
+Company: Webull Corporation Warrants
+Ticker: BULLW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 570996800
+Revenue Per Share: 1.438
+EBITDA: 
+Gross Margins: 0.77452004
+Operating Margins: 0.10411
+Profit Margins: 0.04338
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00819
+Return On Equity: 0.03002
+Total Cash: 2190308096
+Total Debt: 77523016
+Debt To Equity: 7.627
+Current Ratio: 1.265
+Quick Ratio: 1.247
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.83419156
+Beta: -0.043
+52 Week High: 8.19
+52 Week Low: 0.4

@@ -1,0 +1,11 @@
+Company: RedCloud Holdings plc Ordinary Shares
+Ticker: RCT
+CIK: 0002027360
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 46499285 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+NetIncomeLoss: -50715696 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+Assets: 17560043 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+Liabilities: 86330061 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+StockholdersEquity: -68770018 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -34679455 | unit=USD | filed=2025-05-16 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 800735 | unit=USD | filed=2025-05-16 | period_end=2024-12-31

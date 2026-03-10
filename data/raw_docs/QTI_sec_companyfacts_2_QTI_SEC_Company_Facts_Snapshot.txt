@@ -1,0 +1,11 @@
+Company: QT Imaging Holdings Inc. Common Stock
+Ticker: QTI
+CIK: 0001844505
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-03-25 | period_end=2023-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 10649930 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -19694921 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 12120941 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 21197385 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: -9076444 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5857572 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

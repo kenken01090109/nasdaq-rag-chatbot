@@ -1,0 +1,11 @@
+Company: PMGC Holdings Inc. Common Stock
+Ticker: ELAB
+CIK: 0001840563
+Latest SEC XBRL Facts:
+Revenues: 285948 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -4765130 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 14938018 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 6447363 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 8490655 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -4183881 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3984453 | unit=USD | filed=2025-03-28 | period_end=2024-12-31

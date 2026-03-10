@@ -1,0 +1,9 @@
+Company: NVE Corporation Common Stock
+Ticker: NVEC
+Sector: Technology
+Industry: Semiconductors
+Country: United States
+City: Eden Prairie
+Website: https://www.nve.com
+Employees: 41
+Business Summary: NVE Corporation develops and sells devices that use spintronics, a nanotechnology relying on electron spin to acquire, store, and transmit information, both in the United States and internationally. The company manufactures spintronic products, including sensors and couplers for use in sensing and transmitting data. Its products include standard sensors designed to detect the presence of magnetic or metallic materials, which help determine position, rotation, or speed in the factory automation market. In addition, the company offers custom and medical sensors for medical devices, intended to replace electromechanical magnetic switches. Further, the company provides spintronic couplers for power conversion and industrial Internet of Things (IIoT) markets, as well as DC-to-DC converters for use in power conversion systems and industrial networks for the IIoT and MRAM products. Additionally, it undertakes contracts for research and development and licenses spintronic magnetoresistive random access memory technology. The company sells its products through distributors. NVE Corporation was founded in 1989 and is headquartered in Eden Prairie, Minnesota.

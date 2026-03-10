@@ -1,0 +1,9 @@
+Company: Fitell Corporation Class A Ordinary Shares
+Ticker: FTEL
+Sector: Consumer Cyclical
+Industry: Specialty Retail
+Country: Australia
+City: Taren Point
+Website: https://www.fitellcorp.com
+Employees: 16
+Business Summary: Fitell Corporation, through its subsidiary, GD Wellness Pty Ltd, operates as an online retailer of gym and fitness equipment for personal training studios and commercial gyms chains in Australia and Southeast Asia. The company markets and sells fitness equipment, including home gym and commercial strength-training equipment; and cardio equipment, such as rowing machines, exercise bikes, treadmills, and other related products under the Muscle Motion, Rapid Motion, Harison, and FleetX brands. It is also involved in the boutique fitness clubs licensing business. The company sells its products online through its website and offline, such as by phone, email, and showroom. Fitell Corporation was founded in 2005 and is headquartered in Taren Point, Australia.

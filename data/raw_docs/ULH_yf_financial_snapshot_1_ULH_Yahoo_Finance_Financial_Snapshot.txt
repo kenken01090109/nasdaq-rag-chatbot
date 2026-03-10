@@ -1,0 +1,25 @@
+Company: Universal Logistics Holdings Inc. Common Stock
+Ticker: ULH
+Market Cap: 405746176
+Enterprise Value: 1352264448
+Total Revenue: 1638100992
+Revenue Per Share: 62.227
+EBITDA: 225840992
+Gross Margins: 0.19976999
+Operating Margins: 0.01764
+Profit Margins: -0.02458
+Free Cashflow: -63796124
+Operating Cashflow: 195660000
+Return On Assets: 0.03049
+Return On Equity: -0.06661
+Total Cash: 37172000
+Total Debt: 934452992
+Debt To Equity: 161.65
+Current Ratio: 1.323
+Quick Ratio: 1.173
+Trailing PE: 
+Forward PE: 16.75
+Price To Book: 0.70189023
+Beta: 0.886
+52 Week High: 30.76
+52 Week Low: 12.78

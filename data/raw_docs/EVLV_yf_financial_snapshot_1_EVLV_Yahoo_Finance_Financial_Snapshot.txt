@@ -1,0 +1,25 @@
+Company: Evolv Technologies Holdings Inc. Class A Common Stock
+Ticker: EVLV
+Market Cap: 887057344
+Enterprise Value: 892438272
+Total Revenue: 136500992
+Revenue Per Share: 0.83
+EBITDA: -35938000
+Gross Margins: 0.53656
+Operating Margins: -0.20061001
+Profit Margins: -0.43765
+Free Cashflow: -23125124
+Operating Cashflow: 6302000
+Return On Assets: -0.12342
+Return On Equity: -0.51674
+Total Cash: 56227000
+Total Debt: 42400000
+Debt To Equity: 41.473
+Current Ratio: 1.271
+Quick Ratio: 0.891
+Trailing PE: 
+Forward PE: -108.849365
+Price To Book: 8.639456
+Beta: 1.91
+52 Week High: 8.91
+52 Week Low: 2.64

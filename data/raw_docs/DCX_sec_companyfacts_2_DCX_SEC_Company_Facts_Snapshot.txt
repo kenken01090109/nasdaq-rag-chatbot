@@ -1,0 +1,11 @@
+Company: Digital Currency X Technology Inc. Class A Ordinary Shares
+Ticker: DCX
+CIK: 0001957413
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 599000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: -40048000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 490913000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 657202000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: -179581000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1622000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 352000 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

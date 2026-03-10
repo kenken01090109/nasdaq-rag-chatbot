@@ -1,0 +1,25 @@
+Company: Helix Acquisition Corp. III Class A Ordinary Shares
+Ticker: HLXC
+Market Cap: 220994288
+Enterprise Value: 
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: 
+Gross Margins: 
+Operating Margins: 
+Profit Margins: 
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 
+Return On Equity: 
+Total Cash: 
+Total Debt: 
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 10279.999
+Beta: 
+52 Week High: 10.355
+52 Week Low: 10.13

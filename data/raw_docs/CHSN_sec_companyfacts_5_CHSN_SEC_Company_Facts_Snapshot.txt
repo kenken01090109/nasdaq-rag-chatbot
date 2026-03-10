@@ -1,0 +1,11 @@
+Company: Chanson International Holding Class A Ordinary Shares
+Ticker: CHSN
+CIK: 0001825349
+Latest SEC XBRL Facts:
+Revenues: 8688208 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+NetIncomeLoss: -1048793 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+Assets: 51562506 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+Liabilities: 27018351 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+StockholdersEquity: 24544155 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -390299 | unit=USD | filed=2025-09-05 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 22092155 | unit=USD | filed=2025-09-05 | period_end=2025-06-30

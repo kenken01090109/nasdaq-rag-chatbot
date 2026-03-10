@@ -1,0 +1,12 @@
+Company: Maris-Tech Ltd. Ordinary Shares
+Ticker: MTEK
+CIK: 0001872964
+Latest SEC XBRL Facts:
+Revenues: 707021 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 473853 | unit=USD | filed=2023-09-29 | period_end=2023-06-30
+NetIncomeLoss: -2388294 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Assets: 7986799 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+Liabilities: 4475580 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+StockholdersEquity: 3511219 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1290105 | unit=USD | filed=2025-09-26 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 2769901 | unit=USD | filed=2025-09-26 | period_end=2025-06-30

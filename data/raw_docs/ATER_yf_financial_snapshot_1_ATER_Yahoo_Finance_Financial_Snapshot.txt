@@ -1,0 +1,25 @@
+Company: Aterian Inc. Common Stock
+Ticker: ATER
+Market Cap: 5766554
+Enterprise Value: 3643687
+Total Revenue: 78450000
+Revenue Per Share: 10.225
+EBITDA: -10227000
+Gross Margins: 0.58978003
+Operating Margins: -0.10741
+Profit Margins: -0.15722999
+Free Cashflow: -4991125
+Operating Cashflow: -9862000
+Return On Assets: -0.16057
+Return On Equity: -0.46315
+Total Cash: 7588000
+Total Debt: 6611000
+Debt To Equity: 29.201
+Current Ratio: 1.761
+Quick Ratio: 0.582
+Trailing PE: 
+Forward PE: -0.25674108
+Price To Book: 0.21012057
+Beta: 0.083
+52 Week High: 3.5
+52 Week Low: 0.515

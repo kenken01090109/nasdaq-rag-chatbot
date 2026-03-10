@@ -1,0 +1,25 @@
+Company: Credit Acceptance Corporation Common Stock
+Ticker: CACC
+Market Cap: 5492385792
+Enterprise Value: 11684255744
+Total Revenue: 1238200064
+Revenue Per Share: 108.125
+EBITDA: 
+Gross Margins: 0.94209
+Operating Margins: 0.46657002
+Profit Margins: 0.34235
+Free Cashflow: 
+Operating Cashflow: 1054600000
+Return On Assets: 0.04848
+Return On Equity: 0.25901
+Total Cash: 22800000
+Total Debt: 6355999744
+Debt To Equity: 417.17
+Current Ratio: 3.285
+Quick Ratio: 3.1
+Trailing PE: 13.678021
+Forward PE: 9.18513
+Price To Book: 3.4900496
+Beta: 1.305
+52 Week High: 549.75
+52 Week Low: 401.9

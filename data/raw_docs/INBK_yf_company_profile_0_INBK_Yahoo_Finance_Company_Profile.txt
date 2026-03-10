@@ -1,0 +1,9 @@
+Company: First Internet Bancorp Common Stock
+Ticker: INBK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: United States
+City: Fishers
+Website: https://www.firstinternetbancorp.com
+Employees: 
+Business Summary: First Internet Bancorp operates as the bank holding company for First Internet Bank of Indiana that provides various commercial, small business, consumer, and municipal banking products and services to individuals and commercial customers in the United States. The company offers noninterest-bearing and interest-bearing demand deposits, savings accounts, and money market accounts, as well as certificates of deposit and brokered deposits. It also provides commercial and industrial, owner-occupied commercial real estate, investor commercial real estate, construction, single tenant lease financing, public and healthcare finance, small business lending, franchise finance, residential mortgage, home equity, and other consumer loans. In addition, the company is involved in the provision of municipal finance lending and leasing products to government entities, as well as treasury management services; purchase, manage, service, and safekeeping of municipal securities; and offers corporate credit cards. First Internet Bancorp was founded in 1998 and is headquartered in Fishers, Indiana.

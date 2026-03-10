@@ -1,0 +1,25 @@
+Company: OneConstruction Group Limited Ordinary Shares
+Ticker: ONEG
+Market Cap: 29440000
+Enterprise Value: 47656000
+Total Revenue: 52231000
+Revenue Per Share: 3.792
+EBITDA: 481000
+Gross Margins: 0.072519995
+Operating Margins: 0.00746
+Profit Margins: -0.00909
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0062
+Return On Equity: -0.04853
+Total Cash: 5001000
+Total Debt: 24657000
+Debt To Equity: 194.871
+Current Ratio: 3.389
+Quick Ratio: 3.373
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.3261695
+Beta: 
+52 Week High: 13.5
+52 Week Low: 1.0

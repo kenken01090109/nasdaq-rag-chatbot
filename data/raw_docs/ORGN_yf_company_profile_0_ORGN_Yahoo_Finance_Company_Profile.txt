@@ -1,0 +1,9 @@
+Company: Origin Materials Inc. Common Stock
+Ticker: ORGN
+Sector: Basic Materials
+Industry: Chemicals
+Country: United States
+City: West Sacramento
+Website: https://www.originmaterials.com
+Employees: 109
+Business Summary: Origin Materials, Inc., together with its subsidiaries, operates as a carbon-negative materials company. The company develops a proprietary biomass conversion platform to convert biomass, or plant-based carbon into building block chemicals chloromethylfurfural and hydrothermal carbon, as well as other oils and extractives and other co-products. The company was formerly known as Micromidas, Inc. and changed its name to Origin Materials, Inc. in June 2021. Origin Materials, Inc. was incorporated in 2021 and is based in West Sacramento, California.

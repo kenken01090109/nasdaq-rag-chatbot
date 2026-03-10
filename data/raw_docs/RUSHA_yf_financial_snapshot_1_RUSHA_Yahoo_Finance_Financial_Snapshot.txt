@@ -1,0 +1,25 @@
+Company: Rush Enterprises Inc. Common Stock Cl A
+Ticker: RUSHA
+Market Cap: 5080425984
+Enterprise Value: 6539897344
+Total Revenue: 7434194944
+Revenue Per Share: 94.848
+EBITDA: 646187008
+Gross Margins: 0.19754
+Operating Margins: 0.051570002
+Profit Margins: 0.03548
+Free Cashflow: 389203616
+Operating Cashflow: 861838976
+Return On Assets: 0.05434
+Return On Equity: 0.12126
+Total Cash: 212644992
+Total Debt: 1442530944
+Debt To Equity: 64.808
+Current Ratio: 1.401
+Quick Ratio: 0.329
+Trailing PE: 20.19266
+Forward PE: 14.55707
+Price To Book: 2.2943015
+Beta: 0.873
+52 Week High: 75.99
+52 Week Low: 45.67

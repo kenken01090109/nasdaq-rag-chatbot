@@ -1,0 +1,9 @@
+Company: CCH Holdings Ltd Ordinary Shares
+Ticker: CCHH
+Sector: Consumer Cyclical
+Industry: Restaurants
+Country: Malaysia
+City: Bukit Mertajam
+Website: https://www.chickenclaypothouse.com.my
+Employees: 190
+Business Summary: CCH Holdings Ltd operates as a chicken and fish head hotpot restaurant chain in Malaysia. The company offers pork stomach chicken claypot, herbal soup chicken claypot, hot and spicy chicken claypot, hot and spicy prawn claypot, sesame sause chicken claypot, and pork stomach chicken and tomato soup twin hotpot. The company was founded in 2015 and is based in Bukit Mertajam, Malaysia.

@@ -1,0 +1,25 @@
+Company: XPEL Inc. Common Stock
+Ticker: XPEL
+Market Cap: 1116313216
+Enterprise Value: 1141246464
+Total Revenue: 476200000
+Revenue Per Share: 17.218
+EBITDA: 75903000
+Gross Margins: 0.42213002
+Operating Margins: 0.12661
+Profit Margins: 0.10757
+Free Cashflow: 44034752
+Operating Cashflow: 66938000
+Return On Assets: 0.11721
+Return On Equity: 0.20206
+Total Cash: 50864000
+Total Debt: 22863000
+Debt To Equity: 8.017
+Current Ratio: 3.249
+Quick Ratio: 1.427
+Trailing PE: 22.847458
+Forward PE: 16.710743
+Price To Book: 3.9826667
+Beta: 1.287
+52 Week High: 55.91
+52 Week Low: 24.25

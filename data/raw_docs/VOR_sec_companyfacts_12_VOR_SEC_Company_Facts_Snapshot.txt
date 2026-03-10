@@ -1,0 +1,10 @@
+Company: Vor Biopharma Inc. Common Stock
+Ticker: VOR
+CIK: 0001817229
+Latest SEC XBRL Facts:
+NetIncomeLoss: -2418839000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 176237000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 2401724000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -2225487000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -119912000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 160462000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

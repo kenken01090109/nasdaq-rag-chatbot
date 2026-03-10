@@ -1,0 +1,25 @@
+Company: SeaStar Medical Holding Corporation Common Stock
+Ticker: ICU
+Market Cap: 9576000
+Enterprise Value: -4462840
+Total Revenue: 881000
+Revenue Per Share: 0.685
+EBITDA: 
+Gross Margins: 0.95346
+Operating Margins: -19.55738
+Profit Margins: 0.0
+Free Cashflow: -10068750
+Operating Cashflow: -14198000
+Return On Assets: -0.86536
+Return On Equity: -2.90374
+Total Cash: 13763000
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 3.658
+Quick Ratio: 3.439
+Trailing PE: 
+Forward PE: -0.98054475
+Price To Book: 0.74955386
+Beta: -1.013
+52 Week High: 25.7
+52 Week Low: 2.2

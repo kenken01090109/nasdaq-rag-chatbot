@@ -1,0 +1,11 @@
+Company: Roper Technologies Inc. Common Stock
+Ticker: ROP
+CIK: 0000882835
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5843900000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetIncomeLoss: 1107900000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Assets: 34584400000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+Liabilities: 14591600000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+StockholdersEquity: 19992800000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1802300000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 320000000 | unit=USD | filed=2025-10-31 | period_end=2025-09-30

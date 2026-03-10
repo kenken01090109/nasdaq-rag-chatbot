@@ -1,0 +1,11 @@
+Company: Shoals Technologies Group Inc. Class A Common Stock
+Ticker: SHLS
+CIK: 0001831651
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 327006000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 25452000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 851791000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 262151000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 589640000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21154000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8589000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

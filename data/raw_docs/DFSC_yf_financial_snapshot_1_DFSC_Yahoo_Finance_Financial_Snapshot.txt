@@ -1,0 +1,25 @@
+Company: DEFSEC Technologies Inc. Common Stock
+Ticker: DFSC
+Market Cap: 4645148
+Enterprise Value: 907296
+Total Revenue: 5362704
+Revenue Per Share: 5.655
+EBITDA: -7474174
+Gross Margins: 0.32412997
+Operating Margins: -1.57824
+Profit Margins: -1.5389
+Free Cashflow: -5197252
+Operating Cashflow: -7837349
+Return On Assets: -0.53512
+Return On Equity: -1.34429
+Total Cash: 5037424
+Total Debt: 1299572
+Debt To Equity: 17.887
+Current Ratio: 4.253
+Quick Ratio: 3.488
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.874152
+Beta: 0.662
+52 Week High: 15.37
+52 Week Low: 0.217

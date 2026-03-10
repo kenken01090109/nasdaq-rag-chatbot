@@ -1,0 +1,25 @@
+Company: FB Bancorp Inc. Common Stock
+Ticker: FBLA
+Market Cap: 193765936
+Enterprise Value: 237666352
+Total Revenue: 50418000
+Revenue Per Share: 2.771
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.05049
+Profit Margins: 0.02485
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00319
+Return On Equity: 0.012309999
+Total Cash: 60269000
+Total Debt: 78257000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 60.13636
+Forward PE: 
+Price To Book: 0.6996668
+Beta: 
+52 Week High: 14.0
+52 Week Low: 9.81

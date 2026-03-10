@@ -1,0 +1,25 @@
+Company: ClearPoint Neuro Inc. Common Stock
+Ticker: CLPT
+Market Cap: 297483072
+Enterprise Value: 281757088
+Total Revenue: 34332000
+Revenue Per Share: 1.226
+EBITDA: -21962000
+Gross Margins: 0.61313
+Operating Margins: -0.59542
+Profit Margins: -0.67401004
+Free Cashflow: -5309375
+Operating Cashflow: -13088000
+Return On Assets: -0.28303
+Return On Equity: -1.03131
+Total Cash: 38221000
+Total Debt: 35745000
+Debt To Equity: 225.18
+Current Ratio: 6.374
+Quick Ratio: 5.399
+Trailing PE: 
+Forward PE: -12.5
+Price To Book: 17.921146
+Beta: 1.067
+52 Week High: 30.1
+52 Week Low: 8.63

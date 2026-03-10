@@ -1,0 +1,12 @@
+Company: Aehr Test Systems Common Stock
+Ticker: AEHR
+Total Revenue: 53249000
+Revenue Per Share: 1.78
+Gross Margins: 0.33276
+Operating Margins: -0.4918
+EBITDA: -8875000
+Profit Margins: -0.16631001
+Free Cashflow: -7361875
+Operating Cashflow: -5360000
+Return On Assets: -0.05011
+Return On Equity: -0.06974

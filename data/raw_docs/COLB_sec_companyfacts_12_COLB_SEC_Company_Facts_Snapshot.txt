@@ -1,0 +1,11 @@
+Company: Columbia Banking System Inc. Common Stock
+Ticker: COLB
+CIK: 0000887343
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 177000000 | unit=USD | filed=2026-02-26 | period_end=2025-12-31
+NetIncomeLoss: 335000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 67496000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 59706000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+StockholdersEquity: 7790000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 465000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2343000000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

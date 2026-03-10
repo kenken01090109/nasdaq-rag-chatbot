@@ -1,0 +1,11 @@
+Company: Celularity Inc. Warrant
+Ticker: CELUW
+CIK: 0001752828
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 22446000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -67354000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 114239000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 134333000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: -20094000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8151000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 120000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

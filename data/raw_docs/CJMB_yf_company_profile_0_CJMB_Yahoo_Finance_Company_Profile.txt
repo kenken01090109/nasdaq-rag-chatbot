@@ -1,0 +1,9 @@
+Company: Callan JMB Inc. Common Stock
+Ticker: CJMB
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: United States
+City: Spring Branch
+Website: https://callanjmb.com
+Employees: 26
+Business Summary: Callan JMB Inc., through its subsidiary, Coldchain Technology Services, LLC provides thermal management logistics solutions to the life sciences industry. It offers logistics solutions and services utilized for frozen shipping in the life sciences industry, including personalized medicine, cell therapies, stem cells, cell lines, vaccines, diagnostic materials, semen, eggs, embryos, cord blood, organs, biopharmaceuticals, infectious substances, and other commodities. The company also provides emergency preparedness services, which includes managing their building sites, medical stockpiles of equipment, and supplies and responding to state or local emergencies; perishable (non-pharma) client packaging; technical services; and advanced monitoring sentry technology. The company was founded in 2006 and is headquartered in Spring Branch, Texas.

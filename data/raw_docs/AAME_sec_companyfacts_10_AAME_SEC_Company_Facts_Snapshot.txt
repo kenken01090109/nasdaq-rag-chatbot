@@ -1,0 +1,11 @@
+Company: Atlantic American Corporation Common Stock
+Ticker: AAME
+CIK: 0000008177
+Latest SEC XBRL Facts:
+Revenues: 159175000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: 4695000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 430855000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 321367000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 109488000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 15198000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34444000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

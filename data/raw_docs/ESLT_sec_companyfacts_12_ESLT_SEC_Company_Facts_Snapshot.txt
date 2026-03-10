@@ -1,0 +1,11 @@
+Company: Elbit Systems Ltd. Ordinary Shares
+Ticker: ESLT
+CIK: 0001027664
+Latest SEC XBRL Facts:
+Revenues: 6827871000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 6827871000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+NetIncomeLoss: 321138000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+Assets: 10971596000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+StockholdersEquity: 3277540000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 534610000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 265351000 | unit=USD | filed=2025-03-20 | period_end=2024-12-31

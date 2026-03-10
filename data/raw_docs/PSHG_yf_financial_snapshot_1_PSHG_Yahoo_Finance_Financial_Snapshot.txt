@@ -1,0 +1,25 @@
+Company: Performance Shipping Inc. Common Shares
+Ticker: PSHG
+Market Cap: 28469642
+Enterprise Value: 40101784
+Total Revenue: 79691000
+Revenue Per Share: 6.41
+EBITDA: 43005500
+Gross Margins: 0.67765
+Operating Margins: 0.26767
+Profit Margins: 0.63097
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.044699997
+Return On Equity: 0.17271
+Total Cash: 212172000
+Total Debt: 225296000
+Debt To Equity: 71.232
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 1.7218044
+Forward PE: 2.1203701
+Price To Book: 0.090012185
+Beta: -0.327
+52 Week High: 2.58
+52 Week Low: 1.31

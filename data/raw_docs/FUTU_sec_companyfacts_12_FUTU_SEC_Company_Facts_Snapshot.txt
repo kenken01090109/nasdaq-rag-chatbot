@@ -1,0 +1,12 @@
+Company: Futu Holdings Limited American Depositary Shares
+Ticker: FUTU
+CIK: 0001754581
+Latest SEC XBRL Facts:
+Revenues: 1749568000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 778190000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+NetIncomeLoss: 700734000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+Assets: 20438086000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+Liabilities: 16832842000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+StockholdersEquity: 3606117000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: 3990410000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 1504742000 | unit=USD | filed=2025-04-14 | period_end=2024-12-31

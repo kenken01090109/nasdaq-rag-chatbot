@@ -1,0 +1,25 @@
+Company: Gyrodyne LLC Common Stock
+Ticker: GYRO
+Market Cap: 19265948
+Enterprise Value: 37438364
+Total Revenue: 2738019
+Revenue Per Share: 1.847
+EBITDA: -3080835
+Gross Margins: 0.41651002
+Operating Margins: -1.21296
+Profit Margins: -1.37054
+Free Cashflow: 
+Operating Cashflow: -3440937
+Return On Assets: 
+Return On Equity: 
+Total Cash: 8012484
+Total Debt: 17936960
+Debt To Equity: 69.24
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 46.105267
+Forward PE: 
+Price To Book: 0.25364104
+Beta: 0.499
+52 Week High: 12.0
+52 Week Low: 6.8

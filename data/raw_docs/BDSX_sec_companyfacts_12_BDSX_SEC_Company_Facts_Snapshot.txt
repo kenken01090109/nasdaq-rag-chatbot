@@ -1,0 +1,11 @@
+Company: Biodesix Inc. Common Stock
+Ticker: BDSX
+CIK: 0001439725
+Latest SEC XBRL Facts:
+Revenues: 59744000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -31285000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 88722000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 90444000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: -1722000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -24049000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 16604000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

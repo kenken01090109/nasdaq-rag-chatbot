@@ -1,0 +1,11 @@
+Company: Bioventus Inc. Class A Common Stock
+Ticker: BVS
+CIK: 0001665988
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 410187000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetIncomeLoss: 7977000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Assets: 701593000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Liabilities: 494338000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+StockholdersEquity: 166096000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 36705000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 42164000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27

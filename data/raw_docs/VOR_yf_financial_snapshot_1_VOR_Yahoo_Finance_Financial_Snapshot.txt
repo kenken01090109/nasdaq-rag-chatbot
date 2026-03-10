@@ -1,0 +1,25 @@
+Company: Vor Biopharma Inc. Common Stock
+Ticker: VOR
+Market Cap: 627779968
+Enterprise Value: -9994274
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -333558016
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -183391376
+Operating Cashflow: -143975008
+Return On Assets: -1.44274
+Return On Equity: 
+Total Cash: 170462000
+Total Debt: 3059000
+Debt To Equity: 
+Current Ratio: 9.156
+Quick Ratio: 9.048
+Trailing PE: 
+Forward PE: -3.2810504
+Price To Book: -0.061329037
+Beta: 2.041
+52 Week High: 65.8
+52 Week Low: 2.62

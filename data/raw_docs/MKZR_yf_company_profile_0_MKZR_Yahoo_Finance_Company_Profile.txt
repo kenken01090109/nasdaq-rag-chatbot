@@ -1,0 +1,9 @@
+Company: MacKenzie Realty Capital Inc. Common Stock
+Ticker: MKZR
+Sector: Real Estate
+Industry: REIT - Diversified
+Country: United States
+City: Orinda
+Website: https://www.mackenzierealty.com
+Employees: 
+Business Summary: MacKenzie Realty Capital, Inc. is a West Coast-focused REIT that intends to invest at least 80% of its total assets in real property, and up to a maximum of 20% of its total assets in illiquid real estate securities. We intend for the real property portfolio to be approximately 50% multifamily and 50% boutique class A office. The current portfolio includes interests in 5 multifamily properties and 8 office properties plus 1 multifamily development. MacKenzie Realty Capital, Inc. was founded in 2013.

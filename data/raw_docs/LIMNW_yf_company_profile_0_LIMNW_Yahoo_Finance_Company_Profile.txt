@@ -1,0 +1,9 @@
+Company: Liminatus Pharma Inc. Warrants
+Ticker: LIMNW
+Sector: 
+Industry: 
+Country: United States
+City: La Palma
+Website: https://liminatuspharma.com
+Employees: 
+Business Summary: Liminatus Pharma, Inc. operates as a pre-clinical stage biopharmaceutical company that develops novel cancer therapies. It is developing CD47, a high affinity humanized anti CD47 antibody that has the potential to translate into clinic for CD47 SIRPa blocking and restoring the anti-tumor function of innate immune cells without inducing hemagglutination or hemolysis. The company was founded in 2018 is based in LA Palma, California.

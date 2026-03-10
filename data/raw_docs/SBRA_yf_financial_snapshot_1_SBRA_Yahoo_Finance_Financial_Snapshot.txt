@@ -1,0 +1,25 @@
+Company: Sabra Health Care REIT Inc. Common Stock
+Ticker: SBRA
+Market Cap: 5148815360
+Enterprise Value: 7512545280
+Total Revenue: 775760000
+Revenue Per Share: 3.215
+EBITDA: 447111008
+Gross Margins: 0.65188
+Operating Margins: 0.23702
+Profit Margins: 0.20059
+Free Cashflow: 320534240
+Operating Cashflow: 348612992
+Return On Assets: 0.03068
+Return On Equity: 0.05589
+Total Cash: 74915000
+Total Debt: 2537555968
+Debt To Equity: 89.864
+Current Ratio: 1.805
+Quick Ratio: 1.473
+Trailing PE: 31.90625
+Forward PE: 26.012737
+Price To Book: 1.8214253
+Beta: 0.636
+52 Week High: 21.07
+52 Week Low: 15.75

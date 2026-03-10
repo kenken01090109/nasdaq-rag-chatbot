@@ -1,0 +1,12 @@
+Company: Cytek Biosciences Inc. Common Stock
+Ticker: CTKB
+CIK: 0001831915
+Latest SEC XBRL Facts:
+Revenues: 142977000 | unit=USD | filed=2024-11-07 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 139352000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -11402000 | unit=USD | filed=2025-05-08 | period_end=2025-03-31
+Assets: 494919000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 116348000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 378571000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3915000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 93281000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

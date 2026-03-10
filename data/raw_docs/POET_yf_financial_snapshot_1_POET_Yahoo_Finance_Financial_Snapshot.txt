@@ -1,0 +1,25 @@
+Company: POET Technologies Inc. Common Shares
+Ticker: POET
+Market Cap: 959026240
+Enterprise Value: 789498624
+Total Revenue: 762695
+Revenue Per Share: 0.009
+EBITDA: -36624532
+Gross Margins: 1.0
+Operating Margins: -32.01603
+Profit Margins: 0.0
+Free Cashflow: -8356714
+Operating Cashflow: -28181022
+Return On Assets: -0.31016
+Return On Equity: -1.04168
+Total Cash: 92735904
+Total Debt: 7284108
+Debt To Equity: 10.964
+Current Ratio: 2.298
+Quick Ratio: 2.289
+Trailing PE: 
+Forward PE: -33.05263
+Price To Book: 8.602739
+Beta: 0.364
+52 Week High: 9.41
+52 Week Low: 3.09

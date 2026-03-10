@@ -1,0 +1,11 @@
+Company: Fortinet Inc. Common Stock
+Ticker: FTNT
+CIK: 0001262039
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 4894600000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 1347400000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 9361300000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 8626200000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 735100000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1970400000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 1995700000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

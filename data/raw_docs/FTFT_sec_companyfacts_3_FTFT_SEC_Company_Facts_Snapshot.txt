@@ -1,0 +1,11 @@
+Company: Future FinTech Group Inc. Common Stock
+Ticker: FTFT
+CIK: 0001066923
+Latest SEC XBRL Facts:
+Revenues: 2482892 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -4686880 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 54336334 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 10950861 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 43385473 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 2690000 | unit=USD | filed=2023-04-19 | period_end=2022-12-31
+CashAndCashEquivalentsAtCarryingValue: 6519391 | unit=USD | filed=2024-11-19 | period_end=2024-09-30

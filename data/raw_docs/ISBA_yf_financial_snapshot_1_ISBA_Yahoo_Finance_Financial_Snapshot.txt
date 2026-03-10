@@ -1,0 +1,25 @@
+Company: Isabella Bank Corporation Common stock
+Ticker: ISBA
+Market Cap: 336387520
+Enterprise Value: 452269408
+Total Revenue: 75035000
+Revenue Per Share: 10.158
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.34507
+Profit Margins: 0.25202
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0088
+Return On Equity: 0.08563
+Total Cash: 26041000
+Total Debt: 142514000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 17.914062
+Forward PE: 11.465
+Price To Book: 1.451174
+Beta: 0.127
+52 Week High: 58.83
+52 Week Low: 21.5

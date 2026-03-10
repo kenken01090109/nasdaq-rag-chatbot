@@ -1,0 +1,12 @@
+Company: Clean Energy Technologies Inc. Common Stock
+Ticker: CETY
+CIK: 0001329606
+Latest SEC XBRL Facts:
+Revenues: 7696401 | unit=USD | filed=2023-08-14 | period_end=2023-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1801769 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetIncomeLoss: -3522342 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 14798895 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 7703762 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 7095133 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6218085 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 62101 | unit=USD | filed=2025-06-09 | period_end=2024-12-31

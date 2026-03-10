@@ -1,0 +1,9 @@
+Company: CPS Technologies Corp. Common Stock
+Ticker: CPSH
+Sector: Technology
+Industry: Electronic Components
+Country: United States
+City: Norton
+Website: https://cpstechnologysolutions.com
+Employees: 92
+Business Summary: CPS Technologies Corporation provides advanced material solutions to the transportation, automotive, energy, computing/internet, telecommunication, aerospace, defense, and oil and gas markets in the United States, Europe, and Asia. It offers metal matrix composites such as baseplates for various applications, including motor controllers used in electric trains, subway cars, wind turbines, and hybrid and electric vehicles; hermetic packages for use in radar, satellite, and avionics applications; baseplates and housings used in modules built with wide band gap semiconductors; and lids and heat spreaders for use in internet switches and routers. The company also assembles housings and packages that includes metal matrix composite components for hybrid circuits; and produces armor for naval and military applications. It sells its products to microelectronics systems companies. The company was formerly known as Ceramics Process Systems Corporation and changed its name to CPS Technologies Corporation in March 2007. CPS Technologies Corporation was incorporated in 1984 and is based in Norton, Massachusetts.

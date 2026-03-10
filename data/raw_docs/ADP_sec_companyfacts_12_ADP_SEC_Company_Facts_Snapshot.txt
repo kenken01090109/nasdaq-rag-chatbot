@@ -1,0 +1,12 @@
+Company: Automatic Data Processing Inc. Common Stock
+Ticker: ADP
+CIK: 0000008670
+Latest SEC XBRL Facts:
+Revenues: 20560900000 | unit=USD | filed=2025-08-06 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 10534500000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetIncomeLoss: 2075100000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Assets: 84639400000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+Liabilities: 78246400000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+StockholdersEquity: 6393000000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1775200000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 2424700000 | unit=USD | filed=2026-01-29 | period_end=2025-12-31

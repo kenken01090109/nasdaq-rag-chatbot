@@ -1,0 +1,25 @@
+Company: J-Star Holding Co. Ltd. Class A Ordinary Shares
+Ticker: YMAT
+Market Cap: 6443459
+Enterprise Value: 20004448
+Total Revenue: 20054080
+Revenue Per Share: 1.114
+EBITDA: 794318
+Gross Margins: 0.3007
+Operating Margins: 0.0145000005
+Profit Margins: 0.03142
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01396
+Return On Equity: 0.04971
+Total Cash: 909995
+Total Debt: 14945038
+Debt To Equity: 115.031
+Current Ratio: 1.117
+Quick Ratio: 0.816
+Trailing PE: 9.05
+Forward PE: 
+Price To Book: 0.43878788
+Beta: 
+52 Week High: 6.45
+52 Week Low: 0.3

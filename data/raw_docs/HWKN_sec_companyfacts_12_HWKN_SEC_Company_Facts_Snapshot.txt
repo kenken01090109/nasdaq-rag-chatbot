@@ -1,0 +1,11 @@
+Company: Hawkins Inc. Common Stock
+Ticker: HWKN
+CIK: 0000046250
+Latest SEC XBRL Facts:
+Revenues: 817786000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+NetIncomeLoss: 66085000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+Assets: 976526000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+Liabilities: 457620000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+StockholdersEquity: 518906000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 106592000 | unit=USD | filed=2026-01-28 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 5103000 | unit=USD | filed=2025-05-14 | period_end=2025-03-30

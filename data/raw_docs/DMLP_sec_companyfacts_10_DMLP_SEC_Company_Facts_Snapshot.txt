@@ -1,0 +1,9 @@
+Company: Dorchester Minerals L.P. Common Units Representing Limited Partnership Interests
+Ticker: DMLP
+CIK: 0001172358
+Latest SEC XBRL Facts:
+NetIncomeLoss: 41162000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Assets: 330373000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+Liabilities: 6804000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 98169000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 41606000 | unit=USD | filed=2025-11-06 | period_end=2025-09-30

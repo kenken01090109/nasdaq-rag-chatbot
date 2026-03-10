@@ -1,0 +1,10 @@
+Company: Gilat Satellite Networks Ltd. Ordinary Shares
+Ticker: GILT
+CIK: 0000897322
+Latest SEC XBRL Facts:
+Revenues: 197007000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+NetIncomeLoss: 3834000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+Assets: 575878000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+StockholdersEquity: 315762000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -1469000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 64929000 | unit=USD | filed=2025-08-12 | period_end=2025-06-30

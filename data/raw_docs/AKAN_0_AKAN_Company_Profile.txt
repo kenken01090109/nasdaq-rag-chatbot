@@ -1,0 +1,9 @@
+Company: Akanda Corp. Common Shares
+Ticker: AKAN
+Long Business Summary: As of August 21, 2025, Akanda Corp. was acquired by First Towers & Fiber Corp., in a reverse merger transaction. Akanda Corp., through its subsidiaries, engages in the cultivation, manufacture, and distribution of cannabis-based products. The company was incorporated in 2021 and is headquartered in Toronto, Canada.
+Industry: Drug Manufacturers - Specialty & Generic
+Sector: Healthcare
+Website: https://www.akandacorp.com
+Country: Canada
+City: Toronto
+Full Time Employees: 

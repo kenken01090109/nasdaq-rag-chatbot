@@ -1,0 +1,12 @@
+Company: Allied Gaming & Entertainment Inc. Common Stock
+Ticker: AGAE
+CIK: 0001708341
+Latest SEC XBRL Facts:
+Revenues: 2379061 | unit=USD | filed=2024-05-20 | period_end=2024-03-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 7182470 | unit=USD | filed=2024-11-14 | period_end=2024-09-30
+NetIncomeLoss: -15008847 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 106767583 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 49865938 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: 52381636 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3690351 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15447131 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

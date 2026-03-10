@@ -1,0 +1,4 @@
+Company: Ascentage Pharma Group International American Depository Shares
+Ticker: AAPG
+CIK: 0002023311
+Latest SEC XBRL Facts:

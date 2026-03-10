@@ -1,0 +1,10 @@
+Company: Autodesk Inc. Common Stock
+Ticker: ADSK
+CIK: 0000769397
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5249000000 | unit=USD | filed=2025-11-26 | period_end=2025-10-31
+NetIncomeLoss: 808000000 | unit=USD | filed=2025-11-26 | period_end=2025-10-31
+Assets: 11198000000 | unit=USD | filed=2025-11-26 | period_end=2025-10-31
+StockholdersEquity: 2893000000 | unit=USD | filed=2025-11-26 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 1463000000 | unit=USD | filed=2025-11-26 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 1989000000 | unit=USD | filed=2025-11-26 | period_end=2025-10-31

@@ -1,0 +1,10 @@
+Company: Scinai Immunotherapeutics Ltd. American Depositary Shares
+Ticker: SCNI
+CIK: 0001611747
+Latest SEC XBRL Facts:
+Revenues: 773000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+NetIncomeLoss: -4134000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+Assets: 11840000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+StockholdersEquity: 7858000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: -2575000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 989000 | unit=USD | filed=2025-09-02 | period_end=2025-06-30

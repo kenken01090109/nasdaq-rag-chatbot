@@ -1,0 +1,25 @@
+Company: Casella Waste Systems Inc. Class A Common Stock
+Ticker: CWST
+Market Cap: 5972293632
+Enterprise Value: 7093987328
+Total Revenue: 1836840960
+Revenue Per Share: 28.944
+EBITDA: 396016992
+Gross Margins: 0.33765998
+Operating Margins: 0.044320002
+Profit Margins: 0.00429
+Free Cashflow: 113945752
+Operating Cashflow: 329776000
+Return On Assets: 0.01706
+Return On Equity: 0.00505
+Total Cash: 125854000
+Total Debt: 1247548032
+Debt To Equity: 79.527
+Current Ratio: 1.256
+Quick Ratio: 1.034
+Trailing PE: 783.5833
+Forward PE: 59.498726
+Price To Book: 3.8070369
+Beta: 0.784
+52 Week High: 121.24
+52 Week Low: 82.22

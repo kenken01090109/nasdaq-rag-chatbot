@@ -1,0 +1,11 @@
+Company: Northfield Bancorp Inc. Common Stock (Delaware)
+Ticker: NFBK
+CIK: 0001493225
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 5097000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetIncomeLoss: 28198000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 5725503000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 5005904000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 719599000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 37471000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 131725000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

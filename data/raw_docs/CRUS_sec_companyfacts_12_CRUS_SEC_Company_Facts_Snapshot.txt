@@ -1,0 +1,10 @@
+Company: Cirrus Logic Inc. Common Stock
+Ticker: CRUS
+CIK: 0000772406
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 1548856000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+NetIncomeLoss: 332603000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+Assets: 2456520000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+StockholdersEquity: 2103229000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+NetCashProvidedByUsedInOperatingActivities: 499179000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27
+CashAndCashEquivalentsAtCarryingValue: 778083000 | unit=USD | filed=2026-02-03 | period_end=2025-12-27

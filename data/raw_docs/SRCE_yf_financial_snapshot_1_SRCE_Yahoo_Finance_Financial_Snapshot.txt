@@ -1,0 +1,25 @@
+Company: 1st Source Corporation Common Stock
+Ticker: SRCE
+Market Cap: 1647876480
+Enterprise Value: 1908981760
+Total Revenue: 421216000
+Revenue Per Share: 17.201
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.49967998
+Profit Margins: 0.37576
+Free Cashflow: 
+Operating Cashflow: 223116992
+Return On Assets: 0.0176
+Return On Equity: 0.12663001
+Total Cash: 136343008
+Total Debt: 346296000
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 10.521062
+Forward PE: 9.864452
+Price To Book: 1.2890155
+Beta: 0.607
+52 Week High: 71.98
+52 Week Low: 52.14

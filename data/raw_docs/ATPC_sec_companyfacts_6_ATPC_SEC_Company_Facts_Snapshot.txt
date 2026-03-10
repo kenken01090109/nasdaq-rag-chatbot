@@ -1,0 +1,12 @@
+Company: Agape ATP Corporation Common Stock
+Ticker: ATPC
+CIK: 0001713210
+Latest SEC XBRL Facts:
+Revenues: 1125129 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1125129 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -1902854 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 24389344 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 1589418 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 22833250 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -2205074 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 133714 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

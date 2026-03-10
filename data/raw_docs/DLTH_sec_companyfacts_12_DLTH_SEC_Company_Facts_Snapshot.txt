@@ -1,0 +1,12 @@
+Company: Duluth Holdings Inc. Class B Common Stock
+Ticker: DLTH
+CIK: 0001649744
+Latest SEC XBRL Facts:
+Revenues: 349291000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 349291000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+NetIncomeLoss: -24133000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+Assets: 468006000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+Liabilities: 310322000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+StockholdersEquity: 160586000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+NetCashProvidedByUsedInOperatingActivities: -31115000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02
+CashAndCashEquivalentsAtCarryingValue: 8172000 | unit=USD | filed=2025-12-17 | period_end=2025-11-02

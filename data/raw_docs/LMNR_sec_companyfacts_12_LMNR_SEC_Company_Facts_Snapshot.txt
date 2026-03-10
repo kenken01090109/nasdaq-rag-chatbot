@@ -1,0 +1,11 @@
+Company: Limoneira Co Common Stock
+Ticker: LMNR
+CIK: 0001342423
+Latest SEC XBRL Facts:
+Revenues: 116902000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 112376000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+NetIncomeLoss: -7290000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+Assets: 299908000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+Liabilities: 108807000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31
+StockholdersEquity: 219140000 | unit=USD | filed=2019-01-14 | period_end=2018-10-31
+NetCashProvidedByUsedInOperatingActivities: -6951000 | unit=USD | filed=2025-09-09 | period_end=2025-07-31

@@ -1,0 +1,25 @@
+Company: Lyell Immunopharma Inc. Common Stock
+Ticker: LYEL
+Market Cap: 477139200
+Enterprise Value: 192522688
+Total Revenue: 41000
+Revenue Per Share: 0.003
+EBITDA: -184380992
+Gross Margins: 1.0
+Operating Margins: -2483.5332
+Profit Margins: 0.0
+Free Cashflow: -79681128
+Operating Cashflow: -165015008
+Return On Assets: -0.24162
+Return On Equity: -0.75751
+Total Cash: 319624000
+Total Debt: 44285000
+Debt To Equity: 13.456
+Current Ratio: 10.296
+Quick Ratio: 10.026
+Trailing PE: 
+Forward PE: -26.738094
+Price To Book: 1.3166841
+Beta: -0.148
+52 Week High: 45.0
+52 Week Low: 7.65

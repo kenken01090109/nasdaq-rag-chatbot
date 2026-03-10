@@ -1,0 +1,7 @@
+Company: Activate Energy Acquisition Corp. Warrant
+Ticker: AEAQW
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

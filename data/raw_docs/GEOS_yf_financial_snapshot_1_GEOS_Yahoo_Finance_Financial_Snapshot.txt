@@ -1,0 +1,25 @@
+Company: Geospace Technologies Corporation Common Stock (Texas)
+Ticker: GEOS
+Market Cap: 130554608
+Enterprise Value: 119817576
+Total Revenue: 99166000
+Revenue Per Share: 7.737
+EBITDA: -23873000
+Gross Margins: 0.15574001
+Operating Margins: -0.39283
+Profit Margins: -0.28099
+Free Cashflow: -3491500
+Operating Cashflow: -25794000
+Return On Assets: -0.13867
+Return On Equity: -0.21552
+Total Cash: 10579000
+Total Debt: 873000
+Debt To Equity: 0.753
+Current Ratio: 3.041
+Quick Ratio: 0.754
+Trailing PE: 
+Forward PE: 25.325
+Price To Book: 1.1266823
+Beta: 0.544
+52 Week High: 29.89
+52 Week Low: 5.51

@@ -1,0 +1,25 @@
+Company: Aquestive Therapeutics Inc. Common Stock
+Ticker: AQST
+Market Cap: 514853120
+Enterprise Value: 436342112
+Total Revenue: 44545000
+Revenue Per Share: 0.417
+EBITDA: -70477000
+Gross Margins: 0.58345
+Operating Margins: -2.2158298
+Profit Margins: -1.88088
+Free Cashflow: -29235376
+Operating Cashflow: -52432000
+Return On Assets: -0.33918
+Return On Equity: 
+Total Cash: 121169000
+Total Debt: 42481000
+Debt To Equity: 
+Current Ratio: 3.135
+Quick Ratio: 2.918
+Trailing PE: 
+Forward PE: -10.292683
+Price To Book: -15.289855
+Beta: 1.587
+52 Week High: 7.55
+52 Week Low: 2.12

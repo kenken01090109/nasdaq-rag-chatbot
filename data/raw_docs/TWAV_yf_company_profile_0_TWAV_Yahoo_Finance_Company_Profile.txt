@@ -1,0 +1,9 @@
+Company: TaoWeave Inc. Common Stock
+Ticker: TWAV
+Sector: Financial Services
+Industry: Asset Management
+Country: United States
+City: Denver
+Website: https://www.taoweave.ai
+Employees: 7
+Business Summary: TaoWeave, Inc. is a digital asset treasury company. It focuses on Bittensor (TAO) a decentralized, open-source protocol that creates a marketplace for machine intelligence. It enables AI models to be trained, shared, and monetized in a permissionless environment. The company provides TAO a native token of the Bittensor network, used for staking, governance, and compensating AI model contributors. The company was formerly known as Oblong, Inc. and changed its name to TaoWeave, Inc. in December 2025. TaoWeave, Inc. was incorporated in 1996 and is headquartered in Denver, Colorado.

@@ -1,0 +1,11 @@
+Company: Profusa Inc. Common Stock
+Ticker: PFSA
+CIK: 0001859807
+Latest SEC XBRL Facts:
+Revenues: 100000 | unit=USD | filed=2025-11-19 | period_end=2024-09-30
+NetIncomeLoss: -27256000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Assets: 4250000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+Liabilities: 38210000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+StockholdersEquity: -33960000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11119000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3009000 | unit=USD | filed=2025-11-19 | period_end=2025-09-30

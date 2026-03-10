@@ -1,0 +1,25 @@
+Company: Tarsus Pharmaceuticals Inc. Common Stock
+Ticker: TARS
+Market Cap: 3117762048
+Enterprise Value: 2853325056
+Total Revenue: 451360000
+Revenue Per Share: 10.802
+EBITDA: -69153000
+Gross Margins: 0.78950995
+Operating Margins: -0.052589998
+Profit Margins: -0.14715
+Free Cashflow: -164000
+Operating Cashflow: -12451000
+Return On Assets: -0.09446
+Return On Equity: -0.23388
+Total Cash: 417268000
+Total Debt: 83037000
+Debt To Equity: 24.179
+Current Ratio: 3.853
+Quick Ratio: 3.717
+Trailing PE: 
+Forward PE: 25.419847
+Price To Book: 9.078068
+Beta: 0.598
+52 Week High: 85.25
+52 Week Low: 38.51

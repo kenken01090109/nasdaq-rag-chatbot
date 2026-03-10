@@ -1,0 +1,12 @@
+Company: Alarum Technologies Ltd. American Depositary Share
+Ticker: ALAR
+Total Revenue: 36305000
+Revenue Per Share: 5.01
+Gross Margins: 0.62834
+Operating Margins: -0.01053
+EBITDA: 484500
+Profit Margins: 0.032780003
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.0092400005
+Return On Equity: 0.04245

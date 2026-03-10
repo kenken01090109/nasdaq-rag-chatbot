@@ -1,0 +1,25 @@
+Company: CBL International Limited Class B Ordinary Shares
+Ticker: BANL
+Market Cap: 17704058
+Enterprise Value: 12918399
+Total Revenue: 580456832
+Revenue Per Share: 20.19
+EBITDA: -2437798
+Gross Margins: 0.00926
+Operating Margins: -0.00265
+Profit Margins: -0.0054699997
+Free Cashflow: -21965712
+Operating Cashflow: -5428156
+Return On Assets: -0.02533
+Return On Equity: -0.1424
+Total Cash: 5425470
+Total Debt: 100152
+Debt To Equity: 0.458
+Current Ratio: 1.536
+Quick Ratio: 1.016
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.8103015
+Beta: 0.564
+52 Week High: 1.22
+52 Week Low: 0.277

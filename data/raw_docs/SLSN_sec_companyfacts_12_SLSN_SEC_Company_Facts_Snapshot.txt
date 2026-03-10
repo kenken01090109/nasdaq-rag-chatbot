@@ -1,0 +1,10 @@
+Company: Solesence Inc. Common Stock
+Ticker: SLSN
+CIK: 0000883107
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 49581000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 1627000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 53987000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 17227000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -10386000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 429000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

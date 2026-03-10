@@ -1,0 +1,25 @@
+Company: Syndax Pharmaceuticals Inc. Common Stock
+Ticker: SNDX
+Market Cap: 1946587008
+Enterprise Value: 1878333184
+Total Revenue: 172352000
+Revenue Per Share: 1.99
+EBITDA: -273478016
+Gross Margins: -0.54193
+Operating Margins: -0.9159
+Profit Margins: -1.6560401
+Free Cashflow: -210053120
+Operating Cashflow: -322980000
+Return On Assets: -0.2725
+Return On Equity: -1.61825
+Total Cash: 413686016
+Total Debt: 345432000
+Debt To Equity: 534.476
+Current Ratio: 4.396
+Quick Ratio: 4.029
+Trailing PE: 
+Forward PE: -106.32045
+Price To Book: 29.864681
+Beta: 0.456
+52 Week High: 22.73
+52 Week Low: 8.58

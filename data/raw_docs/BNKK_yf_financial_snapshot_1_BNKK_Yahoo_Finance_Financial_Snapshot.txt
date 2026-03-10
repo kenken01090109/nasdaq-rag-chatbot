@@ -1,0 +1,25 @@
+Company: Bonk Inc. Common Stock
+Ticker: BNKK
+Market Cap: 16611197
+Enterprise Value: 7553603
+Total Revenue: 2293124
+Revenue Per Share: 0.877
+EBITDA: -32972660
+Gross Margins: 0.07481
+Operating Margins: -8.23776
+Profit Margins: 0.0
+Free Cashflow: -53335288
+Operating Cashflow: -20098036
+Return On Assets: -0.46841
+Return On Equity: -0.93693
+Total Cash: 9017981
+Total Debt: 381505
+Debt To Equity: 0.505
+Current Ratio: 10.592
+Quick Ratio: 5.597
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.19977947
+Beta: 2.049
+52 Week High: 46.9
+52 Week Low: 2.33

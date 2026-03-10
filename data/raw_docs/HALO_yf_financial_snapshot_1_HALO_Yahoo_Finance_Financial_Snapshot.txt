@@ -1,0 +1,25 @@
+Company: Halozyme Therapeutics Inc. Common Stock
+Ticker: HALO
+Market Cap: 7950805504
+Enterprise Value: 9984004096
+Total Revenue: 1396610944
+Revenue Per Share: 11.654
+EBITDA: 897843968
+Gross Margins: 0.77785003
+Operating Margins: 0.56311
+Profit Margins: 0.22690001
+Free Cashflow: 184829376
+Operating Cashflow: 651558016
+Return On Assets: 0.22236
+Return On Equity: 1.53593
+Total Cash: 142820000
+Total Debt: 2177199104
+Debt To Equity: 4460.194
+Current Ratio: 4.66
+Quick Ratio: 3.298
+Trailing PE: 26.316408
+Forward PE: 6.8413305
+Price To Book: 162.72948
+Beta: 1.019
+52 Week High: 82.22
+52 Week Low: 47.5

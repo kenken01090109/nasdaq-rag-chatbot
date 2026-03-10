@@ -1,0 +1,9 @@
+Company: Aeries Technology Inc. Class A Ordinary Share
+Ticker: AERT
+Long Business Summary: Aeries Technology, Inc. provides professional and technology consulting services in North America, the Asia Pacific, and internationally. The company offers professional advisory services, such as the participation of senior leadership, recommending strategies and practices related to operating model design, consultation on various areas, market availability, regulatory compliance, and optimization of tax structure; and operations management services, including application engineering, information technology, data analytics, cybersecurity, finance, human resources, customer service, and operations. It serves portfolio companies of private equity firms and middle-market companies. The company was founded in 2012 and is headquartered in Singapore.
+Industry: Consulting Services
+Sector: Industrials
+Website: https://aeriestechnology.com
+Country: Singapore
+City: Singapore
+Full Time Employees: 1400

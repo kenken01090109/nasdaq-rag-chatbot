@@ -1,0 +1,9 @@
+Company: SOBR Safe Inc. Common Stock
+Ticker: SOBR
+Sector: Technology
+Industry: Scientific & Technical Instruments
+Country: United States
+City: Greenwood Village
+Website: https://sobrsafe.com
+Employees: 14
+Business Summary: SOBR Safe, Inc. a hardware and software company, provides non-invasive technologies to monitor and identify the presence of alcohol in North America. The company offers SOBRcheck and SOBRsure that enables non-invasive alcohol monitoring and detection, biometric identity verification, and qualified, real-time cloud-based alerts and reporting; and SOBRsafe, a touch-based alcohol monitoring and detection products. SOBR Safe, Inc. was founded in 2004 and is headquartered in Greenwood Village, Colorado.

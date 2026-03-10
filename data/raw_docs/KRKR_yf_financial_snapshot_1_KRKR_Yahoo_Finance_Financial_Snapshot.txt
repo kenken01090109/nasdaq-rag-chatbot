@@ -1,0 +1,25 @@
+Company: 36Kr Holdings Inc. American Depositary Shares
+Ticker: KRKR
+Market Cap: 6385301
+Enterprise Value: 3697540608
+Total Revenue: 221838000
+Revenue Per Share: 104.89
+EBITDA: -8554500
+Gross Margins: 0.52994996
+Operating Margins: -0.0554
+Profit Margins: -0.21303
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: -0.02401
+Return On Equity: -0.35571
+Total Cash: 75145000
+Total Debt: 25970000
+Debt To Equity: 22.93
+Current Ratio: 1.154
+Quick Ratio: 1.014
+Trailing PE: 
+Forward PE: 54.0
+Price To Book: 0.41784048
+Beta: 0.762
+52 Week High: 21.36
+52 Week Low: 2.87

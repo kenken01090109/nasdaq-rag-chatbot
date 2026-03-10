@@ -1,0 +1,9 @@
+Company: Workhorse Group Inc. Common Stock
+Ticker: WKHS
+Sector: Consumer Cyclical
+Industry: Auto Manufacturers
+Country: United States
+City: Foster City
+Website: https://www.motivtrucks.com
+Employees: 143
+Business Summary: Workhorse Group, Inc. designs and manufactures electric trucks and related fleet charging solutions. The company provides electric trucks for medium-duty fleet applications, including the Argo electric truck and Argo chassis, which integrate proprietary battery, drivetrain, and cab systems. It offers the Argo LFP battery with control signals, multiple pack configurations, and a range suitable for maximum gross vehicle weight, as well as six-phase motors and drivetrain systems that deliver torque and acceleration comparable to traditional engines. Solutions include real-time control software for power management, over-the-air updates, remote diagnostics, and tuning tools to enhance fleet uptime and performance. The company supplies fleet charging solutions, supports customized body builders with various charge port locations and high-voltage accessories, and incorporates safety and ergonomic features for drivers. Additional services include ongoing support for electrification, remote monitoring, and assistance with vehicle integration and fleet management, serving fleet operators and industries with specialized commercial vehicle requirements. The company was founded in 2009 and is based in Foster City, California.

@@ -1,0 +1,25 @@
+Company: ASP Isotopes Inc. Common Stock
+Ticker: ASPI
+Market Cap: 694361216
+Enterprise Value: 588546688
+Total Revenue: 8383354
+Revenue Per Share: 0.114
+EBITDA: -41514560
+Gross Margins: 0.22996001
+Operating Margins: -3.06102
+Profit Margins: 0.0
+Free Cashflow: -67549232
+Operating Cashflow: -23688768
+Return On Assets: -0.17151
+Return On Equity: -1.52556
+Total Cash: 114038384
+Total Debt: 113656560
+Debt To Equity: 117.652
+Current Ratio: 6.145
+Quick Ratio: 4.695
+Trailing PE: 
+Forward PE: -12.613637
+Price To Book: 6.9987392
+Beta: 3.572
+52 Week High: 14.49
+52 Week Low: 3.71

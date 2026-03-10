@@ -1,0 +1,10 @@
+Company: Chicago Atlantic BDC Inc. Common Stock
+Ticker: LIEN
+CIK: 0001843162
+Latest SEC XBRL Facts:
+NetIncomeLoss: 25032683 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 327253579 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 24333000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 302920579 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -6709117 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 10462366 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

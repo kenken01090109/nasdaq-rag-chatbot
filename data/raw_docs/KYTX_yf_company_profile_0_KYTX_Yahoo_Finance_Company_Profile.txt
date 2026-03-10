@@ -1,0 +1,9 @@
+Company: Kyverna Therapeutics Inc. Common Stock
+Ticker: KYTX
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Emeryville
+Website: https://kyvernatx.com
+Employees: 129
+Business Summary: Kyverna Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing cell therapies for patients with autoimmune diseases. Its lead product candidate is KYV-101, an autologous CD19 CAR T-cell product candidate for the treatment of stiff person syndrome, myasthenia gravis, and lupus nephritis, as well as multiple sclerosis and systemic sclerosis. The company is also developing KYV-102, an autologous CD19 CAR T-cell product candidate with whole blood rapid manufacturing; and KYV-201, an allogeneic CD19 CAR T-cell product candidate. It has a license and collaboration agreement with Intellia Therapeutics, Inc. to research and develop an allogeneic CD19-directed CAR cell therapy product. The company was formerly known as BAIT Therapeutics, Inc. and changed its name to Kyverna Therapeutics, Inc. in October 2019. Kyverna Therapeutics, Inc. was incorporated in 2018 and is headquartered in Emeryville, California.

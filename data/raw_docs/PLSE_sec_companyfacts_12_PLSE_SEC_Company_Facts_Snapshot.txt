@@ -1,0 +1,12 @@
+Company: Pulse Biosciences Inc Common Stock (DE)
+Ticker: PLSE
+CIK: 0001625101
+Latest SEC XBRL Facts:
+Revenues: 574000 | unit=USD | filed=2021-11-15 | period_end=2021-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 86000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetIncomeLoss: -55348000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 108765000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 16071000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 92694000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -39367000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 95214000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

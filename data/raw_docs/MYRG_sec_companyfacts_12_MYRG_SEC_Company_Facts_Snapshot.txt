@@ -1,0 +1,12 @@
+Company: MYR Group Inc. Common Stock
+Ticker: MYRG
+CIK: 0000700923
+Latest SEC XBRL Facts:
+Revenues: 1531169000 | unit=USD | filed=2020-03-04 | period_end=2018-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 2684345000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+NetIncomeLoss: 81868000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Assets: 1645332000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+Liabilities: 1027744000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+StockholdersEquity: 660423000 | unit=USD | filed=2026-02-25 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 211737000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 76211000 | unit=USD | filed=2025-10-29 | period_end=2025-09-30

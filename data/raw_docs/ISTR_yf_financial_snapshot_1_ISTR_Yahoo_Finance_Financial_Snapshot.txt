@@ -1,0 +1,25 @@
+Company: Investar Holding Corporation Common Stock
+Ticker: ISTR
+Market Cap: 379343104
+Enterprise Value: 414695680
+Total Revenue: 93627000
+Revenue Per Share: 9.514
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.33005002
+Profit Margins: 0.24463
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00824
+Return On Equity: 0.08446
+Total Cash: 41505000
+Total Debt: 152751008
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 12.948356
+Forward PE: 7.936691
+Price To Book: 0.9982987
+Beta: 0.514
+52 Week High: 31.77
+52 Week Low: 15.39

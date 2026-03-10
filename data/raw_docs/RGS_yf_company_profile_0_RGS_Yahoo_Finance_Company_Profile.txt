@@ -1,0 +1,9 @@
+Company: Regis Corporation Common Stock
+Ticker: RGS
+Sector: Consumer Cyclical
+Industry: Personal Services
+Country: United States
+City: Minneapolis
+Website: https://www.regiscorp.com
+Employees: 1732
+Business Summary: Regis Corporation owns and franchises hair care salons primarily in North America. The company operates in two segments, Franchise Salons and Company-Owned Salons. Its salons provide haircutting; styling, including shampooing and conditioning; and hair coloring, as well as sell various hair care and other beauty products. The company operates its salons primarily under the Supercuts, SmartStyle, Cost Cutters, First Choice Haircutters, Roosters, Hair Masters, Magicuts, Holiday Hair, and Regis concepts names. Regis Corporation was founded in 1922 and is headquartered in Minneapolis, Minnesota.

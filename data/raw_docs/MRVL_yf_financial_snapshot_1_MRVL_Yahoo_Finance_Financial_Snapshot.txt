@@ -1,0 +1,25 @@
+Company: Marvell Technology Inc. Common Stock
+Ticker: MRVL
+Market Cap: 78234894336
+Enterprise Value: 66008440832
+Total Revenue: 8194599936
+Revenue Per Share: 9.518
+EBITDA: 2628999936
+Gross Margins: 0.51018
+Operating Margins: 0.18655
+Profit Margins: 0.32584
+Free Cashflow: 863774976
+Operating Cashflow: 1750499968
+Return On Assets: 0.03937
+Return On Equity: 0.19253999
+Total Cash: 2638799872
+Total Debt: 4470600192
+Debt To Equity: 31.245
+Current Ratio: 2.006
+Quick Ratio: 1.498
+Trailing PE: 31.538733
+Forward PE: 16.888273
+Price To Book: 5.308481
+Beta: 
+52 Week High: 102.77
+52 Week Low: 47.09

@@ -1,0 +1,10 @@
+Company: ADMA Biologics Inc Common Stock
+Ticker: ADMA
+Market Cap: 3739098880
+Enterprise Value: 3731354112
+Trailing PE: 26.166666
+Forward PE: 11.376811
+Price To Book: 7.822621
+Beta: 0.593
+52 Week High: 25.67
+52 Week Low: 13.76

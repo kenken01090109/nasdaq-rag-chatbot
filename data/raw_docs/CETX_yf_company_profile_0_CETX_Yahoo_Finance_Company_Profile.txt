@@ -1,0 +1,9 @@
+Company: Cemtrex Inc. Common Stock
+Ticker: CETX
+Sector: Technology
+Industry: Software - Infrastructure
+Country: United States
+City: Brooklyn
+Website: https://cemtrex.com
+Employees: 240
+Business Summary: Cemtrex, Inc. operates as a technology company in the United States and internationally. It operates through Security and Industrial Services segments. The company offers browser-based video monitoring and analytics-based recognition systems, cameras, servers, and access control systems for security and surveillance in industrial and commercial facilities, federal prisons, hospitals, universities, schools, and federal and state government offices; and provides critical security and video surveillance solutions utilizing artificial intelligence based data algorithms. It also provides services for rigging, millwrighting, in plant maintenance, equipment erection, relocation, and disassembly; installs high precision equipment in various industrial markets comprising automotive, printing and graphics, industrial automation, packaging, chemicals and others; and provides maintenance and contracting solutions for the machinery, packaging, printing, chemical, and other manufacturing markets. It serves smart technologies, virtual and augmented realities, industrial solutions, and intelligent security systems sectors. The company was formerly known as Diversified American Holding, Inc. and changed its name to Cemtrex, Inc. in December 2004. Cemtrex, Inc. was incorporated in 1998 and is headquartered in Brooklyn, New York.

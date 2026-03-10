@@ -1,0 +1,9 @@
+Company: Oportun Financial Corporation Common Stock
+Ticker: OPRT
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: San Mateo
+Website: https://oportun.com
+Employees: 2405
+Business Summary: Oportun Financial Corporation provides financial services in the United States. The company offers personal loans and credit cards. It serves customers through online and over the phone, as well as through retail and Lending as a Service partner locations. The company was founded in 2005 and is headquartered in San Mateo, California.

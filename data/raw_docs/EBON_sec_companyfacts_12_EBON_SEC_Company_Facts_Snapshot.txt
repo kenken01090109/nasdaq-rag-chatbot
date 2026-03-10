@@ -1,0 +1,11 @@
+Company: Ebang International Holdings Inc. Class A Ordinary Shares
+Ticker: EBON
+CIK: 0001799290
+Latest SEC XBRL Facts:
+Revenues: 5868771 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetIncomeLoss: -20251051 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Assets: 275803983 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+Liabilities: 15443585 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+StockholdersEquity: 259592784 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+NetCashProvidedByUsedInOperatingActivities: -17613879 | unit=USD | filed=2025-04-28 | period_end=2024-12-31
+CashAndCashEquivalentsAtCarryingValue: 213822331 | unit=USD | filed=2025-04-28 | period_end=2024-12-31

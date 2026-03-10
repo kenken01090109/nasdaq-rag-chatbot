@@ -1,0 +1,12 @@
+Company: LOBO TECHNOLOGIES LTD. Class A Ordinary Shares
+Ticker: LOBO
+CIK: 0001932072
+Latest SEC XBRL Facts:
+Revenues: 12091762 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 12091762 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+NetIncomeLoss: -2622169 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+Assets: 21281171 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+Liabilities: 12667797 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+StockholdersEquity: 7895259 | unit=USD | filed=2024-09-30 | period_end=2024-06-30
+NetCashProvidedByUsedInOperatingActivities: -1213756 | unit=USD | filed=2025-09-03 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 1424211 | unit=USD | filed=2025-09-03 | period_end=2025-06-30

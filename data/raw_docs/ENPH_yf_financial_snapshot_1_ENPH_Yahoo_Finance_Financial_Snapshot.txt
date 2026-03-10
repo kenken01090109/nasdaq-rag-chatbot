@@ -1,0 +1,25 @@
+Company: Enphase Energy Inc. Common Stock
+Ticker: ENPH
+Market Cap: 5274105344
+Enterprise Value: 5125645312
+Total Revenue: 1472984960
+Revenue Per Share: 11.23
+EBITDA: 238900992
+Gross Margins: 0.30435
+Operating Margins: 0.06349
+Profit Margins: 0.11686
+Free Cashflow: 37604000
+Operating Cashflow: 136540000
+Return On Assets: 0.030450001
+Return On Equity: 0.17930001
+Total Cash: 1512854016
+Total Debt: 1243783040
+Debt To Equity: 114.421
+Current Ratio: 2.065
+Quick Ratio: 1.441
+Trailing PE: 31.186047
+Forward PE: 14.867896
+Price To Book: 4.851079
+Beta: 1.374
+52 Week High: 66.7
+52 Week Low: 25.78

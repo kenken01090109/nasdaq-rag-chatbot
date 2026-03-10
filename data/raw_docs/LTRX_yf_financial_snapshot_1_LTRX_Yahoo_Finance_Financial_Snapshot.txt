@@ -1,0 +1,25 @@
+Company: Lantronix Inc. Common Stock
+Ticker: LTRX
+Market Cap: 224259936
+Enterprise Value: 230322800
+Total Revenue: 116907000
+Revenue Per Share: 2.988
+EBITDA: -1945000
+Gross Margins: 0.43076
+Operating Margins: -0.03328
+Profit Margins: -0.07895
+Free Cashflow: 15589000
+Operating Cashflow: 10065000
+Return On Assets: -0.03132
+Return On Equity: -0.12118
+Total Cash: 22964000
+Total Debt: 18310000
+Debt To Equity: 24.603
+Current Ratio: 2.746
+Quick Ratio: 1.669
+Trailing PE: 
+Forward PE: 17.25191
+Price To Book: 2.9689963
+Beta: 1.562
+52 Week High: 8.24
+52 Week Low: 1.91

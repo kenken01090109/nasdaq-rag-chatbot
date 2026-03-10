@@ -1,0 +1,8 @@
+Company: Aldel Financial II Inc. Units
+Ticker: ALDFU
+Total Cash: 746386
+Total Debt: 0
+Debt To Equity: 
+Current Ratio: 60.248
+Quick Ratio: 45.584
+Book Value: 0.031

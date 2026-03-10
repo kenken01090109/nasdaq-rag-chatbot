@@ -1,0 +1,12 @@
+Company: Duos Technologies Group Inc. Common Stock
+Ticker: DUOT
+CIK: 0001396536
+Latest SEC XBRL Facts:
+Revenues: 17565509 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 17565509 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: -6637948 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 69794280 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 20292465 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 49501815 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -11031943 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 613594 | unit=USD | filed=2024-11-19 | period_end=2024-09-30

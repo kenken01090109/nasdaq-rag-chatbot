@@ -1,0 +1,7 @@
+Company: Abivax SA American Depositary Shares
+Ticker: ABVX
+Business Summary: ABIVAX Société Anonyme, a clinical-stage biotechnology company, focuses on developing therapeutics that harness the body's natural regulatory mechanisms to stabilize the immune response in patients with chronic inflammatory diseases. Its lead drug candidate includes obefazimod that is in Phase 3 clinical trials for the treatment of adults with moderately to severely active ulcerative colitis, as well as in Phase 2b clinical trial to treat patients with Crohn's disease. The company was incorporated in 2013 and is headquartered in Paris, France.
+Sector: Healthcare
+Industry: Biotechnology
+Exchange: NGM
+Quote Type: EQUITY

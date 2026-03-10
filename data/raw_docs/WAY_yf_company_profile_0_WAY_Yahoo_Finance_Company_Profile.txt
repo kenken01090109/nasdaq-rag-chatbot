@@ -1,0 +1,9 @@
+Company: Waystar Holding Corp. Common Stock
+Ticker: WAY
+Sector: Healthcare
+Industry: Health Information Services
+Country: United States
+City: Lehi
+Website: https://www.waystar.com
+Employees: 1700
+Business Summary: Waystar Holding Corp. develops a cloud-based software solution for healthcare payments. Its platform offers financial clearance, patient financial care, claim and payer payment management, denials prevention and recovery, clinical integrity and revenue capture, and analytics and reporting solutions. It primarily serves healthcare industry. The company was founded in 2017 and is headquartered in Lehi, Utah.

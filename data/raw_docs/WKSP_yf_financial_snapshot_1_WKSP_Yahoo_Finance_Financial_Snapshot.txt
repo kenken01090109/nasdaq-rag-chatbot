@@ -1,0 +1,25 @@
+Company: Worksport Ltd. Common Stock
+Ticker: WKSP
+Market Cap: 13250068
+Enterprise Value: 10255265
+Total Revenue: 14286679
+Revenue Per Share: 2.924
+EBITDA: -14621892
+Gross Margins: 0.23599
+Operating Margins: -0.956
+Profit Margins: -1.21963
+Free Cashflow: -7657751
+Operating Cashflow: -13369768
+Return On Assets: -0.40188998
+Return On Equity: -0.96421
+Total Cash: 3976200
+Total Debt: 3087668
+Debt To Equity: 15.611
+Current Ratio: 2.041
+Quick Ratio: 0.775
+Trailing PE: 
+Forward PE: -4.090909
+Price To Book: 0.51803535
+Beta: 0.127
+52 Week High: 6.5
+52 Week Low: 1.0

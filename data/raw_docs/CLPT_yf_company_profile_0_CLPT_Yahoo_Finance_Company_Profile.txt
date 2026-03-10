@@ -1,0 +1,9 @@
+Company: ClearPoint Neuro Inc. Common Stock
+Ticker: CLPT
+Sector: Healthcare
+Industry: Medical Devices
+Country: United States
+City: Solana Beach
+Website: https://www.clearpointneuro.com
+Employees: 115
+Business Summary: ClearPoint Neuro, Inc. operates as a medical device company primarily in the United States. It develops and commercializes platforms for performing minimally invasive surgical procedures in the brain under magnetic resonance imaging guided interventions. The company offers ClearPoint system, an integrated system for the insertion of deep brain stimulation electrodes, biopsy needles, and laser catheters, as well as the infusion of pharmaceuticals into the brain. It has license and collaboration agreement with Clinical Laserthermia Systems AB; license and research agreement with Koninklijke Philips N.V.; UCB Biopharma SRL; NE Scientific, LLC; and University of California, San Francisco, and Johns Hopkins University. The company was formerly known as MRI Interventions, Inc. and changed its name to ClearPoint Neuro, Inc. in February 2020. ClearPoint Neuro, Inc. was incorporated in 1998 and is headquartered in Solana Beach, California.

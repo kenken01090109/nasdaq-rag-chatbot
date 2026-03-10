@@ -1,0 +1,9 @@
+Company: VersaBank Common Shares
+Ticker: VBNK
+Sector: Financial Services
+Industry: Banks - Regional
+Country: Canada
+City: London
+Website: https://www.versabank.com
+Employees: 131
+Business Summary: VersaBank provides various banking products and services in Canada and the United States. The company operates through Digital Banking Canada; Digital Banking USA; and DRTC (cybersecurity services and banking and financial technology development) segments. It offers deposit products, such as guaranteed investment certificates, registered retirement savings plans, and tax-free savings accounts, as well as deposit insurance products. The company also provides lending services, including point of sale financing that covers purchasing loan and lease receivables from finance companies operating in various industries; commercial real estate mortgages and loans, public sector, leases, and other financing. In addition, it provides cybersecurity services. The company was formerly known as Pacific & Western Bank of Canada and changed its name to VersaBank in May 2016. VersaBank was incorporated in 1979 and is headquartered in London, Canada.

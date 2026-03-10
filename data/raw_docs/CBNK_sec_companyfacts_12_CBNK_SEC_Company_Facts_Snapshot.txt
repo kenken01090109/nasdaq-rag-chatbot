@@ -1,0 +1,10 @@
+Company: Capital Bancorp Inc. Common Stock
+Ticker: CBNK
+CIK: 0001419536
+Latest SEC XBRL Facts:
+NetIncomeLoss: 42133000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Assets: 3389442000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+Liabilities: 2994672000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+StockholdersEquity: 394770000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 51268000 | unit=USD | filed=2025-11-10 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34723000 | unit=USD | filed=2019-04-01 | period_end=2018-12-31

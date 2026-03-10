@@ -1,0 +1,11 @@
+Company: Pyxis Oncology Inc. Common Stock
+Ticker: PYXS
+CIK: 0001782223
+Latest SEC XBRL Facts:
+Revenues: 2820000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetIncomeLoss: -61515000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Assets: 105604000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+Liabilities: 36825000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+StockholdersEquity: 68779000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -53075000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 8919000 | unit=USD | filed=2025-11-03 | period_end=2025-09-30

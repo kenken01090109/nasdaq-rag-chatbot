@@ -1,0 +1,25 @@
+Company: Criteo S.A. American Depositary Shares
+Ticker: CRTO
+Market Cap: 1009737856
+Enterprise Value: 782742784
+Total Revenue: 1944900992
+Revenue Per Share: 36.742
+EBITDA: 322689984
+Gross Margins: 0.53955
+Operating Margins: 0.12958
+Profit Margins: 0.07435
+Free Cashflow: 182209632
+Operating Cashflow: 311236992
+Return On Assets: 0.05827
+Return On Equity: 0.1318
+Total Cash: 365280000
+Total Debt: 149722000
+Debt To Equity: 12.627
+Current Ratio: 1.269
+Quick Ratio: 1.213
+Trailing PE: 7.4772725
+Forward PE: 4.307551
+Price To Book: 0.878622
+Beta: 0.381
+52 Week High: 38.48
+52 Week Low: 16.15

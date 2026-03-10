@@ -1,0 +1,25 @@
+Company: Palo Alto Networks Inc. Common Stock
+Ticker: PANW
+Market Cap: 134680805376
+Enterprise Value: 129061560320
+Total Revenue: 9893499904
+Revenue Per Share: 14.517
+EBITDA: 1449500032
+Gross Margins: 0.73502
+Operating Margins: 0.1542
+Profit Margins: 0.12956999
+Free Cashflow: 2804849920
+Operating Cashflow: 3974000128
+Return On Assets: 0.03211
+Return On Equity: 0.16259001
+Total Cash: 4536000000
+Total Debt: 459000000
+Debt To Equity: 4.887
+Current Ratio: 1.045
+Quick Ratio: 0.914
+Trailing PE: 92.20671
+Forward PE: 41.50489
+Price To Book: 12.353117
+Beta: 0.822
+52 Week High: 223.61
+52 Week Low: 139.57

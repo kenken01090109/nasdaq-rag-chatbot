@@ -1,0 +1,11 @@
+Company: XBP Global Holdings Inc. Common Stock
+Ticker: XBP
+CIK: 0001839530
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 152407000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -305838000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 947932000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 817429000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 130503000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 13866000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 34534000 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

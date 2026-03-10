@@ -1,0 +1,25 @@
+Company: Charter Communications Inc. Class A Common Stock New
+Ticker: CHTR
+Market Cap: 30054031360
+Enterprise Value: 132074659840
+Total Revenue: 54774001664
+Revenue Per Share: 405.267
+EBITDA: 22058000384
+Gross Margins: 0.55309
+Operating Margins: 0.24741
+Profit Margins: 0.09105
+Free Cashflow: 2734625024
+Operating Cashflow: 16076999680
+Return On Assets: 0.054840002
+Return On Equity: 0.28667998
+Total Cash: 477000000
+Total Debt: 98969001984
+Debt To Equity: 482.329
+Current Ratio: 0.387
+Quick Ratio: 0.312
+Trailing PE: 6.411927
+Forward PE: 4.7809815
+Price To Book: 1.8318781
+Beta: 1.023
+52 Week High: 437.06
+52 Week Low: 180.38

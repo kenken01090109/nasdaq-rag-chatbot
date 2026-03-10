@@ -1,0 +1,25 @@
+Company: Edgewise Therapeutics Inc. Common Stock
+Ticker: EWTX
+Market Cap: 2984265728
+Enterprise Value: 2519291136
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -189322000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -87337752
+Operating Cashflow: -143816000
+Return On Assets: -0.23018
+Return On Equity: -0.34192002
+Total Cash: 530108992
+Total Debt: 3990000
+Debt To Equity: 0.764
+Current Ratio: 19.853
+Quick Ratio: 19.368
+Trailing PE: 
+Forward PE: -12.028762
+Price To Book: 5.660224
+Beta: 0.265
+52 Week High: 31.82
+52 Week Low: 10.6

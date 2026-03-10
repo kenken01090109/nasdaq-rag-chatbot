@@ -1,0 +1,12 @@
+Company: ImmuCell Corporation Common Stock
+Ticker: ICCC
+CIK: 0000811641
+Latest SEC XBRL Facts:
+Revenues: 14512054 | unit=USD | filed=2025-08-14 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 20018175 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetIncomeLoss: 1809115 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 45730123 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 15929282 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 29800841 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1992751 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3886198 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

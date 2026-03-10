@@ -1,0 +1,9 @@
+Company: CSLM Digital Asset Acquisition Corp III Class A Ordinary Shares
+Ticker: KOYN
+CIK: 0002068454
+Latest SEC XBRL Facts:
+NetIncomeLoss: -1189 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 234574267 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 9347172 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: -5649562 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -351974 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

@@ -1,0 +1,7 @@
+Company: Axe Compute Inc. Common Stock
+Ticker: AGPU
+Business Summary: Axe Compute Inc., a knowledge and science-driven company, applies artificial intelligence (AI) to support the discovery and development of cancer therapies. It operates through two segments, Pittsburgh and Eagan. The Pittsburgh segment provides services that include the application of AI using its proprietary biobank of 150,000+ tumor samples. This segment also creates proprietary 3D culture models used in drug development. Its Eagan segment produces the FDA-cleared STREAMWAY System and associated products for automated medical fluid waste management and patient-to-drain medical fluid disposal. Predictive Oncology Inc. has a strategic collaboration with Every Cure to identify and prioritize drugs for repurposing. The company was formerly known as Predictive Oncology Inc. and changed its name to Axe Compute Inc. in December 2025. Axe Compute Inc. was incorporated in 2002 and is headquartered in Pittsburgh, Pennsylvania.
+Sector: Technology
+Industry: Software - Infrastructure
+Exchange: NCM
+Quote Type: EQUITY

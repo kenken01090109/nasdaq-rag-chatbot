@@ -1,0 +1,25 @@
+Company: SoundHound AI Inc. Warrant
+Ticker: SOUNW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 168920000
+Revenue Per Share: 0.417
+EBITDA: -146268992
+Gross Margins: 0.42358002
+Operating Margins: -0.74208
+Profit Margins: -0.08291
+Free Cashflow: -18346124
+Operating Cashflow: -98222000
+Return On Assets: -0.18154
+Return On Equity: -0.043330003
+Total Cash: 248490000
+Total Debt: 4359000
+Debt To Equity: 0.94
+Current Ratio: 4.588
+Quick Ratio: 4.447
+Trailing PE: 
+Forward PE: 
+Price To Book: 2.5888786
+Beta: 2.88
+52 Week High: 2.89
+52 Week Low: 2.7

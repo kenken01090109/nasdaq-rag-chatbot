@@ -1,0 +1,9 @@
+Company: Orangekloud Technology Inc. Class A Ordinary Shares
+Ticker: ORKT
+Sector: Technology
+Industry: Software - Application
+Country: Singapore
+City: Singapore
+Website: https://orangekloud.com
+Employees: 61
+Business Summary: Orangekloud Technology Inc., through its subsidiaries, provides IT consultancy services and related products and services in Singapore, Malaysia, and the United States. It operates through Packaged Software Solutions; and No-Code Platform and Mobile Application segments. The company offers eMOBIQ platform, a No-Code rapid mobile application development platform for SMEs and organizations to design, build, and implement enterprise-grade custom applications with no coding required. It also provides consulting, customizing, implementing, sales, and after-sales support services for Microsoft dynamics enterprise resource planning system, and information technology consultancy services. In addition, the company operates OK365, a web portal solution that offers an intermediary platform for customers to collect data from their end customers and perform operational tasks before uploading the final data back to the backend system. Further, it provides project implementation services, including solution architecture consultancy, business process re-mapping, system customization, and customer support. The company serves the food manufacturing and food service industry, precision engineering, construction, retail, energy, and warehouse management sectors. Orangekloud Technology Inc. was incorporated in 2023 and is headquartered in Singapore.

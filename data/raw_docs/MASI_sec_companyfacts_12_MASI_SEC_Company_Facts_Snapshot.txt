@@ -1,0 +1,12 @@
+Company: Masimo Corporation Common Stock
+Ticker: MASI
+CIK: 0000937556
+Latest SEC XBRL Facts:
+Revenues: 304241000 | unit=USD | filed=2022-05-03 | period_end=2022-04-02
+RevenueFromContractWithCustomerExcludingAssessedTax: 1114400000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetIncomeLoss: -219800000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Assets: 1817500000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+Liabilities: 1007500000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+StockholdersEquity: 810000000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+NetCashProvidedByUsedInOperatingActivities: 157300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27
+CashAndCashEquivalentsAtCarryingValue: 312300000 | unit=USD | filed=2025-11-04 | period_end=2025-09-27

@@ -1,0 +1,25 @@
+Company: Sow Good Inc. Common Stock
+Ticker: SOWG
+Market Cap: 5212764
+Enterprise Value: 9197353
+Total Revenue: 7270357
+Revenue Per Share: 0.63
+EBITDA: -22173056
+Gross Margins: -1.26431
+Operating Margins: -8.1081295
+Profit Margins: 0.0
+Free Cashflow: -1853524
+Operating Cashflow: -6636571
+Return On Assets: -0.34834
+Return On Equity: -0.84224
+Total Cash: 387294
+Total Debt: 4817443
+Debt To Equity: 25.237
+Current Ratio: 4.057
+Quick Ratio: 0.175
+Trailing PE: 
+Forward PE: 0.34307018
+Price To Book: 0.25038412
+Beta: 2.07
+52 Week High: 2.94
+52 Week Low: 0.23

@@ -1,0 +1,12 @@
+Company: Silicon Laboratories Inc. Common Stock
+Ticker: SLAB
+CIK: 0001038074
+Latest SEC XBRL Facts:
+Revenues: 491625000 | unit=USD | filed=2012-02-15 | period_end=2011-12-31
+RevenueFromContractWithCustomerExcludingAssessedTax: 576558000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04
+NetIncomeLoss: -62223000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04
+Assets: 1253067000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04
+Liabilities: 182354000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04
+StockholdersEquity: 1070713000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04
+NetCashProvidedByUsedInOperatingActivities: 87358000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04
+CashAndCashEquivalentsAtCarryingValue: 341403000 | unit=USD | filed=2025-11-04 | period_end=2025-10-04

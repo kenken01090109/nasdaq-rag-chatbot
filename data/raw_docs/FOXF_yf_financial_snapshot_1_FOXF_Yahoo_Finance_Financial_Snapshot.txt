@@ -1,0 +1,25 @@
+Company: Fox Factory Holding Corp. Common Stock
+Ticker: FOXF
+Market Cap: 681795136
+Enterprise Value: 1453739008
+Total Revenue: 1467320960
+Revenue Per Share: 35.118
+EBITDA: 154619008
+Gross Margins: 0.30208
+Operating Margins: 0.04531
+Profit Margins: -0.37113997
+Free Cashflow: 49567248
+Operating Cashflow: 60918000
+Return On Assets: 0.01994
+Return On Equity: -0.58223
+Total Cash: 58008000
+Total Debt: 779550016
+Debt To Equity: 116.35
+Current Ratio: 2.864
+Quick Ratio: 0.955
+Trailing PE: 
+Forward PE: 9.538012
+Price To Book: 1.0173403
+Beta: 1.51
+52 Week High: 31.18
+52 Week Low: 13.08

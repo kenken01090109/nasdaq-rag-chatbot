@@ -1,0 +1,25 @@
+Company: Keros Therapeutics Inc. Common Stock
+Ticker: KROS
+Market Cap: 344266560
+Enterprise Value: -39639688
+Total Revenue: 244060992
+Revenue Per Share: 6.557
+EBITDA: 72078000
+Gross Margins: 0.47904998
+Operating Margins: -75.76623
+Profit Margins: 0.35653
+Free Cashflow: 66236624
+Operating Cashflow: 107505000
+Return On Assets: 0.09247
+Return On Equity: 0.19896
+Total Cash: 287415008
+Total Debt: 16883000
+Debt To Equity: 5.57
+Current Ratio: 15.452
+Quick Ratio: 15.101
+Trailing PE: 7.2435904
+Forward PE: -2.3323014
+Price To Book: 0.72856224
+Beta: 0.902
+52 Week High: 22.55
+52 Week Low: 9.12

@@ -1,0 +1,25 @@
+Company: CoStar Group Inc. Common Stock
+Ticker: CSGP
+Market Cap: 20504547328
+Enterprise Value: 20080091136
+Total Revenue: 3247000064
+Revenue Per Share: 7.79
+EBITDA: 209000000
+Gross Margins: 0.78873
+Operating Margins: 0.05501
+Profit Margins: 0.0021600001
+Free Cashflow: 143750000
+Operating Cashflow: 430000000
+Return On Assets: -0.00341
+Return On Equity: 0.00088
+Total Cash: 1632999936
+Total Debt: 1144000000
+Debt To Equity: 13.666
+Current Ratio: 2.84
+Quick Ratio: 2.536
+Trailing PE: 2419.0
+Forward PE: 27.245749
+Price To Book: 2.4259138
+Beta: 0.902
+52 Week High: 97.43
+52 Week Low: 43.16

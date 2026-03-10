@@ -1,0 +1,11 @@
+Company: Zhongchao Inc. Class A Ordinary Shares
+Ticker: ZCMD
+CIK: 0001785566
+Latest SEC XBRL Facts:
+Revenues: 5601079 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetIncomeLoss: -965254 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Assets: 26306989 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+Liabilities: 2558665 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+StockholdersEquity: 20268203 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+NetCashProvidedByUsedInOperatingActivities: 1820881 | unit=USD | filed=2025-09-29 | period_end=2025-06-30
+CashAndCashEquivalentsAtCarryingValue: 8912022 | unit=USD | filed=2025-09-29 | period_end=2025-06-30

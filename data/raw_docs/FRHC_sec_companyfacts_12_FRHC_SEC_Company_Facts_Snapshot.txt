@@ -1,0 +1,11 @@
+Company: Freedom Holding Corp. Common Stock
+Ticker: FRHC
+CIK: 0000924805
+Latest SEC XBRL Facts:
+Revenues: 1688151000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetIncomeLoss: 145352000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Assets: 12376810000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+Liabilities: 10981963000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+StockholdersEquity: 1394847000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 1733896000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 869167000 | unit=USD | filed=2026-02-09 | period_end=2025-12-31

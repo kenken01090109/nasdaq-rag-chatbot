@@ -1,0 +1,9 @@
+Company: Open Lending Corporation Common Stock
+Ticker: LPRO
+Sector: Financial Services
+Industry: Credit Services
+Country: United States
+City: Austin
+Website: https://www.openlending.com
+Employees: 205
+Business Summary: Open Lending Corporation provides lending enablement and risk analytics solutions to credit unions, regional banks, finance companies, and captive finance companies of automakers in the United States. The company offers lenders protection platform (LPP), which is a cloud-based automotive lending enablement platform that provides loan analytics solutions and automated issuance of credit default insurance with third-party insurance providers. Its LPP products include loan analytics, risk-based loan pricing, risk modeling, and automated decision technology for automotive lenders. The company was founded in 2000 and is headquartered in Austin, Texas.

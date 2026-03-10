@@ -1,0 +1,12 @@
+Company: Weatherford International plc Ordinary Shares
+Ticker: WFRD
+CIK: 0001603923
+Latest SEC XBRL Facts:
+Revenues: 4172000000 | unit=USD | filed=2024-10-23 | period_end=2024-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2680000000 | unit=USD | filed=2021-11-02 | period_end=2021-09-30
+NetIncomeLoss: 293000000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+Assets: 5272000000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+Liabilities: 3705000000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+StockholdersEquity: 1560000000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 408000000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 967000000 | unit=USD | filed=2025-10-22 | period_end=2025-09-30

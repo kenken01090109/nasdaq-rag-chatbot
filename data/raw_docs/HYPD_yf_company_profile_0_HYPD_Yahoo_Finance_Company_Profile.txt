@@ -1,0 +1,9 @@
+Company: Hyperion DeFi Inc. Common Stock
+Ticker: HYPD
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: New York
+Website: https://hyperiondefi.com
+Employees: 13
+Business Summary: Hyperion DeFi, Inc., an ophthalmic technology company, engages in development and commercialization of ophthalmic solutions in the United States. The company offers Optejet, a topical ophthalmic medication dispensing platform services. It has a license agreement with Bausch Health Ireland Limited to develop and commercialize MicroPine in the United States and Canada; a license agreement with Arctic Vision (Hong Kong) Limited to develop and commercialize MicroPine, MicroLine, and Mydcombi in China and South Korea; Senju Pharmaceutical Co., Ltd. to develop and commercialize MicroPine, MicroLine, and Mydcombi; and agreement with Formosa Pharmaceuticals. Inc. for Co-Development of Clobetasol Propionate Ophthalmic Suspension (0.05%) for the Treatment of Acute Dry Eye Disease in the U.S. The company was formerly known as Eyenovia, Inc. and changed its name to Hyperion DeFi, Inc. in July 2025. Hyperion DeFi, Inc. was founded in 2014 and is based in New York, New York.

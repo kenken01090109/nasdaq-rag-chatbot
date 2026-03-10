@@ -1,0 +1,10 @@
+Company: DT Cloud Star Acquisition Corporation Right
+Ticker: DTSQR
+CIK: 0002017950
+Latest SEC XBRL Facts:
+NetIncomeLoss: 1844746 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 72746382 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 795625 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: -736847 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -391312 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 20117 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

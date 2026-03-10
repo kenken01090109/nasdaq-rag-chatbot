@@ -1,0 +1,25 @@
+Company: Chagee Holdings Limited American Depositary Shares
+Ticker: CHA
+Market Cap: 2009841920
+Enterprise Value: -5854483968
+Total Revenue: 13267348480
+Revenue Per Share: 95.248
+EBITDA: 2096551040
+Gross Margins: 0.49084
+Operating Margins: 0.14163
+Profit Margins: 0.13579
+Free Cashflow: 1523676160
+Operating Cashflow: 2000274944
+Return On Assets: 0.1434
+Return On Equity: 0.30732
+Total Cash: 9115259904
+Total Debt: 1001228992
+Debt To Equity: 11.559
+Current Ratio: 4.222
+Quick Ratio: 3.954
+Trailing PE: 18.033333
+Forward PE: 6.834316
+Price To Book: 1.6762747
+Beta: 
+52 Week High: 41.8
+52 Week Low: 9.95

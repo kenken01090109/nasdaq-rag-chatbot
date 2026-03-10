@@ -1,0 +1,25 @@
+Company: Peapack-Gladstone Financial Corporation Common Stock
+Ticker: PGC
+Market Cap: 596094784
+Enterprise Value: 620504640
+Total Revenue: 259476992
+Revenue Per Share: 14.733
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.26311
+Profit Margins: 0.14385
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.00514
+Return On Equity: 0.05906
+Total Cash: 187820000
+Total Debt: 216776992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 16.166668
+Forward PE: 7.192797
+Price To Book: 0.8987188
+Beta: 0.675
+52 Week High: 35.68
+52 Week Low: 23.96

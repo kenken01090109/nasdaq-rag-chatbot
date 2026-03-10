@@ -1,0 +1,25 @@
+Company: Lexicon Pharmaceuticals Inc. Common Stock
+Ticker: LXRX
+Market Cap: 714551360
+Enterprise Value: 541339840
+Total Revenue: 70864000
+Revenue Per Share: 0.195
+EBITDA: -53940000
+Gross Margins: -0.06982
+Operating Margins: -0.85933
+Profit Margins: -0.96773005
+Free Cashflow: -38486752
+Operating Cashflow: -72109000
+Return On Assets: -0.12942
+Return On Equity: -0.45921
+Total Cash: 115950000
+Total Debt: 64950000
+Debt To Equity: 54.053
+Current Ratio: 5.641
+Quick Ratio: 5.446
+Trailing PE: 
+Forward PE: -8.5210285
+Price To Book: 5.1661634
+Beta: 1.01
+52 Week High: 1.83
+52 Week Low: 0.32

@@ -1,0 +1,9 @@
+Company: BeLive Holdings Ordinary Share
+Ticker: BLIV
+Sector: Technology
+Industry: Software - Application
+Country: Singapore
+City: Singapore
+Website: https://belive.technology
+Employees: 32
+Business Summary: BeLive Holdings engages in the provision of technology solution for live commerce and shoppable short videos in Asia, Oceania, and Europe. It engages in the provision of enterprise-grade BeLive White-Label solutions and cloud-based BeLive SaaS solutions; and sale of software development kit (SDK) to system integrators. The company is also involved in the development of software and programming activities; and computer programming and system administration activities. BeLive Holdings was founded in 2014 and is headquartered in Singapore.

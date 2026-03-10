@@ -1,0 +1,25 @@
+Company: PMGC Holdings Inc. Common Stock
+Ticker: ELAB
+Market Cap: 2403111
+Enterprise Value: -4073883
+Total Revenue: 285948
+Revenue Per Share: 4.075
+EBITDA: -5812148
+Gross Margins: -0.82025003
+Operating Margins: -7.5200596
+Profit Margins: 0.0
+Free Cashflow: -3585391
+Operating Cashflow: -6184426
+Return On Assets: -0.27982
+Return On Equity: -0.76195997
+Total Cash: 8614718
+Total Debt: 4408953
+Debt To Equity: 51.927
+Current Ratio: 1.789
+Quick Ratio: 1.645
+Trailing PE: 0.0048964056
+Forward PE: 
+Price To Book: 0.016207986
+Beta: 1.126
+52 Week High: 114.666664
+52 Week Low: 0.68

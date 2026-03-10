@@ -1,0 +1,11 @@
+Company: Analog Devices Inc. Common Stock
+Ticker: ADI
+CIK: 0000006281
+Latest SEC XBRL Facts:
+Revenues: 4604356000 | unit=USD | filed=2018-08-22 | period_end=2018-08-04
+RevenueFromContractWithCustomerExcludingAssessedTax: 3160263000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+NetIncomeLoss: 830826000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+Assets: 47991190000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+StockholdersEquity: 33787259000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 1368515000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 2905860000 | unit=USD | filed=2026-02-18 | period_end=2026-01-31

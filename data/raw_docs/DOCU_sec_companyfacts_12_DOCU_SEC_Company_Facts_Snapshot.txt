@@ -1,0 +1,11 @@
+Company: DocuSign Inc. Common Stock
+Ticker: DOCU
+CIK: 0001261333
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 2382640000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31
+NetIncomeLoss: 218782000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31
+Assets: 3982039000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31
+Liabilities: 2000518000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31
+StockholdersEquity: 1981521000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31
+NetCashProvidedByUsedInOperatingActivities: 787786000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31
+CashAndCashEquivalentsAtCarryingValue: 583291000 | unit=USD | filed=2025-12-05 | period_end=2025-10-31

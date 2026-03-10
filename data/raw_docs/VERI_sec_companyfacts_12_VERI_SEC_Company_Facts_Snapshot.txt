@@ -1,0 +1,12 @@
+Company: Veritone Inc. Common Stock
+Ticker: VERI
+CIK: 0001615165
+Latest SEC XBRL Facts:
+Revenues: 75594000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 16101000 | unit=USD | filed=2018-11-13 | period_end=2018-09-30
+NetIncomeLoss: -73553000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 200221000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 184203000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 16018000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -41163000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 36233000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

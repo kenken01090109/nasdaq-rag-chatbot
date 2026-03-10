@@ -1,0 +1,25 @@
+Company: Fly-E Group Inc. Common Stock
+Ticker: FLYE
+Market Cap: 3312111
+Enterprise Value: 16056343
+Total Revenue: 19966392
+Revenue Per Share: 48.619
+EBITDA: -4857972
+Gross Margins: 0.38487998
+Operating Margins: -0.26822
+Profit Margins: -0.38833
+Free Cashflow: 174817
+Operating Cashflow: -8354850
+Return On Assets: -0.10451999
+Return On Equity: -0.53234
+Total Cash: 2538076
+Total Debt: 15296999
+Debt To Equity: 99.993
+Current Ratio: 1.946
+Quick Ratio: 0.656
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.21649596
+Beta: 
+52 Week High: 161.8
+52 Week Low: 1.8

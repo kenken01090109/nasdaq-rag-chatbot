@@ -1,0 +1,25 @@
+Company: ACADIA Pharmaceuticals Inc. Common Stock
+Ticker: ACAD
+Market Cap: 3778160384
+Enterprise Value: 3051580416
+Total Revenue: 1071505024
+Revenue Per Share: 6.365
+EBITDA: 116571000
+Gross Margins: 0.61008
+Operating Margins: 0.061240003
+Profit Margins: 0.36491
+Free Cashflow: -54821124
+Operating Cashflow: 109836000
+Return On Assets: 0.04761
+Return On Equity: 0.39894
+Total Cash: 819686016
+Total Debt: 52187000
+Debt To Equity: 4.252
+Current Ratio: 3.833
+Quick Ratio: 3.493
+Trailing PE: 9.634783
+Forward PE: 24.497557
+Price To Book: 3.0747886
+Beta: 0.807
+52 Week High: 28.35
+52 Week Low: 13.4

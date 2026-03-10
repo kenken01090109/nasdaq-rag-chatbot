@@ -1,0 +1,25 @@
+Company: Immersion Corporation Common Stock
+Ticker: IMMR
+Market Cap: 199889792
+Enterprise Value: 612976256
+Total Revenue: 163132992
+Revenue Per Share: 5.119
+EBITDA: 57588000
+Gross Margins: 0.74814004
+Operating Margins: 0.04072
+Profit Margins: 0.40623
+Free Cashflow: -178858752
+Operating Cashflow: -44181000
+Return On Assets: 0.04997
+Return On Equity: 0.19552
+Total Cash: 153911008
+Total Debt: 322142016
+Debt To Equity: 56.886
+Current Ratio: 1.55
+Quick Ratio: 0.633
+Trailing PE: 3.3777778
+Forward PE: 11.054545
+Price To Book: 0.61713356
+Beta: 0.897
+52 Week High: 8.15
+52 Week Low: 5.65

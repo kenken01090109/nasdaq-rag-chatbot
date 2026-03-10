@@ -1,0 +1,9 @@
+Company: Minerva Neurosciences Inc Common Stock
+Ticker: NERV
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Burlington
+Website: https://www.minervaneurosciences.com
+Employees: 8
+Business Summary: Minerva Neurosciences, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of product candidates for the treatment of central nervous system diseases. Its lead product candidate is roluperidone for the treatment of negative symptoms in patients with schizophrenia. The company also has exclusive rights to develop and commercialize MIN-301, a soluble recombinant form of the Neuregulin-1b1 protein for the treatment of Parkinson's disease and other neurodegenerative disorders. Minerva Neurosciences, Inc. was incorporated in 2007 and is based in Burlington, Massachusetts.

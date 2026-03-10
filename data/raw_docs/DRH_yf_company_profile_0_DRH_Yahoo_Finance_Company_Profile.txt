@@ -1,0 +1,9 @@
+Company: Diamondrock Hospitality Company Common Stock
+Ticker: DRH
+Sector: Real Estate
+Industry: REIT - Hotel & Motel
+Country: United States
+City: Bethesda
+Website: https://www.drhc.com
+Employees: 35
+Business Summary: DiamondRock Hospitality Company is a self-advised real estate investment trust that owns a leading portfolio of geographically diversified hotels concentrated in leisure destinations and top gateway markets. The Company currently owns 35 premium quality hotels and resorts with approximately 9,600 rooms. The Company has strategically positioned its portfolio to be operated both under leading global brand families as well as independent boutique hotels in the lifestyle segment.

@@ -1,0 +1,9 @@
+Company: 4D Molecular Therapeutics Inc. Common Stock
+Ticker: FDMT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: EmeryVille
+Website: https://www.4dmoleculartherapeutics.com
+Employees: 227
+Business Summary: 4D Molecular Therapeutics, Inc., a late-stage biotechnology company, engages in the development of adeno-associated virus vectors from its proprietary synthetic vector discovery platform, Therapeutic Vector Evolution in the Netherlands and the United States. Its lead product candidate is 4D-150 for the treatment of retinal vascular diseases by providing multi-year sustained production of anti-VEGF from the retina with intravitreal injection, as well as for treating wet age-related macular degeneration and diabetic macular edema. The company is also developing 4D-710, which is in early-stage study for the treatment of cystic fibrosis; 4D-175 that is in preclinical stage for treating geographic atrophy; 4D-725, which is in preclinical stage for the treatment of alpha-1 anti-trypsin deficiency lung disease; and 4D-310 that is in Phase 1 clinical trial for treating Fabry disease. 4D Molecular Therapeutics, Inc. has collaboration and licensing agreements with Astellas Gene Therapies, Inc.; Arbor Biotechnologies, Inc.; and uniQure biopharma B.V. The company was founded in 2013 and is headquartered in EmeryVille, California.

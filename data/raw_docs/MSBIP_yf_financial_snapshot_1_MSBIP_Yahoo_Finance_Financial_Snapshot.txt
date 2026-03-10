@@ -1,0 +1,25 @@
+Company: Midland States Bancorp Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series A
+Ticker: MSBIP
+Market Cap: 
+Enterprise Value: 958156864
+Total Revenue: 265135008
+Revenue Per Share: 12.144
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.34147
+Profit Margins: -0.46875
+Free Cashflow: 
+Operating Cashflow: 125679000
+Return On Assets: -0.01773
+Return On Equity: -0.19474001
+Total Cash: 131262000
+Total Debt: 446364992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 
+Forward PE: 
+Price To Book: 1.177237
+Beta: 0.579
+52 Week High: 25.94
+52 Week Low: 22.03

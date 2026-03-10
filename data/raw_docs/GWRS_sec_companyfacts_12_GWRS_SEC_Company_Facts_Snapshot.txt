@@ -1,0 +1,12 @@
+Company: Global Water Resources Inc. Common Stock
+Ticker: GWRS
+CIK: 0001434728
+Latest SEC XBRL Facts:
+Revenues: 21736000 | unit=USD | filed=2022-08-10 | period_end=2022-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 42217000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: 3920000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 480652000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 354076000 | unit=USD | filed=2024-11-06 | period_end=2024-09-30
+StockholdersEquity: 89625000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 17476000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 15255000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

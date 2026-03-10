@@ -1,0 +1,9 @@
+Company: Aktis Oncology Inc. Common stock
+Ticker: AKTS
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Boston
+Website: https://www.aktisoncology.com
+Employees: 
+Business Summary: Aktis Oncology, Inc. operates as a clinical-stage oncology company that engages in the development of targeted radiopharmaceutical therapies for cancer treatment. The company offers a miniprotein radioconjugate platform to discover and develop radiopharmaceutical therapies that deliver the tumor-killing properties of radioisotopes. It offers Nectin-4, a miniprotein radioconjugate for the treatment of locally advanced or metastatic urothelial cancer. Its products include AKY-1189 to deliver a radioisotope to Nectin-4 expressing tumors for the treatment of metastatic urothelial cancer, breast cancer, NSCLC, colorectal cancer and cervical cancer; and AKY-2519 to deliver radioisotope to B7-H3 CD276 expressing tumors targeting prostate, lung and other solid tumors. The company was formerly known as HotKnot Therapeutics, Inc. and changed its name to Aktis Oncology, Inc. in April 2020. Aktis Oncology, Inc. was incorporated in 2020 and is based in Boston, Massachusetts.

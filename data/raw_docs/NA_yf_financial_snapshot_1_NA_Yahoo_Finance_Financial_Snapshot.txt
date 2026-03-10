@@ -1,0 +1,25 @@
+Company: Nano Labs Ltd Class A Ordinary Shares
+Ticker: NA
+Market Cap: 68426888
+Enterprise Value: -84504520
+Total Revenue: 24139808
+Revenue Per Share: 1.865
+EBITDA: -55002272
+Gross Margins: 0.48792
+Operating Margins: -4.59157
+Profit Margins: -2.6101198
+Free Cashflow: -390043872
+Operating Cashflow: -113357368
+Return On Assets: -0.04541
+Return On Equity: -0.24490999
+Total Cash: 365938272
+Total Debt: 215841680
+Debt To Equity: 34.865
+Current Ratio: 1.812
+Quick Ratio: 0.606
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.7592317
+Beta: 6.302
+52 Week High: 31.48
+52 Week Low: 2.75

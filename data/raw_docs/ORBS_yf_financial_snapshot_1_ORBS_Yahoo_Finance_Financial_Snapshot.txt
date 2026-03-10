@@ -1,0 +1,25 @@
+Company: Eightco Holdings Inc. Common Stock
+Ticker: ORBS
+Market Cap: 203766560
+Enterprise Value: 196208048
+Total Revenue: 43116096
+Revenue Per Share: 3.243
+EBITDA: -7902644
+Gross Margins: 0.08180001
+Operating Margins: -1.16933
+Profit Margins: -0.74372
+Free Cashflow: -291324096
+Operating Cashflow: -6830484
+Return On Assets: -0.03178
+Return On Equity: -0.18340999
+Total Cash: 23731358
+Total Debt: 10652409
+Debt To Equity: 3.145
+Current Ratio: 18.871
+Quick Ratio: 1.43
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.5687465
+Beta: 2.982
+52 Week High: 83.12
+52 Week Low: 0.976

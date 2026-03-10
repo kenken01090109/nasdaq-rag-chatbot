@@ -1,0 +1,9 @@
+Company: NANO-X IMAGING LTD Ordinary Shares
+Ticker: NNOX
+Sector: Healthcare
+Industry: Medical Devices
+Country: Israel
+City: Petah Tikva
+Website: https://www.nanox.vision
+Employees: 165
+Business Summary: Nano-X Imaging Ltd. develops a commercial-grade tomographic imaging device with a digital X-ray source. It provides teleradiology services and develops artificial intelligence applications to be used in real-world medical imaging applications. The company's solutions include Nanox Multi Source System comprising Nanox.ARC, a medical tomographic imaging system incorporating its digital X-ray source; and Nanox. CLOUD, a platform which employs a matching engine to match medical images to radiologists that provides image repository, connectivity to diagnostic assistive AI systems, billing, and reporting. It also offers Nanox.MARKETPLACE, which connects imaging facilities with radiologists and enables radiologists to provide and obtain remote interpretations of imaging data; Nanox.CONNECT to receive local regulatory approvals and explore and evaluate the business model and the potential service; artificial intelligence (AI)-based software imaging solutions to hospitals, health maintenance organizations, integrated delivery networks, pharmaceutical companies, and insurers that are designed to identify or predict undiagnosed or underdiagnosed medical conditions through the mining of data included in images of existing computed tomography scans; Teleradiology Services, which provide imaging interpretation services for radiology practices, hospitals, medical clinics, diagnostic imaging centers and mobile imaging service providers, urgent care facilities, and multi-specialty physician groups. The company was founded in 2011 and is headquartered in Petah Tikva, Israel.

@@ -1,0 +1,11 @@
+Company: Upwork Inc. Common Stock
+Ticker: UPWK
+CIK: 0001627475
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 589375000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetIncomeLoss: 99791000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Assets: 1311209000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+Liabilities: 683083000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+StockholdersEquity: 628126000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 184558000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 260838000 | unit=USD | filed=2025-11-04 | period_end=2025-09-30

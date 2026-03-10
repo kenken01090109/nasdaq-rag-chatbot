@@ -1,0 +1,25 @@
+Company: Hingham Institution for Savings Common Stock
+Ticker: HIFS
+Market Cap: 593571968
+Enterprise Value: 2061855360
+Total Revenue: 102779000
+Revenue Per Share: 47.125
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.80117
+Profit Margins: 0.53076
+Free Cashflow: 
+Operating Cashflow: 
+Return On Assets: 0.01212
+Return On Equity: 0.1197
+Total Cash: 6683000
+Total Debt: 1463815040
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 13.229572
+Forward PE: 
+Price To Book: 1.2373592
+Beta: 0.977
+52 Week High: 338.0
+52 Week Low: 209.71

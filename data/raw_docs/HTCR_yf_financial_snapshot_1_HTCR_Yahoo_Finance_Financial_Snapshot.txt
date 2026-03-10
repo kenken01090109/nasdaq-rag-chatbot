@@ -1,0 +1,25 @@
+Company: Heartcore Enterprises Inc. Common Stock
+Ticker: HTCR
+Market Cap: 6260898
+Enterprise Value: 2743840
+Total Revenue: 16189137
+Revenue Per Share: 0.73
+EBITDA: -3955105
+Gross Margins: 0.33139
+Operating Margins: -0.00373
+Profit Margins: -0.66759
+Free Cashflow: -2979084
+Operating Cashflow: -3814802
+Return On Assets: -0.13555999
+Return On Equity: -1.63518
+Total Cash: 4953214
+Total Debt: 946719
+Debt To Equity: 24.753
+Current Ratio: 1.401
+Quick Ratio: 0.695
+Trailing PE: 
+Forward PE: 2.239091
+Price To Book: 1.5018293
+Beta: 1.991
+52 Week High: 1.67
+52 Week Low: 0.222

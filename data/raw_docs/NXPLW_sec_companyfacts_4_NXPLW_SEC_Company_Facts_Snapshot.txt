@@ -1,0 +1,12 @@
+Company: NextPlat Corp Warrants
+Ticker: NXPLW
+CIK: 0001058307
+Latest SEC XBRL Facts:
+Revenues: 4453906 | unit=USD | filed=2019-11-14 | period_end=2019-09-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 2876153 | unit=USD | filed=2023-05-15 | period_end=2023-03-31
+NetIncomeLoss: -5317000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 30013000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 8467000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 21432000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -5828000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 13926000 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

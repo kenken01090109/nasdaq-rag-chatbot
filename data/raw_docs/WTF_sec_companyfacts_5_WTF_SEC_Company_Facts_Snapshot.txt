@@ -1,0 +1,11 @@
+Company: Waton Financial Limited Ordinary Shares
+Ticker: WTF
+CIK: 0001987363
+Latest SEC XBRL Facts:
+Revenues: 7447944 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+NetIncomeLoss: -11967505 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+Assets: 30723975 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+Liabilities: 17956232 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+StockholdersEquity: 12767743 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+NetCashProvidedByUsedInOperatingActivities: 359965 | unit=USD | filed=2025-07-24 | period_end=2025-03-31
+CashAndCashEquivalentsAtCarryingValue: 7717087 | unit=USD | filed=2025-07-24 | period_end=2025-03-31

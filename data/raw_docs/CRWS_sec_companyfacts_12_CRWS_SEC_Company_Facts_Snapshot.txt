@@ -1,0 +1,10 @@
+Company: Crown Crafts Inc Common Stock
+Ticker: CRWS
+CIK: 0000025895
+Latest SEC XBRL Facts:
+Revenues: 15460000 | unit=USD | filed=2018-08-09 | period_end=2018-07-01
+NetIncomeLoss: 1563000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+Assets: 76104000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+StockholdersEquity: 39199000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+NetCashProvidedByUsedInOperatingActivities: 7098000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28
+CashAndCashEquivalentsAtCarryingValue: 2402000 | unit=USD | filed=2026-02-11 | period_end=2025-12-28

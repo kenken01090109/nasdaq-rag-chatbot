@@ -1,0 +1,10 @@
+Company: Air T Inc. Common Stock
+Ticker: AIRT
+Market Cap: 56485156
+Enterprise Value: 237261152
+Trailing PE: 
+Forward PE: 
+Price To Book: -48.2679
+Beta: 0.399
+52 Week High: 26.7
+52 Week Low: 14.56

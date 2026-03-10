@@ -1,0 +1,25 @@
+Company: Maris-Tech Ltd. Ordinary Shares
+Ticker: MTEK
+Market Cap: 14611389
+Enterprise Value: 16633940
+Total Revenue: 3375716
+Revenue Per Share: 0.424
+EBITDA: -3560713
+Gross Margins: 0.4691
+Operating Margins: -3.22509
+Profit Margins: -1.1120601
+Free Cashflow: -1219796
+Operating Cashflow: -2524596
+Return On Assets: -0.24361
+Return On Equity: -0.70748
+Total Cash: 2769901
+Total Debt: 2586190
+Debt To Equity: 73.655
+Current Ratio: 1.844
+Quick Ratio: 1.122
+Trailing PE: 
+Forward PE: 
+Price To Book: 4.1513762
+Beta: 0.701
+52 Week High: 4.27
+52 Week Low: 1.03

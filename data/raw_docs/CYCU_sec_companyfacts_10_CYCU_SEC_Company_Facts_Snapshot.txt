@@ -1,0 +1,12 @@
+Company: Cycurion Inc. Common Stock
+Ticker: CYCU
+CIK: 0001868419
+Latest SEC XBRL Facts:
+Revenues: 7757965 | unit=USD | filed=2025-08-13 | period_end=2025-06-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 11591003 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetIncomeLoss: -18560558 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Assets: 32309280 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+Liabilities: 16899179 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+StockholdersEquity: 19092678 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -8771919 | unit=USD | filed=2025-11-14 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 3652074 | unit=USD | filed=2025-11-14 | period_end=2025-09-30

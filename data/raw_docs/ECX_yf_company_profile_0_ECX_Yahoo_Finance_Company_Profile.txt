@@ -1,0 +1,9 @@
+Company: ECARX Holdings Inc. Class A Ordinary shares
+Ticker: ECX
+Sector: Consumer Cyclical
+Industry: Auto Parts
+Country: China
+City: Shanghai
+Website: https://www.ecarxgroup.com
+Employees: 1400
+Business Summary: ECARX Holdings Inc. develops full-stack automotive computing platform to shape the interaction between people and cars by rapidly advancing the technology of smart mobility in China and internationally. The company offers system on a chip, central computing platforms, operating systems, and software. Its core products include infotainment head units, autonomous driving control units, digital cockpits, vehicle chip-set solutions, core operating system, and integrated software stack. It has entered into a strategic partnership agreement with Black Sesame Technologies. ECARX Holdings Inc. was founded in 2017 and is based in Shanghai, the People's Republic of China.

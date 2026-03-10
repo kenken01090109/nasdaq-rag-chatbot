@@ -1,0 +1,9 @@
+Company: FirstService Corporation Common Shares
+Ticker: FSV
+CIK: 0001637810
+Latest SEC XBRL Facts:
+Revenues: 1705456000 | unit=USD | filed=2018-02-22 | period_end=2017-12-31
+NetIncomeLoss: 53078000 | unit=USD | filed=2018-02-22 | period_end=2017-12-31
+Assets: 4283713000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+NetCashProvidedByUsedInOperatingActivities: 445941000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31
+CashAndCashEquivalentsAtCarryingValue: 154425000 | unit=USD | filed=2026-02-20 | period_end=2025-12-31

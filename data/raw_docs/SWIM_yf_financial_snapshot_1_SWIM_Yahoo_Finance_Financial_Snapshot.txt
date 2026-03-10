@@ -1,0 +1,25 @@
+Company: Latham Group Inc. Common Stock
+Ticker: SWIM
+Market Cap: 734931392
+Enterprise Value: 985883328
+Total Revenue: 545912000
+Revenue Per Share: 4.689
+EBITDA: 81933000
+Gross Margins: 0.33355
+Operating Margins: -0.10727
+Profit Margins: 0.020380002
+Free Cashflow: 33840752
+Operating Cashflow: 63430000
+Return On Assets: 0.023629999
+Return On Equity: 0.02805
+Total Cash: 83906000
+Total Debt: 315475008
+Debt To Equity: 77.73
+Current Ratio: 2.767
+Quick Ratio: 1.735
+Trailing PE: 
+Forward PE: 22.635002
+Price To Book: 1.8124281
+Beta: 1.697
+52 Week High: 8.966
+52 Week Low: 4.56

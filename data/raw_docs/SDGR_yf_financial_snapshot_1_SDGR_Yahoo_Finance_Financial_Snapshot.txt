@@ -1,0 +1,25 @@
+Company: Schrodinger Inc. Common Stock
+Ticker: SDGR
+Market Cap: 940531840
+Enterprise Value: 654378816
+Total Revenue: 255868992
+Revenue Per Share: 3.484
+EBITDA: -160874000
+Gross Margins: 0.55737
+Operating Margins: -0.19668
+Profit Margins: -0.40359002
+Free Cashflow: 99984000
+Operating Cashflow: 13899000
+Return On Assets: -0.13465
+Return On Equity: -0.26293
+Total Cash: 395464000
+Total Debt: 109311000
+Debt To Equity: 30.026
+Current Ratio: 2.745
+Quick Ratio: 2.643
+Trailing PE: 
+Forward PE: -12.490196
+Price To Book: 2.5784254
+Beta: 1.654
+52 Week High: 27.63
+52 Week Low: 11.11

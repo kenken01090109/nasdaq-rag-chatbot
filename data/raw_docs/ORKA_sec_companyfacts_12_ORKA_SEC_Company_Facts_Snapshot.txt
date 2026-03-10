@@ -1,0 +1,11 @@
+Company: Oruka Therapeutics Inc. Common Stock
+Ticker: ORKA
+CIK: 0000907654
+Latest SEC XBRL Facts:
+Revenues: 0 | unit=USD | filed=2024-08-01 | period_end=2024-06-30
+NetIncomeLoss: -75850000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 509251000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 22460000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 486791000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -65616000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 91253000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: UFP Industries Inc. Common Stock
+Ticker: UFPI
+Market Cap: 5316527616
+Enterprise Value: 4905080832
+Total Revenue: 6320343040
+Revenue Per Share: 111.501
+EBITDA: 526080000
+Gross Margins: 0.16774
+Operating Margins: 0.04061
+Profit Margins: 0.04664
+Free Cashflow: 117389000
+Operating Cashflow: 545737024
+Return On Assets: 0.05582
+Return On Equity: 0.093389995
+Total Cash: 948572992
+Total Debt: 356840000
+Debt To Equity: 11.553
+Current Ratio: 4.59
+Quick Ratio: 2.97
+Trailing PE: 18.788
+Forward PE: 14.733376
+Price To Book: 1.735997
+Beta: 1.429
+52 Week High: 118.0
+52 Week Low: 87.11

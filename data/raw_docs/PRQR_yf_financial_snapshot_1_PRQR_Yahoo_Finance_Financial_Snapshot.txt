@@ -1,0 +1,25 @@
+Company: ProQR Therapeutics N.V. Ordinary Shares
+Ticker: PRQR
+Market Cap: 187514432
+Enterprise Value: 87641376
+Total Revenue: 16074000
+Revenue Per Share: 0.155
+EBITDA: -43602000
+Gross Margins: 1.0
+Operating Margins: -3.87101
+Profit Margins: -2.64831
+Free Cashflow: -31538876
+Operating Cashflow: -48782000
+Return On Assets: -0.24021
+Return On Equity: -1.0376
+Total Cash: 106883000
+Total Debt: 16491000
+Debt To Equity: 28.896
+Current Ratio: 3.36
+Quick Ratio: 3.302
+Trailing PE: 
+Forward PE: -3.787234
+Price To Book: 2.829393
+Beta: 0.093
+52 Week High: 3.1
+52 Week Low: 1.07

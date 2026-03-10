@@ -1,0 +1,25 @@
+Company: Quest Resource Holding Corporation Common Stock
+Ticker: QRHC
+Market Cap: 33392150
+Enterprise Value: 100654152
+Total Revenue: 261280992
+Revenue Per Share: 12.492
+EBITDA: 5091000
+Gross Margins: 0.16902
+Operating Margins: 0.014570001
+Profit Margins: -0.088920005
+Free Cashflow: 9339004
+Operating Cashflow: 3740000
+Return On Assets: -0.00844
+Return On Equity: -0.44349998
+Total Cash: 1146000
+Total Debt: 68408000
+Debt To Equity: 162.841
+Current Ratio: 1.324
+Quick Ratio: 1.272
+Trailing PE: 
+Forward PE: 11.707032
+Price To Book: 0.7940446
+Beta: 0.082
+52 Week High: 4.72
+52 Week Low: 1.11

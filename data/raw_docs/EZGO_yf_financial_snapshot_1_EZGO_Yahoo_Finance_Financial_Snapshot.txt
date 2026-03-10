@@ -1,0 +1,25 @@
+Company: EZGO Technologies Ltd. Ordinary Shares
+Ticker: EZGO
+Market Cap: 30907332
+Enterprise Value: 14757863
+Total Revenue: 20486068
+Revenue Per Share: 90.505
+EBITDA: -1287990
+Gross Margins: 0.06516
+Operating Margins: -0.06594
+Profit Margins: -0.42431
+Free Cashflow: -6135720
+Operating Cashflow: -2206969
+Return On Assets: -0.01582
+Return On Equity: -0.169
+Total Cash: 517338
+Total Debt: 11428572
+Debt To Equity: 22.43
+Current Ratio: 3.214
+Quick Ratio: 2.374
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.0217738
+Beta: 1.875
+52 Week High: 17.25
+52 Week Low: 1.425

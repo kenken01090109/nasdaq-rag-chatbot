@@ -1,0 +1,9 @@
+Company: Arcutis Biotherapeutics Inc. Common Stock
+Ticker: ARQT
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Westlake Village
+Website: https://www.arcutis.com
+Employees: 354
+Business Summary: Arcutis Biotherapeutics, Inc., a biopharmaceutical company, focuses on developing and commercializing treatments for dermatological diseases. The company's lead product is ZORYVE, a topical roflumilast cream for the treatment of plaque psoriasis and atopic dermatitis. It also develops ZORYVE foam seborrheic dermatitis, and scalp and body psoriasis treatment; ARQ-234, a fusion protein that is a potent and highly selective checkpoint agonist of the CD200 receptor. The company was formerly known as Arcutis, Inc. and changed its name to Arcutis Biotherapeutics, Inc. in October 2019. Arcutis Biotherapeutics, Inc. was incorporated in 2016 and is headquartered in Westlake Village, California.

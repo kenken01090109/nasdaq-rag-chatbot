@@ -1,0 +1,25 @@
+Company: Applied Optoelectronics Inc. Common Stock
+Ticker: AAOI
+Market Cap: 7187503104
+Enterprise Value: 7647550464
+Total Revenue: 455715008
+Revenue Per Share: 7.572
+EBITDA: -26906000
+Gross Margins: 0.30044
+Operating Margins: -0.08565
+Profit Margins: -0.08389
+Free Cashflow: -383898880
+Operating Cashflow: -174428000
+Return On Assets: -0.03979
+Return On Equity: -0.079390004
+Total Cash: 206140000
+Total Debt: 248082000
+Debt To Equity: 33.802
+Current Ratio: 2.626
+Quick Ratio: 1.751
+Trailing PE: 
+Forward PE: 29.892103
+Price To Book: 9.7670145
+Beta: 3.274
+52 Week High: 114.63
+52 Week Low: 9.711

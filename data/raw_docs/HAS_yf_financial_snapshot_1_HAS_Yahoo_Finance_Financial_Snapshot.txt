@@ -1,0 +1,25 @@
+Company: Hasbro Inc. Common Stock
+Ticker: HAS
+Market Cap: 13293396992
+Enterprise Value: 15958900736
+Total Revenue: 4701300224
+Revenue Per Share: 33.533
+EBITDA: 1200099968
+Gross Margins: 0.63821
+Operating Margins: 0.20672001
+Profit Margins: -0.06858
+Free Cashflow: 434350016
+Operating Cashflow: 893200000
+Return On Assets: 0.111899994
+Return On Equity: -0.36355
+Total Cash: 881600000
+Total Debt: 3396300032
+Debt To Equity: 600.584
+Current Ratio: 1.381
+Quick Ratio: 1.198
+Trailing PE: 
+Forward PE: 15.059871
+Price To Book: 24.63243
+Beta: 0.526
+52 Week High: 106.98
+52 Week Low: 49.0

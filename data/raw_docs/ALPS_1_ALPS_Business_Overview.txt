@@ -1,0 +1,7 @@
+Company: ALPS Group Inc Ordinary Share
+Ticker: ALPS
+Business Summary: 
+Sector: 
+Industry: 
+Exchange: NGM
+Quote Type: EQUITY

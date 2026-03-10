@@ -1,0 +1,9 @@
+Company: Texas Community Bancshares Inc. Common Stock
+Ticker: TCBS
+CIK: 0001849466
+Latest SEC XBRL Facts:
+NetIncomeLoss: 2001000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 439485000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 385950000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 53535000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 1065000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30

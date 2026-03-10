@@ -1,0 +1,25 @@
+Company: Zhongchao Inc. Class A Ordinary Shares
+Ticker: ZCMD
+Market Cap: 6227673
+Enterprise Value: -6194155
+Total Revenue: 13117523
+Revenue Per Share: 6.329
+EBITDA: -875820
+Gross Margins: 0.52486
+Operating Margins: -0.15701
+Profit Margins: -0.12949
+Free Cashflow: -1019282
+Operating Cashflow: -461960
+Return On Assets: -0.02901
+Return On Equity: -0.059310004
+Total Cash: 15033534
+Total Debt: 27588
+Debt To Equity: 0.116
+Current Ratio: 8.154
+Quick Ratio: 7.892
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.25367993
+Beta: -0.027
+52 Week High: 12.24
+52 Week Low: 1.45

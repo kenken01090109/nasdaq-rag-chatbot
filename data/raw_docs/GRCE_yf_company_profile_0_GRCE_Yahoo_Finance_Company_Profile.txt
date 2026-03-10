@@ -1,0 +1,9 @@
+Company: Grace Therapeutics Inc. Common Stock
+Ticker: GRCE
+Sector: Healthcare
+Industry: Biotechnology
+Country: United States
+City: Princeton
+Website: https://www.gracetx.com
+Employees: 6
+Business Summary: Grace Therapeutics, Inc. engages in the development and commercialization of pharmaceutical products for rare and orphan diseases in Canada. The company's lead product candidate is the GTX-104, an intravenous infusion to treat subarachnoid hemorrhage. It also develops GTX-102, an oral mucosal spray of betamethasone to improve neurological symptoms of Ataxia-Telangiectasia (A-T) and GTX-101, a topical bioadhesive film-forming polymer for the treatment of pain associated with postherpetic neuralgia (PHN). The company was formerly known as Acasti Pharma Inc. and changed its name to Grace Therapeutics, Inc. in October 2024. Grace Therapeutics, Inc. was incorporated in 2002 and is headquartered in Princeton, New Jersey.

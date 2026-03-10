@@ -1,0 +1,11 @@
+Company: Arcturus Therapeutics Holdings Inc. Common Stock
+Ticker: ARCT
+CIK: 0001768224
+Latest SEC XBRL Facts:
+RevenueFromContractWithCustomerExcludingAssessedTax: 74835000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetIncomeLoss: -36704000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Assets: 282343000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+Liabilities: 57784000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+StockholdersEquity: 224559000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -58044000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 180360000 | unit=USD | filed=2025-11-12 | period_end=2025-09-30

@@ -1,0 +1,25 @@
+Company: Gorilla Technology Group Inc. Warrant
+Ticker: GRRRW
+Market Cap: 
+Enterprise Value: 
+Total Revenue: 99747680
+Revenue Per Share: 5.251
+EBITDA: -33856440
+Gross Margins: 0.33539
+Operating Margins: 0.14598
+Profit Margins: -0.67326
+Free Cashflow: -41993872
+Operating Cashflow: -34843584
+Return On Assets: -0.10328
+Return On Equity: -0.49495
+Total Cash: 110155136
+Total Debt: 15939240
+Debt To Equity: 8.04
+Current Ratio: 3.644
+Quick Ratio: 3.238
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.038259037
+Beta: -0.575
+52 Week High: 0.3408
+52 Week Low: 0.2631

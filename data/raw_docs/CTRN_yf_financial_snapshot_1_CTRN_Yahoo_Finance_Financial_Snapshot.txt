@@ -1,0 +1,25 @@
+Company: Citi Trends Inc. Common Stock
+Ticker: CTRN
+Market Cap: 388972576
+Enterprise Value: 540340928
+Total Revenue: 800740992
+Revenue Per Share: 98.763
+EBITDA: 12968000
+Gross Margins: 0.39308
+Operating Margins: -0.03726
+Profit Margins: -0.02046
+Free Cashflow: 30838500
+Operating Cashflow: 29966000
+Return On Assets: -0.0068
+Return On Equity: -0.13762
+Total Cash: 51098000
+Total Debt: 218038000
+Debt To Equity: 202.205
+Current Ratio: 1.068
+Quick Ratio: 0.292
+Trailing PE: 
+Forward PE: 53.268574
+Price To Book: 3.4434102
+Beta: 2.065
+52 Week High: 49.5
+52 Week Low: 16.82

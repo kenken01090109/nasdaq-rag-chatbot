@@ -1,0 +1,11 @@
+Company: LCNB Corporation Common Stock
+Ticker: LCNB
+CIK: 0001074902
+Latest SEC XBRL Facts:
+Revenues: 2639000 | unit=USD | filed=2014-08-06 | period_end=2014-06-30
+NetIncomeLoss: 17464000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Assets: 2244365000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+Liabilities: 1974495000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+StockholdersEquity: 269870000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 21656000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 35865000 | unit=USD | filed=2025-11-05 | period_end=2025-09-30

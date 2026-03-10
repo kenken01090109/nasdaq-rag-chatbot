@@ -1,0 +1,25 @@
+Company: NXP Semiconductors N.V. Common Stock
+Ticker: NXPI
+Market Cap: 50978254848
+Enterprise Value: 62851059712
+Total Revenue: 12268999680
+Revenue Per Share: 48.551
+EBITDA: 4052999936
+Gross Margins: 0.55382997
+Operating Margins: 0.26297
+Profit Margins: 0.16472
+Free Cashflow: 1881750016
+Operating Cashflow: 2820000000
+Return On Assets: 0.08009
+Return On Equity: 0.20698999
+Total Cash: 3267000064
+Total Debt: 12510999552
+Debt To Equity: 119.711
+Current Ratio: 2.046
+Quick Ratio: 1.148
+Trailing PE: 25.344221
+Forward PE: 12.032528
+Price To Book: 5.072668
+Beta: 1.44
+52 Week High: 256.36
+52 Week Low: 148.09

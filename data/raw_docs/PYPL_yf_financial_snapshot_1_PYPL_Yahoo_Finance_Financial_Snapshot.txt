@@ -1,0 +1,25 @@
+Company: PayPal Holdings Inc. Common Stock
+Ticker: PYPL
+Market Cap: 43947573248
+Enterprise Value: 45734457344
+Total Revenue: 33172000768
+Revenue Per Share: 34.59
+EBITDA: 6648999936
+Gross Margins: 0.41484
+Operating Margins: 0.17485
+Profit Margins: 0.15775
+Free Cashflow: 3274249984
+Operating Cashflow: 6416000000
+Return On Assets: 0.048800003
+Return On Equity: 0.25732002
+Total Cash: 10421999616
+Total Debt: 12295999488
+Debt To Equity: 60.703
+Current Ratio: 1.287
+Quick Ratio: 0.245
+Trailing PE: 8.682071
+Forward PE: 8.09211
+Price To Book: 2.1333516
+Beta: 1.459
+52 Week High: 79.5
+52 Week Low: 38.46

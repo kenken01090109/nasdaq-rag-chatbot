@@ -1,0 +1,10 @@
+Company: MIRA Pharmaceuticals Inc. Common Stock
+Ticker: MIRA
+CIK: 0001904286
+Latest SEC XBRL Facts:
+NetIncomeLoss: -4459164 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Assets: 7633280 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+Liabilities: 83926 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+StockholdersEquity: 7549354 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: -3526632 | unit=USD | filed=2025-11-13 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 2641539 | unit=USD | filed=2025-11-13 | period_end=2025-09-30

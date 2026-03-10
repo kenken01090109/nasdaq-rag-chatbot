@@ -1,0 +1,12 @@
+Company: Zscaler Inc. Common Stock
+Ticker: ZS
+CIK: 0001713683
+Latest SEC XBRL Facts:
+Revenues: 1070000000 | unit=USD | filed=2018-06-07 | period_end=2018-04-30
+RevenueFromContractWithCustomerExcludingAssessedTax: 1603863000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+NetIncomeLoss: -45927000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+Assets: 6753828000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+Liabilities: 4557880000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+StockholdersEquity: 2195948000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+NetCashProvidedByUsedInOperatingActivities: 652353000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31
+CashAndCashEquivalentsAtCarryingValue: 1202751000 | unit=USD | filed=2026-02-26 | period_end=2026-01-31

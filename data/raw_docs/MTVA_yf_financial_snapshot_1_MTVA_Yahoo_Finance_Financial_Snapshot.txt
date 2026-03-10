@@ -1,0 +1,25 @@
+Company: MetaVia Inc. Common Stock
+Ticker: MTVA
+Market Cap: 5138504
+Enterprise Value: -10703861
+Total Revenue: 
+Revenue Per Share: 
+EBITDA: -17228000
+Gross Margins: 0.0
+Operating Margins: 0.0
+Profit Margins: 0.0
+Free Cashflow: -11055375
+Operating Cashflow: -16310000
+Return On Assets: -0.58407
+Return On Equity: -1.68181
+Total Cash: 14283000
+Total Debt: 79000
+Debt To Equity: 1.248
+Current Ratio: 1.737
+Quick Ratio: 1.694
+Trailing PE: 
+Forward PE: 
+Price To Book: 0.538943
+Beta: 0.296
+52 Week High: 23.1
+52 Week Low: 1.43

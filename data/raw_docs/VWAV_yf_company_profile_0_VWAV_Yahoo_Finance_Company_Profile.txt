@@ -1,0 +1,9 @@
+Company: VisionWave Holdings Inc. Common Stock
+Ticker: VWAV
+Sector: Industrials
+Industry: Aerospace & Defense
+Country: United States
+City: Wilmington
+Website: https://www.visionwave.tech
+Employees: 12
+Business Summary: VisionWave Holdings, Inc. engages in revolutionizing defence capabilities by integrating artificial intelligence (AI) and autonomous solutions across air, ground, and sea domains. The company focuses on radars, vision systems, and radio frequency sensing technologies. It serves military and homeland security sectors worldwide. The company was incorporated in 2024 and is based in Wilmington, Delaware.

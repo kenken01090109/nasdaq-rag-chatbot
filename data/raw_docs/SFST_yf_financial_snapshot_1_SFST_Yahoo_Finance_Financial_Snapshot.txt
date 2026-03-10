@@ -1,0 +1,25 @@
+Company: Southern First Bancshares Inc. Common Stock
+Ticker: SFST
+Market Cap: 431808640
+Enterprise Value: 460139584
+Total Revenue: 115139000
+Revenue Per Share: 14.23
+EBITDA: 
+Gross Margins: 0.0
+Operating Margins: 0.4413
+Profit Margins: 0.26373
+Free Cashflow: 
+Operating Cashflow: 30457000
+Return On Assets: 0.00715
+Return On Equity: 0.08687
+Total Cash: 268817984
+Total Debt: 286612992
+Debt To Equity: 
+Current Ratio: 
+Quick Ratio: 
+Trailing PE: 14.10215
+Forward PE: 8.196875
+Price To Book: 1.1687646
+Beta: 0.747
+52 Week High: 62.0
+52 Week Low: 29.14

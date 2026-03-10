@@ -1,0 +1,10 @@
+Company: Western New England Bancorp Inc. Common Stock
+Ticker: WNEB
+CIK: 0001157647
+Latest SEC XBRL Facts:
+NetIncomeLoss: 10060000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Assets: 2735530000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+Liabilities: 2491890000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+StockholdersEquity: 243640000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+NetCashProvidedByUsedInOperatingActivities: 11155000 | unit=USD | filed=2025-11-07 | period_end=2025-09-30
+CashAndCashEquivalentsAtCarryingValue: 28418000 | unit=USD | filed=2013-11-12 | period_end=2013-09-30

@@ -1,0 +1,9 @@
+Company: Resources Connection Inc. Common Stock
+Ticker: RGP
+Sector: Industrials
+Industry: Consulting Services
+Country: United States
+City: Dallas
+Website: https://rgp.com
+Employees: 632
+Business Summary: Resources Connection, Inc. engages in the provision of consulting services to business customers under the Resources Global Professionals (RGP) name in North America, the Asia Pacific, and Europe. The company operates through On-Demand Talent, Consulting, Europe & Asia Pacific, Outsourced Services, and Sitrick segments. Its On-Demand Talent segment includes experts for filling resource gaps. Its Consulting segments offers accounting and finance, technology and digital, risk and compliance, and supply chain transformation services. The company's Outsourced Services segments provides finance, accounting, and human resources services provided to startups, spinouts, and scale-up enterprises. Its Sitrick segment offers a crisis communications and public relations firm that provides corporate, financial, transactional, and crisis communication and management services. The company also provides human resources, information technology, payroll, and legal and real estate support services. In addition, it offers services in the areas of transactions, including integration and divestitures, bankruptcy/restructuring, going public readiness and support, financial process optimization, and system implementation; and regulations, such as accounting regulations, internal audit and compliance, data privacy and security, healthcare compliance, and regulatory compliance. Further, the company provides transformations services comprising cloud migration, and data design and analytics. The company was formerly known as RC Transaction Corp. and changed its name to Resources Connection, Inc. in August 2000. Resources Connection, Inc. was founded in 1996 and is headquartered in Dallas, Texas.
